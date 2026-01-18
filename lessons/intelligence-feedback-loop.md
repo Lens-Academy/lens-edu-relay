@@ -19,7 +19,7 @@ to:: "quickly go sideways."
 showUserPreviousContent:: true
 showTutorPreviousContent:: true
 instructions::
-The user just read about the intelligence feedback loop and recursive self-improvement.Check their understanding of the core dynamics: why intelligence makes it easier to create more intelligence, and the implications for AI development timelines.
+The user just read about the intelligence feedback loop and recursive self-improvement. Check their understanding of the core dynamics: why intelligence makes it easier to create more intelligence, and the implications for AI development timelines.
 
 # Article: Takeoff Speeds
 source:: [[articles/paul-christiano-takeoff-speeds]]
@@ -30,9 +30,7 @@ source:: [[articles/paul-christiano-takeoff-speeds]]
 showUserPreviousContent:: false
 showTutorPreviousContent:: true
 instructions::
-The user has now read Paul Christiano's perspective on recursive self-improvement
-and takeoff speeds. Compare this "slow takeoff" view with the previous readings.
-Help them understand the key disagreements about how quickly AI capabilities might advance.
+The user has now read Paul Christiano's perspective on recursive self-improvement and takeoff speeds. Compare this "slow takeoff" view with the previous readings. Help them understand the key disagreements about how quickly AI capabilities might advance.
 
 # Video: A.I. - Humanity's Final Invention (Optional)
 source:: [[video_transcripts/fa8k8IQ1_X0_A.I._‐_Humanity's_Final_Invention]]
