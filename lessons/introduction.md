@@ -66,7 +66,7 @@ Ask what they found surprising or new. Check if they can explain instrumental
 convergence in their own words—it's a key concept.
 
 # Video: 10 Reasons to Ignore AI Safety
-source:: [[video_transcripts/9i1WlcCudpU_10_Reasons_to_Ignore_AI_Safety]]
+source:: [[video_transcripts/robertmiles-10-reasons-to-ignore-ai-safety]]
 
 ## Video-excerpt
 from:: 0:00
