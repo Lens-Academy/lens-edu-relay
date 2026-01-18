@@ -33,7 +33,7 @@ instructions::
 The user has now read Paul Christiano's perspective on recursive self-improvement and takeoff speeds. Compare this "slow takeoff" view with the previous readings. Help them understand the key disagreements about how quickly AI capabilities might advance.
 
 # Video: A.I. - Humanity's Final Invention (Optional)
-source:: [[video_transcripts/fa8k8IQ1_X0_A.I._‐_Humanity's_Final_Invention]]
+source:: [[video_transcripts/kurzgesagt-ai-humanitys-final-invention]]
 optional:: true
 
 ## Video-excerpt
