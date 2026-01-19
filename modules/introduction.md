@@ -2,16 +2,12 @@
 slug: introduction
 title: Introduction
 ---
-
-# Video: A.I. - Humanity's Final Invention
-source:: [[video_transcripts/kurzgesagt-ai-humanitys-final-invention]]
-
-## Text
+# Text
 content::
-Wee begins by examining the potential of AI and the risks and opportunities that the characteristics of this technology present to humanity.s
-
+We begin by examining the potential of AI and the risks and opportunities that the characteristics of this technology present to humanity.
+# Video: A.I. - Humanity's Final Invention
+source:: [[../video_transcripts/kurzgesagt-ai-humanitys-final-invention]]
 ## Video-excerpt
-from:: 0:00
 
 # Chat: Discussion on AI Basics
 showUserPreviousContent:: true
@@ -36,7 +32,7 @@ check their understanding of these concepts. Don't lecture—help them articulat
 their own thinking.
 
 # Article: Existential Risk from AI
-source:: [[articles/wikipedia-existential-risk-from-ai]]
+source:: [[../articles/wikipedia-existential-risk-from-ai]]
 
 ## Text
 content::
@@ -67,7 +63,7 @@ Ask what they found surprising or new. Check if they can explain instrumental
 convergence in their own words—it's a key concept.
 
 # Video: 10 Reasons to Ignore AI Safety
-source:: [[video_transcripts/robertmiles-10-reasons-to-ignore-ai-safety]]
+source:: [[../video_transcripts/robertmiles-10-reasons-to-ignore-ai-safety]]
 
 ## Video-excerpt
 from:: 0:00
@@ -94,7 +90,7 @@ This is a good stage to surface any remaining skepticism they have. Engage with
 their doubts constructively rather than dismissing them.
 
 # Article: Four Background Claims (Optional)
-source:: [[articles/nate-soares-four-background-claims]]
+source:: [[../articles/nate-soares-four-background-claims]]
 optional:: true
 
 ## Text
@@ -104,7 +100,7 @@ This text explains exactly how the emergence of AI smarter than humans could bec
 ## Article-excerpt
 
 # Article: Worst-Case Thinking (Optional)
-source:: [[articles/buck-worst-case-thinking-in-ai-alignment]]
+source:: [[../articles/buck-worst-case-thinking-in-ai-alignment]]
 optional:: true
 
 ## Text

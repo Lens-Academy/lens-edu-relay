@@ -4,6 +4,6 @@ title: Coming soon!
 ---
 
 # Article: Coming Soon
-source:: [[articles/coming-soon]]
+source:: [[../articles/coming-soon]]
 
 ## Article-excerpt
