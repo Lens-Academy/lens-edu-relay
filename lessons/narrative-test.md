@@ -10,7 +10,7 @@ source:: [[video_transcripts/kurzgesagt-ai-humanitys-final-invention]]
 content::
 !# Welcome to AI Safety
 
-We begin by examining the potential of AI and the risks and opportunities
+We beginss by examining the potential of AI and the risks and opportunities
 that the characteristics of this technology present to humanity.
 
 Watch this video from Kurzgesagt to understand why artificial intelligence
