@@ -9,6 +9,9 @@ We begin by examining the potential of AI and the risks and opportunities that t
 source:: [[../video_transcripts/kurzgesagt-ai-humanitys-final-invention]]
 ## Video-excerpt
 
+## Text
+content::
+What sur
 ## Chat: Discussion on AI Basics
 showUserPreviousContent:: true
 showTutorPreviousContent:: true
