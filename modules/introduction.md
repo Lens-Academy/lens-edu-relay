@@ -8,7 +8,7 @@ We begin by examining the potential of AI and the risks and opportunities that t
 # Video: A.I. - Humanity's Final Invention
 source:: [[../video_transcripts/kurzgesagt-ai-humanitys-final-invention]]
 ## Video-excerpt
-from:: 0:00
+
 # Chat: Discussion on AI Basics
 showUserPreviousContent:: true
 showTutorPreviousContent:: true
