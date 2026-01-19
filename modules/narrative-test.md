@@ -10,7 +10,7 @@ content::
 We begin by examining the potential of AI and the risks and opportunities
 that the characteristics of this technology present to humanity.
 # Video: A.I. - Humanity's Final Invention
-source:: [[video_transcripts/kurzgesagt-ai-humanitys-final-invention]]
+source:: [[../video_transcripts/kurzgesagt-ai-humanitys-final-invention]]
 
 ## Text
 content::
@@ -71,7 +71,7 @@ Check if they understand why speed of improvement matters. Ask them to explain
 the intelligence explosion concept in their own words.
 
 # Article: Understanding Existential Risk from AI
-source:: [[articles/wikipedia-existential-risk-from-ai]]
+source:: [[../articles/wikipedia-existential-risk-from-ai]]
 
 ## Text
 content::
