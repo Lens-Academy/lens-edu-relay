@@ -79,7 +79,7 @@ to:: 14:48
 
 ## Text
 content::
-
+Which objection did you find most compelling?
 ## Chat: Discussion on Objections
 showUserPreviousContent:: true
 showTutorPreviousContent:: true
