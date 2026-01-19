@@ -32,7 +32,7 @@ Check their understanding of why AI safety matters.
 
 # Video: Intro to AI Safety
 source:: [[../video_transcripts/pYXy-A4siMw_Intro_to_AI_Safety,_Remastered]]
-[[remaste]]
+[[../video_transcripts/robertmiles-intro-to-ai-safety-remastered]]
 ## Text
 content::
 This video from Robert Miles provides a visual introduction to the core concepts of AI safety. Pay attention to the examples used to illustrate potential risks.
