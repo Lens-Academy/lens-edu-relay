@@ -68,7 +68,7 @@ Discussion topics to explore:
 Ask what they found surprising or new. Check if they can explain instrumental
 convergence in their own words—it's a key concept.
 
-The user has just answered the following question: 
+The user has just answered the following question: "In your own words, what is instrumental convergence?"
 
 # Video: 10 Reasons to Ignore AI Safety
 source:: [[../video_transcripts/robertmiles-10-reasons-to-ignore-ai-safety]]
@@ -76,6 +76,9 @@ source:: [[../video_transcripts/robertmiles-10-reasons-to-ignore-ai-safety]]
 ## Video-excerpt
 from:: 0:00
 to:: 14:48
+
+## Text
+content::
 
 ## Chat: Discussion on Objections
 showUserPreviousContent:: true
