@@ -9,7 +9,7 @@ We begin by examining the potential of AI and the risks and opportunities that t
 source:: [[../video_transcripts/kurzgesagt-ai-humanitys-final-invention]]
 ## Video-excerpt
 
-# Chat: Discussion on AI Basics
+## Chat: Discussion on AI Basics
 showUserPreviousContent:: true
 showTutorPreviousContent:: true
 
@@ -27,8 +27,7 @@ Discussion topics to explore:
 - What's the difference between narrow AI (like ChatGPT) and AGI?
 - How could an "intelligence explosion" happen through recursive self-improvement?
 
-Use Socratic questioning to
-check their understanding of these concepts. Don't lecture—help them articulate their own thinking.
+Use Socratic questioning to check their understanding of these concepts. Don't lecture—help them articulate their own thinking.
 
 # Article: Existential Risk from AI
 source:: [[../articles/wikipedia-existential-risk-from-ai]]
