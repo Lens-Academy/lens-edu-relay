@@ -11,7 +11,7 @@ source:: [[../video_transcripts/kurzgesagt-ai-humanitys-final-invention]]
 
 ## Text
 content::
-What surprised you or stood out to you while watching this vi
+What surprised you or stood out to you while watching this video?
 ## Chat: Discussion on AI Basics
 showUserPreviousContent:: true
 showTutorPreviousContent:: true
@@ -31,6 +31,8 @@ Discussion topics to explore:
 - How could an "intelligence explosion" happen through recursive self-improvement?
 
 Use Socratic questioning to check their understanding of these concepts. Don't lecture—help them articulate their own thinking.
+
+The user has just answered the following question: "What surprised you or stood out to you while watching this video?"
 
 # Article: Existential Risk from AI
 source:: [[../articles/wikipedia-existential-risk-from-ai]]
