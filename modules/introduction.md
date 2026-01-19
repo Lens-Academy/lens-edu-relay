@@ -11,7 +11,7 @@ source:: [[../video_transcripts/kurzgesagt-ai-humanitys-final-invention]]
 
 ## Text
 content::
-What sur
+What surprised you or stood out to you while watching this vi
 ## Chat: Discussion on AI Basics
 showUserPreviousContent:: true
 showTutorPreviousContent:: true
