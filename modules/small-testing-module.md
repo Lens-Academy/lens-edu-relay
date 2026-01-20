@@ -1,5 +1,5 @@
 ---
-slug: article-review
+slug: manual-test-module
 title: Article Review (All Extracted Articles)
 ---
 
