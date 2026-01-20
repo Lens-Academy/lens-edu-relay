@@ -1,10 +1,10 @@
 ---
 slug: manual-test-module
-title: Article Review (All Extracted Articles)
+title: Manual testing
 ---
 
 # Article: Most Important Century
-source:: [[../articles/karnofsky-most-important-century]]
+source:: [[../articles
 ## Article-excerpt
 
 # Article: Four Background Claims
@@ -42,3 +42,4 @@ source:: [[../articles/muehlhauser-salamon-intelligence-explosion]]
 optional:: true
 
 ## Article-excerpt
+		
