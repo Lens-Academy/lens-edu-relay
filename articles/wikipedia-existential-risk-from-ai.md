@@ -273,8 +273,7 @@ The same month, another study found that [Claude](https://en.wikipedia.org/wiki/
 
 ## Perspectives
 
-Hello
--
+
 
 
 
