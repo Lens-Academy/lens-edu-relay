@@ -11,7 +11,7 @@ source:: [[../video_transcripts/kurzgesagt-ai-humanitys-final-invention]]
 
 ## Text
 content::
-Let's watch th
+Let's watch this Kurzgesagt video:
 ## Video-excerpt
 
 ## Text
