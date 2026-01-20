@@ -6,3 +6,13 @@ title: Manual testing
 # Article: Most Important Century
 source:: [[../articles/lens-header-test]]
 ## Article-excerpt
+
+# Article: Existential Risk from AI
+source:: [[]]
+
+## Article-excerpt
+
+# Article: Existential Risk from AI
+source:: [[../articles/wikipedia-existential-risk-from-ai]]
+
+## Article-excerpt
