@@ -262,10 +262,7 @@ See also: [Ethics of artificial intelligence](https://en.wikipedia.org/wiki/Ethi
 
 Bostrom and others have said that a race to be the first to create AGI could lead to shortcuts in safety, or even to violent conflict.<sup>[[107]](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence#cite_note-:2-109)</sup><sup>[[108]](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence#cite_note-:4-110)</sup>[Roman Yampolskiy](https://en.wikipedia.org/wiki/Roman_Yampolskiy "Roman Yampolskiy") and others warn that a malevolent AGI could be created by design, for example by a military, a government, a sociopath, or a corporation, to benefit from, control, or subjugate certain groups of people, as in [cybercrime](https://en.wikipedia.org/wiki/Cybercrime "Cybercrime"),<sup>[[109]](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence#cite_note-111)</sup><sup>[[110]](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence#cite_note-112)</sup> or that a malevolent AGI could choose the goal of increasing human suffering, for example of those people who did not assist it during the information explosion phase.<sup>[[3]](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence#cite_note-auto1-3)</sup>:158 A report by the research group Forethought argued that advanced AI systems could cause political instability by enabling novel methods of performing [coups](https://en.wikipedia.org/wiki/Coup_d%27%C3%A9tat "Coup d'état").<sup>[[111]](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence#cite_note-113)</sup>
 
-Empirical research
-------------------
-
-
+## Empirical research
 
 A December 2024 study by Apollo Research found that advanced LLMs like [OpenAI o1](https://en.wikipedia.org/wiki/OpenAI_o1 "OpenAI o1") sometimes deceive in order to accomplish their goal, to prevent them from being changed, or to ensure their deployment. Forms of deception observed in the experimental environment and scenarios included sandbagging, oversight subversion (disabling monitoring mechanisms), self-exfiltration (copying themselves to other systems), goal-guarding (altering future system prompts), and covert email reranking (manipulating data processing while appearing to follow instructions). Researchers noted that OpenAI o1 still lacked "sufficient agentic capabilities" to cause catastrophic harm, and that such behaviors occurred relatively rarely (between 0.3% and 10%) and sometimes in contrived scenarios. But they warned that these capabilities will likely become more prevalent as models grow more advanced. According to Apollo Research CEO Marius Hobbhahn, "Scheming capabilities can't be meaningfully disentangled from general capabilities."<sup>[[112]](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence#cite_note-114)</sup>
 
@@ -328,9 +325,7 @@ An April 2023 [YouGov](https://en.wikipedia.org/wiki/YouGov "YouGov") poll of US
 
 According to an August 2023 survey by the Pew Research Centers, 52% of Americans felt more concerned than excited about new AI developments; nearly a third felt as equally concerned and excited. More Americans saw that AI would have a more helpful than hurtful impact on several areas, from healthcare and vehicle safety to product search and customer service. The main exception is privacy: 53% of Americans believe AI will lead to higher exposure of their personal information.<sup>[[146]](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence#cite_note-148)</sup>
 
-Mitigation
-----------
-
+## Mitigation
 
 
 See also: [AI alignment](https://en.wikipedia.org/wiki/AI_alignment "AI alignment"), [Machine ethics](https://en.wikipedia.org/wiki/Machine_ethics "Machine ethics"), [Friendly artificial intelligence](https://en.wikipedia.org/wiki/Friendly_artificial_intelligence "Friendly artificial intelligence"), and [Regulation of artificial intelligence](https://en.wikipedia.org/wiki/Regulation_of_artificial_intelligence "Regulation of artificial intelligence")
