@@ -364,8 +364,8 @@ In July 2023, the US government secured voluntary safety commitments from major 
 
 In October 2023, U.S. President [Joe Biden](https://en.wikipedia.org/wiki/Joe_Biden "Joe Biden") issued an executive order on the "[Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence](https://en.wikipedia.org/wiki/Executive_Order_14110 "Executive Order 14110")".<sup>[[180]](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence#cite_note-182)</sup> Alongside other requirements, the order mandates the development of guidelines for AI models that permit the "evasion of human control".
 
-See also
---------
+## See also
+
 
 
 *   [Appeal to probability](https://en.wikipedia.org/wiki/Appeal_to_probability "Appeal to probability")
@@ -379,8 +379,8 @@ See also
 *[System accident](https://en.wikipedia.org/wiki/System_accident "System accident")*   [Technological singularity](https://en.wikipedia.org/wiki/Technological_singularity "Technological singularity")
 *   [AI takeover](https://en.wikipedia.org/wiki/AI_takeover "AI takeover")
 
-Notes
------
+## Notes
+
 
 
 
