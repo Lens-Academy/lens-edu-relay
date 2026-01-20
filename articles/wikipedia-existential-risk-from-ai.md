@@ -148,8 +148,7 @@ Companies, state actors, and other organizations competing to develop AI technol
 
 AI could be used to gain military advantages via [autonomous lethal weapons](https://en.wikipedia.org/wiki/Lethal_autonomous_weapon "Lethal autonomous weapon"), [cyberwarfare](https://en.wikipedia.org/wiki/Cyberwarfare "Cyberwarfare"), or [automated decision-making](https://en.wikipedia.org/wiki/Automated_decision-making "Automated decision-making").<sup>[[60]](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence#cite_note-:03-61)</sup> As an example of autonomous lethal weapons, miniaturized drones could facilitate low-cost assassination of military or civilian targets, a scenario highlighted in the 2017 short film _[Slaughterbots](https://en.wikipedia.org/wiki/Slaughterbots "Slaughterbots")_.<sup>[[68]](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence#cite_note-69)</sup> AI could be used to gain an edge in decision-making by quickly analyzing large amounts of data and making decisions more quickly and effectively than humans. This could increase the speed and unpredictability of war, especially when accounting for automated retaliation systems.<sup>[[60]](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence#cite_note-:03-61)</sup><sup>[[69]](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence#cite_note-70)</sup>
 
-Types of existential risk
--------------------------
+## Types of existential risk
 
 
 
@@ -171,9 +170,7 @@ AI may also drastically improve humanity's future. [Toby Ord](https://en.wikiped
 
 According to Bostrom, superintelligence could help reduce the existential risk from other powerful technologies such as [molecular nanotechnology](https://en.wikipedia.org/wiki/Molecular_nanotechnology "Molecular nanotechnology") or [synthetic biology](https://en.wikipedia.org/wiki/Synthetic_biology "Synthetic biology"). It is thus conceivable that developing superintelligence before other dangerous technologies would reduce the overall existential risk.<sup>[[7]](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence#cite_note-superintelligence-7)</sup>
 
-AI alignment
-------------
-
+## AI alignment
 
 
 Further information: [AI alignment](https://en.wikipedia.org/wiki/AI_alignment "AI alignment")
