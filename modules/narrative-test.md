@@ -84,7 +84,7 @@ similar tasks for other technologies.
 
 ## Article-excerpt
 from:: "**Existential risk from artificial intelligence**"
-to:: "improve their fundamental architecture."
+to:: "may not particularly value humans by default."
 
 ## Text
 content::
