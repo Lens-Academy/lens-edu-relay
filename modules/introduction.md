@@ -7,7 +7,8 @@ content::
 We begin by examining the potential of AI and the risks and opportunities that the characteristics of this technology present to humanity. 
 
 
-[]
+> [!example] Hello
+> ![[]]
 
 ![[../Sections/A.I. - Humanity's Final Invention]]
 
