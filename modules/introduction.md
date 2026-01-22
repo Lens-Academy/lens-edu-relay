@@ -8,7 +8,7 @@ We begin by examining the potential of AI and the risks and opportunities that t
 
 
 > [!example] Hello
-> ![[]]
+> ![[../Sections/10 reasons|10 reasons]]
 
 ![[../Sections/A.I. - Humanity's Final Invention]]
 
