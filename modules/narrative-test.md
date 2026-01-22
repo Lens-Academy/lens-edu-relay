@@ -151,7 +151,11 @@ Help them understand why these technical properties have such large implications
 
 ## Article-excerpt
 from:: "In this post and"
-to:: "powerful generally intelligent "
+to:: "powerful generally intelligent AI systems."
+
+
+## Article-excerpt
+from
 
 # Text: Summary
 content::
