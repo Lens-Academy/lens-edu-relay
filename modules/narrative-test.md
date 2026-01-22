@@ -156,7 +156,7 @@ to:: "powerful generally intelligent AI systems."
 
 ## Article-excerpt
 from: "## Claim #2"
-to:: "In other word"
+to:: "In other words, AI matters."
 
 # Text: Summary
 content::
