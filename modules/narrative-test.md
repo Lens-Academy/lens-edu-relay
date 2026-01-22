@@ -163,8 +163,6 @@ to:: "cure for cancer."
 
 # Text: Summary
 content::
-!# Summary
-
 **Key takeaways from this lesson:**
 
 1. **Intelligence is power** - Humans dominate Earth because of general intelligence
