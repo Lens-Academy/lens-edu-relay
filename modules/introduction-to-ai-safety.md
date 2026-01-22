@@ -27,7 +27,6 @@ The video describes how humans dominate Earth because of our general
 intelligence. It also explains the difference between narrow AI and AGI. In your own words, what is the difference between narrow and general intelligence?
 
 ## Chat
-showUserPreviousContent:: true
 instructions::
 TLDR of what the user just watched:
 Humans dominate Earth because general intelligence enabled cumulative knowledge.
@@ -51,8 +50,6 @@ The video introduces the concept of an **intelligence explosion** - a rapid,
 recursive cycle of AI self-improvement that could outpace human oversight.
 
 ## Chat
-showUserPreviousContent:: true
-showTutorPreviousContent:: true
 instructions::
 The user just watched the second half of the video about AI risks.
 
