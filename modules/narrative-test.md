@@ -160,7 +160,7 @@ to:: "In other words, AI matters."
 
 ## Text
 content::
-And another bit of the arti
+And another bit of the article:
 ## Article-excerpt
 from:: "Humans use their intelligence"
 to:: "cure for cancer."
