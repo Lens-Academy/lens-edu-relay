@@ -23,8 +23,6 @@ from:: "build powerful generally intelligent AI systems."
 to:: "AI matters."
 
 # Chat: Initial Discussion
-showUserPreviousContent:: true
-showTutorPreviousContent:: true
 instructions::
 The user just read an introduction to AI Safety.
 Ask them what they found most surprising or what questions they have.
@@ -42,8 +40,6 @@ from:: 1:00
 to:: 2:00
 
 # Chat: Video Quiz
-showUserPreviousContent:: true
-showTutorPreviousContent:: true
 instructions::
 The user just watched a video clip about AI safety.
 Quiz them on the key points without providing hints - test their recall.
