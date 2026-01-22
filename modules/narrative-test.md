@@ -147,6 +147,7 @@ Discussion topics:
 
 Help them understand why these technical properties have such large implications.
 
+# Article
 
 # Text: Summary
 content::
