@@ -154,7 +154,7 @@ from:: "In this post and"
 to:: "powerful generally intelligent AI systems."
 
 ## Article-excerpt
-from: "## Claim #2"
+from:: "## Claim #2"
 to:: "In other words, AI matters."
 
 ## Article-excerpt
