@@ -125,9 +125,6 @@ Alan Turing to Stephen Hawking have considered these questions.
 from:: "### General Intelligence"
 to:: "evasion of human control"
 
-## Article-excerpt
-from:: "### General Intelligence"
-to:: "evasion of human control"
 ## Text
 content::
 Please have a chat with the AI Tutor about the article you just read:
@@ -160,6 +157,12 @@ to:: "powerful generally intelligent AI systems."
 ## Article-excerpt
 from: "## Claim #2"
 to:: "In other words, AI matters."
+
+
+## Article-excerpt
+from:: "### General Intelligence"
+to:: "evasion of human control"
+
 
 # Text: Summary
 content::
