@@ -160,7 +160,7 @@ to:: "In other words, AI matters."
 
 
 ## Article-excerpt
-from:: "### General Intelligence"
+from:: "Humans use their intelligence"
 to:: "evasion of human control"
 
 
