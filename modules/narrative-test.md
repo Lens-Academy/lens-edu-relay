@@ -125,6 +125,9 @@ Alan Turing to Stephen Hawking have considered these questions.
 from:: "### General Intelligence"
 to:: "evasion of human control"
 
+## Article-excerpt
+from:: "### General Intelligence"
+to:: "evasion of human control"
 ## Text
 content::
 Please have a chat with the AI Tutor about the article you just read:
