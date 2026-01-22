@@ -85,7 +85,6 @@ content::
 - Many leading AI researchers take this risk seriously
 
 ## Chat
-showUserPreviousContent:: true
 instructions::
 The user just read the introduction to AI existential risk from Wikipedia.
 
