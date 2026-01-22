@@ -18,7 +18,6 @@ Please watch this Kurzgesagt video:
 content::
 What surprised you or stood out to you while watching this video?
 ## Chat: Discussion on AI Basics
-
 instructions::
 TLDR of what the user just watched:
 Humans dominate Earth because general intelligence enabled cumulative knowledge. Modern AI evolved from narrow tools into opaque "black box" learning systems. AGI matters because digital minds can run faster, scale, and be copied—potentially outcompeting humans and concentrating power. An intelligence explosion could lead to superintelligence with uncertain outcomes.
@@ -46,8 +45,6 @@ We continue with an overview of the main concepts regarding AI as a source of ex
 content::
 In your own words, what is instrumental convergence?
 ## Chat: Discussion on X-Risk
-showUserPreviousContent:: true
-showTutorPreviousContent:: true
 instructions::
 TLDR of what the user just read:
 AI x-risk is the hypothesis that AGI/superintelligence could cause human extinction
@@ -80,8 +77,6 @@ to:: 14:48
 content::
 Which objection stood out most to you?
 ## Chat: Discussion on Objections
-showUserPreviousContent:: true
-showTutorPreviousContent:: true
 instructions::
 TLDR of what the user just watched:
 The video presents 10 common objections to AI safety concerns and refutes each one. Key rebuttals include: instrumental convergence explains why "just don't add bad goals" fails; implicit goals make systems LESS safe; the "asteroid analogy" shows why early preparation matters; being "for AI safety" is not the same as being "against AI."
