@@ -152,7 +152,7 @@ source:: [[../articles/nate-soares-four-background-claims]]
 
 ## Article-excerpt
 from:: "In this post and"
-to:: "powerful generally intelligent AI systems."
+to:: "replic."
 
 ## Article-excerpt
 from:: "## Claim #2"
