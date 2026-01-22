@@ -15,8 +15,6 @@ from:: "## The long-run future could come much faster than we think"
 to:: "quickly go sideways."
 
 # Chat: Discussion on Feedback Loop
-showUserPreviousContent:: true
-showTutorPreviousContent:: true
 instructions::
 The user just read about the intelligence feedback loop and recursive self-improvement. Check their understanding of the core dynamics: why intelligence makes it easier to create more intelligence, and the implications for AI development timelines.
 
