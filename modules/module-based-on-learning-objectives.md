@@ -14,8 +14,8 @@ We begin by examining the potential of AI and the risks and opportunities that t
 ![[../Sections/Wikipedia Existential Risk]]
 
 
+![[../Learning Objectives/Objections L1 - Realize objections and rebuttals exist|Objections L1 - Realize objections and rebuttals exist]]
 
-![[../Sections/10 reasons]]
 
 
 
