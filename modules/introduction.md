@@ -14,14 +14,9 @@ We begin by examining the potential of AI and the risks and opportunities that t
 ![[../Sections/Wikipedia Existential Risk]]
 
 
+[[../../_/temp|temp]]
 
-![[../Sections/10 reasons]]
-
-
-
-![[../../_/
-Temp1|Temp1]]
-
+[[l]]
 
 # Article: Four Background Claims (Optional)
 source:: [[../articles/nate-soares-four-background-claims]]
