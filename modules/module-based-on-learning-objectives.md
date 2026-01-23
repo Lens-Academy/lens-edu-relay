@@ -1,6 +1,6 @@
 ---
-slug: introduction
-title: Introduction
+slug: module-based-on-learning-objectives
+title: module-based-on-learning-objectives
 ---
 # Text
 content::
