@@ -30,7 +30,7 @@ Obsidian → Relay → staging branch → PR → main branch → Production
 ## Structure
 ### Course structure
 **Course** - list of
-: **Modules** - list of
+: **Module** - list of
 :: **Learning outcome** - list of objects with three params
 ::: 1. Name of outcome
 ::: 2. **Test** - how we'll assess whether the person learned the objective (optional), these might be AI looks over your transcript, you might record a VM, you might do multiple choice, might be a list of resources that the person's description can be compared to, etc
