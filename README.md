@@ -53,6 +53,8 @@ Module notes have any number of:
 
 Typically, we split this up into multiple files:
 Module file:
+\# Text:
+\# Learning Outcome:
 
 
 
