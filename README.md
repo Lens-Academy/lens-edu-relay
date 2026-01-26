@@ -42,8 +42,11 @@ Obsidian → Relay → staging branch → PR → main branch → Production
 ( :  is replaced in the notes with # )
 
 Module notes have any number of:
-\# Text
-\# Learning Outcome
+\# Text:
+\# Learning Outcome:
+
+Learning outcome notes have nay number of:
+
 
 ```
 ### Repo folder structure
