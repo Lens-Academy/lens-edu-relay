@@ -73,6 +73,8 @@ Lens note:
 ### Video: or Article:
 #### Video-excerpt or Article-excerpt
 #### Text
+content::
+
 #### Chat
 ```
 
