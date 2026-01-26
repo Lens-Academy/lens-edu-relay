@@ -41,7 +41,7 @@ Obsidian → Relay → staging branch → PR → main branch → Production
 
 ( :  is replaced in the notes with # )
 
-#### Module notes
+#### Modules
 `Lens Educational Content/Modules/module.md`
 Required frontmatter: `slug`, `title`
 
@@ -66,7 +66,7 @@ Lorum Ipsum
 
 ```
 
-#### Learning Outcome notes
+#### Learning Outcomes
 `Lens Educational Content/Learning Outcomes/learning-outcome.md`
 
 Any number of
@@ -83,7 +83,7 @@ Example:
 [[Link to 2nd Lens note]]
 ```
 
-#### Lens notes
+#### Lenses
 `Lens Educational Content/Lenses/lens.md`
 
 Valid section types: `Video`, `Article`, `Text`, `Chat`
