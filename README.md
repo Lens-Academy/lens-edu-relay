@@ -39,7 +39,7 @@ Obsidian → Relay → staging branch → PR → main branch → Production
 :::: B. **Prompt(s)** for the AI tutor to talk to the student (optional)
 :::: C. Some extra bits like framing texts etc (optional)
 
-( :  is replaced in the )
+( :  is replaced in the notes with #)
 ### Repo folder structure
 ```
 ├── modules/          # Lesson content (markdown)
