@@ -124,3 +124,5 @@ All modules and courses are validated on PR:
 - Required fields per section type
 - Wiki-links must use relative paths (`[[../video_transcripts/...]]`)
 - Wiki-link targets must exist
+
+foo bar
