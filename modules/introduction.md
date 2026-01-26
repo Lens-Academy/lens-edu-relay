@@ -14,7 +14,7 @@ I would expect an introduction to explain why we built this course and what we e
 [[../Learning Outcomes/Unknown intro outcome 1|Unknown intro outcome 1]]
 
 
-[[../Sections/A.I. - Humanity's Final Invention]]
+
 
 
 
