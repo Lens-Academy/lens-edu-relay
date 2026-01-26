@@ -71,7 +71,7 @@ Learning Outcome note:
 Lens note:
 ```md
 ### Video: or Article:
-
+source:: [[link to so]]
 #### Video-excerpt or Article-excerpt
 
 #### Text
