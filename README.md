@@ -118,12 +118,3 @@ instructions::
 You're an AI tutor
 ```
 
-
-### Repo folder structure
-```
-├── modules/          # Lesson content (markdown)
-├── courses/          # Course definitions (which lessons, in what order)
-├── articles/         # Article source texts
-└── video_transcripts/ # Video transcript source texts
-```
-
