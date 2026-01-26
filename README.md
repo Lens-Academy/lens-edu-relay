@@ -47,6 +47,7 @@ Module notes have any number of:
 \## Test:
 \## Lens:
 \### Video: or Article:
+\#### Video-excerpt or Article-excerpt
 \#### 
 
 
