@@ -45,7 +45,8 @@ Module notes have any number of:
 \# Text:
 \# Learning Outcome:
 
-Learning outcome notes have nay number of:
+Learning outcome notes has one:
+! ##
 
 
 ```
