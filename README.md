@@ -68,6 +68,7 @@ Learning Outcome note:
 ## Lens: (optional)
 [[Link to 2nd Lens note]]
 ```
+Lens note:
 
 
 
