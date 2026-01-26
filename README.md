@@ -113,3 +113,5 @@ All modules and courses are validated on PR:
 foo bar
 
 test edit 2
+
+test edit 3
