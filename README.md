@@ -117,7 +117,5 @@ instructions::
 You're an AI tutor
 ```
 
+test edit via normal Edit tool (file opened in Obsidian)
 
-
-
-test edit via Obsidian MCP
