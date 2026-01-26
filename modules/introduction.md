@@ -1,6 +1,7 @@
 ---
 slug: introduction
 title: Introduction
+discussion-note: "[[../../Lens Academy/Course Introduction Discussion|Course Introduction Discussion]]"
 ---
 # Text
 content::
