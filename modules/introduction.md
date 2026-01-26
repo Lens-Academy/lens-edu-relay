@@ -11,7 +11,7 @@ I would expect an introduction to explain why we built this course and what we e
 
 
 # Learning Objective:
-I am[[../Learning Outcomes/Unknown intro outcome 1|Unknown intro outcome 1]]
+![[../Learning Outcomes/Unknown intro outcome 1|Unknown intro outcome 1]]
 
 # Learning Objective:
 [[../Learning Outcomes/Objections L1 - Realize objections and rebuttals exist|Objections L1 - Realize objections and rebuttals exist]]
