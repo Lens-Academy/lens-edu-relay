@@ -61,6 +61,11 @@ Lorum Ipsum
 ```
 
 #### Learning Outcome note
+Any number of
+\# Test:
+\# Lens:
+
+Example:
 ```md
 ## Test:
 [[Link to Test note]]
@@ -71,6 +76,13 @@ Lorum Ipsum
 ```
 
 #### Lens note
+Any number of
+\# Video: or Article:
+\# Text:
+\# Video-excerpt or Article-excerpt:
+\# Chat:
+
+Example:
 ```md
 ### Video: or Article:
 source:: [[link to video_transcript or article note]]
