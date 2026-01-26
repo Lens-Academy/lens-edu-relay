@@ -44,7 +44,8 @@ Obsidian → Relay → staging branch → PR → main branch → Production
 Module notes have any number of:
 \# Text:
 \# Learning Outcome:
-\# Test:
+\## Test:
+\## Lens:
 
 
 Learning outcome notes has one:
