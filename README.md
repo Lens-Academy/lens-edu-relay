@@ -51,7 +51,10 @@ Module notes have any number of:
 \#### Text
 \#### Chat
 
-Typically, we split this up 
+Typically, we split this up into multiple files:
+Module file:
+
+
 
 
 
