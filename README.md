@@ -41,7 +41,11 @@ Obsidian → Relay → staging branch → PR → main branch → Production
 
 ( :  is replaced in the notes with # )
 
-Module note has
+Module note has:
+\# Text
+
+
+```
 ### Repo folder structure
 ```
 ├── modules/          # Lesson content (markdown)
