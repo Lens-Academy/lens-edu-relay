@@ -3,5 +3,5 @@ discussion-note: "[[../../Lens Academy/Objections L1 discussion|Objections L1 di
 ---
 # Test:
 
-# Resources:
+# Lens:
 ![[../Lenses/10 reasons]]
