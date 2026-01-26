@@ -18,7 +18,7 @@ I would expect an introduction to explain why we built this course and what we e
 
 
 
-[[../Sections/Wikipedia Existential Risk]]
+[[../Lenses/Wikipedia Existential Risk]]
 
 # Learning Objective:
 [[../Learning Outcomes/Objections L1 - Realize objections and rebuttals exist|Objections L1 - Realize objections and rebuttals exist]]
