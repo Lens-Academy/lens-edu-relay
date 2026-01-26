@@ -43,7 +43,10 @@ Obsidian → Relay → staging branch → PR → main branch → Production
 
 #### Module note
 Any number of 
-\
+\# Text:
+\# Learning Outcome:
+
+Example:
 ```md
 # Text:
 content::
