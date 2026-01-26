@@ -39,7 +39,7 @@ Obsidian → Relay → staging branch → PR → main branch → Production
 :::: B. **Prompt(s)** for the AI tutor to talk to the student (optional)
 :::: C. Some extra bits like framing texts etc (optional)
 
-This is implemented and 
+This is implemented as shown below:
 
 #### Modules
 e.g. `Lens Educational Content/Modules/module.md`
