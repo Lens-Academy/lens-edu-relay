@@ -13,7 +13,8 @@ I would expect an introduction to explain why we built this course and what we e
 # Learning Objective:
 [[../Learning Outcomes/Unknown intro outcome 1|Unknown intro outcome 1]]
 
-#
+# Learning Objective
+
 
 [[../Lenses/Wikipedia Existential Risk]]
 
