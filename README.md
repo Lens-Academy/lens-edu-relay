@@ -41,7 +41,9 @@ Obsidian → Relay → staging branch → PR → main branch → Production
 
 ( :  is replaced in the notes with # )
 
-#### Module note:
+#### Module note
+Any number of 
+\
 ```md
 # Text:
 content::
@@ -55,7 +57,7 @@ Lorum Ipsum
 
 ```
 
-Learning Outcome note:
+#### Learning Outcome note
 ```md
 ## Test:
 [[Link to Test note]]
