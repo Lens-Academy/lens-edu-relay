@@ -70,13 +70,14 @@ Lorum Ipsum
 e.g. `Lens Educational Content/Learning Outcomes/learning-outcome.md`
 
 Any number of
-\# Test:
-\# Lens:
+\## Test:
+\## Lens:
 
 Example:
 ```md
 ## Test:
 [[Link to Test note]]
+
 ## Lens:
 [[link to Lens note]]
 ## Lens: (optional)
