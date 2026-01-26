@@ -48,8 +48,11 @@ Module notes have any number of:
 \## Lens:
 \### Video: or Article:
 \#### Video-excerpt or Article-excerpt
-\#### Text (
-\#### Chat ()
+\#### Text
+\#### Chat
+
+
+
 
 
 \## Lens: (2nd Lens optional)
