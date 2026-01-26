@@ -6,5 +6,5 @@ discussion-note: "[[../../Lens Academy/Unknown intro outcome 1 discussion|Unknow
 # Lens:
 ![[../Lenses/A.I. - Humanity's Final Invention]]
 
-# Lens:
+# Lens:D
 ![[../Lenses/Wikipedia Existential Risk]]
