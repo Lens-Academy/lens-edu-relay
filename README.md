@@ -41,18 +41,6 @@ Obsidian → Relay → staging branch → PR → main branch → Production
 
 ( :  is replaced in the notes with # )
 
-Module notes have any number of:
-\# Text:
-\# Learning Outcome:
-\## Test:
-\## Lens:
-\### Video: or Article:
-\#### Video-excerpt or Article-excerpt
-\#### Text
-\#### Chat
-
-Typically, we split this up into multiple files:
-
 Module note:
 ```md
 # Text:
