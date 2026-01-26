@@ -51,6 +51,7 @@ Lorum Ipsum
 [[link to Learning Outcome note]]
 
 # Learning Outcome: (optional)
+[[link to 2nd learning outcome note]]
 
 ```
 
