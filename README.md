@@ -73,7 +73,8 @@ Lens note:
 ### Video: or Article:
 source:: [[link to video_transcript or article note]]
 #### Video-excerpt or Article-excerpt
-
+(optional) from::
+(optional) to::
 
 #### Text
 content::
