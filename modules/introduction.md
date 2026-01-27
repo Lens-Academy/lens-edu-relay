@@ -4,7 +4,7 @@ slug: introduction
 title: Introduction
 discussion: https://discord.com/channels/1440725236843806762/1465349126073094469
 ---
-# Text
+# Text Page
 content::
 We begin by examining the potential of AI and the risks and opportunities that the characteristics of this technology present to humanity{>>CGL > This does not feel like an introduction to me. It feels like the first module of content. 
 
