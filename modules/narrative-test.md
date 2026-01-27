@@ -1,4 +1,5 @@
 ---
+id: f97b4ad0-7fcf-408c-835a-a0aca0be9e9b
 slug: narrative-test
 title: Introduction to AI Safety
 ---
