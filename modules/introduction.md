@@ -1,4 +1,5 @@
 ---
+id: 69615c7b-49e1-431b-8748-3f6de6fef21e
 slug: introduction
 title: Introduction
 discussion-note: "[[../../Lens Academy/Course Introduction Discussion|Course Introduction Discussion]]"
