@@ -4,7 +4,7 @@ slug: default
 title: AI Safety Course
 ---
 
-# Lesson: [[../modules/introduction]]
+# Modul: [[../modules/introduction]]
 
 # Meeting: 1
 
