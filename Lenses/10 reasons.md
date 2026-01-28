@@ -1,7 +1,7 @@
 ---
 id: 3f1fc921-560f-4d47-8eb6-3c4dab872b9d
 ---
-# Video: 10 Reasons to Ignore AI Safety
+### Video: 10 Reasons to Ignore AI Safety
 source:: [[../video_transcripts/robertmiles-10-reasons-to-ignore-ai-safety]]
 
 ## Video-excerpt
