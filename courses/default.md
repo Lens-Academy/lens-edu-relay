@@ -4,19 +4,19 @@ slug: default
 title: AI Safety Course
 ---
 
-# Modul: [[../modules/introduction]]
+# Module: [[../modules/introduction]]
 
 # Meeting: 1
 
-# Lesson: [[../modules/coming-soon]]
+# Module: [[../modules/coming-soon]]
 
-# Lesson: [[../modules/coming-soon]]
+# Module: [[../modules/coming-soon]]
 
 # Meeting: 2
 
-# Lesson: [[../modules/coming-soon]]
+# Module: [[../modules/coming-soon]]
 
-# Meeting: 3
+# Module: 3
 
 # Lesson: [[../modules/coming-soon]]
 
