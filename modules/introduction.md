@@ -33,11 +33,11 @@ This text explains exactly how the emergence of AI[[Objections L1 - Realize obje
 source:: [[../articles/buck-worst-case-thinking-in-ai-alignment]]
 optional:: true
 
-### Text
+#### Text
 content::
 In discussions of AI safety, people often propose the assumption that something will go as badly as possible. Different people may do this for different reasons; in this essay, the author reviews some of the most common reasons and writes about how this difference might manifest itself and what it means.
 
-## Article-excerpt
+#### Article-excerpt
 
 
 
