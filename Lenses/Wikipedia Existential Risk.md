@@ -1,7 +1,7 @@
 ---
 id: 01f6df31-099f-48ed-adef-773cc4f947e4
 ---
-#### Article: Existential Risk from AI
+### Article: Existential Risk from AI
 source:: [[../articles/wikipedia-existential-risk-from-ai]]
 
 #### Text
