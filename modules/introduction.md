@@ -22,7 +22,6 @@ optional:: true
 ### Article: Four background Claims
 source:: [[../articles/nate-soares-four-background-claims]]
 
-
 #### Text
 content::
 This text explains exactly how the emergence of AI[[Objections L1 - Realize objections and rebuttals exist|Objections L1 - Realize objections and rebuttals exist]]g done today that increases the chance of a positive outcome. The author identifies four key premises that underpin his entire perspective on the prospects of AI.
@@ -30,10 +29,9 @@ This text explains exactly how the emergence of AI[[Objections L1 - Realize obje
 #### Article-excerpt
 
 ## Lens:
-optionall
-### Article: Worst-Case Thinking (Optional)
-source:: [[../articles/buck-worst-case-thinking-in-ai-alignment]]
 optional:: true
+### Article: Worst-Case Thinking
+source:: [[../articles/buck-worst-case-thinking-in-ai-alignment]]
 
 #### Text
 content::
