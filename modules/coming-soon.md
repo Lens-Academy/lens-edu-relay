@@ -4,7 +4,8 @@ slug: coming-soon
 title: Coming soon!
 ---
 
-# Article: Coming Soon
-source:: [[../articles/coming-soon]]
+# Page: Coming Soon
+## Text
+content:: 
+Coming soon!
 
-## Article-excerpt
