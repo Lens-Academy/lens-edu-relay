@@ -16,6 +16,7 @@ source:: ![[../Learning Outcomes/Unknown intro outcome 1|Unknown intro outcome 1
 # Learning Outcome:
 source:: ![[../Learning Outcomes/Objections L1 - Realize objections and rebuttals exist|Objections L1 - Realize objections and rebuttals exist]]
 
+# Uncategorized
 # Article: Four background Claims (Optional)
 source:: [[../articles/nate-soares-four-background-claims]]
 optional:: true
