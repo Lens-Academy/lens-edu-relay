@@ -1,1 +1,0 @@
-Some of the most clearly knowledgeable people are worried about existential risk
