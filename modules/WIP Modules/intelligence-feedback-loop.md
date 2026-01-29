@@ -83,7 +83,7 @@ what is an AI’s neutronmult factor section
 
 ...recursion, magic
 
-somewhat abstract, maybe passage about why optimization of speed optiization without sufficient heuristics fails
+somewhat abstract, maybe passage about why optimization of speed optimzation without sufficient heuristics fails
 
 Infinity chain? Maybe the next step is always unforecastable?
 
