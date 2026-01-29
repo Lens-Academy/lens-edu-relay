@@ -1,10 +1,11 @@
 ---
+id: f30b3e0a-321b-4f07-8169-f4d5ae53bc82
 slug: old-test-intro-to-ai-safety
 title: Introduction to AI Safety
 ---
 
 # Article: Four Background Claims - Intro
-source:: [[../articles/nate-soares-four-background-claims]]
+source:: [[../../articles/nate-soares-four-background-claims]]
 
 ## Text
 content::
@@ -15,7 +16,7 @@ from:: "MIRI's mission is to ensure"
 to:: "build powerful generally intelligent AI systems."
 
 # Article: Four Background Claims - Extended (Optional)
-source:: [[../articles/nate-soares-four-background-claims]]
+source:: [[../../articles/nate-soares-four-background-claims]]
 optional:: true
 
 ## Article-excerpt
@@ -23,15 +24,13 @@ from:: "build powerful generally intelligent AI systems."
 to:: "AI matters."
 
 # Chat: Initial Discussion
-showUserPreviousContent:: true
-showTutorPreviousContent:: true
 instructions::
 The user just read an introduction to AI Safety.
 Ask them what they found most surprising or what questions they have.
 Check their understanding of why AI safety matters.
 
 # Video: Intro to AI Safety
-source:: [[../video_transcripts/robertmiles-intro-to-ai-safety-remastered]]
+source:: [[../../video_transcripts/robertmiles-intro-to-ai-safety-remastered]]
 
 ## Text
 content::
@@ -42,22 +41,18 @@ from:: 1:00
 to:: 2:00
 
 # Chat: Video Quiz
-showUserPreviousContent:: true
-showTutorPreviousContent:: true
 instructions::
 The user just watched a video clip about AI safety.
 Quiz them on the key points without providing hints - test their recall.
 
 # Article: Four Background Claims - Continued
-source:: [[../articles/nate-soares-four-background-claims]]
+source:: [[../../articles/nate-soares-four-background-claims]]
 
 ## Article-excerpt
 from:: "build powerful generally intelligent AI systems."
 to:: "AI matters."
 
 # Chat: Reading Quiz
-showUserPreviousContent:: false
-showTutorPreviousContent:: true
 instructions::
 Quiz the user on what they just read.
 Test their recall without showing them the article - they should remember the key points.

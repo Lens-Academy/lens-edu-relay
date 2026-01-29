@@ -1,0 +1,1046 @@
+[
+  {
+    "text": "In 2023 Nobel Prize winners, top AI scientists",
+    "start": "0:01.04"
+  },
+  {
+    "text": "and even the CEOs of leading AI companies signed a statement",
+    "start": "0:05.54"
+  },
+  {
+    "text": "which said \"Mitigating the risk of extinction from AI",
+    "start": "0:09.37"
+  },
+  {
+    "text": "should be a global priority alongside other societal-scale risks",
+    "start": "0:13.06"
+  },
+  {
+    "text": "such as pandemics and nuclear war.\" But how do we go from ChatGPT to AIs",
+    "start": "0:17.05"
+  },
+  {
+    "text": "that could kill everyone on Earth? Why do so many scientists, CEOs,",
+    "start": "0:22.77"
+  },
+  {
+    "text": "and world leaders expect this? Let's draw a line",
+    "start": "0:27.33"
+  },
+  {
+    "text": "of AI capabilities over time. Back here in 2019, we have GPT-2,",
+    "start": "0:30.30"
+  },
+  {
+    "text": "which could answer short factual questions,",
+    "start": "0:36.61"
+  },
+  {
+    "text": "translate simple phrases, and do small calculations.",
+    "start": "0:39.00"
+  },
+  {
+    "text": "Then in 2022, we get models like GPT-3.5,",
+    "start": "0:42.52"
+  },
+  {
+    "text": "which can answer complex questions, tell stories,",
+    "start": "0:46.86"
+  },
+  {
+    "text": "and write simple software. By 2025, we have models",
+    "start": "0:49.98"
+  },
+  {
+    "text": "that can pass PhD level exams, write entire applications",
+    "start": "0:54.00"
+  },
+  {
+    "text": "independently, and perfectly emulate human voices.",
+    "start": "0:57.88"
+  },
+  {
+    "text": "They're beginning to substantially outperform average humans",
+    "start": "1:01.55"
+  },
+  {
+    "text": "and even experts. They still have weaknesses,",
+    "start": "1:04.60"
+  },
+  {
+    "text": "of course, but the list of things AI can't do keeps getting shorter.",
+    "start": "1:07.16"
+  },
+  {
+    "text": "What happens if we extend this line? Well, we'd see AIs become more",
+    "start": "1:11.55"
+  },
+  {
+    "text": "and more capable until this crucial point here,",
+    "start": "1:16.31"
+  },
+  {
+    "text": "where AIs can design and build new AI systems",
+    "start": "1:19.92"
+  },
+  {
+    "text": "without human help. Then, instead of progress",
+    "start": "1:23.50"
+  },
+  {
+    "text": "coming from human researchers, we'd have AIs making better AIs,",
+    "start": "1:26.45"
+  },
+  {
+    "text": "and the line would get a lot steeper. If we keep going from there,",
+    "start": "1:31.01"
+  },
+  {
+    "text": "we hit this point where AIs are superintelligent,",
+    "start": "1:34.82"
+  },
+  {
+    "text": "better than humans at every intellectual task -",
+    "start": "1:38.69"
+  },
+  {
+    "text": "better than all of humanity put together -",
+    "start": "1:41.47"
+  },
+  {
+    "text": "spontaneously producing breakthroughs in research and manufacturing,",
+    "start": "1:43.60"
+  },
+  {
+    "text": "responsible for most economic growth, completely transforming",
+    "start": "1:47.20"
+  },
+  {
+    "text": "the world. And if we keep extending the line, eventually",
+    "start": "1:50.48"
+  },
+  {
+    "text": "we could get to this point here: Incomprehensible machine gods",
+    "start": "1:53.94"
+  },
+  {
+    "text": "which tower above us the way we tower above ants,",
+    "start": "1:58.11"
+  },
+  {
+    "text": "seemingly able to reshape the world however they want,",
+    "start": "2:01.17"
+  },
+  {
+    "text": "with or without our involvement or permission.",
+    "start": "2:04.24"
+  },
+  {
+    "text": "If we do reach this point, probably humanity would go extinct",
+    "start": "2:07.15"
+  },
+  {
+    "text": "for the same reason we drove so many other species",
+    "start": "2:11.04"
+  },
+  {
+    "text": "extinct: not because we wanted to wipe them out,",
+    "start": "2:13.53"
+  },
+  {
+    "text": "but because we were busy reshaping the world",
+    "start": "2:16.64"
+  },
+  {
+    "text": "and it wasn't worth our effort to keep them around.",
+    "start": "2:19.07"
+  },
+  {
+    "text": "When would this happen? We're not sure.",
+    "start": "2:21.99"
+  },
+  {
+    "text": "Are there other ways the future could go?",
+    "start": "2:24.63"
+  },
+  {
+    "text": "Certainly. But if we keep building more powerful",
+    "start": "2:26.51"
+  },
+  {
+    "text": "AIs the way we're doing it right now, then this looks",
+    "start": "2:29.31"
+  },
+  {
+    "text": "like the default path. And this default path",
+    "start": "2:32.15"
+  },
+  {
+    "text": "is terrible for humans. Why? Because we're great",
+    "start": "2:34.93"
+  },
+  {
+    "text": "at making more powerful AIs, but we haven't yet figured out how",
+    "start": "2:38.80"
+  },
+  {
+    "text": "to make them do what we want. We've made a bit of progress:",
+    "start": "2:42.21"
+  },
+  {
+    "text": "AI assistants are usually resistant to things",
+    "start": "2:45.89"
+  },
+  {
+    "text": "like explaining how to make bombs. But they're not that resistant.",
+    "start": "2:48.15"
+  },
+  {
+    "text": "And so far, we've just been trying to control things weaker than us,",
+    "start": "2:52.91"
+  },
+  {
+    "text": "where we can catch when they try to lie to us.",
+    "start": "2:56.55"
+  },
+  {
+    "text": "But once we hit this point, that stops being true",
+    "start": "2:59.15"
+  },
+  {
+    "text": "and the problem becomes much harder. In fact, nobody knows how to do it.",
+    "start": "3:02.78"
+  },
+  {
+    "text": "That's why experts, including Nobel Prize winners",
+    "start": "3:07.63"
+  },
+  {
+    "text": "and the founders of every top AI company,",
+    "start": "3:10.18"
+  },
+  {
+    "text": "have spoken out about the risk that AI might lead",
+    "start": "3:12.48"
+  },
+  {
+    "text": "to human extinction. The point of this video is not to say",
+    "start": "3:15.05"
+  },
+  {
+    "text": "that this outcome is unavoidable, but instead to say",
+    "start": "3:18.63"
+  },
+  {
+    "text": "that we do have to actually avoid it. So let's look at this line",
+    "start": "3:21.60"
+  },
+  {
+    "text": "in a bit more detail: What happens if AIs do just keep getting smarter?",
+    "start": "3:25.25"
+  },
+  {
+    "text": "Artificial Intelligence leads to Artificial",
+    "start": "3:30.58"
+  },
+  {
+    "text": "General Intelligence. Let's think about this bit",
+    "start": "3:33.37"
+  },
+  {
+    "text": "of the line first: from AIs right now to AGIs -",
+    "start": "3:36.42"
+  },
+  {
+    "text": "Artificial General Intelligence. What does \"general",
+    "start": "3:40.45"
+  },
+  {
+    "text": "intelligence\" mean? For the sake of this video,",
+    "start": "3:43.69"
+  },
+  {
+    "text": "let's say it means whatever a human could do on a computer,",
+    "start": "3:46.43"
+  },
+  {
+    "text": "an AGI could also do. AIs can already do the basics:",
+    "start": "3:49.65"
+  },
+  {
+    "text": "We have systems you can connect to a regular computer,",
+    "start": "3:53.75"
+  },
+  {
+    "text": "and then they can look at the screen and figure out what's going on,",
+    "start": "3:56.37"
+  },
+  {
+    "text": "send messages, search the internet and so on.",
+    "start": "3:59.44"
+  },
+  {
+    "text": "They're also getting pretty good at using external tools.",
+    "start": "4:02.26"
+  },
+  {
+    "text": "Obviously they can't video call people,",
+    "start": "4:05.30"
+  },
+  {
+    "text": "but they... well, no, actually they can totally do that.",
+    "start": "4:07.02"
+  },
+  {
+    "text": "So they've already got the building blocks:",
+    "start": "4:10.86"
+  },
+  {
+    "text": "The question is how well can they combine them?",
+    "start": "4:12.94"
+  },
+  {
+    "text": "They can send Slack messages, but can they run a company?",
+    "start": "4:15.66"
+  },
+  {
+    "text": "They can write code, but can they write a research paper?",
+    "start": "4:19.18"
+  },
+  {
+    "text": "And the answer is \"not yet, but eventually and maybe quite soon.\"",
+    "start": "4:22.35"
+  },
+  {
+    "text": "After all, they just keep getting better",
+    "start": "4:27.21"
+  },
+  {
+    "text": "and if we just extrapolate forwards, it sure looks",
+    "start": "4:29.64"
+  },
+  {
+    "text": "like they'll reach this point sooner or later.",
+    "start": "4:32.13"
+  },
+  {
+    "text": "The jump from \"write a short story\" to \"write an excellent novel\"",
+    "start": "4:34.30"
+  },
+  {
+    "text": "is pretty big. But remember that five years ago",
+    "start": "4:38.43"
+  },
+  {
+    "text": "they could barely write coherent sentences.",
+    "start": "4:41.39"
+  },
+  {
+    "text": "Now, many people doubt that this can happen,",
+    "start": "4:43.89"
+  },
+  {
+    "text": "usually for one of two reasons. One is that AIs aren't \"really",
+    "start": "4:46.11"
+  },
+  {
+    "text": "thinking\" deep down. It's interesting to think about,",
+    "start": "4:50.27"
+  },
+  {
+    "text": "but whether AIs have genuine understanding",
+    "start": "4:53.44"
+  },
+  {
+    "text": "isn't really the relevant question here: What matters",
+    "start": "4:55.89"
+  },
+  {
+    "text": "is what kind of tasks they can do and how well they perform at them,",
+    "start": "4:58.65"
+  },
+  {
+    "text": "and the fact is, they just keep getting better.",
+    "start": "5:02.74"
+  },
+  {
+    "text": "It doesn't matter whether AIs really understand chess",
+    "start": "5:05.29"
+  },
+  {
+    "text": "in the way humans do. What matters is they can easily crush",
+    "start": "5:08.07"
+  },
+  {
+    "text": "human world champions. The other main reason for doubt",
+    "start": "5:11.27"
+  },
+  {
+    "text": "is the idea that AI is going to hit some kind of wall,",
+    "start": "5:14.42"
+  },
+  {
+    "text": "and some tasks will just be too hard. But even if this does happen,",
+    "start": "5:17.27"
+  },
+  {
+    "text": "it's very hard to say when, and people have been predicting it",
+    "start": "5:21.15"
+  },
+  {
+    "text": "incorrectly for years. From chess to open-ended conversation",
+    "start": "5:24.11"
+  },
+  {
+    "text": "to complex images, people keep expecting AI progress",
+    "start": "5:28.02"
+  },
+  {
+    "text": "is about to reach a limit and they keep being wrong.",
+    "start": "5:31.30"
+  },
+  {
+    "text": "The way we train AIs draws on fundamental principles",
+    "start": "5:34.65"
+  },
+  {
+    "text": "of computation that suggest any intellectual task humans can do,",
+    "start": "5:37.44"
+  },
+  {
+    "text": "a sufficiently large AI model should also be able to do.",
+    "start": "5:41.42"
+  },
+  {
+    "text": "And right now, several of the biggest and most valuable companies",
+    "start": "5:44.65"
+  },
+  {
+    "text": "in the world are throwing tens of billions",
+    "start": "5:47.70"
+  },
+  {
+    "text": "at making that happen. Artificial General Intelligence",
+    "start": "5:49.84"
+  },
+  {
+    "text": "leads to Recursive Self-Improvement. At a certain point,",
+    "start": "5:53.52"
+  },
+  {
+    "text": "this line is probably going to start curving upward.",
+    "start": "5:57.55"
+  },
+  {
+    "text": "Why? Because AIs will become capable enough to help us make better AI.",
+    "start": "6:00.57"
+  },
+  {
+    "text": "This is Recursive Self-Improvement: every generation of AIs",
+    "start": "6:05.53"
+  },
+  {
+    "text": "making the next generation more powerful.",
+    "start": "6:09.78"
+  },
+  {
+    "text": "This will happen very easily once we have AGI:",
+    "start": "6:12.25"
+  },
+  {
+    "text": "If an artificial general intelligence can do any computer based task",
+    "start": "6:15.23"
+  },
+  {
+    "text": "that a human can do, then it can work on making better AIs.",
+    "start": "6:18.76"
+  },
+  {
+    "text": "But in fact, AI is already starting to contribute to its own development.",
+    "start": "6:22.40"
+  },
+  {
+    "text": "For example, by generating better prompts",
+    "start": "6:26.69"
+  },
+  {
+    "text": "and creating better training data, designing better GPUs,",
+    "start": "6:28.97"
+  },
+  {
+    "text": "writing code for experiments, and even generating research ideas.",
+    "start": "6:32.72"
+  },
+  {
+    "text": "Over time, we'll only see more of this: AIs doing better",
+    "start": "6:36.93"
+  },
+  {
+    "text": "and more independently, and even doing things",
+    "start": "6:40.16"
+  },
+  {
+    "text": "like developing new algorithms and discovering novel ways",
+    "start": "6:42.54"
+  },
+  {
+    "text": "to interact with the world. As far as we can tell,",
+    "start": "6:45.58"
+  },
+  {
+    "text": "it's not like there's going to be one specific day",
+    "start": "6:48.30"
+  },
+  {
+    "text": "where AIs tell researchers to step away from the computer.",
+    "start": "6:50.44"
+  },
+  {
+    "text": "If anything, it will probably look more like what",
+    "start": "6:53.77"
+  },
+  {
+    "text": "we're currently seeing: Humans deliberately",
+    "start": "6:55.74"
+  },
+  {
+    "text": "putting AI systems in the driver's seat",
+    "start": "6:58.14"
+  },
+  {
+    "text": "more and more because they keep getting faster,",
+    "start": "7:00.12"
+  },
+  {
+    "text": "cheaper, and smarter. Beyond a certain point,",
+    "start": "7:02.92"
+  },
+  {
+    "text": "they'll be doing things humans can't do -",
+    "start": "7:05.83"
+  },
+  {
+    "text": "they'll be far more capable, coming up with innovations",
+    "start": "7:08.16"
+  },
+  {
+    "text": "we wouldn't be able to think of and perhaps wouldn't even",
+    "start": "7:10.97"
+  },
+  {
+    "text": "be able to understand. And every innovation",
+    "start": "7:13.57"
+  },
+  {
+    "text": "will make them better at discovering the next one.",
+    "start": "7:16.27"
+  },
+  {
+    "text": "Recursive Self-Improvement leads to Artificial",
+    "start": "7:19.60"
+  },
+  {
+    "text": "Superintelligence. So what comes next?",
+    "start": "7:22.49"
+  },
+  {
+    "text": "What happens if AIs start making better AIs?",
+    "start": "7:26.12"
+  },
+  {
+    "text": "Well, the next step after artificial general intelligence",
+    "start": "7:29.24"
+  },
+  {
+    "text": "is artificial superintelligence - ASI.",
+    "start": "7:32.38"
+  },
+  {
+    "text": "An ASI isn't just more capable than any human,",
+    "start": "7:36.09"
+  },
+  {
+    "text": "it's more capable than every single human put together.",
+    "start": "7:39.29"
+  },
+  {
+    "text": "And after AGI, this might not take long.",
+    "start": "7:42.68"
+  },
+  {
+    "text": "After all, once you have one AGI, it's very easy to make more:",
+    "start": "7:45.44"
+  },
+  {
+    "text": "You can just copy the code and run it on a different server.",
+    "start": "7:49.16"
+  },
+  {
+    "text": "This is already what happens now: Once OpenAI was finished",
+    "start": "7:52.20"
+  },
+  {
+    "text": "training ChatGPT, it was able to put out millions",
+    "start": "7:55.31"
+  },
+  {
+    "text": "of copies of it running in parallel shortly after.",
+    "start": "7:58.04"
+  },
+  {
+    "text": "And there are other advantages AIs have. For one,",
+    "start": "8:00.92"
+  },
+  {
+    "text": "they're much faster: An AI like ChatGPT",
+    "start": "8:03.92"
+  },
+  {
+    "text": "can easily produce a page of dense technical writing",
+    "start": "8:06.80"
+  },
+  {
+    "text": "in under a minute, and read thousands of words in seconds.",
+    "start": "8:09.46"
+  },
+  {
+    "text": "The best chess AI can beat the best human players,",
+    "start": "8:13.19"
+  },
+  {
+    "text": "even if the AI is only given a second to pick each move.",
+    "start": "8:16.21"
+  },
+  {
+    "text": "On top of that, it's much easier for AIs to share improvements.",
+    "start": "8:19.35"
+  },
+  {
+    "text": "If one of these AIs can figure out a way",
+    "start": "8:23.62"
+  },
+  {
+    "text": "to make itself smarter, it can copy that across",
+    "start": "8:25.45"
+  },
+  {
+    "text": "to the other million AIs that are busy doing something else.",
+    "start": "8:27.91"
+  },
+  {
+    "text": "What's more, there's no reason to think individual AIs",
+    "start": "8:30.99"
+  },
+  {
+    "text": "will stall at whatever level humans can reach: Historically,",
+    "start": "8:33.82"
+  },
+  {
+    "text": "that's just not how this works. If we look at the tasks",
+    "start": "8:37.03"
+  },
+  {
+    "text": "where AI reached human level more than five years",
+    "start": "8:39.89"
+  },
+  {
+    "text": "ago - board games, facial recognition,",
+    "start": "8:42.17"
+  },
+  {
+    "text": "and certain types of medical diagnostics -",
+    "start": "8:44.66"
+  },
+  {
+    "text": "they're still continuing to get better.",
+    "start": "8:46.39"
+  },
+  {
+    "text": "If you just imagine an average human who miraculously had the ability",
+    "start": "8:48.95"
+  },
+  {
+    "text": "to memorize the entire internet, read and write ten times faster,",
+    "start": "8:52.63"
+  },
+  {
+    "text": "and also clone themselves at will, it's pretty obvious",
+    "start": "8:56.80"
+  },
+  {
+    "text": "how that could get out of hand. Now imagine that the clones",
+    "start": "8:59.71"
+  },
+  {
+    "text": "could figure out ways to edit their own brains",
+    "start": "9:02.61"
+  },
+  {
+    "text": "to make every single one of them more capable.",
+    "start": "9:04.93"
+  },
+  {
+    "text": "It's easy to see how they might quickly become",
+    "start": "9:07.39"
+  },
+  {
+    "text": "more powerful than all of humanity combined.",
+    "start": "9:09.53"
+  },
+  {
+    "text": "ASI leads to godlike AI. So where does it end?",
+    "start": "9:12.95"
+  },
+  {
+    "text": "Let's zoom out the chart a little bit and see what's going on up here",
+    "start": "9:18.76"
+  },
+  {
+    "text": "at the top, at this point we've somewhat fancifully labeled",
+    "start": "9:22.25"
+  },
+  {
+    "text": "incomprehensible machine gods. Let's be clear:",
+    "start": "9:25.73"
+  },
+  {
+    "text": "AI isn't going to start doing magic. We can be confident they aren't going",
+    "start": "9:29.41"
+  },
+  {
+    "text": "to invent perpetual motion machines or faster than light travel,",
+    "start": "9:32.95"
+  },
+  {
+    "text": "because there are physical limits to what's possible.",
+    "start": "9:36.62"
+  },
+  {
+    "text": "But we are absolutely nowhere near those limits.",
+    "start": "9:39.11"
+  },
+  {
+    "text": "Modern smartphones have a million times as much memory",
+    "start": "9:42.35"
+  },
+  {
+    "text": "as the computer used on the Apollo moon mission,",
+    "start": "9:44.86"
+  },
+  {
+    "text": "but they're still another million times",
+    "start": "9:47.35"
+  },
+  {
+    "text": "less dense than DNA, which still isn't all the way",
+    "start": "9:48.94"
+  },
+  {
+    "text": "to the physical limit. Let's think about how our current technology",
+    "start": "9:51.74"
+  },
+  {
+    "text": "would look to even the best scientists",
+    "start": "9:55.24"
+  },
+  {
+    "text": "from 100 years ago. They would understand",
+    "start": "9:57.49"
+  },
+  {
+    "text": "that it's hypothetically possible to create billions of devices",
+    "start": "9:59.95"
+  },
+  {
+    "text": "that near instantly transmit gigabytes of information",
+    "start": "10:03.31"
+  },
+  {
+    "text": "across the world using powerful radios in space,",
+    "start": "10:06.20"
+  },
+  {
+    "text": "but they'd still be pretty surprised to hear that everyone has a phone",
+    "start": "10:09.58"
+  },
+  {
+    "text": "that they can use to watch videos of cartoon dogs.",
+    "start": "10:12.91"
+  },
+  {
+    "text": "We don't know what artificial superintelligence",
+    "start": "10:15.90"
+  },
+  {
+    "text": "would be able to do, but it would probably sound",
+    "start": "10:18.28"
+  },
+  {
+    "text": "even more crazy to us than the modern world",
+    "start": "10:20.72"
+  },
+  {
+    "text": "would sound to someone from 1920. Think about it this way.",
+    "start": "10:23.23"
+  },
+  {
+    "text": "Progress happens faster and faster as AI improves itself.",
+    "start": "10:26.87"
+  },
+  {
+    "text": "Where does this end? The self-improvement process",
+    "start": "10:30.66"
+  },
+  {
+    "text": "wouldn't stop until there were no more improvements",
+    "start": "10:33.47"
+  },
+  {
+    "text": "that could be made. So try to imagine an AI system",
+    "start": "10:35.76"
+  },
+  {
+    "text": "so powerful that there's no way to make it any smarter,",
+    "start": "10:39.05"
+  },
+  {
+    "text": "even by using the unimaginably advanced engineering",
+    "start": "10:42.77"
+  },
+  {
+    "text": "skills of the most powerful possible AI.",
+    "start": "10:45.66"
+  },
+  {
+    "text": "Such a system would be bumping up against the only limits left:",
+    "start": "10:48.62"
+  },
+  {
+    "text": "The laws of physics themselves. At that point, AI abilities still",
+    "start": "10:51.92"
+  },
+  {
+    "text": "wouldn't be literally magic, but they might seem like it to us.",
+    "start": "10:56.01"
+  },
+  {
+    "text": "If that happens, we'll be completely powerless",
+    "start": "10:59.78"
+  },
+  {
+    "text": "compared to them. The Default Path.",
+    "start": "11:02.18"
+  },
+  {
+    "text": "For this to go well, we need to figure out",
+    "start": "11:05.92"
+  },
+  {
+    "text": "how to make AIs that want to do what we want.",
+    "start": "11:08.20"
+  },
+  {
+    "text": "And there are lots of ideas for how we could do that.",
+    "start": "11:11.22"
+  },
+  {
+    "text": "But they are nowhere near close to done.",
+    "start": "11:13.76"
+  },
+  {
+    "text": "Our best attempts to make AIs not do things",
+    "start": "11:16.05"
+  },
+  {
+    "text": "that we don't want them to are still pretty unreliable",
+    "start": "11:18.28"
+  },
+  {
+    "text": "and easy to circumvent. Our best methods for understanding",
+    "start": "11:21.11"
+  },
+  {
+    "text": "how AIs make choices only allow us to glimpse parts of their reasoning.",
+    "start": "11:24.13"
+  },
+  {
+    "text": "We don't even have reliable ways to figure out",
+    "start": "11:28.50"
+  },
+  {
+    "text": "what AI systems are capable of. We already struggle to understand",
+    "start": "11:30.50"
+  },
+  {
+    "text": "and control current AIs: As we get closer to AGI and ASI,",
+    "start": "11:34.12"
+  },
+  {
+    "text": "this will get a lot harder. Remember: AIs don't need",
+    "start": "11:38.61"
+  },
+  {
+    "text": "to hate humanity to wipe it out. The problem is that",
+    "start": "11:42.03"
+  },
+  {
+    "text": "if we actually build the AIs that build the AGIs",
+    "start": "11:45.07"
+  },
+  {
+    "text": "that build the ASIs, then to those towering machine gods,",
+    "start": "11:48.08"
+  },
+  {
+    "text": "we would look like a rounding error. To the AIs,",
+    "start": "11:51.87"
+  },
+  {
+    "text": "we might just look like a bunch of primitive beings",
+    "start": "11:54.37"
+  },
+  {
+    "text": "standing in the way of a lot of really useful resources.",
+    "start": "11:56.84"
+  },
+  {
+    "text": "After all, when we want to build a skyscraper",
+    "start": "11:59.86"
+  },
+  {
+    "text": "and there's an anthill in the way, well, too bad for the ants.",
+    "start": "12:02.04"
+  },
+  {
+    "text": "It's not that we hate them - we just have more",
+    "start": "12:05.58"
+  },
+  {
+    "text": "important things to consider. We cannot simply ignore the problem -",
+    "start": "12:07.78"
+  },
+  {
+    "text": "just hoping for powerful AIs to not hurt us literally",
+    "start": "12:11.74"
+  },
+  {
+    "text": "means gambling the fate of our entire species.",
+    "start": "12:14.76"
+  },
+  {
+    "text": "Another option is to stop, or at least slow things down",
+    "start": "12:17.37"
+  },
+  {
+    "text": "until we've figured out what's going on.",
+    "start": "12:20.75"
+  },
+  {
+    "text": "We're a long way away from being able to control millions of AIs",
+    "start": "12:24.01"
+  },
+  {
+    "text": "that are as smart as us, let alone AIs that are to us",
+    "start": "12:27.15"
+  },
+  {
+    "text": "as we are to ants. We need time to build institutions",
+    "start": "12:30.45"
+  },
+  {
+    "text": "to handle this extinction risk level technology.",
+    "start": "12:33.77"
+  },
+  {
+    "text": "And then we need time to figure out the science and engineering",
+    "start": "12:36.69"
+  },
+  {
+    "text": "to build AIs we can keep control of. Unfortunately, the race is on",
+    "start": "12:39.48"
+  },
+  {
+    "text": "and there are many different companies and countries",
+    "start": "12:43.83"
+  },
+  {
+    "text": "all throwing around tens of billions of dollars",
+    "start": "12:46.25"
+  },
+  {
+    "text": "to build the most powerful AI they can.",
+    "start": "12:48.78"
+  },
+  {
+    "text": "Right now, we don't even have brakes to step on if we need to,",
+    "start": "12:51.29"
+  },
+  {
+    "text": "and we're approaching the cliff fast. We're at a critical time",
+    "start": "12:54.66"
+  },
+  {
+    "text": "when our decisions about AI development",
+    "start": "12:58.28"
+  },
+  {
+    "text": "will echo through history. Getting this right",
+    "start": "13:00.32"
+  },
+  {
+    "text": "isn't just an option - it's a necessity.",
+    "start": "13:02.93"
+  },
+  {
+    "text": "The tools to build superintelligent AI are coming.",
+    "start": "13:05.09"
+  },
+  {
+    "text": "The institutions to control it must come first.",
+    "start": "13:08.09"
+  },
+  {
+    "text": "We'd like to thank our friends at ControlAI for making",
+    "start": "13:12.25"
+  },
+  {
+    "text": "this explainer possible. It's because of their support",
+    "start": "13:14.76"
+  },
+  {
+    "text": "that you can watch it now. But as you can tell",
+    "start": "13:17.27"
+  },
+  {
+    "text": "from our other videos, this subject has always been important to us.",
+    "start": "13:19.33"
+  },
+  {
+    "text": "ControlAI is mobilizing experts, politicians and concerned citizens",
+    "start": "13:22.83"
+  },
+  {
+    "text": "like you to keep humanity in control. We need you: Every voice matters,",
+    "start": "13:26.85"
+  },
+  {
+    "text": "every action counts, and we're running out of time.",
+    "start": "13:31.93"
+  },
+  {
+    "text": "Visit controlai.com now and join the movement",
+    "start": "13:34.93"
+  },
+  {
+    "text": "to protect humanity's future. Check the description down below",
+    "start": "13:37.86"
+  },
+  {
+    "text": "for links to join now. Help us ensure humanity's",
+    "start": "13:41.23"
+  },
+  {
+    "text": "most powerful invention doesn't become our last.",
+    "start": "13:44.38"
+  }
+]
