@@ -5,7 +5,7 @@ id: 8a70abc4-8d11-46a2-raqb-e08d10661177
 source:: [[https://www.lesswrong.com/posts/dq3KsCsqNotWc8nAK/cascades-cycles-insight]]
 
 #### Article-excerpt
-from:: 0:00
+from:: ""
 to:: 15:37
 
 
