@@ -116,6 +116,3 @@ Most domain specific research is cascatic: it makes you locally fitter and might
 
 There is a type of process which reliably produces discontinuity beyond some critical mass. Intelligence has many of the properties of such a process. 
 
-## Lens:
-source::
-![[Lens Edu/Lenses/ Existential Risk]]
