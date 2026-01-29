@@ -78,7 +78,7 @@ The economics case feels so easy to point at that it's hard to find basic source
 
 cite wiener/ashby for some basic cybernetic control theory? might be too abstract
 
-agricultural revolution: first bit of excess grain for local 
+agricultural revolution: first bit of excess grain for local feedback example?
 
 cascades, cycles, insight
 
