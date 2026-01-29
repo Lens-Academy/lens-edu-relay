@@ -3,6 +3,9 @@ id: 3eb56340-b349-4f09-aef8-1395558c353f
 slug: intelligence-feedback-loop
 title: Intelligence Feedback Loop
 ---
+## Lens:
+source::
+![[../Lenses/Wikipedia Existential Risk]]
 
 
 
@@ -113,5 +116,3 @@ Most domain specific research is cascatic: it makes you locally fitter and might
 
 There is a type of process which reliably produces discontinuity beyond some critical mass. Intelligence has many of the properties of such a process. 
 
-# Learning Outcome:
-source:: ![[../Learning Outcomes/Objections L1 - Realize objections and rebuttals exist]]
