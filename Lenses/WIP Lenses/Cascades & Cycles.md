@@ -4,7 +4,7 @@ id: 8a70abc4-8d11-46a2-raqb-e08d10661177
 ### Article: Cascades, Cycles, Insight...
 source:: [[https://www.lesswrong.com/posts/dq3KsCsqNotWc8nAK/cascades-cycles-insight]]{>>Luc: use Obsiidan serach and search for this URL. You'll find the filename.md that contains this article. Then you can link that article specifically.<<}
 
-{>>Luc: Oh jesus, the formatting of t<<}
+{>>Luc: Oh jesus, the formatting of the article.md is terrible. I'll fix that tomorrow. Apparently the web scraping<<}
 #### Article-excerpt
 from:: "**Cascades** are when"
 to:: "_What is the AI's average_ _neutron multiplication factor?_"
