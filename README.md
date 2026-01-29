@@ -40,7 +40,7 @@ Obsidian → Relay → staging branch → PR → main branch → Production
 This is implemented as shown below:
 #### Modules
 e.g. `Lens Educational Content/Modules/module.md`
-Required frontmatter: `slug`, `title`
+Required frontmatter: `slug`, `title`, `id` (type:
 
 Any number of
 \# Text Page:
