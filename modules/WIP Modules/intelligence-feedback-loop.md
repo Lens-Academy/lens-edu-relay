@@ -97,7 +97,7 @@ seems only useful for foom? Basically all of those are local synonyms
   
   
 
-A market too is a recursive system we can tell because anyone who isn’t going exponential is fallig behind. The expected trajextory is for your new batch of profits generating a greater return on investment than the last. Like with heuristic improvement there come diminishing returns on any one branch fairly quickly, but the market is a sufficiently general problem that you should not run out of branches. You sufficiently optimized one good? Make a different one that synergizes with it. Eat the supply line, manufacture desire or just do something else entirely because prestige and capital are universal equivalents. Having had pretty good planning in step one allows you to pay for more of the time of better planners in step two.
+A market too is a recursive system we can tell because anyone who isn’t going exponential is falling behind. The expected trajectory is for your new batch of profits generating a greater return on investment than the last. Like with heuristic improvement there come diminishing returns on any one branch fairly quickly, but the market is a sufficiently general problem that you should not run out of branches. You sufficiently optimized one good? Make a different one that synergizes with it. Eat the supply line, manufacture desire or just do something else entirely because prestige and capital are universal equivalents. Having had pretty good planning in step one allows you to pay for more of the time of better planners in step two.
 
   
   
