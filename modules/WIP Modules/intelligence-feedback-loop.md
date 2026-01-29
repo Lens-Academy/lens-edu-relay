@@ -63,3 +63,4 @@ Discuss how these perspectives relate to the earlier readings on takeoff speeds
 and the intelligence feedback loop.
 
 
+T
