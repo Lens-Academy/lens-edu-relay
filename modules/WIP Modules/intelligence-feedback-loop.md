@@ -113,23 +113,3 @@ Most domain specific research is cascatic: it makes you locally fitter and might
 
 There is a type of process which reliably produces discontinuity beyond some critical mass. Intelligence has many of the properties of such a process. 
 
-# Page: Intelligence Feedback Loop
-id:: 3eb56340-b349-4f09-aef8-1395558c353f
-## Text
-content::
-We begin by examining the potential of AI and the risks and opportunities that the characteristics of this technology present to humanity.
-
-# Learning Outcome:
-source:: ![[../Learning Outcomes/AI is a big and kinds scary deal]]
-
-# Learning Outcome:
-source:: ![[../Learning Outcomes/Objections L1 - Realize objections and rebuttals exist]]
-
-# Uncategorized:
-## Lens:
-optional:: true
-source:: ![[../Lenses/Four Background Claims]]
-
-## Lens:
-optional:: true
-source:: ![[../Lenses/Worst-Case Thinking]]
