@@ -110,8 +110,11 @@ For a neutron multiplication factor of intelligence to make sense you need a bas
 
 Most domain specific research is cascatic: it makes you locally fitter and might help on analogous patterns elsewhere. Production without a market is also cascadic. A bad business model is cyclic but with k < 1 : You do earn a universal currency that could be reinvested anywhere, so the process is already fully cybernetically enforcing, but you do not generate enough of it to afford the work that was put in and so the reaction fizzles. 
 
-# Page: Welcome
-id:: a1b2c3d4-5678-90ab-cdef-1234567890ab
+
+There is a type of process which reliably produces discontinuity beyond some critical mass. Intelligence has many of the properties of such a process. 
+
+# Page: Intelligence Feedback Loop
+id:: 3eb56340-b349-4f09-aef8-1395558c353f
 ## Text
 content::
 We begin by examining the potential of AI and the risks and opportunities that the characteristics of this technology present to humanity.
