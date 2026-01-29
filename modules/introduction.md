@@ -11,7 +11,7 @@ content::
 We begin by examining the potential of AI and the risks and opportunities that the characteristics of this technology present to humanity.
 
 # Learning Outcome:
-source:: ![[Lens Edu/Learning Outcomes/AI is a big and kinds scary deal]]
+source:: ![[../Learning Outcomes/WIP Learning Outcomes/WIP Learning Outcomes/AI is a big and kinds scary deal]]
 # Learning Outcome:
 source:: ![[Lens Edu/Learning Outcomes/Some of the most clearly knowledgeable people are worried about existential risk]]
 # Learning Outcome:
