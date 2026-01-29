@@ -64,6 +64,7 @@ Lorum Ipsum
 
 #### Learning Outcomes
 e.g. `Lens Educational Content/Learning Outcomes/learning-outcome.md`
+Required frontmatter: `id`
 
 Any number of
 \## Test:
