@@ -8,6 +8,7 @@ source:: [[../video_transcripts/kurzgesagt-ai-humanitys-final-invention]]
 content::
 Please watch this Kurzgesagt video:
 #### Video-excerpt
+to:: 14:49
 #### Text
 content::
 What surprised you or stood out to you while watching this video?
