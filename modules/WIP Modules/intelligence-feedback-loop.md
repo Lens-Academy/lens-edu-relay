@@ -94,15 +94,8 @@ Safety info term explanion
 
 seems only useful for foom? Basically all of those are local synonyms
 
-  
-  
 
 A market too is a recursive system we can tell because anyone who isn’t going exponential is falling behind. The expected trajectory is for your new batch of profits generating a greater return on investment than the last. Like with heuristic improvement there come diminishing returns on any one branch fairly quickly, but the market is a sufficiently general problem that you should not run out of branches. You sufficiently optimized one good? Make a different one that synergizes with it. Eat the supply line, manufacture desire or just do something else entirely because prestige and capital are universal equivalents. Having had pretty good planning in step one allows you to pay for more of the time of better planners in step two.
 
-  
-  
 
-  
-  
-
-For a neutron multiplication factor of intelligence to make sense you need a basic process of intelligence instead of a broad set of weakly related skills. Economic growth becomes general through the universal equivalent of money. Which can serve as neutrons weverywhere. Intelligence has the heuristic search over prediction generators. A better search for predictions makes you better everwhere including in self improvement. This is necessarily a search for the true structure of reality. Intelligence is the thing converging towards being a good regulator of everything.
+For a neutron multiplication factor of intelligence to make sense you need a basic process of intelligence instead of a broad set of weakly related skills. Economic growth becomes general through the universal equivalent of money. Which can serve as neutrons everywhere. Intelligence has the heuristic search over prediction generators. A better search for predictions makes you better everywhere including in self improvement. This is necessarily a search for the true structure of reality. Intelligence is the thing converging towards being a good regulator of everything.
