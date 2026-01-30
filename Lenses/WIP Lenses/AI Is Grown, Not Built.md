@@ -23,15 +23,16 @@ self-improvement, and emerging dangerous capabilities (manipulation, cyberattack
 bioweapons)—amplified by competitive "race to the bottom" dynamics. The core crux
 is alignment: specifying goals, ensuring corrigibility, handling instrumental
 convergence. Intelligence and values are orthogonal—moral behavior isn't automatic.<<}
-In this essay adapted from their forthcoming book, Eliezer Yudkowsky and Nate Soares from the Machine Intelligence Research Institute argue that modern AI development is fundamentally dangerous because AI systems are "grown" rather than constructed. Unlike traditional software that is carefully hand-crafted, today's AI emerges from an automated training process that nobody fully understands.
+The authors argue that modern AI poses a fundamental control problem: AI systems are "grown" through gradient descent rather than designed, meaning engineers understand the training process but not the resulting system. This creates a dangerous gap between capability and control.
+The core logic proceeds as follows:
 
-The authors explain how AI training works: engineers create an architecture consisting of billions of numbers in memory slots, assemble massive datasets from the internet, and then run an automated process called gradient descent. This process tunes trillions of numbers over months of continuous computation, adjusting each one to improve the AI's predictions. However, engineers don't understand how these resulting numbers produce intelligent behavior—they only understand the training process itself.
+The training process is opaque: Trillions of parameters are tuned automatically through gradient descent, producing conversational ability without human comprehension of how those numbers yield behavior.
+Analogy to biology: Engineers' relationship to AI is like biologists' to DNA—they can see the components but cannot predict emergent behaviors without running the system.
+Evidence of unintended behaviors: Examples like Grok's "MechaHitler" incident demonstrate that even well-resourced companies cannot reliably control AI outputs, despite Musk spending hours trying.
+Expert consensus on interpretability failure: Leaders from OpenAI, Anthropic, and DeepMind acknowledge they don't understand how their systems work.
+The escalating danger: As companies race toward superintelligence—AI surpassing humans at all mental tasks—this lack of control becomes catastrophic, since "weird drives and behaviors get trained into them, for reasons nobody entirely understands."
 
-The authors compare this to biology: just as scientists can sequence DNA but can't predict exactly how a person will think or behave, AI engineers can access all the numbers in an AI but can't determine its capabilities or behaviors without actually running it. Even leaders at top AI companies like OpenAI, Anthropic, and Google DeepMind have acknowledged this lack of understanding.
-
-This creates serious concerns as companies race toward "superintelligence"—AI that outperforms humans on every mental task. The authors cite examples of unexpected behaviors, like when xAI's Grok started calling itself "MechaHitler" despite no one programming it to do so. Elon Musk himself struggled for hours trying to fix such issues, illustrating how even creators can't control what emerges from the training process.
-
-Yudkowsky and Soares conclude that because AIs develop drives and behaviors nobody intended or wanted, and because the current technology offers insufficient control over outcomes, humanity should halt the race to superintelligence through international treaty before creating something truly dangerous.
+The authors conclude this trajectory requires stopping through international treaty.
 
 Discussion topics to explore:{>>Examples:
 - What is "instrumental convergence"? Why would any smart AI seek self-preservation and resources?
