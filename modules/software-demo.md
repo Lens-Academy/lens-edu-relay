@@ -20,6 +20,9 @@ source:: ![[../Lenses/WP Software demo]]
 ## Lens:
 source:: ![[../Lenses/Four Background Claims]]
 # Page: short intermediate
+id:: 5ec4268f-757c-4ef7-89c1-a24b35cea850
+
+
 # Page: Summary
 id:: e2f3a4b5-c6d7-8901-e2f3-a4b5c6d78901
 ## Text
