@@ -27,7 +27,7 @@ Obsidian → Relay → staging branch → PR → main branch → Production
 
 ## Structure
 ### Course structure
-**Course** - list of
+**Course** - list of **Wee**
 : **Module** - list of
 :: **Learning outcome** - where each has three params
 ::: 1. Name of outcome
