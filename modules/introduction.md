@@ -9,7 +9,7 @@ id:: a1b2c3d4-5678-90ab-cdef-1234567890ab
 ## Text
 content::
 We begin by examining the potential of AI and the risks and opportunities that the characteristics of this technology present to humanity. {>>hello<<}
-
+{++Hello world++}
 # Learning Outcome:
 source:: ![[../Learning Outcomes/Unknown intro outcome 1]]
 # Learning Outcome:
