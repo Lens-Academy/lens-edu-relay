@@ -41,7 +41,7 @@ Discussion topics to explore:{>>Examples:
 - How do "Monkey's Paw" or "King Midas" effects apply to goal specification?
 - What do skeptics like Yann LeCun argue, and what are the counter-arguments?
 - Why might "kill switches" fail against superintelligence?<<}
-- `<Discussion point 1>`
+- The authors claim engineers understand the training process but not the resulting AI. Is this fundamentally different from traditional software, where a programmer might understand each line of code but struggle to predict complex emergent behaviors in a large system? Where exactly does the "understanding gap" become qualitatively different?
 - `<Discussion point 2>`
 - `<Discussion point 3>`
 - `<Discussion point 4>`
