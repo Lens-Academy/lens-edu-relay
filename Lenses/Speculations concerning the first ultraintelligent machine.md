@@ -22,7 +22,7 @@ And if the first ultra intelligent machine is wort a mega-keynes, how much might
 #### Chat: Intelligences building intelligences
 instructions::
 TLDR of what the user just read:
-An article that explains positive feedback loops especially with regards to civilisational competence. It explains "cascades" as breakthroughs which probabilisticly  opens up other breakthroughs in related fields and "cycles" as processes which generate some excess quantity that can be reinvested into the same process. Examples provided are neutron multiplication in radioactive materials as a cycle  and the development of writing leading to various civilisational breakthroughs as a cascade. 
+An article by IJ
 
 topics to explore:
 - Does it seem like intelligence has some universal equivalent that can be directly reinvested?
