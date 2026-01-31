@@ -7,3 +7,7 @@ discussion: <discord url>
 ## Lens:
 source::
 ![[../Lenses/Recursion Magic|Recursion Magic]]
+
+## Lens:
+source::
+![[../Lenses/Recursion Magic|Recursion Magic]]
