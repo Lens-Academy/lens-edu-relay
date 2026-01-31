@@ -6,7 +6,7 @@ source:: [[../articles/good-speculations-concerning-first-ultraintelligent-machi
 
 #### Text
 content::
-Hold these ideas about cybernetics in mind as you read the following article about types of feedback as they pertain to intelligence.
+The iss
 
 #### Article-excerpt
 from:: "The survival of man depends"
