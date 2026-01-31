@@ -19,7 +19,7 @@ What are the properties that make something a cycle rather than a cascade? Can y
 #### Chat: Discussion on Objections
 instructions::
 TLDR of what the user just read:
-An article that explains positive feedback loop
+An article that explains positive feedback loops especially wih
 
 Discussion topics to explore:
 - Which objection did they find most initially convincing? Did their view change?
