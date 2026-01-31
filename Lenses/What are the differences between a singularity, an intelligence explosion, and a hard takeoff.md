@@ -9,7 +9,7 @@ content::
 Let's get acquainted with some of the terminology used for things going very fast very quickly.oo:: "that results in hyperbolic growth."
 
 #### Article-excerpt
-from:: "* **FOOM**"
+from:: "* **FOOM**"What are the differences between a singularity, an intelligence explosion, and a hard takeoff?
 
 #### Article-excerpt
-from:: "* **FOOM**"What are the differences between a singularity, an intelligence explosion, and a hard takeoff?
+from:: "* **FOOM**"
