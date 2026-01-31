@@ -6,7 +6,7 @@ source:: [[../articles/aisafety-info-singularity-intelligence-explosion-hard-tak
 
 #### Text
 content::
-Let's get
+Let's get acquainted with some of the terminolog
 
 #### Article-excerpt
 from:: "We have historical records aplenty"
