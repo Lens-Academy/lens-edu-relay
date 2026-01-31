@@ -18,7 +18,7 @@ content::
 What are the properties that make something a cycle rather than a cascade? Can you think of cycles that could form with regards to general intelligence?
 #### Chat: Discussion on Objections
 instructions::
-TLDR of what the user just watched:
+TLDR of what the user just read:
 The video presents 10 common objections to AI safety concerns and refutes each one. Key rebuttals include: instrumental convergence explains why "just don't add bad goals" fails; implicit goals make systems LESS safe; the "asteroid analogy" shows why early preparation matters; being "for AI safety" is not the same as being "against AI."
 
 Discussion topics to explore:
