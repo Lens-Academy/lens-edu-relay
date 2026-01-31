@@ -63,7 +63,7 @@ Maybe you could diagram it something like this:
 
 This is a _causal_ tree, and changes at levels _closer to root_ have greater impacts as the effects cascade downward.
 
-So one way of looking at it is: "A computer mouse isn't recursive enough."
+So one way of looking at it is: A computer mouse isn't recursive enough.
 
 This is an issue that I need to address at further length, but for today I'm out of time.
 
