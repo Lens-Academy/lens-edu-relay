@@ -12,6 +12,10 @@ Let's get acquainted with some of the terminology used for things going very fas
 from:: "* A **(technological) singularity**"
 to:: "that results in hyperbolic growth."
 
+#### Article-excerpt
+from:: "* **"FOOM"**"
+to:: "that results in hyperbolic growth."
+
 #### Text
 content::
 If the leftover grain only produced exactly the same amount of leftover grain on the next harvest, the agricultural revolution never would have happened. In order for positive feedback to occur, the new input needs to improve the output.
