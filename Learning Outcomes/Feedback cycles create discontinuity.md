@@ -6,6 +6,7 @@ discussion: <discord url>
 
 ## Lens:
 source::
+![[cycles]]
 
 ## Lens:
 source::

@@ -12,7 +12,7 @@ content::
 
 
 # Learning Outcome:
-source:: ../learning outcomes/Feedback cycles create discontinuity
+source:: ../Learning Outcomes/Feedback cycles create discontinuity
 
 # Learning Outcome:
 source:: 
