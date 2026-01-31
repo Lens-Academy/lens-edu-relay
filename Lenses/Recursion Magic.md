@@ -6,7 +6,7 @@ source:: [[../articles/recursion-magic]]
 
 #### Text
 content::
-The fact that a pro
+The fact that a process is recursive does not necessarily mean that it l
 
 #### Article-excerpt
 from:: "Cascades are when"
