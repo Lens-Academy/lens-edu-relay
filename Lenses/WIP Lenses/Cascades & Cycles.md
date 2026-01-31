@@ -19,7 +19,9 @@ What are the properties that make something a cycle rather than a cascade? Can y
 #### Chat: Discussion on Objections
 instructions::
 TLDR of what the user just read:
-An article that explains positive feedback loops especially with regards to civilisational competence. #iDiscussion topics to explore:
+An article that explains positive feedback loops especially with regards to civilisational competence. 
+
+topics to explore:
 - Which objection did they find most initially convincing? Did their view change?
 - How does instrumental convergence counter "just don't put in bad goals"?
 - Why do implicit goals make systems less safe, not more?
