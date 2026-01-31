@@ -6,7 +6,7 @@ source:: [[../articles/good-speculations-concerning-first-ultraintelligent-machi
 
 #### Text
 content::
-The issue with self amplifying loops is that plans become obsolete very quickly. The system a few steps down the line will be dominated by effects not yet legible 
+The issue with self amplifying loops is that plans become obsolete very quickly. The system a few steps down the line will be dominated by effects not yet l
 
 #### Article-excerpt
 from:: "The survival of man depends"
