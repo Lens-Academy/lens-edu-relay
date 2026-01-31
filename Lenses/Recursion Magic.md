@@ -6,7 +6,7 @@ source:: [[../articles/recursion-magic]]
 
 #### Text
 content::
-Cybernetics is the study of systems whose output is used as their input: Successful investment produces funds which can then be invested again. There are negative feedback systems which hold themselves in equilibrium and positive feedback systems which multiply their output at each step. Hold this idea in mind as you read the following article about types of feedback as they pertain to intelligence.
+The fact that a pro
 
 #### Article-excerpt
 from:: "Cascades are when"
