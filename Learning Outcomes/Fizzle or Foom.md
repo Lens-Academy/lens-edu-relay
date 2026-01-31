@@ -7,7 +7,3 @@ discussion: <discord url>
 ## Lens:
 source::
 ![[../Lenses/Recursion Magic|Recursion Magic]]
-
-## Lens:
-source::
-![[../Lenses/Speculations concerning the first ultraintelligent machine|Speculations concerning the first ultraintelligent machine]]
