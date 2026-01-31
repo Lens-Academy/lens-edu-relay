@@ -11,7 +11,3 @@ content::
 Hello world
 # Learning Outcome:
 source:: ![[../Learning Outcomes/Feedback cycles create discontinuity]]
-
-# Learning Outcome:
-source:: 
-
