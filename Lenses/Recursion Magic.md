@@ -21,8 +21,8 @@ TLDR of what the user just read:
 An article that explains EURISKO, an optimising compiler, and examines why such a program, if plugged into itself recursively does not generate an infinite degree of program optimisation. The answers given are that the input-output behaviour is left unchanged. An optimised EURISKO might optimize a program faster than its predecessor, but it still outputs the same thing.  
 
 topics to explore:
-- What would the optimization have to be pointed at to cause an intelligence explosion?
-- where do speed and competence start to diverge?
+- What would the optimisation have to be pointed at to cause an intelligence explosion?
+- Where do speed and competence start to diverge?
 - What are the properties that make something a cycle?
 - How do cycles and cascades cause discontinuity in an otherwise gradual growth?
 - How applicable do these concepts seem to artificial intelligence?
