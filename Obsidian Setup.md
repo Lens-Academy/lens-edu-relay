@@ -56,7 +56,7 @@ To get suggest and comments working, please add this plugin. If you're missing i
 
 # Using Templates
 - Enable the *Templates* core plugin.
-	- Under plugin settings, set the ... to: `Lens/templates`
+	- Under plugin settings, set the *Template folder location* to: `Lens/templates`
 ## Editing Course Content
 - Our Relay server automatically backs up any changes to Github every 10 seconds
 - Lens Academy is synced to a private repo: https://github.com/lucbrinkman/lens-relay
