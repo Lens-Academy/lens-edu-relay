@@ -16,6 +16,8 @@ title: AI Safety Course
 
 # Module: [[../modules/coming-soon]]
 
+# Module: [[../modules/coming-soon]]
+
 # Meeting: 3
 
 # Module: [[../modules/coming-soon]]
