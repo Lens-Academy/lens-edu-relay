@@ -6,7 +6,7 @@ source:: [[../articles/good-speculations-concerning-first-ultraintelligent-machi
 
 #### Text
 content::
-The issue with self amplifying loops is that designs made 
+The issue with self amplifying loops is that plans bec
 
 #### Article-excerpt
 from:: "The survival of man depends"
