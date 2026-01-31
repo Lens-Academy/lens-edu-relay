@@ -11,6 +11,11 @@ We begin by examining the potential of AI and the risks and opportunities
 that the characteristics of this technology present to humanity.
 
 # Uncategorized:
+
+## Lens:
+source::
+![[../Lenses/Cascades_and_cycles]]
+
 ## Lens:
 source::
 ![[../Lenses/Cascades_and_cycles]]
