@@ -1,8 +1,8 @@
 ---
 id: e79dd07a-e837-483f-8534-b53b86d509b4
 ---
-### Article: Recursion, MAgi
-source:: [[../articles/cascades-cycles-insight]] 
+### Article: Recursion, Magic
+source:: [[../articles/recursion-magic]] 
 
 #### Text
 content::
