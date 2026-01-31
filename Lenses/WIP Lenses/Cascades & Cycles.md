@@ -7,7 +7,7 @@ source:: [[../articles/attachments/cascades-cycles-insight]]
 
 #### Text
 content::
-We continue with an overview of the main concepts regarding AI as a source of existential threat: what capabilities of this technology are considered first and foremost, and why the task of eliminating AI risks differs from similar tasks for other impressive technologies created by humanity.
+Hold these ideas abou
 
 #### Article-excerpt
 from:: "**Cascades** are when"
