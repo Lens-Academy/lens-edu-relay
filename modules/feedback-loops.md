@@ -11,3 +11,5 @@ content::
 Much of the world is dominated by positive feedback loops. The first bit of grain that was left over and got re-planted sparked the agricultural revolution. Might the development of intelligence also contain such self-amplifying spirals?
 # Learning Outcome:
 source:: ![[../Learning Outcomes/Feedback cycles create discontinuity]]
+# Learning Outcome:
+source:: ![[../Learning Outcomes/Feedback cycles create discontinuity]]
