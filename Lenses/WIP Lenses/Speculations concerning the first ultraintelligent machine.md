@@ -13,7 +13,7 @@ from:: "The survival of man depends"
 to:: "in his own image."
 
 #### Article-excerpt
-from:: "The survival of man depends"
+from:: "Let an ultraintelligent machine be defined"
 to:: "in his own image."
 
 #### Text
