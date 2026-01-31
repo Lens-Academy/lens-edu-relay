@@ -18,7 +18,7 @@ source::
 
 ## Lens:
 source::
-![[../Lenses/Cascades_and_cycles]]
+![[../Lenses/Cascades and Cycles]]
 
 
 ## Lens:
