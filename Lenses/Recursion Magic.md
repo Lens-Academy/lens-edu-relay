@@ -23,7 +23,7 @@ An article that explains EURISKO, an optimising compiler, and examines why such 
 topics to explore:
 - What would the optimisation have to be pointed at to cause an intelligence explosion?
 - Where do speed and competence start to diverge?
-- What are the properties that make something a cycle?
+- How can the notion 
 - How do cycles and cascades cause discontinuity in an otherwise gradual growth?
 - How applicable do these concepts seem to artificial intelligence?
 
