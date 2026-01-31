@@ -6,7 +6,7 @@ discussion: <discord url>
 
 ## Lens:
 source::
-![[../Lenses/Recursion Magic|Recursion Magic]]
+![[../Lenses/Intelligence Explosion Foom|Recursion Magic]]
 
 ## Lens:
 source::
