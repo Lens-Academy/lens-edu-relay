@@ -6,7 +6,7 @@ source:: [[../articles/recursion-magic]]
 
 #### Text
 content::
-The fact that a process is recursive does not necessarily mean that it l
+The fact that a process is recursive does not necessarily mean that it leads to an explosion though
 
 #### Article-excerpt
 from:: "Cascades are when"
