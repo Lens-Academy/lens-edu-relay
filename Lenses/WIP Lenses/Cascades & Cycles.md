@@ -5,11 +5,13 @@ id: 8a70abc4-8d11-46a2-raqb-e08d10661177
 source:: [[../articles/attachments/cascades-cycles-insight]] 
 {>>Luc: Oh jesus, the formatting of the article.md is terrible. I'll fix that tomorrow. Apparently the web scraping isnt'really working yet.<<}
 
+#### Text
+content::
+We continue with an overview of the main concepts regarding AI as a source of existential threat: what capabilities of this technology are considered first and foremost, and why the task of eliminating AI risks differs from similar tasks for other impressive technologies created by humanity.
 
 #### Article-excerpt
 from:: "**Cascades** are when"
 to:: "_What is the AI's average_ _neutron multiplication factor?_"
-
 
 #### Text
 content::
