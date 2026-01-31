@@ -40,7 +40,7 @@ jobs:
 
           # Check if this commit already has a validation status
           VALIDATED=$(gh api repos/${{ github.repository }}/commits/$CURRENT_SHA/statuses \
-            --jq '.[  ] | select(.context == "validation/modules") | .state' 2>/dev/null | head -1 || echo "")
+            --jq '.[] | select(.context == "validation/modules") | .state' 2>/dev/null | head -1 || echo "")
 
           if [ -n "$VALIDATED" ]; then
             echo "Commit $CURRENT_SHA already validated (result: $VALIDATED), skipping"
