@@ -6,11 +6,7 @@ source:: [[../articles/aisafety-info-singularity-intelligence-explosion-hard-tak
 
 #### Text
 content::
-Let's get acquainted with some of the terminology used for things going very fast very quickly.
-
-#### Article-excerpt
-from:: "* A **(technological) singularity**"
-to:: "that results in hyperbolic growth."
+Let's get acquainted with some of the terminoloto:: "that results in hyperbolic growth."
 
 #### Article-excerpt
 from:: "* **FOOM**"
