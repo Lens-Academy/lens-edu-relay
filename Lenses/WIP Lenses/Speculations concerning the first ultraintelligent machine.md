@@ -14,7 +14,7 @@ to:: "in his own image."
 
 #### Article-excerpt
 from:: "Let an ultraintelligent machine be defined"
-to:: "in his own image."
+to:: "value at a megakeynes."
 
 #### Text
 content::
