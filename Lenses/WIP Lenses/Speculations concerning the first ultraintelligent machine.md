@@ -10,7 +10,7 @@ Hold these ideas about cybernetics in mind as you read the following article abo
 
 #### Article-excerpt
 from:: "The survival of man depends"
-to:: "_What is the AI's average_ _neutron multiplication factor?_"
+to:: "in his own image."
 
 #### Text
 content::
