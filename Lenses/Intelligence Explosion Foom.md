@@ -10,7 +10,7 @@ Let's get acquainted with some of the terminology used for things going very fas
 
 #### Article-excerpt
 from:: "* A **(technological) singularity**"
-to:: "recursive enough."
+to:: "that results in hyperbolic growth."
 
 #### Text
 content::
