@@ -7,6 +7,6 @@ discussion:
 ## Test:
 {>>How will we confrim that the student has achieved the learning outcome above?<<}
 ## Lens:
-source:: ![[]]
+source:: ![[AI Is Grown, Not Built]]
 ## Lens:
 source:: ![[]]
