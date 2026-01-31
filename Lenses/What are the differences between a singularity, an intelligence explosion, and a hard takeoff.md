@@ -5,7 +5,8 @@ id: c42889f8-e7bc-4e36-a3b6-faf408280102
 
 #### Text
 content::
-Let's get acquainted with some of the terminology used for things going very fast very quickly.soo:: "that results in hyperbolic growth."
+Let's get acquainted with some of the terminology used for things going very fast very quickly.oo:: "that results in hyperbolic growth."
 
 #### Article-excerpt
-from:: "* **FOOM**"
+from:: "* **FOOM**"#### Article-excerpt
+from:: "* **FOOM**"What are the differences between a singularity, an intelligence explosion, and a hard takeoff?
