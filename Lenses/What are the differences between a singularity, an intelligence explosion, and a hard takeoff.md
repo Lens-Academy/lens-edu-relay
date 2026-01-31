@@ -8,10 +8,9 @@ source:: [[../articles/aisafety-info-singularity-intelligence-explosion-hard-tak
 content::
 Let's get acquainted with some of the terminology used for things going very fast very quickly.
 
-to:: "that results in hyperbolic growth."
-
 #### Article-excerpt
 from:: "* **FOOM**"What are the differences between a singularity, an intelligence explosion, and a hard takeoff?
+to:: "that results in hyperbolic growth."
 
 #### Article-excerpt
 from:: "* **FOOM**"
