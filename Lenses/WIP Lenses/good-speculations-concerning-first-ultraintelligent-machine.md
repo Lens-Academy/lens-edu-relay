@@ -1,8 +1,8 @@
 ---
 id: 8a7ro9c4-p111-467w-2v2b-e08d10698767
 ---
-### Article: Speculations concerning the first ultraintelligent 
-source:: [[../articles/attachments/cascades-cycles-insight]] 
+### Article: Speculations concerning the first ultraintelligent machine
+source:: [[../articles/attachments/]] 
 {>>Luc: Oh jesus, the formatting of the article.md is terrible. I'll fix that tomorrow. Apparently the web scraping isnt'really working yet.<<}
 
 #### Text
