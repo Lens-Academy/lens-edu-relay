@@ -112,74 +112,74 @@ P0010, log P00001, then log P1100 (since we know log P1100 – log P1000 – log
 11. Carter, C. F., Problems of economic growth. Advancement Sci. 20, 290–296 (1963).
 12. Cherry, E. C.On Human Communication. Wiley, New York, 1957.
 13. Cherry, E. C., Two ears–but one world. In Sensory Communication (W. A. Rosenblith, ed.), pp. 99–
-116. Wiley, New York, 1961.
-14. Chomsky, N., Explanatory models in linguistics. In Logic, Methodology and Philosophy of Science (E. Nagel, P. Suppes, and A. Tarski, eds.), pp. 528-550. Stanford Univ. Press, Stanford, California, 1962.
-15. Culbertson, J. T., Consciousness and Behavior. W. C. Brown. Dubuque, Iowa, 1950.
-16. Eccles, J. C., Physiology of Nerve Cells. Johns Hopkins Press, Baltimore, Maryland. 1957. 16a. Fano, R. M., Transmission of Information. Wiley, New York, 1961.
-17. Flery, P. J.,{Sp.?}Principles of Polymer Chemistry. Cornell Univ. Press, Ithaca, New York, 1953.
-18. Friedberg, R. M., A learning machine, Part I. IBM J. Res. Develop.2, 2–13 (1958).
-19. Gabor, D., Wilby, W. P. L., and Woodcock, R., A self-optimizing nonlinear filter, predictor and simulator. In Information Theory: Fourth London Symposium (E. C. Cherry, ed.), pp. 348-352. Butterworth, London and Washington, D.C., 1961.
-20. Gall, F. J., and Spurzheim, G., Anatomie et Physiologie du Système Nerveux en Général et du Cerveau en Particulier, avec des Observations sur la Possibilite' de Reconnaitre Plusiuers Dispositions Intellectuelles et Morales de l’Homme et des Animaux par la Configuration de Leurs Tetes, 4 vols. Paris, 1810-1819. (Cited in Zangwill [108].) 3 and 4 are by Gall alone.
+14. Wiley, New York, 1961.
+15. Chomsky, N., Explanatory models in linguistics. In Logic, Methodology and Philosophy of Science (E. Nagel, P. Suppes, and A. Tarski, eds.), pp. 528-550. Stanford Univ. Press, Stanford, California, 1962.
+16. Culbertson, J. T., Consciousness and Behavior. W. C. Brown. Dubuque, Iowa, 1950.
+17. Eccles, J. C., Physiology of Nerve Cells. Johns Hopkins Press, Baltimore, Maryland. 1957. 16a. Fano, R. M., Transmission of Information. Wiley, New York, 1961.
+18. Flery, P. J.,{Sp.?}Principles of Polymer Chemistry. Cornell Univ. Press, Ithaca, New York, 1953.
+19. Friedberg, R. M., A learning machine, Part I. IBM J. Res. Develop.2, 2–13 (1958).
+20. Gabor, D., Wilby, W. P. L., and Woodcock, R., A self-optimizing nonlinear filter, predictor and simulator. In Information Theory: Fourth London Symposium (E. C. Cherry, ed.), pp. 348-352. Butterworth, London and Washington, D.C., 1961.
+21. Gall, F. J., and Spurzheim, G., Anatomie et Physiologie du Système Nerveux en Général et du Cerveau en Particulier, avec des Observations sur la Possibilite' de Reconnaitre Plusiuers Dispositions Intellectuelles et Morales de l’Homme et des Animaux par la Configuration de Leurs Tetes, 4 vols. Paris, 1810-1819. (Cited in Zangwill [108].) 3 and 4 are by Gall alone.
 
-21. Good, I. J., Probability and the Weighing of Evidence. Hafner, New York, 1950.
-22. Good, I. J., Review of a book by D. R. Hartree. J. Roy. Statist. Soc. A114, 107 (1951).
-23. Good, I. J., Rational decisions. J. Roy. Statist. Soc. B14, 107–114 (1952).
-24. Good, I. J., in Communication Theory (W. Jackson, ed.), p. 267. Butter-worth, London and Washington, D.C., 1953.
-25. Good, I. J., On the population frequencies of species and the estimation of population parameters. Biometrika40, 237–264 (1953).
-26. Good, I. J., Some terminology and notation in information theory, Proc. IEE (London) Part C (3) 103, 200–204 (1956).
-27. Good, I. J., On the estimation of small frequencies in contingency tables. J. Roy. Statist. Soc. B18, 113–124 (1956).
-28. Good, I. J., Distribution of word frequencies. Nature179, 595 (1957).
-29. Good, I. J., Review of a book by G. S. Brown. Brit. J. Phil. Sci.9, 254 (1958).
-30. Good, I. J., How much science can you have at your fingertips? IBM J. Res. Develop. 2, 282–288 (1958).
-31. Good, I. J., Speculations concerning information retrieval. Research Rept. No. RC-78, IBM, Yorktown Heights, New York (1958).
-32. Good, I. J., The interaction algorithm and practical fourier analysis, J. Roy. Statist. Soc. B20, 361– 372 (1958); B22, 372–375 (1960).
-33. Good, I. J., Could a machine make probability judgments? Computers Automation 8, 14–16 and 24– 26 (1959).
-34. Good, I. J., Speculations on perceptrons and other Automata. Research Rept. No. RC-115, IBM, Yorktown Heights, New York (1959).
-35. Good, I. J., Proc. Intern. Conf. Sci. Inform., pp. 1404 and 1406. Natl. Acad. Sci. and Natl. Research Council, Washington, D.C., 1959.
-36. Good, I. J., Kinds of probability. Scicnce129, 443–447 (1959). Italian translation in L’Industria, 1959.
-37. Good, I. J., Effective sampling rates for signal detection or can the Gaussian model be salvaged? Inform. Control3, 116–140 (1960).
-38. Good, I. J., Weight of evidence, causality, and false-alarm probabilities. In Information Theory: Fourth London Symposium (E. C. Cherry, ed.), pp. 125–136. Butterwortb, London and Washington, D.C., 1961.
-39. Good, I. J., A causal calculus, Brit. J. Phil. Sci. 11, 305-319 (1961); 12, 43–51 (1961); 13, 88 (1962).
-40. Good, I. J., How rational should a manager be? Management Sci. 8, 383– 393 (1962). To be reprinted, with minor corrections, in Executive Readings in Management Science, Vol. I (M. K. Starr, ed.). Macmillan, New York, 1965, in press.
-41. Good, I. J., Botryological speculations. In The Scientist Speculates (I. J. Good, A. J., Mayne, and J. Maynard Smith, eds.) pp. 120-132. Basic Books, New York, 1963.
-42. Good, I. J., Review of a book by J. Wolfowitz. J. Roy. Statist. Soc. A125, 643–645 (1962).
-43. Good, I. J., The mind-body problem, or could an android feel pain? In Theories of the Mind (J. M. Scher, ed.), pp. 490-518. Glencee, New York, 1962.
-44. Good, I. J., The social implications of artificial intelligence. In The Scientist Speculates 1411, pp. 192–198.
-45. Good, I. J., Cascade theory and the molecular weight averages of the Sol fraction. Proc. Roy. Soc. A272, 54–59 (1963).
-46. Good, I. J., The relevance of semantics to the economical construction of an artificial intelligence. In Artificial Intelligence [1], pp. 157–168.
-47. Good, I. J., Maximum entropy for hypothesis formulation, especially for multidimensional contingency tables. Ann. Math. Statist.34, 911–934 (1963).
-48. Good, I. J., The Estimation of Probabilities. M.I.T. Press, Cambridge, Massachusetts, 1965.
-49. Good, I. J., The human preserve. Spaceflight in press (1965).
+22. Good, I. J., Probability and the Weighing of Evidence. Hafner, New York, 1950.
+23. Good, I. J., Review of a book by D. R. Hartree. J. Roy. Statist. Soc. A114, 107 (1951).
+24. Good, I. J., Rational decisions. J. Roy. Statist. Soc. B14, 107–114 (1952).
+25. Good, I. J., in Communication Theory (W. Jackson, ed.), p. 267. Butter-worth, London and Washington, D.C., 1953.
+26. Good, I. J., On the population frequencies of species and the estimation of population parameters. Biometrika40, 237–264 (1953).
+27. Good, I. J., Some terminology and notation in information theory, Proc. IEE (London) Part C (3) 103, 200–204 (1956).
+28. Good, I. J., On the estimation of small frequencies in contingency tables. J. Roy. Statist. Soc. B18, 113–124 (1956).
+29. Good, I. J., Distribution of word frequencies. Nature179, 595 (1957).
+30. Good, I. J., Review of a book by G. S. Brown. Brit. J. Phil. Sci.9, 254 (1958).
+31. Good, I. J., How much science can you have at your fingertips? IBM J. Res. Develop. 2, 282–288 (1958).
+32. Good, I. J., Speculations concerning information retrieval. Research Rept. No. RC-78, IBM, Yorktown Heights, New York (1958).
+33. Good, I. J., The interaction algorithm and practical fourier analysis, J. Roy. Statist. Soc. B20, 361– 372 (1958); B22, 372–375 (1960).
+34. Good, I. J., Could a machine make probability judgments? Computers Automation 8, 14–16 and 24– 26 (1959).
+35. Good, I. J., Speculations on perceptrons and other Automata. Research Rept. No. RC-115, IBM, Yorktown Heights, New York (1959).
+36. Good, I. J., Proc. Intern. Conf. Sci. Inform., pp. 1404 and 1406. Natl. Acad. Sci. and Natl. Research Council, Washington, D.C., 1959.
+37. Good, I. J., Kinds of probability. Scicnce129, 443–447 (1959). Italian translation in L’Industria, 1959.
+38. Good, I. J., Effective sampling rates for signal detection or can the Gaussian model be salvaged? Inform. Control3, 116–140 (1960).
+39. Good, I. J., Weight of evidence, causality, and false-alarm probabilities. In Information Theory: Fourth London Symposium (E. C. Cherry, ed.), pp. 125–136. Butterwortb, London and Washington, D.C., 1961.
+40. Good, I. J., A causal calculus, Brit. J. Phil. Sci. 11, 305-319 (1961); 12, 43–51 (1961); 13, 88 (1962).
+41. Good, I. J., How rational should a manager be? Management Sci. 8, 383– 393 (1962). To be reprinted, with minor corrections, in Executive Readings in Management Science, Vol. I (M. K. Starr, ed.). Macmillan, New York, 1965, in press.
+42. Good, I. J., Botryological speculations. In The Scientist Speculates (I. J. Good, A. J., Mayne, and J. Maynard Smith, eds.) pp. 120-132. Basic Books, New York, 1963.
+43. Good, I. J., Review of a book by J. Wolfowitz. J. Roy. Statist. Soc. A125, 643–645 (1962).
+44. Good, I. J., The mind-body problem, or could an android feel pain? In Theories of the Mind (J. M. Scher, ed.), pp. 490-518. Glencee, New York, 1962.
+45. Good, I. J., The social implications of artificial intelligence. In The Scientist Speculates 1411, pp. 192–198.
+46. Good, I. J., Cascade theory and the molecular weight averages of the Sol fraction. Proc. Roy. Soc. A272, 54–59 (1963).
+47. Good, I. J., The relevance of semantics to the economical construction of an artificial intelligence. In Artificial Intelligence [1], pp. 157–168.
+48. Good, I. J., Maximum entropy for hypothesis formulation, especially for multidimensional contingency tables. Ann. Math. Statist.34, 911–934 (1963).
+49. Good, I. J., The Estimation of Probabilities. M.I.T. Press, Cambridge, Massachusetts, 1965.
+50. Good, I. J., The human preserve. Spaceflight in press (1965).
 
-50. Greene, P. H., An approach to computers that perceive, learn, and reason. Proc. Western Joint Computer Conf., pp. 181–186 (1959).
-51. Halmos, P. R., Naive Set Theory. Van Nostrand, Princeton, New Jersey, 1960.
-52. Hartmanis, J., The application of some basic inequalities for entropy. Inform. Control. 2, 199–213 (1959).
-53. Hayek, F. A., The Sensory Order. Univ. of Chicago Press, Chicago, Illinois, 1952.
-54. Hebb, D. O., Organization of Behavior. Wiley, New York, 1949.
-55. Jaynes, E. T., Information theory and statistical mechanics. Phys. Rev. 106, 620–630 (1957); 108, 171–190 (1957).
-56. Jaynes, E. T., New engineering applications of information theory. Proc. First -Symp. Eng. Applications of Function Theory and Probability (J. L. Bogdanoff and F. Kozin, eds.), pp. 163–203. Wiley, New York, 1963.
-57. John, E. R., Some speculations on the psychophysiology of mind. In Theories of the Mind [43], pp. 80–121.
-58. Johnson, W. E., Appendix (ed. by R.. B. Braithwaite) to Probability: deductive and inductive problems. Mind 41, 421–423 (1932).
-59. Kalmus, H., Analogies of language to life. In The Scientist Speculates [41], pp. 274-279.
-60. Kiseda, J. H., Peterson, H. E., Seelbach, W. C., and Teig, M., A magnetic associative memory, IBM J. Res. Develop.5, 106–121 (1961).
-61. Lashley, K. S, In search of the engram. Symp. Soc. Exptl. Riot.4, 454–482 (1950).
-62. Lewis, P. M., II, Approximating probability distributions to reduce storage requirements. Inform. Control 2, 214-225 (1959).
-63. MacKay, D. M., The epistomological problem for Automata. In Automata Studies (C. E. Shannon and J. McCartby, eds.), pp. 235-251. Princeton Univ. Press, Princeton, New Jersey, 1956.
-64. Maron, M. E., and Kuhns, J. L., On relevance, probabilistic indexing and information retrieval. J. Assoc. Computing Machinery 7, 216-244 (1960).
-65. McDermid, W. L., and Peterson, H. E., A magnetic associative memory system, IBM J. Res. Develop. 5, 59–62 (1961).
-66. McDougall, W., Primer of Physiological Psychology. Dent, London, 1905.
-67. McGill, W., and Quastler, H., Standardized nomenclature: an attempt. In Information Theory in Psychology (H. Quastler, ed.), pp. 83–92. Glencee, New York, 1955.
-68. Middleton, D., and Van Meter, D., Detection and extraction of signals in noise from the point of view of statistical decision theory. J. SIAM 3, 192–253 (1956); 4, 86-119 (1956).
-69. Miller, G. A., Human memory and the storage of information. IRE Trans. Information Theory 2, 129–137 (1956).
-70. Miller, G. A., and Selfridge, J. A., Verbal context and the recall of meaningful material. Am. J. Psychol. 63, 176–185 (1950).
-71. Milner, P. M., The cell assembly: Mark II. Psychol. Rev. 64, 242–252 (1957).
-72. Minsky, M., A selected descriptor-indexed bibliography to the literature on artificial intelligence. IRE Trans. Human Factors in Electron. 2, 39–55 (1961).
-73. Minsky, M., and Selfridge, O. G., Learning in random nets. In Information Theory: Fourth London Symposium (E. C. Cherry, ed.), pp. 335–347. Butter-worth, London and Washington, D. C., 1961.
-74. Mueller, P., Principles of temporal recognition in artificial neuron nets with application to speech recognition. In Artificial Intelligence [1], pp. 137–144.
-75. Needham, R. M., Research on information retrieval, Classification and Grouping. Rept. No. M.-L.- 149, Cambridge Language Research Unit, 1961.
-76. Needham, R. M., A method for using computers in information classification. In Information Processing 1962, (M. Popplewell, ed.), pp. 284-287. North-Holland Publ. Co., Amsterdam, 1963.
-77. Neyman, J., and Scott, E. L., Statistical approach to problems of cosmology. J. Roy. Statist. Soc. B20, 1–43 (1958).
-78. Parker-Rhodes, A. F., Notes for a prodromus to the theory of clumps. Rept. No. LRU-911.2,
+51. Greene, P. H., An approach to computers that perceive, learn, and reason. Proc. Western Joint Computer Conf., pp. 181–186 (1959).
+52. Halmos, P. R., Naive Set Theory. Van Nostrand, Princeton, New Jersey, 1960.
+53. Hartmanis, J., The application of some basic inequalities for entropy. Inform. Control. 2, 199–213 (1959).
+54. Hayek, F. A., The Sensory Order. Univ. of Chicago Press, Chicago, Illinois, 1952.
+55. Hebb, D. O., Organization of Behavior. Wiley, New York, 1949.
+56. Jaynes, E. T., Information theory and statistical mechanics. Phys. Rev. 106, 620–630 (1957); 108, 171–190 (1957).
+57. Jaynes, E. T., New engineering applications of information theory. Proc. First -Symp. Eng. Applications of Function Theory and Probability (J. L. Bogdanoff and F. Kozin, eds.), pp. 163–203. Wiley, New York, 1963.
+58. John, E. R., Some speculations on the psychophysiology of mind. In Theories of the Mind [43], pp. 80–121.
+59. Johnson, W. E., Appendix (ed. by R.. B. Braithwaite) to Probability: deductive and inductive problems. Mind 41, 421–423 (1932).
+60. Kalmus, H., Analogies of language to life. In The Scientist Speculates [41], pp. 274-279.
+61. Kiseda, J. H., Peterson, H. E., Seelbach, W. C., and Teig, M., A magnetic associative memory, IBM J. Res. Develop.5, 106–121 (1961).
+62. Lashley, K. S, In search of the engram. Symp. Soc. Exptl. Riot.4, 454–482 (1950).
+63. Lewis, P. M., II, Approximating probability distributions to reduce storage requirements. Inform. Control 2, 214-225 (1959).
+64. MacKay, D. M., The epistomological problem for Automata. In Automata Studies (C. E. Shannon and J. McCartby, eds.), pp. 235-251. Princeton Univ. Press, Princeton, New Jersey, 1956.
+65. Maron, M. E., and Kuhns, J. L., On relevance, probabilistic indexing and information retrieval. J. Assoc. Computing Machinery 7, 216-244 (1960).
+66. McDermid, W. L., and Peterson, H. E., A magnetic associative memory system, IBM J. Res. Develop. 5, 59–62 (1961).
+67. McDougall, W., Primer of Physiological Psychology. Dent, London, 1905.
+68. McGill, W., and Quastler, H., Standardized nomenclature: an attempt. In Information Theory in Psychology (H. Quastler, ed.), pp. 83–92. Glencee, New York, 1955.
+69. Middleton, D., and Van Meter, D., Detection and extraction of signals in noise from the point of view of statistical decision theory. J. SIAM 3, 192–253 (1956); 4, 86-119 (1956).
+70. Miller, G. A., Human memory and the storage of information. IRE Trans. Information Theory 2, 129–137 (1956).
+71. Miller, G. A., and Selfridge, J. A., Verbal context and the recall of meaningful material. Am. J. Psychol. 63, 176–185 (1950).
+72. Milner, P. M., The cell assembly: Mark II. Psychol. Rev. 64, 242–252 (1957).
+73. Minsky, M., A selected descriptor-indexed bibliography to the literature on artificial intelligence. IRE Trans. Human Factors in Electron. 2, 39–55 (1961).
+74. Minsky, M., and Selfridge, O. G., Learning in random nets. In Information Theory: Fourth London Symposium (E. C. Cherry, ed.), pp. 335–347. Butter-worth, London and Washington, D. C., 1961.
+75. Mueller, P., Principles of temporal recognition in artificial neuron nets with application to speech recognition. In Artificial Intelligence [1], pp. 137–144.
+76. Needham, R. M., Research on information retrieval, Classification and Grouping. Rept. No. M.-L.- 149, Cambridge Language Research Unit, 1961.
+77. Needham, R. M., A method for using computers in information classification. In Information Processing 1962, (M. Popplewell, ed.), pp. 284-287. North-Holland Publ. Co., Amsterdam, 1963.
+78. Neyman, J., and Scott, E. L., Statistical approach to problems of cosmology. J. Roy. Statist. Soc. B20, 1–43 (1958).
+79. Parker-Rhodes, A. F., Notes for a prodromus to the theory of clumps. Rept. No. LRU-911.2,
 
 Cambridge Language Research Unit, 1959. 78a. Pask, G., A discussion of artificial intelligence and self-organization. Advan. Computers 5, 109– 226 (1964).
 79. Penfield, W., and Jasper, H., Highest level seizures. Res. Publ. Assoc. Nervous Mental Disease 26, 252–271 (1947).
@@ -213,3 +213,4 @@ Cambridge Language Research Unit, 1959. 78a. Pask, G., A discussion of artificia
 106. Wozencraft, J. M., and Reiffen, B., Sequential Coding. Wiley. New York,. 1961.
 107. Yngve, V. H., The depth hypothesis. In Structure of Language and its Mathematical Aspects (R. Jakobson, ed.), pp. 130–138. Am. Math. Soc., Providence, Rhode Island, 1961.
 108. Zangwill, O. L., The cerebral localisation of psychological function. Advancement Sci. 20, 335-344 (1963). 4 Only items mentioned in the text are listed here; for a bibliography on artificial intelligence see Minsky [72]. Created: September 13, 1999 Last Modified: November 14, 1999 HTML Editor: Robert J. Bradbury
+dified: November 14, 1999 HTML Editor: Robert J. Bradbury
