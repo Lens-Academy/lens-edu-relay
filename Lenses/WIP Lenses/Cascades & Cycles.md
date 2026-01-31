@@ -24,7 +24,7 @@ An article that explains positive feedback loops especially with regards to civi
 topics to explore:
 - Does it seem like intelligence has some universal equivalent that can be directly reinvested?
 - What is AI's neutron multiplication factor?
-- What are the pr?
+- What are the properties that make something a cycle?
 - What's the flaw in "human-AI teams will keep things safe"?
 - How does the video respond to the "overpopulation on Mars" analogy?
 
