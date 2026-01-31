@@ -1,7 +1,7 @@
 ---
 id: c42889f8-e7bc-4e36-a3b6-faf408280102
 ---
-### Article: Recursion, Magic
+### Article: What are the differences between a singularity, an intelligence explosion, and a hard takeoff?
 source:: [[../articles/recursion-magic]] 
 
 #### Text
