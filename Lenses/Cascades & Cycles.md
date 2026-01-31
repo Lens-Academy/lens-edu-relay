@@ -3,7 +3,6 @@ id: 8a70abc4-8d11-46a2-raqb-e08d10661177
 ---
 ### Article: Cascades, Cycles, Insight...
 source:: [[../articles/cascades-cycles-insight]] 
-{>>Luc: Oh jesus, the formatting of the article.md is terrible. I'll fix that tomorrow. Apparently the web scraping isnt'really working yet.<<}
 
 #### Text
 content::
