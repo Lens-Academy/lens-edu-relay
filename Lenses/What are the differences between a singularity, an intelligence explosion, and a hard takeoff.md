@@ -16,4 +16,5 @@ to:: "that results in hyperbolic growth."
 from:: "* **FOOM**"
 
 #### Chat
-ins
+instructions::
+The user just read What are the differences between a singularity, an intelligence explosion, and a hard takeoff
