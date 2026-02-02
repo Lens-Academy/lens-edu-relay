@@ -15,6 +15,9 @@ to:: "that results in hyperbolic growth."
 #### Article-excerpt
 from:: "* **FOOM**"
 
+#### Text
+content::
+
 #### Chat
 instructions::
-The user just read What are the differences between a singularity, an intelligence explosion, and a hard takeoff
+The user just read what are the differences between a singularity, an intelligence explosion, and a hard takeoff
