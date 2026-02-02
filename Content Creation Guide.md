@@ -50,7 +50,8 @@ The actual learning content. A Lens combines:
 - Introductory text (context for the student)
 - An AI chat discussion (to check understanding and explore ideas)
 
-## Using template
+#### Using templates
+See [[Obsidian Setup#]]
 
 ---
 
