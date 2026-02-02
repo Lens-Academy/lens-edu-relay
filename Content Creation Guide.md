@@ -9,7 +9,7 @@ This guide helps you create content for Lens Academy. It's written for educators
 A "week" in our course is the content students work through between meetings. To create a week's content:
 
 1. First, understand [[#How It All Fits Together|how the pieces connect]]
-2. create [[#Creating a Module|Modules]] — the containers that organize everything
+2. Create the [[#Creating a Module|Module(s))]] — the containers that organize everything
 3. Then create your [[#Creating a Learning Outcome|Learning Outcomes]] — what students will be able to DO
 4. Next, create [[#Creating a Lens|Lenses]] — the articles and discussions that teach each outcome
 5. Finally, 
