@@ -51,7 +51,7 @@ The actual learning content. A Lens combines:
 - An AI chat discussion (to check understanding and explore ideas)
 
 #### Using templates
-See [[Obsidian Setup#]]
+See [[Obsidian Setup#Using Templates]]
 
 ---
 
