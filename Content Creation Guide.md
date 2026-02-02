@@ -121,7 +121,7 @@ Find or write the article that teaches the concept. Articles live in `Lens Edu/a
 
 ### Step 2: Create the Lens file
 
-Create a new file in `Lens Edu/Lenses/` with a descriptive name.
+Create a new file in `Lens Edu/Lenses/WIP` with a descriptive name.
 
 ### Step 3: Add the required parts
 
