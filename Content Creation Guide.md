@@ -10,9 +10,8 @@ A "week" in our course is the content students work through between meetings. To
 
 1. First, understand [[#How It All Fits Together|how the pieces connect]]
 2. Create the [[#Creating a Module|Module(s))]] — the containers that organize everything
-3. Then create your [[#Creating a Learning Outcome|Learning Outcomes]] — what students will be able to DO
-4. Next, create [[#Creating a Lens|Lenses]] — the articles and discussions that teach each outcome
-5. Finally, 
+3.  create your [[#Creating a Learning Outcome|Learning Outcomes]] — what students will be able to DO
+4. Create [[#Creating a Lens|Lenses]] — the articles and discussions that teach each outcome
 
 Most contributors start with Learning Outcomes because they define what you're trying to teach.
 
