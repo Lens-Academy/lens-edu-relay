@@ -26,8 +26,7 @@ Course
   └── Week (defined by Meetings)
         └── Module (1-3 per week)
               ├── Learning Outcomes
-              │     └── Lenses (the actual content)
-              └── Uncategorized Lenses (optional extras)
+                   └── Lenses (the actual content)
 ```
 
 ### What each piece does
