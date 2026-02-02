@@ -15,7 +15,7 @@ that the characteristics of this technology present to humanity.
 
 ## Lens:
 source::
-![[../Lenses  /Sp asdaeculations concerning the first ultraintelligent machine]]
+![[../Lenses/Speculations concerning the first ultraintelligent machine]]
 
 ## Lens:
 source::
