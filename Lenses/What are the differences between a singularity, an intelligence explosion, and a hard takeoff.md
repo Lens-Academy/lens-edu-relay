@@ -20,4 +20,4 @@ content::
 Discuss any questions you may have with the chatbot, or feel free to skip this chat instance:
 #### Chat
 instructions::
-The user just read "what are the differences between a singularity, an intelligence explosion, and a hard takeoff
+The user just read "What are the differences between a singularity, an intelligence explosion, and a hard takeoff?" Help them with any questions they have, ideally socratic s
