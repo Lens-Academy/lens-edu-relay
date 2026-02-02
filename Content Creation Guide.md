@@ -71,7 +71,7 @@ Think about what you want students to accomplish. Use action verbs:
 
 ### Step 2: Create the file
 
-Create a new file in `Lens Edu/Learning Outcomes/` with a descriptive name.
+Create a new file in `Lens Edu/Learning Outcomes/WIP` with a descriptive name.
 
 ### Step 3: Add the required parts
 
