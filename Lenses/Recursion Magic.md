@@ -6,7 +6,7 @@ source:: [[../articles/recursion-magic]]
 
 #### Text
 content::
-Getting to plug the outputs of a process back into the input does not necessarily lead to an explosion though. Consider the case of EURISKO.
+Getting to plug the outputs of a process back into the input does not necessarily lead to an explosion though. Consider the case of EURISKO:
 
 #### Article-excerpt
 from:: "We have historical records aplenty"
