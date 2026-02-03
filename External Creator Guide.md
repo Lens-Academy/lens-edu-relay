@@ -1,8 +1,8 @@
 # External Creator Guide
 
-This guide is for content creators who work in Google Docs (or similar tools) and submit content for the tech team to port into the learning platform. You don't need to touch Obsidian or learn any technical syntax — just focus on the content itself.
+This guide is for content creators who work in Google Docs (or similar tools) and submit content for the tech team to port into the learning platform. Creators do not need to touch Obsidian or learn any technical syntax — the focus is on content itself.
 
-**See it live:** [Lens Academy Learning Platform](https://lens.academy) (placeholder — ask tech team for current URL)
+**See it live:** [Introduction Module - First Week](https://lensacademy.org/course/default/module/introduction#ai-humanitys-final-invention)
 
 ---
 
@@ -42,15 +42,15 @@ If you've been organizing content your own way, here's how it maps:
 
 ---
 
-## What We Need From You (Division of Labor)
+## Division of Labor
 
-Here's what you provide vs what the tech team handles:
+Here's what creators provide vs what the tech team handles:
 
 | Component | You Provide | Tech Team Handles |
 |-----------|-------------|-------------------|
 | **Article/Video URLs** | Submit early (enables parallel scraping) | Scrape fulltext and transcripts |
 | **Learning Outcome** | Action statement ("Distinguish between X and Y") | Port to template format |
-| **Test** | Skip for alpha phase | — |
+| **Test** | (optional for Alpha) | — |
 | **Intro text** | Context before the reading (1-2 sentences) | Port to Lens format |
 | **Discussion topics** | 2-3 questions (preferred) or we can draft | Review and finalize |
 | **Chatbot prompt** | How student should engage after reading (preferred) | Review and finalize |
@@ -108,52 +108,51 @@ Once we've scraped the articles, you'll find the fulltext in the shared folder. 
 
 ---
 
-## Component Completeness Tables
+## Object Readiness Tables
 
-Copy these tables into your Google Doc and fill them in as you go. This makes handoff clear — when all boxes are checked, that component is ready to port.
+Copy these tables into the Google Doc and fill them in as content is developed. When all rows are complete, that object is ready to port.
 
-### Module Checklist
+### Module Readiness
 
-```
-MODULE: [title]
-[ ] Title
-[ ] Short description / welcome text
-[ ] List of Learning Outcomes (titles only — details go in LO checklist)
-```
+| Requirement | Assigned to | Completed by | Date | Comments |
+|-------------|-------------|--------------|------|----------|
+| Title | [Creator] | | | |
+| Short description | [Creator] | | | |
+| Learning Outcomes list | [Creator] | | | |
 
-### Learning Outcome Checklist
+### Learning Outcome Readiness
 
-```
-LEARNING OUTCOME: [title]
-[ ] Action statement (starts with verb: Explain, Distinguish, Identify, Compare...)
-[ ] Test (SKIP FOR ALPHA)
-[ ] List of Lenses that teach this (titles only — details go in Lens checklist)
-```
+| Requirement | Assigned to | Completed by | Date | Comments |
+|-------------|-------------|--------------|------|----------|
+| Action statement | [Creator] | | | |
+| Test (optional for Alpha) | [Creator] | | | |
+| Lenses list | [Creator] | | | |
 
-### Lens Checklist
+### Lens Readiness
 
-```
-LENS: [article/video title]
-[ ] Article or video URL
-[ ] Category: Core / Supplemental / Basic Overview
-[ ] Intro text (1-2 sentences of context before reading)
-[ ] Discussion topics (2-3 questions for AI tutor)
-[ ] Chatbot prompt (how student should engage after reading)
-```
+| Requirement | Assigned to | Completed by | Date | Comments |
+|-------------|-------------|--------------|------|----------|
+| URL | [Creator] | | | |
+| Category | [Creator] | | | |
+| Intro text | [Creator] | | | |
+| Discussion topics | [Creator] | | | |
+| Chatbot prompt | [Creator] | | | |
+| Fulltext scraped | [Tech] | | | |
+| TLDR generated | [Tech] | | | |
 
 ---
 
 ## Handoff Model
 
-You don't need to finish everything before handing off. We use a **rolling handoff** model:
+Creators don't need to finish everything before handing off. The workflow uses a **rolling handoff** model:
 
 - Submit URLs immediately (Step 1)
-- Hand off individual Learning Outcomes as you complete them
-- Hand off individual Lenses as you complete them
-- Don't wait for perfection — we can iterate
+- Hand off individual Learning Outcomes as they are completed
+- Hand off individual Lenses as they are completed
+- Perfection not required — iteration is expected
 
 **When is something ready to hand off?**
-When its completeness checklist is filled in. Doesn't need to be perfect prose — we'll review and polish together.
+When its readiness table is filled in. Prose does not need to be perfect — review and polish happens collaboratively.
 
 ---
 
@@ -254,12 +253,16 @@ This structure makes it easy for us to port your content quickly and accurately.
 
 ---
 
-## Getting Help
+## Questions and Discussion
 
-- **Questions about content structure:** Ask in the course planning Discord channel
-- **Technical questions:** Reach out to the tech team
-- **See it live:** Visit [Lens Academy](https://lens.academy) to see how finished content looks to students
+All questions and discussion happen in Discord. Each week has its own discussion thread:
+- "Week 1 materials"
+- "Week 2 materials"
+- "Week 3 materials"
+- etc.
+
+Post content questions, technical questions, and handoff coordination in the relevant week's thread.
 
 ---
 
-*Last updated: 2026-02-02*
+*Last updated: 2026-02-03*
