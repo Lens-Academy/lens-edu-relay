@@ -13,7 +13,7 @@ to:: "`<an exact quote from the article where the exerpt should stop>`"
 
 #### Text
 content::
-`<prompt the user on how they should interact with the chatbot>`{>>Example: In your own words, what is instrumental convergence?<<}
+How can LLMs exhibit the properties of oracles, agents, or tools while remaining statistical predictors?
 #### Chat: Discussion on X-Risk
 instructions::
 TLDR of what the user just read:{>>Example: 
