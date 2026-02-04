@@ -30,15 +30,3 @@ The theory also offers an explanation for several other characteristics of LLMs:
 - Under simulator theory, an LLM is always playing some role, so getting it to play a different character allows it to give a different set of responses. Many successful [jailbreaks](https://aisafety.info/questions/8RHW/What-is-jailbreaking-a-large-language-model-LLM) involve getting an LLM to “pretend” to be a particular character.
 
 LLMs are sometimes thought of as agents with the goal of continuing a sequence of words as accurately as possible, but there are important ways in which LLMs don’t behave in line with this perspective. For example, they don’t seem to take actions to improve their prediction accuracy beyond the next word, such as deliberately choosing outputs (like long quotes) that will continue in predictable ways. Reasoning around AI as an existential risk tends to frame dangerous AIs as [agents](https://aisafety.info/questions/5632/What-is-an-agent), but these ways of thinking will be less relevant if the most powerful models continue to act mostly as simulators.
-
----
-
----
-
-[AISafety.info](https://aisafety.info/)
-
-AISafety.info is a project founded by [Rob Miles](https://www.youtube.com/c/robertmilesai). The website is maintained by a global team of specialists and volunteers from various backgrounds who want to ensure that the effects of future AI are beneficial rather than catastrophic.
-
-Partner projects
-
-[AISafety.com](https://www.aisafety.com/)
