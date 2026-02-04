@@ -584,4 +584,82 @@ In my mind, “simulator”, like most natural language categories, has fuzzy bo
 30. <sup><strong><a href="https://www.lesswrong.com/s/N7nDePaNabJdnbXeE/p/#fnrefbfhs37ysptj">^</a></strong></sup>
 	GANs and diffusion models can be unconditioned (unsupervised) or conditioned (self-supervised)
 31. <sup><strong><a href="https://www.lesswrong.com/s/N7nDePaNabJdnbXeE/p/#fnrefyqbdfj6rki8">^</a></strong></sup>
-	The human imagination is surely shaped by self-supervised learning (predictive learning on e.g. sensory datastreams), but probably also other influences, including innate structure and reinforcement.
+	The human imagination is surely shaped by self-supervised learning (predictive learning on e.g. sensory datastreams), but probably also other influences, including innate structure and reinforcement.---
+title: "Simulators — LessWrong"
+source: "https://www.lesswrong.com/s/N7nDePaNabJdnbXeE/p/vJFdjigzmcXMhNTsx"
+author:
+published: 2022-09-02
+created: 2026-02-04
+description: "This post explores the concept of simulators in AI, particularly self-supervised models like GPT. Janus argues that GPT and similar models are best u…"
+tags:
+  - "clippings"
+---
+![Background Image](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/splashArtImagePromptA%20marionette%20theater%20with%20multiple%20puppeteers%20manipulating%20different%20characters/kehilmgftixxsfu9txcb)
+
+Background Image
+
+x
+
+Simulators — LessWrong
+
+[^1]: [Prediction and Entropy of Printed English](https://www.princeton.edu/~wbialek/rome/refs/shannon_51.pdf)
+
+[^2]: A few months ago, I asked Karpathy whether he ever thought about what would happen if language modeling actually worked someday when he was implementing char-rnn and writing [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/). No, he said, and he seemed similarly mystified as myself as to why not.
+
+[^3]: “Unsurprisingly, size matters: when training on a very large and complex data set, fitting the training data with an LSTM is fairly challenging. Thus, the size of the LSTM layer is a very important factor that influences the results(...). The best models are the largest we were able to fit into a GPU memory.”
+
+[^4]: It strikes me that this description may evoke “oracle”, but I’ll argue shortly that this is not the limit which prior usage of “oracle AI” has pointed to.
+
+[^5]: [Multi-Game Decision Transformers](https://arxiv.org/abs/2205.15241)
+
+[^6]: from [Philosophers On GPT-3](https://dailynous.com/2020/07/30/philosophers-gpt-3/#chalmers)
+
+[^7]: \[citation needed\]
+
+[^8]: they are not [wrapper](https://www.lesswrong.com/posts/dKTh9Td3KaJ8QW6gw/why-assume-agis-will-optimize-for-fixed-goals) [minds](https://www.lesswrong.com/posts/Mrz2srZWc7EzbADSo/wrapper-minds-are-the-enemy)
+
+[^9]: although a simulated character might, if they knew what was happening.
+
+[^10]: You might say that it’s the will of a different agent, the author. But this pattern is learned from accounts of [real life](https://www.lesswrong.com/posts/sYgv4eYH82JEsTD34/beyond-the-reach-of-god) as well.
+
+[^11]: Note that this formulation assumes inner alignment to the prediction objective.
+
+[^12]: Note that this is a distinct claim from that of [Shard Theory](https://www.lesswrong.com/s/nyEFg3AuJpdAozmoX), which says that the effective agent(s) will not optimize for the outer objective  *due to inner misalignment.* Predictive orthogonality refers to the outer objective and the form of idealized inner-aligned policies.
+
+[^13]: In the Eleuther discord
+
+[^14]: And if there is an inner alignment failure such that GPT forms preferences over the consequences of its actions, it’s not clear a priori that it will care about non-myopic text prediction over something else.
+
+[^15]: Having spoken to Gwern since, his perspective seems more akin to seeing physics as an agent that [minimizes free energy](https://en.wikipedia.org/wiki/Principle_of_minimum_energy), a  [principle](https://en.wikipedia.org/wiki/Free_energy_principle) which extends into the domain of self-organizing systems. I think this is a nuanced and valuable framing, with a potential implication/hypothesis that dynamical world models like GPT must learn the same type of optimizer-y cognition as agentic AI.
+
+[^16]: except arguably log-loss on a self-supervised test set, which isn’t very interpretable
+
+[^17]: The way GPT is trained actually processes each token as question and answer simultaneously.
+
+[^18]: One could argue that the focus on closed-ended tasks is necessary for benchmarking language models. Yes, and the focus on capabilities measurable with standardized benchmarks is part of the supervised learning mindset.
+
+[^19]: to abuse the term
+
+[^20]: Every usage of the word “question” here is in the functional, not semantic or grammatical sense – any prompt is a question for GPT.
+
+[^21]: Of course, there are also other interventions we can make except asking the right question at the beginning.
+
+[^22]: table from [“Training language models to follow instructions with human feedback”](https://arxiv.org/abs/2203.02155)
+
+[^23]: Jean Baudrillard, Simulacra and Simulation
+
+[^24]: A [proper scoring rule](https://en.wikipedia.org/wiki/Scoring_rule#Proper_scoring_rules) is optimized by predicting the “true” probabilities of the distribution which generates observations, and thus incentivizes honest probabilistic guesses. Log-loss (such as GPT is trained with) is a proper scoring rule.
+
+[^25]: Predictive accuracy is deontological with respect to the output as an *action*, but may still incentivize instrumentally convergent inner implementation, with the output prediction itself as the “consequentialist” objective.
+
+[^26]: This isn’t strictly true because of attention gradients: GPT's computation is optimized not only to predict the next token correctly, but also to cause *future tokens to be predicted correctly* when looked up by attention. I may write a post about this in the future.
+
+[^27]: actually, the [multiverse](https://generative.ink/posts/language-models-are-multiverse-generators/), if physics is stochastic
+
+[^28]: The reason we don’t see a bunch of simulated alternate universes after humans guessed the laws of physics is because our reality has a huge state vector, making evolution according to the laws of physics infeasible to compute. Thanks to locality, we do have simulations of small configurations, though.
+
+[^29]: Prompt programming only: [beating OpenAI few-shot benchmarks with 0-shot prompts](https://arxiv.org/abs/2102.07350), [400% increase in list sorting accuracy with 0-shot Python prompt](https://generative.ink/posts/list-sorting-does-not-play-well-with-few-shot/), [up to 30% increase in benchmark accuracy from changing the order of few-shot examples](https://arxiv.org/abs/2102.09690), and, uh, [30% increase in accuracy after capitalizing the ground truth](https://twitter.com/BlancheMinerva/status/1537952688972787713). And of course, factored cognition/chain of thought/inner monologue: check out this awesome  [compilation](https://www.gwern.net/docs/ai/nn/transformer/gpt/inner-monologue/) by Gwern.
+
+[^30]: GANs and diffusion models can be unconditioned (unsupervised) or conditioned (self-supervised)
+
+[^31]: The human imagination is surely shaped by self-supervised learning (predictive learning on e.g. sensory datastreams), but probably also other influences, including innate structure and reinforcement.
