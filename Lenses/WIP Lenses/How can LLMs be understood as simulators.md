@@ -13,7 +13,7 @@ to:: "continue to act mostly as simulators."
 
 #### Text
 content::
-You might wish to discuss questions on this topic now
+Take 1-2 minutes
 #### Chat: Discussion on X-Risk
 instructions::
 Fulltext of what the user just read:
