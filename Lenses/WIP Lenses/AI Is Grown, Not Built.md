@@ -2,7 +2,7 @@
 id:
 ---
 ### Article: AI Is Grown, Not Built
-source:: [[yu]]
+source:: [[yudkowsky-soares-ai-is-grown-not-built]]
 
 #### Text
 content::
