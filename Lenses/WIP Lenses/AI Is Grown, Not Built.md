@@ -1,5 +1,5 @@
 ---
-id: <uuid, generate at https://www.uuidgenerator.net/version4>
+id: cc0b8328-78dd-408e-a5c3-35fe2ec45568
 ---
 ### Article: AI Is Grown, Not Built
 source:: [[yudkowsky-soares-ai-is-grown-not-built]]
