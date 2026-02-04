@@ -11,10 +11,6 @@ tags:
 ---
 A " [simulator](https://generative.ink/posts/simulators/) " is an AI which produces simulations of real-world phenomena. The concept was proposed as a way to understand some behaviors of (base) large language models
 
-Large language model
-
-An AI model that takes in some text and predicts how the text is most likely to continue.
-
 (LLMs) which other conceptions of AI — such as agent
 
 Agent
