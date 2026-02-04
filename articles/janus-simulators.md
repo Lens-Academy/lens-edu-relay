@@ -29,8 +29,7 @@ Existing AI taxonomies either fail to capture important properties of self-super
 The purpose of this post is to capture these objects in words ~~so GPT can reference them~~ and provide a better foundation for understanding them.
 
 I use the generic term “simulator” to refer to models trained with predictive loss on a self-supervised dataset, invariant to architecture or data type (natural language, code, pixels, game states, etc). The outer objective of self-supervised learning is Bayes-optimal conditional inference over the prior of the training distribution, which I call the **simulation objective**, because a conditional model can be used to simulate rollouts which probabilistically obey its learned distribution by iteratively sampling from its posterior (predictions) and updating the condition (prompt). Analogously, a predictive model of physics can be used to compute rollouts of phenomena in simulation. A goal-directed agent which evolves according to physics can be simulated by the physics rule parameterized by an initial state, but the same rule could also propagate agents with different values, or non-agentic phenomena like rocks. This ontological distinction between simulator (rule) and simulacra (phenomena) applies directly to generative models like GPT.
-
-
+### Meta
 - This post is intended as the first in a sequence on the alignment problem in a landscape where self-supervised simulators are a possible/likely form of powerful AI. I don’t know how many subsequent posts I’ll actually publish. Take it as a prompt.
 - I use the generic term “GPT” to refer to transformers trained on next-token prediction.
 - A while ago when I was trying to avoid having to write this post by hand, I prompted GPT-3 with an early outline of this post. I’ve spliced in some excerpts from it, `indicated by this style`. Prompt, generated text, and curation metrics [here](https://generative.ink/artifacts/simulators/).
