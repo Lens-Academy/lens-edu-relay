@@ -529,6 +529,7 @@ In my mind, “simulator”, like most natural language categories, has fuzzy bo
 | **Human imagination** | X <sup><span><a href="https://www.lesswrong.com/s/N7nDePaNabJdnbXeE/p/#fnyqbdfj6rki8">[31]</a></span></sup> |  | X | X | X | X |
 | **SimCity** |  | N/A | X | X | X |  |
 
+---
 
 [^1]: [Prediction and Entropy of Printed English](https://www.princeton.edu/~wbialek/rome/refs/shannon_51.pdf)
 
