@@ -1,6 +1,6 @@
 ---
-id:
-slug:
+id: e566648f-4309-410e-aafb-35e0e295f16b
+slug: what-even-is-ai
 title:
 discussion:
 ---
