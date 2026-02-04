@@ -16,7 +16,7 @@ content::
 How can LLMs exhibit the properties of oracles, agents, or tools while remaining statistical predictors?
 #### Chat: Discussion on X-Risk
 instructions::
-TLDR of what the user just read:{>>Example: 
+Author's own TLDR of what the user just read:{>>Example: 
 AI x-risk is the hypothesis that AGI/superintelligence could cause human extinction
 or irreversible collapse. The risk combines: capability advantages, recursive
 self-improvement, and emerging dangerous capabilities (manipulation, cyberattacks,
