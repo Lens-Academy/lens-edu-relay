@@ -24,7 +24,21 @@ self-improvement, and emerging dangerous capabilities (manipulation, cyberattack
 bioweapons)—amplified by competitive "race to the bottom" dynamics. The core crux
 is alignment: specifying goals, ensuring corrigibility, handling instrumental
 convergence. Intelligence and values are orthogonal—moral behavior isn't automatic.<<}
-`<TLDR text>`
+# Summary: Security Mindset and AI Safety
+
+This dialogue distinguishes between **"ordinary paranoia"** and **"security mindset"** - two levels of safety thinking crucial for AI alignment.
+
+**Ordinary paranoia** involves imagining specific attacks and defending against them. An ordinary paranoid encrypts password files and hides encryption keys, essentially playing a cleverness contest against adversaries.
+
+**Security mindset** goes deeper: it designs systems that don't rely on assumptions being correct in the first place. Instead of hiding passwords, hash them so even reading the file doesn't help attackers. The goal is simplifying the _reasoning_ about safety, not adding more defenses.
+
+**AI Safety Application:** The author argues AGI systems should never be designed to "fail safely" only because you assume they lack capabilities. Don't build systems that would hurt you _if_ they gained cosmic powers quickly - that means you've built something fundamentally trying to hurt you. Instead:
+
+- Use **whitelisting over blacklisting**: require operator approval for new capabilities rather than assuming you can react fast enough to dangers
+- Don't rely on assumptions about discovery speed or capability limits
+- Design systems where the safety story doesn't depend on winning cleverness contests
+
+The core insight: eliminate whole classes of assumptions from your safety reasoning, rather than piling up defenses against imagined scenarios.
 
 Discussion topics to explore:{>>Examples:
 - What is "instrumental convergence"? Why would any smart AI seek self-preservation and resources?
