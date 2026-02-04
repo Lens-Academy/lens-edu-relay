@@ -17,6 +17,7 @@ Take 1-2 minutes to summarize the key points in this reading. Don't spend too mu
 #### Chat: Discussion on X-Risk
 instructions::
 Fulltext of what the user just read:
+```
 A " [simulator](https://generative.ink/posts/simulators/) " is an AI which produces simulations of real-world phenomena. The concept was proposed as a way to understand some behaviors of (base) large language models (LLMs) which other conceptions of AI — such as agent, oracle, or tool AI— don't characterize well. In certain circumstances, a simulator might behave like an agent, oracle, or tool, because it can simulate instances of these kinds of systems.
 
 In general, a simulation is a process that models some part of the world. It does this by representing the state of what it models and repeatedly applying some rules or behaviors to the state to produce a new state.
@@ -36,6 +37,7 @@ The theory also offers an explanation for several other characteristics of LLMs:
 - Under simulator theory, an LLM is always playing some role, so getting it to play a different character allows it to give a different set of responses. Many successful [jailbreaks](https://aisafety.info/questions/8RHW/What-is-jailbreaking-a-large-language-model-LLM) involve getting an LLM to “pretend” to be a particular character.
 
 LLMs are sometimes thought of as agents with the goal of continuing a sequence of words as accurately as possible, but there are important ways in which LLMs don’t behave in line with this perspective. For example, they don’t seem to take actions to improve their prediction accuracy beyond the next word, such as deliberately choosing outputs (like long quotes) that will continue in predictable ways. Reasoning around AI as an existential risk tends to frame dangerous AIs as [agents](https://aisafety.info/questions/5632/What-is-an-agent), but these ways of thinking will be less relevant if the most powerful models continue to act mostly as simulators.
+```
 
 Ask what they found surprising or new. Check if they can explain the key concepts in their own words—it's a key concept.
 
