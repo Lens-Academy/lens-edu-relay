@@ -39,6 +39,4 @@ The theory also offers an explanation for several other characteristics of LLMs:
 LLMs are sometimes thought of as agents with the goal of continuing a sequence of words as accurately as possible, but there are important ways in which LLMs don’t behave in line with this perspective. For example, they don’t seem to take actions to improve their prediction accuracy beyond the next word, such as deliberately choosing outputs (like long quotes) that will continue in predictable ways. Reasoning around AI as an existential risk tends to frame dangerous AIs as [agents](https://aisafety.info/questions/5632/What-is-an-agent), but these ways of thinking will be less relevant if the most powerful models continue to act mostly as simulators.
 ```
 
-Ask what they found surprising or new. Check if they can explain the key concepts in their own words—it's a key concept.
-
 The user has just been told: "Take 1-2 minutes to summarize the key points in this reading. Don't spend too much time here, because the next reading covers simulator theory in much greater detail."
