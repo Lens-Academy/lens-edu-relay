@@ -13,7 +13,7 @@ to:: "continue to act mostly as simulators."
 
 #### Text
 content::
-You may discuss any quest
+You 
 #### Chat: Discussion on X-Risk
 instructions::
 TLDR of what the user just read:{>>Example: 
