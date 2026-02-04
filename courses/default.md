@@ -10,10 +10,9 @@ title: AI Safety Course
 
 # Module: [[../modules/feedback-loops]]
 
-
 # Meeting: 2
 
-# Module: [[../modules/coming-soon]]
+# Module: [[wh]]
 
 # Module: [[../modules/coming-soon]]
 
