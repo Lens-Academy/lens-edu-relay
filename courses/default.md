@@ -8,11 +8,11 @@ title: AI Safety Course
 
 # Meeting: 1
 
-# Module: [[../modules/coming-soon]]
-
-# Module: [[../modules/coming-soon]]
+# Module: [[../modules/feedback-loops]]
 
 # Meeting: 2
+
+# Module: [[what-even-is-ai]]
 
 # Module: [[../modules/coming-soon]]
 
@@ -21,3 +21,4 @@ title: AI Safety Course
 # Module: [[../modules/coming-soon]]
 
 # Meeting: 4
+
