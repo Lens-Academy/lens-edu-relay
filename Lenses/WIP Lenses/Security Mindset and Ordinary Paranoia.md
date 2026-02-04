@@ -14,7 +14,7 @@ to:: "and some fairly mysterious innate talents."
 
 #### Text
 content::
-`<prompt the user on how they should interact with the chatbot>`{>>Example: In your own words, what is instrumental convergence?<<}
+Imagine you've developed an AI system for automated code writing, and it achieves 99% accuracy on all tests. Instead of celebrating your success, apply a 'security mindset' to this situation. What question should you ask yourself to detect the hidden threat in this 99% success rate? 
 #### Chat: Discussion on X-Risk
 instructions::
 TLDR of what the user just read:{>>Example: 
