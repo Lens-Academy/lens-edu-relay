@@ -10,7 +10,7 @@ content::
 Effective alignment research requires more than mathematical proficiency: it demands a specific cognitive orientation known as the "security mindset." While standard engineering focuses on making a system work under normal conditions, the security mindset focuses on how a system might fail when its environment — or its own internal optimization — pushes it to its limits.**
 
 #### Article-excerpt
-to:: "`<an exact quote from the article where the exerpt should stop>"
+to:: "and some fairly mysterious innate talents."
 
 #### Text
 content::

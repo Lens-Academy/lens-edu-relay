@@ -5,6 +5,7 @@ discussion: <discord url>
 ## Test:
 
 ## Lens:
+optional:: true
 source::
 
 ## Lens:
