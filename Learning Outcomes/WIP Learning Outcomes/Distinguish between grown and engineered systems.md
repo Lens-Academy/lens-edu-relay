@@ -10,4 +10,4 @@ discussion:
 source:: ![[AI Is Grown, Not Built]]
 ## Lens:
 optional:: true
-source:: ![[]]
+source:: ![[Security Mindset and Ordinary Paranoia]]
