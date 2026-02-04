@@ -37,9 +37,7 @@ Discussion topics to explore:{>>Examples:
 - Why might "kill switches" fail against superintelligence?<<}
 # Discussion Prompts for "Simulators" Article
 
-## Quarter 1: Introduction & Framework Setup (Beginning → "Inadequate ontologies")
-
-**Prompt:** Why does misclassifying GPT using traditional AI categories (agent, oracle, tool) create alignment risks? Give specific examples of safety-relevant properties we might overlook.
+Why does misclassifying GPT using traditional AI categories (agent, oracle, tool) create alignment risks? Give specific examples of safety-relevant properties we might overlook.
 
 ---
 
