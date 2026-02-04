@@ -10,7 +10,7 @@ id:: e1322022-9d32-4d52-9f8a-403e5379ff42
 content:: 
 Modern AI is not engineered like a bridge or a compiler. It is trained, grown, and often surprises its creators with emergent skills. This module builds an accurate mental model of that paradigm, then adds the security mindset needed to reason about failure under pressure. Finally, it introduces the “simulators” frame, which explains how an LLM can look like an agent, oracle, or tool while still being a statistical predictor.
 # Learning Outcome:
-source:: ![[../Lea]]
+source:: ![[.]]
 # Learning Outcome:
 source:: ![[Simulator Theory]]
 
