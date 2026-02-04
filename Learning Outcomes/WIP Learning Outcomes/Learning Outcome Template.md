@@ -9,4 +9,5 @@ optional:: false
 source::
 
 ## Lens:
+optional:: true
 source::
