@@ -12,7 +12,7 @@ Modern AI is not engineered like a bridge or a compiler. It is trained, grown, a
 # Learning Outcome:
 source:: ![[Distinguish between grown and engineered systems]]
 # Learning Outcome:
-source:: ![[]]
+source:: ![[sim]]
 
 # Uncategorized:
 {>>A place where we can store lenses that are not yet attached to a learning outcome<<}
