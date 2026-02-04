@@ -35,10 +35,29 @@ Discussion topics to explore:{>>Examples:
 - How do "Monkey's Paw" or "King Midas" effects apply to goal specification?
 - What do skeptics like Yann LeCun argue, and what are the counter-arguments?
 - Why might "kill switches" fail against superintelligence?<<}
-- `<Discussion point 1>`
-- `<Discussion point 2>`
-- `<Discussion point 3>`
-- `<Discussion point 4>`
+# Discussion Prompts for "Simulators" Article
+
+## Quarter 1: Introduction & Framework Setup (Beginning → "Inadequate ontologies")
+
+**Prompt:** Why does misclassifying GPT using traditional AI categories (agent, oracle, tool) create alignment risks? Give specific examples of safety-relevant properties we might overlook.
+
+---
+
+## Quarter 2: The Agent Frame Problem ("Agentic GPT" → "Oracle GPT and supervised learning")
+
+**Prompt:** Explain the "prediction orthogonality thesis" and why it means GPT doesn't exhibit instrumental convergence despite simulating goal-directed behavior.
+
+---
+
+## Quarter 3: Simulators & Physics Analogy ("Behavior cloning" → "The simulation objective")
+
+**Prompt:** What does it mean that GPT "solves for physics" rather than imitates behaviors, and how does this explain its ability to simulate configurations never seen in training?
+
+---
+
+## Quarter 4: Simulacra & Alignment Implications ("Simulacra" → End)
+
+**Prompt:** Why is it a category error to attribute properties of simulacra to the simulator, and how should this change the alignment questions we ask about GPT?
 
 Ask what they found surprising or new. Check if they can explain `<key concept>` in their own words—it's a key concept.
 
