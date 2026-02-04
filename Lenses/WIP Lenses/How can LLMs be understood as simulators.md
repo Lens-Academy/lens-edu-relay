@@ -1,7 +1,7 @@
 ---
 id:
 ---
-### Article: `article title`
+### Article: How can LLMs be understood as “simulators”?
 source:: [[]]
 
 #### Text
