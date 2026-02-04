@@ -8,7 +8,7 @@ Explain LLM behavior in terms of simulator theory.
 
 ## Lens:
 optional:: false
-source:: [[How can LLMs be understood as simulators]]
+source:: ![[How can LLMs be understood as simulators]]
 
 ## Lens:
 optional:: false
