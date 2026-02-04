@@ -39,4 +39,4 @@ Discussion topics to explore:{>>Examples:
 
 Ask what they found surprising or new. Check if they can explain `<key concept>` in their own words—it's a key concept.
 
-The user is responding to the question: `<tell the chatbot what prompt the user is responding to`{>>Example: The user has just answered the following question: "In your own words, what is instrumental convergence?"<<}
+The user is responding to the question: Imagine you've developed an AI system for automated code writing, and it achieves 99% accuracy on all tests. Instead of celebrating your success, apply a 'security mindset' to this situation. What question should you ask yourself to detect the hidden threat in this 99% success rate? 
