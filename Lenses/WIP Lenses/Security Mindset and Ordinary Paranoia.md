@@ -18,7 +18,7 @@ Imagine you've developed an AI system for automated code writing, and it achieve
 #### Chat: Discussion on X-Risk
 instructions::
 TLDR of what the user just read:
-#Summary: Security Mindset and AI Safety
+Summary: Security Mindset and AI Safety
 
 This dialogue distinguishes between **"ordinary paranoia"** and **"security mindset"** - two levels of safety thinking crucial for AI alignment.
 
@@ -45,6 +45,6 @@ Discussion topics to explore:{>>Examples:
 - `<Discussion point 3>`
 - `<Discussion point 4>`
 
-Ask what they found surprising or new. Check if they can explain `<key concept>` in their own words—it's a key concept.
+Ask what they found surprising or new. Check if they can explain  in their own words—it's a key concept.
 
 The user is responding to the question: Imagine you've developed an AI system for automated code writing, and it achieves 99% accuracy on all tests. Instead of celebrating your success, apply a 'security mindset' to this situation. What question should you ask yourself to detect the hidden threat in this 99% success rate? 
