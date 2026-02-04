@@ -35,14 +35,9 @@ This dialogue distinguishes between **"ordinary paranoia"** and **"security mind
 The core insight: eliminate whole classes of assumptions from your safety reasoning, rather than piling up defenses against imagined scenarios.
 
 Discussion topics to explore:
-# Discussion Questions: Security Mindset and Emergent AI Capabilities
-
 **1. Classical vs. Grown Systems** How does training neural networks resemble Coral's "intelligent adversaries finding weird states" - except now your own optimization process is the one discovering unexpected capabilities?
-
 **2. The Whitelisting Principle** Why is whitelisting (require approval for new capabilities) versus blacklisting (react to dangerous ones) especially critical for ML systems with emergent capabilities?
-
 **3. Ordinary Paranoia Applied to ML** Why does listing all dangerous capabilities and adding specific safeguards fail for emergent systems? Connect to Coral's "seven encryption keys" criticism.
-
 **4. Assumption Reduction Exercise** Rewrite this in "neutral facts" without goal-laden language: "I believe my ML system won't develop dangerous capabilities during training." What would security mindset replace this with?
 
 Ask what they found surprising or new. Check if they can explain  in their own words—it's a key concept.
