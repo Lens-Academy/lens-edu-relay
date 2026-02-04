@@ -40,6 +40,6 @@ Discussion topics to explore:
 **3. Ordinary Paranoia Applied to ML** Why does listing all dangerous capabilities and adding specific safeguards fail for emergent systems? Connect to Coral's "seven encryption keys" criticism.
 **4. Assumption Reduction Exercise** Rewrite this in "neutral facts" without goal-laden language: "I believe my ML system won't develop dangerous capabilities during training." What would security mindset replace this with?
 
-Ask what they found surprising or new. Check if they can explain why AI systems it's a key concept.
+Ask what they found surprising or new. Check if they can explain why AI systems could behave in ways that are adversarial--it's a key concept.
 
 The user is responding to the question: Imagine you've developed an AI system for automated code writing, and it achieves 99% accuracy on all tests. Instead of celebrating your success, apply a 'security mindset' to this situation. What question should you ask yourself to detect the hidden threat in this 99% success rate? 
