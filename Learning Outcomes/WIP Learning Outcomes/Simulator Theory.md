@@ -12,4 +12,4 @@ source:: [[How can LLMs be understood as simulators]]
 
 ## Lens:
 optional:: false
-source:: [[]]
+source:: [[Simulators]]
