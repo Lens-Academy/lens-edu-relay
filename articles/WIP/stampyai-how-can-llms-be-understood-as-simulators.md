@@ -9,15 +9,7 @@ description: A "simulator" is an AI which produces simulations of real-world phe
 tags:
   - clippings
 ---
-A " [simulator](https://generative.ink/posts/simulators/) " is an AI which produces simulations of real-world phenomena. The concept was proposed as a way to understand some behaviors of (base) large language models
-
-(LLMs) which other conceptions of AI — such as agent
-
-Agent
-
-A system that can be understood as taking actions toward achieving a goal.
-
-, oracle
+A " [simulator](https://generative.ink/posts/simulators/) " is an AI which produces simulations of real-world phenomena. The concept was proposed as a way to understand some behaviors of (base) large language models (LLMs) which other conceptions of AI — such as agent, oracle
 
 Oracle
 
