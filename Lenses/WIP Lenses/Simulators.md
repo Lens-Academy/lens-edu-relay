@@ -35,9 +35,7 @@ Discussion topics to explore:{>>Examples:
 - How do "Monkey's Paw" or "King Midas" effects apply to goal specification?
 - What do skeptics like Yann LeCun argue, and what are the counter-arguments?
 - Why might "kill switches" fail against superintelligence?<<}
-# Discussion Prompts for "Simulators" Article
-
-Why does misclassifying GPT using traditional AI categories (agent, oracle, tool) create alignment risks? Give specific examples of safety-relevant properties we might overlook.
+- Why does misclassifying GPT using traditional AI categories (agent, oracle, tool) create alignment risks? Give specific examples of safety-relevant properties we might overlook.
 
 ---
 
