@@ -8,8 +8,8 @@ Explain LLM behavior in terms of simulator theory.
 
 ## Lens:
 optional:: false
-source::
+source:: [[]]
 
 ## Lens:
-optional:: true
+optional:: false
 source::
