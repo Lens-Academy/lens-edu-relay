@@ -2,7 +2,7 @@
 id:
 ---
 ### Article: How can LLMs be understood as “simulators”?
-source:: [[]]
+source:: [[stampyai-how-can-llms-be-understood-as-simulators]]
 
 #### Text
 content::
