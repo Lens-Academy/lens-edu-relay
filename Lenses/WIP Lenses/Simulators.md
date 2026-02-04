@@ -36,18 +36,8 @@ Discussion topics to explore:{>>Examples:
 - What do skeptics like Yann LeCun argue, and what are the counter-arguments?
 - Why might "kill switches" fail against superintelligence?<<}
 - Why does misclassifying GPT using traditional AI categories (agent, oracle, tool) create alignment risks? Give specific examples of safety-relevant properties we might overlook.
-
----
-
-## Quarter 2: The Agent Frame Problem ("Agentic GPT" → "Oracle GPT and supervised learning")
-
-**Prompt:** Explain the "prediction orthogonality thesis" and why it means GPT doesn't exhibit instrumental convergence despite simulating goal-directed behavior.
-
----
-
-## Quarter 3: Simulators & Physics Analogy ("Behavior cloning" → "The simulation objective")
-
-**Prompt:** What does it mean that GPT "solves for physics" rather than imitates behaviors, and how does this explain its ability to simulate configurations never seen in training?
+- Explain the "prediction orthogonality thesis" and why it means GPT doesn't exhibit instrumental convergence despite simulating goal-directed behavior.
+- What does it mean that GPT "solves for physics" rather than imitates behaviors, and how does this explain its ability to simulate configurations never seen in training?
 
 ---
 
