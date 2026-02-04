@@ -8,8 +8,7 @@ discussion:
 id:: `<id>`
 ## Text
 content:: 
-This module provides materials that introduce the fundamental ideas and technologies behind modern AI systems.
-Note: This module is designed for participants with diverse backgrounds. If you are already familiar with a particular topic, feel free to skip it. We have marked such materials with the "Basic Overview" category. Additional materials often contain technical details or require a mathematical background; if you are not yet interested in these details, feel free to skip them. We have marked such materials with the "Supplemental Material" category.
+Modern AI is not engineered like a bridge or a compiler. It is trained, grown, and often surprises its creators with emergent skills. This module builds an accurate mental model of that paradigm, then adds the security mindset needed to reason about failure under pressure. Finally, it introduces the “simulators” frame, which explains how an LLM can look like an agent, oracle, or tool while still being a statistical predictor.
 # Learning Outcome:
 source:: ![[Distinguish between grown and engineered systems]]
 # Learning Outcome:
