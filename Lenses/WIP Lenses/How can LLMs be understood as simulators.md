@@ -13,7 +13,7 @@ to:: "continue to act mostly as simulators."
 
 #### Text
 content::
-Take 1-2 minutes to summarize the key points in this reading. Don't spend too m
+Take 1-2 minutes to summarize the key points in this reading. Don't spend too much time here, because the next reading covers simulators in much greater 
 #### Chat: Discussion on X-Risk
 instructions::
 Fulltext of what the user just read:
