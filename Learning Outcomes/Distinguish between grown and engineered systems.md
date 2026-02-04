@@ -6,7 +6,7 @@ learning-outcome: Explain the difference between classic engineering and modern 
 ## Test:
 
 ## Lens:
-source:: ![[AI Is Grown, Not Built]]
+source:: ![[../Lenses/AI Is Grown, Not Built|AI Is Grown, Not Built]]
 ## Lens:
 optional:: true
 source:: ![[Security Mindset and Ordinary Paranoia]]
