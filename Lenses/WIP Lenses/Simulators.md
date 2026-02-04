@@ -9,7 +9,7 @@ content::
 When discussing AI impact and risks, people often speak of AI as agents, oracles, or other forms of AI actively influencing the world and human understanding. How do these ideas align with what we see in LLMs? Simulator theory shows how, in certain circumstances, an LLM might behave like an agent, oracle, or tool because it can simulate instances of these kinds of systems. The following material provides a brief overview of the "simulators" concept. 
 
 #### Article-excerpt
-to:: "`<an exact quote from the article where the exerpt should stop>`"
+to:: "influences, including innate structure and reinforcement."
 
 #### Text
 content::
