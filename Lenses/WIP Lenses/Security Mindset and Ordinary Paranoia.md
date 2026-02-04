@@ -1,12 +1,13 @@
 ---
 id: c549ae1c-9bab-4c11-ae9b-2c8876265a24
 ---
-### Article: Tech is Good, AI Will Be Different
-source:: [[]]
+### Article: Security Mindset and Ordinary Paranoia
+source:: [[yudkowsky-security-mindset-and-ordinary-paranoia]]
 
 #### Text
 content::
-`<introductory text>`
+**The next piece focuses on just how hard it is to get systems we build to do the things we want and how those systems break down under adversarial pressure, which is akin to optimization pressure.  
+Effective alignment research requires more than mathematical proficiency: it demands a specific cognitive orientation known as the "security mindset." While standard engineering focuses on making a system work under normal conditions, the security mindset focuses on how a system might fail when its environment — or its own internal optimization — pushes it to its limits.**
 
 #### Article-excerpt
 to:: "`<an exact quote from the article where the exerpt should stop>"
