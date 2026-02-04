@@ -29,13 +29,7 @@ The theory also offers an explanation for several other characteristics of LLMs:
 - Under simulator theory, an LLM imitates human thought processes by trying to mimic the way text is generated. This explains how LLMs appear to be able to develop world models from text data.
 - Under simulator theory, an LLM is always playing some role, so getting it to play a different character allows it to give a different set of responses. Many successful [jailbreaks](https://aisafety.info/questions/8RHW/What-is-jailbreaking-a-large-language-model-LLM) involve getting an LLM to “pretend” to be a particular character.
 
-LLMs are sometimes thought of as agents with the goal of continuing a sequence of words as accurately as possible, but there are important ways in which LLMs don’t behave in line with this perspective. For example, they don’t seem to take actions to improve their prediction accuracy beyond the next word, such as deliberately choosing outputs (like long quotes) that will continue in predictable ways. Reasoning around AI as an existential risk
-
-Existential risk
-
-A risk of human extinction or the destruction of humanity’s long-term potential.
-
-tends to frame dangerous AIs as [agents](https://aisafety.info/questions/5632/What-is-an-agent), but these ways of thinking will be less relevant if the most powerful models continue to act mostly as simulators.
+LLMs are sometimes thought of as agents with the goal of continuing a sequence of words as accurately as possible, but there are important ways in which LLMs don’t behave in line with this perspective. For example, they don’t seem to take actions to improve their prediction accuracy beyond the next word, such as deliberately choosing outputs (like long quotes) that will continue in predictable ways. Reasoning around AI as an existential risk tends to frame dangerous AIs as [agents](https://aisafety.info/questions/5632/What-is-an-agent), but these ways of thinking will be less relevant if the most powerful models continue to act mostly as simulators.
 
 ---
 
