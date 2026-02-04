@@ -2,7 +2,6 @@
 id: <uuid, generate at https://www.uuidgenerator.net/version4>
 discussion: <discord url>
 ---
-## Learning outcome:
 ## Test:
 
 ## Lens:
