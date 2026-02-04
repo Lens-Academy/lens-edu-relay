@@ -43,6 +43,6 @@ The theory also offers an explanation for several other characteristics of LLMs:
 
 LLMs are sometimes thought of as agents with the goal of continuing a sequence of words as accurately as possible, but there are important ways in which LLMs don’t behave in line with this perspective. For example, they don’t seem to take actions to improve their prediction accuracy beyond the next word, such as deliberately choosing outputs (like long quotes) that will continue in predictable ways. Reasoning around AI as an existential risk tends to frame dangerous AIs as [agents](https://aisafety.info/questions/5632/What-is-an-agent), but these ways of thinking will be less relevant if the most powerful models continue to act mostly as simulators.
 
-Ask what they found surprising or new. Check if they can explain `<key concept>` in their own words—it's a key concept.
+Ask what they found surprising or new. Check if they can explain the key concepts in their own words—it's a key concept.
 
 `<tell the chatbot what prompt the user is responding to`{>>Example: The user has just answered the following question: "In your own words, what is instrumental convergence?"<<}
