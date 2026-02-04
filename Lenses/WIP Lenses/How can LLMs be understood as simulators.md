@@ -39,4 +39,4 @@ LLMs are sometimes thought of as agents with the goal of continuing a sequence o
 
 Ask what they found surprising or new. Check if they can explain the key concepts in their own words—it's a key concept.
 
-`<tell the chatbot what prompt the user is responding to`{>>Example: The user has just answered the following question: "In your own words, what is instrumental convergence?"<<}
+The user has just
