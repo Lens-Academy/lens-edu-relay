@@ -13,7 +13,7 @@ to:: "continue to act mostly as simulators."
 
 #### Text
 content::
-`<prompt the user on how they should interact with the chatbot>`{>>Example: In your own words, what is instrumental convergence?<<}
+
 #### Chat: Discussion on X-Risk
 instructions::
 TLDR of what the user just read:{>>Example: 
