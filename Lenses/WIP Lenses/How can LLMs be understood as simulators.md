@@ -9,7 +9,7 @@ content::
 A very brief introduction to simulator theory. 
 
 #### Article-excerpt
-to:: "`<an exact quote from the article where the exerpt should stop>"
+to:: "continue to act mostly as simulators."
 
 #### Text
 content::

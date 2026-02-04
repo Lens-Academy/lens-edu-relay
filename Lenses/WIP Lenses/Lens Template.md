@@ -1,3 +1,6 @@
+---
+id:
+---
 ### Article: `article title`
 source:: [[]]
 
@@ -6,7 +9,7 @@ content::
 `<introductory text>`
 
 #### Article-excerpt
-to:: "`<an exact quote from the article where the exerpt should stop>"
+to:: "`<an exact quote from the article where the exerpt should stop>`"
 
 #### Text
 content::
