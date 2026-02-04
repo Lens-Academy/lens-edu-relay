@@ -38,4 +38,4 @@ Discussion topics to explore:{>>Examples:
 
 Ask what they found surprising or new. Check if they can explain `<key concept>` in their own words—it's a key concept.
 
-The user just answered the question: "`<tell the chatbot what prompt the user is responding to`{>>Example: The user has just answered the following question: "In your own words, what is instrumental convergence?"<<}"
+The user just answered the question: "How can LLMs exhibit the properties of oracles, agents, or tools while remaining statistical predictors?"
