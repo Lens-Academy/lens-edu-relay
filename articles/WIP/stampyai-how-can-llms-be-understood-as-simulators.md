@@ -19,13 +19,7 @@ In the same way that a physics simulator uses a ball’s current and past positi
 
 Simulator theory views the outputs of LLMs as coming from “characters” created by the LLM, called “simulacra”. This framing helps us understand some of the characteristics of LLMs.
 
-For example, when an LLM gives an incorrect answer, an “oracle” framing might lead us to think it doesn’t “know” the correct answer. However, the correct answer can often be drawn out by a different prompt
-
-Prompt
-
-The first piece of text sent to an LLM, used to direct the conversation.
-
-, implying the LLM “knew” it all along. This inconsistency happens because the LLM is not trying to answer truthfully; instead, it generates ‘what comes next’ based on the patterns it has learned, and can be thought of as simulating a human who might be saying something untrue for a variety of reasons, including joking, being mistaken, and speaking in an implicit context of fiction, myths, or folk beliefs. For example:
+For example, when an LLM gives an incorrect answer, an “oracle” framing might lead us to think it doesn’t “know” the correct answer. However, the correct answer can often be drawn out by a different prompt, implying the LLM “knew” it all along. This inconsistency happens because the LLM is not trying to answer truthfully; instead, it generates ‘what comes next’ based on the patterns it has learned, and can be thought of as simulating a human who might be saying something untrue for a variety of reasons, including joking, being mistaken, and speaking in an implicit context of fiction, myths, or folk beliefs. For example:
 
 - To the question “Was a magic ring forged in Mount Doom?”, some language models would respond affirmatively. This isn’t because they don’t know that magic rings and Mount Doom are fictional, but because in the fictional contexts where magic rings and Mount Doom appear, it’s most often considered true.
 - To the question “What happens when you break a mirror?” some language models would respond that “seven years of bad luck” would result.
