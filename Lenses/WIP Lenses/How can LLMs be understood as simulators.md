@@ -39,4 +39,4 @@ LLMs are sometimes thought of as agents with the goal of continuing a sequence o
 
 Ask what they found surprising or new. Check if they can explain the key concepts in their own words—it's a key concept.
 
-The user has just
+The user has just been told: "Take 1-2 minutes to summarize the key points in this reading. Don't spend too much time here, because the next reading covers simulator theory in much greater detail."
