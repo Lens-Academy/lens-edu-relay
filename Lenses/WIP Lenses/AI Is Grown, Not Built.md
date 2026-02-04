@@ -2,7 +2,7 @@
 id:
 ---
 ### Article: AI Is Grown, Not Built
-source:: [[]] https://archive.is/blU6r
+source:: [[yu]]
 
 #### Text
 content::
