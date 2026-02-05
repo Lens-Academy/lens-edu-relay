@@ -6,4 +6,4 @@ learning-outcome: Used for manual testing
 ## Test:
 
 ## Lens:
-source:: ![[../Lenses/AI Is Grown, Not Built|AI Is Grown, Not Built]]
+source:: ![[../Lenses/External Link Lens Demo|External Link Lens Demo]]
