@@ -4,6 +4,8 @@ id: e8ec8ea9-8754-4dee-9d94-aa3ba8ba6c4b
 ### Article: How can LLMs be understood as “simulators”?
 source:: [[stampyai-how-can-llms-be-understood-as-simulators]]
 
+[[stampyai]]
+
 #### Text
 content::
 A very brief introduction to simulator theory. 
