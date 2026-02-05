@@ -6,6 +6,8 @@ source:: [[stampyai-how-can-llms-be-understood-as-simulators]]
 
 [[../articles/WIP/stampyai-how-can-llms-be-understood-as-simulators|stampyai-how-can-llms-be-understood-as-simulators]]
 
+![[../articles/WIP/stampyai-how-can-llms-be-understood-as-simulators|stampyai-how-can-llms-be-understood-as-simulators]]
+
 #### Text
 content::
 A very brief introduction to simulator theory. 
