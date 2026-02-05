@@ -2,7 +2,7 @@
 id: b2c3d4e5-f6a7-8901-bcde-f23456789012
 ---
 ### Article: Understanding Existential Risk from AI
-source:: [[wikipedia-existential-risk-from-ai]]
+source:: [[../../articles/wikipedia-existential-risk-from-ai]]
 
 #### Text
 content::
