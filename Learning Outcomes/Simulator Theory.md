@@ -9,8 +9,8 @@ discussion: <discord url>
 
 ## Lens:
 optional:: false
-source:: ![[../../Lenses/How can LLMs be understood as simulators]]
+source:: ![[../Lenses/How can LLMs be understood as simulators]]
 
 ## Lens:
 optional:: false
-source:: ![[../../Lenses/Simulators]]
+source:: ![[../Lenses/Simulators]]
