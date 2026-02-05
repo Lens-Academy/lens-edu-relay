@@ -11,6 +11,7 @@ content::
 We begin by examining the potential of AI and the risks and opportunities
 that the characteristics of this technology present to humanity.
 
+# Learning 
 # Uncategorized:
 ## Lens:
 source::
