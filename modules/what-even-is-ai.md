@@ -15,12 +15,12 @@ source:: ![[../Learning Outcomes/Distinguish between grown and engineered system
 # Learning Outcome:
 source:: ![[Simulator Theory]]
 
-# Uncategorized:
-{>>A place where we can store lenses that are not yet attached to a learning outcome<<}
+{>># Uncategorized:
+A place where we can store lenses that are not yet attached to a learning outcome
 ## Lens:
 optional:: true
 source:: ![[]]
 
 ## Lens:
 optional:: true
-source:: ![[]]
+source:: ![[]]<<}
