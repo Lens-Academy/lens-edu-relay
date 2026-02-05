@@ -13,7 +13,6 @@ that the characteristics of this technology present to humanity.
 
 # Learning Outcome:
 source:: ![[../Learning Outcomes/Demo LO|Demo LO]]
-
 # Uncategorized:
 ## Lens:
 source::
