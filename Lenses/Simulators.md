@@ -2,7 +2,7 @@
 id: c88cfac7-1fe2-4a14-b20b-7903a28daa8d
 ---
 ### Article: Simulators
-source:: [[janus-simulators]]
+source:: [[janus-simulators]] [[janus]]
 
 #### Text
 content::
