@@ -71,7 +71,7 @@ jobs:
       - name: Validate content
         id: validate
         run: |
-          npx lens-content-processor@0.1.0 . --output validation-result.json
+          npx lens-content-processor@latest . --output validation-result.json
           
           # Check for errors and format output
           ERROR_COUNT=$(jq '.errors | length' validation-result.json)
