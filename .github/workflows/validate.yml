@@ -39,7 +39,7 @@ jobs:
 
           # Check if this commit already has a validation status
           VALIDATED=$(gh api repos/${{ github.repository }}/commits/$CURRENT_SHA/statuses \
-            --jq '.[] | select(.context == "validation/modules") | .state' 2>/dev/null | head -1 || echo "")
+            --jq '.[] | select(.context == "validation/content") | .state' 2>/dev/null | head -1 || echo "")
 
           if [ -n "$VALIDATED" ]; then
             echo "::notice title=Validation Skipped::Commit already validated (result: $VALIDATED)"
@@ -63,16 +63,36 @@ jobs:
         id: sha
         run: echo "sha=$(git rev-parse HEAD)" >> $GITHUB_OUTPUT
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
         with:
-          python-version: "3.12"
+          node-version: '20'
 
-      - name: Validate lesson format
+      - name: Validate content
         id: validate
         run: |
-          curl -sO https://raw.githubusercontent.com/lucbrinkman/ai-safety-course-platform/staging/core/modules/markdown_validator.py
-          python markdown_validator.py ./modules/ ./courses/
+          npx lens-content-processor@0.1.0 . --output validation-result.json
+          
+          # Check for errors and format output
+          ERROR_COUNT=$(jq '.errors | length' validation-result.json)
+          echo "Found $ERROR_COUNT validation issues"
+          
+          if [ "$ERROR_COUNT" -gt 0 ]; then
+            echo ""
+            echo "## Validation Errors"
+            echo ""
+            
+            # Output errors as GitHub annotations
+            jq -r '.errors[] | "::error file=\(.file),line=\(.line // 1)::\(.message)\(if .suggestion then " (" + .suggestion + ")" else "" end)"' validation-result.json
+            
+            echo ""
+            echo "---"
+            jq -r '.errors[] | "- **\(.file):\(.line // "?")** - \(.message)"' validation-result.json
+            
+            exit 1
+          fi
+          
+          echo "✓ All content validated successfully"
 
       - name: Record validation result
         if: always()
@@ -90,5 +110,5 @@ jobs:
           
           gh api repos/${{ github.repository }}/statuses/$SHA \
             -f state="$STATE" \
-            -f context="validation/modules" \
+            -f context="validation/content" \
             -f description="$DESC" || echo "Failed to set status"
