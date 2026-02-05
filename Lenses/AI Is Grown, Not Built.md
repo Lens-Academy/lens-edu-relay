@@ -1,8 +1,8 @@
 ---
-id:
+id: cc0b8328-78dd-408e-a5c3-35fe2ec45568
 ---
 ### Article: AI Is Grown, Not Built
-source:: [[]] https://archive.is/blU6r
+source:: [[../articles/yudkowsky-soares-ai-is-grown-not-built|yudkowsky-soares-ai-is-grown-not-built]]
 
 #### Text
 content::
