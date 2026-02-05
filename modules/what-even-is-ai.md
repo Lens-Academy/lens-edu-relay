@@ -13,4 +13,5 @@ Modern AI is not engineered like a bridge or a compiler. It is trained, grown, a
 # Learning Outcome:
 source:: ![[../Learning Outcomes/Distinguish between grown and engineered systems|Distinguish between grown and engineered systems]]
 # Learning Outcome:
-source:: ![[simulato]]
+source:: ![[../Learning Outcomes/Simulator Theory|Simulator Theory]]
+
