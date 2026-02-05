@@ -14,7 +14,7 @@ that the characteristics of this technology present to humanity.
 
 # Uncategorized:
 ## Lens:
-### Page:
+### Text Page:
 #### Text:
 
 
