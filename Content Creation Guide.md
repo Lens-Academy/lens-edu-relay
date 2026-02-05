@@ -1,6 +1,6 @@
 # Content Creation Guide
 
-This guide helps you create content for Lens Academy. It's written for educators and content experts — you don't need to be technical to use it.{++{"author":"anonymous","timestamp":1770303962903}@@dd++}
+This guide helps you create content for Lens Academy. It's written for educators and content experts — you don't need to be technical to use it.
 
 ---
 
