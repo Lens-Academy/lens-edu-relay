@@ -1,7 +1,7 @@
 ---
 id: 8130919f-1e4d-4140-99b4-cc569c36a40d
 ---
-### Text
+### Page
 #### Text
 content::
 We refer you to: https://ig.ft.com/generative-ai/
