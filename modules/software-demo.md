@@ -12,7 +12,8 @@ We begin by examining the potential of AI and the risks and opportunities
 that the characteristics of this technology present to humanity.
 
 # Learning Outcome:
-source:: ![[../Learning Outcomes/Demo LO|Demo LO]]
+source:: ![[../Learning Outcomes/Demo LO]]
+
 # Uncategorized:
 ## Lens:
 source::
