@@ -5,7 +5,7 @@ id: 8130919f-1e4d-4140-99b4-cc569c36a40d
 #### Text
 content::
 We refer you to: https://ig.ft.com/generative-ai/
-It's highly interactive, so we won't attempt to recreate the experience on our website.
+It's highly interactive, so we won't attempt to recreate the experience on our website. Hello world
 
 #### Chat: Discussion on X-Risk
 instructions::
