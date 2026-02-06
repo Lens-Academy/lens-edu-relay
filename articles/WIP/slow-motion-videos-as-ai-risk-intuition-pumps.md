@@ -1,13 +1,12 @@
----
-title: "Slow motion videos as AI risk intuition pumps — LessWrong"
-source_url: "https://www.lesswrong.com/posts/Ccsx339LE9Jhoii9K/slow-motion-videos-as-ai-risk-intuition-pumps"
+---title: Slow motion videos as AI risk intuition pumps
+source_url: https://www.lesswrong.com/posts/Ccsx339LE9Jhoii9K/slow-motion-videos-as-ai-risk-intuition-pumps
 author:
   - "[[Andrew_Critch]]"
 published: 2022-06-14
 created: 2026-02-06
 description: "tl;dr: When making the case for AI as a risk to humanity, trying showing people an evocative illustration of what differences in processing speeds ca…"
 tags:
-  - "clippings"
+  - clippingslippings"
 ---
 ***tl;dr:** When making the case for AI as a risk to humanity, trying showing people an evocative illustration of what differences in processing speeds can look like, such as* [*this video*](https://vimeo.com/83664407)*.*
 
