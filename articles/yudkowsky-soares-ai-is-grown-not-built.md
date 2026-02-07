@@ -12,7 +12,7 @@ tags:
 ---
 ### Nobody knows exactly what an AI will become. That’s very bad.
 
-![[Pasted image 20260204141753.png]]
+!(https://ddrn4nc0f9fxil.archive.is/blU6r/3327d8705a1fb90970f0aa1d054372f9f7f4c848.avif))
 Artificial intelligence is software, but it is not human-designed and hand-crafted like any traditional program is. Instead, modern AI is grown, a bit like an organism. In important ways, the undertaking is closer to how a human gets made. Engineers understand the *process* that results in an AI, but they don’t much understand the AI that results.
 
 This is already a problem—nobody at xAI seems to have planned for Grok to start calling itself “ [MechaHitler](https://archive.is/o/blU6r/https://www.theatlantic.com/newsletters/archive/2025/07/grok-defense-department-contract/683538/),” much like nobody at OpenAI decided that ChatGPT would lead certain users to develop “ [AI-induced psychosis”](https://archive.is/o/blU6r/https://www.psychologytoday.com/us/blog/psych-unseen/202507/deification-as-a-risk-factor-for-ai-associated-psychosis) —and it will become much larger as AIs get smarter. Modern AI companies are racing to create AIs that are [“superintelligent”](https://archive.is/o/blU6r/https://www.theatlantic.com/technology/archive/2024/10/agi-predictions/680280/) —that outperform every human on every mental task. They didn’t set out just to build chatbots; the chatbots are a stepping stone on their path to superintelligence. Some people worry about who will be in control of such superintelligences, but in reality, *nobody* will be in control. The AIs are grown rather than constructed, and a grown AI has drives and behaviors that nobody asked for and nobody wanted.
