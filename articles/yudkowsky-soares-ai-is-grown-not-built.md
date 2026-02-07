@@ -19,7 +19,7 @@ This is already a problem—nobody at xAI seems to have planned for Grok to star
 
 We are two research scientists at the Machine Intelligence Research Institute, a nonprofit that has been working on questions relating to machine superintelligence since 2001, long before these issues got much publicity or funding. One of us, Eliezer Yudkowsky, is one of its co-founders. The other, Nate Soares, is its president. Together, we have studied how nonhuman intelligences will think, behave, and pursue their objectives. The past two decades have seen far less progress toward human-friendly machine intelligence than was originally hoped. The current situation seems to us terrifically dangerous, and we think humanity should put a simple stop to the race for superintelligence by international treaty, reining in all the companies simultaneously. The current technology just does not offer anyone enough control over how a smart AI would turn out.
 
-![If Anyone Builds It Everyone Dies by Eliezer Yudkowsky and Nate Soares](https://cdn.theatlantic.com/media/files/61hjpxgdtil_uf10001000_ql80_.jpg)
+![If Anyone Builds It Everyone Dies by Eliezer Yudkowsky and Nate Soares|645x1000](https://cdn.theatlantic.com/media/files/61hjpxgdtil_uf10001000_ql80_.jpg)
 
 This essay has been adapted from the forthcoming book, If Anyone Builds It, Everyone Dies.
 
