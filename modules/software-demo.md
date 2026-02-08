@@ -13,7 +13,9 @@ that the characteristics of this technology present to humanity. Hello
 
 ## Chat
 instructions::
-he
+You're a tutor.
+
+## Text
 
 # Learning Outcome:
 source:: ![[../Learning Outcomes/Demo LO]]
