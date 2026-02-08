@@ -11,6 +11,10 @@ content::
 We begin by examining the potential of AI and the risks and opportunities
 that the characteristics of this technology present to humanity. Hello
 
+## Chat
+instructions::
+he
+
 # Learning Outcome:
 source:: ![[../Learning Outcomes/Demo LO]]
 
