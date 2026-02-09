@@ -2,7 +2,7 @@
 title: AI Is Grown, Not Built - The Atlantic
 source_url: https://archive.is/blU6r
 author:
-  - "[[Eliezer Yudkowsky]]"
+  - "Eliezer Yudkowsky"
   - "[[Nate Soares]]"
 published: 2025-09-15
 created: 2026-02-04
