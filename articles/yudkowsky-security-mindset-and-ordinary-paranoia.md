@@ -2,7 +2,7 @@
 title: Security Mindset and Ordinary Paranoia — LessWrong
 source_url: https://www.lesswrong.com/posts/8gqrbnW758qjHFTrH/security-mindset-and-ordinary-paranoia
 author:
-  - "[[Eliezer Yudkowsky]]"
+  - "Eliezer Yudkowsky]]"
 published: 2017-11-25
 created: 2026-02-04
 description: "Follow-up to: AI Alignment: Why It’s Hard, and Where to Start • ---------------------------------------- •   …"
