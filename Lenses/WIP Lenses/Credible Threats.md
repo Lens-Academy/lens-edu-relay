@@ -14,7 +14,7 @@ to:: "the union’s demands."
 
 #### Text
 content::
-Humans can make credible threats which allow them in some sense to have their cake and eat it too, but doing so usually requires 
+Humans can make credible threats which allow them in some sense to have their cake and eat it too, but doing so is rarely straight
 #### Chat: Discussion on X-Risk
 instructions::
 TLDR of what the user just read:
