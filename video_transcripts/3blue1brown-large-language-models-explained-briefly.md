@@ -1,7 +1,7 @@
 ---
-title: Large Language Models explained briefly
-channel:
-url: https://www.youtube.com/watch?v=LPZh9BOjkQs
+title: "Large Language Models explained briefly"
+channel: "3Blue1Brown"
+url: "https://www.youtube.com/watch?v=LPZh9BOjkQs"
 ---
 
 Imagine you happen across a short movie script that describes a scene between a person and their AI assistant. The script has what the person asks the AI, but the AI's response has been torn off. Suppose you also have this powerful magical machine that can take any text and provide a sensible prediction of what word comes next. You could then finish the script by feeding in what you have to the machine, seeing what it would predict to start the AI's answer, and then repeating this over and over with a growing script completing the dialogue. When you interact with a chatbot, this is exactly what's happening.
