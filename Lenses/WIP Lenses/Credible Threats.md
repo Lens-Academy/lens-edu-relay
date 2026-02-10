@@ -19,7 +19,7 @@ Humans can make credible threats which allow them in some sense to have their ca
 #### Chat: Discussion on X-Risk
 instructions::
 TLDR of what the user just read:
-`<TLDR text>`
+An exerpt
 
 Discussion topics to explore:
 - `<Discussion point 1>`
