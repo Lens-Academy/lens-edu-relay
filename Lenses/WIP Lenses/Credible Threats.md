@@ -14,7 +14,7 @@ to:: "the union’s demands."
 
 #### Text
 content::
-`<prompt the user on how they should interact with the chatbot>`
+Hu
 #### Chat: Discussion on X-Risk
 instructions::
 TLDR of what the user just read:
