@@ -14,7 +14,7 @@ to:: "the union’s demands."
 
 #### Text
 content::
-Humans can make credible threats which allow them in some sense to have their cake and eat it too, but doing so is rarely straightforward and almost always takes a significant amount of setup to legibly take those paths of retreat away from yourself. Now imagine if you were a system that could at a moment's notice rewrite it's code base so as to unambiguously and reliably react in a very undesirable way to not getting what it wants. Who could possibly win a negotiation with such an opponent?
+Humans can make credible threats which allow them in some sense to have their cake and eat it too, but doing so is rarely straightforward and almost always takes a significant amount of setup to legibly take those paths of retreat away from yourself. Cortès'Cortès'
 
 #### Chat: Discussion on X-Risk
 instructions::
