@@ -14,7 +14,7 @@ to:: "the union’s demands."
 
 #### Text
 content::
-Hu
+Humans can make cre
 #### Chat: Discussion on X-Risk
 instructions::
 TLDR of what the user just read:
