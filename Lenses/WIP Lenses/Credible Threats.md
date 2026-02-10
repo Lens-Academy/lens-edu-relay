@@ -25,7 +25,7 @@ Discussion topics to explore:
 - In what ways would AI's be better at making credible threats than humans
 - Why is threatening something often a more powerful tool than actually doing it
 - What if both parties make such commitments? Does it matter who committed to scorched earth first?
-- If th
+- If the order of commitments does matter? 
 
 Ask what they found surprising or new. Check if they can explain `<key concept>` in their own words—it's a key concept.
 
