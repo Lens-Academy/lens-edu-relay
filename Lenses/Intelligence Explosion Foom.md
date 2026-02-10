@@ -1,5 +1,5 @@
 ---
-id: c42889f8-e7bc-4e36-a3b6-faf408280102
+id: 97a886d3-693a-4916-bd20-9c94a21aca96
 ---
 ### Article: Recursion, Magic
 source:: [[../articles/recursion-magic]] 
