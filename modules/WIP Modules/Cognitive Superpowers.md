@@ -10,7 +10,7 @@ id:: 1e8bd017-944e-442f-b12c-5a168b0244f0
 content::
 
 
-# Learning Outcome:
+# Learning Outcome: Understand the processing speed advantage**
 source:: 
 
 # Learning Outcome:
