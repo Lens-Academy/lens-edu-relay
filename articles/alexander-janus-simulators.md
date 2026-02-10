@@ -9,7 +9,7 @@ description: This post isn't exactly about AI, but bear with me
 tags:
   - clippings
 ---
-### This post isn't exactly about AI, but bear with me
+### Thfis post isn't exactly about AI, but bear with me
 
 This post isn’t exactly about AI. But the first three parts will be kind of technical AI stuff, so bear with me.
 
