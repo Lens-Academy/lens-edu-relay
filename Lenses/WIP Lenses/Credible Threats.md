@@ -27,6 +27,6 @@ Discussion topics to explore:
 - What if both parties make such commitments? Does it matter who committed to scorched earth first?
 - If the order of commitments does matter, how does this further benefit artificial systems?
 
-Ask what they found surprising or new. Check if they can explain `<key concept>` in their own words—it's a key concept.
+Ask what they found surprising or new. Check if they can explain threats in their own words—it's a key concept.
 
 The user just answered the question: `<tell the chatbot what prompt the user is responding to>`
