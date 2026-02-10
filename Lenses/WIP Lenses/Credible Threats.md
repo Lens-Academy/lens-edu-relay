@@ -14,7 +14,7 @@ to:: "the union’s demands."
 
 #### Text
 content::
-Humans can make credible threats which allow them in some sense to have their cake and eat it too, but doing so is rarely straightforward and almost always takes a significant amount of setup to legibly take those paths of retreat away from yourself. Now imagine if you were a system that could a 
+Humans can make credible threats which allow them in some sense to have their cake and eat it too, but doing so is rarely straightforward and almost always takes a significant amount of setup to legibly take those paths of retreat away from yourself. Now imagine if you were a system that could at a moment's notice  
 #### Chat: Discussion on X-Risk
 instructions::
 TLDR of what the user just read:
