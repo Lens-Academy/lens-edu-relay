@@ -1,7 +1,7 @@
 ---
 title: Intelligence Feedback Loop - Introduction
 author: Luc Brinkman
-# source_url: https://www.cold-takes.com/most-important-century/
+source_url:
 ---
 
 Welcome to this lesson. You will learn about feedback loops in AI by reading articles, watching videos, and discussions with our AI Tutor.
