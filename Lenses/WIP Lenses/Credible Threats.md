@@ -6,7 +6,7 @@ source:: [[]]
 
 #### Text
 content::
-To merely be more powerful is only half the battle however. Even if you 
+To merely be more powerful is only half the battle however. Even if you would win an interaction with certain
 
 #### Article-excerpt
 to:: "`<an exact quote from the article where the exerpt should stop>`"
