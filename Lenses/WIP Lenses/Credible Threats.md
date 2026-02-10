@@ -14,7 +14,7 @@ to:: "the union’s demands."
 
 #### Text
 content::
-Humans can make cre
+Humans can make credible threats 
 #### Chat: Discussion on X-Risk
 instructions::
 TLDR of what the user just read:
