@@ -14,7 +14,7 @@ to:: "the union’s demands."
 
 #### Text
 content::
-Humans can make credible threats which allow them in some sense to have their cake and eat it too, but doing so is rarely straightforward and almost always takes a significant amount of setup to legibly take those paths of retreat away from yourself. Now imagine a system that can at a moment's notice rewrite its own code base so as to unambiguously and reliably react in a catastrophic manner if it does not get what it wants. Who could win a negotiatioon with such an entity? 
+Humans can make credible threats which allow them in some sense to have their cake and eat it too, but doing so is rarely straightforward and almost always takes a significant amount of setup to legibly take those paths of retreat away from yourself. Now imagine a system that can at a moment's notice rewrite its own code base so as to unambiguously and reliably react in a catastrophic manner if it does not get what it wants. Who could win a negotiation with such an entity? 
 
 #### Chat: Discussion on X-Risk
 instructions::
@@ -29,4 +29,4 @@ Discussion topics to explore:
 
 Ask what they found surprising or new. Check if they can explain threats in their own words—it's a key concept.
 
-The user just answered the question: `<tell the chatbot what prompt the user is responding to>`
+The user just answered the question: imagine a system that can at a moment's notice rewrite its own code base so as to unambiguously and reliably react in a catastrophic manner if it does not get what it wants. Who could win a negotiation with such an entity? 
