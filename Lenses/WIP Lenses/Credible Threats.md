@@ -6,7 +6,7 @@ source:: [[]]
 
 #### Text
 content::
-To merely be more powerful is only half the battle however. Even if you would win an interaction with certainty, fighting it out takes resources that might be better used elsewhere. A
+To merely be more powerful is only half the battle however. Even if you would win an interaction with certainty, fighting it out takes resources that might be better used elsewhere. A powerful AI is not just better at winning 
 
 #### Article-excerpt
 to:: "`<an exact quote from the article where the exerpt should stop>`"
