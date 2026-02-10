@@ -24,7 +24,7 @@ An excerpt from "Credible threats in negotiation", in which the authors discuss 
 Discussion topics to explore:
 - In what ways would AI's be better at making credible threats than humans
 - Why is threatening something often a more powerful tool than actually doing it
-- What if both parties make such committments? 
+- What if both parties make such commitments? does it matt
 - `<Discussion point 4>`
 
 Ask what they found surprising or new. Check if they can explain `<key concept>` in their own words—it's a key concept.
