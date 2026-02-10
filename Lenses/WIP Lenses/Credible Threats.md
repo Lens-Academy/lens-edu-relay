@@ -1,7 +1,7 @@
 ---
-id:
+id: d53b7baa-a45d-483b-bc16-3fa5bee59ab2
 ---
-### Article: `article title`
+### Article: Commitment and endogenous threats
 source:: [[]]
 
 #### Text
