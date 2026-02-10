@@ -19,7 +19,7 @@ Humans can make credible threats which allow them in some sense to have their ca
 #### Chat: Discussion on X-Risk
 instructions::
 TLDR of what the user just read:
-An excerpt from "Credible threats "
+An excerpt from "Credible threats in negotiation", in w
 
 Discussion topics to explore:
 - `<Discussion point 1>`
