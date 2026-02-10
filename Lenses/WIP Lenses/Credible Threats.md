@@ -19,7 +19,7 @@ Humans can make credible threats which allow them in some sense to have their ca
 #### Chat: Discussion on X-Risk
 instructions::
 TLDR of what the user just read:
-An excerpt from "Credible threats in negotiation", in which the authors discuss threats in the context of game theory as a moving of the negotiation-breakdown-outcome towards something very undesirable so that the other party will do anything to avoid it. Since such negotiation-breakdown-outcomes are most of the time also very undesirable to the person making the threat, it is very important that they are legibly committed to it. It provides the example of Cortès' conquest of mexico, during which he ordered most of his own fleet to be burned such that his own men would have no other option t
+An excerpt from "Credible threats in negotiation", in which the authors discuss threats in the context of game theory as a moving of the negotiation-breakdown-outcome towards something very undesirable so that the other party will do anything to avoid it. Since such negotiation-breakdown-outcomes are most of the time also very undesirable to the person making the threat, it is very important that they are legibly committed to it. It provides the example of Cortès' conquest of mexico, during which he ordered most of his own fleet to be burned such that his own men would have no other option than to fight for their life since fleeing meca
 
 Discussion topics to explore:
 - `<Discussion point 1>`
