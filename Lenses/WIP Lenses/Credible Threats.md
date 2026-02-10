@@ -23,7 +23,7 @@ An excerpt from "Credible threats in negotiation", in which the authors discuss 
 
 Discussion topics to explore:
 - In what ways would AI's be better at making credible threats than humans
-- Why is 
+- Why is threatening somethin
 - `<Discussion point 3>`
 - `<Discussion point 4>`
 
