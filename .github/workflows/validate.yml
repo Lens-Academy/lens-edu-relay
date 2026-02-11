@@ -72,26 +72,33 @@ jobs:
         id: validate
         run: |
           npx lens-content-processor@latest . --output validation-result.json
-          
-          # Check for errors and format output
-          ERROR_COUNT=$(jq '.errors | length' validation-result.json)
-          echo "Found $ERROR_COUNT validation issues"
-          
+
+          # Count only errors (not warnings)
+          ERROR_COUNT=$(jq '[.errors[] | select(.severity == "error")] | length' validation-result.json)
+          WARNING_COUNT=$(jq '[.errors[] | select(.severity == "warning")] | length' validation-result.json)
+          echo "Found $ERROR_COUNT errors and $WARNING_COUNT warnings"
+
+          # Show warnings as annotations (non-blocking)
+          if [ "$WARNING_COUNT" -gt 0 ]; then
+            echo ""
+            echo "## Warnings"
+            echo ""
+            jq -r '.errors[] | select(.severity == "warning") | "::warning file=\(.file),line=\(.line // 1)::\(.message)\(if .suggestion then " (" + .suggestion + ")" else "" end)"' validation-result.json
+            echo ""
+            jq -r '.errors[] | select(.severity == "warning") | "- **\(.file):\(.line // "?")** - \(.message)"' validation-result.json
+          fi
+
+          # Show errors and fail if any
           if [ "$ERROR_COUNT" -gt 0 ]; then
             echo ""
             echo "## Validation Errors"
             echo ""
-            
-            # Output errors as GitHub annotations
-            jq -r '.errors[] | "::error file=\(.file),line=\(.line // 1)::\(.message)\(if .suggestion then " (" + .suggestion + ")" else "" end)"' validation-result.json
-            
+            jq -r '.errors[] | select(.severity == "error") | "::error file=\(.file),line=\(.line // 1)::\(.message)\(if .suggestion then " (" + .suggestion + ")" else "" end)"' validation-result.json
             echo ""
-            echo "---"
-            jq -r '.errors[] | "- **\(.file):\(.line // "?")** - \(.message)"' validation-result.json
-            
+            jq -r '.errors[] | select(.severity == "error") | "- **\(.file):\(.line // "?")** - \(.message)"' validation-result.json
             exit 1
           fi
-          
+
           echo "✓ All content validated successfully"
 
       - name: Record validation result
@@ -107,7 +114,7 @@ jobs:
             STATE="failure"
             DESC="Validation failed"
           fi
-          
+
           gh api repos/${{ github.repository }}/statuses/$SHA \
             -f state="$STATE" \
             -f context="validation/content" \
