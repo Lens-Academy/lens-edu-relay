@@ -8,12 +8,6 @@ source::
 ![[Lens Edu/Lenses/Wikipedia Existential Risk]]
 
 
-
-
-# Article: Introduction
-source:: [[../../articles/intelligence-feedback-loop-lesson-intro]]
-## Article-excerpt
-
 # Article: Most Important Century - Feedback Loop
 source:: [[../../articles/karnofsky-most-important-century]]
 

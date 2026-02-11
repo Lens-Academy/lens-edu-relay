@@ -1,23 +1,16 @@
 ---
-id:
+id: 8130919f-1e4d-4140-99b4-cc569c36a40d
 ---
-### Article: `article title`
-source:: [[]]
-
+### Page
 #### Text
 content::
-`<introductory text>`
+We refer you to: https://ig.ft.com/generative-ai/
+It's highly interactive, so we won't attempt to recreate the experience on our website. Hello world I'm luc. Change 2 3
 
-#### Article-excerpt
-to:: "`<an exact quote from the article where the exerpt should stop>`"
-
-#### Text
-content::
-`<prompt the user on how they should interact with the chatbot>`
 #### Chat: Discussion on X-Risk
 instructions::
 TLDR of what the user just read:
-`<TLDR text (optional, the bot can see all the text on the page)>`
+`<TLDR text>`
 
 Discussion topics to explore:
 - `<Discussion point 1>`

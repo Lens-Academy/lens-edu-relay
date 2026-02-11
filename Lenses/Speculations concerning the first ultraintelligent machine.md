@@ -7,7 +7,6 @@ source:: [[../articles/good-speculations-concerning-first-ultraintelligent-machi
 #### Text
 content::
 The issue with self amplifying loops is that plans become obsolete very quickly. The system a few steps down the line will be dominated by effects that are almost impossible to foresee from the starting line. I.J. Good recognised this when he wrote the following:
-
 #### Article-excerpt
 from:: "The survival of man depends"
 to:: "in his own image."
@@ -18,7 +17,7 @@ to:: "value at a megakeynes."
 
 #### Text
 content::
-And if the first ultra intelligent machine is wort a mega-keynes, how much might the machine it builds be worth? 
+And if the first ultra intelligent machine is worth a mega-keynes, how much might the machine it builds be worth? 
 #### Chat: Intelligences building intelligences
 instructions::
 TLDR of what the user just read:

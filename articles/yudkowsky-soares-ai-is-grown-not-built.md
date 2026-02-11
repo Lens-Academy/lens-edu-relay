@@ -2,8 +2,8 @@
 title: AI Is Grown, Not Built - The Atlantic
 source_url: https://archive.is/blU6r
 author:
-  - "[[Eliezer Yudkowsky]]"
-  - "[[Nate Soares]]"
+  - "Eliezer Yudkowsky"
+  - "Nate Soares"
 published: 2025-09-15
 created: 2026-02-04
 description:
@@ -12,14 +12,14 @@ tags:
 ---
 ### Nobody knows exactly what an AI will become. That’s very bad.
 
-![[Pasted image 20260204141753.png]]
+![](https://ddrn4nc0f9fxil.archive.is/blU6r/3327d8705a1fb90970f0aa1d054372f9f7f4c848.avif)
 Artificial intelligence is software, but it is not human-designed and hand-crafted like any traditional program is. Instead, modern AI is grown, a bit like an organism. In important ways, the undertaking is closer to how a human gets made. Engineers understand the *process* that results in an AI, but they don’t much understand the AI that results.
 
 This is already a problem—nobody at xAI seems to have planned for Grok to start calling itself “ [MechaHitler](https://archive.is/o/blU6r/https://www.theatlantic.com/newsletters/archive/2025/07/grok-defense-department-contract/683538/),” much like nobody at OpenAI decided that ChatGPT would lead certain users to develop “ [AI-induced psychosis”](https://archive.is/o/blU6r/https://www.psychologytoday.com/us/blog/psych-unseen/202507/deification-as-a-risk-factor-for-ai-associated-psychosis) —and it will become much larger as AIs get smarter. Modern AI companies are racing to create AIs that are [“superintelligent”](https://archive.is/o/blU6r/https://www.theatlantic.com/technology/archive/2024/10/agi-predictions/680280/) —that outperform every human on every mental task. They didn’t set out just to build chatbots; the chatbots are a stepping stone on their path to superintelligence. Some people worry about who will be in control of such superintelligences, but in reality, *nobody* will be in control. The AIs are grown rather than constructed, and a grown AI has drives and behaviors that nobody asked for and nobody wanted.
 
 We are two research scientists at the Machine Intelligence Research Institute, a nonprofit that has been working on questions relating to machine superintelligence since 2001, long before these issues got much publicity or funding. One of us, Eliezer Yudkowsky, is one of its co-founders. The other, Nate Soares, is its president. Together, we have studied how nonhuman intelligences will think, behave, and pursue their objectives. The past two decades have seen far less progress toward human-friendly machine intelligence than was originally hoped. The current situation seems to us terrifically dangerous, and we think humanity should put a simple stop to the race for superintelligence by international treaty, reining in all the companies simultaneously. The current technology just does not offer anyone enough control over how a smart AI would turn out.
 
-![If Anyone Builds It Everyone Dies by Eliezer Yudkowsky and Nate Soares](https://cdn.theatlantic.com/media/files/61hjpxgdtil_uf10001000_ql80_.jpg)
+![If Anyone Builds It Everyone Dies by Eliezer Yudkowsky and Nate Soares|645x1000](https://cdn.theatlantic.com/media/files/61hjpxgdtil_uf10001000_ql80_.jpg)
 
 This essay has been adapted from the forthcoming book, If Anyone Builds It, Everyone Dies.
 

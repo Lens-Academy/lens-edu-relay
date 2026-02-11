@@ -2,7 +2,7 @@
 title: Security Mindset and Ordinary Paranoia — LessWrong
 source_url: https://www.lesswrong.com/posts/8gqrbnW758qjHFTrH/security-mindset-and-ordinary-paranoia
 author:
-  - "[[Eliezer Yudkowsky]]"
+  - "Eliezer Yudkowsky"
 published: 2017-11-25
 created: 2026-02-04
 description: "Follow-up to: AI Alignment: Why It’s Hard, and Where to Start • ---------------------------------------- •   …"
@@ -13,7 +13,7 @@ tags:
 
 ---
 
-(amber*, a philanthropist interested in a more reliable Internet, and* coral*, a computer security professional, are at a conference hotel together discussing what Coral insists is a difficult and important issue: the difficulty of building “secure” software.*)
+(***amber**, a philanthropist interested in a more reliable Internet, and **coral**, a computer security professional, are at a conference hotel together discussing what Coral insists is a difficult and important issue: the difficulty of building “secure” software.*)
 
 amber: So, Coral, I understand that you believe it is very important, when creating software, to make that software be what you call “secure”.
 
@@ -25,7 +25,7 @@ coral: That's a deep question, but to give a partial deep answer: When you expos
 
 amber: Any system that crashes is behaving in a way the programmer didn't expect, and programmers already need to stop that from happening. How is this case different?
 
-coral: Okay, so... imagine that your system is going to take in one kilobyte of input per session. (Although that itself is the sort of assumption we'd question and ask what happens if it gets a megabyte of input instead—but never mind.) If the input is one kilobyte, then there are 2 <sup>8,000</sup> possible inputs, or about 10 <sup>2,400</sup> or so. Again, for the sake of extending the simple visualization, imagine that a computer gets a billion inputs per second. Suppose that only a googol, 10 <sup>100</sup>, out of the 10 <sup>2,400</sup> possible inputs, cause the system to behave a certain way the original designer didn't intend.
+coral: Okay, so... imagine that your system is going to take in one kilobyte of input per session. (Although that itself is the sort of assumption we'd question and ask what happens if it gets a megabyte of input instead—but never mind.) If the input is one kilobyte, then there are 2<sup>8,000</sup> possible inputs, or about 10<sup>2,400</sup> or so. Again, for the sake of extending the simple visualization, imagine that a computer gets a billion inputs per second. Suppose that only a googol, 10<sup>100</sup>, out of the 10<sup>2,400</sup> possible inputs, cause the system to behave a certain way the original designer didn't intend.
 
 If the system is getting inputs in a way that's uncorrelated with whether the input is a misbehaving one, it won't hit on a misbehaving state before the end of the universe. If there's an intelligent adversary who understands the system, on the other hand, they may be able to find one of the very rare inputs that makes the system misbehave. So a piece of the system that would literally never in a million years misbehave on random inputs, may break when an intelligent adversary tries deliberately to break it.
 
@@ -37,7 +37,7 @@ amber: Ah, and what is this security mindset?
 
 coral: I can say one or two things about it, but keep in mind we are dealing with a quality of thinking that is not entirely effable. If I could give you a handful of platitudes about security mindset, and that would actually cause you to be able to design secure software, the Internet would look very different from how it presently does. That said, it seems to me that what has been called “security mindset” can be divided into two components, one of which is much less difficult than the other. And this can fool people into overestimating their own safety, because they can get the easier half of security mindset and overlook the other half. The less difficult component, I will call by the term “ordinary paranoia”.
 
-amber:*Ordinary* paranoia?
+amber: *Ordinary* paranoia?
 
 coral: Lots of programmers have the ability to imagine adversaries trying to threaten them. They imagine how likely it is that the adversaries are able to attack them a particular way, and then they try to block off the adversaries from threatening that way. Imagining attacks, including weird or clever attacks, and parrying them with measures you imagine will stop the attack; that is ordinary paranoia.
 
