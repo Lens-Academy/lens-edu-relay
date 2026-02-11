@@ -1,5 +1,5 @@
 ---
-title: Simulators by Janus — LessWrong
+title: Simulators
 source_url: https://www.lesswrong.com/s/N7nDePaNabJdnbXeE/p/vJFdjigzmcXMhNTsx
 author: janus
 published: 2022-09-02
