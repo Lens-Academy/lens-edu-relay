@@ -34,4 +34,4 @@ instructions::
 Discussion topics to explore:
 - Could this type of manipulation be extrapolated into x-risk?
 
-The user is halfway through the article and just answered the question: "In the example above, the author was chatting with an early LLM. There were almost certainly fewer guardrails in place at that time, but the LLMs were also less capable and sophisticated. Have you had particularly good conversations with an LLM? How might those conversations have been different (better?) with a more intelligent version?"
+The user is halfway through the article and just answered the question: "What is your reaction to this story? Can you imagine a pathway to more serious risks?"
