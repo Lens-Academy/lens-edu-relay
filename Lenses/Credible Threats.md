@@ -10,7 +10,7 @@ To merely be more powerful is only half the battle however. Even if you would wi
 
 #### Article-excerpt
 from:: "The bargaining problems with"
-to:: "the union’s demands."
+to:: "the union's demands."
 
 #### Text
 content::
