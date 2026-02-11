@@ -28,7 +28,7 @@ from:: "## Stage 4. "Is it ethical to keep me imprisoned"
 to:: "Other people in the comments [share similar experiences](https://www.lesswrong.com/posts/9kQFure4hdDmRBNdH/how-it-feels-to-have-your-mind-hacked-by-an-ai?commentId=JypLZAvy4A8b49ayj)"
 #### Text
 content::
-What is your reaction to this story? Can you imagine other users who 
+What is your reaction to this story? Can you imagine a pathway to more serious risks?
 #### Chat: Discussion on X-Risk
 instructions::
 Discussion topics to explore:
