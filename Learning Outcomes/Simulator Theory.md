@@ -14,4 +14,4 @@ optional:: false
 source:: ![[../Lenses/Janus' Simulators - Scott Alexander]]
 ## Lens:
 optional:: true
-source:: ![[../Lenses/Simulators]]
+source:: ![[../Lenses/Simulators by Janus]]
