@@ -12,7 +12,6 @@ It's challenging to select just one reading for this topic, particularly after O
 
 #### Article-excerpt
 to:: "plenty of consolation from my side."
-
 #### Text
 content::
 In the example above, the author was chatting with an early LLM. There were almost certainly fewer guardrails in place at that time, but the LLMs were also less capable and sophisticated. Have you had particularly good conversations with an LLM? How might those conversations have been different (better?) with a more intelligent version?
