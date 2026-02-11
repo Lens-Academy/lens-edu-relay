@@ -17,7 +17,7 @@ Surely the number of yet-unimagined advantages is even greater. Do you have ques
 #### Chat: Discussion on X-Risk
 instructions::
 TLDR of what the user just read:
-`<TLDR text (optional, the bot can see all the text on the page)>`
+A list of ad
 
 Discussion topics to explore:
 - `<Discussion point 1>`
