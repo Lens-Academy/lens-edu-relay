@@ -23,7 +23,7 @@ Discussion topics to explore:
 - how does this make you feel about the idea of a "response" to an intelligence explosion?
 - how does it feel to be more or less standing still?
 - `<Discussion point 3>`
-- `<Discussion point 4>`
+
 
 Ask what they found surprising or new. Check if they can explain `<key concept>` in their own words—it's a key concept.
 
