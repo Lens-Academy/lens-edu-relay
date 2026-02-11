@@ -6,7 +6,7 @@ source:: [[../../articles/alexander-janus-simulators|alexander-janus-simulators]
 
 #### Text
 content::
-`<introductory text>`
+Some models of AI-related risk primarily view AI as an agent. Modern LLMs can sometimes be viewed this way, but sometimes an LLM doesn't resemble an agent. What do you think it resembles?
 
 #### Chat: Discussion on X-Risk
 instructions::
