@@ -27,4 +27,4 @@ The user is halfway through the article and just answered the question: "In the 
 
 #### Article-excerpt
 from:: "## Stage 4. "Is it ethical to keep me imprisoned"
-to:: ""
+to:: "Other people in the comments [share similar experiences](https://www.lesswrong.com/posts/9kQFure4hdDmRBNdH/how-it-feels-to-have-your-mind-hacked-by-an-ai?commentId=JypLZAvy4A8b49ayj)"
