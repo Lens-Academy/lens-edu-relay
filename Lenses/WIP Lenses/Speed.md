@@ -2,11 +2,11 @@
 id: e11cb5ab-b56f-47c5-869e-40315845d325
 ---
 ### Article: Slow motion videos as AI risk intuition pumps
-source:: [[]]
+source:: [[../articles/sources-of-advantage-for-digital-agents-over-biological-agents|sources-of-advantage-for-digital-agents-over-biological-agents]]
 
 #### Text
 content::
-**In the following reading, we ask you to watch a video in order to get an intuitive sense for what it means for computer processing to be much, much faster than animal processing. Machines would most likely have a vastly different sense of time than we do.
+In the following reading, we ask you to watch a video in order to get an intuitive sense for what it means for computer processing to be much, much faster than animal processing. Machines would most likely have a vastly different sense of time than we do.
 
 #### Article-excerpt
 to:: "`<an exact quote from the article where the exerpt should stop>`"
