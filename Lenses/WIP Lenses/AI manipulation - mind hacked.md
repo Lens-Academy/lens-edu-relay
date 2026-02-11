@@ -22,6 +22,6 @@ TLDR of what the user just read:
 `<TLDR text (optional, the bot can see all the text on the page)>`
 
 Discussion topics to explore:
-- Help the 
+- Help the user put useful frames around the phenemono
 
 The user just answered the question: `<tell the chatbot what prompt the user is responding to>`
