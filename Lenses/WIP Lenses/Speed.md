@@ -21,7 +21,7 @@ The user has watched a video of a busy subway platform, filmed at 100x slow moti
 
 Discussion topics to explore:
 - how does this make you feel about the idea of a "response" to an intelligence explosion
-- 
+- ho
 - `<Discussion point 3>`
 - `<Discussion point 4>`
 
