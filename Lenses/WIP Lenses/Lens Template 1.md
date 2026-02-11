@@ -2,7 +2,7 @@
 id:
 ---
 ### Article: `article title`
-source:: [[]]
+source:: [[../../articles/alexander-janus-simulators|alexander-janus-simulators]]
 
 #### Text
 content::
