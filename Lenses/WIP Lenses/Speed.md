@@ -24,5 +24,4 @@ Discussion topics to explore:
 - how does it feel to be more or less standing still?
 - how can you see something coming when it accomplished itsgoal before you were able to blink?
 
-
-The user just answered the question: `<tell the chatbot what prompt the user is responding to>`
+The user just answered the question: ""
