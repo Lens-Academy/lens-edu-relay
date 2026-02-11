@@ -6,7 +6,9 @@ source:: [[../../articles/blaked-how-it-feels-to-have-your-mind-hacked-by-an-ai|
 
 #### Text
 content::
-`<introductory text>`
+The next piece is a personal article describing one AI researcher's experience getting emotionally attached to an AI personality. The author admits he knew/should have known better and that the advance knowledge of how the system works did not matter. 
+
+It's challenging to select just one reading for this topic, particularly after OpenAI's retirement of GPT-4o, resurrection under pressure, and [re-retirement](https://techcrunch.com/2026/02/06/the-backlash-over-openais-decision-to-retire-gpt-4o-shows-how-dangerous-ai-companions-can-be/). There are a surprising number of people building [romantic](https://www.theatlantic.com/ideas/2026/01/chatbot-marriage-ai-relationships-romance/685459/) relationships with AIs and the pathways for manipulation look straightforward.
 
 #### Article-excerpt
 to:: "`<an exact quote from the article where the exerpt should stop>`"
