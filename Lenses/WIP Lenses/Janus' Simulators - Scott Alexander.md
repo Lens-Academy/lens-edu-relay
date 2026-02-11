@@ -1,7 +1,7 @@
 ---
 id:
 ---
-### Article: `article title`
+### Article: Janus' Simulators - Scott Alexander
 source:: [[../../articles/alexander-janus-simulators|alexander-janus-simulators]]
 
 #### Text
