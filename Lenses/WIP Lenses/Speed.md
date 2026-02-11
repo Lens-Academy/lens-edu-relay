@@ -22,8 +22,7 @@ The user has watched a video of a busy subway platform, filmed at 100x slow moti
 Discussion topics to explore:
 - how does this make you feel about the idea of a "response" to an intelligence explosion?
 - how does it feel to be more or less standing still?
-- `<Discussion point 3>`
-
+- how can you see someth
 
 Ask what they found surprising or new. Check if they can explain `<key concept>` in their own words—it's a key concept.
 
