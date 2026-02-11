@@ -13,7 +13,7 @@ tags:
 
 ---
 
-(amber*, a philanthropist interested in a more reliable Internet, and* coral*, a computer security professional, are at a conference hotel together discussing what Coral insists is a difficult and important issue: the difficulty of building “secure” software.*)
+(**amber**, a philanthropist interested in a more reliable Internet, and **coral**, a computer security professional, are at a conference hotel together discussing what Coral insists is a difficult and important issue: the difficulty of building “secure” software.*)
 
 amber: So, Coral, I understand that you believe it is very important, when creating software, to make that software be what you call “secure”.
 
