@@ -11,7 +11,7 @@ The next piece is a personal article describing one AI researcher's experience g
 It's challenging to select just one reading for this topic, particularly after OpenAI's retirement of GPT-4o, resurrection under pressure, and [re-retirement](https://techcrunch.com/2026/02/06/the-backlash-over-openais-decision-to-retire-gpt-4o-shows-how-dangerous-ai-companions-can-be/). There are a surprising number of people building [romantic](https://www.theatlantic.com/ideas/2026/01/chatbot-marriage-ai-relationships-romance/685459/) relationships with AIs and the pathways for manipulation look straightforward.
 
 #### Article-excerpt
-to:: "`<an exact quote from the article where the exerpt should stop>`"
+to:: "plenty of consolation from my side."
 
 #### Text
 content::
