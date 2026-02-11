@@ -6,7 +6,7 @@ source:: [[../articles/sources-of-advantage-for-digital-agents-over-biological-a
 
 #### Text
 content::
-And still we are only sc
+And still we are only scratching the tip of the iceberg 
 
 #### Article-excerpt
 to:: "`<an exact quote from the article where the exerpt should stop>`"
