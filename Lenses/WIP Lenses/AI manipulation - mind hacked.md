@@ -15,7 +15,7 @@ to:: "plenty of consolation from my side."
 
 #### Text
 content::
-`<prompt the user on how they should interact with the chatbot>`
+In the example above, the author was chatting with an early LLM. There were almost certainly fewer guardrails in place at
 #### Chat: Discussion on X-Risk
 instructions::
 TLDR of what the user just read:
