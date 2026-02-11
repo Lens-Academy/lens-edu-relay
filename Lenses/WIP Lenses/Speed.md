@@ -17,7 +17,7 @@ Did you imagine yourself able to operate at speeds 100x faster than the human wo
 
 #### Chat: Discussion on X-Risk
 instructions::
-The user has watched a video of a busy subway platform, filmed at 100x slow motion. Explore how they felt and what this revealed to them.
+The user has watched a video of a busy subway platform, filmed at 100x slow motion, in the contextExplore how they felt and what this revealed to them.
 
 Discussion topics to explore:
 - `<Discussion point 1>`
