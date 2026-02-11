@@ -27,4 +27,4 @@ Discussion topics to explore:
 
 Ask what they found surprising or new. Check if they can explain two of these advantages in their own words—it's a key concept.
 
-The user just answered the question: Do you have questions about some of these "superpowers"? Perhaps one of them strikes you as especially powerful.
+The user just answered the question: "Do you have questions about some of these "superpowers"? Perhaps one of them strikes you as especially powerful."
