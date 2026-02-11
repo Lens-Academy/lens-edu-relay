@@ -11,4 +11,4 @@ source:: ![[]]
 
 ## Lens:
 optional:: true
-source:: ![[../Lenses/Credible T|AI Is Grown, Not Built]]
+source:: ![[../Lenses/Credible Threats|Credible Threats]]
