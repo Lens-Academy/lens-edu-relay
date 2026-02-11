@@ -17,7 +17,7 @@ Surely the number of yet-unimagined advantages is even greater. Do you have ques
 #### Chat: Discussion on X-Risk
 instructions::
 TLDR of what the user just read:
-A list of ad
+A list of advantages powerful artificial inte
 
 Discussion topics to explore:
 - `<Discussion point 1>`
