@@ -18,12 +18,9 @@ content::
 In the example above, the author was chatting with an early LLM. There were almost certainly fewer guardrails in place at that time, but the LLMs were also less capable and sophisticated. Have you had particularly good conversations with an LLM? How might those conversations have been different (better?) with a more intelligent version?
 #### Chat: Discussion on X-Risk
 instructions::
-TLDR of what the user just read:
-`<TLDR text (optional, the bot can see all the text on the page)>`
-
 Discussion topics to explore:
 - Help the user put useful frames around the phenomenon of relationship formation with LLMs. 
 - Does it help if we think of them as simulators? 
-- Do these stories represent agentic behavior or just the LLM "telling stories"
+- Do these stories represent agentic behavior or just the LLM "telling stories"?
 
 The user just answered the question: `<tell the chatbot what prompt the user is responding to>`
