@@ -9,7 +9,7 @@ content::
 In the following reading, we ask you to watch a video in order to get an intuitive sense for what it means for computer processing to be much, much faster than animal processing. Machines would most likely have a vastly different sense of time than we do.
 
 #### Article-excerpt
-to:: "its support for fast serial processing."
+to:: "or insects."
 
 #### Text
 content::
