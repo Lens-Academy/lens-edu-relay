@@ -6,7 +6,7 @@ source:: [[../articles/sources-of-advantage-for-digital-agents-over-biological-a
 
 #### Text
 content::
-And still we are only scratching the tip of the iceberg. Perhaps you'll want to sit down and think of a few advantages you could imagine an artificial mind having over us before you read the following list 
+And still we are only scratching the tip of the iceberg. Perhaps you'll want to sit down and think of a few more advantages you could imagine an artificial mind having over us before you read the following list 
 
 #### Article-excerpt
 to:: "`<an exact quote from the article where the exerpt should stop>`"
