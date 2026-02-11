@@ -13,7 +13,7 @@ to:: "`<an exact quote from the article where the exerpt should stop>`"
 
 #### Text
 content::
-Surely the number of yet-unimagined advantages is even greater. Do you have questions about some of these "superpowers"? Perhaps 
+Surely the number of yet-unimagined advantages is even greater. Do you have questions about some of these "superpowers"? Perhaps one of them strikes you as especially vital
 
 #### Chat: Discussion on X-Risk
 instructions::
