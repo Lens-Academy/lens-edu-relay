@@ -20,9 +20,9 @@ TLDR of what the user just read:
 A list of advantages powerful artificial intelligences would have over humans from Bostrom's book "Superintelligence", each with a short description. The list includes the speed of computational elements compared to neurons, the internal communication speed compared to the speed of action potential through axons, the possible number of computational elements, storage capacity, reliability, lifespan and the  precision of sensors as well as editability, duplicability, goal coordination, memory sharing and modular expandability.
 
 Discussion topics to explore:
-- Were you able to come up with even more of these "superpowers"
+- Were you able to come up with even more of these "superpowers"?
 - Examples of how some of these could be used to a decisive advantage
-- how could humans keep up
+- how could humans keep up?
 - `<Discussion point 4>`
 
 Ask what they found surprising or new. Check if they can explain `<key concept>` in their own words—it's a key concept.
