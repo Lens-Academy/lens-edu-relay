@@ -17,7 +17,7 @@ Surely the number of yet-unimagined advantages is even greater. Do you have ques
 #### Chat: Discussion on X-Risk
 instructions::
 TLDR of what the user just read:
-A list of advantages powerful artificial intelligences would have over humans from Bostrom's book "Superintelligence", each with a short description 
+A list of advantages powerful artificial intelligences would have over humans from Bostrom's book "Superintelligence", each with a short description. 
 
 Discussion topics to explore:
 - `<Discussion point 1>`
