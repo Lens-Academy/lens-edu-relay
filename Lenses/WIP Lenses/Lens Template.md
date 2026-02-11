@@ -17,7 +17,7 @@ content::
 #### Chat: Discussion on X-Risk
 instructions::
 TLDR of what the user just read:
-`<TLDR text (optiona)>`
+`<TLDR text (optional, the bot can see all the text on the page)>`
 
 Discussion topics to explore:
 - `<Discussion point 1>`
