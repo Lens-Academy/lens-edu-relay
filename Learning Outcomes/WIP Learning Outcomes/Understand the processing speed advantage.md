@@ -7,4 +7,4 @@ learning-outcome: **Be able to give an example of AI working much faster than hu
 
 ## Lens:
 optional:: false
-source:: ![[../Lenses/Spee|And many more]]
+source:: ![[../Lenses/Speed|Speed]]
