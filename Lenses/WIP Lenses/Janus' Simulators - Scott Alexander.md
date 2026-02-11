@@ -20,6 +20,6 @@ content::
 `<prompt the user on how they should interact with the chatbot>`
 #### Chat: Discussion on X-Risk
 instructions::
-Now that they've finished the article, ask them how their view have changed. You can also folloAsk what they found surprising or new. Check if they can explain `<key concept>` in their own words—it's a key concept.
+Now that they've finished the article, ask them how their view have changed. You can also follow up by asking  what they found surprising or new. Check if they can explain `<key concept>` in their own words—it's a key concept.
 
 The user just answered the question: `<tell the chatbot what prompt the user is responding to>`
