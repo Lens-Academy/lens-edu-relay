@@ -25,6 +25,6 @@ Discussion topics to explore:
 - How could humans keep up?
 - Which of these seem especially important and why?
 
-Ask what they found surprising or new. Check if they can explain `<key concept>` in their own words—it's a key concept.
+Ask what they found surprising or new. Check if they can explain two of these advantages in their own words—it's a key concept.
 
 The user just answered the question: `<tell the chatbot what prompt the user is responding to>`
