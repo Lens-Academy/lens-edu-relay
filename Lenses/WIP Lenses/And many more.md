@@ -13,7 +13,8 @@ to:: "`<an exact quote from the article where the exerpt should stop>`"
 
 #### Text
 content::
-`<prompt the user on how they should interact with the chatbot>`
+Surely the number of yet-unimagined advantages is even greater.
+
 #### Chat: Discussion on X-Risk
 instructions::
 TLDR of what the user just read:
