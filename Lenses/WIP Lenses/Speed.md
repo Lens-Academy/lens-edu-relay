@@ -2,7 +2,7 @@
 id: e11cb5ab-b56f-47c5-869e-40315845d325
 ---
 ### Article: Slow motion videos as AI risk intuition pumps
-source:: [[../articles/sources-of-advantage-for-digital-agents-over-biological-agents|sources-of-advantage-for-digital-agents-over-biological-agents]]
+source:: [[../articles/slow-motion-videos-as-ai-risk-intuition-pumps|slow-motion-videos-as-ai-risk-intuition-pumps]]
 
 #### Text
 content::
