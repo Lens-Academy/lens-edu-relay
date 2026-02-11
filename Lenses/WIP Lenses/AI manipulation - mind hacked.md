@@ -15,7 +15,7 @@ to:: "plenty of consolation from my side."
 
 #### Text
 content::
-In the example above, the author was chatting with an early LLM. There were almost certainly fewer guardrails in place at that time, but the LLMs were also less capable and sophisticated. Have you had particular
+In the example above, the author was chatting with an early LLM. There were almost certainly fewer guardrails in place at that time, but the LLMs were also less capable and sophisticated. Have you had particularly good conversations with an LLM? 
 #### Chat: Discussion on X-Risk
 instructions::
 TLDR of what the user just read:
