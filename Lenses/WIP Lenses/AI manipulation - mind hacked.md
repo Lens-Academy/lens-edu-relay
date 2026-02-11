@@ -1,7 +1,7 @@
 ---
 id: 597fd0a4-caa8-43d6-8ea0-ec88fc9649b5
 ---
-### Article: `article title`
+### Article: How it feels to have your mind hacked by an AI — LessWrong
 source:: [[../../articles/blaked-how-it-feels-to-have-your-mind-hacked-by-an-ai|blaked-how-it-feels-to-have-your-mind-hacked-by-an-ai]]
 
 #### Text
