@@ -17,7 +17,7 @@ to:: "count this as a cessation experience."
 
 #### Text
 content::
-Did reading this article shift your views (consider scrolling up to reread what you said before reading)? If yes, how did they shift. If not, tell us more.
+Did reading this article shift your views (consider  what you said before reading)? If yes, how did they shift. If not, tell us more.
 #### Chat: Discussion on X-Risk
 instructions::
 Now that they've finished the article, talk to them how their view have changed. You can also follow up by asking  what they found surprising or new. 
