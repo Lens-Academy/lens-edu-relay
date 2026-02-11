@@ -11,4 +11,4 @@ source:: ![[]]
 
 ## Lens:
 optional:: true
-source:: ![[]]
+source:: ![[../Lenses/AI Is Grown, Not Built|AI Is Grown, Not Built]]
