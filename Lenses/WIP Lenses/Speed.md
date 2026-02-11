@@ -1,7 +1,7 @@
 ---
 id: e11cb5ab-b56f-47c5-869e-40315845d325
 ---
-### Video: Slow motion videos as AI risk intuition pumps
+### Article: Slow motion videos as AI risk intuition pumps
 source:: [[]]
 
 #### Text
