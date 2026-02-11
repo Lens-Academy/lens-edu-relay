@@ -24,6 +24,6 @@ TLDR of what the user just read:
 Discussion topics to explore:
 - Help the user put useful frames around the phenomenon of relationship formation with LLMs. 
 - Does it help if we think of them as simulators? 
-- Do these storie agentic behavior
+- Do these stories represent agentic behavior or just the LLM "telling stories"
 
 The user just answered the question: `<tell the chatbot what prompt the user is responding to>`
