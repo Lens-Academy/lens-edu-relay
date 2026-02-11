@@ -1,6 +1,6 @@
 ---
 title: "Sources of advantage for digital agents over biological agents"
-source_url: "https://aiimpacts.org/sources-of-advantage-for-artificial-intelligence/"
+source_url: https://aiimpacts.org/sources-of-advantage-for-artificial-intelligence/
 author:
   - "AI Impacts"
 published: 2016-09-04
