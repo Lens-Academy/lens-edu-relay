@@ -14,9 +14,9 @@ In this module, we explore the myriad ways in which intelligence gives agents po
 source:: ![[../../Learning Outcomes/WIP Learning Outcomes/Understand the processing speed advantage|Understand the processing speed advantage]]
 
 # Learning Outcome:
-source:: [[!ci]]
+source:: [[../Learning Outcomes/WIP Learning Outcomes/Cite examples of AI manipulation|Cite examples of AI manipulation]]
 
 # Learning Outcome:
-source:: ![[../../Learning Outcomes/WIP Learning Outcomes/Enumerate n competitive advantages machines have over humans|Enumerate n competitive advantages machines have over humans]]
+source:: [[../../Learning Outcomes/WIP Learning Outcomes/Enumerate n competitive advantages machines have over humans|Enumerate n competitive advantages machines have over humans]]
 
 
