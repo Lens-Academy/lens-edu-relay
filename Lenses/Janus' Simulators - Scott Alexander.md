@@ -2,7 +2,7 @@
 id: a3a1dfd7-79fa-449e-ba6a-d3118f2e32c0
 ---
 ### Article: Janus' Simulators - Scott Alexander
-source:: [[../articles/alexander-janus-simulators]] 
+source:: [[../../articles/alexander-janus-simulators]] 
 
 #### Text
 content::
