@@ -1,5 +1,5 @@
 ---
-title: Janus' Simulators
+title: Janus' Simulators by Scott Alexander
 source_url: https://www.astralcodexten.com/p/janus-simulators
 author:
   - Scott Alexander
