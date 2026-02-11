@@ -7,4 +7,4 @@ learning-outcome: "Be able to give an example of AI working much faster than hum
 
 ## Lens:
 optional:: false
-source:: ![[../Lenses/wip lenses/s]]
+source:: ![[../../Lenses/WIP Lenses/Speed|Speed]]
