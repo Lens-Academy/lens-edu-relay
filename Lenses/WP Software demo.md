@@ -6,7 +6,7 @@ source:: [[../articles/wikipedia-existential-risk-from-ai]]
 
 #### Text
 content::
-# Understanding Existential Risk from AI
+!# Understanding Existential Risk from AI
 
 Now let's read an overview of the main concepts regarding AI as a source
 of existential threat: what capabilities of this technology are considered
