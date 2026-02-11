@@ -26,4 +26,5 @@ Discussion topics to explore:
 The user is halfway through the article and just answered the question: "In the example above, the author was chatting with an early LLM. There were almost certainly fewer guardrails in place at that time, but the LLMs were also less capable and sophisticated. Have you had particularly good conversations with an LLM? How might those conversations have been different (better?) with a more intelligent version?"
 
 #### Article-excerpt
-to:: "plenty of consolation from my side."
+from:: "plenty of consolation from my side."
+to:: 
