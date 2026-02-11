@@ -19,5 +19,4 @@ source::
 # Learning Outcome:
 source:: 
 
-# Learning Outcome:
-source:: 
+
