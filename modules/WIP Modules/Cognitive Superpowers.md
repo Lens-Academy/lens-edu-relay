@@ -17,6 +17,6 @@ source::
 source:: 
 
 # Learning Outcome:
-source:: ![[../Learning Outcomes/Fizzle or Foom]]
+source:: ![[../Learning Outcomes/Enumerate n competitive advantages machines have over humans]]
 
 
