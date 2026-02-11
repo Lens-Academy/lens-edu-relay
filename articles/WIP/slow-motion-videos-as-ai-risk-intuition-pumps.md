@@ -23,7 +23,3 @@ Nowadays, before getting into a bunch of specific stories, I try to say somethin
 	Now, when you try imagining things turning out fine for humanity over the course of a year, try imagining advanced AI technology running all over the world and making all kinds of decisions and actions *10 million times faster than us, for 10 million subjective years.* Meanwhile, there are these nearly-stationary plant-like or rock-like "human" objects around that could easily be taken apart for, say, biofuel or carbon atoms, if you could just get started building a human-disassembler. Visualizing things this way, you can start to see all the ways that a digital civilization can develop very quickly into a situation where there are no humans left alive, just as human civilization doesn't show much regard for plants or wildlife or insects.
 
 I've found this kind of argument — including an actual 30 second pause to watch a video in the middle of the conversation — to be more persuasive than trying to tell a single, specific story, so I thought I'd share it.
-
-x
-
-Slow motion videos as AI risk intuition pumps — LessWrong pumps — LessWrong
