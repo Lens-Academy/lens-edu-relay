@@ -10,17 +10,7 @@ Some models of AI-related risk primarily view AI as an agent. Modern LLMs can so
 
 #### Chat: Discussion on X-Risk
 instructions::
-TLDR of what the user just read:
-`<TLDR text>`
-
-Discussion topics to explore:
-- `<Discussion point 1>`
-- `<Discussion point 2>`
-- `<Discussion point 3>`
-- `<Discussion point 4>`
-
-Ask what they found surprising or new. Check if they can explain `<key concept>` in their own words—it's a key concept.
-
+As a
 The user just answered the question: `<tell the chatbot what prompt the user is responding to>`
 #### Article-excerpt
 to:: "count this as a cessation experience."
