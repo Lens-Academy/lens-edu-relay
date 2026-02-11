@@ -11,7 +11,7 @@ Some models of AI-related risk primarily view AI as an agent. Modern LLMs can so
 #### Chat: Discussion on X-Risk
 instructions::
 As an introduction to this reading, but after introducing the basics of simulator theory, we've asked the user to consider their experience with LLMs. 
-The user just answered the question: ``
+The user just answered the question: "Some models of AI-related risk primarily view AI as an agent. Modern LLMs can sometimes be viewed this way, but sometimes an LLM doesn't resemble an agent. Based on your use of LLMs, what do you think they resemble?"
 #### Article-excerpt
 to:: "count this as a cessation experience."
 
