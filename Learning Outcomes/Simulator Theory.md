@@ -10,5 +10,6 @@ optional:: false
 source:: ![[../Lenses/How can LLMs be understood as simulators]]
 
 ## Lens:
-optional:: false
+## Lens:
+optional:: true
 source:: ![[../Lenses/Simulators]]
