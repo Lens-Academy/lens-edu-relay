@@ -1,7 +1,7 @@
 ---
 id: e11c9013-82d7-4048-a0aa-be15533e4350
 ---
-### Article: `article title`
+### Article: Sources of advantage for digital agents over biological agents
 source:: [[]]
 
 #### Text
