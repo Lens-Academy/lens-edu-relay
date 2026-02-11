@@ -4,11 +4,11 @@ discussion: <discord url>
 learning-outcome: Students will have an inventory of the ways ASI would have advantages over humanity.
 ---
 ## Test:
-a
+
 ## Lens:
 optional:: false
-source:: ![[../Lenses/WIP Lenses/And many more|And many more]]
+source:: ![[../../Lenses/WIP Lenses/And many more|And many more]]
 
 ## Lens:
 optional:: true
-source:: ![[../Lenses/Credible Threats|Credible Threats]]
+source:: ![[../../Lenses/Credible Threats|Credible Threats]]
