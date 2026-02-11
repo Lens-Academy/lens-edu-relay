@@ -20,7 +20,7 @@ instructions::
 The user has watched a video of a busy subway platform, filmed at 100x slow motion, in the context of an article about how transistors operate at a speed ten million times faster than a human brain cell and what this would mean for the time-perception and comparative power of advanced artificial minds. Explore how they felt and what this revealed to them.
 
 Discussion topics to explore:
-- how does this make you feel about the idea of a "response" to an intelligence 
+- how does this make you feel about the idea of a "response" to an intelligence explosion
 - `<Discussion point 2>`
 - `<Discussion point 3>`
 - `<Discussion point 4>`
