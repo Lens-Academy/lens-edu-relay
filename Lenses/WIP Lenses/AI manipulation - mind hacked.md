@@ -23,4 +23,4 @@ Discussion topics to explore:
 - Does it help if we think of them as simulators? 
 - Do these stories represent agentic behavior or just the LLM "telling stories"?
 
-The user just answered the question: `<tell the chatbot what prompt the user is responding to>`
+The user is halfway through the article and just answered the question: `<tell the chatbot what prompt the user is responding to>`
