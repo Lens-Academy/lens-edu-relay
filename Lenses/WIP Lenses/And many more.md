@@ -6,7 +6,7 @@ source:: [[../articles/sources-of-advantage-for-digital-agents-over-biological-a
 
 #### Text
 content::
-And st
+And still we are only sc
 
 #### Article-excerpt
 to:: "`<an exact quote from the article where the exerpt should stop>`"
