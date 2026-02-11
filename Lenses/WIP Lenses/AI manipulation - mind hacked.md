@@ -34,4 +34,4 @@ instructions::
 Discussion topics to explore:
 - Could this type of manipulation be extrapolated into x-risk?
 
-The user has co article and just answered the question: "What is your reaction to this story? Can you imagine a pathway to more serious risks?"
+The user has completed article and just answered the question: "What is your reaction to this story? Can you imagine a pathway to more serious risks?"
