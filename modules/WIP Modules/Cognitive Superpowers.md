@@ -17,6 +17,6 @@ source:: ![[../../Learning Outcomes/WIP Learning Outcomes/Understand the process
 source:: 
 
 # Learning Outcome:
-source:: ![[../Learning Outcomes/Enumerate n competitive advantages machines have over humans]]
+source:: ![[]]
 
 
