@@ -21,7 +21,7 @@ A list of advantages powerful artificial intelligences would have over humans fr
 
 Discussion topics to explore:
 - Were you able to come up with even more of these "superpowers"
-- `<Discussion point 2>`
+- examples of how s
 - `<Discussion point 3>`
 - `<Discussion point 4>`
 
