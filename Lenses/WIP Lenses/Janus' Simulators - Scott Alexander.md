@@ -23,7 +23,7 @@ Ask what they found surprising or new. Check if they can explain `<key concept>`
 
 The user just answered the question: `<tell the chatbot what prompt the user is responding to>`
 #### Article-excerpt
-to:: "`<an exact quote from the article where the exerpt should stop>`"
+to:: "count this as a cessation experience."
 
 #### Text
 content::
