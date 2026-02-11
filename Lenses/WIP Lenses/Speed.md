@@ -13,7 +13,8 @@ to:: "its support for fast serial processing."
 
 #### Text
 content::
-`<prompt the user on how they should interact with the chatbot>`
+Did you imagine yourself able to operate at speeds 100x faster than the human world? Or, perhaps, did you try to put yourself in the shoes of an AI? What did this experience reveal to you?
+
 #### Chat: Discussion on X-Risk
 instructions::
 TLDR of what the user just read:
