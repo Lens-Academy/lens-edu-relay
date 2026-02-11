@@ -7,7 +7,7 @@ learning-outcome: Students will have an inventory of the ways ASI would have adv
 
 ## Lens:
 optional:: false
-source:: ![[../../Lenses/WIP Lenses/And many more|And many more]]
+source:: ![[../../Lenses/WIP Lenses/More advantages for digital agents|More advantages for digital agents]]
 
 ## Lens:
 optional:: true
