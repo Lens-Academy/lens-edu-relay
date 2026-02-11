@@ -7,7 +7,7 @@ learning-outcome: Students will have an inventory of the ways ASI would have adv
 
 ## Lens:
 optional:: false
-source:: ![[]]
+source:: ![[../Lenses/And ]]
 
 ## Lens:
 optional:: true
