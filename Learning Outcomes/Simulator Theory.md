@@ -10,7 +10,7 @@ optional:: false
 source:: ![[../Lenses/How can LLMs be understood as simulators]]
 
 ## Lens:
-optioanl:: falst
+optioanl:: false
 source:: ![[../Lenses/WIP Lenses/Janus' Simulators - Scott Alexander]]
 ## Lens:
 optional:: true
