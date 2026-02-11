@@ -10,7 +10,7 @@ Some models of AI-related risk primarily view AI as an agent. Modern LLMs can so
 
 #### Chat: Discussion on X-Risk
 instructions::
-As a
+As an introduction to the reading, we've asked the user to consider their 
 The user just answered the question: `<tell the chatbot what prompt the user is responding to>`
 #### Article-excerpt
 to:: "count this as a cessation experience."
