@@ -22,8 +22,7 @@ The user has watched a video of a busy subway platform, filmed at 100x slow moti
 Discussion topics to explore:
 - how does this make you feel about the idea of a "response" to an intelligence explosion?
 - how does it feel to be more or less standing still?
-- how can you see something coming when it accomplished it'S goal before you were able to blink
+- how can you see something coming when it accomplished itsgoal before you were able to blink?
 
-Ask what they found surprising or new. Check if they can explain `<key concept>` in their own words—it's a key concept.
 
 The user just answered the question: `<tell the chatbot what prompt the user is responding to>`
