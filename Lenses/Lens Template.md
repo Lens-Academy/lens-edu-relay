@@ -2,7 +2,7 @@
 id:
 tags :
   - lens
-  - work-in
+  - work-in-progress
 ---
 ### Article: `article title`
 source:: [[]]
