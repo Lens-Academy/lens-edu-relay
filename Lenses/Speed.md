@@ -2,10 +2,10 @@
 id: e11cb5ab-b56f-47c5-869e-40315845d325
 tags:
   - lens
-  - work-in-o
+  - work-in-progress
 ---
 ### Article: Slow motion videos as AI risk intuition pumps
-source:: [[../../articles/slow-motion-videos-as-ai-risk-intuition-pumps]]
+source:: [[../articles/slow-motion-videos-as-ai-risk-intuition-pumps]]
 
 #### Text
 content::
