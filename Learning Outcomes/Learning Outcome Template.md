@@ -10,8 +10,8 @@ tags:
 
 ## Lens:
 optional:: false
-source:: ![[../Lenses/Lens Template|Lens Template]]
+source:: [[../Lenses/Lens Template|Lens Template]]
 
 ## Lens:
 optional:: true
-source:: ![[]]
+source:: [[../Lenses/Lens Template|Lens Template]]
