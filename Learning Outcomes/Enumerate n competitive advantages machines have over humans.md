@@ -10,7 +10,7 @@ tags:
 
 ## Lens:
 optional:: false
-source:: ![[../../Lenses/WIP Lenses/More advantages for digital agents|More advantages for digital agents]]
+source:: [[../../Lenses/WIP Lenses/More advantages for digital agents|More advantages for digital agents]]
 
 ## Lens:
 optional:: true
