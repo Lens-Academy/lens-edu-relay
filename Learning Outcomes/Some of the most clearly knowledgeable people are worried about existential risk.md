@@ -7,5 +7,4 @@ tags:
   - learning outcome
 ---
 ## Lens:
-source::
-![[../../Lenses/Wikipedia Existential Risk]]
+source:: [[../../Lenses/Wikipedia Existential Risk]]
