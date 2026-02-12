@@ -4,6 +4,7 @@ discussion: <discord url>
 learning-outcome: Students will have an inventory of the ways ASI would have advantages over humanity.
 tags:
   - work-in-progress
+  - learning-outcome
 ---
 ## Test:
 

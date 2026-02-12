@@ -4,7 +4,7 @@ discussion: <discord url>
 learning-outcome: "Tell a story of a real-life case of AI social manipulation, justify why stronger AI would be better at this, and tell a speculative story of how this could contribute to x-risk."
 tags:
   - work-in-progress
-  - 
+  - learning-outcome
 ---
 ## Test:
 
