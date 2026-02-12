@@ -12,7 +12,7 @@ title: AI Safety Course
 
 # Meeting: 2
 
-# Module: [[../modules/what-even-is-ai|what-even-is-ai]]
+# Module: [[../modules/what-even-is-ai]]
 
 # Meeting: 3
 
@@ -20,4 +20,4 @@ title: AI Safety Course
 
 # Meeting: 4
 
-
+# Module:  
