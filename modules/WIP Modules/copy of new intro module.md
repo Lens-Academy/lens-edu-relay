@@ -1,3 +1,12 @@
+---
+id:
+slug:
+title:
+discussion:
+tags:
+  - module
+  - work-in-progress
+---
 # Page: Welcome
 id:: a1b2c3d4-5678-90ab-cdef-1234567890ab
 ## Text
