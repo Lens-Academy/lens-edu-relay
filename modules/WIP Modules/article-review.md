@@ -2,6 +2,9 @@
 id: 9b8f0a6c-952e-4d3d-9909-1091e4a6cb1d
 slug: article-review
 title: Article Review (All Extracted Articles)
+tags:
+  - module
+  - work-in-progress
 ---
 
 # Article: Most Important Century

@@ -5,7 +5,7 @@ title:
 discussion:
 tags:
   - module
-  - work-in-p
+  - work-in-progress
 ---
 # Page: Welcome
 id::
