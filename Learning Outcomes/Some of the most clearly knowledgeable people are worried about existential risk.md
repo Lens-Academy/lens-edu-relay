@@ -6,5 +6,5 @@ tags:
   - work-in-progress
   - learning outcome
 ---
-## Lens:
+## Lens: 
 source:: [[../Lenses/Wikipedia Existential Risk]]
