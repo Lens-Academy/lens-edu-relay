@@ -20,4 +20,4 @@ title: AI Safety Course
 
 # Meeting: 4
 
-# Module:  
+# Module:  [[../modules/coming-soon]]
