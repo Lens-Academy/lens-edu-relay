@@ -5,7 +5,7 @@ title: "Cognitive Superpowers"
 discussion: 
 tags:
   - module
-  - work-in-
+  - work-in-progress
 ---
 # Page: Welcome
 id:: 1e8bd017-944e-442f-b12c-5a168b0244f0
