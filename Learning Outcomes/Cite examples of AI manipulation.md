@@ -10,8 +10,4 @@ tags:
 
 ## Lens:
 optional:: false
-source:: ![[../Lenses/AI manipulation - mind hacked|AI manipulation - mind hacked]]
-
-## Lens:
-optional:: true
-source:: ![[]]
+source:: [[../Lenses/AI manipulation - mind hacked|AI manipulation - mind hacked]]
