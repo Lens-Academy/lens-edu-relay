@@ -3,7 +3,6 @@ id: 66b0c880-8382-4632-a358-bf708f502d9d
 discussion: <discord url>
 learning-outcome: ""
 tags:
-  - work-in-progress
   - learning-outcome
 ---
 ## Test:
