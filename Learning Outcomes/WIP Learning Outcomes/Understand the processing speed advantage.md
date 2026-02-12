@@ -9,4 +9,4 @@ tags:
 
 ## Lens:
 optional:: false
-source:: ![[]]
+source:: ![[../../Lenses/Speed|Speed]]
