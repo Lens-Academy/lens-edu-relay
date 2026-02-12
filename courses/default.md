@@ -12,11 +12,11 @@ title: AI Safety Course
 
 # Meeting: 2
 
-# Module: [[what-even-is-ai]]
+# Module: [[what-even-is-a]]
 
 # Meeting: 3
 
-# Module: [[../modules/Cognitive Superpowers|Cognitive Superpowers]]
+# Module: [[../modules/Cognitive Superpowers]]
 
 # Meeting: 4
 
