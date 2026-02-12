@@ -10,5 +10,5 @@ tags:
 ## Test:
 
 ## Lens:
-optional:: true
+optional:: false
 source:: [[../Lenses/Credible Threats|Credible Threats]]
