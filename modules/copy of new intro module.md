@@ -1,6 +1,6 @@
 ---
 id:
-slug:
+slug: 
 title:
 discussion:
 tags:
