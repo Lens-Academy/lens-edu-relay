@@ -20,7 +20,7 @@ source:: [[../Learning Outcomes/Understand the processing speed advantage]]
 source:: [[../Learning Outcomes/Cite examples of AI manipulation]]
 
 # Learning Outcome:
-source:: [[../Learning Outcomes/Cite examples of AI manipulation]]
+source:: [[../Learning Outcomes/Comply or else]]
 
 # Learning Outcome:
 source:: [[../Learning Outcomes/Enumerate n competitive advantages machines have over humans]]
