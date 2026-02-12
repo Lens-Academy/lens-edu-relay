@@ -14,4 +14,4 @@ source:: [[../Lenses/More advantages for digital agents|More advantages for digi
 
 ## Lens:
 optional:: true
-source:: [[../../Lenses/Credible Threats|Credible Threats]]
+source:: [[../Lenses/Credible Threats|Credible Threats]]
