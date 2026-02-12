@@ -10,9 +10,5 @@ tags:
 ## Test:
 
 ## Lens:
-optional:: false
-source:: [[../Lenses/More advantages for digital agents|More advantages for digital agents]]
-
-## Lens:
 optional:: true
 source:: [[../Lenses/Credible Threats|Credible Threats]]
