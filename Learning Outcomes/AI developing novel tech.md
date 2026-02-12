@@ -10,4 +10,4 @@ tags:
 
 ## Lens:
 optional:: false
-source:: [[]]
+source:: [[../Lenses/PASTA AI]]
