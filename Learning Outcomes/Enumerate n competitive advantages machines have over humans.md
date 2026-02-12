@@ -10,8 +10,8 @@ tags:
 
 ## Lens:
 optional:: false
-source:: [[more
+source:: [[../Lenses/More advantages for digital agents|More advantages for digital agents]]
 
 ## Lens:
 optional:: true
-source:: ![[../../Lenses/Credible Threats|Credible Threats]]
+source:: [[../../Lenses/Credible Threats|Credible Threats]]
