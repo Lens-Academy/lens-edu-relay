@@ -1,6 +1,6 @@
 ---
 title: "Four Background Claims - Machine Intelligence Research Institute"
-author: Nate Soares
+author: "Nate Soares"
 date: 2015-07-24
 source_url: https://intelligence.org/2015/07/24/four-background-claims/
 ---
