@@ -4,7 +4,7 @@ tags :
   - lens
   - work-in-progress
 ---
-### Article: Forecasti
+### Article: Forecasting Transformative AI
 source:: [[]]
 
 #### Text
