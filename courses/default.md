@@ -16,7 +16,7 @@ title: AI Safety Course
 
 # Meeting: 3
 
-# Module: [[../modules/Cognitive Superpowers lalala]]
+# Module: [[../modules/Cognitive Superpowers]]
 
 # Meeting: 4
 
