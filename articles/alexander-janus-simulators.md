@@ -5,7 +5,7 @@ author:
   - "Scott Alexander"
 published: 2023-01-26
 created: 2026-02-04
-description: This post isn't exactly about AI, but bear with me
+description: "This post isn't exactly about AI, but bear with me"
 tags:
   - clippings
 ---
