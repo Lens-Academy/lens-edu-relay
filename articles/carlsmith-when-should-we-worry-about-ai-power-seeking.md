@@ -16,7 +16,7 @@ tags:
 
 *Podcast version [here](https://joecarlsmithaudio.buzzsprout.com/2034731/episodes/16651469-when-should-we-worry-about-ai-power-seeking) (read by the author), or search for “Joe Carlsmith Audio” on your podcast app.*
 
-*This is the second essay in a series that I’m calling “How do we solve the alignment problem?”.[^1] I’m hoping that the individual essays can be read fairly well on their own, but see [this introduction](https://joecarlsmith.substack.com/p/how-do-we-solve-the-alignment-problem) for a summary of the essays that have been released thus far, and for a bit more about the series as a whole.*
+*This is the second essay in a series that I’m calling “How do we solve the alignment problem?”. [^1] I’m hoping that the individual essays can be read fairly well on their own, but see [this introduction](https://joecarlsmith.substack.com/p/how-do-we-solve-the-alignment-problem) for a summary of the essays that have been released thus far, and for a bit more about the series as a whole.*
 
 ---
 
