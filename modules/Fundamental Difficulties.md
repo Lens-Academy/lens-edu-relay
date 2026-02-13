@@ -1,6 +1,6 @@
 ---
-id:
-slug:
+id: 4a6836a1-9572-43da-9560-0bcaef788555
+slug: mo
 title:
 discussion:
 tags:
