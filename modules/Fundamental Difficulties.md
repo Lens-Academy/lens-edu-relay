@@ -1,7 +1,7 @@
 ---
 id: 4a6836a1-9572-43da-9560-0bcaef788555
-slug: mo
-title:
+slug: module-fundamental-difficulties
+title: "Fundamental Diff"
 discussion:
 tags:
   - module
