@@ -1,11 +1,10 @@
 ---
 id: fc1c3de9-6429-45fd-913f-76a032180d50
 slug: cognitive-superpowers
-title: "Cognitive Superpowers"
-discussion: 
+title: Cognitive Superpowers
+discussion:
 tags:
   - module
-  - work-in-progress
 ---
 # Page: Welcome
 id:: 1e8bd017-944e-442f-b12c-5a168b0244f0
