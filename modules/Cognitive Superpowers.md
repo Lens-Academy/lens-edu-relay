@@ -13,7 +13,7 @@ content::
 In this module, we explore the myriad ways in which intelligence gives agents power. Specifically, it gives agents power over their environment and over other agents that are less intelligent.
 
 # Learning Outcome:
-source:: ![[../Learning Outcomes/Understand the processing speed advantage]]
+source:: [[../Learning Outcomes/Understand the processing speed advantage]]
 
 # Learning Outcome:
 source:: ![[../Learning Outcomes/Cite examples of AI manipulation]]
