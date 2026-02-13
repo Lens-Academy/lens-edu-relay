@@ -4,8 +4,8 @@ tags :
   - lens
   - work-in-progress
 ---
-### Article: Forecasting Transformative AI
-source:: [[]]
+### Article: Forecasting Transformative AI, Part 1: What 
+source:: [[../articles/karnofsky-forecasting-transformative-ai-part-1-what-kind-of-ai|karnofsky-forecasting-transformative-ai-part-1-what-kind-of-ai]]
 
 #### Text
 content::
