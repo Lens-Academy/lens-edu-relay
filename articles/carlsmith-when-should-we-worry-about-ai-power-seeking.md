@@ -563,4 +563,4 @@ Alternatively, if one AI agent decides to “go for it” with respect to proble
 
 Indeed, in some cases like this, the first mover going for it can precipitate coordination amongst misaligned AI systems, even absent any coordination ahead of time – e.g., the other AI agents, seeing an “AI rebellion” begin, might join in the first mover’s effort, in the expectation of being part of a victorious coalition, and sharing in the spoils. This sort of scenario starts to blur the line between coordinated and uncoordinated takeovers; but it resembles the latter, at least, in that it doesn’t necessarily require any communication between the AI agents ahead of time.
 
-[^1.1]: 
+[^1.1]: Where power here is construed broadly, to include freedom, resources, survival, protection from modification, self-improvement, security, social influence, etc.
