@@ -12,13 +12,17 @@ title: AI Safety Course
 
 # Meeting: 2
 
-# Module: [[what-even-is-ai]]
-
-# Module: [[../modules/coming-soon]]
+# Module: [[../modules/what-even-is-ai]]
 
 # Meeting: 3
 
-# Module: [[../modules/coming-soon]]
+# Module: [[../modules/Cognitive Superpowers]]
 
 # Meeting: 4
 
+# Module:  [[../modules/coming-soon]]
+
+# Meeting: 5
+# Module:  [[../modules/coming-soon]]
+
+# Meeting: 6

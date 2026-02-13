@@ -2,7 +2,7 @@
 id: d53b7baa-a45d-483b-bc16-3fa5bee59ab2
 ---
 ### Article: Commitment and endogenous threats
-source:: [[../articles/credible-threats-ch7|credible-threats-ch7]]
+source:: [[../articles/houba+bolt-credible-threats-in-negotiations|houba+bolt-credible-threats-in-negotiations]]
 
 #### Text
 content::

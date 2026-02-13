@@ -1,8 +1,11 @@
 ---
-id:
+id: 6c5deedc-44d5-434c-a5c4-77a5a2a1a6ac
+tags :
+  - lens
+  - work-in-progress
 ---
-### Article: `article title`
-source:: [[]]
+### Article: Forecasting Transformative AI, Part 1: What Kind of AI?
+source:: [[../articles/karnofsky-forecasting-transformative-ai-part-1-what-kind-of-ai|karnofsky-forecasting-transformative-ai-part-1-what-kind-of-ai]]
 
 #### Text
 content::
