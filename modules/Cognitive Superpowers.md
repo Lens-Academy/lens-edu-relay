@@ -12,6 +12,7 @@ id:: 1e8bd017-944e-442f-b12c-5a168b0244f0
 content::
 In this module, we explore the myriad ways in which intelligence gives agents power. Specifically, it gives agents power over their environment and over other agents that are less intelligent.
 
+[[Understand the processing speed advantage]]
 # Learning Outcome:
 source:: [[../Learning Outcomes/Understand the processing speed advantage]]
 
