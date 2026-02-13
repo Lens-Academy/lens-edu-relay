@@ -1,8 +1,8 @@
 ---
 id:
-tags :
+tags:
   - lens
-  - work-in-progre
+  - work-in-progress
 ---
 ### Article: `article title`
 source:: [[]]
