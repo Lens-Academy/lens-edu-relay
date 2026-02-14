@@ -37,6 +37,11 @@ content::
 `<introductory text>`
 
 #### Textbox
+max-time:: none %% default %%
+max-chars:: 1000 %% max length in characters %%
+enforce-voice:: false %% default %%
+user-instruction::
+What's the difference between x and y?
 
 #### Article-excerpt
 to:: "`<an exact quote from the article where the exerpt should stop>`"
