@@ -16,7 +16,7 @@ Intelligence can seem like a collection of various distinct skills when comparin
 
 #### Text
 content::
-`<prompt the user on how they should interact with the chatbot>`
+So, will intelligence continue to win the arms-race?
 #### Chat: Discussion on X-Risk
 instructions::
 TLDR of what the user just read:
