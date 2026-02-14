@@ -28,6 +28,6 @@ Discussion topics to explore:
 - `<Discussion point 3>`
 - `<Discussion point 4>`
 
-Ask what they found surprising or new. Check if they can explain `<key concept>` in their own words—it's a key concept.
+Ask what they found surprising or new. Check if they can explain intelligence in their own words—it's a key concept.
 
 The user just answered the question: `<tell the chatbot what prompt the user is responding to>`
