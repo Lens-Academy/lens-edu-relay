@@ -6,7 +6,11 @@ tags :
 ---
 
 ### Page
+#### Text
+content::
+...
 
+#### Answerbox
 
 ### Article: `article title`
 source:: [[]]
