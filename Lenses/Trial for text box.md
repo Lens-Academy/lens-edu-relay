@@ -10,7 +10,7 @@ tags :
 content::
 ...
 
-#### Answerbox
+#### Ans
 
 ### Article: `article title`
 source:: [[]]
