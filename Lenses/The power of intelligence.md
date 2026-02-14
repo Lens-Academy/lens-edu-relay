@@ -25,8 +25,7 @@ A video about how intelligence won the evolutionary arms race as a tool fit for 
 Discussion topics to explore:
 - Is intelligence really that unique?
 - what does a "generator" for intelligence look like?
-- `<Discussion point 3>`
-- `<Discussion point 4>`
+- Are you convinced that there 
 
 Ask what they found surprising or new. Check if they can explain intelligence in their own words—it's a key concept.
 
