@@ -20,7 +20,7 @@ So, will intelligence continue to win the arms-race?
 #### Chat: Discussion on X-Risk
 instructions::
 TLDR of what the user just saw:
-A video about how intelligence won the evolutionary arms race as a tool fit for every task. it explains how intelligence has given us skills like flight much quicker than evolution could have, alongside skills that evolution has never produced over any time-scale like dna manipulation or splitting the atom. It hen goes on to juxtapose this with the way some people think about ai, claimingn that the idea of a program fit for any task is ridiculous, even though we have exactly such a thing. 
+A video about how intelligence won the evolutionary arms race as a tool fit for every task. it explains how intelligence has given us skills like flight much quicker than evolution could have, alongside skills that evolution has never produced over any time-scale like dna manipulation or splitting the atom. It hen goes on to juxtapose this with the way some people think about ai, claiming that the idea of a program fit for any task is ridiculous, even though we have exactly such a thing. 
 
 Discussion topics to explore:
 - `<Discussion point 1>`
