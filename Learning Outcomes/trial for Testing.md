@@ -18,7 +18,8 @@ What's the difference between x and y?
 
 
 assessment-prompt::
-Give the user a score based on dimensions m a
+Give the user a score based on dimensions j and k.
+
 
 
 
