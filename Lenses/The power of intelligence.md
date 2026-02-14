@@ -9,7 +9,7 @@ source:: [[../video_transcripts/rationalanimations-the-power-of-intelligence]]
 
 #### Text
 content::
-Intelligence can seem like ma
+Intelligence can seem like a collection of va
 
 #### Article-excerpt
 to:: "`<an exact quote from the article where the exerpt should stop>`"
