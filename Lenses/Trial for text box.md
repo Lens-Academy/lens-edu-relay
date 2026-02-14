@@ -6,13 +6,31 @@ tags :
 ---
 
 ### Page
+
+
 #### Text
 content::
-...
+We'll be asking you some questions about X
+#### Textbox
+max-time:: 3:00
+enforce-voice:: true
+user-instruction::
+What's the difference between x and y?
+
+
+assessment-prompt::
+Give the user a score based on dimensions j and k.
 
 #### Textbox
+max-time:: none %% default %%
+max-chars:: 1000 %% max length in characters %%
+enforce-voice:: false %% default %%
+user-instruction::
+What's the difference between x and y?
 
 
+assessment-prompt::
+Give the user a score based on dimensions j and k.
 ### Article: `article title`
 source:: [[]]
 #### Text
