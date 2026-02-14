@@ -20,7 +20,15 @@ What's the difference between x and y?
 assessment-prompt::
 Give the user a score based on dimensions j and k.
 
+### Textbox
+max-time:: 3:00
+enforce-voice:: true
+user-instruction::
+What's the difference between x and y?
 
+
+assessment-prompt::
+Give the user a score based on dimensions j and k.
 
 
 ## Lens:
