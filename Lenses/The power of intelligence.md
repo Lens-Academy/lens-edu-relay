@@ -5,7 +5,7 @@ tags:
   - work-in-progress
 ---
 ### Video: The power of intelligence
-source:: [[../video_transcripts/rationalanimations-the-po]]
+source:: [[../video_transcripts/rationalanimations-the-power-of-intelligence]]
 
 #### Text
 content::
