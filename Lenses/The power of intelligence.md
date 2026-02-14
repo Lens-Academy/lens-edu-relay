@@ -9,7 +9,7 @@ source:: [[../video_transcripts/rationalanimations-the-power-of-intelligence]]
 
 #### Text
 content::
-Intelligence can seem like a collection of various distinct skills when comparing individual humans, and yet all of them are 
+Intelligence can seem like a collection of various distinct skills when comparing individual humans, and yet all of them are found 
 
 #### Article-excerpt
 to:: "`<an exact quote from the article where the exerpt should stop>`"
