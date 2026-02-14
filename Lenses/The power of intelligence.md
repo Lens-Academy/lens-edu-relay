@@ -20,7 +20,7 @@ So, will intelligence continue to win the arms-race?
 #### Chat: Discussion on X-Risk
 instructions::
 TLDR of what the user just saw:
-`<TLDR text (optional, the bot can see all the text on the page)>`
+A video 
 
 Discussion topics to explore:
 - `<Discussion point 1>`
