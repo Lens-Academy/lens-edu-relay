@@ -11,7 +11,7 @@ source:: [[../video_transcripts/rationalanimations-the-power-of-intelligence]]
 content::
 Intelligence can seem like a collection of various distinct skills when comparing individual humans, and yet all of them are found almost exclusively in humans as opposed to other animals. Here is a brief meditation on the organ that made it all possible.
 
-#### Article-excerpt
+#### Video-excerpt
 
 #### Text
 content::
