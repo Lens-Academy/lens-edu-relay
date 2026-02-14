@@ -6,11 +6,10 @@ tags :
 ---
 
 ### Page
-
-
 #### Text
 content::
 We'll be asking you some questions about X
+
 #### Textbox
 max-time:: 3:00
 enforce-voice:: true
@@ -36,6 +35,8 @@ source:: [[]]
 #### Text
 content::
 `<introductory text>`
+
+#### Textbox
 
 #### Article-excerpt
 to:: "`<an exact quote from the article where the exerpt should stop>`"
