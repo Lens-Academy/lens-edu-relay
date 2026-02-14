@@ -10,10 +10,7 @@ tags :
 content::
 We'll be asking you some questions about X
 
-#### Chat
-disable-system-prompt::true
-instructions::
-...
+
 
 #### Textbox
 max-time:: 3:00
