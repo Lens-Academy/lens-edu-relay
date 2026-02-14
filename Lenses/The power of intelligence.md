@@ -13,6 +13,7 @@ Intelligence can seem like a collection of various distinct skills when comparin
 
 #### Video-excerpt
 
+
 #### Text
 content::
 `<prompt the user on how they should interact with the chatbot>`
