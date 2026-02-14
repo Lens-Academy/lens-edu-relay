@@ -5,7 +5,7 @@ tags:
   - work-in-progress
 ---
 ### Video: The power of intelligence
-source:: [[../video_transcripts/robertmiles-10-reasons-to-ignore-ai-safety]]
+source:: [[../video_transcripts/rationalanimations-the-po]]
 
 #### Text
 content::
