@@ -30,4 +30,4 @@ Discussion topics to explore:
 
 Ask what they found surprising or new. Check if they can explain intelligence in their own words—it's a key concept.
 
-The user just answered the question: `<tell the chatbot what prompt the user is responding to>`
+The user just answered the question: So, will intelligence continue to win the arms-race?
