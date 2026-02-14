@@ -16,6 +16,7 @@ In this module, we explore the myriad ways in which intelligence gives agents po
 source:: [[../Learning Outcomes/Understand the processing speed advantage]]
 
 # Learning Outcome:
+optional::true
 source:: ![[../Learning Outcomes/Cite examples of AI manipulation]]
 
 # Learning Outcome:
