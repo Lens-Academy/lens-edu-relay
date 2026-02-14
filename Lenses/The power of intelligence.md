@@ -24,7 +24,7 @@ A video about how intelligence won the evolutionary arms race as a tool fit for 
 
 Discussion topics to explore:
 - Is intelligence really that unique?
-- `<Discussion point 2>`
+- what does the ""
 - `<Discussion point 3>`
 - `<Discussion point 4>`
 
