@@ -20,7 +20,7 @@ So, will intelligence continue to win the arms-race?
 #### Chat: Discussion on X-Risk
 instructions::
 TLDR of what the user just saw:
-A video about how intel
+A video about how intelligence won the evolutionary arms race as 
 
 Discussion topics to explore:
 - `<Discussion point 1>`
