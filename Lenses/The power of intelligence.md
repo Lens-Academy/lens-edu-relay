@@ -4,7 +4,7 @@ tags:
   - lens
   - work-in-progress
 ---
-### Video: 10 Reasons to Ignore AI Safety
+### Video: The power of intelligence
 source:: [[../video_transcripts/robertmiles-10-reasons-to-ignore-ai-safety]]
 
 #### Text
