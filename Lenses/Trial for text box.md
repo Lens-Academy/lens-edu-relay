@@ -6,7 +6,6 @@ tags :
 ---
 ### Article: `article title`
 source:: [[]]
-
 #### Text
 content::
 `<introductory text>`
