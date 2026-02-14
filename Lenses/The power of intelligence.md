@@ -20,7 +20,7 @@ So, will intelligence continue to win the arms-race?
 #### Chat: Discussion on X-Risk
 instructions::
 TLDR of what the user just saw:
-A video about how intelligence won the evolutionary arms race as a tool fit for every task. 
+A video about how intelligence won the evolutionary arms race as a tool fit for every task. it explains how intelligence has 
 
 Discussion topics to explore:
 - `<Discussion point 1>`
