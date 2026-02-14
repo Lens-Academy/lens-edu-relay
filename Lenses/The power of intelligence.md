@@ -24,7 +24,7 @@ A video about how intelligence won the evolutionary arms race as a tool fit for 
 
 Discussion topics to explore:
 - Is intelligence really that unique?
-- what does a "generator"
+- what does a "generator" for intelligence look like?
 - `<Discussion point 3>`
 - `<Discussion point 4>`
 
