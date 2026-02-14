@@ -21,8 +21,8 @@ assessment-prompt::
 Give the user a score based on dimensions j and k.
 
 ### Textbox
-max-time:: none (default)
-- [ ] enforce-voice:: false 
+max-time:: none %% default %%
+enforce-voice:: false %% default %%
 user-instruction::
 What's the difference between x and y?
 
