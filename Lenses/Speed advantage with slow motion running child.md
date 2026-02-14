@@ -14,6 +14,15 @@ In the following reading, we ask you to watch a video in order to get an intuiti
 #### Article-excerpt
 to:: "when slowed down by only around 100x:"
 
+### Video: A.I. - Humanity's Final Invention
+source:: [[../video_transcripts/kurzgesagt-ai-humanitys-final-invention]]
+
+#### Text
+content::
+Please watch this Kurzgesagt video:
+#### Video-excerpt
+to:: 14:49
+
 #### Text
 content::
 Did you imagine yourself able to operate at speeds 100x faster than the human world? Or, perhaps, did you try to put yourself in the shoes of an AI? What did this experience reveal to you?
