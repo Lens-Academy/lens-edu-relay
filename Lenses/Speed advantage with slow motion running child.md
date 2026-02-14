@@ -23,6 +23,7 @@ Please watch this Kurzgesagt video:
 #### Video-excerpt
 to:: 14:49
 
+
 #### Text
 content::
 Did you imagine yourself able to operate at speeds 100x faster than the human world? Or, perhaps, did you try to put yourself in the shoes of an AI? What did this experience reveal to you?
