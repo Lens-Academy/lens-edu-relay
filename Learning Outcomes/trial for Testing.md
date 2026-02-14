@@ -11,7 +11,8 @@ tags:
 content::
 We'll be asking you some questions about X
 ### Textbox
-max-
+max-time:: 3:00
+enforce-voice:: 
 user-instruction::
 What's the difference between x and y?
 
