@@ -22,7 +22,7 @@ What's the difference between x and y?
 assessment-prompt::
 Give the user a score based on dimensions j and k.
 
-#### Textbox
+#### Question
 max-time:: none %% default %%
 max-chars:: 1000 %% max length in characters %%
 enforce-voice:: false %% default %%
