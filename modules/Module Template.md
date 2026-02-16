@@ -5,6 +5,7 @@ title:
 discussion:
 tags:
   - module
+  - validator-ignore
 ---
 # Page: Welcome
 id::
