@@ -27,23 +27,7 @@ source:: ![[../Learning Outcomes/Demo LO]]
 ## Lens:
 source::
 [[../Lenses/Trial for text box|Trial for text box]]
-## Lens:
-source::
-![[../Lenses/Speculations concerning the first ultraintelligent machine]]
 
-## Lens:
-source::
-![[../Lenses/Cascades and Cycles]]
-
-
-## Lens:
-source:: ![[../Lenses/Kurzgesagt software demo]]
-
-## Lens:
-source:: ![[../Lenses/WP Software demo]]
-
-## Lens:
-source:: ![[../Lenses/Four Background Claims]]
 # Page: short intermediate
 id:: 5ec4268f-757c-4ef7-89c1-a24b35cea850
 
