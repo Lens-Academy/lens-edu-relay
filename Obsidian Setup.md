@@ -1,5 +1,5 @@
 Sharing this note with others: https://github.com/lucbrinkman/lens-educational-content/blob/staging/Obsidian%20Setup.md
-(this note is in `Lens Edu` to make sharing it easier. Most notes should be in `Lens` instead.) [[README]]
+(this note is in `Lens Edu` to make sharing it easier. Most notes should be in `Lens` instead.)
 
 - Related: [[Lens/How to organize things in Obsidian]]
 ## Setting up Obsidian with Lens Academy
