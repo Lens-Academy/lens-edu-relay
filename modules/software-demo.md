@@ -23,6 +23,9 @@ hello again
 source:: ![[../Learning Outcomes/Demo LO]]
 
 # Uncategorized:
+
+## Lens:
+
 ## Lens:
 source::
 ![[../Lenses/Speculations concerning the first ultraintelligent machine]]
