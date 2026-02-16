@@ -10,7 +10,5 @@ tags:
 content::
 We'll be asking you some questions about X
 
-
-
-  #### Question
-  user-instruction:: In your own words, explain what AI safety is and why it matters.
+#### Question
+user-instruction:: In your own words, explain what AI safety is and why it matters.
