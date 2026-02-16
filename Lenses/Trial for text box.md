@@ -1,6 +1,6 @@
 ---
-id:
-tags :
+id: <uuid, generate at https://www.uuidgenerator.net/version4>
+tags:
   - lens
   - work-in-progress
 ---
