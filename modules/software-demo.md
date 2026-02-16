@@ -22,6 +22,9 @@ content::
 hello again
 
 # Learning Outcome:
+source::
+[[]]
+# Learning Outcome:
 source:: ![[../Learning Outcomes/Demo LO]]
 
 # Uncategorized:
