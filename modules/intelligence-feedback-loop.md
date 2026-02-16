@@ -4,7 +4,7 @@ slug: intelligence-feedback-loop
 title: Intelligence Feedback Loop
 tags:
   - module
-  - work-in-progress
+  - validator-ignore
 ---
 ## Lens:
 source::
