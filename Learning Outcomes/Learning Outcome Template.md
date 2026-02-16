@@ -4,7 +4,6 @@ discussion: <discord url>
 learning-outcome:
 tags:
   - learning outcome
-  - parser-ignore
 ---
 ## Test:
 
