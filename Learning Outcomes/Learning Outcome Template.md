@@ -4,6 +4,7 @@ discussion: <discord url>
 learning-outcome:
 tags:
   - learning outcome
+  - validator-ignore
 ---
 ## Test:
 

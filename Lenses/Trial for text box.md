@@ -12,3 +12,12 @@ We'll be asking you some questions about X
 
 #### Question
 user-instruction:: In your own words, explain what AI safety is and why it matters.
+
+#### Question
+user-instruction:: In your own words, explain what AI safety is and why it matters. (with m ax c)
+assessment-prompt:: Evaluate whether the student demonstrates understanding of existential
+risk, alignment problem, and why AI safety research is important.
+max-chars:: 500
+max-time:: 300
+enforce-voice:: true
+optional:: true
