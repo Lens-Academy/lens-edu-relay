@@ -25,7 +25,8 @@ source:: ![[../Learning Outcomes/Demo LO]]
 # Uncategorized:
 
 ## Lens:
-
+source::
+[[../Lenses/Trial for text box|Trial for text box]]
 ## Lens:
 source::
 ![[../Lenses/Speculations concerning the first ultraintelligent machine]]
