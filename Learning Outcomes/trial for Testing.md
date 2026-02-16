@@ -10,26 +10,21 @@ tags:
 #### Text
 content::
 We'll be asking you some questions about X
-#### Textbox
-max-time:: 3:00
+#### Question
+user-instruction:: In your own words, explain what AI safety is and why it matters.
+
+#### Question
+user-instruction:: In your own words, explain what AI safety is and why it matters. (with m ax char 500)
+assessment-prompt:: Evaluate whether the student demonstrates understanding of existential
+risk, alignment problem, and why AI safety research is important.
+max-chars:: 500
+
+#### Question
+user-instruction:: In your own words, explain what AI safety is and why it matters. (with enforce voice)
+assessment-prompt:: Evaluate whether the student demonstrates understanding of existential
+risk, alignment problem, and why AI safety research is important.
 enforce-voice:: true
-user-instruction::
-What's the difference between x and y?
 
-
-assessment-prompt::
-Give the user a score based on dimensions j and k.
-
-#### Textbox
-max-time:: none %% default %%
-max-chars:: 1000 %% max length in characters %%
-enforce-voice:: false %% default %%
-user-instruction::
-What's the difference between x and y?
-
-
-assessment-prompt::
-Give the user a score based on dimensions j and k.
 
 
 ## Lens:
