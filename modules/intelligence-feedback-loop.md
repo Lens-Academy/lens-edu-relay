@@ -54,7 +54,7 @@ optional:: true
 ## Article-excerpt
 
 # Article: AI Revolution
-source:: [[../../articles/tim-urban-artificial-intelligence-revolution-1]]
+source:: [[../articles/urban-artificial-intelligence-revolution]]
 
 ## Article-excerpt
 
