@@ -12,7 +12,7 @@ In the following reading, we ask you to watch a video in order to get an intuiti
 
 #### Article-excerpt
 from:: "Over the past"
-to:: "when slowed down by only around 100x."
+to:: "when slowed down by only around 100x:"
 
 ### Video: Adam Magyar - Stainless, Alexanderplatz (excerpt)
 source:: [[../video_transcripts/adam-magyar-stainless-alexanderplatz]]
