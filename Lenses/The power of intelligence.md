@@ -2,10 +2,9 @@
 id: b5690990-21b5-45d0-bc2b-e58449fbf194
 tags:
   - lens
-  - work-in-progress
 ---
 ### Video: The power of intelligence
-source:: [[../video_transcripts/rationalanimations-the-power-of-intelligence]]
+source:: [[../video_transcripts/rationalanimations-the-power-of-intelligence-an-essay-by-eliezer-yudkowsky]]
 
 #### Text
 content::
@@ -18,7 +17,8 @@ to:: 7:00
 #### Text
 content::
 So, will intelligence continue to win the arms-race?
-#### Chat: Discussion on X-Risk
+
+#### Chat: The ultimate multi-tool
 instructions::
 TLDR of what the user just saw:
 A video about how intelligence won the evolutionary arms race as a tool fit for every task. it explains how intelligence has given us skills like flight much quicker than evolution could have, alongside skills that evolution has never produced over any time-scale like dna manipulation or splitting the atom. It hen goes on to juxtapose this with the way some people think about ai, claiming that the idea of a program fit for any task is ridiculous, even though we have exactly such a thing. 
@@ -32,14 +32,3 @@ Ask what they found surprising or new. Check if they can explain intelligence in
 
 The user just answered the question: So, will intelligence continue to win the arms-race?
 
-
-
----
-title: "Adam Magyar - Stainless, Alexanderplatz (excerpt)"
-channel: "Adam Magyar Photographer"
-url: "https://www.youtube.com/watch?v=N0F3OyuP9LA"
-
-
-[black and white video of a busy subway station moving past, filmed from a train and slowed by 100x. A child runs bast and is slowly overtaken by the train.]
-
-Lens Edu/video_transcripts/adam-magyar-stainless-alexanderplatz

@@ -6,7 +6,7 @@ Course modules and lessons for the Lens Academy AI Safety curriculum.
 - Production: https://github.com/lucbrinkman/lens-educational-content/tree/main
 
 ## Workflow
-
+hello world
 ```
 Obsidian → Relay → staging branch → PR → main branch → Production
 ```
