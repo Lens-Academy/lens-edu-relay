@@ -12,8 +12,8 @@ content::
 Intelligence can seem like a collection of various distinct skills when comparing individual humans, and yet all of them are found almost exclusively in humans as opposed to other animals. Here is a brief meditation on the organ that made it all possible. A superpower that has defeated brawn speed and claws over the course of an evolutionary blink of an eye.
 
 #### Video-excerpt
-from0:05
-7:00
+from:: 0:05
+to:: 7:00
 
 #### Text
 content::
