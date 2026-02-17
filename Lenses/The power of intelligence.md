@@ -31,3 +31,15 @@ Discussion topics to explore:
 Ask what they found surprising or new. Check if they can explain intelligence in their own words—it's a key concept.
 
 The user just answered the question: So, will intelligence continue to win the arms-race?
+
+
+
+---
+title: "Adam Magyar - Stainless, Alexanderplatz (excerpt)"
+channel: "Adam Magyar Photographer"
+url: "https://www.youtube.com/watch?v=N0F3OyuP9LA"
+
+
+[black and white video of a busy subway station moving past, filmed from a train and slowed by 100x. A child runs bast and is slowly overtaken by the train.]
+
+Lens Edu/video_transcripts/adam-magyar-stainless-alexanderplatz
