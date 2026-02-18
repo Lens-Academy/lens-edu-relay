@@ -6,7 +6,7 @@ tags :
 ---
 ### Article: 6 reasons why alignment-is-hard discourse seems alien to human intuitions by Steven Byrnes
 
-source:: [[]]
+source:: [[../articles/byrnes-6-reasons-why-alignment-is-hard-discourse-seems-alien]]
 
 #### Text
 content::
