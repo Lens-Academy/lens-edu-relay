@@ -5,7 +5,7 @@ tags :
   - work-in-progress
 ---
 ### Article: When should we worry about AI power-seeking by Joe Carlsmith
-source:: 
+source:: [[]]
 
 #### Text
 content::
