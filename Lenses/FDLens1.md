@@ -15,10 +15,13 @@ The problem of AI alignment requires a rigorous theoretical foundation. To succe
 from:: 42:53
 to:: 59:59
 
-
 #### Text
 content::
-`<prompt the user on how they should interact with the chatbot>`
+Choose the question you prefer and discuss it with AI tutor:
+
+* How do you understand the metaphor between AI and rocket science and cryptography used in this video? Which similarities do you think are accurately identified? And what differences should be considered to prevent this analogy from going too far?  
+* When you encounter a proposal at the level of "just aim for the moon and then steer," what two clarifying requirements from the article would you apply to distinguish a viable idea from "0% success," and what exactly would you ask the author of the idea to describe in a simplified model?
+
 #### Chat: Discussion on X-Risk
 instructions::
 TLDR of what the user just read:
