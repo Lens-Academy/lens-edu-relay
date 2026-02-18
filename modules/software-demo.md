@@ -36,4 +36,6 @@ source::
 ## Lens:
 source::
 [[../video_transcripts/kurzgesagt-ai-humanitys-final-invention]]
+from:: 10:00
+to:: 13:00
 
