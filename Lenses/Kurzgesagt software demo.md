@@ -34,8 +34,8 @@ Start by asking what stood out or surprised them. Use Socratic questioning to
 check their understanding of these concepts. Don't lecture—help them articulate their own thinking.
 
 #### Video-excerpt
-from:: {--{"author":"AI","timestamp":1771422144129}@@5:00--}3:33
-to:: {--{"author":"AI","timestamp":1771422184186}@@10:00--}{++{"author":"AI","timestamp":1771422184186}@@14:48++}
+from:: 3:33
+to:: 14:48
 
 #### Text
 content::
