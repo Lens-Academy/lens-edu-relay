@@ -63,6 +63,3 @@ Guidance for prompt B (“aim for the moon and steer”):
 - A plan for preventing goal misgeneralization / power-seeking / deception, not just “we’ll adjust later.”**
 
 Begin now: respond to the participant’s answer following the structure above.
-
-
-The user just answered the question: `<tell the chatbot what prompt the user is responding to>`
