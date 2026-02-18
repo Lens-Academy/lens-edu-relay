@@ -4,7 +4,9 @@ tags :
   - lens
   - work-in-progress
 ---
-### Article: `article title`
+### Article: `6 reasons why alignment-is-hard discourse seems alien to human intuitions, and vice-versa
+by Steven Byrnes
+`
 source:: [[]]
 
 #### Text
