@@ -11,7 +11,7 @@ tags:
 id::
 ## Text
 content::
-The AI ​alignment problem currently has no proven solution. This module provides a unified picture of why achieving alignment is inherently challenging and the fundamental challenges we must overcome to find a safe way to build AI. This is especially true given that, even with competent participants, the default outcome can be poor, as competitive pressures and coordination failures can encourage risky deployments and lock the ecosystem into an equilibrium that none of the participants desire.
+The AI alignment problem currently has no proven solution. This module provides a unified picture of why achieving alignment is inherently challenging and the fundamental challenges we must overcome to find a safe way to build AI. This is especially true given that, even with competent participants, the default outcome can be poor, as competitive pressures and coordination failures can encourage risky deployments and lock the ecosystem into an equilibrium that none of the participants desire.
 
 In this module you will engage with core concepts including the rocket alignment analogy and the need for formal “alignment math”, why alignment arguments feel counterintuitive, instrumental convergence and power seeking, capabilities generalization and the sharp left turn, the nature and emergence of agency, why misalignment may be the default outcome under current training paradigms, and how coordination failure can overwhelm technical solutions.
 
