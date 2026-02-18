@@ -14,10 +14,16 @@ In the following reading, we ask you to watch a video in order to get an intuiti
 from:: "Over the past"
 to:: "when slowed down by only around 100x:"
 
+### Video: The power of intelligence
+source:: [[../video_transcripts/rationalanimations-the-power-of-intelligence-an-essay-by-eliezer-yudkowsky]]
+
 #### Text
 content::
-Please watch this video:
-https://youtu.be/N0F3OyuP9LA?si=HqE61_s2DmxtLZAd&t=10
+Intelligence can seem like a collection of various distinct skills when comparing individual humans, and yet all of them are found almost exclusively in humans as opposed to other animals. Here is a brief meditation on the organ that made it all possible. A superpower that has defeated brawn speed and claws over the course of an evolutionary blink of an eye.
+
+#### Video-excerpt
+from:: 0:05
+to:: 7:00
 
 #### Article-excerpt
 from:: "Now, when you try"
