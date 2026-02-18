@@ -20,8 +20,8 @@ content::
 Many people intuitively assume that a truly superintelligent AI will possess a kind of "common sense" and understand that destroying resources for a petty goal is foolish. Why does the author of this article consider this expectation a dangerous misconception?
 #### Chat: Discussion on X-Risk
 instructions::
-The participant is answering this question:
-Many people intuitively assume that a truly superintelligent AI will possess a kind of ‘common sense’ and understand that destroying resources for a petty goal is foolish. Why does the author consider this expectation a dangerous misconception?
+**The participant is answering this question:
+Many people intuitively assume that a truly superintelligent AI will possess a kind of ‘common sense’ and understand that destroying resources for a petty goal is foolish. Why does the author consider this expectation a dangerous misconception?**
 
 Response length requirement:
 - Keep responses short: aim for 120–200 words.
