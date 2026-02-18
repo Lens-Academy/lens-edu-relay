@@ -14,7 +14,10 @@ In the following reading, we ask you to watch a video in order to get an intuiti
 from:: "Over the past"
 to:: "when slowed down by only around 100x:"
 
-#### 
+#### Text
+content::
+Please 
+https://youtu.be/N0F3OyuP9LA?si=HqE61_s2DmxtLZAd&t=10
 
 ### Video: Adam Magyar - Stainless, Alexanderplatz (excerpt)
 source:: [[../video_transcripts/adam-magyar-stainless-alexanderplatz]]
