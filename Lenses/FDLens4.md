@@ -1,10 +1,10 @@
 ---
-id:
+id: e81a74a1-5f59-44d7-bf1f-e6f0bb48d834
 tags :
   - lens
   - work-in-progress
 ---
-### Article: 
+### Article: A central AI alignment problem – capabilities generalization, and the sharp left turn by Nate Soares
 source:: [[]]
 
 #### Text
