@@ -4,7 +4,7 @@ tags :
   - lens
   - work-in-progress
 ---
-### Article: `article title`
+### Article: When should we worry about AI power-seeking by Joe Carlsmith
 source:: [[]]
 
 #### Text
