@@ -14,7 +14,7 @@ content::
 
 
 # Learning Outcome:
-source:: [[learning outcom]]
+source:: [[../Learning Outcomes/Explain the fundamental difficulties of AI alignment]]
 
 # Learning Outcome:
 source:: 
