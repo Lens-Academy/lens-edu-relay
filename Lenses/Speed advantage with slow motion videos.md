@@ -22,7 +22,7 @@ content::
 
 #### Video-excerpt
 from:: 0:00
-to:: 99:99
+to:: 2:07
 
 ### Article: Slow motion videos as AI risk intuition pumps
 source:: [[../articles/slow-motion-videos-as-ai-risk-intuition-pumps]]
