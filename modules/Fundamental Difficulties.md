@@ -16,8 +16,8 @@ The AI ​​alignment problem currently has no proven solution. This module pro
 In this module you will engage with core concepts including the rocket alignment analogy and the need for formal “alignment math”, why alignment arguments feel counterintuitive, instrumental convergence and power seeking, capabilities generalization and the sharp left turn, the nature and emergence of agency, why misalignment may be the default outcome under current training paradigms, and how coordination failure can overwhelm technical solutions.
 
 Questions you will be able to answer after completing this module:
-Why is it unrealistic to expect we can list all alignment challenges in advance, and what does this imply about the kind of theory we need?
-What does the rocket science and cryptography analogy capture about alignment, and where does the analogy break?
+* Why is it unrealistic to expect we can list all alignment challenges in advance, and what does this imply about the kind of theory we need?
+* What does the rocket science and cryptography analogy capture about alignment, and where does the analogy break?
 Why do “alignment is hard” arguments feel alien to human intuition, and which recurring intuition traps lead people to underestimate risk?
 Under what prerequisites should we expect power seeking to emerge from instrumental convergence style reasoning?
 Why do capabilities tend to generalize more reliably than values, and how can this asymmetry produce a sharp left turn?
