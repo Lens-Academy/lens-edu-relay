@@ -47,7 +47,7 @@ source:: [[../Learning Outcomes/Explain sharp left turn dynamics]]
 
 # Learning Outcome:
 optional:: false
-source:: [[../Learning Outcomes/]]
+source:: [[../Learning Outcomes/Explain causal definition of agency]]
 
 # Learning Outcome:
 optional:: false
