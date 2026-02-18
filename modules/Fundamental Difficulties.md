@@ -14,7 +14,7 @@ content::
 
 
 # Learning Outcome:
-source:: [[]]
+source:: [[learning outcom]]
 
 # Learning Outcome:
 source:: 
