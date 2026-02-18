@@ -16,8 +16,7 @@ to:: "when slowed down by only around 100x:"
 
 ### Video: The power of intelligence
 source:: [[../video_transcripts/adam-magyar-stainless-alexanderplatz]]
-#### Text
-content::
+
 #### Video-excerpt
 from:: 0:00
 to:: 99:99
