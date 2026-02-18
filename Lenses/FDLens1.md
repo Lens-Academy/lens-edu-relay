@@ -5,7 +5,7 @@ tags :
   - work-in-progress
 ---
 ### Video: The power of intelligence
-source:: [[../video_transcripts/miri-al-alignment-why-its
+source:: [[../video_transcripts/miri-al-alignment-why-its-hard-and-where-to-start]]
 
 #### Text
 content::
