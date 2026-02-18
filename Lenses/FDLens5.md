@@ -4,8 +4,8 @@ tags :
   - lens
   - work-in-progress
 ---
-### Article: `article title`
-source:: [[]]
+### Article: Discovering when an agent is present in a system by Zachary Kenton et al.
+source:: [[../article]]
 
 #### Text
 content::
