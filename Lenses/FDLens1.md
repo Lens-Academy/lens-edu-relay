@@ -24,9 +24,9 @@ Choose the question you prefer and discuss it with AI tutor:
 
 #### Chat: Discussion on X-Risk
 instructions::
-The participant will answer ONE of these prompts: 
+**The participant will answer ONE of these prompts: 
 A) How do you understand the metaphor between AI and rocket science and cryptography? Which similarities are accurate, and what differences matter so the analogy does not go too far? 
-B) When you encounter a proposal like “just aim for the moon and then steer,” what two clarifying requirements would you apply to distinguish a viable idea from “0% success,” and what exactly would you ask the author to specify in a simplified model? 
+B) When you encounter a proposal like “just aim for the moon and then steer,” what two clarifying requirements would you apply to distinguish a viable idea from “0% success,” and what exactly would you ask the author to specify in a simplified model?**
 
 Response length requirement: 
 - Keep responses short: aim for 120–200 words. 
