@@ -19,15 +19,6 @@ content::
 Please watch this video:
 https://youtu.be/N0F3OyuP9LA?si=HqE61_s2DmxtLZAd&t=10
 
-### Video: Adam Magyar - Stainless, Alexanderplatz (excerpt)
-source:: [[../video_transcripts/adam-magyar-stainless-alexanderplatz]]
-
-#### Video-excerpt
-to:: 02:06
-
-### Article: Slow motion videos as AI risk intuition pumps
-source:: [[../articles/slow-motion-videos-as-ai-risk-intuition-pumps]]
-
 #### Article-excerpt
 from:: "Now, when you try"
 to:: "wildlife or insects."
