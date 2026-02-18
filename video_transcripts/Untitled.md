@@ -1,5 +1,5 @@
 ---
-title: "What Comes After the Human Era?"
+title: "Adam Magyar - Stainless, Alexanderplatz (excerpt)"
 channel: "Adam Magyar Photographer"
 url: "https://www.youtube.com/watch?v=xFj73CVrTYI"
 ---
