@@ -56,3 +56,7 @@ source:: [[../Learning Outcomes/]]
 # Learning Outcome:
 optional:: false
 source:: [[../Learning Outcomes/]]
+
+# Learning Outcome:
+optional:: false
+source:: [[../Learning Outcomes/]]
