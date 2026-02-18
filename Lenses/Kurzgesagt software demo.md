@@ -35,7 +35,7 @@ check their understanding of these concepts. Don't lecture—help them articulat
 
 #### Video-excerpt
 from:: {--{"author":"AI","timestamp":1771422144129}@@5:00--}{++{"author":"AI","timestamp":1771422144129}@@3:33++}
-to:: 10:00
+to:: {--{"author":"AI","timestamp":1771422184186}@@10:00--}{++{"author":"AI","timestamp":1771422184186}@@14:48++}
 
 #### Text
 content::
