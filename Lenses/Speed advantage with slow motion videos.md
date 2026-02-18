@@ -15,7 +15,7 @@ from:: "Over the past"
 to:: "when slowed down by only around 100x:"
 
 ### Video: The power of intelligence
-source:: [[../video_transcripts/rationalanimations-the-power-of-intelligence-an-essay-by-eliezer-yudkowsky]]
+source:: [[../video_transcripts/adam-magyar-stainless-alexanderplatz-excerpt]]
 #### Text
 content::
 #### Video-excerpt
