@@ -16,7 +16,7 @@ to:: "when slowed down by only around 100x:"
 
 #### Text
 content::
-Please 
+Please watch this video:
 https://youtu.be/N0F3OyuP9LA?si=HqE61_s2DmxtLZAd&t=10
 
 ### Video: Adam Magyar - Stainless, Alexanderplatz (excerpt)
