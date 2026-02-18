@@ -38,5 +38,5 @@ optional:: false
 source:: [[../Learning Outcomes/Explain why alignment feels counterintuitive]]
 
 # Learning Outcome:
-optional:: false
-source:: [[../Learning Outcomes/Explain why alignment feels counterintuitive]]
+optional:: true
+source:: [[../Learning Outcomes/]]
