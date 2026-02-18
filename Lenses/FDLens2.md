@@ -10,7 +10,8 @@ source:: [[../articles/byrnes-6-reasons-why-alignment-is-hard-discourse-seems-al
 
 #### Text
 content::
-`<introductory text>`
+The difficulty of AI alignment is often underestimated because the risks do not fit neatly into human cognitive biases. This article explores why the arguments for alignment danger often feel counter-intuitive or even "alien" to our natural reasoning. We tend to anthropomorphise AI, assuming it will possess human-like common sense or social constraints. However, artificial agents operate on fundamentally different principles of optimization. Researchers identify specific reasons why our evolutionary heritage makes it difficult to grasp the scale of the challenge: from our reliance on social feedback to our misunderstanding of how complex goals emerge from simple code. If we rely solely on our intuition, we will likely miss the point where the system becomes uncontrollable. This material examines the psychological barriers that prevent us from taking the alignment problem as seriously as the mathematics suggest we should.
+
 
 #### Article-excerpt
 to:: "`<an exact quote from the article where the exerpt should stop>`"
