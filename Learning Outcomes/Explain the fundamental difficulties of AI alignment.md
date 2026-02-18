@@ -12,7 +12,3 @@ tags:
 ## Lens:
 optional:: true
 source:: [[../Lenses/Eliezer Yudkowsky – AI Alignment- Why It's Hard, and Where to Start]]
-
-## Lens:
-optional:: true
-source:: [[../Lenses/Lens Template|Lens Template]]
