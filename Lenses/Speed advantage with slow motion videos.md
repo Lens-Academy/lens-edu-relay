@@ -20,7 +20,8 @@ source:: [[../video_transcripts/rationalanimations-the-power-of-intelligence-an-
 content::
 #### Video-excerpt
 from:: 0:00
-
+### Article: Slow motion videos as AI risk intuition pumps
+source:: [[../articles/slow-motion-videos-as-ai-risk-intuition-pumps]]
 #### Article-excerpt
 from:: "Now, when you try"
 to:: "wildlife or insects."
