@@ -4,7 +4,7 @@ slug: intelligence-feedback-loop
 title: Intelligence Feedback Loop
 tags:
   - module
-  - work-in-progress
+  - validator-ignore
 ---
 ## Lens:
 source::
@@ -54,7 +54,7 @@ optional:: true
 ## Article-excerpt
 
 # Article: AI Revolution
-source:: [[../../articles/tim-urban-artificial-intelligence-revolution-1]]
+source:: [[../articles/urban-artificial-intelligence-revolution]]
 
 ## Article-excerpt
 

@@ -5,7 +5,7 @@ title:
 discussion:
 tags:
   - module
-  - work-in-progress
+  - validator-ignore
 ---
 # Page: Welcome
 id::

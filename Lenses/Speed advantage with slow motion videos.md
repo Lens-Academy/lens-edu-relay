@@ -11,13 +11,23 @@ content::
 In the following reading, we ask you to watch a video in order to get an intuitive sense for what it means for computer processing to be much, much faster than animal processing. Machines would most likely have a vastly different sense of time than we do.
 
 #### Article-excerpt
-to:: "specific story, so I thought I'd share it."
+from:: "Over the past"
+to:: "when slowed down by only around 100x:"
+
+#### Text
+content::
+Please watch this video:
+https://youtu.be/N0F3OyuP9LA?si=HqE61_s2DmxtLZAd&t=10
+
+#### Article-excerpt
+from:: "Now, when you try"
+to:: "wildlife or insects."
 
 #### Text
 content::
 Did you imagine yourself able to operate at speeds 100x faster than the human world? Or, perhaps, did you try to put yourself in the shoes of an AI? What did this experience reveal to you?
 
-#### Chat: Discussion on X-Risk
+#### Chat: Speed
 instructions::
 The user has watched a video of a busy subway platform, filmed at 100x slow motion, in the context of an article about how transistors operate at a speed ten million times faster than a human brain cell and what this would mean for the time-perception and comparative power of advanced artificial minds. Explore how they felt and what this revealed to them.
 
