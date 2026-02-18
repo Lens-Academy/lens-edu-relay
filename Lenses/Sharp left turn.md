@@ -18,7 +18,7 @@ to:: "`<an exact quote from the article where the exerpt should stop>`"
 
 #### Text
 content::
-`<prompt the user on how they should interact with the chatbot>`
+What causes a gap in our control over the system in a sharp left turn scenario? Provide an example of a situation where, when scaling, an AI successfully maintains the goal and safety metric on which it was trained, but does not scale it in accordance with human preferences, leading to negative consequences.
 #### Chat: Discussion on X-Risk
 instructions::
 TLDR of what the user just read:
