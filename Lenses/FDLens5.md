@@ -5,7 +5,7 @@ tags :
   - work-in-progress
 ---
 ### Article: Discovering when an agent is present in a system by Zachary Kenton et al.
-source:: [[../article]]
+source:: [[../articles/za]]
 
 #### Text
 content::
