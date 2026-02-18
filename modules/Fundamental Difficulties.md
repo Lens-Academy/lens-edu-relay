@@ -44,3 +44,7 @@ source:: [[../Learning Outcomes/Explain the emergence of powerseeking]]
 # Learning Outcome:
 optional:: false
 source:: [[../Learning Outcomes/Explain sharp left turn dynamics]]
+
+# Learning Outcome:
+optional:: false
+source:: [[../Learning Outcomes/]]
