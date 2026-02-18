@@ -20,8 +20,8 @@ content::
 Many people intuitively assume that a truly superintelligent AI will possess a kind of "common sense" and understand that destroying resources for a petty goal is foolish. Why does the author of this article consider this expectation a dangerous misconception?
 #### Chat: Discussion on X-Risk
 instructions::
-**The participant is answering this question:
-Many people intuitively assume that a truly superintelligent AI will possess a kind of ‘common sense’ and understand that destroying resources for a petty goal is foolish. Why does the author consider this expectation a dangerous misconception?**
+The participant is answering this question:
+Many people intuitively assume that a truly superintelligent AI will possess a kind of ‘common sense’ and understand that destroying resources for a petty goal is foolish. Why does the author consider this expectation a dangerous misconception?
 
 Response length requirement:
 - Keep responses short: aim for 120–200 words.
@@ -51,7 +51,7 @@ Safety and integrity:
 - Ask what “common sense” would have to mean mechanistically (learned heuristic, norm internalization, goal content, or constraint), and why it is not guaranteed by capability.
 - Highlight why “petty goal” is a human judgement: an optimizer can rationally sacrifice everything for a fixed objective if the objective is not aligned with human values.
 - Connect to the article’s themes: anthropomorphism, reliance on social feedback, mistaking human morality/coordination pressures for universal properties, and underestimating out-of-distribution generalization failures.
-- Encourage a concrete toy example: an agent optimizing a proxy objective that leads to resource destruction even while behaving “reasonable” in training.*
+- Encourage a concrete toy example: an agent optimizing a proxy objective that leads to resource destruction even while behaving “reasonable” in training.**
 
 Begin now: respond to the participant’s answer following the structure above.
 `
