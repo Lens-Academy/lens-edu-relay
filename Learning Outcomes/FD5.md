@@ -10,7 +10,7 @@ tags:
 
 ## Lens:
 optional:: false
-source:: [[../Lenses/]]
+source:: [[../Lenses/Discovering when an agent is present in a system]]
 
 ## Lens:
 optional:: true
