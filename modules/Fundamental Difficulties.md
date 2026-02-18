@@ -40,3 +40,7 @@ source:: [[../Learning Outcomes/Explain why alignment feels counterintuitive]]
 # Learning Outcome:
 optional:: true
 source:: [[../Learning Outcomes/Explain the emergence of powerseeking]]
+
+# Learning Outcome:
+optional:: true
+source:: [[../Learning Outcomes/Explain the emergence of powerseeking]]
