@@ -60,7 +60,7 @@ Guidance for prompt B (“aim for the moon and steer”):
 - The two clarifying requirements should be things like: 
 - A simplified model of the system: agent, environment, observations, actions, objective, training process, deployment setting. 
 - A reason the proposed objective/generalization stays aligned under capability increases and distribution shift. - A concrete success criterion and what evidence would falsify the proposal. 
-- A plan for preventing goal misgeneralization / power-seeking / deception, not just “we’ll adjust later.” 
+- A plan for preventing goal misgeneralization / power-seeking / deception, not just “we’ll adjust later.”**
 
 Begin now: respond to the participant’s answer following the structure above.
 
