@@ -54,7 +54,7 @@ Safety and integrity:
 **Guidance for prompt A (metaphor): 
 - Help them distinguish: “we needed new math for rockets / crypto” vs “we need a theory of how learned optimizers behave under scale.” 
 - Ask what the analogy predicts, and what evidence would support or weaken it. 
-- Push them to name failure modes of the analogy (e.g., empirical iteration works differently in software, distribution shift, unknown unknowns, adversarial optimization, etc.).**
+- Push them to name failure modes of the analogy (e.g., empirical iteration works differently in software, distribution shift, unknown unknowns, adversarial optimization, etc.).
 
 **Guidance for prompt B (“aim for the moon and steer”): 
 - The two clarifying requirements should be things like: 
