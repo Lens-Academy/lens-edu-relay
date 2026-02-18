@@ -11,7 +11,7 @@ might be humanity's most important invention.
 
 #### Video-excerpt
 from:: 0:00
-to:: {--{"author":"AI","timestamp":1771422138807}@@5:00--}{++{"author":"AI","timestamp":1771422138807}@@3:32++}
+to:: 3:32
 
 #### Text
 content::
@@ -34,7 +34,7 @@ Start by asking what stood out or surprised them. Use Socratic questioning to
 check their understanding of these concepts. Don't lecture—help them articulate their own thinking.
 
 #### Video-excerpt
-from:: {--{"author":"AI","timestamp":1771422144129}@@5:00--}{++{"author":"AI","timestamp":1771422144129}@@3:33++}
+from:: {--{"author":"AI","timestamp":1771422144129}@@5:00--}3:33
 to:: {--{"author":"AI","timestamp":1771422184186}@@10:00--}{++{"author":"AI","timestamp":1771422184186}@@14:48++}
 
 #### Text
