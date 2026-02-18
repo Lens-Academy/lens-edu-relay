@@ -35,5 +35,5 @@ source:: [[../Learning Outcomes/Explain the fundamental difficulties of AI align
 
 # Learning Outcome:
 optional:: false
-source:: [[../Learning Outcomes
+source:: [[../Le
 
