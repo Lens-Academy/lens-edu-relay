@@ -10,7 +10,7 @@ tags:
 
 ## Lens:
 optional:: false
-source:: [[../Lenses/Lemplate|Lens Template]]
+source:: [[../Lenses/Sharp left turn]]
 
 ## Lens:
 optional:: true
