@@ -11,7 +11,3 @@ tags:
 ## Lens:
 optional:: false
 source:: [[../Lenses/Discovering when an agent is present in a system]]
-
-## Lens:
-optional:: true
-source:: [[../Lenses/Lens Template|Lens Template]]
