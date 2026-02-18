@@ -4,7 +4,7 @@ tags :
   - lens
   - work-in-progress
 ---
-### Video: The power of intelligence
+### Video: Eliezer Yudkowsky – AI Alignment: Why It's Hard, and Where to Start
 source:: [[../video_transcripts/miri-al-alignment-why-its-hard-and-where-to-start]]
 
 #### Text
