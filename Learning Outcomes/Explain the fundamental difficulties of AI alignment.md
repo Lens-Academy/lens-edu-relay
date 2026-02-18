@@ -2,6 +2,7 @@
 id: d28fc627-50cd-45df-b770-d31831e0c690
 discussion: <discord url>
 learning-outcome: Participants can explain the reasoning behind the claim that building aligned AI involves predictable, fundamental difficulties.
+student-outcome: 
 tags:
   - work-in-progress
   - learning outcome
@@ -10,7 +11,7 @@ tags:
 
 ## Lens:
 optional:: false
-source:: [[../Lenses/E]]
+source:: [[../Lenses/Eliezer Yudkowsky – AI Alignment- Why It's Hard, and Where to Start]]
 
 ## Lens:
 optional:: true
