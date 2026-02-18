@@ -31,7 +31,7 @@ source:: ![[../Learning Outcomes/Demo LO]]
 
 ## Lens:
 source::
-[[../Lenses/Trial for text box|Trial for text box]]
+[[../Lenses/Trial for text box]]
 
 ## Lens:
 source::
