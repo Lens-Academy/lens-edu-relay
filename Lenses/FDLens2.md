@@ -17,7 +17,7 @@ to:: "invoking a misleading mental image if they lean on §5.1 intuitions.`"
 
 #### Text
 content::
-`<prompt the user on how they should interact with the chatbot>`
+
 #### Chat: Discussion on X-Risk
 instructions::
 TLDR of what the user just read:
