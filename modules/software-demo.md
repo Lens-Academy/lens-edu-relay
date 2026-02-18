@@ -33,5 +33,7 @@ source:: ![[../Learning Outcomes/Demo LO]]
 source::
 [[../Lenses/Trial for text box|Trial for text box]]
 
-Lens
+## Lens:
+source::
+[[../video_transcripts/kurzgesagt-ai-humanitys-final-invention]]
 
