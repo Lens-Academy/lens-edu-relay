@@ -37,6 +37,6 @@ source:: [[../Learning Outcomes/Explain the fundamental difficulties of AI align
 optional:: false
 source:: [[../Learning Outcomes/Explain why alignment feels counterintuitive]]
 
-Learning Outcome:
+# Learning Outcome:
 optional:: false
 source:: [[../Learning Outcomes/Explain why alignment feels counterintuitive]]
