@@ -5,7 +5,7 @@ tags :
   - work-in-progress
 ---
 ### Article: 6 reasons why alignment-is-hard discourse seems alien to human intuitions by Steven Byrnes
-`
+
 source:: [[]]
 
 #### Text
