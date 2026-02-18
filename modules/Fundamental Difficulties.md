@@ -42,5 +42,5 @@ optional:: true
 source:: [[../Learning Outcomes/Explain the emergence of powerseeking]]
 
 # Learning Outcome:
-optional:: true
+optional:: false
 source:: [[../Learning Outcomes/Explain the emergence of powerseeking]]
