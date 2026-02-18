@@ -51,7 +51,7 @@ Safety and integrity:
 - If the participant makes a strong claim, ask what assumptions it relies on and how it could be tested. 
 
 
-Guidance for prompt A (metaphor): 
+**Guidance for prompt A (metaphor): 
 - Help them distinguish: “we needed new math for rockets / crypto” vs “we need a theory of how learned optimizers behave under scale.” 
 - Ask what the analogy predicts, and what evidence would support or weaken it. 
 - Push them to name failure modes of the analogy (e.g., empirical iteration works differently in software, distribution shift, unknown unknowns, adversarial optimization, etc.). 
