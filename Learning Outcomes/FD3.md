@@ -10,7 +10,7 @@ tags:
 
 ## Lens:
 optional:: false
-source:: [[../Lenses/]]
+source:: [[../Lenses/When should we worry about AI power-seeking]]
 
 ## Lens:
 optional:: true
