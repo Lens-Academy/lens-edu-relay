@@ -13,7 +13,7 @@ The problem of AI alignment requires a rigorous theoretical foundation. To succe
 
 #### Video-excerpt
 from:: 42:53
-to:: 1:00:00
+to:: 59:59
 
 
 #### Text
