@@ -17,6 +17,7 @@ to:: "here to safe, useful superintelligent AI agents."
 #### Text
 content::
 What are the agency, motivation and incentive prerequisites that need to be in place for an AI to seek power in the manner at stake in paradigm loss of control / rouge AI scenarios?
+
 #### Chat: Discussion on X-Risk
 instructions::
 TLDR of what the user just read:
