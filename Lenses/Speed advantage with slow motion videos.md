@@ -18,7 +18,7 @@ to:: "when slowed down by only around 100x:"
 source:: [[../video_transcripts/adam-magyar-stainless-alexanderplatz]]
 #### Text
 content:: 
-.
+ . 
 
 #### Video-excerpt
 from:: 0:00
