@@ -9,9 +9,5 @@ tags:
 ## Test:
 
 ## Lens:
-optional:: false
-source:: [[../Lenses/When should we worry about AI power-seeking]]
-
-## Lens:
 optional:: true
-source:: [[../Lenses/Lens Template|Lens Template]]
+source:: [[../Lenses/When should we worry about AI power-seeking]]
