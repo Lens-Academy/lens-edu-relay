@@ -16,7 +16,6 @@ to:: "when slowed down by only around 100x:"
 
 ### Video: The power of intelligence
 source:: [[../video_transcripts/rationalanimations-the-power-of-intelligence-an-essay-by-eliezer-yudkowsky]]
-
 #### Text
 content::
 #### Video-excerpt
