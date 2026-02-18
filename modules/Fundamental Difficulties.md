@@ -43,4 +43,4 @@ source:: [[../Learning Outcomes/Explain the emergence of powerseeking]]
 
 # Learning Outcome:
 optional:: false
-source:: [[../Learning Outcomes/Explain the emergence of powerseeking]]
+source:: [[../Learning Outcomes/Explain]]
