@@ -10,4 +10,4 @@ tags:
 
 ## Lens:
 optional:: true
-source:: [[../Lenses/Without fundamental ad]]
+source:: [[../Lenses/Without fundamental advances, misalignment and catastrophe are the default outcomes of training powerful AIst outcomes]]
