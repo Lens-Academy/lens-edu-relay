@@ -2,6 +2,7 @@
 id:
 tags:
   - lens
+  - work-in-progress
 ---
 ### Article: Slow motion videos as AI risk intuition pumps
 source:: [[../articles/slow-motion-videos-as-ai-risk-intuition-pumps]]
