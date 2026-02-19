@@ -18,7 +18,7 @@ to:: "than most people trying stuff like this!"
 
 #### Text
 content::
-`<prompt the user on how they should interact with the chatbot>`
+Imagine you created an AI that perfectly predicts stock prices, but doesn't have access to trading. According to the Oracle of Pythia's idea, how could this AI begin to govern the global economy simply by giving the human user the "most accurate" forecasts?
 #### Chat: Discussion on X-Risk
 instructions::
 TLDR of what the user just read:
