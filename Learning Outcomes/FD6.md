@@ -1,7 +1,7 @@
 ---
-id: <uuid, generate at https://www.uuidgenerator.net/version4>
+id: 0ae0c651-8f39-4187-8f5f-594abbc7978a
 discussion: <discord url>
-learning-outcome:
+learning-outcome: 
 tags:
   - work-in-progress
   - learning outcome
