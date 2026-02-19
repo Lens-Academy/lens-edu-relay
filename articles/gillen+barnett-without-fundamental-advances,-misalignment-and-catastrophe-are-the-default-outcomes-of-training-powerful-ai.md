@@ -174,7 +174,7 @@ There are also ways to specify behavior that don’t look like taking actions to
 
 One could define such non-consequentialist goal specification c as a variable that is primarily dependent on short term behavior and state, and not strongly dependent on the outcomes in the future, i.e. MI(st..t+k;c|a0..t,s0..t)≤ϵ. Here c is defined by modeling the agent as choosing actions that result in success according to c. Conditioning on the actions and states in the short term, the final states don’t give you additional information about whether the AI successfully followed its constraints.
 
-### ![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/GfZfDHZHCuYwrHGCd/rkzb6xxo2yiqpksvcl5j)
+ ![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/GfZfDHZHCuYwrHGCd/rkzb6xxo2yiqpksvcl5j)
 
 ### Combined goals
 
