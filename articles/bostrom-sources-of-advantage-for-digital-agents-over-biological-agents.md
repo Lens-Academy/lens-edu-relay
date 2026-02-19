@@ -11,6 +11,8 @@ tags:
 ---
 Artificial agents should have several advantages over humans.
 
+Hypothesis: Quotes are always o
+
 ## Details
 
 The following is an excerpt from [Superintelligence](https://en.wikipedia.org/wiki/Superintelligence:_Paths,_Dangers,_Strategies) (Bostrom, 2014), reproduced with permission. It outlines ten advantages Bostrom expects digital intelligences to have over human intelligences.
