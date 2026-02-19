@@ -4,8 +4,8 @@ tags :
   - lens
   - work-in-progress
 ---
-### Article: `article title`
-source:: [[]]
+### Article: Pythia by plex
+source:: [[../articles/p]]
 
 #### Text
 content::
