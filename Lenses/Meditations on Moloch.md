@@ -14,8 +14,8 @@ The failure of alignment is not always a result of technical incompetence: often
 #### Article-excerpt
 to:: "! Down to the river! into the street!*"
 
-#### Text
-content::
+#### Chat: Discussion on X-Risk
+instructions::
 The participant is answering this question:
 Consider the structure of the "traps" described by Scott Alexander. Try to find parallels between "Moloch" in human society and "instrumental convergence" in AI. What differences do you see?
 
