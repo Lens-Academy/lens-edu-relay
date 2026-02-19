@@ -50,8 +50,8 @@ optional:: false
 source:: [[../Learning Outcomes/Explain causal definition of agency]]
 
 # Learning Outcome:
-optional:: false
-source:: [[../Learning Outcomes/]]
+optional:: true
+source:: [[../Learning Outcomes/Explain how agency can emerge from advanced prediction]]
 
 # Learning Outcome:
 optional:: false
