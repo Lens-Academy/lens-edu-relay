@@ -11,4 +11,4 @@ tags:
 
 ## Lens:
 optional:: false
-source:: [[../Lenses/Lens Template|Lens Template]]
+source:: [[../Lenses/Meditations on Moloch]]
