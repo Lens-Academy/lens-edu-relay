@@ -163,6 +163,7 @@ We can construct a simple definition of consequentialist goals based on the idea
 
 ![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/GfZfDHZHCuYwrHGCd/yg2zidrzq5fohamf9owt)
 
+
 Here the actions affect the future state which affects success at achieving the goal; the only way the actions affect the goal is via the state.
 
 If a0..t  are early actions, st..t+k are a short sequence of states in the future[^13] and g is some internal representation of the outcome-goal in an AI, then a consequentialist goal has a property like MI(a0..t;g|st..t+k)≤ϵ.[^14] Given that we know what the future state is, knowing what the actions were doesn’t tell us any more about whether the goal was achieved (note this is an identical statement to the causal diagram above).
@@ -173,7 +174,7 @@ There are also ways to specify behavior that don’t look like taking actions to
 
 One could define such non-consequentialist goal specification c as a variable that is primarily dependent on short term behavior and state, and not strongly dependent on the outcomes in the future, i.e. MI(st..t+k;c|a0..t,s0..t)≤ϵ. Here c is defined by modeling the agent as choosing actions that result in success according to c. Conditioning on the actions and states in the short term, the final states don’t give you additional information about whether the AI successfully followed its constraints.
 
-### ![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/GfZfDHZHCuYwrHGCd/rkzb6xxo2yiqpksvcl5j)
+ ![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/GfZfDHZHCuYwrHGCd/rkzb6xxo2yiqpksvcl5j)
 
 ### Combined goals
 
@@ -183,7 +184,7 @@ The distinction between constraints and consequences is useful for describing wh
 
 There exists much more complicated behavior that isn’t precisely captured by this simplified model of goals. Despite this, we think this description of goals is sufficient for describing the main reasons we expect misalignment in real agents.
 
-### ![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/GfZfDHZHCuYwrHGCd/ulvvmwmnb321usfhknls)
+![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/GfZfDHZHCuYwrHGCd/ulvvmwmnb321usfhknls)
 
 **We call an AI “misaligned” if its behavior is well described by goals and constraints that are different from the goals and constraints intended by its human creators**.
 
