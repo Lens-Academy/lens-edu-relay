@@ -11,7 +11,9 @@ tags:
 ---
 Artificial agents should have several advantages over humans.
 
-Hypothesis: Quotes are always o
+Hypothesis: Quotes are always over-processed?
+> This is a quote block
+> in which text cont
 
 ## Details
 
