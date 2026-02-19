@@ -10,7 +10,7 @@ tags:
 
 ## Lens:
 optional:: false
-source:: [[../Lenses/]]
+source:: [[../Lenses/Pythia by plex]]
 
 ## Lens:
 optional:: true
