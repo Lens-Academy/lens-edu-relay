@@ -27,7 +27,7 @@ The following is an excerpt from [Superintelligence](https://en.wikipedia.org/wi
 > 
 > At present, the computational power of the biological brain still compares favorably with that of digital computers, though top-of-the-line supercomputers are attaining levels of performance that are within the range of plausible estimates of the brain’s processing power.<sup>32</sup> But hardware is rapidly improving, and the ultimate limits of hardware performance are vastly higher than those of biological computing substrates.
 > 
-> Digital minds will also benefit from major advantages in software:  
+> Digital minds will also benefit from major advantages in software: 
 > 
 > - *Editability.* It is easier to experiment with parameter variations in software than in neural wetware. For example, with a whole brain emulation one could easily trial what happens if one adds more neurons in a particular cortical area or if one increases or decreases their excitability. Running such experiments in living biological brains would be far more difficult.
 > - *Duplicability.* With software, one can quickly make arbitrarily many high-fidelity copies to fill the available hardware base. Biological brains, by contrast, can be reproduced only very slowly; and each new instance starts out in a helpless state, remembering nothing of what its parents learned in their lifetimes.
