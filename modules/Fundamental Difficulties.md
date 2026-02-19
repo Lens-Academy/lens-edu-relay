@@ -59,5 +59,5 @@ source:: [[../Learning Outcomes/Explain why misalignment and catastrophe are the
 
 # Learning Outcome:
 optional:: false
-source:: [[../Learning Outcomes/Explain the Moloch concept]]
+source:: [[../Learning Outcomes/Explain a coordination failure driven by multipolar incentives]]
 
