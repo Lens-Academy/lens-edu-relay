@@ -10,16 +10,11 @@ tags:
   - obsidian-web-clipper
 ---
 Artificial agents should have several advantages over humans.
-
-Hypothesis: Quotes are always over-processed?
-> This is a quote block
-> in which text continues 
-
 ## Details
 
 The following is an excerpt from [Superintelligence](https://en.wikipedia.org/wiki/Superintelligence:_Paths,_Dangers,_Strategies) (Bostrom, 2014), reproduced with permission. It outlines ten advantages Bostrom expects digital intelligences to have over human intelligences.
 
-> Sources of advantage for digital intelligence 13
+> Sources of advantage for digital intelligence 
 >  
 > Minor changes in brain volume and wiring can have major consequences, as we see when we compare the intellectual and technological achievements of humans with those of other apes. The far greater changes in computing resources and architecture that machine intelligence will enable will probably have consequences that are even more profound. It is difficult, perhaps impossible, for us to form an intuitive sense of the aptitudes of a superintelligence; but we can at least get an inkling of the space of possibilities by looking at some of the advantages open to digital minds. The hardware advantages are easiest to appreciate:  
 >  
