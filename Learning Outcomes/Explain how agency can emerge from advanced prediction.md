@@ -9,5 +9,5 @@ tags:
 ## Test:
 
 ## Lens:
-optional:: false
+optional:: true
 source:: [[../Lenses/Pythia by plex]]
