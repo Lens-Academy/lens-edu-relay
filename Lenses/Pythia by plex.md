@@ -14,7 +14,7 @@ The article deconstructs the concepts of "predictor" and "agent." It views knowl
 
 
 #### Article-excerpt
-to:: "`<an exact quote from the article where the exerpt should stop>`"
+to:: "than most people trying stuff like this!"
 
 #### Text
 content::
