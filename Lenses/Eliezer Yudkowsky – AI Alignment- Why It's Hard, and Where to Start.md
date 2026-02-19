@@ -51,12 +51,12 @@ Safety and integrity:
 - If the participant makes a strong claim, ask what assumptions it relies on and how it could be tested. 
 
 
-**Guidance for prompt A (metaphor): **
+**Guidance for prompt A (metaphor):**
 - **Help them distinguish: “we needed new math for rockets / crypto” vs “we need a theory of how learned optimizers behave under scale.”** 
 - **Ask what the analogy predicts, and what evidence would support or weaken it.** 
 - **Push them to name failure modes of the analogy (e.g., empirical iteration works differently in software, distribution shift, unknown unknowns, adversarial optimization, etc.).**
 
-**Guidance for prompt B (“aim for the moon and steer”): **
+**Guidance for prompt B (“aim for the moon and steer”):**
 - **The two clarifying requirements should be things like:** 
 - **A simplified model of the system: agent, environment, observations, actions, objective, training process, deployment setting.** 
 - **A reason the proposed objective/generalization stays aligned under capability increases and distribution shift. - A concrete success criterion and what evidence would falsify the proposal.** 
