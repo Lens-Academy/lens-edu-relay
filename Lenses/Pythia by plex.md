@@ -5,7 +5,7 @@ tags :
   - work-in-progress
 ---
 ### Article: Pythia by plex
-source:: [[../articles/p]]
+source:: [[../articles/plex-pythia]]
 
 #### Text
 content::
