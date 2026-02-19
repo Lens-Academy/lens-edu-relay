@@ -163,6 +163,7 @@ We can construct a simple definition of consequentialist goals based on the idea
 
 ![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/GfZfDHZHCuYwrHGCd/yg2zidrzq5fohamf9owt)
 
+
 Here the actions affect the future state which affects success at achieving the goal; the only way the actions affect the goal is via the state.
 
 If a0..t  are early actions, st..t+k are a short sequence of states in the future[^13] and g is some internal representation of the outcome-goal in an AI, then a consequentialist goal has a property like MI(a0..t;g|st..t+k)≤ϵ.[^14] Given that we know what the future state is, knowing what the actions were doesn’t tell us any more about whether the goal was achieved (note this is an identical statement to the causal diagram above).
