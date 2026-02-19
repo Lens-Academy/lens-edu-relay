@@ -5,7 +5,7 @@ tags :
   - work-in-progress
 ---
 ### Article: A central AI alignment problem – capabilities generalization, and the sharp left turn by Nate Soares
-source:: [[../articles/soares-a-central-ai-alignment-problem-capabilities-generalization,-and-the-sharp-left-turn]]
+source:: [[../articles/soares-a-central-ai-alignment-problem-capabilities-generalization-and-the-sharp-left-turn]]
 
 #### Text
 content::
