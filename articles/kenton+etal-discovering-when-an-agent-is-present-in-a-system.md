@@ -12,7 +12,7 @@ published: 2022-08-17
 created: 2026-02-19
 description: "We want to build safe, aligned artificial general intelligence (AGI) systems that pursue the intended goals of its designers. Causal influence diagrams (CIDs) are a way to model decision-making situa…"
 tags:
-  - "obsidian-web-clipper"
+  - "obsidin-web-clipper"
 ---
 New, formal definition of agency gives clear principles for causal modelling of AI agents and the incentives they face
 
