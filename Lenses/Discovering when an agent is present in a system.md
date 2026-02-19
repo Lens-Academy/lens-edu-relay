@@ -13,7 +13,7 @@ In AI safety we often model systems as agents, meaning systems that make decisio
 
 
 #### Article-excerpt
-to:: "`<an exact quote from the article where the exerpt should stop>`"
+to:: "agent in a system – a key concern for assessing risks from AGI."
 
 #### Text
 content::
