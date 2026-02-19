@@ -5,8 +5,7 @@ tags :
   - work-in-progress
 ---
 ### Video: Eliezer Yudkowsky – AI Alignment: Why It's Hard, and Where to Start
-source:: [[../video_transcripts/miri-al-alignment-why-its-hard-and-where-to-start]]
-[[machine]]
+source:: [[../video_transcripts/machineintelligenceresearchinstitute-eliezer-yudkowsky-ai-alignment-why-its-hard-and-where-to-start]]
 
 #### Text
 content::
