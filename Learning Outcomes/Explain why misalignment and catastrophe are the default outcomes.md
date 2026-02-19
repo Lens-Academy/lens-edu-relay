@@ -10,4 +10,4 @@ tags:
 
 ## Lens:
 optional:: true
-source:: [[../Lenses/Misalignment and catastrophe are the default outcomes]]
+source:: [[../Lenses/Without fundamental ad]]
