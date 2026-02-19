@@ -1,7 +1,7 @@
 ---
 id: 0ae0c651-8f39-4187-8f5f-594abbc7978a
 discussion: <discord url>
-learning-outcome: 
+learning-outcome: Participants can explain the “Pythia” argument for how agency can emerge from advanced prediction
 tags:
   - work-in-progress
   - learning outcome
