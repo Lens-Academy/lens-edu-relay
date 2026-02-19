@@ -184,7 +184,7 @@ The distinction between constraints and consequences is useful for describing wh
 
 There exists much more complicated behavior that isn’t precisely captured by this simplified model of goals. Despite this, we think this description of goals is sufficient for describing the main reasons we expect misalignment in real agents.
 
-### ![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/GfZfDHZHCuYwrHGCd/ulvvmwmnb321usfhknls)
+![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/GfZfDHZHCuYwrHGCd/ulvvmwmnb321usfhknls)
 
 **We call an AI “misaligned” if its behavior is well described by goals and constraints that are different from the goals and constraints intended by its human creators**.
 
