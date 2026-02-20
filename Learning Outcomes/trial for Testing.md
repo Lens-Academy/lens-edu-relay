@@ -11,6 +11,7 @@ tags:
 content::
 We'll be asking you some questions about X
 #### Question
+feedback:: true
 user-instruction:: In your own words, explain what AI safety is and why it matters.
 
 #### Question
