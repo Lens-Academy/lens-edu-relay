@@ -12,7 +12,7 @@ content::
 We'll be asking you some questions about X
 #### Question
 feedback:: true
-user-instruction:: In your own words, explain what AI safety is and why it matters.
+user-instruction:: In your own words, explain what AI safety is and why it matters. Hello.
 
 #### Question
 user-instruction:: In your own words, explain what AI safety is and why it matters. (with m ax char 500)
