@@ -165,4 +165,4 @@ For audio version, search for "Cold Takes Audio" in your podcast app
 
 [^9]: It's even worse than [spaghetti code](https://en.wikipedia.org/wiki/Spaghetti_code).
 
-[^10]: More books: [Human Compatible](https://smile.amazon.com/Human-Compatible-Artificial-Intelligence-Problem-ebook/dp/B07N5J5FTS), [Life 3.0](https://smile.amazon.com/Life-3-0-Being-Artificial-Intelligence-ebook/dp/B06WGNPM7V), and [The Alignment Problem](https://smile.amazon.com/Alignment-Problem-Machine-Learning-Values-ebook/dp/B085T55LGK/).
+[^10]: More books: [Human Compatible](https://smile.amazon.com/Human-Compatible-Artificial-Intelligence-Problem-ebook/dp/B07N5J5FTS), [Life 3.0](https://smile.amazon.com/Life-3-0-Being-Artificial-Intelligence-ebook/dp/B06WGNPM7V), and [The Alignment Problem](https://smile.amazon.com/Alignment-Problem-Machine-Learning-Values-ebook/dp/B085T55LGK/)
