@@ -96,7 +96,7 @@ Any of these three pathways can lead to a meta-preference wherein “me wanting 
 
 …OK, finally, let’s jump into those “6 reasons” that I promised in the title!
 
-# 1\. The human intuition that it’s normal and good for one’s goals & values to change over the years
+# 1. The human intuition that it’s normal and good for one’s goals & values to change over the years
 
 In human experience, it is totally normal and good for desires to change over time. Not always, but often. Hence [emotive conjugations](https://en.wikipedia.org/wiki/Emotive_conjugation) like
 
@@ -116,7 +116,7 @@ By contrast, in humans, self-reflective preferences mostly come from Approval Re
 
 This pathway does not generate any particular force for desire preservation.<sup><span><span></span><a href="https://www.lesswrong.com/posts/d4HNRdw6z7Xqbnu5E/#fna9nn1dnpgxq" class="">[7]</a></span></sup> If our friends and idols would be impressed by desires that change over time, then that’s generally what we want for ourselves as well.
 
-# 2\. The human intuition that ego-syntonic “desires” come from a fundamentally different place than “urges”
+# 2. The human intuition that ego-syntonic “desires” come from a fundamentally different place than “urges”
 
 In human experience, it is totally normal and expected to want X (e.g. candy), but not *want to* want X. Likewise, it is totally normal and expected to dislike X (e.g. homework), but want to like it.
 
