@@ -13,4 +13,4 @@ source::
 
 ## Lens:
 source::
-[[../../Lenses/Speculations concerning the first ultraintelligent machine|Speculations concerning the first ultraintelligent machine]]
+[[../Lenses/Speculations concerning the first ultraintelligent machine|Speculations concerning the first ultraintelligent machine]]
