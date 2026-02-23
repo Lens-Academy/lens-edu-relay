@@ -150,7 +150,7 @@ On the other hand, if Approval Reward is *not* part of AGI / ASI, then we’re 
 
 Obviously, humans can make long-term plans to accomplish distant goals—for example, an 18-year-old could plan to become a doctor in 15 years, and immediately move this plan forward via sensible consequentialist actions, like taking a chemistry class.
 
-![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/d4HNRdw6z7Xqbnu5E/z045iejih63jto7qeoxk)
+![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/d4HNRdw6z7Xqbnu5E/wc63g8z7cdmg8aw4osq0)
 
 Even if a young child wants to grow up to become a doctor, they can and will take appropriate goal-oriented actions to advance this long-term plan, such as practicing surgical techniques (left) and watching training videos (right).
 
