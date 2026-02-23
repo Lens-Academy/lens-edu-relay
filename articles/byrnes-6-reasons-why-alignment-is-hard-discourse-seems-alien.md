@@ -172,7 +172,7 @@ That’s all in the human world. Meanwhile in AI, the alignment-is-hard thinkers
 
 …Well, different from most humans. Sociopaths can be a bit more like that (in certain ways). Ditto people who are unusually [“agentic”](https://usefulfictions.substack.com/p/how-to-be-more-agentic). And by the way, how do you help a person become “agentic”? You guessed it: a key ingredient is calling out “being agentic” as a meta-level behavioral pattern, and indicating to this person that following this meta-level pattern will get social approval! (Or at least, that it won’t get social disapproval.)
 
-# 5\. The human intuition that societal norms and institutions are mostly stably self-enforcing
+# 5. The human intuition that societal norms and institutions are mostly stably self-enforcing
 
 ## 5.1 Detour into “Security-Mindset Institution Design”
 
@@ -216,11 +216,11 @@ In that world, we really shouldn’t be using the word “norm” at all—it’
 
 The flip side, of course, is that if we figure out how to ensure that almost all AGIs *are* intrinsically motivated to follow and enforce norms, then it’s the pessimists who are invoking a misleading mental image if they lean on §5.1 intuitions.
 
-# 6\. The human intuition that treating other humans as a resource to be callously manipulated and exploited, just like a car engine or any other complex mechanism in their environment, is a weird anomaly rather than the obvious default
+# 6. The human intuition that treating other humans as a resource to be callously manipulated and exploited, just like a car engine or any other complex mechanism in their environment, is a weird anomaly rather than the obvious default
 
 Click over to [Foom & Doom §2.3.4—“The naturalness of egregious scheming: some intuitions”](https://www.lesswrong.com/posts/bnnKGSCHJghAvqPjS/foom-and-doom-2-technical-alignment-is-hard#2_3_4_The_naturalness_of_egregious_scheming__some_intuitions) to read this part.
 
-# 7\. Conclusion
+# 7. Conclusion
 
 (Homework: can you think of more examples?)
 
