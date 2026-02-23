@@ -184,7 +184,7 @@ If you extend this “Security Mindset Institution Design” attitude to an actu
 
 …That’s just one tiny microcosm of a universal issue. Who has physical access to weapons? Why don’t those people collude to set their own taxes to zero and to raise everyone else’s? Who sets government policy, and what if those people collude against everyone else? Or even if they don’t collude, are they vulnerable to blackmail? Who counts the votes, and will they join together and start soliciting bribes? Who coded the website to collect taxes, and why do we trust them not to steal tons of money and run off to Dubai?
 
-![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/d4HNRdw6z7Xqbnu5E/e2szvgoqn0kdrppjetwz)
+![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/d4HNRdw6z7Xqbnu5E/dvwuzggwqqqfjdlhunfl)
 
 [Source](https://en.wikipedia.org/wiki/Homer_the_Vigilante)
 
