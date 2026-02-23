@@ -29,7 +29,7 @@ Fully justifying each pillar of this argument would take a book, so I’ve left 
 
 *“Wait, doesn’t an invasion from the future imply time travel?"*
 
-**![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/qqEndN5Cuzbat9fyx/sr4fvsjewogi0zp2ngqx)**
+![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/qqEndN5Cuzbat9fyx/sr4fvsjewogi0zp2ngqx)
 
 **Time & Agency**
 
