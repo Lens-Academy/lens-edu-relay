@@ -69,7 +69,7 @@ Who’s right? Beats me. It’s out-of-scope for this post, and anyway I persona
 
 This idea will come up over and over as we proceed, so I’ll address it up front:
 
-![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/d4HNRdw6z7Xqbnu5E/hbsei9bioe5m3pfqboku)
+![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/d4HNRdw6z7Xqbnu5E/drcvpvcyr4gred95wdl4)
 
 When we compare “normal” motivations (a) with Approval Reward (b), the primary relation of object-level desires versus self-reflective meta-level desires (red arrows) is flipped. On the (a) side, we expect things like [reflective consistency](https://www.lesswrong.com/w/consequentialist-preferences-are-reflectively-stable-by) and goal-stabilization (cf. [instrumental convergence](https://www.lesswrong.com/w/instrumental-convergence)). On the (b) side, we don’t (necessarily); instead we may encounter radical goal-changes upon reflection and self-modification, along with a broader willingness for goals to change.
 
