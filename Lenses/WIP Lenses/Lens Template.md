@@ -1,6 +1,9 @@
 ---
 id:
+tags
+  - work-
 ---
+
 ### Article: `article title`
 source:: [[]]
 
