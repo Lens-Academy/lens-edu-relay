@@ -27,7 +27,7 @@ Finally, with that background, I’ll go through six more specific areas where �
 - 5\. The human intuition that societal norms and institutions are mostly stably self-enforcing
 - 6\. The human intuition that treating other humans as a resource to be callously manipulated and exploited, just like a car engine or any other complex mechanism in their environment, is a weird anomaly rather than the obvious default
 
-# 0\. Background
+# 0. Background
 
 ## 0.1 Human social instincts and “Approval Reward”
 
