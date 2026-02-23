@@ -29,7 +29,7 @@ Fully justifying each pillar of this argument would take a book, so I’ve left 
 
 *“Wait, doesn’t an invasion from the future imply time travel?"*
 
-![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/qqEndN5Cuzbat9fyx/sr4fvsjewogi0zp2ngqx)
+<img style="width:17.25%" src="https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/qqEndN5Cuzbat9fyx/sr4fvsjewogi0zp2ngqx" srcset="https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/qqEndN5Cuzbat9fyx/xqkbgddgfi8yjestaakt 96w, https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/qqEndN5Cuzbat9fyx/sknqi9y1wbwao18kjnj1 176w, https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/qqEndN5Cuzbat9fyx/u5g12nviorm6cbjy9qma 256w, https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/qqEndN5Cuzbat9fyx/zuqilxhbkqhdtanvkch3 336w, https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/qqEndN5Cuzbat9fyx/mzyjuh0b1sbolhljvumx 416w, https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/qqEndN5Cuzbat9fyx/rx3su2vhy31qwbop2w2u 496w, https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/qqEndN5Cuzbat9fyx/g9fqhnt9t1pgt8bfqfce 576w, https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/qqEndN5Cuzbat9fyx/icjzvrnka8mseapa9wvp 656w, https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/qqEndN5Cuzbat9fyx/yzxkyhyikqmegci4jwvi 736w">
 
 **Time & Agency**
 
