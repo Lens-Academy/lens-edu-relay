@@ -136,7 +136,7 @@ By contrast, I happen to expect AGIs, by default (in the absence of Approval Rew
 
 (To be clear, reflection in Approval-Reward-free AGIs might still have [“complications”](https://www.lesswrong.com/posts/rQDCQxuCRrrN4ujAe/jeremy-gillen-s-shortform?commentId=vYdtN3nHEtJfgjSSB) of other sorts, such as [ontological crises](https://www.lesswrong.com/w/ontological-crisis).)
 
-# 3\. The human intuition that helpfulness, deference, and corrigibility are natural
+# 3. The human intuition that helpfulness, deference, and corrigibility are natural
 
 This human intuition comes straight from Approval Reward, which is absolutely central in human intuitions, and leads to us caring about whether others would approve of our actions (even if they’re not watching), taking pride in our virtues, and various other things that distinguish neurotypical people from sociopaths.
 
@@ -146,7 +146,7 @@ He’s right: normal people would definitely say that, and our human Approval Re
 
 On the other hand, if Approval Reward is *not* part of AGI / ASI, then we’re instead in the “corrigibility is anti-natural” school of thought in AI alignment. As an example of that school of thought, see [Why Corrigibility is Hard and Important](https://www.lesswrong.com/posts/ksfjZJu3BFEfM6hHE/why-corrigibility-is-hard-and-important-i-e-whence-the-high).
 
-# 4\. The human intuition that unorthodox consequentialist planning is rare and sus
+# 4. The human intuition that unorthodox consequentialist planning is rare and sus
 
 Obviously, humans can make long-term plans to accomplish distant goals—for example, an 18-year-old could plan to become a doctor in 15 years, and immediately move this plan forward via sensible consequentialist actions, like taking a chemistry class.
 
