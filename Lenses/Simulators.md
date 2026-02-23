@@ -1,6 +1,8 @@
 ---
-id: c88cfac7-1fe2-4a14-b20b-7903a28daa8d
+id: 
+tags
 ---
+
 ### Article: Simulators
 source:: [[../articles/janus-simulators|janus-simulators]]
 
