@@ -1,7 +1,8 @@
 ---
 id:
 tags
-  - work-
+  - work-in-progress
+  - lens
 ---
 
 ### Article: `article title`
