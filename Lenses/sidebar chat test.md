@@ -5,7 +5,7 @@ tags:
   - work-in-progress
 ---
 ### Article
-source:: []
+source:: [[../articles/wikipedia-existential-risk-from-ai]]
 
 #### Text
 content::
