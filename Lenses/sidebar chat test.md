@@ -21,15 +21,13 @@ This is not the behavior of people who are carefully creating traditional softwa
 
 Engineers aren’t about to start understanding AIs, not anytime soon. In the mid-1950s, humanity embarked on a great project to understand intelligence well enough to produce it inside of a machine. That research progress stalled out in a series of “AI winters,” where money invested into AI research never paid off and funding repeatedly collapsed. Humanity never learned to understand intelligence; we never learned to build minds by hand.
 
-The way humanity finally got to the level of ChatGPT was not by comprehending intelligence well enough to craft an intelligent mind. Instead, computers became powerful enough that AIs can be churned out by gradient descent, without any human needing to understand the cognitions that grow inside. The experts who have publicly pointed out the lack of understanding in the field include leaders of three top AI labs. In an interview with Nicholas Thompson, the CEO of The Atlantic, Sam Altman said last year, “We certainly have not solved interpretability,” referring to the ability to understand how AI makes its decisions. Earlier this year, Anthropic’s Dario Amodei wrote in a blog post, “People outside the field are often surprised and alarmed to learn that we do not understand how our own AI creations work,” and Google DeepMind’s Demis Hassabis said in a panel conversation, “We don't fully understand” the technology.
-
-This all adds up to a worrying picture, where companies are racing to build a kind of AI that would be very dangerous. How could machines possibly do something other than what we ask? Why would they wind up with drives of their own that we didn’t put there on purpose? Because nobody puts much of anything into AIs on purpose in the first place. AIs aren’t like traditional software, where every piece was put there by some programmer who knows precisely what it means. All sorts of weird drives and behaviors get trained into them, for reasons nobody entirely understands. They can and do act in ways other than their creators intended, and we’re already seeing the warning signs.`
-
 #### Article-excerpt
 to:: architecture.<sup>[[27]](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence#cite_note-28)</sup>
 
 #### Text:
 content:: before 
+
+
 #### Chat
 instructions:: hello
 
