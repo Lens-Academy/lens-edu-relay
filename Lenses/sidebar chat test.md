@@ -27,8 +27,7 @@ Engineers aren’t about to start understanding AIs, not anytime soon. In the mi
 to:: architecture.<sup>[[27]](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence#cite_note-28)</sup>
 
 #### Text:
-content:: Before we try to do something, this seem sto be working fine
-and now has the problem reappeared?
+content:: Before you continue, please chat with the tutor for a bit:
 
 #### Chat
 instructions:: hello
