@@ -34,8 +34,7 @@ This all adds up to a worrying picture, where companies are racing to build a ki
 #### Question
 feedback:: true
 user-instruction:: In your own words, explain what AI safety is and why it matters. (with m ax char 500)
-assessment-prompt:: Evaluate whether the student demonstrates understanding of existential
-risk, alignment problem, and why AI safety research is important.
+assessment-prompt:: Evaluate whether the student demonstrates understanding of existential risk, alignment problem, and why AI safety research is important.
 max-chars:: 500
 
 #### Question
