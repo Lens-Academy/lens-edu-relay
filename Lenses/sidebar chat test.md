@@ -28,7 +28,7 @@ to:: architecture.<sup>[[27]](https://en.wikipedia.org/wiki/Existential_risk_fro
 
 #### Text:
 content:: Before we try to do something, this seem sto be working fine
-and now has the problem re
+and now has the problem reappeared?
 
 #### Chat
 instructions:: hello
