@@ -69,13 +69,6 @@ But even people who know the tricks canâ€™t use them to make AIs behave as theyâ
 
 This is not the behavior of people who are carefully creating traditional software. This is the behavior of people who are growing a whole new sort of creature and then taking whatever they get.
 
-#### Article-excerpt
-from:: ## Potential AI capabilities
-to:: <sup>[[69]](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence#cite_note-70)</sup>
-
-
-#### Text:
-content::
 Chat a bit more
 
 #### Chat
