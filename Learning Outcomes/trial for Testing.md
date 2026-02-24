@@ -22,8 +22,8 @@ max-chars:: 500
 
 #### Question
 feedback:: true
-user-instruction:: In your own words, explain what AI safety is and why it matters. (with enforce voice)
-assessment-prompt:: Evaluate whether the student demonstrates understanding of existential risk, alignment problem, and why AI safety research is important.
+content:: In your own words, explain what AI safety is and why it matters. (with enforce voice)
+assessment-instructions:: Evaluate whether the student demonstrates understanding of existential risk, alignment problem, and why AI safety research is important.
 enforce-voice:: true
 
 
