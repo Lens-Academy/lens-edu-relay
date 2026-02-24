@@ -7,7 +7,7 @@ tags:
 
 
 ### Article
-source:: [[articles]]
+source:: [[../articles/karnofsky-most-important-century]]
 
 #### Text
 content::
