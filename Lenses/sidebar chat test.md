@@ -1,9 +1,3 @@
----
-id: a86e3069-4757-4037-963a-631c2faad280
-tags:
-  - lens
-  - work-in-progress
----
 
 ### Article
 source:: [[../articles/wikipedia-existential-risk-from-ai]]
@@ -26,7 +20,7 @@ Engineers aren’t about to start understanding AIs, not anytime soon. In the mi
 to:: architecture.<sup>[[27]](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence#cite_note-28)</sup>
 
 #### Text:
-content:: before we try to 
+content:: Before we try to do something, 
 
 
 #### Chat
