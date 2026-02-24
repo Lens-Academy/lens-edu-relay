@@ -28,6 +28,8 @@ This all adds up to a worrying picture, where companies are racing to build a ki
 #### Article-excerpt
 to:: architecture.<sup>[[27]](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence#cite_note-28)</sup>
 
+#### Text:
+content::
 #### Chat
 instructions:: hello
 
