@@ -7,7 +7,7 @@ tags:
 
 
 ### Article
-source:: [[../articles/wikipedia-existential-risk-from-ai]]
+source:: [[articles]]
 
 #### Text
 content::
