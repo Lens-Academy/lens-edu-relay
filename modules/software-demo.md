@@ -34,7 +34,7 @@ source::
 [[../Learning Outcomes/trial for Testing|trial for Testing]]
 
 # Learning Outcome:
-source:: ![[../Learning Outcomes/Demo LO]]
+source:: [[../Learning Outcomes/Demo LO]]
 
 # Uncategorized:
 
