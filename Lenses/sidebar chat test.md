@@ -69,6 +69,11 @@ But even people who know the tricks can’t use them to make AIs behave as they�
 
 This is not the behavior of people who are carefully creating traditional software. This is the behavior of people who are growing a whole new sort of creature and then taking whatever they get.
 
+#### Article
+
+#### Text:
+content::
+
 Engineers aren’t about to start understanding AIs, not anytime soon. In the mid-1950s, humanity embarked on a great project to understand intelligence well enough to produce it inside of a machine. That research progress stalled out in a series of “AI winters,” where money invested into AI research never paid off and funding repeatedly collapsed. Humanity never learned to understand intelligence; we never learned to build minds by hand.
 
 The way humanity finally got to the level of ChatGPT was not by comprehending intelligence well enough to craft an intelligent mind. Instead, computers became powerful enough that AIs can be churned out by gradient descent, without any human needing to understand the cognitions that grow inside. The experts who have publicly pointed out the lack of understanding in the field include leaders of three top AI labs. In an interview with Nicholas Thompson, the CEO of The Atlantic, Sam Altman said last year, “We certainly have not solved interpretability,” referring to the ability to understand how AI makes its decisions. Earlier this year, Anthropic’s Dario Amodei wrote in a blog post, “People outside the field are often surprised and alarmed to learn that we do not understand how our own AI creations work,” and Google DeepMind’s Demis Hassabis said in a panel conversation, “We don't fully understand” the technology.
