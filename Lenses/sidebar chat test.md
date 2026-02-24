@@ -26,7 +26,7 @@ Engineers aren’t about to start understanding AIs, not anytime soon. In the mi
 to:: architecture.<sup>[[27]](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence#cite_note-28)</sup>
 
 #### Text:
-content:: before 
+content:: before we try to 
 
 
 #### Chat
@@ -54,7 +54,8 @@ This all adds up to a worrying picture, where companies are racing to build a ki
 #### Chat: Discussion on X-Risk
 instructions::
 Hello
-dddd
+
+
 #### Text:
 content::
 The relationship that biologists have with DNA is pretty much the relationship that AI engineers have with the numbers inside an AI. Indeed, biologists know far more about how DNA turns into biochemistry and adult traits than engineers understand about how the numbers inside an AI yield cogent conversation and useful behavior. Biologists have been at the job for decades longer.
