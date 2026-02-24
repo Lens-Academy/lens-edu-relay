@@ -69,7 +69,8 @@ But even people who know the tricks canâ€™t use them to make AIs behave as theyâ
 
 This is not the behavior of people who are carefully creating traditional software. This is the behavior of people who are growing a whole new sort of creature and then taking whatever they get.
 
-#### Article
+#### Article-excerpt
+from:: 
 
 #### Text:
 content::
