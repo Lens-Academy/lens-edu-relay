@@ -24,6 +24,7 @@ hello again
 # Learning Outcome:
 source::
 [[../Learning Outcomes/trial for Testing|trial for Testing]]
+
 # Learning Outcome:
 source:: ![[../Learning Outcomes/Demo LO]]
 
@@ -31,7 +32,7 @@ source:: ![[../Learning Outcomes/Demo LO]]
 
 ## Lens:
 source::
-[[../Lenses/Trial for text box]]
+[[../Lenses/Trial for question box]]
 
 ## Lens:
 source::

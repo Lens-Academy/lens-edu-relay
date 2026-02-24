@@ -55,9 +55,9 @@ source:: [[../Learning Outcomes/Explain how agency can emerge from advanced pred
 
 # Learning Outcome:
 optional:: false
-source:: [[../Learning Outcomes/Explain why misalignment and catastrophe are the default outcomes]]
+source:: [[../Learning Outcomes/Explain why default outcome is bad]]
 
 # Learning Outcome:
 optional:: false
-source:: [[../Learning Outcomes/Explain the Moloch concept]]
+source:: [[../Learning Outcomes/Explain a coordination failure driven by multipolar incentives]]
 

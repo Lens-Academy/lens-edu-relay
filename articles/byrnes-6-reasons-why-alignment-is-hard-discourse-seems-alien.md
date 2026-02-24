@@ -27,7 +27,7 @@ Finally, with that background, I’ll go through six more specific areas where �
 - 5\. The human intuition that societal norms and institutions are mostly stably self-enforcing
 - 6\. The human intuition that treating other humans as a resource to be callously manipulated and exploited, just like a car engine or any other complex mechanism in their environment, is a weird anomaly rather than the obvious default
 
-# 0\. Background
+# 0. Background
 
 ## 0.1 Human social instincts and “Approval Reward”
 
@@ -69,7 +69,7 @@ Who’s right? Beats me. It’s out-of-scope for this post, and anyway I persona
 
 This idea will come up over and over as we proceed, so I’ll address it up front:
 
-![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/d4HNRdw6z7Xqbnu5E/hbsei9bioe5m3pfqboku)
+![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/d4HNRdw6z7Xqbnu5E/drcvpvcyr4gred95wdl4)
 
 When we compare “normal” motivations (a) with Approval Reward (b), the primary relation of object-level desires versus self-reflective meta-level desires (red arrows) is flipped. On the (a) side, we expect things like [reflective consistency](https://www.lesswrong.com/w/consequentialist-preferences-are-reflectively-stable-by) and goal-stabilization (cf. [instrumental convergence](https://www.lesswrong.com/w/instrumental-convergence)). On the (b) side, we don’t (necessarily); instead we may encounter radical goal-changes upon reflection and self-modification, along with a broader willingness for goals to change.
 
@@ -96,7 +96,7 @@ Any of these three pathways can lead to a meta-preference wherein “me wanting 
 
 …OK, finally, let’s jump into those “6 reasons” that I promised in the title!
 
-# 1\. The human intuition that it’s normal and good for one’s goals & values to change over the years
+# 1. The human intuition that it’s normal and good for one’s goals & values to change over the years
 
 In human experience, it is totally normal and good for desires to change over time. Not always, but often. Hence [emotive conjugations](https://en.wikipedia.org/wiki/Emotive_conjugation) like
 
@@ -116,7 +116,7 @@ By contrast, in humans, self-reflective preferences mostly come from Approval Re
 
 This pathway does not generate any particular force for desire preservation.<sup><span><span></span><a href="https://www.lesswrong.com/posts/d4HNRdw6z7Xqbnu5E/#fna9nn1dnpgxq" class="">[7]</a></span></sup> If our friends and idols would be impressed by desires that change over time, then that’s generally what we want for ourselves as well.
 
-# 2\. The human intuition that ego-syntonic “desires” come from a fundamentally different place than “urges”
+# 2. The human intuition that ego-syntonic “desires” come from a fundamentally different place than “urges”
 
 In human experience, it is totally normal and expected to want X (e.g. candy), but not *want to* want X. Likewise, it is totally normal and expected to dislike X (e.g. homework), but want to like it.
 
@@ -136,7 +136,7 @@ By contrast, I happen to expect AGIs, by default (in the absence of Approval Rew
 
 (To be clear, reflection in Approval-Reward-free AGIs might still have [“complications”](https://www.lesswrong.com/posts/rQDCQxuCRrrN4ujAe/jeremy-gillen-s-shortform?commentId=vYdtN3nHEtJfgjSSB) of other sorts, such as [ontological crises](https://www.lesswrong.com/w/ontological-crisis).)
 
-# 3\. The human intuition that helpfulness, deference, and corrigibility are natural
+# 3. The human intuition that helpfulness, deference, and corrigibility are natural
 
 This human intuition comes straight from Approval Reward, which is absolutely central in human intuitions, and leads to us caring about whether others would approve of our actions (even if they’re not watching), taking pride in our virtues, and various other things that distinguish neurotypical people from sociopaths.
 
@@ -146,11 +146,11 @@ He’s right: normal people would definitely say that, and our human Approval Re
 
 On the other hand, if Approval Reward is *not* part of AGI / ASI, then we’re instead in the “corrigibility is anti-natural” school of thought in AI alignment. As an example of that school of thought, see [Why Corrigibility is Hard and Important](https://www.lesswrong.com/posts/ksfjZJu3BFEfM6hHE/why-corrigibility-is-hard-and-important-i-e-whence-the-high).
 
-# 4\. The human intuition that unorthodox consequentialist planning is rare and sus
+# 4. The human intuition that unorthodox consequentialist planning is rare and sus
 
 Obviously, humans can make long-term plans to accomplish distant goals—for example, an 18-year-old could plan to become a doctor in 15 years, and immediately move this plan forward via sensible consequentialist actions, like taking a chemistry class.
 
-![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/d4HNRdw6z7Xqbnu5E/z045iejih63jto7qeoxk)
+![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/d4HNRdw6z7Xqbnu5E/wc63g8z7cdmg8aw4osq0)
 
 Even if a young child wants to grow up to become a doctor, they can and will take appropriate goal-oriented actions to advance this long-term plan, such as practicing surgical techniques (left) and watching training videos (right).
 
@@ -172,7 +172,7 @@ That’s all in the human world. Meanwhile in AI, the alignment-is-hard thinkers
 
 …Well, different from most humans. Sociopaths can be a bit more like that (in certain ways). Ditto people who are unusually [“agentic”](https://usefulfictions.substack.com/p/how-to-be-more-agentic). And by the way, how do you help a person become “agentic”? You guessed it: a key ingredient is calling out “being agentic” as a meta-level behavioral pattern, and indicating to this person that following this meta-level pattern will get social approval! (Or at least, that it won’t get social disapproval.)
 
-# 5\. The human intuition that societal norms and institutions are mostly stably self-enforcing
+# 5. The human intuition that societal norms and institutions are mostly stably self-enforcing
 
 ## 5.1 Detour into “Security-Mindset Institution Design”
 
@@ -184,7 +184,7 @@ If you extend this “Security Mindset Institution Design” attitude to an actu
 
 …That’s just one tiny microcosm of a universal issue. Who has physical access to weapons? Why don’t those people collude to set their own taxes to zero and to raise everyone else’s? Who sets government policy, and what if those people collude against everyone else? Or even if they don’t collude, are they vulnerable to blackmail? Who counts the votes, and will they join together and start soliciting bribes? Who coded the website to collect taxes, and why do we trust them not to steal tons of money and run off to Dubai?
 
-![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/d4HNRdw6z7Xqbnu5E/e2szvgoqn0kdrppjetwz)
+![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/d4HNRdw6z7Xqbnu5E/dvwuzggwqqqfjdlhunfl)
 
 [Source](https://en.wikipedia.org/wiki/Homer_the_Vigilante)
 
@@ -216,11 +216,11 @@ In that world, we really shouldn’t be using the word “norm” at all—it’
 
 The flip side, of course, is that if we figure out how to ensure that almost all AGIs *are* intrinsically motivated to follow and enforce norms, then it’s the pessimists who are invoking a misleading mental image if they lean on §5.1 intuitions.
 
-# 6\. The human intuition that treating other humans as a resource to be callously manipulated and exploited, just like a car engine or any other complex mechanism in their environment, is a weird anomaly rather than the obvious default
+# 6. The human intuition that treating other humans as a resource to be callously manipulated and exploited, just like a car engine or any other complex mechanism in their environment, is a weird anomaly rather than the obvious default
 
 Click over to [Foom & Doom §2.3.4—“The naturalness of egregious scheming: some intuitions”](https://www.lesswrong.com/posts/bnnKGSCHJghAvqPjS/foom-and-doom-2-technical-alignment-is-hard#2_3_4_The_naturalness_of_egregious_scheming__some_intuitions) to read this part.
 
-# 7\. Conclusion
+# 7. Conclusion
 
 (Homework: can you think of more examples?)
 
