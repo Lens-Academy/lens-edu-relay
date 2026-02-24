@@ -9,7 +9,7 @@ tags:
 
 ## Lens:
 source::
-[[../Lenses/sidebar test 1 article segment|sidebar test 1 article segment]]
+[[../Lenses/sidebar chat test 1 article segment|sidebar chat test 1 article segment]]
 
 ## Lens:
 source::
