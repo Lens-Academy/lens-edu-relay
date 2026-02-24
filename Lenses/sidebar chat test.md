@@ -4,8 +4,7 @@ tags:
   - lens
   - work-in-progress
 ---
-### Article: `article title`
-source:: [[]]
+### Page
 
 #### Text
 content::
