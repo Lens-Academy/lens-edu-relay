@@ -5,7 +5,7 @@ tags:
   - work-in-progress
 ---
 ### Article
-source:: [[../articles/coming-soon]]
+source:: []
 
 #### Text
 content::
