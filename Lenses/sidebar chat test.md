@@ -43,18 +43,11 @@ Engineers aren’t about to start understanding AIs, not anytime soon. In the mi
 
 The way humanity finally got to the level of ChatGPT was not by comprehending intelligence well enough to craft an intelligent mind. Instead, computers became powerful enough that AIs can be churned out by gradient descent, without any human needing to understand the cognitions that grow inside. The experts who have publicly pointed out the lack of understanding in the field include leaders of three top AI labs. In an interview with Nicholas Thompson, the CEO of The Atlantic, Sam Altman said last year, “We certainly have not solved interpretability,” referring to the ability to understand how AI makes its decisions. Earlier this year, Anthropic’s Dario Amodei wrote in a blog post, “People outside the field are often surprised and alarmed to learn that we do not understand how our own AI creations work,” and Google DeepMind’s Demis Hassabis said in a panel conversation, “We don't fully understand” the technology.
 
-This all adds up to a worrying picture, where companies are racing to build a kind of AI that would be very dangerous. How could machines possibly do something other than what we ask? Why would they wind up with drives of their own that we didn’t put there on purpose? Because nobody puts much of anything into AIs on purpose in the first place. AIs aren’t like traditional software, where every piece was put there by some programmer who knows precisely what it means. All sorts of weird drives and behaviors get trained into them, for reasons nobody entirely understands. They can and do act in ways other than their creators intended, and we’re already seeing the warning signs.`
+This all adds up to a worrying picture, where companies are racing to build a kind of AI that would be very dangerous. How could machines possibly do something other than what we ask? Why would they wind up with drives of their own that we didn’t put there on purpose? Because nobody puts much of anything into AIs on purpose in the first place. AIs aren’t like traditional software, where every piece was put there by some programmer who knows precisely what it means. All sorts of weird drives and behaviors get trained into them, for reasons nobody entirely understands. They can and do act in ways other than their creators intended, and we’re already seeing the warning signs.
+
+
 #### Chat: Discussion on X-Risk
 instructions::
-TLDR of what the user just read:
-`<TLDR text (optional, the bot can see all the text on the page)>`
+Hello
 
-Discussion topics to explore:
-- `<Discussion point 1>`
-- `<Discussion point 2>`
-- `<Discussion point 3>`
-- `<Discussion point 4>`
-
-Ask what they found surprising or new. Check if they can explain `<key concept>` in their own words—it's a key concept.
-
-The user just answered the question: `<tell the chatbot what prompt the user is responding to>`
+`
