@@ -4,6 +4,7 @@ tags:
   - lens
   - work-in-progress
 ---
+
 ### Article
 source:: [[../articles/wikipedia-existential-risk-from-ai]]
 
@@ -53,7 +54,7 @@ This all adds up to a worrying picture, where companies are racing to build a ki
 #### Chat: Discussion on X-Risk
 instructions::
 Hello
-
+dddd
 #### Text:
 content::
 The relationship that biologists have with DNA is pretty much the relationship that AI engineers have with the numbers inside an AI. Indeed, biologists know far more about how DNA turns into biochemistry and adult traits than engineers understand about how the numbers inside an AI yield cogent conversation and useful behavior. Biologists have been at the job for decades longer.
