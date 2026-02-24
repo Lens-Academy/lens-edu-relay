@@ -33,8 +33,8 @@ The way humanity finally got to the level of ChatGPT was not by comprehending in
 This all adds up to a worrying picture, where companies are racing to build a kind of AI that would be very dangerous. How could machines possibly do something other than what we ask? Why would they wind up with drives of their own that we didn’t put there on purpose? Because nobody puts much of anything into AIs on purpose in the first place. AIs aren’t like traditional software, where every piece was put there by some programmer who knows precisely what it means. All sorts of weird drives and behaviors get trained into them, for reasons nobody entirely understands. They can and do act in ways other than their creators intended, and we’re already seeing the warning signs.
 #### Question
 feedback:: true
-content:: In your own words, explain what AI safety is and why it matters. (with m ax char 500)
-assessment-inst:: Evaluate whether the student demonstrates understanding of existential risk, alignment problem, and why AI safety research is important.
+content:: In your own words, explain what AI safety is and why it matters. (with max char 500)
+assessment-instructions:: Evaluate whether the student demonstrates understanding of existential risk, alignment problem, and why AI safety research is important.
 max-chars:: 500
 
 #### Question
