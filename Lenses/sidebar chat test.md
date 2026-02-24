@@ -79,7 +79,8 @@ content::
 Chat a bit more
 
 #### Chat
-instruction
+instructions::
+hello
 
 #### Text:
 content::
