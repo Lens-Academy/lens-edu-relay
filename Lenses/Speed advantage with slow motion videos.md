@@ -16,18 +16,8 @@ to:: "when slowed down by only around 100x:"
 
 #### Text
 content:: 
- https://www.youtube.com/watch?v=N0F3OyuP9LA
+https://www.youtube.com/watch?v=N0F3OyuP9LA
 
-#### Video-excerpt
-from:: 0:00
-to:: 2:07
-
-#### Text
-content:: 
- . 
-
-### Article: Slow motion videos as AI risk intuition pumps
-source:: [[../articles/slow-motion-videos-as-ai-risk-intuition-pumps]]
 #### Article-excerpt
 from:: "Now, when you try"
 to:: "wildlife or insects."
