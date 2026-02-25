@@ -4,17 +4,6 @@ author: Tim Urban
 date: 2015-01-22
 source_url: https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html
 ---
-
-_We are on the edge of change comparable to the rise of human life on Earth._ - Vernor Vinge
-
-What does it feel like to stand here?
-
-[![Image 1: Edge1](https://waitbutwhy.com/wp-content/uploads/2015/01/Edge1.png)](https://waitbutwhy.com/wp-content/uploads/2015/01/Edge1.png)
-
-It seems like a pretty intense place to be standing—but then you have to remember something about what it's like to stand on a time graph: you can't see what's to your right. So here's how it actually feels to stand there:
-
-[![Image 2: Edge](https://waitbutwhy.com/wp-content/uploads/2015/01/Edge.jpg)](https://waitbutwhy.com/wp-content/uploads/2015/01/Edge.jpg)
-
 Which probably feels pretty normal…
 
 ## The Far Future—Coming Soon
