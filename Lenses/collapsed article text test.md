@@ -4,7 +4,7 @@ tags:
   - lens
   - work-in-progress
 ---
-### Article: `article title`
+### Article: Collapsed Test
 source:: [[../articles/tim-urban-artificial-intelligence-revolution-edited]]
 
 #### Text
