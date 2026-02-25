@@ -33,6 +33,9 @@ hello again
 source::
 [[../Learning Outcomes/trial for Testing|trial for Testing]]
 # Uncategorized:
+## Lens:
+source::
+[[]]
 
 ## Lens:
 source::
