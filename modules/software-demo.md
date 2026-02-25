@@ -35,7 +35,7 @@ source::
 # Uncategorized:
 ## Lens:
 source::
-[[annot]]
+[[../Lenses/collapsed article text test]]
 
 ## Lens:
 source::
