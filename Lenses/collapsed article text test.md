@@ -5,7 +5,7 @@ tags:
   - work-in-progress
 ---
 ### Article: `article title`
-source:: [[]]
+source:: [[edited]]
 
 #### Text
 content::
