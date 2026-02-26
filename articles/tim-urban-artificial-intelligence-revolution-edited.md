@@ -3,6 +3,8 @@ title: "The AI Revolution: The Road to Superintelligence"
 author: Tim Urban
 date: 2015-01-22
 source_url: https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html
+tags:
+  - work-in-progress
 ---
 Which probably feels pretty normal…
 
