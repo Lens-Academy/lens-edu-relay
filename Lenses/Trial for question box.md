@@ -10,6 +10,10 @@ tags:
 content::
 We'll be asking you some questions about X
 
+#### Text
+content::
+The relationship that biologists have with DNA is pretty much the relationship that AI engineers have with the numbers inside an AI. Indeed, biologists know far more about how DNA turns into biochemistry and adult traits than engineers understand about how the numbers inside an AI yield cogent conversation and useful behavior. Biologists have been at the job for decades longer.
+
 #### Question
 feedback:: true
 content:: In your own words, explain what AI safety is and why it matters. Hello.
