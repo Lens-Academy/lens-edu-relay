@@ -7,7 +7,7 @@ tags:
 ---
 ### Article: `article title`
 source:: [[]]
- https://www.uuidgenerator.net/version4
+
 #### Text
 content::
 `<introductory text>`
