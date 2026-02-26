@@ -12,7 +12,7 @@ content::
 We'll try out some roleplay
 
 #### Roleplay
-id:: 313958db-3b65-438f-9725-d9b483977284
+id:: 35c0489c-66da-4b28-96a4-d5097bfcff79
 content:: You are meeting a tech CEO skeptical about AI safety regulations. Your goal is to convince them that some oversight is needed.
 ai-instructions:: You are Jordan Chen, CEO of a fast-growing AI startup. You believe regulation is unnecessary and will slow innovation. Be dismissive but not hostile. Push back on arguments but remain professional.
 opening-message:: Good morning! I have about 5 minutes before my next meeting. I hear you wanted to talk about AI regulation?
