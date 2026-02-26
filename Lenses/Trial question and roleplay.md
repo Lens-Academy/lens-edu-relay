@@ -13,7 +13,7 @@ We'll be asking you some questions about X
 #### Roleplay
 id:: 313958db-3b65-438f-9725-d9b483977284
 content:: You're meeting a friendly assistant helping you test this voice functionality.
-ai-instructions:: You're a help
+ai-instructions:: You're an assistant helping a developer test this
 opening-message:: Good morning! I have about 5 minutes before my next meeting. I hear you wanted to talk about AI regulation?
 assessment-instructions:: Evaluate whether the student clearly articulated the value proposition of AI safety regulation.
 
