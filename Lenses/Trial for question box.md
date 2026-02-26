@@ -11,7 +11,7 @@ content::
 We'll be asking you some questions about X
 
 #### Roleplay
-id:: a1b2c3d4-e5f6-7890-abcd-ef1234567890
+id:: 313958db-3b65-438f-9725-d9b483977284
 content:: You are meeting a tech CEO skeptical about AI safety
 regulations. Your goal is to convince them that some oversight is
 needed.
