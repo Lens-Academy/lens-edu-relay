@@ -17,7 +17,6 @@ ai-instructions:: You are Jordan Chen, CEO of a fast-growing AI startup. You bel
 opening-message:: Good morning! I have about 5 minutes before my next meeting. I hear you wanted to talk about AI regulation?
 assessment-instructions:: Evaluate whether the student clearly articulated the value proposition of AI safety regulation.
 
-
 #### Text
 content::
 The relationship that biologists have with DNA is pretty much the relationship that AI engineers have with the numbers inside an AI. Indeed, biologists know far more about how DNA turns into biochemistry and adult traits than engineers understand about how the numbers inside an AI yield cogent conversation and useful behavior. Biologists have been at the job for decades longer.
