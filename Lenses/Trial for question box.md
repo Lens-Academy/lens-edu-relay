@@ -10,6 +10,21 @@ tags:
 content::
 We'll be asking you some questions about X
 
+#### Roleplay
+id:: a1b2c3d4-e5f6-7890-abcd-ef1234567890
+content:: You are meeting a tech CEO skeptical about AI safety
+regulations. Your goal is to convince them that some oversight is
+needed.
+ai-instructions:: You are Jordan Chen, CEO of a fast-growing AI
+startup. You believe regulation is unnecessary and will slow
+innovation. Be dismissive but not hostile. Push back on arguments but
+remain professional.
+opening-message:: Good morning! I have about 5 minutes before my next
+meeting. I hear you wanted to talk about AI regulation?
+assessment-instructions:: Evaluate whether the student clearly
+articulated the value proposition of AI safety regulation.
+
+
 #### Text
 content::
 The relationship that biologists have with DNA is pretty much the relationship that AI engineers have with the numbers inside an AI. Indeed, biologists know far more about how DNA turns into biochemistry and adult traits than engineers understand about how the numbers inside an AI yield cogent conversation and useful behavior. Biologists have been at the job for decades longer.
