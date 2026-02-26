@@ -39,7 +39,7 @@ source::
 
 ## Lens:
 source::
-[[../Lenses/Trial for question box]]
+[[../Lenses/Trial question and roleplay]]
 
 ## Lens:
 source::
