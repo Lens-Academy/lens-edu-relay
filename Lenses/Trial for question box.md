@@ -19,10 +19,8 @@ ai-instructions:: You are Jordan Chen, CEO of a fast-growing AI
 startup. You believe regulation is unnecessary and will slow
 innovation. Be dismissive but not hostile. Push back on arguments but
 remain professional.
-opening-message:: Good morning! I have about 5 minutes before my next
-meeting. I hear you wanted to talk about AI regulation?
-assessment-instructions:: Evaluate whether the student clearly
-articulated the value proposition of AI safety regulation.
+opening-message:: Good morning! I have about 5 minutes before my next meeting. I hear you wanted to talk about AI regulation?
+assessment-instructions:: Evaluate whether the student clearlyarticulated the value proposition of AI safety regulation.
 
 
 #### Text
