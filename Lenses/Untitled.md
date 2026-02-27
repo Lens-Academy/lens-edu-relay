@@ -1,5 +1,5 @@
 ---
-id: 6a8d7401-4177-4cb6-8ec8-ff7f6e52c230
+id: 2d930d96-1658-4143-b29c-52e3b9259396
 tags:
   - lens
   - work-in-progress
@@ -10,18 +10,21 @@ source:: [[]]
 
 #### Text
 content::
-`<introductory text>`
+This module examines methods for the safe operation of systems that we cannot yet fully align with human values.
+
+AI Control is a safety strategy that focuses on safely using potentially dangerous or misaligned AI models through rigorous monitoring and containment. It assumes that we may not be able to perfectly align a model’s internal goals with human values. Instead of trying to make the model want to be good, control seeks to build a system of safeguards that make it unable to do harm.
+
 
 #### Article-excerpt
 to:: "`<an exact quote from the article where the exerpt should stop>`"
 
 #### Text
 content::
-`<prompt the user on how they should interact with the chatbot>`
+How does learning how to secure an AI potentially may assist that same AI in discovering escape routes?
 #### Chat: Discussion on X-Risk
 instructions::
 The user is answering this question:
-If AI can help us write code or solve math problems, what is stopping it from solving the alignment problem for us? Analyze the challenges of using AI for coding and R&D, then extend the analysis to AI safety research.
+How does learning how to secure an AI potentially assist that same AI in discovering escape routes?
 
 Response length requirement:
 - Keep responses short: aim for 120–200 words.
@@ -45,3 +48,4 @@ What you must do in each reply:
 
 Safety and integrity:
 - If the participant makes a strong claim, ask what assumptions it relies on and how it could be tested.
+`
