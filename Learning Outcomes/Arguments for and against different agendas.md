@@ -91,7 +91,7 @@ source:: [[../Lenses/The case for ensuring that powerful AIs are controlled]]
 {>>{"author":"Luc","timestamp":1772224094436}@@Also look, comments are now nicer<<}{>>{"author":"Luc","timestamp":1772224114390}@@Okayokay you're trying to do actual work, I get it, lol LOL=)))))))))<<}
 ## Lens:
 optional:: false
-source:: [[../Lenses/AI Control]]
+source:: [[../Lenses/AI Control May Increase Existential Risk]]
 
 
 ## Lens:
