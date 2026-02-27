@@ -5,8 +5,7 @@ tags:
   - work-in-progress
   - validator-ignore
 ---
-### Article: `article title`
-source:: [[]]
+##
 
 #### Text
 content::
