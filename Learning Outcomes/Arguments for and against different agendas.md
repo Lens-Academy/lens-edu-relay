@@ -1,5 +1,5 @@
 ---
-id: <uuid, generate at https://www.uuidgenerator.net/version4>
+id: 8e68a23d-c881-4491-a94a-4c44e0223c5f
 discussion: https://discordapp.com/channels/1440725236843806762/1470760399438614538
 learning-outcome: Meta\personal level LO: Explain the pre-paradigmatic nature of AI Safety, identifying why there is a lack of consensus on research priorities and how "agendas" serve as temporary strategic roadmaps.
 Cross-curricular level LO: Analyze the "Theory of Change" behind major research directions, articulating the underlying assumptions and intended success criteria for each.
