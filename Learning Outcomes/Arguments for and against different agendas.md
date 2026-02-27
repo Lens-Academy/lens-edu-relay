@@ -10,24 +10,4 @@ tags:
 optional:: false
 source:: [[../Lenses/Automating Alignment]]
 
-## Lens:
-optional:: false
-source:: [[../Lenses/AF not really math not really science]] 
-
-## Lens:
-optional:: false
-source:: [[../Lenses/Mechanistic Interpretability]]
-
-## Lens:
-optional:: false
-source:: [[../Lenses/AI Evaluations]]
-
-## Lens:
-optional:: false
-source:: [[../Lenses/AI Control]]
-
-## Lens:
-optional:: false
-source:: [[../Lenses/Agent Foundations]]
-
 
