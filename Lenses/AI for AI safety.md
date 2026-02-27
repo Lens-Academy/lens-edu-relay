@@ -5,7 +5,7 @@ tags:
   - work-in-progress
   - validator-ignore
 ---
-### Article: `article title`
+### Article: AI for AI safety
 source:: [[]]
 
 #### Text
