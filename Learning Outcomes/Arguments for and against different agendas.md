@@ -74,6 +74,10 @@ source:: [[../Lenses/A starter guide for evals]]
 
 ## Lens:
 optional:: false
+source:: [[../Lenses/A starter guide for evals]]
+
+## Lens:
+optional:: false
 source:: [[../Lenses/AI Control]]
 
 ## Lens:
