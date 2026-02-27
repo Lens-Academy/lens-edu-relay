@@ -5,7 +5,7 @@ tags:
   - work-in-progress
 ---
 
-### Page
+### Page: AI Control
 
 #### Text
 content::
