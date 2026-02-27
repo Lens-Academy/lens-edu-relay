@@ -86,8 +86,9 @@ source:: [[../Lenses/AI Control]]
 
 ## Lens:
 optional:: false
-source:: [[../Lenses/AI Contro]]
+source:: [[../Lenses/The case for ensuring that powerful AIs are controlled]]
 
+{>>{"author":"Luc","timestamp":1772224094436}@@Also look, comments are now nicer<<}
 ## Lens:
 optional:: false
 source:: [[../Lenses/AI Control]]
