@@ -7,7 +7,8 @@ tags:
 
 ### Page: Automating Alignment
 id: 
-
+{~~no id needed because this is a ### Page within a lens
+Not a standalone # Page in a module. I know, confusing.}
 
 
 #### Text
