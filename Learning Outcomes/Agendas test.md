@@ -20,10 +20,11 @@ assessment-instructions:: Evaluate whether the student clearly articulated the v
 
 #### Text
 content::
-We'll be asking you some questions about X
+We'll be asking you some questions about 
 #### Question
 feedback:: true
 content:: List the concepts from this module that seemed most important to you. You can type your answer or record it using the microphone.
+enforce-voice:: true
 
 #### Question
 feedback:: true

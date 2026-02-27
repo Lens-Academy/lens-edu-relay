@@ -210,4 +210,4 @@ Let's stop framing interpretability as the *one true path* to reliably detecting
 
 4. I’m not sure what the best precise definition of high4. reliable is here, maybe 99.9% chance of stopping a catastrophic outcome? It’s not key to my argument.
 
-5. Obviously, [Chain of Thought can fail to reflect the model’s true reasoning](https://arxiv.org/abs/2503.08679). But I think that for tasks at the limits of its ability it likely needs to use the chain of thought for intermediate steps in the computation, creating an incentive to store key info in there. Of course, there are many ways this can fail.
+5. Obviously, [Chain of Thought can fail to reflect the model’s true reasoning](https://arxiv.org/abs/2503.08679). But I think that for tasks at the limits of its ability it likely needs to use the chain of thought for intermediate steps in the computation, creating an incentive to store key info in there. Of course, there are many ways this can fail.to store key info in there. Of course, there are many ways this can fail.
