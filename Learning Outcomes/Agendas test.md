@@ -43,10 +43,3 @@ content:: Choose one “pro” argument and one “contra” argument from the s
 assessment-instructions:: Evaluate whether the student (1) selects a matched pair (pro and contra) about the same proposal/agenda/direction, (2) steelmans both sides, avoiding strawmen and one-liners, (3) expresses each as a causal chain with the required fields: problem, mechanism, key assumptions/“what has to go right”, and failure modes, and (4) distinguishes “could fail” (mechanism breaks) from “is bad” (value judgment) where possible.
 enforce-voice:: true
 
-## Lens:
-optional:: false
-source:: [[../Lenses/Lens Template|Lens Template]]
-
-## Lens:
-optional:: true
-source:: [[../Lenses/Lens Template|Lens Template]]
