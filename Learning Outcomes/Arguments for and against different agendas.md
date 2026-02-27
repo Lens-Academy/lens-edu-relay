@@ -15,3 +15,6 @@ source:: [[../Lenses/Automating Alignment]]
 
 optional:: false
 source:: [[../Lenses/AI Control]]
+
+optional:: false
+source:: [[../Lenses/]]
