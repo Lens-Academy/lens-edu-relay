@@ -95,7 +95,7 @@ source:: [[../Lenses/AI Control May Increase Existential Risk]]
 
 ## Lens:
 optional:: false
-source:: [[../Lenses/AI Control May Increase Existential Risk]]
+source:: [[../Lenses/The Case Against AI Control Research]]
 
 ## Lens:
 optional:: false
