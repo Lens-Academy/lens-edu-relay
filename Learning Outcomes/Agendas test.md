@@ -33,7 +33,7 @@ max-chars:: 900
 
 #### Question
 feedback:: true
-content:: In your own words, explain what AI safety is and why it matters. (with enforce voice)
+content:: Choose one “pro” argument and one “contra” argument from the same direction. Reconstruct the strongest version of each as a mini theory of change: the problem it targets, the mechanism, what has to go right, and how it could fail.
 assessment-instructions:: Evaluate whether the student demonstrates understanding of existential risk, alignment problem, and why AI safety research is important.
 enforce-voice:: true
 
