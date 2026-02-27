@@ -14,6 +14,8 @@ This post argues for the AI for AI safety sweet spot. This is a period where AI 
 #### Article-excerpt
 from:: "(Audio version here (read by the author)"
 to:: "a few options in this respect, for the different security factors above."
+
+#### Article-excerpt
 from:: "2.1 A tale of two feedback loops"
 to:: "restraint enough to hold off on pushing the capability frontier when necessary)."
 
