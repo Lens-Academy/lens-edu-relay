@@ -5,7 +5,7 @@ tags:
   - work-in-progress
   - validator-ignore
 ---
-### Article: `article title`
+### Article: The case for ensuring that powerful AIs are controlled
 source:: [[]]
 
 #### Text
