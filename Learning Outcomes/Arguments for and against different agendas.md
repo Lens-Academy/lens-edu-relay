@@ -70,7 +70,7 @@ source:: [[../Lenses/AI Evaluations]]
 
 ## Lens:
 optional:: false
-source:: [[../Lenses/Introduction to Mechanistic Interpretability]]
+source:: [[../Lenses/A starter guide for evals]]
 
 ## Lens:
 optional:: false
