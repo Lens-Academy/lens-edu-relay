@@ -54,6 +54,14 @@ source:: [[../Lenses/Mechanistic Interpretability]]
 
 ## Lens:
 optional:: false
+source:: [[../Lenses/Introduction to Mechanistic Interpretability]]
+
+## Lens:
+optional:: false
+source:: [[../Lenses/Introduction to Mechanistic Interpretability]]
+
+## Lens:
+optional:: false
 source:: [[../Lenses/AI Evaluations]]
 
 ## Lens:
