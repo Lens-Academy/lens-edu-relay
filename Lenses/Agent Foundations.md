@@ -5,6 +5,9 @@ tags:
   - work-in-progress
   - validator-ignore
 ---
+
+### Page
+
 #### Text
 content::
 This module approaches safety through the lens of mathematical theory, formal logic, and the fundamental nature of agency.
