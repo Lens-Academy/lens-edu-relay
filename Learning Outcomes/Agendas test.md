@@ -34,7 +34,7 @@ max-chars:: 900
 #### Question
 feedback:: true
 content:: Choose one “pro” argument and one “contra” argument from the same direction. Reconstruct the strongest version of each as a mini theory of change: the problem it targets, the mechanism, what has to go right, and how it could fail. You can type your answer or record it using the microphone.
-assessment-instructions:: Evaluate whether the student demonstrates understanding of existential risk, alignment problem, and why AI safety research is important.
+assessment-instructions:: Evaluate whether the student (1) selects a matched pair (pro and contra) about the same proposal/agenda/direction, (2) steelmans both sides, avoiding strawmen and one-liners, (3) expresses each as a causal chain with the required fields: problem, mechanism, key assumptions/“what has to go right”, and failure modes, and (4) distinguishes “could fail” (mechanism breaks) from “is bad” (value judgment) where possible.
 enforce-voice:: true
 
 
