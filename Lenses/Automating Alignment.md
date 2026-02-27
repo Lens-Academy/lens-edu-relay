@@ -12,7 +12,7 @@ content:: **Automating alignment** is the practice of using current AI systems t
 
 *Before you start reading the arguments for and against this agenda, try to focus your thinking by answering the question below. Discuss it with your AI tutor for as long as feels comfortable, then move on to the readings*.
 #### Text
-content:: **If AI can help us write code or solve math problems, what is stopping it from solving the alignment problem for us? Analyze the challenges of using AI for coding and R&D, then extend the analysis to AI safety research.
+content:: **If AI can help us write code or solve math problems, what is stopping it from solving the alignment problem for us? Analyze the challenges of using AI for coding and R&D, then extend the analysis to AI safety research.**
 #### Chat: Discussion on X-Risk
 instructions:: The user is answering this question:
 If AI can help us write code or solve math problems, what is stopping it from solving the alignment problem for us? Analyze the challenges of using AI for coding and R&D, then extend the analysis to AI safety research.
