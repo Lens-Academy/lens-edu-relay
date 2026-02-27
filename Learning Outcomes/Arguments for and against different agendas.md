@@ -13,3 +13,6 @@ tags:
 ## Lens:
 optional:: false
 source:: [[../Lenses/Automating Alignment]]
+
+optional:: false
+source:: [[../Lenses/AI Control]]
