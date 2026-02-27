@@ -23,7 +23,7 @@ content::
 We'll be asking you some questions about X
 #### Question
 feedback:: true
-content:: List the concepts from this module that seemed most important to you.
+content:: List the concepts from this module that seemed most important to you. You can type your answer or record it using the microphone.
 
 #### Question
 feedback:: true
