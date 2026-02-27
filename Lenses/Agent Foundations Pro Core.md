@@ -5,7 +5,7 @@ tags:
   - work-in-progress
   - validator-ignore
 ---
-### Article: Agent Foundations Pro
+### Article: Agent Foundations Pro Core
 source:: [[]]
 
 #### Text
