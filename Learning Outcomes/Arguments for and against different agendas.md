@@ -14,6 +14,10 @@ source:: [[../Lenses/Automating Alignment]]
 optional:: false
 source:: [[../Lenses/AF not really math not really science]] 
 
+Lens:
+optional:: false
+source:: [[../Lenses/AF not really math not really science]] 
+
 ## Lens:
 optional:: false
 source:: [[../Lenses/AI Evaluations]]
