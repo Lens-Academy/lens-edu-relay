@@ -1,6 +1,6 @@
 ---
-id: 
-slug:
+id: e2883472-3994-43a1-88a2-b4f64f70b210
+slug: 
 title:
 discussion:
 tags:
