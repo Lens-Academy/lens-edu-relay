@@ -38,6 +38,9 @@ assessment-instructions:: Evaluate whether the student demonstrates understandin
 enforce-voice:: true
 
 
+## Lens:
+optional:: false
+source:: [[../Lenses/Lens Template|Lens Template]]
 
 ## Lens:
 optional:: false
