@@ -3,7 +3,6 @@ id: 63342128-7725-43dc-9ad3-b040f7b0e118
 tags:
   - lens
   - work-in-progress
-  - validator-ignore
 ---
 ### Video: 10 Reasons to Ignore AI Safety
 source:: [[../video_transcripts/robertmiles-10-reasons-to-ignore-ai-safety]]
