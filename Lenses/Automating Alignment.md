@@ -13,7 +13,7 @@ Automating alignment is the practice of using current AI systems to accelerate a
 
 #### Text
 content::
-`<prompt the user on how they should interact with the chatbot>`
+If AI can help us write code or solve math problems, what is stopping it from solving the alignment problem for us? Analyze the challenges of using AI for coding and R&D, then extend the analysis to AI safety research.
 #### Chat: Discussion on X-Risk
 instructions::
 TLDR of what the user just read:
