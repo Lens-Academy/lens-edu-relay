@@ -27,9 +27,9 @@ content:: List the concepts from this module that seemed most important to you.
 
 #### Question
 feedback:: true
-content:: In your own words, explain what AI safety is and why it matters. (with m ax char 500)
+content:: In your own words, explain what AI safety is and why it matters. (with m ax char 900)
 assessment-instructions:: Check that the student gives (1) “agenda” as a coherent research direction or prioritized plan of work aimed at a problem, not just a vague topic, and (2) “theory of change” as a causal story linking actions to outcomes: problem, mechanism, assumptions, and how/why it could work. Penalize circular definitions and purely motivational slogans.
-max-chars:: 500
+max-chars:: 900
 
 #### Question
 feedback:: true
