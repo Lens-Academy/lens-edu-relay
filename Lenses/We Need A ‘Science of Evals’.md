@@ -5,12 +5,9 @@ tags:
   - work-in-progress
   - validator-ignore
 ---
-### Article: `article title`
+### Article: We Need A ‘Science of Evals’ 
 source:: [[]]
 
-#### Text
-content::
-`<introductory text>`
 
 #### Article-excerpt
 to:: "`<an exact quote from the article where the exerpt should stop>`"

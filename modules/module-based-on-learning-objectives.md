@@ -7,6 +7,7 @@ tags:
   - work-in-progress
   - validator-ignore
 ---
+
 # Text Page
 content::
 We begin by examining the potential of AI and the risks and opportunities that the characteristics of this technology present to humanity.
