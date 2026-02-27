@@ -4,7 +4,7 @@ tags:
   - lens
   - work-in-progress
 ---
-### Page
+### Page: Mechanistic Interpretability
 
 #### Text
 content::
