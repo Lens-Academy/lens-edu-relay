@@ -73,8 +73,13 @@ optional:: false
 source:: [[../Lenses/A starter guide for evals]]
 
 ## Lens:
-optional:: 
+optional:: true
 source:: [[../Lenses/We Need A ‘Science of Evals’]]
+
+
+## Lens:
+optional:: false
+source:: [[../Lenses/A starter guide for evals]]
 
 ## Lens:
 optional:: false

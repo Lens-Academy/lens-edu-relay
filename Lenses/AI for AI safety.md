@@ -17,7 +17,7 @@ from:: "(Audio version here (read by the author)"
 to:: "a few options in this respect, for the different security factors above."
 
 #### Article-excerpt
-from:: "(Audio version here (read by the author)"
+from:: "2.1 A tale of two feedback loops"
 to:: "a few options in this respect, for the different security factors above."
 
 #### Text
