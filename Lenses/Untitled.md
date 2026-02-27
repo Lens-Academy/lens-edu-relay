@@ -1,16 +1,16 @@
 ---
-id: 8691b0e4-924f-4685-8f1f-6ce6c6b20205
+id: <add UUID created at https://www.uuidgenerator.net/version4 >
 tags:
   - lens
   - work-in-progress
   - validator-ignore
 ---
-### Article: Introduction to Mechanistic Interpretability
+### Article: `article title`
 source:: [[]]
 
 #### Text
 content::
-This perspective argues that safety requires a "white-box" approach. We cannot trust a model based only on its behavior. Behavior can be faked. Mechanistic interpretability aims to provide a way to verify the internal reasons for a model's output. If we could understand the circuits of a model, we would be able to detect dangerous goals before the model acts on them.
+`<introductory text>`
 
 #### Article-excerpt
 to:: "`<an exact quote from the article where the exerpt should stop>`"
