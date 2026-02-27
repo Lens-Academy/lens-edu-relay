@@ -7,7 +7,7 @@ tags:
 
 #### Text
 content::
-**Automating alignment is the practice of using current AI systems to accelerate alignment research. It is a technical strategy to keep pace with rapid capability gains. The core logic involves a recursive loop: researchers use weak AI to find safety techniques for stronger AI. This process repeats as the power of the models increases. This loop should ideally move faster than the capabilities feedback loop.
+**Automating alignment** is the practice of using current AI systems to accelerate alignment research. It is a technical strategy to keep pace with rapid capability gains. The core logic involves a recursive loop: researchers use weak AI to find safety techniques for stronger AI. This process repeats as the power of the models increases. This loop should ideally move faster than the capabilities feedback loop.
 
 #### Text
 content::
