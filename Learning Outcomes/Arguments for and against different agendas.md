@@ -42,7 +42,7 @@ source:: [[../Lenses/Automating Alignment]]
 
 ## Lens:
 optional:: false
-source:: [[../Lenses/Automating Alignment]]
+source:: [[../Lenses/]]
 
 ## Lens:
 optional:: false
