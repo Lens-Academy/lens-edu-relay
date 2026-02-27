@@ -7,8 +7,6 @@ tags:
   - work-in-progress
 ---
 
-## Test:
-
 ## Lens:
 optional:: false
 source:: [[../Lenses/AF not really math not really science]] 
