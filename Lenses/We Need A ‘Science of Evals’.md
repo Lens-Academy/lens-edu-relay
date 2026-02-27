@@ -1,13 +1,16 @@
 ---
-id: 984728b3-8b1b-49de-aea9-b48292a3d278
+id: 1d38a9a8-e883-4c5f-a726-020ff0e04839
 tags:
   - lens
   - work-in-progress
   - validator-ignore
 ---
-### Article: We Need A ‘Science of Evals’ 
+### Article: `article title`
 source:: [[]]
 
+#### Text
+content::
+`<introductory text>`
 
 #### Article-excerpt
 to:: "`<an exact quote from the article where the exerpt should stop>`"
