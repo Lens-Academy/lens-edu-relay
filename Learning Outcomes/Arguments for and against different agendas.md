@@ -1,6 +1,6 @@
 ---
 id: <uuid, generate at https://www.uuidgenerator.net/version4>
-discussion: <discord url>
+discussion: https://discordapp.com/channels/1440725236843806762/1470760399438614538
 learning-outcome:
 tags:
   - learning outcome
