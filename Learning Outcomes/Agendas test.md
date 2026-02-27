@@ -28,13 +28,13 @@ content:: List the concepts from this module that seemed most important to you.
 #### Question
 feedback:: true
 content:: In your own words, explain what AI safety is and why it matters.  (with m ax char 900)
-assessment-instructions:: Check that the student gives (1) “agenda” as a coherent research direction or prioritized plan of work aimed at a problem, not just a vague topic, and (2) “theory of change” as a causal story linking actions to outcomes: problem, mechanism, assumptions, and how/why it could work. Penalize circular definitions and purely motivational slogans.
+assessment-instructions:: Check that the student gives (1) agenda” as a coherent research direction or prioritized plan of work aimed at a problem, not just a vague topic, and (2) “theory of change” as a causal story linking actions to outcomes: problem, mechanism, assumptions, and how/why it could work. Penalize circular definitions and purely motivational slogans.
 max-chars:: 900
 
 #### Question
 feedback:: true
 content:: Choose one pro argument and one contra argument from the same direction. Reconstruct the strongest version of each as a mini theory of change: the problem it targets, the mechanism, what has to go right, and how it could fail. You can type your answer or record it using the microphone.
-assessment-instructions:: Evaluate whether the student (1) selects a matched pair (pro and contra) about the same proposal/agenda/direction, (2) steelmans both sides, avoiding strawmen and one-liners, (3) expresses each as a causal chain with the required fields: problem, mechanism, key assumptions/“what has to go right”, and failure modes, and (4) distinguishes could fail (mechanism breaks) from is bad (value judgment) where possible.
+assessment-instructions:: Evaluate whether the student (1) selects a matched pair (pro and contra) about the same proposal/agenda/direction, (2) steelmans both sides, avoiding strawmen and one-liners, (3) expresses each as a causal chain with the required fields: problem, mechanism, key assumptions/what has to go right, and failure modes, and (4) distinguishes could fail (mechanism breaks) from is bad (value judgment) where possible.
 enforce-voice:: true
 
 #### Question
