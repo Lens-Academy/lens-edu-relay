@@ -13,13 +13,10 @@ This module focuses on the empirical testing of what AI systems can do and ident
 AI Evaluations are structured knowledge about approaches and tests designed to measure the capabilities, propensities, and safety thresholds of AI models. Unlike general performance benchmarks, safety evals specifically look for dangerous capabilities. 
 
 
-
-#### Article-excerpt
-to:: "`<an exact quote from the article where the exerpt should stop>`"
-
 #### Text
 content::
-How does learning how to secure an AI potentially may assist that same AI in discovering escape routes?
+Why does high accuracy on a benchmark not guarantee that a system is safe to deploy?
+
 #### Chat: Discussion on X-Risk
 instructions::
 The user is answering this question:
