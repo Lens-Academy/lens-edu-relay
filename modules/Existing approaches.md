@@ -26,5 +26,5 @@ In this module, we will focus on 5 directions. The list is deliberately incomple
 source:: [[../Learning Outcomes/Arguments for and against different agendas]]
 
 Learning Outcome:
-source:: [[../Learning Outcomes/Arguments for and against different agendas]]
+source:: [[../Learning Outcomes/Agendas test]]
 
