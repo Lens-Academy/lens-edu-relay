@@ -33,7 +33,7 @@ max-chars:: 900
 
 #### Question
 feedback:: true
-content:: Choose one “pro” argument and one “contra” argument from the same direction. Reconstruct the strongest version of each as a mini theory of change: the problem it targets, the mechanism, what has to go right, and how it could fail.
+content:: Choose one “pro” argument and one “contra” argument from the same direction. Reconstruct the strongest version of each as a mini theory of change: the problem it targets, the mechanism, what has to go right, and how it could fail. You can type your answer or record it using the microphone.
 assessment-instructions:: Evaluate whether the student demonstrates understanding of existential risk, alignment problem, and why AI safety research is important.
 enforce-voice:: true
 
