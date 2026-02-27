@@ -21,7 +21,7 @@ What would make Agent Foundations feel “real” to you: predictive theorems, b
 #### Chat: Discussion on X-Risk
 instructions::
 The user is answering this question:
-We have full access to every parameter and activation in the model, why isn’t that enough to just read off what it believes, wants, or will do?
+What would make Agent Foundations feel “real” to you: predictive theorems, better threat models etc?
 
 Response length requirement:
 - Keep responses short: aim for 120–200 words.
