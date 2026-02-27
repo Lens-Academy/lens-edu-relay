@@ -38,7 +38,7 @@ assessment-instructions:: Evaluate whether the student demonstrates understandin
 enforce-voice:: true
 
 
-Lens:
+## Lens:
 optional:: false
 source:: [[../Lenses/Automating Alignment]]
 
