@@ -16,12 +16,14 @@ The field gained momentum through the work of Chris Olah and his teams at OpenAI
 
 #### Text
 content::
-Why does high accuracy on a benchmark not guarantee that a system is safe to deploy?
+We have full access to every parameter and activation in the model, why isn’t that enough to just read off what it believes, wants, or will do?
+
 
 #### Chat: Discussion on X-Risk
 instructions::
 The user is answering this question:
-Why does high accuracy on a benchmark not guarantee that a system is safe to deploy?
+We have full access to every parameter and activation in the model, why isn’t that enough to just read off what it believes, wants, or will do?
+
 
 Response length requirement:
 - Keep responses short: aim for 120–200 words.
