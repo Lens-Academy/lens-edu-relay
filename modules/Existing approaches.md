@@ -22,7 +22,6 @@ One influential attempt at structuring the space is the classification proposed 
 
 In this module, we will focus on 5 directions. The list is deliberately incomplete: in particular, it does not aim to cover governance in a comprehensive way. The boundaries between the directions are also not clean. They frequently overlap, borrow tools from one another, or approach the same underlying phenomena using very different conceptual languages. Sometimes it is obvious that they are talking about the same piece of reality. Sometimes it is surprisingly hard to even see the common object. Still, this decomposition is useful for a first pass, and it will give us a workable map for navigating the literature that follows.
 
-
 # Learning Outcome:
 source:: 
 
