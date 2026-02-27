@@ -5,7 +5,7 @@ tags:
   - work-in-progress
   - validator-ignore
 ---
-### Article: Agent foundations: not really math, not really science
+### Article: Embedded agents
 source:: [[]]
 
 #### Text
