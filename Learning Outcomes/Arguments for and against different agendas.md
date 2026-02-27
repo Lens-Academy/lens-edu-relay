@@ -13,7 +13,7 @@ tags:
 
 ## Lens:
 optional:: false
-source:: [[../Lenses/Au]]
+source:: [[../Lenses/Automating Alignment]]
 
 ## Lens:
 optional:: true
