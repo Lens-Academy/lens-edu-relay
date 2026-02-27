@@ -5,7 +5,7 @@ tags:
   - work-in-progress
 ---
 
-#### Page: Automating Alignment
+### Page: Automating Alignment
 id:  
 
 #### Text
