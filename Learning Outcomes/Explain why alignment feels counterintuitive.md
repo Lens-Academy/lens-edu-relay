@@ -6,12 +6,9 @@ tags:
   - work-in-progress
   - learning outcome
 ---
+
 ## Test:
 
 ## Lens:
 optional:: false
 source:: [[../Lenses/6 reasons why alignment-is-hard]]
-
-## Lens:
-optional:: true
-source:: [[../Lenses/Lens Template|Lens Template]]
