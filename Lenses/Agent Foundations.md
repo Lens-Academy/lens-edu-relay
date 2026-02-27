@@ -10,7 +10,10 @@ source:: [[]]
 
 #### Text
 content::
-`<introductory text>`
+This module approaches safety through the lens of mathematical theory, formal logic, and the fundamental nature of agency.
+
+Agent Foundations is a research direction that treats AI safety as a formal mathematical problem. It seeks to understand the fundamental nature of intelligence, agency, and goal-directed behavior. Instead of experimenting with current neural networks, researchers in this field try to build a science of agency from the ground up. They aim to find universal laws that would govern any intelligent system, regardless of its architecture.
+
 
 #### Article-excerpt
 to:: "`<an exact quote from the article where the exerpt should stop>`"
