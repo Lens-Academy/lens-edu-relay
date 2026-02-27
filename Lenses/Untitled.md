@@ -1,16 +1,16 @@
 ---
-id: 00e571e6-535c-465a-a78a-b2a3b6f5750d
+id: 984728b3-8b1b-49de-aea9-b48292a3d278
 tags:
   - lens
   - work-in-progress
   - validator-ignore
 ---
-### Article: A starter guide for eval
+### Article: `article title`
 source:: [[]]
 
 #### Text
 content::
-This perspective views evals as the most practical way to reduce uncertainty. By treating AI models as "black boxes" and testing their behavior: we can find lower bounds on their capabilities. Furthermore, our current measurement methods need serious improvement.  
+`<introductory text>`
 
 #### Article-excerpt
 to:: "`<an exact quote from the article where the exerpt should stop>`"

@@ -1,16 +1,16 @@
 ---
-id: <add UUID created at https://www.uuidgenerator.net/version4 >
+id: 00e571e6-535c-465a-a78a-b2a3b6f5750d
 tags:
   - lens
   - work-in-progress
   - validator-ignore
 ---
-### Article: `article title`
+### Article: A starter guide for eval
 source:: [[]]
 
 #### Text
 content::
-`<introductory text>`
+This perspective views evals as the most practical way to reduce uncertainty. By treating AI models as "black boxes" and testing their behavior: we can find lower bounds on their capabilities. Furthermore, our current measurement methods need serious improvement.  
 
 #### Article-excerpt
 to:: "`<an exact quote from the article where the exerpt should stop>`"

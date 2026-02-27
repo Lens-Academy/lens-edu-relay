@@ -5,6 +5,7 @@ title: Module based on learning objectives
 tags:
   - module
   - work-in-progress
+  - validator-ignore
 ---
 # Text Page
 content::
