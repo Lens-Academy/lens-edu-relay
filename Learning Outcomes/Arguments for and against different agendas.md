@@ -61,8 +61,8 @@ optional:: false
 source:: [[../Lenses/MI for AGI Safety]]
 
 ## Lens:
-optional:: false
-source:: [[../Lenses/Inte]]
+optional:: true
+source:: [[../Lenses/Interpretability Will Not Reliably Find Deceptive AI]]
 
 ## Lens:
 optional:: false
