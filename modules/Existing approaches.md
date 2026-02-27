@@ -15,7 +15,6 @@ content::
 
 
 # Learning Outcome:
-source:: [../L]
-
-# Learning Outcome:
 source:: 
+
+
