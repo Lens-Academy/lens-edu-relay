@@ -12,10 +12,6 @@ source:: [[../Lenses/Automating Alignment]]
 
 ## Lens:
 optional:: false
-source:: [[../Lenses/AF not really math not really science]] 
-
-## Lens:
-optional:: false
 source:: [[../Lenses/Mechanistic Interpretability]]
 
 ## Lens:
