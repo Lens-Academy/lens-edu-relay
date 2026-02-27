@@ -18,7 +18,7 @@ enforce-voice:: true
 
 #### Question
 feedback:: true
-content:: In your own words, explain what AI safety is and why it matters.  (with m ax char 900)
+content:: Explain each of these terms in one sentence, in your own words: agenda, theory of change.  (with max char 900)
 assessment-instructions:: Check that the student gives (1) agenda as a coherent research direction or prioritized plan of work aimed at a problem, not just a vague topic, and (2) theory of change as a causal story linking actions to outcomes: problem, mechanism, assumptions, and how/why it could work. Penalize circular definitions and purely motivational slogans.
 max-chars:: 900
 
