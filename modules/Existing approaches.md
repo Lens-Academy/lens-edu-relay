@@ -10,6 +10,7 @@ tags:
 
 # Page: Welcome
 id:: dc56fe14-2c41-4057-b112-a84c0b2ef303
+
 ## Text
 content::
 We want to open this module with the quote from the essay A newcomer’s guide to the technical AI safety field — AI Alignment Forum
