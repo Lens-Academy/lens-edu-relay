@@ -20,11 +20,11 @@ to:: "`<an exact quote from the article where the exerpt should stop>`"
 
 #### Text
 content::
-How does learning how to secure an AI potentially assist that same AI in discovering escape routes?
+How does learning how to secure an AI potentially  assist that same AI in discovering escape routes?
 #### Chat: Discussion on X-Risk
 instructions::
-The ser is answering this question:
-If AI can help us write code or solve math problems, what is stopping it from solving the alignment problem for us? Analyze the challenges of using AI for coding and R&D, then extend the analysis to AI safety research.
+The user is answering this question:
+How does learning how to secure an AI potentially assist that same AI in discovering escape routes?
 
 Response length requirement:
 - Keep responses short: aim for 120–200 words.
