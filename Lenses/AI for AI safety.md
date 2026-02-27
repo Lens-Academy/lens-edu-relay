@@ -16,6 +16,8 @@ This post argues for the AI for AI safety sweet spot. This is a period where AI 
 from:: "*(Audio version* [*here*]"
 to:: "a few options in this respect, for the different security factors above."
 
+#### Text
+content::
 \[...\]
 
 #### Article-excerpt
