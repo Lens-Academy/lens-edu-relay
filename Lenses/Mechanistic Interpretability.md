@@ -14,8 +14,6 @@ Mechanistic Interpretability is the study of the internal workings of AI models.
 The field gained momentum through the work of Chris Olah and his teams at OpenAI and Anthropic. Early research focused on image models. Neel Nanda contributed to the field’s accessibility by developing TransformerLens, an open-source library for probing the internal states of models. His research on induction heads identified specific mechanisms for pattern completion in transformers. By providing introductory resources and educational roadmaps, he helped expand the research community beyond specialized labs.
 
 
-#### Article-excerpt
-to:: "`<an exact quote from the article where the exerpt should stop>`"
 
 #### Text
 content::
