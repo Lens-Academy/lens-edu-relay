@@ -5,7 +5,7 @@ tags:
   - work-in-progress
   - validator-ignore
 ---
-### Article: `article title`
+### Article: MI for AGI Safety
 source:: [[]]
 
 #### Text
