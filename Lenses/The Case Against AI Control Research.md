@@ -9,7 +9,6 @@ tags:
 source:: [[]]
 
 
-
 #### Article-excerpt
 to:: "`<an exact quote from the article where the exerpt should stop>`"
 
