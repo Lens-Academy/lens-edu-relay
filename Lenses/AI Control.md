@@ -12,7 +12,7 @@ source:: [[]]
 content::
 This module examines methods for the safe operation of systems that we cannot yet fully align with human values.
 
-AI Control is a safety strategy that focuses on safely using potentially dangerous or misaligned AI models through rigorous monitoring and containment. It assumes that we may not be able to perfectly align a model’s internal goals with human values. Instead of trying to make the model want to be good, control seeks to build a system of safeguards that make it "unable" to do harm.
+AI Control is a safety strategy that focuses on safely using potentially dangerous or misaligned AI models through rigorous monitoring and containment. It assumes that we may not be able to perfectly align a model’s internal goals with human values. Instead of trying to make the model want to be good, control seeks to build a system of safeguards that make it unable to do harm.
 
 
 #### Article-excerpt
