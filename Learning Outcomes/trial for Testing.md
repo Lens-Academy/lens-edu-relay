@@ -40,7 +40,7 @@ enforce-voice:: true
 
 ## Lens:
 optional:: false
-source:: [[../Lenses/Lens Template|Lens Template]]
+source:: [[../Lenses/]]
 
 ## Lens:
 optional:: false
