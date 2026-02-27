@@ -40,7 +40,7 @@ enforce-voice:: true
 
 ## Lens:
 optional:: false
-source:: [[../Lenses/]]
+source:: [[../Lenses/AI Evaluations]]
 
 ## Lens:
 optional:: false
