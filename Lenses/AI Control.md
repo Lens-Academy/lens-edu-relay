@@ -20,7 +20,7 @@ to:: "`<an exact quote from the article where the exerpt should stop>`"
 
 #### Text
 content::
-How does learning how to secure an AI potentially  assist that same AI in discovering escape routes?
+How does learning how to secure an AI potentially may assist that same AI in discovering escape routes?
 #### Chat: Discussion on X-Risk
 instructions::
 The user is answering this question:
