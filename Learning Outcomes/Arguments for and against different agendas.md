@@ -78,7 +78,7 @@ source:: [[../Lenses/We Need A ‘Science of Evals’]]
 
 ## Lens:
 optional:: false
-source:: [[../Lenses/A starter guide for evals]]
+source:: [[../Lenses/What AI evaluations for preventing catastrophic risks can and cannot do]]
 
 ## Lens:
 optional:: false
