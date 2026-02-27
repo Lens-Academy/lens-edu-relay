@@ -16,8 +16,8 @@ content::
 If AI can help us write code or solve math problems, what is stopping it from solving the alignment problem for us? Analyze the challenges of using AI for coding and R&D, then extend the analysis to AI safety research.
 #### Chat: Discussion on X-Risk
 instructions::
-The participant is answering this question:
-Many people intuitively assume that a truly superintelligent AI will possess a kind of ‘common sense’ and understand that destroying resources for a petty goal is foolish. Why does the author consider this expectation a dangerous misconception?
+User is answering this question:
+If AI can help us write code or solve math problems, what is stopping it from solving the alignment problem for us? Analyze the challenges of using AI for coding and R&D, then extend the analysis to AI safety research.
 
 Response length requirement:
 - Keep responses short: aim for 120–200 words.
