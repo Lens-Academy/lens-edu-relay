@@ -17,8 +17,7 @@ from:: "*(Audio version* [*here*]"
 to:: "a few options in this respect, for the different security factors above."
 
 #### Text
-content::
-\[...\]
+content:: \[...\]
 
 #### Article-excerpt
 from:: "2.1 A tale of two feedback loops"
