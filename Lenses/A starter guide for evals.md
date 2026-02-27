@@ -1,15 +1,16 @@
 ---
-id: 4219ba99-f8fd-48fe-a6e3-6ceb702e61d2
+id: <add UUID created at https://www.uuidgenerator.net/version4 >
 tags:
   - lens
   - work-in-progress
   - validator-ignore
 ---
-### Article: Interpretability Will Not Reliably Find Deceptive AI
+### Article: `article title`
 source:: [[]]
 
 #### Text
 content::
+`<introductory text>`
 
 #### Article-excerpt
 to:: "`<an exact quote from the article where the exerpt should stop>`"
