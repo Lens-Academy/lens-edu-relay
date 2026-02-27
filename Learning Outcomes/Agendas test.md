@@ -23,7 +23,7 @@ content::
 We'll be asking you some questions about X
 #### Question
 feedback:: true
-content:: In your own words, explain what AI safety is and why it matters. Hello.
+content:: List the concepts from this module that seemed most important to you.
 
 #### Question
 feedback:: true
