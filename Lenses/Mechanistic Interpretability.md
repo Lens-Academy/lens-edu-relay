@@ -17,11 +17,13 @@ to:: "`<an exact quote from the article where the exerpt should stop>`"
 
 #### Text
 content::
-`<prompt the user on how they should interact with the chatbot>`
+We have full access to every parameter and activation in the model, why isn’t that enough to just read off what it believes, wants, or will do?
+
 #### Chat: Discussion on X-Risk
 instructions::
 The user is answering this question:
-If AI can help us write code or solve math problems, what is stopping it from solving the alignment problem for us? Analyze the challenges of using AI for coding and R&D, then extend the analysis to AI safety research.
+We have full access to every parameter and activation in the model, why isn’t that enough to just read off what it believes, wants, or will do?
+
 
 Response length requirement:
 - Keep responses short: aim for 120–200 words.
