@@ -18,7 +18,7 @@ This experience :collapse[for him wouldn't be surprising or shocking] or even mi
 
 But here's the interesting thing :note[this is a note with one colon]—if he then went back to 1750 and got jealous that we got to see his reaction and decided he wanted to try the same thing, he'd take the time machine and go back the same distance, get someone from around the year 1500, bring him to 1750, and show him everything. And the 1500 guy would be shocked by a lot of things—but he wouldn't die. It would be _far_ less of an insane experience for him, because while 1500 and 1750 were very different, they were _much_ _less_ different than 1750 to 2015. The 1500 guy would learn some mind-bending shit about space and physics, he'd be impressed with how committed Europe turned out to be with that new imperialism fad, and he'd have to do some major revisions of his world map conception. But watching everyday life go by in 1750—transportation, communication, etc.—definitely wouldn't make him die. dd
 
-::note[This is a note with two colons]
+::note[This is a note with two colons :footnote[This is a footnote inside of a note]]
 
 No, in order for the 1750 guy to have as much fun as we had with him, he'd have to go much farther back—maybe all the way back to about 12,000 BC:footnote[This is a footnote], before the First Agricultural Revolution gave rise to the first cities and to the concept of civilization. If someone from a purely hunter-gatherer world—from a time when humans were, more or less, just another animal species—saw the vast human empires of 1750 with their towering churches, their ocean-crossing ships, their concept of being "inside," and their enormous mountain of collective, accumulated human knowledge and discovery—he'd likely die.
 
