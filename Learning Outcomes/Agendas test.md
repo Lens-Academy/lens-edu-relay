@@ -34,3 +34,6 @@ content:: Choose one pro argument and one contra argument from the same directio
 assessment-instructions:: Check that the student (1) clearly states a preference (behavioral vs mechanistic, or a conditional mix), (2) gives at least one concrete reason, and (3) names specific mind-changers: an example of new evidence, a stronger method, or a scenario where the other type would dominate. Reward nuance about false positives/negatives, distribution shift, and limits of mechanistic access.
 enforce-voice:: true
 
+## Lens:
+optional:: true
+source:: [[../Lenses/Lens Template|Lens Template]]
