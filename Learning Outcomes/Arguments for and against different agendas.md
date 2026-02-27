@@ -93,7 +93,9 @@ source:: [[../Lenses/The case for ensuring that powerful AIs are controlled]]
 optional:: false
 source:: [[../Lenses/AI Control May Increase Existential Risk]]
 
-
+## Lens:
+optional:: false
+source:: [[../Lenses/AI Control May Increase Existential Risk]]
 
 ## Lens:
 optional:: false
