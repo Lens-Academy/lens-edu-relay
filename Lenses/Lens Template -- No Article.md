@@ -6,7 +6,7 @@ tags:
   - validator-ignore
 ---
 #### Page: <`Title`>
-id:: [Get a UUID](https://www.uuidgenerator.net/version4)
+
 #### Text
 content::
 `<introductory text>`
