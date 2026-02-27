@@ -1,11 +1,11 @@
 ---
-id: <add UUID created at https://www.uuidgenerator.net/version4 >
+id: a541b303-0018-43ef-ba68-fb6883d020d9
 tags:
   - lens
   - work-in-progress
   - validator-ignore
 ---
-### Article: `article title`
+### Article: Carefully Bootstrapped Alignment is organizationally hard
 source:: [[]]
 
 #### Text
