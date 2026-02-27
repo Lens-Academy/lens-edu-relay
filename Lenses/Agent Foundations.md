@@ -8,16 +8,15 @@ tags:
 
 #### Text
 content::
-Mechanistic Interpretability is the study of the internal workings of AI models. It seeks to reverse-engineer neural networks into human-understandable algorithms. Researchers analyze individual neurons and connections to see how they represent concepts.
+This module approaches safety through the lens of mathematical theory, formal logic, and the fundamental nature of agency.
 
-The field gained momentum through the work of Chris Olah and his teams at OpenAI and Anthropic. Early research focused on image models. Neel Nanda contributed to the field’s accessibility by developing TransformerLens, an open-source library for probing the internal states of models. His research on "induction heads" identified specific mechanisms for pattern completion in transformers. By providing introductory resources and educational roadmaps, he helped expand the research community beyond specialized labs.
+Agent Foundations is a research direction that treats AI safety as a formal mathematical problem. It seeks to understand the fundamental nature of intelligence, agency, and goal-directed behavior. Instead of experimenting with current neural networks, researchers in this field try to build a science of agency from the ground up. They aim to find universal laws that would govern any intelligent system, regardless of its architecture.
 
 
 
 #### Text
 content::
-We have full access to every parameter and activation in the model, why isn’t that enough to just read off what it believes, wants, or will do?
-
+What would make Agent Foundations feel “real” to you: predictive theorems, better threat models etc?
 
 #### Chat: Discussion on X-Risk
 instructions::
