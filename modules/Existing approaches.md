@@ -13,7 +13,7 @@ id:: dc56fe14-2c41-4057-b112-a84c0b2ef303
 ## Text
 content::
 We want to open this module with the quote from the essay A newcomer’s guide to the technical AI safety field — AI Alignment Forum
-AI safety is a pre-paradigmatic field, which APA defines as:
+>AI safety is a pre-paradigmatic field, which APA defines as:
 > a science at a primitive stage of development, before it has achieved a paradigm and established a consensus about the true nature of the subject matter and how to approach it.
 
 In other words, there is no universally agreed-upon description of what the alignment problem is. [...]It’s not just that the proposed solutions garner plenty of disagreements, the nature of the problem itself is ill-defined and often disagreed among researchers in the field. Hence, the field is centered around various researchers / research organizations and their research agenda, which are built on very different formulations of the problem, or even a portfolio of these problems
