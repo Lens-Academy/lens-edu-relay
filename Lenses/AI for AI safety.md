@@ -3,7 +3,6 @@ id: ace55d5a-2265-442c-a9d3-e8b6106a9078
 tags:
   - lens
   - work-in-progress
-  - validator-ignore
 ---
 ### Article: AI for AI safety
 source:: [[../articles/carlsmith-ai-for-ai-safety]]
