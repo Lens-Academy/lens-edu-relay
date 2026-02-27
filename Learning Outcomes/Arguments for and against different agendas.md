@@ -58,6 +58,10 @@ source:: [[../Lenses/Introduction to Mechanistic Interpretability]]
 
 ## Lens:
 optional:: false
+source:: [[../Lenses/MI for AGI Safety]]
+
+## Lens:
+optional:: false
 source:: [[../Lenses/Introduction to Mechanistic Interpretability]]
 
 ## Lens:
