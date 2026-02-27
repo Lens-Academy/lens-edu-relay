@@ -5,7 +5,7 @@ tags:
   - work-in-progress
 ---
 ### Article: Agent foundations: not really math, not really science
-source:: [[../]]
+source:: [[../articles/altair-agent-foundations-not-really-math-not-really-science]]
 
 #### Text
 content::
