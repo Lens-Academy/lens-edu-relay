@@ -36,6 +36,34 @@ In order for someone to be transported into the future and die from the level of
 
 This pattern—human progress moving quicker and quicker as time goes on—is what futurist Ray Kurzweil calls human history's Law of Accelerating Returns. This happens because more advanced societies have the ability to progress at a faster _rate_ than less advanced societies—_because_ they're more advanced. 19th century humanity knew more and had better technology than 15th century humanity, so it's no surprise that humanity made far more advances in the 19th century than in the 15th century—15th century humanity was no match for 19th century humanity.
 
+## Nested footnotes
+
+:::collapse
+Imagine taking a time machine back to 1750—a time when the world was in a permanent power outage, long-distance communication meant either yelling loudly or firing a cannon in the air, and all transportation ran on hay. When you get there, you retrieve a dude, bring him to 2015, and then walk him around and watch him react to everything. It's impossible for us to understand what it would be like for him to see shiny capsules racing by on a highway, talk to people who had been on the other side of the ocean earlier in the day, watch sports that were being played 1,000 miles away, hear a musical performance that happened 50 years ago, and play with my magical wizard rectangle that he could use to capture a real-life image or record a living moment, generate a map with a paranormal moving blue dot that shows him where he is, look at someone's face and chat with them even though they're on the other side of the country, and worlds of other inconceivable sorcery. This is all before you show him the internet or explain things like the International Space Station, the Large Hadron Collider, nuclear weapons, or general relativity.
+:::
+
+This experience :collapses[for him wouldn't be surprising or shocking] or even mind-blowing—those words aren't big enough. He might actually die.
+
+But here's the interesting thing :note[this is a note with one colon]—if he then went back to 1750 and got jealous that we got to see his reaction and decided he wanted to try the same thing, he'd take the time machine and go back the same distance, get someone from around the year 1500, bring him to 1750, and show him everything. And the 1500 guy would be shocked by a lot of things—but he wouldn't die. It would be _far_ less of an insane experience for him, because while 1500 and 1750 were very different, they were _much_ _less_ different than 1750 to 2015. The 1500 guy would learn some mind-bending shit about space and physics, he'd be impressed with how committed Europe turned out to be with that new imperialism fad, and he'd have to do some major revisions of his world map conception. But watching everyday life go by in 1750—transportation, communication, etc.—definitely wouldn't make him die. dd
+
+::note[This is a note with two colons]
+
+No, in order for the 1750 guy to have as much fun as we had with him, he'd have to go much farther back—maybe all the way back to about 12,000 BC:footnote[This is a footnote], before the First Agricultural Revolution gave rise to the first cities and to the concept of civilization. If someone from a purely hunter-gatherer world—from a time when humans were, more or less, just another animal species—saw the vast human empires of 1750 with their towering churches, their ocean-crossing ships, their concept of being "inside," and their enormous mountain of collective, accumulated human knowledge and discovery—he'd likely die.
+
+:::note
+This is a note with three colons
+
+It should support multiple paragraphs
+
+Like this.
+:::
+
+And then what if, after dying, _he_ got jealous and wanted to do the same thing. If he went back 12,000 years to 24,000 BC and got a guy and brought him to 12,000 BC, he'd show the guy everything and the guy would be like, "Okay what's your point who cares." For the 12,000 BC guy to have the same fun, he'd have to go back over 100,000 years and get someone he could show fire and language to for the first time.
+
+In order for someone to be transported into the future and die from the level of shock they'd experience, they have to go enough years ahead that a "die level of progress," or a Die Progress Unit (DPU) has been achieved. So a DPU took over 100,000 years in hunter-gatherer times, but at the post-Agricultural Revolution rate, it only took about 12,000 years. The post-Industrial Revolution world has moved so quickly that a 1750 person only needs to go forward a couple hundred years for a DPU to have happened.
+
+This pattern—human progress moving quicker and quicker as time goes on—is what futurist Ray Kurzweil calls human history's Law of Accelerating Returns. This happens because more advanced societies have the ability to progress at a faster _rate_ than less advanced societies—_because_ they're more advanced. 19th century humanity knew more and had better technology than 15th century humanity, so it's no surprise that humanity made far more advances in the 19th century than in the 15th century—15th century humanity was no match for 19th century humanity.
+
 This works on smaller scales too. The movie _Back to the Future_ came out in 1985, and "the past" took place in 1955. In the movie, when Michael J. Fox went back to 1955, he was caught off-guard by the newness of TVs, the prices of soda, the lack of love for shrill electric guitar, and the variation in slang. It was a different world, yes—but if the movie were made today and the past took place in 1985, the movie could have had _much_ more fun with _much_ bigger differences. The character would be in a time before personal computers, internet, or cell phones—today's Marty McFly, a teenager born in the late 90s, would be much more out of place in 1985 than the movie's Marty McFly was in 1955.
 
 This is for the same reason we just discussed—the Law of Accelerating Returns. The average rate of advancement between 1985 and 2015 was higher than the rate between 1955 and 1985—because the former was a more advanced world—so much more change happened in the most recent 30 years than in the prior 30.
