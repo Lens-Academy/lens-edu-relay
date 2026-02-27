@@ -1,11 +1,11 @@
 ---
-id: <add UUID created at https://www.uuidgenerator.net/version4 >
+id: 0de3ab92-f5bd-45ff-9b0b-b75eafdd2ed8
 tags:
   - lens
   - work-in-progress
   - validator-ignore
 ---
-### Article: `article title`
+### Article: Introduction to Mechanistic Interpretability
 source:: [[]]
 
 #### Text
