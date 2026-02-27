@@ -20,7 +20,7 @@ Why does high accuracy on a benchmark not guarantee that a system is safe to dep
 #### Chat: Discussion on X-Risk
 instructions::
 The user is answering this question:
-How does learning how to secure an AI potentially assist that same AI in discovering escape routes?
+Why does high accuracy on a benchmark not guarantee that a system is safe to deploy?
 
 Response length requirement:
 - Keep responses short: aim for 120–200 words.
