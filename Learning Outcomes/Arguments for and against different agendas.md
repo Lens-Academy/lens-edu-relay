@@ -46,6 +46,10 @@ source:: [[../Lenses/AI for AI safety]]
 
 ## Lens:
 optional:: false
+source:: [[../Lenses/Ca]]
+
+## Lens:
+optional:: false
 source:: [[../Lenses/Mechanistic Interpretability]]
 
 ## Lens:

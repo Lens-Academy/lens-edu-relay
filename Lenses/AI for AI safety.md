@@ -6,7 +6,7 @@ tags:
   - validator-ignore
 ---
 ### Article: AI for AI safety
-source:: [[../]]
+source:: [[../articles/]]
 
 #### Text
 content::
