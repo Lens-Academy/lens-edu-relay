@@ -11,13 +11,10 @@ source:: [[../articles/carlsmith-ai-for-ai-safety]]
 content::
 This post argues for the AI for AI safety sweet spot. This is a period where AI is smart enough to help with safety but not yet smart enough to be uncontrollable. The theory of change relies on differential progress. We must use AI to strengthen safety factors. This should happen before the models reach a level of superintelligence.
 
+
 #### Article-excerpt
 from:: "(Audio version here (read by the author)"
 to:: "a few options in this respect, for the different security factors above."
-
-#### Text
-content::
-
 
 #### Article-excerpt
 from:: "2.1 A tale of two feedback loops"
