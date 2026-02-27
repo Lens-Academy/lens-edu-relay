@@ -10,7 +10,8 @@ source:: [[]]
 
 #### Text
 content::
-`<introductory text>`
+This perspective argues that control is our best short-term defense. We might not solve the "Hard Alignment Problem" before we build AGI. Control gives us a way to benefit from powerful AI while we are still working on deep alignment. The core theory of change is that if we can build a "prison" that is stronger than the "prisoner," we can put the prisoner to work safely.
+
 
 #### Article-excerpt
 to:: "`<an exact quote from the article where the exerpt should stop>`"
