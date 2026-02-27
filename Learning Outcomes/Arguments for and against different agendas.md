@@ -46,7 +46,7 @@ source:: [[../Lenses/AI for AI safety]]
 
 ## Lens:
 optional:: false
-source:: [[../Lenses/Ca]]
+source:: [[../Lenses/Carefully Bootstrapped Alignment is organizationally hard]]
 
 ## Lens:
 optional:: false
