@@ -19,3 +19,8 @@ source:: [[../Lenses/AF not really math not really science]]
 optional:: false
 source:: [[../Lenses/AI Control]]
 
+## Lens:
+optional:: false
+source:: [[../Lenses/Agent Foundations]]
+
+
