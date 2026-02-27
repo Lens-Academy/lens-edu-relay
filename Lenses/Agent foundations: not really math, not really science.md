@@ -5,7 +5,7 @@ tags:
   - work-in-progress
   - validator-ignore
 ---
-### Article: Agent Foundations Pro Core
+### Article: Agent foundations: not really math, not really science
 source:: [[]]
 
 #### Text
