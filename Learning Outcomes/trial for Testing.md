@@ -37,11 +37,6 @@ content:: In your own words, explain what AI safety is and why it matters. (with
 assessment-instructions:: Evaluate whether the student demonstrates understanding of existential risk, alignment problem, and why AI safety research is important.
 enforce-voice:: true
 
-
-## Lens:
-optional:: false
-source:: [[../Lenses/Automating Alignment]]
-
 ## Lens:
 optional:: false
 source:: [[../Lenses/Lens Template|Lens Template]]
