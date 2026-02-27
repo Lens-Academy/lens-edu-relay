@@ -86,7 +86,7 @@ source:: [[../Lenses/AI Control]]
 
 ## Lens:
 optional:: false
-source:: [[../Lenses/AI Control]]
+source:: [[../Lenses/AI Contro]]
 
 ## Lens:
 optional:: false
