@@ -11,10 +11,9 @@ source:: [[../articles/garrabrant+demski--embedded-agency]]
 #### Text
 content::
 
-
 #### Article-excerpt
 from:: "## 1. Embedded agents"
-to:: "`<an exact quote from the article where the exerpt should stop>`"
+to:: "subproblems of the same unified concept that is embedded agency."
 
 #### Text
 content::
