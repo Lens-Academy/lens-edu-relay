@@ -22,7 +22,7 @@ to:: "a concrete plan for handling that."
 content:: [...]
 
 #### Article-excerpt
-from:: "# How /"Careful Bootstrapped Alignment" might work"
+from:: "# How /"Careful Bootstrapped Alignment/" might work"
 to:: "a concrete plan for handling that."
 
 #### Text
