@@ -6,7 +6,7 @@ tags:
   - validator-ignore
 ---
 ### Article: Interpretability Will Not Reliably Find Deceptive AI
-source:: [[../articles/inter]]
+source:: [[../articles/nanda-interpretability-will-not-reliably-find-deceptive-ai]]
 
 #### Text
 content::
