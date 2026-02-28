@@ -39,7 +39,14 @@ content:: [...]
 
 #### Article-excerpt
 from:: "### 2.2 Assess misuse risk for current models"
-to:: "certain the AI system can do at least this much."
+to:: "if evaluators are unable to use it to exploit any threat vectors."
+
+#### Text
+content:: [...]
+
+#### Article-excerpt
+from:: "### 2.2 Assess misuse risk for current models"
+to:: "if evaluators are unable to use it to exploit any threat vectors."
 
 #### Text
 content::
