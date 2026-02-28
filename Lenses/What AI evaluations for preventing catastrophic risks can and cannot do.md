@@ -19,7 +19,11 @@ to:: "these fundamental limitations remain unsolved."
 
 #### Text
 content:: [...]
-## 1 Introduction
+
+#### Article-excerpt
+from:: "The challenges and limitations of AI evaluations"
+to:: "with important implications for AI governance and regulation."
+
 #### Text
 content:: [...]
 
