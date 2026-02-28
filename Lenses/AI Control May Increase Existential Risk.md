@@ -6,7 +6,7 @@ tags:
   - validator-ignore
 ---
 ### Article: AI Control May Increase Existential Risk
-source:: [[../articles/ku]]
+source:: [[../articles/kulveit--ai-control-may-increase-existential-risk]]
 
 #### Text
 content::
@@ -16,6 +16,13 @@ More than that, control research is "dual-use." To learn how to control an AI, y
 
 #### Article-excerpt
 to:: "`<an exact quote from the article where the exerpt should stop>`"
+
+#### Text
+content:: [...]
+
+#### Article-excerpt
+from:: "# Evaluating whether you have control is doable"
+to:: "to use for the training, evaluation, and deployment of the model."
 
 #### Text
 content::
