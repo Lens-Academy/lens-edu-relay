@@ -26,6 +26,12 @@ content:: [...]
 from:: "# The control property"
 to:: "to some employees intentionally subverting security measures."
 
+#### Text
+content:: [...]
+
+#### Article-excerpt
+from:: "# The control property"
+to:: "to some employees intentionally subverting security measures."
 
 #### Text
 content::
