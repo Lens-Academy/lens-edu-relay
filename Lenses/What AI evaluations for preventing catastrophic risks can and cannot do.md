@@ -66,7 +66,7 @@ to:: "not lead it to cause harm, even in novel situations."
 content:: [...]
 
 #### Article-excerpt
-from:: "### 3.3 Robustly assess misalignment and model autonomy risks"
+from:: "### 3.4 Unknown unknown risks"
 to:: "not lead it to cause harm, even in novel situations."
 
 
