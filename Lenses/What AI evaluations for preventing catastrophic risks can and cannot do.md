@@ -32,7 +32,14 @@ content:: [...]
 
 #### Article-excerpt
 from:: "## 2 What AI evaluations can do (given sufficient effort)"
-to:: "certain the AI system can do at least this much.."
+to:: "certain the AI system can do at least this much."
+
+#### Text
+content:: [...]
+
+#### Article-excerpt
+from:: "## 2 What AI evaluations can do (given sufficient effort)"
+to:: "certain the AI system can do at least this much."
 
 #### Text
 content::
