@@ -13,7 +13,7 @@ content::
 
 
 #### Article-excerpt
-from:: ""
+from:: "## 1. Embedded agents"
 to:: "`<an exact quote from the article where the exerpt should stop>`"
 
 #### Text
