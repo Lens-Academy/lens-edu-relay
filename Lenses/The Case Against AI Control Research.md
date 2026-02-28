@@ -5,7 +5,7 @@ tags:
   - work-in-progress
 ---
 ### Article: The Case Against AI Control Research 
-source:: [[../articles/]]
+source:: [[../articles/wentworth--the-case-against-ai-control-research]]
 
 
 #### Article-excerpt
