@@ -6,7 +6,7 @@ tags:
   - validator-ignore
 ---
 ### Article: AI Control May Increase Existential Risk
-source:: [[../articles/]]
+source:: [[../articles/existens]]
 
 #### Text
 content::
