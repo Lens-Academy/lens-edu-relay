@@ -22,11 +22,6 @@ to:: "it might be tractable to use control to substantially reduce risk."
 #### Text
 content:: [...]
 
-#### Article-excerpt
-from:: "There are two main lines of defense you could employ"
-to:: "it might be tractable to use control to substantially reduce risk."
-
-
 #### Text
 content::
 `<prompt the user on how they should interact with the chatbot>`
