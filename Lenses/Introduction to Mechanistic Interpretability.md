@@ -20,7 +20,7 @@ content:: [...]
 
 #### Article-excerpt
 from:: "## What makes mechanistic interpretability hard?"
-to:: ""
+to:: "contribution of individual neurons to a model’s cognition process."
 
 #### Text
 content::
