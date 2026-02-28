@@ -38,7 +38,7 @@ to:: "certain the AI system can do at least this much."
 content:: [...]
 
 #### Article-excerpt
-from:: "## 2 What AI evaluations can do (given sufficient effort)"
+from:: "### 2.2 Assess misuse risk for current models"
 to:: "certain the AI system can do at least this much."
 
 #### Text
