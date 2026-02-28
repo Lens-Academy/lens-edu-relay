@@ -17,7 +17,6 @@ content:: [...]
 
 #### Article-excerpt
 from:: "Consider two broad possibilities:"
-to:: "of alignment research have different generalization profiles."
 
 #### Text
 content:: [...]
