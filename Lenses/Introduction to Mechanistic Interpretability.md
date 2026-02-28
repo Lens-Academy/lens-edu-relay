@@ -6,7 +6,7 @@ tags:
   - validator-ignore
 ---
 ### Article: Introduction to Mechanistic Interpretability
-source:: [[]]
+source:: [[../articles]]
 
 #### Text
 content::
