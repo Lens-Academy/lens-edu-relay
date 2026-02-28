@@ -6,7 +6,7 @@ tags:
   - validator-ignore
 ---
 ### Article: We Need A ‘Science of Evals’ 
-source:: [[../articles/we]]
+source:: [[../articles/chris+apollo-research-we-need-a-science-of-evals]]
 
 #### Article-excerpt
 to:: "`<an exact quote from the article where the exerpt should stop>`"
