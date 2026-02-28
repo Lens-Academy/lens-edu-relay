@@ -6,7 +6,7 @@ tags:
 
 ---
 ### Article: A starter guide for eval
-source:: [[../articles/]]
+source:: [[../articles/hobbhahn+etal-a-starter-guide-for-evals]]
 
 #### Text
 content::
