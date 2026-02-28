@@ -59,7 +59,7 @@ to:: "emerge before dangerous ones, serving as warning signs."
 content:: [...]
 
 #### Article-excerpt
-from:: "### 3.2 Robustly forecast future model capabilities"
+from:: "### 3.3 Robustly assess misalignment and model autonomy risks"
 to:: "emerge before dangerous ones, serving as warning signs."
 
 #### Text
