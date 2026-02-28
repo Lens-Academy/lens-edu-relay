@@ -17,6 +17,10 @@ Another argument is presented in the article: Carefully Bootstrapped Alignment i
 #### Article-excerpt
 to:: "`<an exact quote from the article where the exerpt should stop>`"
 
+Text
+content:: [...]
+
+
 #### Text
 content::
 `<prompt the user on how they should interact with the chatbot>`
