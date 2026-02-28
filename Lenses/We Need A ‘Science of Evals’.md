@@ -8,9 +8,6 @@ tags:
 ### Article: We Need A ‘Science of Evals’ 
 source:: [[../articles/chris+apollo-research-we-need-a-science-of-evals]]
 
-#### Article-excerpt
-to:: "`<an exact quote from the article where the exerpt should stop>`"
-
 #### Text
 content::
 `<prompt the user on how they should interact with the chatbot>`
