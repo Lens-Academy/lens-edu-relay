@@ -6,7 +6,7 @@ tags:
 
 ---
 ### Article: A starter guide for eval
-source:: [[../articles/starter]]
+source:: [[../articles/]]
 
 #### Text
 content::
