@@ -60,7 +60,7 @@ content:: [...]
 
 #### Article-excerpt
 from:: "### 3.3 Robustly assess misalignment and model autonomy risks"
-to:: "emerge before dangerous ones, serving as warning signs."
+to:: "not lead it to cause harm, even in novel situations."
 
 #### Text
 content::
