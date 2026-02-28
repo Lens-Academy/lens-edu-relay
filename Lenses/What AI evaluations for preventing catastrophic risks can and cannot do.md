@@ -28,6 +28,13 @@ from:: "The challenges and limitations of AI evaluations"
 to:: "with important implications for AI governance and regulation."
 
 #### Text
+content:: [...]
+
+#### Article-excerpt
+from:: "The challenges and limitations of AI evaluations"
+to:: "with important implications for AI governance and regulation."
+
+#### Text
 content::
 `<prompt the user on how they should interact with the chatbot>`
 #### Chat: Discussion on X-Risk
