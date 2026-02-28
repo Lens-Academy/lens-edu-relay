@@ -67,7 +67,7 @@ content:: [...]
 
 #### Article-excerpt
 from:: "### 3.4 Unknown unknown risks"
-to:: "not lead it to cause harm, even in novel situations."
+to:: "lead to catastrophic and possibly existential outcomes."
 
 
 #### Text
