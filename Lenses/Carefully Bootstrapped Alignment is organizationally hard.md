@@ -16,7 +16,7 @@ Another argument is presented in the article: Carefully Bootstrapped Alignment i
 
 #### Article-excerpt
 from:: "In addition to technical challenges, plans"
-to:: 
+to:: Э
 
 #### Text
 content:: [...]
