@@ -20,7 +20,8 @@ to:: "these fundamental limitations remain unsolved."
 #### Text
 content:: [...]
 ## 1 Introduction
-[...]
+#### Text
+content:: [...]
 
 #### Article-excerpt
 from:: "The challenges and limitations of AI evaluations"
