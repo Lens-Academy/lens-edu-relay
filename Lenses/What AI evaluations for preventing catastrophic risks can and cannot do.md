@@ -22,7 +22,7 @@ content:: [...]
 
 #### Article-excerpt
 from:: "## 1 Introduction"
-to:: "## 1 Introduction"
+to:: "Introduction"
 
 #### Text
 content:: [...]
