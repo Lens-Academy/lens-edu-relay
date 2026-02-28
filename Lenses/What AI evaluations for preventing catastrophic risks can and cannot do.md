@@ -20,7 +20,7 @@ to:: "these fundamental limitations remain unsolved."
 
 #### Text
 content:: [...]
-## Introduction
+## 1 Introduction
 [...]
 
 #### Article-excerpt
