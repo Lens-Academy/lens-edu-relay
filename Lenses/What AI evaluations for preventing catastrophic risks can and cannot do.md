@@ -16,7 +16,7 @@ This critique warns that evaluations are not a "safety guarantee." A primary tec
 
 
 #### Article-excerpt
-to:: "`<an exact quote from the article where the exerpt should stop>`"
+to:: " these fundamental limitations remain unsolved."
 
 #### Text
 content::
