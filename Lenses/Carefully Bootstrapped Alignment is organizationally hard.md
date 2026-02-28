@@ -6,7 +6,7 @@ tags:
   - validator-ignore
 ---
 ### Article: Carefully Bootstrapped Alignment is organizationally hard
-source:: [[../articles/]]
+source:: [[../articles/care]]
 
 #### Text
 content::
