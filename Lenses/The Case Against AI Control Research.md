@@ -8,7 +8,7 @@ tags:
 source:: [[../articles/wentworth--the-case-against-ai-control-research]]
 
 #### Article-excerpt
-from:: "In this post,"
+from:: ""
 
 #### Text
 content::
