@@ -24,6 +24,7 @@ content:: [...]
 [...]
 
 #### Article-excerpt
+from:: "The challenges and limitations of AI evaluations"
 to:: " these fundamental limitations remain unsolved."
 
 #### Text
