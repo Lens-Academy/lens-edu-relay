@@ -23,7 +23,7 @@ to:: "it might be tractable to use control to substantially reduce risk."
 content:: [...]
 
 #### Article-excerpt
-from:: "There are two main lines of defense you could employ"
+from:: "# The control property"
 to:: "it might be tractable to use control to substantially reduce risk."
 
 
