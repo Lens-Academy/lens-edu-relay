@@ -21,7 +21,7 @@ to:: "`<an exact quote from the article where the exerpt should stop>`"
 content:: [...]
 
 #### Article-excerpt
-from:: "# Evaluating whether you have control is doable"
+from:: "Consider two broad possibilities:"
 to:: "to use for the training, evaluation, and deployment of the model."
 
 #### Text
