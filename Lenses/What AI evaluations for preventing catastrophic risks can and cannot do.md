@@ -32,7 +32,7 @@ content:: [...]
 
 #### Article-excerpt
 from:: "## 2 What AI evaluations can do (given sufficient effort)"
-to:: "with important implications for AI governance and regulation."
+to:: "certain the AI system can do at least this much.."
 
 #### Text
 content::
