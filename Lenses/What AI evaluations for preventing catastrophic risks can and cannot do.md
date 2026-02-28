@@ -6,7 +6,7 @@ tags:
   - validator-ignore
 ---
 ### Article: What AI evaluations for preventing catastrophic risks can and cannot do
-source:: [[]]
+source:: [[../articles/what-a]]
 
 #### Text
 content::
