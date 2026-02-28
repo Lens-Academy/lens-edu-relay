@@ -5,7 +5,7 @@ tags:
   - work-in-progress
 ---
 ### Article: The Case Against AI Control Research 
-source:: [[]]
+source:: [[../]]
 
 
 #### Article-excerpt
