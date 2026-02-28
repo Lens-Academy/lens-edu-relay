@@ -6,7 +6,7 @@ tags:
   - validator-ignore
 ---
 ### Article: Introduction to Mechanistic Interpretability
-source:: [[../articles/introductio]]
+source:: [[../articles/sarah+bluedot-introduction-to-mechanistic-interpretability]]
 
 #### Text
 content::
