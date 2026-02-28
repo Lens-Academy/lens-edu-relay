@@ -3,7 +3,6 @@ id: a37a6057-a08d-4218-a1ac-fa9c19e8cb37
 tags:
   - lens
   - work-in-progress
-  - validator-ignore
 ---
 ### Article: MI for AGI Safety
 source:: [[../video_transcripts/conjecture-agi-safety-connor-leahy-fli-interpretability-conference-mit-march-2023]]
