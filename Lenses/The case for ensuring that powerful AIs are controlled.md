@@ -30,7 +30,7 @@ to:: "to some employees intentionally subverting security measures."
 content:: [...]
 
 #### Article-excerpt
-from:: "# The control property"
+from:: "# Evaluating whether you have control is doable"
 to:: "to some employees intentionally subverting security measures."
 
 #### Text
