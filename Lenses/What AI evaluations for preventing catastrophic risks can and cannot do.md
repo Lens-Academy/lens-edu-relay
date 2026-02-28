@@ -31,7 +31,7 @@ to:: "with important implications for AI governance and regulation."
 content:: [...]
 
 #### Article-excerpt
-from:: "The challenges and limitations of AI evaluations"
+from:: "## 2 What AI evaluations can do (given sufficient effort)"
 to:: "with important implications for AI governance and regulation."
 
 #### Text
