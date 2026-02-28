@@ -24,7 +24,7 @@ content:: [...]
 
 #### Article-excerpt
 from:: "# The control property"
-to:: "it might be tractable to use control to substantially reduce risk."
+to:: "to some employees intentionally subverting security measures."
 
 
 #### Text
