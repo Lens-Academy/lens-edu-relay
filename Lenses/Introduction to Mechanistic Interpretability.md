@@ -13,7 +13,9 @@ content::
 This perspective argues that safety requires a white-box approach. We cannot trust a model based only on its behavior. Behavior can be faked. Mechanistic interpretability aims to provide a way to verify the internal reasons for a model's output. If we could understand the circuits of a model, we would be able to detect dangerous goals before the model acts on them.
 
 #### Article-excerpt
-to:: "`<an exact quote from the article where the exerpt should stop>`"
+to:: "to more efficiently achieve reward (reward-hacking). "
+
+
 
 #### Text
 content::
