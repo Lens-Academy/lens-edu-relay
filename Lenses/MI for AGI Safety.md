@@ -6,7 +6,7 @@ tags:
   - validator-ignore
 ---
 ### Article: MI for AGI Safety
-source:: [[../video_transcripts/]]
+source:: [[../video_transcripts/conjecture-agi-safety-connor-leahy-fli-interpretability-conference-mit-march-2023]]
 
 #### Text
 content::
