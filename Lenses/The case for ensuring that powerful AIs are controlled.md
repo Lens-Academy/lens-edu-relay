@@ -14,7 +14,7 @@ This perspective argues that control is our best short-term defense. We might no
 
 
 #### Article-excerpt
-to:: "`<an exact quote from the article where the exerpt should stop>`"
+to:: "There are two main lines of defense you could employ"
 
 #### Text
 content::
