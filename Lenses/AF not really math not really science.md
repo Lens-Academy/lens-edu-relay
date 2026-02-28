@@ -11,10 +11,6 @@ source:: [[../articles/altair-agent-foundations-not-really-math-not-really-scien
 content::
 This perspective argues that we need a basic science of alignment. Without Agent Foundations, we are just fumbling in the dark. We need to understand the deep structure of goals and agency to ensure that a superintelligent system doesn't develop catastrophic instrumental goals.
 
-
-#### Article-excerpt
-to:: "`<an exact quote from the article where the exerpt should stop>`"
-
 #### Text
 content::
 `<prompt the user on how they should interact with the chatbot>`
