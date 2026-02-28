@@ -15,6 +15,9 @@ This perspective argues that safety requires a white-box approach. We cannot tru
 #### Article-excerpt
 to:: "to more efficiently achieve reward (reward-hacking). "
 
+#### Text
+content:: [...]
+
 
 
 #### Text
