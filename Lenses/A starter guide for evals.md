@@ -3,7 +3,7 @@ id: 00e571e6-535c-465a-a78a-b2a3b6f5750d
 tags:
   - lens
   - work-in-progress
-  - validator-ignore
+
 ---
 ### Article: A starter guide for eval
 source:: [[../articles/alexander-janus-simulators]]
