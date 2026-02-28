@@ -31,7 +31,7 @@ content:: [...]
 
 #### Article-excerpt
 from:: "# Evaluating whether you have control is doable"
-to:: "to some employees intentionally subverting security measures."
+to:: "to use for the training, evaluation, and deployment of the model."
 
 #### Text
 content::
