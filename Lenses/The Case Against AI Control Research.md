@@ -7,6 +7,9 @@ tags:
 ### Article: The Case Against AI Control Research 
 source:: [[../articles/wentworth--the-case-against-ai-control-research]]
 
+#### Article-excerpt
+from:: "In this post,"
+
 #### Text
 content::
 `<prompt the user on how they should interact with the chatbot>`
