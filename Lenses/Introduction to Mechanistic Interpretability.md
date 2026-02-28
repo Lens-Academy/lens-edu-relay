@@ -19,7 +19,8 @@ to:: "to more efficiently achieve reward (reward-hacking). "
 content:: [...]
 
 #### Article-excerpt
-to:: "## What makes mechanistic interpretability hard?
+from:: "## What makes mechanistic interpretability hard?"
+to:: ""
 
 #### Text
 content::
