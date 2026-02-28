@@ -6,7 +6,7 @@ tags:
   - validator-ignore
 ---
 ### Article: Interpretability Will Not Reliably Find Deceptive AI
-source:: [[../]]
+source:: [[../articles/inter]]
 
 #### Text
 content::
