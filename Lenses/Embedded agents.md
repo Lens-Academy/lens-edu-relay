@@ -13,6 +13,7 @@ content::
 
 
 #### Article-excerpt
+from:: ""
 to:: "`<an exact quote from the article where the exerpt should stop>`"
 
 #### Text
