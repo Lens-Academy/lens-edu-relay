@@ -16,8 +16,8 @@ This perspective argues that control is our best short-term defense. We might no
 content:: [...]
 
 #### Article-excerpt
-to:: "There are two main lines of defense you could employ"
-
+from:: "There are two main lines of defense you could employ"
+to:: ""
 
 
 #### Text
