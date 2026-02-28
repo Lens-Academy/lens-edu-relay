@@ -22,6 +22,8 @@ to:: "a concrete plan for handling that."
 content:: [...]
 
 #### Article-excerpt
+from:: "In addition to technical challenges, plans"
+to:: "a concrete plan for handling that."
 
 #### Text
 content::
