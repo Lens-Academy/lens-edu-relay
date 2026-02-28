@@ -6,7 +6,7 @@ tags:
   - validator-ignore
 ---
 ### Article: Realism about rationality
-source:: [[]]
+source:: [[../articles/n]]
 
 #### Text
 content::
