@@ -6,7 +6,7 @@ tags:
   - validator-ignore
 ---
 ### Article: Embedded agents
-source:: [[../articles/embe]]
+source:: [[../articles/garrabrant+demski--embedded-agency]]
 
 #### Text
 content::
