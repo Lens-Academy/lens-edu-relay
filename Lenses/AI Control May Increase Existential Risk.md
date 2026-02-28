@@ -3,7 +3,6 @@ id: ce05d88a-97da-43de-a54b-62f31a62f62f
 tags:
   - lens
   - work-in-progress
-  - validator-ignore
 ---
 ### Article: AI Control May Increase Existential Risk
 source:: [[../articles/kulveit--ai-control-may-increase-existential-risk]]
@@ -18,7 +17,7 @@ content:: [...]
 
 #### Article-excerpt
 from:: "Consider two broad possibilities:"
-to:: "to use for the training, evaluation, and deployment of the model."
+to:: "of alignment research have different generalization profiles."
 
 #### Text
 content:: [...]
