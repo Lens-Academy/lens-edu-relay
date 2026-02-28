@@ -16,7 +16,7 @@ This critique warns that evaluations are not a "safety guarantee." A primary tec
 
 
 #### Article-excerpt
-to:: " these fundamental limitations remain unsolved."
+to:: "these fundamental limitations remain unsolved."
 
 #### Text
 content:: [...]
@@ -25,7 +25,7 @@ content:: [...]
 
 #### Article-excerpt
 from:: "The challenges and limitations of AI evaluations"
-to:: " these fundamental limitations remain unsolved."
+to:: "with important implications for AI governance and regulation."
 
 #### Text
 content::
