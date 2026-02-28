@@ -3,7 +3,6 @@ id: a541b303-0018-43ef-ba68-fb6883d020d9
 tags:
   - lens
   - work-in-progress
-  - validator-ignore
 ---
 ### Article: Carefully Bootstrapped Alignment is organizationally hard
 source:: [[../articles/raemon-carefully-bootstrapped-alignment-is-organizationally-hard]]
@@ -17,13 +16,6 @@ Another argument is presented in the article: Carefully Bootstrapped Alignment i
 #### Article-excerpt
 from:: "In addition to technical challenges, plans"
 to:: "a concrete plan for handling that."
-
-#### Text
-content:: [...]
-
-#### Article-excerpt
-from:: "# How /"Careful Bootstrapped Alignment/" might work"
-to:: "up within your org, the rest of your org might plow ahead. "
 
 #### Text
 content:: [...]
