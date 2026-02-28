@@ -17,7 +17,9 @@ content:: [...]
 
 #### Article-excerpt
 from:: "There are two main lines of defense you could employ"
-to:: ""
+to:: "it might be tractable to use control to substantially reduce risk."
+
+
 
 
 #### Text
