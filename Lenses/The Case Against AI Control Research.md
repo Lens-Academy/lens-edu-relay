@@ -3,7 +3,6 @@ id: 8dd82ec4-8172-4afe-a905-6af3ad5a2911
 tags:
   - lens
   - work-in-progress
-  - validator-ignore
 ---
 ### Article: The Case Against AI Control Research 
 source:: [[]]
