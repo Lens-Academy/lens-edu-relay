@@ -46,7 +46,14 @@ content:: [...]
 
 #### Article-excerpt
 from:: "### 2.3 Applications that don’t directly mitigate catastrophic risks"
-to:: "if evaluators are unable to use it to exploit any threat vectors."
+to:: "in a model succeeding at tasks it previously failed."
+
+#### Text
+content:: [...]
+
+#### Article-excerpt
+from:: "### 2.3 Applications that don’t directly mitigate catastrophic risks"
+to:: "in a model succeeding at tasks it previously failed."
 
 #### Text
 content::
