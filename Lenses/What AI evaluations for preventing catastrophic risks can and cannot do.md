@@ -53,7 +53,7 @@ content:: [...]
 
 #### Article-excerpt
 from:: "### 3.2 Robustly forecast future model capabilities"
-to:: "in a model succeeding at tasks it previously failed."
+to:: "emerge before dangerous ones, serving as warning signs."
 
 #### Text
 content::
