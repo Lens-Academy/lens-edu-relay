@@ -63,6 +63,14 @@ from:: "### 3.3 Robustly assess misalignment and model autonomy risks"
 to:: "not lead it to cause harm, even in novel situations."
 
 #### Text
+content:: [...]
+
+#### Article-excerpt
+from:: "### 3.3 Robustly assess misalignment and model autonomy risks"
+to:: "not lead it to cause harm, even in novel situations."
+
+
+#### Text
 content::
 `<prompt the user on how they should interact with the chatbot>`
 #### Chat: Discussion on X-Risk
