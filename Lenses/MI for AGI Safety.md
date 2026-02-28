@@ -6,7 +6,7 @@ tags:
   - validator-ignore
 ---
 ### Article: MI for AGI Safety
-source:: [[../vide]]
+source:: [[../video]]
 
 #### Text
 content::
