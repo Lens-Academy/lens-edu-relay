@@ -6,7 +6,7 @@ tags:
   - validator-ignore
 ---
 ### Article: Carefully Bootstrapped Alignment is organizationally hard
-source:: [[../articles/care]]
+source:: [[../articles/raemon-carefully-bootstrapped-alignment-is-organizationally-hard]]
 
 #### Text
 content::
