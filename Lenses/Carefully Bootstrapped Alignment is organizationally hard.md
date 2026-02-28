@@ -23,14 +23,14 @@ content:: [...]
 
 #### Article-excerpt
 from:: "# How /"Careful Bootstrapped Alignment/" might work"
-to:: "a concrete plan for handling that."
+to:: "up within your org, the rest of your org might plow ahead. "
 
 #### Text
 content:: [...]
 
 #### Article-excerpt
 from:: "# How /"Careful Bootstrapped Alignment/" might work"
-to:: "a concrete plan for handling that."
+to:: "up within your org, the rest of your org might plow ahead. "
 
 #### Text
 content::
