@@ -6,7 +6,7 @@ tags:
   - validator-ignore
 ---
 ### Article: Realism about rationality
-source:: [[../articles/n]]
+source:: [[../articles/ngo--realism-about-rationality]]
 
 #### Text
 content::
