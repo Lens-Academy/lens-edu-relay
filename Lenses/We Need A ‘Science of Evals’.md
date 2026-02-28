@@ -8,7 +8,9 @@ tags:
 source:: [[../articles/chris+apollo-research-we-need-a-science-of-evals]]
 
 #### Article-excerpt
-ещ
+from:: ""
+
+
 #### Text
 content::
 `<prompt the user on how they should interact with the chatbot>`
