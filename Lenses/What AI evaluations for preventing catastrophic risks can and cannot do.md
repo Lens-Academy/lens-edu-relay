@@ -52,7 +52,7 @@ to:: "in a model succeeding at tasks it previously failed."
 content:: [...]
 
 #### Article-excerpt
-from:: "### 2.3 Applications that don’t directly mitigate catastrophic risks"
+from:: "### 3.2 Robustly forecast future model capabilities"
 to:: "in a model succeeding at tasks it previously failed."
 
 #### Text
