@@ -15,7 +15,7 @@ The most significant technical challenge is the Sharp Left Turn hypothesis. You 
 Another argument is presented in the article: Carefully Bootstrapped Alignment is organizationally hard. This critique identifies a major flaw in the Carefully Bootstrapped plan. It focuses on the Organizational Assumption. The plan requires an organization to be perfect. Even if the technical alignment methods work: the human implementation might fail. Competitive pressure leads to Goodharting safety metrics. Psychological bias makes it difficult for a team to pause a project worth billions of dollars. Technical success is insufficient if the organizational structure is brittle.
 
 #### Article-excerpt
-to:: "`<an exact quote from the article where the exerpt should stop>`"
+:: "In addition to technical challenges, plans"
 
 #### Text
 content:: [...]
