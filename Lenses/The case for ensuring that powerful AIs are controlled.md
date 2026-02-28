@@ -6,7 +6,7 @@ tags:
   - validator-ignore
 ---
 ### Article: The case for ensuring that powerful AIs are controlled
-source:: [[]]
+source:: [[../]]
 
 #### Text
 content::
