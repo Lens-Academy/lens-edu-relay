@@ -8,8 +8,6 @@ tags:
 ### Article: Embedded agents
 source:: [[../articles/garrabrant+demski--embedded-agency]]
 
-#### Text
-content::
 
 #### Article-excerpt
 from:: "## 1. Embedded agents"
