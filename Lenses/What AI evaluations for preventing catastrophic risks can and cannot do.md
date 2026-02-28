@@ -56,6 +56,13 @@ from:: "### 3.2 Robustly forecast future model capabilities"
 to:: "emerge before dangerous ones, serving as warning signs."
 
 #### Text
+content:: [...]
+
+#### Article-excerpt
+from:: "### 3.2 Robustly forecast future model capabilities"
+to:: "emerge before dangerous ones, serving as warning signs."
+
+#### Text
 content::
 `<prompt the user on how they should interact with the chatbot>`
 #### Chat: Discussion on X-Risk
