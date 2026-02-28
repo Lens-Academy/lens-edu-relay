@@ -45,7 +45,7 @@ to:: "if evaluators are unable to use it to exploit any threat vectors."
 content:: [...]
 
 #### Article-excerpt
-from:: "### 2.2 Assess misuse risk for current models"
+from:: "### 2.3 Applications that don’t directly mitigate catastrophic risks"
 to:: "if evaluators are unable to use it to exploit any threat vectors."
 
 #### Text
