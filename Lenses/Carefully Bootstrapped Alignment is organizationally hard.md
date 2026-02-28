@@ -26,6 +26,13 @@ from:: "# How /"Careful Bootstrapped Alignment/" might work"
 to:: "a concrete plan for handling that."
 
 #### Text
+content:: [...]
+
+#### Article-excerpt
+from:: "# How /"Careful Bootstrapped Alignment/" might work"
+to:: "a concrete plan for handling that."
+
+#### Text
 content::
 `<prompt the user on how they should interact with the chatbot>`
 #### Chat: Discussion on X-Risk
