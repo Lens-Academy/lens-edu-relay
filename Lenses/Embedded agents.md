@@ -6,7 +6,7 @@ tags:
   - validator-ignore
 ---
 ### Article: Embedded agents
-source:: [[../]]
+source:: [[../articles/embe]]
 
 #### Text
 content::
