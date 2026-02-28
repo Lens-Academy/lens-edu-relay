@@ -6,7 +6,7 @@ tags:
   - validator-ignore
 ---
 ### Article: The case for ensuring that powerful AIs are controlled
-source:: [[../articles/ensure]]
+source:: [[../articles/greenblatt+buck-the-case-for-ensuring-that-powerful-ais-are-controlled]]
 
 #### Text
 content::
