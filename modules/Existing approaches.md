@@ -32,4 +32,4 @@ In this module, we will focus on 5 directions. The list is deliberately incomple
 source:: [[../Learning Outcomes/Arguments for and against different agendas]]
 
 
-[^1]: Readers who have a better map, particularly for teaching purposes, are strongly encouraged to author an alternative version of this module. 
+
