@@ -2,7 +2,6 @@
 id: 6a8d7401-4177-4cb6-8ec8-ff7f6e52c230
 tags:
   - lens
-  - work-in-progress
 ---
 ### Page: Mechanistic Interpretability
 id: ae10d3aa-9adb-47f6-a8f8-3c85da98f88e
