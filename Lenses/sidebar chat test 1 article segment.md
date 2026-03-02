@@ -27,7 +27,7 @@ comments
 are nice
 %%
 
-Make no mistake: There is plenty to understand about the process that grows an AI. It takes a giant bag of tricks to make an architecture actually work, but these tricks are sort of like the ones a nutritionist might use to ensure healthy brain development in a fetus during pregnancy. The precise tricks vary; people with enough experience picking the right ones can get paid literally millions of dollars a year, because it’s more of an art than a science, and companies can’t build AIs without their help.
+{--{"author":"Luc","timestamp":1772447531551}@@Make no mistake: --}There is plenty to understand about the process that grows an AI. It takes a giant bag of tricks to make an architecture actually work, but these tricks are sort of like the ones a nutritionist might use to ensure healthy brain development in a fetus during pregnancy. The precise tricks vary; people with enough experience picking the right ones can get paid literally millions of dollars a year, because it’s more of an art than a science, and companies can’t build AIs without their help.
 
 But even people who know the tricks can’t use them to make AIs behave as they’d like. After Grok’s “MechaHitler” incident in July, Elon Musk, xAI’s founder, wrote: “It is surprisingly hard to avoid both woke libtard cuck and mechahitler! Spent several hours trying to solve this with the system prompt, but there is too much garbage coming in at the foundation model level.” The company went on to struggle further with their chatbot. Sometimes the chatbot would look up Musk’s beliefs before producing its replies. The company reported that they investigated the issue and instructed it to stop.
 
