@@ -8,7 +8,7 @@ tags:
 
 ## Test:
 id: be1e845f-9faf-4508-b07e-83fb829c5a71
-
+{>>CGL > I'm confused as to why the test appears before the Lenses here. Highly counterintuitive from the builder perspective.<<}
 #### Text
 content::
 We'll be asking you some questions about this module
