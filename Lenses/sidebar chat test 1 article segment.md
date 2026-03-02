@@ -7,7 +7,7 @@ tags:
 
 %% hello world %%
 
-### Article
+### Article 
 source:: [[../articles/karnofsky-most-important-century]]
 %% hi there %%
 #### Text
