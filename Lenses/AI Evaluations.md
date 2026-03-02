@@ -12,7 +12,7 @@ id: eaf174f0-0e6b-401c-9bba-f6d325beb262
 content::
 This module focuses on the empirical testing of what AI systems can do and identifying the risks they pose. 
 
-**AI Evaluations** are structured knowledge about approaches and tests designed to measure the capabilities, propensities, and safety thresholds of AI models. Unlike general performance benchmarks, safety evals specifically look for dangerous capabilities. 
+**AI Evaluations** are structured knowledge about approaches and tests{>>CGL > I don't much like this definition. Feels awkward.<<} designed to measure the capabilities, propensities, and safety thresholds of AI models. Unlike general performance benchmarks, safety evals specifically look for dangerous capabilities. 
 
 *Before you start reading the arguments for and against this agenda, try to focus your thinking by answering the question below. Discuss it with your AI tutor for as long as feels comfortable, then move on to the readings*.
 
