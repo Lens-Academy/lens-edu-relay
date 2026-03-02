@@ -5,7 +5,6 @@ title: "Existing approaches"
 discussion: https://discordapp.com/channels/1440725236843806762/1470760399438614538
 tags:
   - module
-  - work-in-progress
 ---
 
 # Page: Welcome
