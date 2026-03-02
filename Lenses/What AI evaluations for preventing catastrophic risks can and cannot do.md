@@ -17,9 +17,6 @@ This critique warns that evaluations are not a "safety guarantee." A primary tec
 #### Article-excerpt
 to:: "these fundamental limitations remain unsolved."
 
-#### Text
-content:: [...]
-
 #### Article-excerpt
 from:: "## 1 Introduction"
 to:: "Introduction"
