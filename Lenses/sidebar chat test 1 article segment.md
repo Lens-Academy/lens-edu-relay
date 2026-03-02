@@ -11,6 +11,7 @@ source:: [[../articles/karnofsky-most-important-century]]
 
 #### Text
 content::
+%% Here is an Obsidian comment %%
 The relationship that biologists have with DNA is pretty much the relationship that AI engineers have with the numbers inside an AI. Indeed, biologists know far more about how DNA turns into biochemistry and adult traits than engineers understand about how the numbers inside an AI yield cogent conversation and useful behavior. Biologists have been at the job for decades longer.
 
 Similarly, nobody can look at the raw numbers in a given AI and ascertain how well that particular one will play chess; to figure that out, engineers can only run the AI and see what happens. Whatever gradient descent stumbled into, that’s what the big heap of numbers will do. The machine exhibiting that behavior is not some carefully crafted device whose each and every part we understand.
