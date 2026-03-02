@@ -5,7 +5,15 @@ title: Introduction to AI Safety
 tags:
   - work-in-progress
 ---
+# Uncategorized:
 
+## Lens:
+source::
+[[../Lenses/sidebar chat test 1 article segment|sidebar chat test 1 article segment]]
+
+## Lens:
+source::
+[[../Lenses/sidebar chat test 2 article segments|sidebar chat test 2 article segments]]
 # Page: Welcome to AI Safety
 id:: d1e2f3a4-b5c6-7890-d1e2-f3a4b5c67890
 ## Text
@@ -24,16 +32,18 @@ hello again
 # Learning Outcome:
 source::
 [[../Learning Outcomes/trial for Testing|trial for Testing]]
-
-# Learning Outcome:
-source:: ![[../Learning Outcomes/Demo LO]]
-
 # Uncategorized:
+## Lens:
+source::
+[[../Lenses/collapsed article text test]]
 
 ## Lens:
 source::
-[[../Lenses/Trial for question box]]
+[[../Lenses/Trial question and roleplay]]
 
 ## Lens:
 source::
 [[../Lenses/Kurzgesagt software demo]]
+
+# Learning Outcome:
+source:: [[../Learning Outcomes/Demo LO]]

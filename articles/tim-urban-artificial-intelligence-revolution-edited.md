@@ -3,29 +3,61 @@ title: "The AI Revolution: The Road to Superintelligence"
 author: Tim Urban
 date: 2015-01-22
 source_url: https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html
+tags:
+  - work-in-progress
 ---
-
-_We are on the edge of change comparable to the rise of human life on Earth._ - Vernor Vinge
-
-What does it feel like to stand here?
-
-[![Image 1: Edge1](https://waitbutwhy.com/wp-content/uploads/2015/01/Edge1.png)](https://waitbutwhy.com/wp-content/uploads/2015/01/Edge1.png)
-
-It seems like a pretty intense place to be standing—but then you have to remember something about what it's like to stand on a time graph: you can't see what's to your right. So here's how it actually feels to stand there:
-
-[![Image 2: Edge](https://waitbutwhy.com/wp-content/uploads/2015/01/Edge.jpg)](https://waitbutwhy.com/wp-content/uploads/2015/01/Edge.jpg)
-
 Which probably feels pretty normal…
 
-## The Far Future—Coming Soon
+## Nested footnotes
 
+:::collapse
+::note[We collaped this paragraph because we think it isn't relevant.]
+Imagine taking a time machine back to 1750—a time when the world was in a permanent power outage, long-distance communication meant either yelling loudly or firing a cannon in the air, and all transportation ran on hay. When you get there, you retrieve a dude, bring him to 2015, and then walk him around and watch him react to everything. It's impossible for us to understand what it would be like for him to see shiny capsules racing by on a highway, talk to people who had been on the other side of the ocean earlier in the day, watch sports that were being played 1,000 miles away, hear a musical performance that happened 50 years ago, and play with my magical wizard rectangle that he could use to capture a real-life image or record a living moment, generate a map with a paranormal moving blue dot that shows him where he is, look at someone's face and chat with them even though they're on the other side of the country, and worlds of other inconceivable sorcery. This is all before you show him the internet or explain things like the International Space Station, the Large Hadron Collider, nuclear weapons, or general relativity. 
+:::
+
+This experience :collapse[for him wouldn't be surprising or shocking :note[This is a note inside of a collapse]] or even mind-blowing—those words aren't big enough. He might actually die.
+
+But here's the interesting thing :note[this is a note with one colon :footnote[This is a footnote inside of a note]]—if he then went back to 1750 and got jealous that we got to see his reaction and decided he wanted to try the same thing, he'd take the time machine and go back the same distance, get someone from around the year 1500, bring him to 1750, and show him everything. And the 1500 guy would be shocked by a lot of things—but he wouldn't die. It would be _far_ less of an insane experience for him, because while 1500 and 1750 were very different, they were _much_ _less_ different than 1750 to 2015. The 1500 guy would learn some mind-bending shit about space and physics, he'd be impressed with how committed Europe turned out to be with that new imperialism fad, and he'd have to do some major revisions of his world map conception. But watching everyday life go by in 1750—transportation, communication, etc.—definitely wouldn't make him die. dd
+
+::note[This is a note with two colons :footnote[This is a footnote inside of a note]]
+
+No, in order for the 1750 guy to have as much fun as we had with him, he'd have to go much farther back—maybe all the way back to about 12,000 BC:footnote[This is a footnote], before the First Agricultural Revolution gave rise to the first cities and to the concept of civilization. If someone from a purely hunter-gatherer world—from a time when humans were, more or less, just another animal species—saw the vast human empires of 1750 with their towering churches, their ocean-crossing ships, their concept of being "inside," and their enormous mountain of collective, accumulated human knowledge and discovery—he'd likely die.
+
+:::note
+This is a note with three colons
+
+It should support multiple paragraphs
+
+Like this. :footnote[This is a footnote inside of a note]
+:::
+
+And then what if, after dying, _he_ got jealous and wanted to do the same thing. If he went back 12,000 years to 24,000 BC and got a guy and brought him to 12,000 BC, he'd show the guy everything and the guy would be like, "Okay what's your point who cares." For the 12,000 BC guy to have the same fun, he'd have to go back over 100,000 years and get someone he could show fire and language to for the first time.
+
+In order for someone to be transported into the future and die from the level of shock they'd experience, they have to go enough years ahead that a "die level of progress," or a Die Progress Unit (DPU) has been achieved. So a DPU took over 100,000 years in hunter-gatherer times, but at the post-Agricultural Revolution rate, it only took about 12,000 years. The post-Industrial Revolution world has moved so quickly that a 1750 person only needs to go forward a couple hundred years for a DPU to have happened.
+
+This pattern—human progress moving quicker and quicker as time goes on—is what futurist Ray Kurzweil calls human history's Law of Accelerating Returns. This happens because more advanced societies have the ability to progress at a faster _rate_ than less advanced societies—_because_ they're more advanced. 19th century humanity knew more and had better technology than 15th century humanity, so it's no surprise that humanity made far more advances in the 19th century than in the 15th century—15th century humanity was no match for 19th century humanity.
+
+## Notes and footnotes
+
+:::collapse
 Imagine taking a time machine back to 1750—a time when the world was in a permanent power outage, long-distance communication meant either yelling loudly or firing a cannon in the air, and all transportation ran on hay. When you get there, you retrieve a dude, bring him to 2015, and then walk him around and watch him react to everything. It's impossible for us to understand what it would be like for him to see shiny capsules racing by on a highway, talk to people who had been on the other side of the ocean earlier in the day, watch sports that were being played 1,000 miles away, hear a musical performance that happened 50 years ago, and play with my magical wizard rectangle that he could use to capture a real-life image or record a living moment, generate a map with a paranormal moving blue dot that shows him where he is, look at someone's face and chat with them even though they're on the other side of the country, and worlds of other inconceivable sorcery. This is all before you show him the internet or explain things like the International Space Station, the Large Hadron Collider, nuclear weapons, or general relativity.
+:::
 
-This experience for him wouldn't be surprising or shocking or even mind-blowing—those words aren't big enough. He might actually die.
+This experience :collapse[for him wouldn't be surprising or shocking] or even mind-blowing—those words aren't big enough. He might actually die.
 
-But here's the interesting thing—if he then went back to 1750 and got jealous that we got to see his reaction and decided he wanted to try the same thing, he'd take the time machine and go back the same distance, get someone from around the year 1500, bring him to 1750, and show him everything. And the 1500 guy would be shocked by a lot of things—but he wouldn't die. It would be _far_ less of an insane experience for him, because while 1500 and 1750 were very different, they were _much_ _less_ different than 1750 to 2015. The 1500 guy would learn some mind-bending shit about space and physics, he'd be impressed with how committed Europe turned out to be with that new imperialism fad, and he'd have to do some major revisions of his world map conception. But watching everyday life go by in 1750—transportation, communication, etc.—definitely wouldn't make him die.
+But here's the interesting thing :note[this is a note with one colon]—if he then went back to 1750 and got jealous that we got to see his reaction and decided he wanted to try the same thing, he'd take the time machine and go back the same distance, get someone from around the year 1500, bring him to 1750, and show him everything. And the 1500 guy would be shocked by a lot of things—but he wouldn't die. It would be _far_ less of an insane experience for him, because while 1500 and 1750 were very different, they were _much_ _less_ different than 1750 to 2015. The 1500 guy would learn some mind-bending shit about space and physics, he'd be impressed with how committed Europe turned out to be with that new imperialism fad, and he'd have to do some major revisions of his world map conception. But watching everyday life go by in 1750—transportation, communication, etc.—definitely wouldn't make him die. dd
 
-No, in order for the 1750 guy to have as much fun as we had with him, he'd have to go much farther back—maybe all the way back to about 12,000 BC, before the First Agricultural Revolution gave rise to the first cities and to the concept of civilization. If someone from a purely hunter-gatherer world—from a time when humans were, more or less, just another animal species—saw the vast human empires of 1750 with their towering churches, their ocean-crossing ships, their concept of being "inside," and their enormous mountain of collective, accumulated human knowledge and discovery—he'd likely die.
+::note[This is a note with two colons]
+
+No, in order for the 1750 guy to have as much fun as we had with him, he'd have to go much farther back—maybe all the way back to about 12,000 BC:footnote[This is a footnote], before the First Agricultural Revolution gave rise to the first cities and to the concept of civilization. If someone from a purely hunter-gatherer world—from a time when humans were, more or less, just another animal species—saw the vast human empires of 1750 with their towering churches, their ocean-crossing ships, their concept of being "inside," and their enormous mountain of collective, accumulated human knowledge and discovery—he'd likely die.
+
+:::note
+This is a note with three colons
+
+It should support multiple paragraphs
+
+Like this.
+:::
 
 And then what if, after dying, _he_ got jealous and wanted to do the same thing. If he went back 12,000 years to 24,000 BC and got a guy and brought him to 12,000 BC, he'd show the guy everything and the guy would be like, "Okay what's your point who cares." For the 12,000 BC guy to have the same fun, he'd have to go back over 100,000 years and get someone he could show fire and language to for the first time.
 
