@@ -5,8 +5,9 @@ learning-outcome:
 tags:
   - work-in-progress
   - learning outcome
-  - validator-
+  - validator-ignore
 ---
+
 ## Test:
 #### Text
 content::
