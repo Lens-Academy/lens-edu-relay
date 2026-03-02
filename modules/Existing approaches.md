@@ -28,8 +28,9 @@ One influential attempt at structuring the space is the classification proposed 
 
 In this module, we will focus on 5 directions. The list is deliberately incomplete: in particular, it does not aim to cover governance in a comprehensive way. The boundaries between the directions are also not clean. They frequently overlap, borrow tools from one another, or approach the same underlying phenomena using very different conceptual languages. Sometimes it is obvious that they are talking about the same piece of reality. Sometimes it is surprisingly hard to even see the common object. Still, this decomposition is useful for a first pass, and it will give us one workable map[^1] for navigating the literature that follows. For each agenda, we’ll look at excerpts from two articles: one that supports the idea and one that critiques it.
 
+[^1]: Readers who have a better map, particularly for teaching purposes, are strongly encouraged to author an alternative version of this module. 
+
 # Learning Outcome:
 source:: [[../Learning Outcomes/Arguments for and against different agendas]]
-
 
 
