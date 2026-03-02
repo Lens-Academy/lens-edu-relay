@@ -15,7 +15,9 @@ content:: %% and here? %%
 %% Here is an Obsidian comment %%
 aaaThe relationship that biologists have with DNA is pretty much the relationship that AI engineers have with the numbers inside an AI. Indeed, biologists know far more about how DNA turns into biochemistry and adult traits than engineers understand about how the numbers inside an AI yield cogent conversation and useful behavior. Biologists have been at the job for decades longer. %% blublub %%
 
-Similarly, nobody can look at the raw numbers in a given AI and ascertain how well that particular one will play chess; to figure that out, engineers can only run the AI and see what happens. Whatever gradient descent stumbled into, that’s what the big heap of numbers will do. The machine exhibiting that behavior is not some carefully crafted device whose each and every part we understand.
+Similarly, nobody can look at the raw numbers in a given AI and ascertain how well that particular one will play chess; to figure that out, engineers can only run the AI and see what happens. Whatever gradient descent stumbled into, that’s what the big heap of numbers will do. The machine exhibiting that behavior is not some carefully crafted device whose each and every part we understand.{++{"author":"Luc","timestamp":1772447520153}@@
+
+I shall propose adding some text here++}
 
 {>>I'm going to add a Criticmarkup comment here<<}{>>{"author":"Luc","timestamp":1772447442440}@@And a reply too<<}
 
