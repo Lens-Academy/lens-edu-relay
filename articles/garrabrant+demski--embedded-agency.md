@@ -17,7 +17,7 @@ There's a complicated engineering problem here. But there's also a problem of fi
 
 In this post, I’ll point to four ways we *don’t* currently know how it works, and four areas of active research aimed at figuring it out.
 
-### 1\. Embedded agents
+### 1. Embedded agents
 
 This is Alexei, and Alexei is playing a video game.
 
