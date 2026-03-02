@@ -2,8 +2,6 @@
 id: 00e571e6-535c-465a-a78a-b2a3b6f5750d
 tags:
   - lens
-  - work-in-progress
-
 ---
 
 ### Article: A starter guide for eval
