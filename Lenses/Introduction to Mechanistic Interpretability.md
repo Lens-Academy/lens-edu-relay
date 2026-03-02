@@ -2,7 +2,6 @@
 id: 8691b0e4-924f-4685-8f1f-6ce6c6b20205
 tags:
   - lens
-  - work-in-progress
 ---
 ### Article: Introduction to Mechanistic Interpretability
 source:: [[../articles/sarah+bluedot-introduction-to-mechanistic-interpretability]]
