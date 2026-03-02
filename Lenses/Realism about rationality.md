@@ -2,7 +2,6 @@
 id: 769fac9b-95bc-4f5c-bf10-fac75d6a0cd6
 tags:
   - lens
-  - work-in-progress
 ---
 ### Article: Realism about rationality
 source:: [[../articles/ngo--realism-about-rationality]]

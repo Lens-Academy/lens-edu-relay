@@ -2,7 +2,6 @@
 id: 0d9db4dd-4991-4e33-83f1-90f44962a3cb
 tags:
   - lens
-  - work-in-progress
 ---
 ### Article: Agent foundations: not really math, not really science
 source:: [[../articles/altair-agent-foundations-not-really-math-not-really-science]]

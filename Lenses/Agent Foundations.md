@@ -2,7 +2,6 @@
 id: 9e925489-937b-4317-9bd1-f3d59807ab3a
 tags:
   - lens
-  - work-in-progress
 ---
 
 ### Page: Agent Foundations
