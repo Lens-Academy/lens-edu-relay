@@ -2,7 +2,6 @@
 id: 694776ec-44b7-44c2-bf63-3e1fde1d59ea
 tags:
   - lens
-  - work-in-progress
 ---
 ### Article: The case for ensuring that powerful AIs are controlled
 source:: [[../articles/greenblatt+buck-the-case-for-ensuring-that-powerful-ais-are-controlled]]

@@ -2,7 +2,6 @@
 id: ce05d88a-97da-43de-a54b-62f31a62f62f
 tags:
   - lens
-  - work-in-progress
 ---
 ### Article: AI Control May Increase Existential Risk
 source:: [[../articles/kulveit--ai-control-may-increase-existential-risk]]
