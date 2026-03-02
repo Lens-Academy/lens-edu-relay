@@ -10,4 +10,4 @@ source:: [[../articles/garrabrant+demski--embedded-agency]]
 
 #### Article-excerpt
 from:: "## 1. Embedded agents"
-to:: "subproblems of the same unified concept that is embedded agency."
+to:: "of the same unified concept that is *embedded agency*."
