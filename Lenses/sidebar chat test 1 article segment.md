@@ -7,7 +7,7 @@ tags:
 
 %% hello world %%
 
-### Article 
+### Article {>>{"author":"Luc","timestamp":1772447436480}@@And here<<}
 source:: [[../articles/karnofsky-most-important-century]]
 %% hi there %%
 #### Text
@@ -17,7 +17,7 @@ aaaThe relationship that biologists have with DNA is pretty much the relationshi
 
 Similarly, nobody can look at the raw numbers in a given AI and ascertain how well that particular one will play chess; to figure that out, engineers can only run the AI and see what happens. Whatever gradient descent stumbled into, that’s what the big heap of numbers will do. The machine exhibiting that behavior is not some carefully crafted device whose each and every part we understand.
 
-{>>I'm going to add a Criticmarkup comment here<<}
+{>>I'm going to add a Criticmarkup comment here<<}{>>{"author":"Luc","timestamp":1772447442440}@@And a reply too<<}
 
 %% 
 Multi line
@@ -33,7 +33,7 @@ This is not the behavior of people who are carefully creating traditional softwa
 
 Engineers aren’t about to start understanding AIs, not anytime soon. In the mid-1950s, humanity embarked on a great project to understand intelligence well enough to produce it inside of a machine. That research progress stalled out in a series of “AI winters,” where money invested into AI research never paid off and funding repeatedly collapsed. Humanity never learned to understand intelligence; we never learned to build minds by hand.
 
-#### Article-excerpt
+#### Article-excerpt 
 to:: like putting safety first when driving. But today, such possibilities get little attention.
 
 #### Text:
