@@ -5,7 +5,7 @@ tags:
   - work-in-progress
 ---
 ### Article: Introduction to Mechanistic Interpretability
-source:: [[../articles/sarah+bot-introduction-to-mechanistic-interpretability]]
+source:: [[../articles/sarah+bluedot-introduction-to-mechanistic-interpretability]]
 
 #### Text
 content::
