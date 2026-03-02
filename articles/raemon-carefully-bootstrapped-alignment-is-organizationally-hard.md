@@ -9,6 +9,7 @@ description: "The plan of \"use AI to help us navigate superintelligence\" is no
 tags:
   - "obsidian-web-clipper"
 ---
+
 In addition to technical challenges, plans to safely develop AI face lots of organizational challenges. If you're running an AI lab, you need a concrete plan for handling that. 
 
 In this post, I'll explore some of those issues, using one particular AI plan as an example. I first heard this described by [Buck](https://lesswrong.com/users/buck) at EA Global London, and more recently with [OpenAI's alignment plan](https://www.lesswrong.com/posts/FAJWEfXxws8pMp8Hk/link-why-i-m-optimistic-about-openai-s-alignment-approach). (I think [Anthropic's plan](https://www.anthropic.com/index/core-views-on-ai-safety) has a fairly different ontology, although it still ultimately routes through a similar set of difficulties)
