@@ -2,7 +2,6 @@
 id: b5cd523c-9426-4f3b-93d4-81b098b7f49c
 tags:
   - lens
-  - work-in-progress
 ---
 ### Article: What AI evaluations for preventing catastrophic risks can and cannot do
 source:: [[../articles/barnett+thiergart-what-ai-evaluations-for-preventing-catastrophic-risks-can-and-cannot-do]]
