@@ -2,7 +2,6 @@
 id: 3ac9034c-2107-4522-9bbe-36eeb3fae4ad
 tags:
   - lens
-  - work-in-progress
 ---
 
 ### Page: Automating Alignment
