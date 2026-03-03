@@ -65,6 +65,7 @@ source:: [[../Lenses/MI for AGI Safety]]
 optional:: true
 source:: [[../Lenses/Interpretability Will Not Reliably Find Deceptive AI]]
 
+# Submodule: Evals
 ## Lens:
 optional:: false
 source:: [[../Lenses/AI Evaluations]]
