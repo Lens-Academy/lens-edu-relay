@@ -14,6 +14,7 @@ source::
 ## Lens:
 source::
 [[../Lenses/sidebar chat test 2 article segments|sidebar chat test 2 article segments]]
+
 # Page: Welcome to AI Safety
 id:: d1e2f3a4-b5c6-7890-d1e2-f3a4b5c67890
 ## Text
