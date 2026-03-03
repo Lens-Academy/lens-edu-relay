@@ -8,6 +8,10 @@ source:: [[../articles/wentworth--the-case-against-ai-control-research]]
 
 #### Article-excerpt
 
+#### Text
+content::
+Ask the AI Tutor any questions you may have:
+
 #### Chat
 instructions::
 Help the user understand this article, or help them with other questions they have.

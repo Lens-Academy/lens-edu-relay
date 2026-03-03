@@ -14,6 +14,10 @@ More than that, control research is "dual-use." To learn how to control an AI, y
 #### Article-excerpt
 from:: "Consider two broad possibilities:"
 
+#### Text
+content::
+Ask the AI Tutor any questions you may have:
+
 #### Chat
 instructions::
 Help the user understand this article, or help them with other questions they have.

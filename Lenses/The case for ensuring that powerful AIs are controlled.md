@@ -22,6 +22,10 @@ to:: "to some employees intentionally subverting security measures."
 from:: "# Evaluating whether you have control is doable"
 to:: "to use for the training, evaluation, and deployment of the model."
 
+#### Text
+content::
+Ask the AI Tutor any questions you may have:
+
 #### Chat
 instructions::
 Help the user understand this article, or help them with other questions they have.
