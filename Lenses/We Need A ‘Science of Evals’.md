@@ -8,3 +8,7 @@ source:: [[../articles/chris+apollo-research-we-need-a-science-of-evals]]
 
 #### Article-excerpt
 from:: "In this post,"
+
+#### Chat
+instructions::
+Help the user understand this article, or help them with other questions they have.

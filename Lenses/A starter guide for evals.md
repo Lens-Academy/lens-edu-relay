@@ -13,3 +13,7 @@ This perspective views evals as the most practical way to reduce uncertainty. By
 
 #### Article-excerpt
 to:: "high-confidence statements, we should not rely on evals alone."
+
+#### Chat
+instructions::
+Help the user understand this article, or help them with other questions they have.
