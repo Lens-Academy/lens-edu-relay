@@ -72,8 +72,7 @@ Taken together, Algorithm 1 followed by Algorithm 2 allows us to discover agents
 Our third algorithm transforms the game graph into a mechanised causal graph, allowing us to translate between the game and mechanised causal graph representations under some additional assumptions:
 
 ![](https://lh3.googleusercontent.com/R5Cu1JTJ6hPO5_wdHTAkxDpy-I7ncwNNm5XX6bDOqCpAaRzBlHZd5Nr-L9i-rDWNZ3hNM-u9OMXjr96Ya-6bJCwYuHdqQq3EyXj5VRxa=w393-rw-lo)
-
-Algorithm 3 takes as input a game graph and maps it to a mechanised causal graph. A decision indicates an ingoing terminal edge, a utility indicates an outgoing terminal edge.
+*Algorithm 3 takes as input a game graph and maps it to a mechanised causal graph. A decision indicates an ingoing terminal edge, a utility indicates an outgoing terminal edge.*
 
 ## Better safety tools to model AI agents
 
