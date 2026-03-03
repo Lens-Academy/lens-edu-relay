@@ -7,7 +7,6 @@ tags:
 source:: [[../articles/ngo--realism-about-rationality]]
 
 #### Article-excerpt
-from:: ""
 
 #### Text
 content::
