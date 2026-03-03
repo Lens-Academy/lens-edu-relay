@@ -60,6 +60,8 @@ Causal discovery infers a causal graph from experiments involving interventions.
 Our first algorithm uses this technique to discover the mechanised causal graph:
 
 ![](https://lh3.googleusercontent.com/spGFwsxZBHQR8Nc48QH6vjsQ0alu1jx_XuaGjOCtwDv_zyqp0kCcWlW3OkCavYALSH9gaXRRtpjTo4qj-xdqNElRcypVWimB7qKXKUSC=w1440-rw-lo)
+*Algorithm 1 takes as input interventional data from the system (mouse and cheese environment) and uses causal discovery to output a mechanised causal graph. See paper for details.*
+
 
 
 
