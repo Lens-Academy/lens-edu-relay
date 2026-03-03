@@ -6,6 +6,9 @@ tags:
 ### Article: Interpretability Will Not Reliably Find Deceptive AI
 source:: [[../articles/nanda-interpretability-will-not-reliably-find-deceptive-ai]]
 
-
 #### Article-excerpt
 to:: "in production, while evaluations can be more expensive and slow"
+
+#### Chat
+instructions::
+Help the user understand this article, or help them with other questions they have.

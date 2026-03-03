@@ -16,3 +16,7 @@ to:: "to more efficiently achieve reward (reward-hacking). "
 #### Article-excerpt
 from:: "## What makes mechanistic interpretability hard?"
 to:: "contribution of individual neurons to a model’s cognition process."
+
+#### Chat
+instructions::
+Help the user understand this article, or help them with other questions they have.
