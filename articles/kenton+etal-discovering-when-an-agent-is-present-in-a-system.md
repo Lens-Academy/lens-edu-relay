@@ -62,11 +62,9 @@ Our first algorithm uses this technique to discover the mechanised causal graph:
 ![](https://lh3.googleusercontent.com/spGFwsxZBHQR8Nc48QH6vjsQ0alu1jx_XuaGjOCtwDv_zyqp0kCcWlW3OkCavYALSH9gaXRRtpjTo4qj-xdqNElRcypVWimB7qKXKUSC=w1440-rw-lo)
 *Algorithm 1 takes as input interventional data from the system (mouse and cheese environment) and uses causal discovery to output a mechanised causal graph. See paper for details.*
 
-
-
+Our second algorithm transforms this mechanised causal graph to a game graph:
 
 ![](https://lh3.googleusercontent.com/YBcntAzyoRvf_aUhamHaa0SKSbh8kk8DgcHNB9YAecXokj9kMJc1sb420OVTd6PWRcaqSiZEk_l9BU7n9fYy7Ys6TCDR392_iDkcgJc_UQ=w393-rw-lo)
-
 Algorithm 2 takes as input a mechanised causal graph and maps it to a game graph. An ingoing terminal edge indicates a decision, an outgoing one indicates a utility.
 
 Taken together, Algorithm 1 followed by Algorithm 2 allows us to discover agents from causal experiments, representing them using CIDs.
