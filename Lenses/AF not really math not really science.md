@@ -7,7 +7,6 @@ tags:
 source:: [[../articles/altair-agent-foundations-not-really-math-not-really-science]]
 
 #### Article-excerpt
-from:: ""
 
 #### Text
 content::
