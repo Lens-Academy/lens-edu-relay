@@ -18,7 +18,7 @@ New, formal definition of agency gives clear principles for causal modelling of 
 
 We want to build safe, aligned artificial general intelligence (AGI) systems that pursue the intended goals of its designers. [Causal influence diagrams](https://deepmindsafetyresearch.medium.com/progress-on-causal-influence-diagrams-a7a32180b0d1#b09d) (CIDs) are a way to model decision-making situations that allow us to reason about [agent incentives](https://ojs.aaai.org/index.php/AAAI/article/view/17368). For example, here is a CID for a 1-step Markov decision process – a typical framework for decision-making problems.
 
-![](https://lh3.googleusercontent.com/Bp0bDSeGT9IbcFp2f0pBCGAz4Ci3kKtBb-sUhXd7bEYrrzXlGISRWT5oKatw3tOEH8rmXy5v4-ORMJVJWqvc55saD6_NJVDe0Jap7R4w=w393-rw-lo)
+![](https://lh3.googleusercontent.com/Bp0bDSeGT9IbcFp2f0pBCGAz4Ci3kKtBb-sUhXd7bEYrrzXlGISRWT5oKatw3tOEH8rmXy5v4-ORMJVJWqvc55saD6_NJVDe0Jap7R4w=w1440-rw-lo)
 
 S1 represents the initial state, A1 represents the agent’s decision (square), S2 the next state. R2 is the agent’s reward/utility (diamond). Solid links specify causal influence. Dashed edges specify information links – what the agent knows when making its decision.
 
