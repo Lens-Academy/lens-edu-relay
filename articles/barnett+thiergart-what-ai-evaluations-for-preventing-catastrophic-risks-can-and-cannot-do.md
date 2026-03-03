@@ -85,6 +85,8 @@ Evaluations currently cannot make reliable predictions about the specific capabi
 
 ![Refer to caption](https://arxiv.org/html/extracted/6027071/assumed_safe_1.png)
 
+![](https://arxiv.org/html/2412.08653v1/extracted/6027071/assumed_safe_1.png)
+
 Figure 1: Evaluations are performed such that the regions assumed to be safe are always overlapping. In the ideal case this maintains continuous safety coverage. Blue circles indicate evaluations, while black bars show the scaling range where models are assumed safe based on evaluation results. The fading of the black bar represents decreasing confidence in safety as scaling continues.
 
 Evaluating current models already requires strong assumptions about threat modeling, proxy-task design, and capability elicitation. Forecasting future capabilities introduces additional, even more demanding assumptions that:
