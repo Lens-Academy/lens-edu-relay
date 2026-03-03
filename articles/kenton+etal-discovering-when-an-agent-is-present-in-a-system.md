@@ -64,14 +64,14 @@ Our first algorithm uses this technique to discover the mechanised causal graph:
 
 Our second algorithm transforms this mechanised causal graph to a game graph:
 
-![](https://lh3.googleusercontent.com/YBcntAzyoRvf_aUhamHaa0SKSbh8kk8DgcHNB9YAecXokj9kMJc1sb420OVTd6PWRcaqSiZEk_l9BU7n9fYy7Ys6TCDR392_iDkcgJc_UQ=w393-rw-lo)
+![](https://lh3.googleusercontent.com/YBcntAzyoRvf_aUhamHaa0SKSbh8kk8DgcHNB9YAecXokj9kMJc1sb420OVTd6PWRcaqSiZEk_l9BU7n9fYy7Ys6TCDR392_iDkcgJc_UQ=w1440-rw-lo)
 *Algorithm 2 takes as input a mechanised causal graph and maps it to a game graph. An ingoing terminal edge indicates a decision, an outgoing one indicates a utility.*
 
 Taken together, Algorithm 1 followed by Algorithm 2 allows us to discover agents from causal experiments, representing them using CIDs.
 
 Our third algorithm transforms the game graph into a mechanised causal graph, allowing us to translate between the game and mechanised causal graph representations under some additional assumptions:
 
-![](https://lh3.googleusercontent.com/R5Cu1JTJ6hPO5_wdHTAkxDpy-I7ncwNNm5XX6bDOqCpAaRzBlHZd5Nr-L9i-rDWNZ3hNM-u9OMXjr96Ya-6bJCwYuHdqQq3EyXj5VRxa=w393-rw-lo)
+![](https://lh3.googleusercontent.com/R5Cu1JTJ6hPO5_wdHTAkxDpy-I7ncwNNm5XX6bDOqCpAaRzBlHZd5Nr-L9i-rDWNZ3hNM-u9OMXjr96Ya-6bJCwYuHdqQq3EyXj5VRxa=w1440-rw-lo)
 *Algorithm 3 takes as input a game graph and maps it to a mechanised causal graph. A decision indicates an ingoing terminal edge, a utility indicates an outgoing terminal edge.*
 
 ## Better safety tools to model AI agents
