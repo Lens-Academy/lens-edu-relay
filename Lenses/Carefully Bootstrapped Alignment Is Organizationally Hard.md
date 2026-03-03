@@ -16,9 +16,6 @@ Another argument is presented in the following article: *Carefully Bootstrapped 
 from:: "In addition to technical challenges, plans"
 to:: "a concrete plan for handling that."
 
-#### Text
-content:: [...]
-
 #### Article-excerpt
 from:: "# How "
 to:: "org, the rest of your org might plow ahead."
