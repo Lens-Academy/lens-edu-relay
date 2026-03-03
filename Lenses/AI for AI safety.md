@@ -19,3 +19,12 @@ to:: "a few options in this respect, for the different security factors above."
 #### Article-excerpt
 from:: "2.1 A tale of two feedback loops"
 to:: "restraint enough to hold off on pushing the capability frontier when necessary)."
+
+#### Text
+content::
+Ask the AI Tutor any questions you may have:
+
+#### Chat
+instructions::
+Help the user understand this article, or help them with other questions they have.
+

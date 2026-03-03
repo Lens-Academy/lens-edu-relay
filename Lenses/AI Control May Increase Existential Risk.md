@@ -11,11 +11,13 @@ content::
 This critique warns that control might be a "deadly distraction." If we think we can control a model, we might be tempted to build it sooner and make it more powerful. This creates a "false sense of security." If the control protocols have even a tiny flaw, a superintelligent model will find it and escape.
 More than that, control research is "dual-use." To learn how to control an AI, you first have to learn how a model might try to escape. This could accidentally teach us how to build more dangerous, "escape-ready" models.
 
-#### Text
-content:: [...]
-
 #### Article-excerpt
 from:: "Consider two broad possibilities:"
 
 #### Text
-content:: [...]
+content::
+Ask the AI Tutor any questions you may have:
+
+#### Chat
+instructions::
+Help the user understand this article, or help them with other questions they have.
