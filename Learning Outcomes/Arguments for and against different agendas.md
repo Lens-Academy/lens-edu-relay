@@ -36,6 +36,7 @@ content:: What would you trust more: behavior based evidence that a model is uns
 assessment-instructions:: Check that the student (1) clearly states a preference (behavioral vs mechanistic, or a conditional mix), (2) gives at least one concrete reason, and (3) names specific mind-changers: an example of new evidence, a stronger method, or a scenario where the other type would dominate. Reward nuance about false positives/negatives, distribution shift, and limits of mechanistic access.
 enforce-voice:: true
 
+# Submodule: Automating Alignment
 ## Lens:
 optional:: false
 source:: [[../Lenses/Automating Alignment]]
