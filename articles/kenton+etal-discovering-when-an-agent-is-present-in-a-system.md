@@ -40,7 +40,7 @@ To help illustrate our method, consider the following example consisting of a wo
 ![](https://lh3.googleusercontent.com/ES_lvqShn85Aht1wLYaUSRqrtWEP5RJ02JuWffqz7ch12sdibieRtltYSFb9CNlecjoraalcq6CTzj9qA18vMHAZb7kki_pbJ5oqh4NCJ_c=w1440-rw-lo)
 *The mouse and the cheese environment.*
 
-This canb e represent
+This can be represented by the following CID:
 
 ![](https://lh3.googleusercontent.com/zdm7jUIZGWkVhE3VCeiJH58vK4yQbH3IySQ0HRO-R3vWBvtdFnTgIKo7iWfOwFd2QzIKems3qL5Ro5Wu13LM1A4NzU1pHUnJ8KrIYvmCVUc=w393-rw-lo)
 
