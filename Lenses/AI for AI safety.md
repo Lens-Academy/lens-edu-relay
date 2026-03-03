@@ -22,5 +22,5 @@ to:: "restraint enough to hold off on pushing the capability frontier when neces
 
 #### Chat
 instructions::
-Help the user understand this article
+Help the user understand this article, or with other questions they have.
 
