@@ -20,6 +20,10 @@ to:: "a concrete plan for handling that."
 from:: "# How "
 to:: "org, the rest of your org might plow ahead."
 
+#### Text
+content::
+Ask the AI Tutor any questions you may have:
+
 #### Chat
 instructions::
 Help the user understand this article, or help them with other questions they have.

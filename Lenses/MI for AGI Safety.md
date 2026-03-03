@@ -16,6 +16,10 @@ Connor Leahy presents a skeptical view of interpretability as a complete safety 
 from:: 00:00
 to:: 21:01
 
+#### Text
+content::
+Ask the AI Tutor any questions you may have:
+
 #### Chat
 instructions::
 Help the user understand this article, or help them with other questions they have.
