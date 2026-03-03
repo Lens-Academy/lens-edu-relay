@@ -16,7 +16,7 @@ content:: You're meeting a friendly assistant helping you test this voice functi
 ai-instructions:: You're an assistant helping a developer test this a voice chatting feature. Speak in natural spoken language with relatively short sentences.
 opening-message:: Good morning! I have about 5 minutes before my next meeting. I hear you'd like to talk about this voice feature.
 assessment-instructions:: Evaluate whether the student clearly articulated the value proposition of AI safety regulation.
-
+feedback:: true
 #### Text
 content::
 The relationship that biologists have with DNA is pretty much the relationship that AI engineers have with the numbers inside an AI. Indeed, biologists know far more about how DNA turns into biochemistry and adult traits than engineers understand about how the numbers inside an AI yield cogent conversation and useful behavior. Biologists have been at the job for decades longer.
