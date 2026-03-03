@@ -37,6 +37,8 @@ Combined, these results provide an extra layer of assurance that a modelling mis
 
 To help illustrate our method, consider the following example consisting of a world containing three squares, with a mouse starting in the middle square choosing to go left or right, getting to its next position and then potentially getting some cheese. The floor is icy, so the mouse might slip. Sometimes the cheese is on the right, but sometimes on the left.
 
+
+
 ![](https://lh3.googleusercontent.com/zdm7jUIZGWkVhE3VCeiJH58vK4yQbH3IySQ0HRO-R3vWBvtdFnTgIKo7iWfOwFd2QzIKems3qL5Ro5Wu13LM1A4NzU1pHUnJ8KrIYvmCVUc=w393-rw-lo)
 
 CID for the mouse. D represents the decision of left/right. X is the mouse’s new position after taking the action left/right (it might slip, ending up on the other side by accident). U represents whether the mouse gets cheese or not.
