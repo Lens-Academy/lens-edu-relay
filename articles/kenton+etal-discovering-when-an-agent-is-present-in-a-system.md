@@ -43,8 +43,7 @@ To help illustrate our method, consider the following example consisting of a wo
 This can be represented by the following CID:
 
 ![](https://lh3.googleusercontent.com/zdm7jUIZGWkVhE3VCeiJH58vK4yQbH3IySQ0HRO-R3vWBvtdFnTgIKo7iWfOwFd2QzIKems3qL5Ro5Wu13LM1A4NzU1pHUnJ8KrIYvmCVUc=w393-rw-lo)
-
-*CID for the mouse. D represents the decision of left/right. X is the mouse’s new position after taking the action left/right (it might slip, ending up on the other side by accident). U represents whether the mouse gets cheese or not.
+*CID for the mouse. D represents the decision of left/right. X is the mouse’s new position after taking the action left/right (it might slip, ending up on the other side by accident). U represents whether the mouse gets cheese or not.*
 
 The intuition that the mouse would choose a different behaviour for different environment settings (iciness, cheese distribution) can be captured by a [mechanised causal graph](https://drive.google.com/file/d/1_OBLw9u29FrqROsLfhO6rIaWGK4xJ3il/view), which for each (object-level) variable, also includes a mechanism variable that governs how the variable depends on its parents. Crucially, we allow for links between mechanism variables.
 
