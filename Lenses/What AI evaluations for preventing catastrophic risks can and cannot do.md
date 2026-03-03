@@ -50,7 +50,8 @@ from:: "### 3.4 Unknown unknown risks"
 to:: "lead to catastrophic and possibly existential outcomes."
 
 #### Text
-content
+content::
+Ask the AI Tutor any questions you may have:
 
 #### Chat
 instructions::
