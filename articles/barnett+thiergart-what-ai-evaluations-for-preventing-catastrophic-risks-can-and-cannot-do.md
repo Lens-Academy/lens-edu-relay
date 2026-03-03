@@ -83,8 +83,6 @@ This limitation has different implications for different types of risk. For misu
 
 Evaluations currently cannot make reliable predictions about the specific capabilities of future AI systems. This is an important goal of AI evaluation frameworks, because it would allow AI developers to take preventative actions before risks materialize. The standard approach attempts to measure “precursor capabilities” that would emerge before dangerous ones, serving as warning signs. If an evaluation which does not demonstrate precursor capabilities it is assumed that continued scaling is safe (Figure [1](https://arxiv.org/html/2412.08653v1#S3.F1 "Figure 1 ‣ 3.2 Robustly forecast future model capabilities ‣ 3 What AI evaluations cannot do ‣ What AI evaluations for preventing catastrophic risks can and cannot do")). This approach rests on unjustifiable assumptions.
 
-![Refer to caption](https://arxiv.org/html/extracted/6027071/assumed_safe_1.png)
-
 ![](https://arxiv.org/html/2412.08653v1/extracted/6027071/assumed_safe_1.png)
 
 Figure 1: Evaluations are performed such that the regions assumed to be safe are always overlapping. In the ideal case this maintains continuous safety coverage. Blue circles indicate evaluations, while black bars show the scaling range where models are assumed safe based on evaluation results. The fading of the black bar represents decreasing confidence in safety as scaling continues.
