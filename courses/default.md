@@ -6,15 +6,15 @@ title: AI Safety Course
 
 # Module: [[../modules/introduction]]
 
-# Meeting: 1. I
+# Meeting: 1. Introduction
 
 # Module: [[../modules/feedback-loops]]
 
-# Meeting: 2
+# Meeting: 2. Feedback Loops
 
 # Module: [[../modules/what-even-is-ai]]
 
-# Meeting: 3
+# Meeting: 3. Cognitive Supo
 
 # Module: [[../modules/Cognitive Superpowers]]
 
