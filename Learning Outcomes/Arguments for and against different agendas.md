@@ -54,6 +54,7 @@ source:: [[../Lenses/We Need A ‘Science of Evals’]]
 optional:: false
 source:: [[../Lenses/What AI evaluations for preventing catastrophic risks can and cannot do]]
 
+# Submodule: Control
 ## Lens:
 optional:: false
 source:: [[../Lenses/AI Control]]
