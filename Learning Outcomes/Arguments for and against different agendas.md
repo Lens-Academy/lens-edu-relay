@@ -71,6 +71,7 @@ source:: [[../Lenses/AI Control May Increase Existential Risk]]
 optional:: true
 source:: [[../Lenses/The Case Against AI Control Research]]
 
+# Submodule: Agent Foundations
 ## Lens:
 optional:: false
 source:: [[../Lenses/Agent Foundations]]
