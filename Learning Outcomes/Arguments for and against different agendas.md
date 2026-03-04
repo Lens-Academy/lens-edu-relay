@@ -88,7 +88,7 @@ source:: [[../Lenses/Embedded agents]]
 optional:: false
 source:: [[../Lenses/Realism about rationality]]
 
-# Submodule: Test y
+# Submodule: Test Your Understaning
 
 ## Test:
 id:: be1e845f-9faf-4508-b07e-83fb829c5a71
