@@ -14,17 +14,17 @@ title: AI Safety Course
 
 # Module: [[../modules/what-even-is-ai]]
 
-# Meeting: 3. Cognitive Supo
+# Meeting: 3. Cognitive Superpowers
 
 # Module: [[../modules/Cognitive Superpowers]]
 
 # Module:  [[../modules/coming-soon]]
 
-# Meeting: 4
+# Meeting: 4. Fundamental Difficulties
 
 # Module:  [[../modules/Fundamental Difficulties]]
 
-# Meeting: 5
+# Meeting: 5. Existing Ap
 
 # Module: [[../modules/Existing approaches]]
 
