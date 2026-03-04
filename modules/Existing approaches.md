@@ -7,10 +7,11 @@ tags:
   - module
 ---
 
-# Page: Welcome
+# Submodule: Welcome
+## Page: Welcome
 id:: dc56fe14-2c41-4057-b112-a84c0b2ef303
 
-## Text
+### Text
 content::
 We want to open this module with the quote from the essay [A newcomer’s guide to the technical AI safety field — AI Alignment Forum](https://www.alignmentforum.org/posts/5rsa37pBjo4Cf9fkE/a-newcomer-s-guide-to-the-technical-ai-safety-field)
 >AI safety is a pre-paradigmatic field, which APA defines as:

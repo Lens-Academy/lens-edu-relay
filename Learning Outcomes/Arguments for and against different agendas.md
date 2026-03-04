@@ -6,6 +6,90 @@ tags:
   - learning outcome
 ---
 
+
+# Submodule: Automating Alignment
+## Lens:
+optional:: false
+source:: [[../Lenses/Automating Alignment]]
+
+## Lens:
+optional:: false
+source:: [[../Lenses/AI for AI safety]]
+
+## Lens:
+optional:: false
+source:: [[../Lenses/Carefully Bootstrapped Alignment Is Organizationally Hard]]
+
+# Submodule: Mechanistic Interpretability
+## Lens:
+optional:: false
+source:: [[../Lenses/Mechanistic Interpretability]]
+
+## Lens:
+optional:: false
+source:: [[../Lenses/Introduction to Mechanistic Interpretability]]
+
+## Lens:
+optional:: false
+source:: [[../Lenses/MI for AGI Safety]]
+
+## Lens:
+optional:: true
+source:: [[../Lenses/Interpretability Will Not Reliably Find Deceptive AI]]
+
+# Submodule: Evals
+## Lens:
+optional:: false
+source:: [[../Lenses/AI Evaluations]]
+
+## Lens:
+optional:: false
+source:: [[../Lenses/A starter guide for evals]]
+
+## Lens:
+optional:: true
+source:: [[../Lenses/We Need A ‘Science of Evals’]]
+
+## Lens:
+optional:: false
+source:: [[../Lenses/What AI evaluations for preventing catastrophic risks can and cannot do]]
+
+# Submodule: Control
+## Lens:
+optional:: false
+source:: [[../Lenses/AI Control]]
+
+## Lens:
+optional:: false
+source:: [[../Lenses/The case for ensuring that powerful AIs are controlled]]
+
+## Lens:
+optional:: false
+source:: [[../Lenses/AI Control May Increase Existential Risk]]
+
+## Lens:
+optional:: true
+source:: [[../Lenses/The Case Against AI Control Research]]
+
+# Submodule: Agent Foundations
+## Lens:
+optional:: false
+source:: [[../Lenses/Agent Foundations]]
+
+## Lens:
+optional:: false
+source:: [[../Lenses/AF not really math not really science]]
+
+## Lens:
+optional:: true
+source:: [[../Lenses/Embedded agents]]
+
+## Lens:
+optional:: false
+source:: [[../Lenses/Realism about rationality]]
+
+# Submodule: Test Your Understanding
+
 ## Test:
 id:: be1e845f-9faf-4508-b07e-83fb829c5a71
 
@@ -35,79 +119,3 @@ feedback:: true
 content:: What would you trust more: behavior based evidence that a model is unsafe, or mechanistic evidence, and what could change your mind? You can type your answer or record it using the microphone.
 assessment-instructions:: Check that the student (1) clearly states a preference (behavioral vs mechanistic, or a conditional mix), (2) gives at least one concrete reason, and (3) names specific mind-changers: an example of new evidence, a stronger method, or a scenario where the other type would dominate. Reward nuance about false positives/negatives, distribution shift, and limits of mechanistic access.
 enforce-voice:: true
-
-## Lens:
-optional:: false
-source:: [[../Lenses/Automating Alignment]]
-
-## Lens:
-optional:: false
-source:: [[../Lenses/AI for AI safety]]
-
-## Lens:
-optional:: false
-source:: [[../Lenses/Carefully Bootstrapped Alignment Is Organizationally Hard]]
-
-## Lens:
-optional:: false
-source:: [[../Lenses/Mechanistic Interpretability]]
-
-## Lens:
-optional:: false
-source:: [[../Lenses/Introduction to Mechanistic Interpretability]]
-
-## Lens:
-optional:: false
-source:: [[../Lenses/MI for AGI Safety]]
-
-## Lens:
-optional:: true
-source:: [[../Lenses/Interpretability Will Not Reliably Find Deceptive AI]]
-
-## Lens:
-optional:: false
-source:: [[../Lenses/AI Evaluations]]
-
-## Lens:
-optional:: false
-source:: [[../Lenses/A starter guide for evals]]
-
-## Lens:
-optional:: true
-source:: [[../Lenses/We Need A ‘Science of Evals’]]
-
-## Lens:
-optional:: false
-source:: [[../Lenses/What AI evaluations for preventing catastrophic risks can and cannot do]]
-
-## Lens:
-optional:: false
-source:: [[../Lenses/AI Control]]
-
-## Lens:
-optional:: false
-source:: [[../Lenses/The case for ensuring that powerful AIs are controlled]]
-
-## Lens:
-optional:: false
-source:: [[../Lenses/AI Control May Increase Existential Risk]]
-
-## Lens:
-optional:: true
-source:: [[../Lenses/The Case Against AI Control Research]]
-
-## Lens:
-optional:: false
-source:: [[../Lenses/Agent Foundations]]
-
-## Lens:
-optional:: false
-source:: [[../Lenses/AF not really math not really science]]
-
-## Lens:
-optional:: true
-source:: [[../Lenses/Embedded agents]]
-
-## Lens:
-optional:: false
-source:: [[../Lenses/Realism about rationality]]
