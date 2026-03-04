@@ -19,7 +19,7 @@ ai-instructions:: You're an assistant helping a developer test this a voice chat
 opening-message:: Good morning! I have about 5 minutes before my next meeting. I hear you'd like to talk about this voice feature.
 %%
 
-content
+content:: You're meeting someone who's never heard 
 
 assessment-instructions:: Evaluate whether the student clearly articulated the value proposition of AI safety regulation.
 feedback:: true
