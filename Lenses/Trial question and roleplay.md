@@ -19,7 +19,8 @@ ai-instructions:: You're an assistant helping a developer test this a voice chat
 opening-message:: Good morning! I have about 5 minutes before my next meeting. I hear you'd like to talk about this voice feature.
 %%
 
-content:: You're meeting someone who's never heard of AI Safety before. 
+content:: You're meeting someone who's never heard of AI Safety before.
+ai-instructions:: You're an assistant helping a developer test this a voice chatting feature. Speak in natural spoken language with relatively short sentences.
 
 assessment-instructions:: Evaluate whether the student clearly articulated the value proposition of AI safety regulation.
 feedback:: true
