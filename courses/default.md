@@ -6,7 +6,7 @@ title: AI Safety Course
 
 # Module: [[../modules/introduction]]
 
-# Meeting: 1
+# Meeting: 1. I
 
 # Module: [[../modules/feedback-loops]]
 
