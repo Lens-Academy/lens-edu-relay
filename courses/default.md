@@ -6,11 +6,11 @@ title: AI Safety Course
 
 # Module: [[../modules/introduction]]
 
-# Meeting: 1. Introduction
+# Meeting: Introduction
 
 # Module: [[../modules/feedback-loops]]
 
-# Meeting: 2. Feedback Loops
+# Meeting: Feedback Loops
 
 # Module: [[../modules/what-even-is-ai]]
 
@@ -34,4 +34,4 @@ title: AI Safety Course
 
 # Module:  [[../modules/coming-soon]]
 
-# Meeting: 7. What do
+# Meeting: 7. What do we do next?
