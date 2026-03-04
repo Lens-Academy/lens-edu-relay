@@ -17,11 +17,11 @@ id:: 313958db-3b65-438f-9725-d9b483977284
 content:: You're meeting a friendly assistant helping you test this voice functionality.
 ai-instructions:: You're an assistant helping a developer test this a voice chatting feature. Speak in natural spoken language with relatively short sentences.
 opening-message:: Good morning! I have about 5 minutes before my next meeting. I hear you'd like to talk about this voice feature.
-assessment-instructions:: Evaluate whether the student clearly articulated the value proposition of AI safety regulation.
 %%
 
+content
 
-
+assessment-instructions:: Evaluate whether the student clearly articulated the value proposition of AI safety regulation.
 feedback:: true
 #### Text
 content::
