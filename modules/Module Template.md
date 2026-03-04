@@ -8,12 +8,6 @@ tags:
   - module
   - work-in-progress
   - validator-ignore
-tag
-s:
-  - module
-  - val
-idator-ignore
-  - wok-in-progress
 ---
 
 # Page: Welcome
