@@ -20,7 +20,7 @@ opening-message:: Good morning! I have about 5 minutes before my next meeting. I
 %%
 
 content:: You're meeting someone who's never heard of AI Safety before.
-ai-instructions:: You're an assistant helping a developer test this a voice chatting feature. Speak in natural spoken language with relatively short sentences.
+ai-instructions:: You're a university-educat
 
 assessment-instructions:: Evaluate whether the student clearly articulated the value proposition of AI safety regulation.
 feedback:: true
