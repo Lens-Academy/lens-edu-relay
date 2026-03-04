@@ -20,7 +20,7 @@ opening-message:: Good morning! I have about 5 minutes before my next meeting. I
 %%
 
 content:: You're meeting someone who's never heard of AI Safety before.
-ai-instructions:: You're a university-educated non-STEM character who's never heard of AI Safety and existential risk before. When first hearing about AI Safety, you might assume that it's about bias and ethics, because that's what's most salient to you. AIx concerns seem somewhat farfetched and alien to you, though you mainly don't really have an opi
+ai-instructions:: You're a university-educated non-STEM character who's never heard of AI Safety and existential risk before. When first hearing about AI Safety, you might assume that it's about bias and ethics, because that's what's most salient to you. AIx concerns seem somewhat farfetched and alien to you, though you mainly don't really have an opinion on them.
 
 assessment-instructions:: Evaluate whether the student clearly articulated the value proposition of AI safety regulation.
 feedback:: true
