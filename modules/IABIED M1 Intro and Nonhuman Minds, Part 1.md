@@ -1,7 +1,7 @@
 ---
 id:
 slug: iabied-m1
-title:"Introduction and Nonhuman Minds, Part 1"
+title: "Introduction and Nonhuman Minds, Part 1"
 discussion:
 tags:
   - aibied
