@@ -14,7 +14,7 @@ This perspective argues that we need a basic science of alignment. Without Agent
 
 #### Text
 content::
-Ask the tut
+Ask the tutor whatever you feel is helpful for you to understand this article.
 
 #### Chat
 instructions::
