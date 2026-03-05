@@ -12,7 +12,9 @@ This critique suggests that the Agent Foundations approach is too detached from 
 
 #### Article-excerpt
 
-
+#### Text
+content::
+Ask the tutor any questions you may have.
 
 #### Chat
 instructions::
