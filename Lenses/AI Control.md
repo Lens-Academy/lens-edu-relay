@@ -16,7 +16,7 @@ This module examines methods for the safe operation of systems that we cannot ye
 
 #### Text
 content::
-**How does learning how to secure an AI potentially may assist that same AI in discovering escape routes?**
+**How might learning how to secure an AI assist that same AI in discovering escape routes?**
 
 #### Chat: Discussion on X-Risk
 instructions::
