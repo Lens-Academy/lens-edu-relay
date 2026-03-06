@@ -2,7 +2,7 @@
 id: b2239515-2a69-48c6-8a40-0108c868c6a7
 slug:
 title:
-discussion: 
+discussion: https://discordapp.com/channels/1440725236843806762/1476535068779483259 
 tags:
   - module
   - work-in-progress
