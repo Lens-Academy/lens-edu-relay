@@ -9,7 +9,7 @@ description: "A plea from the future to present-day humanity."
 tags:
 
 ---
-(2008) Nick Bostrom aaa
+(2008) Nick Bostrom
 
 Version: 3.3 (2020)  
 \[First version circa 2006; subsequently published in *Studies in Ethics, Law, and Technology* (2008): Vol. 2, No. 1: pp. 1-7. Republished several times; translated into French, Spanish, and Italian.\] \[[PDF](https://nickbostrom.com/utopia.pdf)\]  
