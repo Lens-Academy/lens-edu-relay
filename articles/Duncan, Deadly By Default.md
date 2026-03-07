@@ -78,7 +78,7 @@ There is no end point. There’s no “enough is enough.” No matter how rich y
 
 ---
 
-## 3\. The smarter the agent, the more complex its plans.
+## 3. The smarter the agent, the more complex its plans.
 
 I’ve previously found it useful to think of [intelligence](https://homosabiens.substack.com/p/strategic-convergence-among-relatively) as being made up of three parts:
 
