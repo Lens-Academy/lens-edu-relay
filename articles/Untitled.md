@@ -1,6 +1,6 @@
 ---
 title: "Letter from Utopia"
-source: "https://nickbostrom.com/utopia"
+source_url: "https://nickbostrom.com/utopia"
 author:
   - "Nick Bostrom"
 published: 2020
