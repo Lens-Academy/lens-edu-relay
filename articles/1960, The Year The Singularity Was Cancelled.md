@@ -10,7 +10,7 @@ tags:ippings"
 
 April 22, 2019
 
-***Epis­temic sta­tus:** Very spec­u­la­tive, es­pe­cially Parts 3 and 4. Like many good things, this post is based on a con­ver­sa­tion with Paul Chris­tiano; most of the good ideas are his, any er­rors are mine.*
+***Epis­temic sta­tus:** Very spec­u­la­tive, es­pe­cially Parts 3 and 4. Like many good things, this post is based on a con­ver­sa­tion with Paul Chris­tiano; most of the good ideas are his, any er­ror	s are  mine.*
 
 ### I
 
