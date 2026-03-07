@@ -1,7 +1,7 @@
 ---
 title: 'The "most important century" blog post series'
 author: Holden Karnofsky
-date: 2021-09-24
+published: 2021-09-24
 source_url: https://www.cold-takes.com/most-important-century/
 ---
 
