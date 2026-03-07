@@ -12,10 +12,18 @@ We'll be asking you some questions about X
 
 #### Roleplay
 id:: 313958db-3b65-438f-9725-d9b483977284
+
+%%
 content:: You're meeting a friendly assistant helping you test this voice functionality.
 ai-instructions:: You're an assistant helping a developer test this a voice chatting feature. Speak in natural spoken language with relatively short sentences.
 opening-message:: Good morning! I have about 5 minutes before my next meeting. I hear you'd like to talk about this voice feature.
-assessment-instructions:: Evaluate whether the student clearly articulated the value proposition of AI safety regulation.
+%%
+
+content:: You're meeting someone who's never heard of AI Safety before.
+ai-instructions:: You're a university-educated non-STEM character who's never heard of AI Safety and existential risk before. When first hearing about AI Safety, you might assume that it's about bias and ethics, because that's what's most salient to you. AIx concerns seem somewhat farfetched and alien to you, though you mainly don't really have an opinion on them.
+opening-message:: Hello! I heard you're doing some online course, about.. AI Safety? What's that?
+
+assessment-instructions:: Evaluate whether the student clearly articulated the core concepts of AI Safety as an existential risk factor.
 feedback:: true
 #### Text
 content::

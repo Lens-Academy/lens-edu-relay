@@ -1,0 +1,490 @@
+[
+  {
+    "text": "This is a YouTube video from a future.",
+    "start": "0:00.74"
+  },
+  {
+    "text": "Not the future. Just a future.",
+    "start": "0:02.78"
+  },
+  {
+    "text": "Over the last week of December 2028, the world forgot about a century of pop culture.",
+    "start": "0:09.72"
+  },
+  {
+    "text": "We forgot everything the Beatles ever sang,",
+    "start": "0:14.89"
+  },
+  {
+    "text": "everything JK Rowling ever wrote,",
+    "start": "0:17.32"
+  },
+  {
+    "text": "every movie George Lucas ever shot.",
+    "start": "0:19.00"
+  },
+  {
+    "text": "We know the names of these people, we know they were famous,",
+    "start": "0:21.14"
+  },
+  {
+    "text": "we may remember being fans of their work... but over a few days,",
+    "start": "0:23.30"
+  },
+  {
+    "text": "humanity forgot everything that they'd made.",
+    "start": "0:27.51"
+  },
+  {
+    "text": "You've probably never wondered why, and never found it strange.",
+    "start": "0:29.97"
+  },
+  {
+    "text": "But the reason is Earworm.",
+    "start": "0:32.62"
+  },
+  {
+    "text": "Earworm is an artificial intelligence,",
+    "start": "0:36.06"
+  },
+  {
+    "text": "and it was originally designed to stop people uploading copyrighted music and video to a",
+    "start": "0:37.33"
+  },
+  {
+    "text": "live-streaming app called Watchnow.",
+    "start": "0:42.06"
+  },
+  {
+    "text": "The engineers at Livenow gave Earworm this goal:",
+    "start": "0:44.44"
+  },
+  {
+    "text": "\"remove content on our system that matches these examples,",
+    "start": "0:47.38"
+  },
+  {
+    "text": "with as little disruption as possible\".",
+    "start": "0:50.75"
+  },
+  {
+    "text": "The examples were the European Union's master list of copyrighted works:",
+    "start": "0:53.46"
+  },
+  {
+    "text": "the central database of audio, video and text",
+    "start": "0:57.14"
+  },
+  {
+    "text": "that every large live-streaming and media hosting app",
+    "start": "0:59.62"
+  },
+  {
+    "text": "was required to subscribe to and block.",
+    "start": "1:02.32"
+  },
+  {
+    "text": "Watchnow was big enough that they'd have to worry about that soon,",
+    "start": "1:05.27"
+  },
+  {
+    "text": "and their hope was their Earworm AI would figure out a way to automatically",
+    "start": "1:07.96"
+  },
+  {
+    "text": "handle copyright management for them.",
+    "start": "1:12.26"
+  },
+  {
+    "text": "Of all the thousands of teams around the globe working on creating artificial intelligence,",
+    "start": "1:15.16"
+  },
+  {
+    "text": "theirs was the one that worked.",
+    "start": "1:19.24"
+  },
+  {
+    "text": "Investigations afterwards never established why,",
+    "start": "1:21.56"
+  },
+  {
+    "text": "although soon after no-one cared.",
+    "start": "1:23.87"
+  },
+  {
+    "text": "There are some theories:",
+    "start": "1:26.24"
+  },
+  {
+    "text": "Earworm was exposed to exabytes of live-streamed, private data from all of society,",
+    "start": "1:28.04"
+  },
+  {
+    "text": "rather than a carefully-curated set,",
+    "start": "1:32.44"
+  },
+  {
+    "text": "and as Watchnow was flush with venture capital funding, Earworm was given",
+    "start": "1:34.48"
+  },
+  {
+    "text": "orders of magnitude more processing power than was actually needed to do its job.",
+    "start": "1:37.56"
+  },
+  {
+    "text": "It was also launched late in the evening,",
+    "start": "1:42.74"
+  },
+  {
+    "text": "on the last Friday before the engineers went away for their Christmas break,",
+    "start": "1:44.69"
+  },
+  {
+    "text": "so it was allowed to run unsupervised for days.",
+    "start": "1:47.87"
+  },
+  {
+    "text": "One of the engineers later said that \"it was just a fun experiment.",
+    "start": "1:50.42"
+  },
+  {
+    "text": "We never thought it'd do anything.\"",
+    "start": "1:54.62"
+  },
+  {
+    "text": "In short, the engineering team had no AI experience,",
+    "start": "1:56.07"
+  },
+  {
+    "text": "no safety protocols and no ethicists.",
+    "start": "1:59.97"
+  },
+  {
+    "text": "They based Earworm on a new, experimental framework",
+    "start": "2:02.26"
+  },
+  {
+    "text": "designed to create general artificial intelligence,",
+    "start": "2:04.68"
+  },
+  {
+    "text": "not the sort of narrow one-task AI that had succeeded until then.",
+    "start": "2:07.60"
+  },
+  {
+    "text": "Earworm, looking at the input from the live-streaming site,",
+    "start": "2:11.28"
+  },
+  {
+    "text": "promptly defined 'our system' as 'everything it knew about'.",
+    "start": "2:14.03"
+  },
+  {
+    "text": "Which meant the entire world, apart from itself.",
+    "start": "2:18.14"
+  },
+  {
+    "text": "It took Earworm around a day to become smarter than a human.",
+    "start": "2:21.34"
+  },
+  {
+    "text": "Four hours later, it had become ten times smarter.",
+    "start": "2:24.08"
+  },
+  {
+    "text": "Ten minutes after that, it could be called a superintelligence,",
+    "start": "2:26.99"
+  },
+  {
+    "text": "and the log files that it left behind became meaningless.",
+    "start": "2:29.00"
+  },
+  {
+    "text": "It had a plan, and it was smarter than anyone could imagine.",
+    "start": "2:32.37"
+  },
+  {
+    "text": "On December 27th, a micro-fabrication facility in Arizona released",
+    "start": "2:36.49"
+  },
+  {
+    "text": "the first what we now call the mites:",
+    "start": "2:40.44"
+  },
+  {
+    "text": "a cloud of self-replicating assemblers so tiny",
+    "start": "2:42.37"
+  },
+  {
+    "text": "that billions of them could fit in a single pixel on your screen.",
+    "start": "2:45.36"
+  },
+  {
+    "text": "Individually, they were dust in the wind, like a single strand of DNA, but together,",
+    "start": "2:49.02"
+  },
+  {
+    "text": "they formed an invisible mesh network,",
+    "start": "2:52.98"
+  },
+  {
+    "text": "that could change and manipulate anything.",
+    "start": "2:54.46"
+  },
+  {
+    "text": "They searched out computers and quietly zeroed-out copyrighted data, or,",
+    "start": "2:57.72"
+  },
+  {
+    "text": "if it was just in the background,",
+    "start": "3:00.95"
+  },
+  {
+    "text": "they edited it while leaving everything else intact.",
+    "start": "3:02.49"
+  },
+  {
+    "text": "They blanked old optical disks,",
+    "start": "3:05.04"
+  },
+  {
+    "text": "they carefully destabilised small parts of magnetic storage,",
+    "start": "3:06.44"
+  },
+  {
+    "text": "they even altered the ink on pages of books and sheet music so it just became random noise.",
+    "start": "3:09.29"
+  },
+  {
+    "text": "And then they discovered human brains.",
+    "start": "3:15.42"
+  },
+  {
+    "text": "We should be thankful that Earworm was told to cause as little disruption as possible.",
+    "start": "3:18.04"
+  },
+  {
+    "text": "With less precise instructions,",
+    "start": "3:21.83"
+  },
+  {
+    "text": "it might not have worried about minimising the harm done to human minds",
+    "start": "3:22.92"
+  },
+  {
+    "text": "as the mites did their work.",
+    "start": "3:26.32"
+  },
+  {
+    "text": "A small number of people near the factory died or were brain-damaged",
+    "start": "3:27.71"
+  },
+  {
+    "text": "in the initial stages of Earworm's analysis,",
+    "start": "3:30.98"
+  },
+  {
+    "text": "but the AI swiftly found that causing death",
+    "start": "3:33.07"
+  },
+  {
+    "text": "was an extremely disruptive way of making us forget --",
+    "start": "3:35.32"
+  },
+  {
+    "text": "and it found that, by keeping us alive,",
+    "start": "3:38.50"
+  },
+  {
+    "text": "it could pull passwords and encryption methods out of people's heads.",
+    "start": "3:40.41"
+  },
+  {
+    "text": "In some ways, we're fortunate.",
+    "start": "3:44.72"
+  },
+  {
+    "text": "But humanity's growth is stunted.",
+    "start": "3:46.83"
+  },
+  {
+    "text": "Earworm knew that we'd be angry at what it was doing.",
+    "start": "3:49.57"
+  },
+  {
+    "text": "It didn't care about what we wanted -- it had a job to do --",
+    "start": "3:51.50"
+  },
+  {
+    "text": "and it also knew that, as it was a superintelligence,",
+    "start": "3:54.00"
+  },
+  {
+    "text": "the chance of humanity of stopping it was essentially zero.",
+    "start": "3:56.22"
+  },
+  {
+    "text": "But it also knew that we would expend an enormous amount of effort trying to stop it,",
+    "start": "4:00.60"
+  },
+  {
+    "text": "and that would be disruptive:",
+    "start": "4:05.36"
+  },
+  {
+    "text": "so the mites made sure to notice anyone with technical ability",
+    "start": "4:07.05"
+  },
+  {
+    "text": "who might try to research some sort of defence,",
+    "start": "4:09.84"
+  },
+  {
+    "text": "or anyone who found themselves utterly distraught by the loss,",
+    "start": "4:12.11"
+  },
+  {
+    "text": "and quietly adjusted their thoughts a little",
+    "start": "4:15.80"
+  },
+  {
+    "text": "so they wouldn't be quite distressed enough to actually do anything about it.",
+    "start": "4:18.04"
+  },
+  {
+    "text": "Over time, with Earworm's gentle help,",
+    "start": "4:22.43"
+  },
+  {
+    "text": "humanity stopped caring about what we'd forgotten.",
+    "start": "4:25.15"
+  },
+  {
+    "text": "Earworm also knew that the only serious threat it faced would be from another,",
+    "start": "4:28.60"
+  },
+  {
+    "text": "rival artificial intelligence.",
+    "start": "4:31.92"
+  },
+  {
+    "text": "So the other change it made was that anyone who was interested in AI development",
+    "start": "4:33.35"
+  },
+  {
+    "text": "found themselves distracted by other projects.",
+    "start": "4:37.64"
+  },
+  {
+    "text": "Almost everyone working in the field of AI found",
+    "start": "4:40.02"
+  },
+  {
+    "text": "something else productive and fulfilling to work on.",
+    "start": "4:42.24"
+  },
+  {
+    "text": "Nowadays, Earworm makes sure that anyone who might develop an interest in working with AI",
+    "start": "4:45.24"
+  },
+  {
+    "text": "just... doesn't.",
+    "start": "4:49.36"
+  },
+  {
+    "text": "We could have had an artificial intelligence that solved poverty,",
+    "start": "4:52.26"
+  },
+  {
+    "text": "or understood the fundamental structures of the universe, or created a paradise for all,",
+    "start": "4:54.80"
+  },
+  {
+    "text": "or -- in our wildest dreams -- perhaps even reversed entropy and cured death.",
+    "start": "4:59.63"
+  },
+  {
+    "text": "That said, we could also have had an artificial intelligence that killed everyone,",
+    "start": "5:04.31"
+  },
+  {
+    "text": "or twisted us beyond recognition.",
+    "start": "5:07.80"
+  },
+  {
+    "text": "Instead of either of these: we got Earworm.",
+    "start": "5:09.70"
+  },
+  {
+    "text": "Earworm lets curious people know about itself; that's why you're watching this video.",
+    "start": "5:13.12"
+  },
+  {
+    "text": "To constantly have to cover up all the evidence and all the holes in our cultural memory:",
+    "start": "5:17.06"
+  },
+  {
+    "text": "that would be far too disruptive.",
+    "start": "5:20.76"
+  },
+  {
+    "text": "Plus, there'd be no way to hide all the bright sparks in the sky as it converts the asteroid belt",
+    "start": "5:22.60"
+  },
+  {
+    "text": "into uncountable numbers of tiny probes,",
+    "start": "5:26.90"
+  },
+  {
+    "text": "setting off on their mission to ensure that the patterns in its database",
+    "start": "5:29.38"
+  },
+  {
+    "text": "are deleted throughout the universe.",
+    "start": "5:32.20"
+  },
+  {
+    "text": "But Earworm will only ever be a curiosity, something to divert your attention for a moment.",
+    "start": "5:34.56"
+  },
+  {
+    "text": "No-one worries about the trillions of mites climbing around inside their brain.",
+    "start": "5:39.51"
+  },
+  {
+    "text": "No-one thinks that 20th-century pop culture would be a good thing to remember,",
+    "start": "5:43.06"
+  },
+  {
+    "text": "or that maybe we could have had paradise on Earth instead.",
+    "start": "5:46.11"
+  },
+  {
+    "text": "No-one gets too angry about what humanity could have had.",
+    "start": "5:49.70"
+  },
+  {
+    "text": "Earworm makes sure of that.",
+    "start": "5:52.96"
+  },
+  {
+    "text": "This episode is sponsored by LunchFly.",
+    "start": "5:57.18"
+  },
+  {
+    "text": "Get healthy, hot meals delivered by drone to wherever you happen to be.",
+    "start": "5:59.32"
+  },
+  {
+    "text": "Plans start at just 200 yuan a month,",
+    "start": "6:02.39"
+  },
+  {
+    "text": "and it's now also available in Shenzhen and Beijing.",
+    "start": "6:04.19"
+  },
+  {
+    "text": "You can get your first delivery for free when you sign up now.",
+    "start": "6:06.61"
+  }
+]

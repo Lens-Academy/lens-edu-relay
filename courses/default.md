@@ -6,28 +6,30 @@ title: AI Safety Course
 
 # Module: [[../modules/introduction]]
 
-# Meeting: 1
+# Meeting: Introduction
 
 # Module: [[../modules/feedback-loops]]
 
-# Meeting: 2
+# Meeting: Feedback Loops
 
 # Module: [[../modules/what-even-is-ai]]
 
-# Meeting: 3
+# Meeting: What even is AI?
 
 # Module: [[../modules/Cognitive Superpowers]]
 
-# Meeting: 4
+# Module:  [[../modules/coming-soon]]
+
+# Meeting: Cognitive Superpowers
 
 # Module:  [[../modules/Fundamental Difficulties]]
 
-# Meeting: 5
+# Meeting: Fundamental Difficulties
 
 # Module: [[../modules/Existing approaches]]
 
-# Meeting: 6
+# Meeting: Existing Approaches
 
 # Module:  [[../modules/coming-soon]]
 
-# Meeting: 7
+# Meeting: What do we do next?

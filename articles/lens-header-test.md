@@ -2,6 +2,7 @@
 title: Header test
 author: Luc Brinkman
 source_url: https://lensacademy.org
+published: 2026
 ---
 
 ## H2 More articles coming soon!

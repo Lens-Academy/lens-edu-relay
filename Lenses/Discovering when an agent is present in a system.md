@@ -2,7 +2,6 @@
 id: 60a1046d-cb9d-4803-ac84-810e070b79fb
 tags :
   - lens
-  - work-in-progress
 ---
 ### Article: Discovering when an agent is present in a system by Zachary Kenton et al.
 source:: [[../articles/kenton+etal-discovering-when-an-agent-is-present-in-a-system]]

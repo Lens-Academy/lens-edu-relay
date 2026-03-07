@@ -2,7 +2,6 @@
 id: 8be5ec8c-df65-4423-aa3f-5776384a1c41
 tags :
   - lens
-  - work-in-progress
 ---
 ### Article: When should we worry about AI power-seeking by Joe Carlsmith
 source:: [[../articles/carlsmith-when-should-we-worry-about-ai-power-seeking]]

@@ -2,7 +2,6 @@
 id: 85271748-4494-43ad-9c02-35319dacc9bd
 tags :
   - lens
-  - work-in-progress
 ---
 ### Video: Eliezer Yudkowsky – AI Alignment: Why It's Hard, and Where to Start
 source:: [[../video_transcripts/machineintelligenceresearchinstitute-eliezer-yudkowsky-ai-alignment-why-its-hard-and-where-to-start]]

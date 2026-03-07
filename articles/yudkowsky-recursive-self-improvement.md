@@ -1,7 +1,7 @@
 ---
 title: "Recursive Self-Improvement"
 author: Eliezer Yudkowsky
-date: 2008-12-01
+published: 2008-12-01
 source_url: https://www.lesswrong.com/posts/JBadX7rwdcRFzGuju/recursive-self-improvement
 ---
 
