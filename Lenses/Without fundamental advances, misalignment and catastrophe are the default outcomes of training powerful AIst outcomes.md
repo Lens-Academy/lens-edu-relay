@@ -2,7 +2,6 @@
 id: 0142f30d-e2a6-47b3-8125-33f6fede737e
 tags :
   - lens
-  - work-in-progress
 ---
 ### Article: Without fundamental advances, misalignment and catastrophe are the default outcomes of training powerful AIs
 source:: [[../articles/gillen+barnett-without-fundamental-advances,-misalignment-and-catastrophe-are-the-default-outcomes-of-training-powerful-ai]]
