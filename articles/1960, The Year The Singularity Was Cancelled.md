@@ -1,6 +1,6 @@
 ---
 title: "1960: The Year The Singularity Was Cancelled"
-source_url: "https://www.slatestarcodexabridged.com/1960-The-Year-The-Singularity-Was-Cancelled"
+source_url: "https://www.slatestarcodexabridged.com/1960-The-Year-The-Singularity-Was-Cancelled
 author:
 published:
 created: 2026-03-07
