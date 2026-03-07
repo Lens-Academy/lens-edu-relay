@@ -119,7 +119,7 @@ Oh, what a gruesome knot suffering is! Pull and tug on those loops, and you will
 
 May there come a time when rising suns are greeted with joy by all the creatures they shine upon.
 
-## \*
+## *
 
 “How do I find this place? How long will it take to get there?”
 
