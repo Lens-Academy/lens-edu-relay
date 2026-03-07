@@ -106,7 +106,7 @@ Or, in other words, at some point, we will *switch over* from “doing things be
 
 ---
 
-## 4\. You have to give your superintelligence the information it needs to get the job done.
+## 4. You have to give your superintelligence the information it needs to get the job done.
 
 Imagine setting out to have some major impact on the current geopolitical situation, without knowing anything about the personalities and histories of people like Xi Jinping or Vladimir Putin or Donald Trump.
 
@@ -124,7 +124,7 @@ The systems with less access to information will underperform, and the systems w
 
 ---
 
-## 5\. Humans are a part of reality.
+## 5. Humans are a part of reality.
 
 Not only are we a part of reality, we are a *manipulable* part of reality. Just look at how much money entities like Facebook pour into A/B testing and advertising, because those efforts pay off in terms of directing our behavior.
 
