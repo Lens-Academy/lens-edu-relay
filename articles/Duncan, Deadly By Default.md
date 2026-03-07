@@ -23,7 +23,7 @@ First Ever Glimpse Into Facebook's Massive Arctic Server Farm | DeMilked
 
 ---
 
-## 1\. The explicit target of many modern AI developers is superintelligence.
+## 1. The explicit target of many modern AI developers is superintelligence.
 
 There are truckloads of money to be found in things like replacing cashiers with kiosks and law clerks with LLMs, or deploying systems like AlphaFold which revolutionize entire industries.
 
@@ -48,7 +48,7 @@ A superintelligent system that can compress hundreds or thousands of years of hu
 
 ---
 
-## 2\. Every step on the path to a superintelligence makes you (lots of) money.
+## 2. Every step on the path to a superintelligence makes you (lots of) money.
 
 A *strong* system is one that can handle more complex and difficult problems. A *general* system is one that can be deployed on a wide range of tasks, as opposed to needing to be custom-built for one specific purpose.
 
