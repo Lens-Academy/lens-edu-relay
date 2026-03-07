@@ -292,5 +292,3 @@ Nevertheless, it is a thing of transcendent beauty. We have the opportunity to p
 27. <sup>27</sup> When the average person thinks of public institutions, they probably think of their experience with the DMV, IRS, medicare, or similar functions. Making these experiences more positive than they currently are seems like a powerful way to combat undue cynicism.
 28. <sup>28</sup> Indeed, in an AI-powered world, the range of such possible challenges and projects will be much vaster than it is today.
 29. <sup>29</sup> I am breaking my own rule not to make this about science fiction, but I’ve found it hard not to refer to it at least a bit. The truth is that science fiction is one of our only sources of expansive thought experiments about the future; I think it says something bad that it’s entangled so heavily with a particular narrow subculture.
-
-[![](https://cdn.prod.website-files.com/img/placeholder-thumb.svg)](https://darioamodei.com/essay/#)
