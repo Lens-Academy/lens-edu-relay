@@ -47,7 +47,7 @@ Quick, stop that door from closing! Shove your foot in so it does not slam shut.
 
 And let the faint draught of the beyond continue to whisper of a higher state. Feel it on your face, the tender words of what could be!
 
-## \*
+## *
 
 I am summoning the memory of your best moment – why? In the hope of kindling in you a desire to share my happiness.
 
@@ -63,7 +63,7 @@ But you don’t have to understand what I think and feel. If only you bear in mi
 
 You cannot get here by any magic trick or hokum, or by the power of wishful thinking, or by semantic acrobatics, meditation, affirmation, incantation, or by an act of parliament. I do not presume to advise you on matters theological or political (decisive though these may be). But what I urge on you is a reconfigured physical situation through technology.
 
-## \*
+## *
 
 The challenge before you: to become fully what you now are only in hope and potential. For this, new capacities are needed.
 
@@ -139,7 +139,7 @@ Seek the light! But approach with care – and swerve if you smell your wingtips
 
 When you embark on this quest, you will encounter rough seas and difficult challenges. To prevail will take your best science, your best technology, and your best politics. Yet each problem has a solution. My existence breaks no law of nature. All the needed materials are laid out in front of you. Your people must become master builders, and then you must use these skills to build yourselves up, without ever crushing your cores.
 
-## \*
+## *
 
 *What is Suffering in Utopia?* Suffering is the salt trace left on the cheeks of the oldtimers who were around before.
 
@@ -155,7 +155,7 @@ When you embark on this quest, you will encounter rough seas and difficult chall
 
 *What is Guilt in Utopia?* Guilt is our knowledge that we could have created Utopia sooner.
 
-## \*
+## *
 
 We love life here every instant. Every second is so good that it would blow your mind had its amperage not first been increased. My contemporaries and I bear witness, and we turn to you to request your aid. Please, help us come into existence! Please, join us! Whether this surpassing possibility becomes a reality is something you can influence. If your empathy can perceive at least the outlines of the vision I am describing, then I believe your ingenuity will find a way to make it real.
 
