@@ -7,7 +7,7 @@ published: 2020
 created: 2026-03-07
 description: "A plea from the future to present-day humanity."
 tags:
-  - "clippings"
+
 ---
 (2008) Nick Bostrom
 
