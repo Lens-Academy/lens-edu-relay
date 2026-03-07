@@ -150,7 +150,7 @@ Even the blind, fumbling, nascent AI systems of 2024 are already good enough to 
 
 ---
 
-## 6\. We don’t actually know how to install goals or values into an artificial intelligence.
+## 6. We don’t actually know how to install goals or values into an artificial intelligence.
 
 In point of fact, we actually don’t know how modern AI systems work *at all.*
 
@@ -207,7 +207,7 @@ And since we can’t just look directly at the code and comprehend its structure
 
 ---
 
-## 7\. Sufficiently competent agents notice strategic dead ends, and avoid them.
+## 7. Sufficiently competent agents notice strategic dead ends, and avoid them.
 
 …such as, for instance, the dead end of “if I behave in X way, then the humans will shut me down.”
 
@@ -239,7 +239,7 @@ None of this requires a system to be conscious, or self-aware. None of this requ
 
 ---
 
-## 8\. Artificial systems are not really known for doing things halfway.
+## 8. Artificial systems are not really known for doing things halfway.
 
 If you give a human a task that involves an endless loop, they will give up pretty quickly, and go do something else. Humans tend to do the bare minimum, whatever hits the threshold of *good enough.* We’re messy and lazy and we conserve energy by default (in part because energy was scarce in our ancestral environment and efficient organisms did better than profligate ones).
 
@@ -271,7 +271,7 @@ And it’s pretty difficult to specify *any* sort of goal that, taken to the lim
 
 ---
 
-## 9\. Indifference is often indistinguishable from hostility.
+## 9. Indifference is often indistinguishable from hostility.
 
 Humanity does not have a very good track record, when it comes to prioritizing and ennobling the goals and values of entities less intelligent than humans.
 
@@ -299,7 +299,7 @@ Obviously we would *like* for the extremely powerful artificial intelligences of
 
 ---
 
-## 10\. Smarter opponents simply do not lose to dumber opponents—not when the gap between them is big enough.
+## 10. Smarter opponents simply do not lose to dumber opponents—not when the gap between them is big enough.
 
 Our mythos is unfortunately *full* of stories in which the vain, foppish, intellectual supervillain is overcome by the pluck and spunk of our no-nonsense, down-to-earth, good old-fashioned hero. I’ve gone out into the world and talked to people about AI risk, and a literal majority of them *genuinely believe* that yeah, maybe Skynet will win the first round and kill most of us and the survivors will have to hide in the hills for a decade, but eventually they’ll band together and come up with a plan and win the day.
 
@@ -325,7 +325,7 @@ Your only hope, when fighting an opponent who is smarter than you, is that the g
 
 ---
 
-## 11\. …and the trap swings shut.
+## 11. …and the trap swings shut.
 
 Okay, putting it all together.
 
