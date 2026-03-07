@@ -1,8 +1,7 @@
 ---
 title: "Letter from Utopia"
 source_url: "https://nickbostrom.com/utopia"
-author:
-  - "Nick Bostrom"
+author: Nick Bostrom"
 published: 2020
 created: 2026-03-07
 description: "A plea from the future to present-day humanity."
