@@ -28,8 +28,6 @@ title: AI Safety Course
 
 # Module: [[../modules/Existing approaches]]
 
-# Module: [[../modules/introduction]]
-
 # Meeting: Existing Approaches
 
 # Module:  [[../modules/coming-soon]]
