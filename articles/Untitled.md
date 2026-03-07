@@ -1,6 +1,6 @@
 ---
 title: "Machines of Loving Grace"
-source: "https://darioamodei.com/essay/machines-of-loving-grace"
+source_url: "https://darioamodei.com/essay/machines-of-loving-grace"
 author: Dario Amodei
 published: 2024-10
 created: 2026-03-07
