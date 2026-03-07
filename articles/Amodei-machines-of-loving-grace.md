@@ -71,7 +71,7 @@ Thus, we should imagine a picture where intelligence is initially heavily bottle
 
 With the above framework in mind, I’ll try to answer that question for the five areas mentioned in the introduction.
 
-## 1\. Biology and health
+## 1. Biology and health
 
 Biology is probably the area where scientific progress has the greatest potential to directly and unambiguously improve the quality of human life. In the last century some of the most ancient human afflictions (such as smallpox) have finally been vanquished, but many more still remain, and defeating them would be an enormous humanitarian accomplishment. Beyond even curing disease, biological science can in principle improve the *baseline* quality of human health, by extending the healthy human lifespan, increasing control and freedom over our own biological processes, and addressing everyday problems that we currently think of as immutable parts of the human condition.
 
@@ -129,7 +129,7 @@ It is worth looking at this list and reflecting on how different the world will 
 
 It’s hard to overestimate how surprising these changes will be to everyone except the small community of people who expected powerful AI. For example, thousands of economists and policy experts in the US currently debate [how to keep Social Security](https://en.wikipedia.org/wiki/Social_Security_debate_in_the_United_States) and Medicare solvent, and more broadly how to keep down the cost of healthcare (which is mostly consumed by those over 70 and especially those with terminal illnesses such as cancer). The situation for these programs is likely to be radically improved if all this comes to pass, as the ratio of working age to retired population will change drastically. No doubt these challenges will be replaced with others, such as how to ensure widespread access to the new technologies, but it is worth reflecting on how much the world will change even if biology is the *only* area to be successfully accelerated by AI.
 
-## 2\. Neuroscience and mind
+## 2. Neuroscience and mind
 
 In the previous section I focused on *physical* diseases and biology in general, and didn’t cover neuroscience or mental health. But neuroscience is a subdiscipline of biology and mental health is just as important as physical health. In fact, if anything, mental health affects human well-being even more directly than physical health. Hundreds of millions of people have very low quality of life due to problems like addiction, depression, schizophrenia, low-functioning autism, PTSD, psychopathy, or intellectual disabilities. Billions more struggle with everyday problems that can often be interpreted as much milder versions of one of these severe clinical disorders. And as with general biology, it may be possible to go beyond addressing problems to improving the baseline quality of human experience.
 
