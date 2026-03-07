@@ -2,7 +2,6 @@
 id: bc7f7e53-0125-4e5b-af01-88c1fbcdb276
 tags :
   - lens
-  - work-in-progress
 ---
 ### Article: Meditations on Moloch - Scott Alexander
 source:: [[../articles/alexander-meditations-on-moloch]]
