@@ -29,7 +29,7 @@ How can I tell you about Utopia and not leave you mystified? With what words cou
 
 But maybe you will overlook the weakness of my exposition.
 
-## \*
+## *
 
 Have you ever experienced a moment of bliss? On the rapids of inspiration maybe, your mind tracing the shapes of truth and beauty? Or in the pulsing ecstasy of love? Or in a glorious triumph achieved with true friends? Or in a conversation on a vine-overhung terrace one star-appointed night? Or perhaps a melody smuggled itself into your heart, charming it and setting it alight with kaleidoscopic emotions? Or when you prayed, and felt heard?
 
