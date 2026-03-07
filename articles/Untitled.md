@@ -1,13 +1,11 @@
 ---
-title: "Dario Amodei — Machines of Loving Grace"
+title: "Machines of Loving Grace"
 source: "https://darioamodei.com/essay/machines-of-loving-grace"
-author:
-  - "[[correlated]]"
+author: Dario Amodei
 published: 2024-10
 created: 2026-03-07
 description: "How AI Could Transform the World for the Better"
 tags:
-  - "clippings"
 ---
 How AI Could Transform the World for the Better
 
