@@ -162,7 +162,7 @@ One topic that often comes up in sci-fi depictions of AI, but that I intentional
 
 In summary, AI-accelerated neuroscience is likely to vastly improve treatments for, or even cure, most mental illness as well as greatly expand “cognitive and mental freedom” and human cognitive and emotional abilities. It will be every bit as radical as the improvements in physical health described in the previous section. Perhaps the world will not be visibly different on the outside, but the world as experienced by humans will be a much better and more humane place, as well as a place that offers greater opportunities for self-actualization. I also suspect that improved mental health will ameliorate a lot of other societal problems, including ones that seem political or economic.
 
-## 3\. Economic development and poverty
+## 3. Economic development and poverty
 
 The previous two sections are about *developing* new technologies that cure disease and improve the quality of human life. However an obvious question, from a humanitarian perspective, is: “will everyone have access to these technologies?”
 
@@ -185,7 +185,7 @@ Below I make some guesses about how I think things may go in the developing worl
 
 Overall, I am optimistic about quickly bringing AI’s biological advances to people in the developing world. I am hopeful, though not confident, that AI can also enable unprecedented economic growth rates and allow the developing world to at least surpass where the developed world is now. I am concerned about the “opt out” problem in both the developed and developing worlds, but suspect that it will peter out over time and that AI can help accelerate this process. It won’t be a perfect world, and those who are behind won’t fully catch up, at least not in the first few years. But with strong efforts on our part, we may be able to get things moving in the right direction—and fast. If we do, we can make at least a down payment on the promises of dignity and equality that we owe to every human being on earth.
 
-## 4\. Peace and governance
+## 4. Peace and governance
 
 Suppose that everything in the first three sections goes well: disease, poverty, and inequality are significantly reduced and the baseline of human experience is raised substantially. It does not follow that all major causes of human suffering are solved. Humans are still a threat to each other*.* Although there is a trend of technological improvement and economic development [leading to democracy and peace](https://en.wikipedia.org/wiki/The_Better_Angels_of_Our_Nature), it is a very loose trend, with frequent (and [recent](https://ourworldindata.org/grapher/countries-democracies-autocracies-row)) backsliding. At the dawn of the 20th century, people [thought](https://en.wikipedia.org/wiki/The_Great_Illusion) they had put war behind them; then came the two world wars. Thirty years ago Francis Fukuyama wrote about “ [the End of History](https://en.wikipedia.org/wiki/The_End_of_History_and_the_Last_Man) ” and a final triumph of liberal democracy; that hasn’t happened yet. Twenty years ago US policymakers believed that free trade with China would cause it to liberalize as it became richer; that very much didn’t happen, and we now seem [headed for a second Cold War](https://www.noahpinion.blog/p/why-the-us-should-fight-cold-war) with a resurgent authoritarian bloc. And plausible theories suggest that internet technology [may actually advantage authoritarianism](https://www.noahpinion.blog/p/the-super-scary-theory-of-the-21st-a3a), not democracy as initially believed (e.g. in the “Arab Spring” period). It seems important to try to understand how powerful AI will intersect with these issues of peace, democracy, and freedom.
 
@@ -217,7 +217,7 @@ There is also a clear opportunity for AI to be used to help provision government
 
 All of these are somewhat vague ideas, and as I said at the beginning of this section, I am not nearly as confident in their feasibility as I am in the advances in biology, neuroscience, and poverty alleviation. They may be unrealistically utopian. But the important thing is to have an ambitious vision, to be willing to dream big and try things out. The vision of AI as a guarantor of liberty, individual rights, and equality under the law is too powerful a vision not to fight for. A 21st century, AI-enabled polity could be both a stronger protector of individual freedom, and a beacon of hope that helps make liberal democracy the form of government that the whole world wants to adopt.
 
-## 5\. Work and meaning
+## 5. Work and meaning
 
 Even if everything in the preceding four sections goes well—not only do we alleviate disease, poverty, and inequality, but liberal democracy becomes the dominant form of government, and existing liberal democracies become better versions of themselves—at least one important question still remains. “It’s great we live in such a technologically advanced world as well as a fair and decent one”, someone might object, “but with AIs doing everything, how will humans have meaning? For that matter, how will they survive economically?”.
 
