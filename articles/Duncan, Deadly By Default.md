@@ -1,6 +1,6 @@
 ---
 title: "Deadly by Default"
-source: "https://homosabiens.substack.com/p/deadly-by-default"
+source_url: "https://homosabiens.substack.com/p/deadly-by-default"
 author: Duncan Sabien
 published: 2024-07-26
 created: 2026-03-07
