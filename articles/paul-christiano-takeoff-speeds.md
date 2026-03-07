@@ -1,7 +1,7 @@
 ---
 title: "Takeoff speeds"
 author: "Paul Christiano"
-date: 2018-02-24
+published: 2018-02-24
 source_url: https://sideways-view.com/2018/02/24/takeoff-speeds/
 ---
 
