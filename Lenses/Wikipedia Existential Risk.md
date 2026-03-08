@@ -1,6 +1,6 @@
 ---
 id: 01f6df31-099f-48ed-adef-773cc4f947e4
-tldr: this 
+tldr: This Wikipedia article summarises the risks of AI
 ---
 ### Article: Existential Risk from AI
 source:: [[../articles/wikipedia-existential-risk-from-ai]]
