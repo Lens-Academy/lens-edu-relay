@@ -1,5 +1,6 @@
 ---
 id: 2e4f6a8b-0c2d-4e6f-8a0b-2c4d6e8f0a2b
+tldr: AI Safety requires 
 ---
 ### Article: Worst-Case Thinking
 source:: [[../articles/buck-worst-case-thinking-in-ai-alignment]]
