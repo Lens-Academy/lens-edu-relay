@@ -1,6 +1,7 @@
 ---
 id: 694776ec-44b7-44c2-bf63-3e1fde1d59ea
-tags:
+{++{"author":"AI","timestamp":1772973370108}@@tldr: We might not solve deep alignment before building very capable AI. This article argues that control — monitoring, containment, and rigorous testing — can let us safely use powerful models while alignment research catches up. Think of it as building a prison stronger than the prisoner.
+++}tags:
   - lens
 ---
 ### Article: The case for ensuring that powerful AIs are controlled

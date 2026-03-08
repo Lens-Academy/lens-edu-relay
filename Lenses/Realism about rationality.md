@@ -1,6 +1,7 @@
 ---
 id: 769fac9b-95bc-4f5c-bf10-fac75d6a0cd6
-tags:
+{++{"author":"AI","timestamp":1772973364401}@@tldr: What if the mathematical models used in agent foundations research don't match how real AI systems work? This critique argues that neural networks don't look like the perfectly rational agents in the theory — and that we should focus on the messy reality of current models rather than seeking ideal proofs.
+++}tags:
   - lens
 ---
 ### Article: Realism about rationality
