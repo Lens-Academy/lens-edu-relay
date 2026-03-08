@@ -1,5 +1,5 @@
 ---
-title: "The World Keeps Getting Saved and You Don’t Notice — LessWrong"
+title: "The World Keeps Getting Saved and You Don’t Notice"
 source_url: "https://www.lesswrong.com/posts/qnvmZCjzspceWdgjC/the-world-keeps-getting-saved-and-you-don-t-notice"
 author: Bogoed
 published: 2026-02-16
