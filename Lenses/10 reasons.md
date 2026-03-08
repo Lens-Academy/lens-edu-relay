@@ -1,6 +1,6 @@
 ---
 id: 3f1fc921-560f-4d47-8eb6-3c4dab872b9d
-tldr: {--{"author":"AI","timestamp":1772973156668}@@In this video, Rob --}{++{"author":"AI","timestamp":1772973156668}@@'"It''s too early to worry." "Just don''t give it bad goals." "We can always pull the plug." Robert ++}Miles {--{"author":"AI","timestamp":1772973156668}@@discusses--}{++{"author":"AI","timestamp":1772973156668}@@takes on ten++} common {--{"author":"AI","timestamp":1772973156668}@@objections to--}{++{"author":"AI","timestamp":1772973156668}@@reasons people dismiss++} AI {--{"author":"AI","timestamp":1772973156668}@@Safety.--}{++{"author":"AI","timestamp":1772973156668}@@safety — and shows why each one is harder to wave away than it sounds.'++}
+tldr: '"It''s too early to worry." "Just don''t give it bad goals." "We can always pull the plug." Robert Miles takes on ten common reasons people dismiss AI safety — and shows why each one is harder to wave away than it sounds.'
 ---
 ### Video: 10 Reasons to Ignore AI Safety
 source:: [[../video_transcripts/robertmiles-10-reasons-to-ignore-ai-safety]]
