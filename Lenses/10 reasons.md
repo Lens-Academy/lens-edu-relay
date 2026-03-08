@@ -1,5 +1,6 @@
 ---
 id: 3f1fc921-560f-4d47-8eb6-3c4dab872b9d
+tldr: In this video, Rob Miles discusses common 
 ---
 ### Video: 10 Reasons to Ignore AI Safety
 source:: [[../video_transcripts/robertmiles-10-reasons-to-ignore-ai-safety]]
