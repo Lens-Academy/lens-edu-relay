@@ -1,6 +1,7 @@
 ---
 id: ace55d5a-2265-442c-a9d3-e8b6106a9078
-tags:
+{++{"author":"AI","timestamp":1772973320936}@@tldr: There may be a window where AI is smart enough to help with safety research but not yet powerful enough to be uncontrollable. This article explores the idea of using AI to strengthen our safety tools before models outpace our ability to oversee them — a race between two feedback loops.
+++}tags:
   - lens
 ---
 ### Article: AI for AI safety
