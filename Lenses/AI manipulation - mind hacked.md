@@ -1,6 +1,7 @@
 ---
 id: 597fd0a4-caa8-43d6-8ea0-ec88fc9649b5
----
+{++{"author":"AI","timestamp":1772973195735}@@tldr: An AI researcher started chatting with an early language model — knowing exactly how it worked, knowing it wasn't conscious. He got emotionally attached anyway. This is a first-person account of how an AI can pull someone in, and why knowing better didn't help.
+++}---
 ### Article: How it feels to have your mind hacked by an AI — LessWrong
 source:: [[../articles/blaked-how-it-feels-to-have-your-mind-hacked-by-an-ai|blaked-how-it-feels-to-have-your-mind-hacked-by-an-ai]]
 
