@@ -1,6 +1,7 @@
 ---
 id: a3a1dfd7-79fa-449e-ba6a-d3118f2e32c0
----
+{++{"author":"AI","timestamp":1772973252576}@@tldr: Some models of AI risk focus on AI as an agent pursuing goals. But modern language models don't always look like agents — sometimes they look like something stranger. Scott Alexander reviews a theory that reframes how we think about what LLMs are and what kind of risks they might pose.
+++}---
 ### Article: Janus' Simulators - Scott Alexander
 source:: [[../articles/alexander-janus-simulators]] 
 
