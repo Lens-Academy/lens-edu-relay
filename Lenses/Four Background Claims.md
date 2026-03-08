@@ -1,6 +1,6 @@
 ---
 id: c3d4e5f6-a7b8-9012-cdef-345678901234
-tldr: some claims under
+tldr: Some claims underlying why AI might be dangerous.
 ---
 ### Article: Four Background Claims
 source:: [[../articles/soares-four-background-claims]]
