@@ -1,6 +1,7 @@
 ---
 id: 4126ce24-1fb5-4f2c-8cdf-2f8c798d1996
-tags :
+{++{"author":"AI","timestamp":1772973270805}@@tldr: A system that perfectly predicts the world might seem harmless — it just answers questions. But if it knows how its answers change your behavior, choosing which answer to give becomes an act of influence. This article explores the thin line between passive prediction and active manipulation.
+++}tags :
   - lens
 ---
 ### Article: Pythia by plex
