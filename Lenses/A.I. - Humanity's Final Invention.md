@@ -1,6 +1,6 @@
 ---
 id: 8a701cd5-82b1-46a2-8ebb-e08d10588177
-tldr: 
+tldr: This Kurzgesagt video provides a nice
 ---
 ### Video: A.I. - Humanity's Final Invention
 source:: [[../video_transcripts/kurzgesagt-ai-humanitys-final-invention]]
