@@ -1,6 +1,7 @@
 ---
 id: e11cb5ab-b56f-47c5-869e-40315845d325
-tags:
+{++{"author":"AI","timestamp":1772973217446}@@tldr: Transistors operate roughly ten million times faster than neurons. This reading pairs a slow-motion video of a busy subway platform with an article about processing speed, inviting you to feel — not just understand — what it would mean for a mind to operate that much faster than ours.
+++}tags:
   - lens
 ---
 ### Article: Slow motion videos as AI risk intuition pumps
