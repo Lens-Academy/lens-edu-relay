@@ -1,6 +1,6 @@
 ---
 id: c549ae1c-9bab-4c11-ae9b-2c8876265a24
-tldr: This articles explains two concepts that are useful when thinking about safety in the context of AI.
+tldr: {--{"author":"AI","timestamp":1772973164562}@@This articles explains two concepts--}{++{"author":"AI","timestamp":1772973164562}@@Standard engineering asks "does this work?" The security mindset asks "how does this fail when something is actively trying to break it?" This article argues++} that {--{"author":"AI","timestamp":1772973164562}@@are useful when--}{++{"author":"AI","timestamp":1772973164562}@@building safe AI requires++} thinking {--{"author":"AI","timestamp":1772973164562}@@about--}{++{"author":"AI","timestamp":1772973164562}@@borrowed from cryptography — not piling up defenses, but designing systems where++} safety {--{"author":"AI","timestamp":1772973164562}@@in the context of AI.--}{++{"author":"AI","timestamp":1772973164562}@@doesn't depend on outsmarting what you're containing.++}
 ---
 ### Article: Security Mindset and Ordinary Paranoia
 source:: [[../articles/yudkowsky-security-mindset-and-ordinary-paranoia|yudkowsky-security-mindset-and-ordinary-paranoia]]
