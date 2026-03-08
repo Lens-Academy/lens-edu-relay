@@ -1,7 +1,7 @@
 ---
 id: 0d9db4dd-4991-4e33-83f1-90f44962a3cb
-{++{"author":"AI","timestamp":1772973306256}@@tldr: What if the deepest AI safety problems can't be solved by experimenting on current systems? This perspective argues we need something closer to a basic science of goals and agency — a theoretical foundation that explains how intelligent systems behave, regardless of how they're built.
-++}tags:
+tldr: What if the deepest AI safety problems can't be solved by experimenting on current systems? This perspective argues we need something closer to a basic science of goals and agency — a theoretical foundation that explains how intelligent systems behave, regardless of how they're built.
+tags:
   - lens
 ---
 ### Article: Agent foundations: not really math, not really science
