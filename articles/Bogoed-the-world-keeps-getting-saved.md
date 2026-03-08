@@ -44,7 +44,3 @@ Anyway, here are a few of my takeaways:
 P.S. Please, let me know if someone wrote a similar thing better.
 
 P.P.S. Was irritated by NOTHING EVER HAPPENS meme again. Also thought about "myriads of careful hands" -metaphor and liked it.
-
-x
-
-The World Keeps Getting Saved and You Don’t Notice — LessWrong
