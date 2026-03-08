@@ -2,6 +2,7 @@
 id: 11f0d83f-f8ec-4549-b82c-460c22288a9b
 tags :
   - lens
+
 ---
 ### Article: 6 reasons why alignment-is-hard discourse seems alien to human intuitions by Steven Byrnes
 
