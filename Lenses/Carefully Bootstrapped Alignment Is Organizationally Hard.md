@@ -1,7 +1,7 @@
 ---
 id: a541b303-0018-43ef-ba68-fb6883d020d9
-{++{"author":"AI","timestamp":1772973328824}@@tldr: Even if the technical plan for automating alignment works perfectly, the organization executing it might not. Competitive pressure, psychological bias, and the temptation to keep scaling can undermine even well-designed safety processes — making the human side of the problem just as hard as the technical one.
-++}tags:
+tldr: Even if the technical plan for automating alignment works perfectly, the organization executing it might not. Competitive pressure, psychological bias, and the temptation to keep scaling can undermine even well-designed safety processes — making the human side of the problem just as hard as the technical one.
+tags:
   - lens
 ---
 ### Article: Carefully Bootstrapped Alignment is organizationally hard

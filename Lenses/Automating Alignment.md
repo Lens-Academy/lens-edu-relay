@@ -1,7 +1,7 @@
 ---
 id: 3ac9034c-2107-4522-9bbe-36eeb3fae4ad
-{++{"author":"AI","timestamp":1772973325819}@@tldr: What if we used today's AI to solve safety problems for tomorrow's AI? Automating alignment is a strategy where researchers use weaker models to develop safety techniques for stronger ones — creating a recursive loop that tries to keep pace with capability gains.
-++}tags:
+tldr: What if we used today's AI to solve safety problems for tomorrow's AI? Automating alignment is a strategy where researchers use weaker models to develop safety techniques for stronger ones — creating a recursive loop that tries to keep pace with capability gains.
+tags:
   - lens
 ---
 
