@@ -18,8 +18,6 @@ title: AI Safety Course
 
 # Module: [[../modules/Cognitive Superpowers]]
 
-# Module:  [[../modules/coming-soon]]
-
 # Meeting: Cognitive Superpowers
 
 # Module:  [[../modules/Fundamental Difficulties]]
@@ -27,8 +25,6 @@ title: AI Safety Course
 # Meeting: Fundamental Difficulties
 
 # Module: [[../modules/Existing approaches]]
-
-# Module:  [[../modules/coming-soon]]
 
 # Meeting: Existing Approaches
 
