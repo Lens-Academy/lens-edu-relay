@@ -1,7 +1,7 @@
 ---
 id: a37a6057-a08d-4218-a1ac-fa9c19e8cb37
-{++{"author":"AI","timestamp":1772973361610}@@tldr: A skeptical view of whether interpretability can keep up with the pace of AI development. Connor Leahy argues that by the time researchers understand one circuit, the model has already evolved — making interpretability more like a post-mortem tool than a real-time safety measure.
-++}tags:
+tldr: A skeptical view of whether interpretability can keep up with the pace of AI development. Connor Leahy argues that by the time researchers understand one circuit, the model has already evolved — making interpretability more like a post-mortem tool than a real-time safety measure.
+tags:
   - lens
 ---
 

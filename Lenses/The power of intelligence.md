@@ -1,7 +1,7 @@
 ---
 id: b5690990-21b5-45d0-bc2b-e58449fbf194
-{++{"author":"AI","timestamp":1772973220275}@@tldr: Humans can fly, split atoms, and rewrite DNA — not because evolution gave us those abilities, but because general intelligence let us invent them. This video explores what makes intelligence unique as a tool, and asks whether the idea of a program that's good at everything is really as strange as it sounds.
-++}tags:
+tldr: Humans can fly, split atoms, and rewrite DNA — not because evolution gave us those abilities, but because general intelligence let us invent them. This video explores what makes intelligence unique as a tool, and asks whether the idea of a program that's good at everything is really as strange as it sounds.
+tags:
   - lens
 ---
 ### Video: The power of intelligence

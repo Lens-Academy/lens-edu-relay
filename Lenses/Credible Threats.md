@@ -1,7 +1,7 @@
 ---
 id: d53b7baa-a45d-483b-bc16-3fa5bee59ab2
-{++{"author":"AI","timestamp":1772973204647}@@tldr: Sometimes the most powerful move isn't to fight — it's to make the other side believe you will. Cortés burned his own ships so his army had no choice but to advance. This reading explores how threats work as tools of negotiation, and what changes when an AI can commit to any threat instantly by rewriting its own code.
-++}---
+tldr: Sometimes the most powerful move isn't to fight — it's to make the other side believe you will. Cortés burned his own ships so his army had no choice but to advance. This reading explores how threats work as tools of negotiation, and what changes when an AI can commit to any threat instantly by rewriting its own code.
+---
 ### Article: Commitment and endogenous threats
 source:: [[../articles/houba+bolt-credible-threats-in-negotiations|houba+bolt-credible-threats-in-negotiations]]
 

@@ -1,7 +1,7 @@
 ---
 id: 4219ba99-f8fd-48fe-a6e3-6ceb702e61d2
-{++{"author":"AI","timestamp":1772973351396}@@tldr: What if we could look inside a model and read its intentions? Interpretability research aims to do exactly that — but this article argues it won't reliably catch the most dangerous failures, especially deception, where a model might hide its true reasoning from the very tools designed to inspect it.
-++}tags:
+tldr: What if we could look inside a model and read its intentions? Interpretability research aims to do exactly that — but this article argues it won't reliably catch the most dangerous failures, especially deception, where a model might hide its true reasoning from the very tools designed to inspect it.
+tags:
   - lens
 ---
 ### Article: Interpretability Will Not Reliably Find Deceptive AI

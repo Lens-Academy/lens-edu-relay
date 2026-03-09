@@ -1,7 +1,7 @@
 ---
 id: 85271748-4494-43ad-9c02-35319dacc9bd
-{++{"author":"AI","timestamp":1772973297986}@@tldr: To guide a missile, we first had to invent calculus. AI alignment may require a similar leap — a mathematical framework for how powerful optimizers behave. This talk explains why intuition alone won't cut it, and why the field needs something closer to a science of alignment before we can trust the trajectory.
-++}tags :
+tldr: To guide a missile, we first had to invent calculus. AI alignment may require a similar leap — a mathematical framework for how powerful optimizers behave. This talk explains why intuition alone won't cut it, and why the field needs something closer to a science of alignment before we can trust the trajectory.
+tags :
   - lens
 ---
 ### Video: Eliezer Yudkowsky – AI Alignment: Why It's Hard, and Where to Start
