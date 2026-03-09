@@ -1,5 +1,6 @@
 ---
 id: 8be5ec8c-df65-4423-aa3f-5776384a1c41
+tldr: A sufficiently capable AI might pursue resources and self-preservation not because it wants to, but because those serve almost any goal. This article examines what conditions — agency, motivation, incentives — would actually need to be in place for power-seeking behavior to emerge.
 tags :
   - lens
 ---

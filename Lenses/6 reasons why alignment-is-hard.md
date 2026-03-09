@@ -1,7 +1,9 @@
 ---
 id: 11f0d83f-f8ec-4549-b82c-460c22288a9b
+tldr: Why do arguments about AI risk often feel off, even to people who take technology seriously? This article identifies six ways our evolved intuitions lead us astray — from assuming smart things will share our common sense to underestimating how different an optimizer's reasoning can be from our own.
 tags :
   - lens
+
 ---
 ### Article: 6 reasons why alignment-is-hard discourse seems alien to human intuitions by Steven Byrnes
 

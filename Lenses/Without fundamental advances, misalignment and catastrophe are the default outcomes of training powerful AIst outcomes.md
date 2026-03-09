@@ -1,5 +1,6 @@
 ---
 id: 0142f30d-e2a6-47b3-8125-33f6fede737e
+tldr: Many alignment proposals assume that iterating on current training with enough safety patches will probably work out. This article argues the opposite — given how we currently build AI, misalignment isn't the exception. It's what we should expect by default without fundamentally new approaches.
 tags :
   - lens
 ---

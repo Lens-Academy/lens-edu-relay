@@ -1,5 +1,6 @@
 ---
 id: 8a7ca9c4-c111-467b-2c2b-e08d10698767
+tldr: I.J. Good recognized that the first machine smarter than any human would be the last one we'd need to design — because the second would be built by the first, according to principles we can't yet imagine. This classic text asks what happens when intelligence starts building its own successors.
 ---
 ### Article: Speculations concerning the first ultraintelligent machine
 source:: [[../articles/good-speculations-concerning-first-ultraintelligent-machine]]

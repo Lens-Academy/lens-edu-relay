@@ -1,5 +1,6 @@
 ---
 id: bc7f7e53-0125-4e5b-af01-88c1fbcdb276
+tldr: Even if every AI researcher wants a safe outcome, competitive pressure can push everyone toward outcomes nobody wants. This essay explores "Moloch" — a name for the traps and perverse incentives that drive groups to collectively destroy what they individually value.
 tags :
   - lens
 ---

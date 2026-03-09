@@ -1,5 +1,6 @@
 ---
 id: ce05d88a-97da-43de-a54b-62f31a62f62f
+tldr: What if believing we can control an AI makes us more willing to build dangerous ones? This critique warns that control research could create a false sense of security — and that studying how to contain a model might accidentally teach us (or it) how to escape containment.
 tags:
   - lens
 ---

@@ -1,5 +1,6 @@
 ---
 id: 63342128-7725-43dc-9ad3-b040f7b0e118
+tldr: If we can't guarantee an AI's goals align with ours, maybe we can build a cage strong enough that it doesn't matter. AI Control focuses on containment and monitoring rather than fixing the model's internal motivations — buying time while deeper alignment work continues.
 tags:
   - lens
 ---

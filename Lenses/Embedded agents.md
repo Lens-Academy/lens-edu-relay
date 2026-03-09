@@ -1,5 +1,6 @@
 ---
 id: 7abb8056-b487-47ea-a96f-8b76f61c8a43
+tldr: Traditional AI theory imagines agents that sit outside their environment and observe it from above. Real agents — including AI — are embedded inside the world they're trying to understand and influence. This creates fundamental problems for how they reason, learn, and plan.
 tags:
   - lens
 ---

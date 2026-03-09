@@ -1,5 +1,6 @@
 ---
 id: 60a1046d-cb9d-4803-ac84-810e070b79fb
+tldr: We often talk about AI systems as agents — things that make decisions to achieve goals. But how do you actually tell whether something is an agent, versus just a process following rules? This article proposes a way to test for agency by looking at how a system would behave if its actions affected the world differently.
 tags :
   - lens
 ---

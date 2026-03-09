@@ -1,5 +1,6 @@
 ---
 id: c3d4e5f6-a7b8-9012-cdef-345678901234
+tldr: What makes AI safety worth working on now, before systems are powerful enough to be obviously dangerous? This article lays out four premises that underpin the case — from why smarter-than-human systems could emerge to why we can already do meaningful work to prepare.
 ---
 ### Article: Four Background Claims
 source:: [[../articles/soares-four-background-claims]]

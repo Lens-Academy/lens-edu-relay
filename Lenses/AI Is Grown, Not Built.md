@@ -1,5 +1,6 @@
 ---
 id: cc0b8328-78dd-408e-a5c3-35fe2ec45568
+tldr: Nobody sat down and programmed ChatGPT to have conversations. Instead, engineers set up a training process and let billions of parameters arrange themselves. The result can talk, reason, and surprise its creators — but nobody can fully explain how. This article asks what it means to deploy something powerful when you can't explain how it works.
 ---
 ### Article: AI Is Grown, Not Built
 source:: [[../articles/yudkowsky-soares-ai-is-grown-not-built|yudkowsky-soares-ai-is-grown-not-built]]
