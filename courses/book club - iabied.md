@@ -25,12 +25,12 @@ tags:
 
 # Module: [[../modules/IABIED M5 Facing The Challenge, Part 1]]
 
-# Meeting: Facing the Challenge
+# Meeting: Facing the Challenge, part 1
 
 # Module: [[../modules/IABIED M6 Facing The Challenge, Part 2]]
 
-# Meeting: 6
+# Meeting: Facing the Challenge, part 2
 
 # Module: [[../modules/IABIED M7 What Happens Next]]
 
-# Meeting: 7
+# Meeting: What Happen
