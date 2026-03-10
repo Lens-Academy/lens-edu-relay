@@ -15,7 +15,7 @@ tags:
 
 # Meeting: 2
 
-# Module: [[.A/modules/AIBIED M3 Nonhuman Minds, Part 3]]
+# Module: [[../modules/IABIED M3 Nonhuman Minds, Part 3]]
 
 # Meeting: 3
 
