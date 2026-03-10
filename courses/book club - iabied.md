@@ -19,15 +19,15 @@ tags:
 
 # Meeting: 3
 
-# Module: [[.A/modules/AIBIED M4 One Extinction Scenario]]
+# Module: [[../modules/IABIED M4 One Extinction Scenario]]
 
 # Meeting: 4
 
-# Module: [[.A/modules/AIBIED M5 Facing The Challenge, Part 1]]
+# Module: [[../modules/IABIED M5 Facing The Challenge, Part 1]]
 
 # Meeting: 5
 
-# Module: [[.A/modules/AIBIED M6 Facing The Challenge, Part 2]]
+# Module: [[m6]]
 
 # Meeting: 6
 
