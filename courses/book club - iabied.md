@@ -7,7 +7,8 @@ tags:
   - work-in-progress
 ---
 
-# Module: [[../modules/AIBIED M1 Intro and Nonhuman Minds, Part 1]]
+# Module: 
+[[../modules/AIBIED M1 Intro and Nonhuman Minds, Part 1]]
 [[../modules/IABIED M1 Intro and Nonhuman Minds, Part 1]]
 # Meeting: 1
 
