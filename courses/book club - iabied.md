@@ -8,13 +8,14 @@ tags:
 ---
 
 # Module: [[../modules/IABIED M1 Intro and Nonhuman Minds, Part 1]]
+
 # Meeting: 1
 
 # Module: [[../modules/IABIED M2 Nonhuman Minds, Part 2]]
 
 # Meeting: 2
 
-# Module: [[.A/modules/AIBIED M3 Nonhuman Minds, Part 3]] 
+# Module: [[.A/modules/AIBIED M3 Nonhuman Minds, Part 3]]
 
 # Meeting: 3
 
