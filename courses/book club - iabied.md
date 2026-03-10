@@ -25,7 +25,7 @@ tags:
 
 # Module: [[../modules/IABIED M5 Facing The Challenge, Part 1]]
 
-# Meeting: 
+# Meeting: Facing the Challenge
 
 # Module: [[../modules/IABIED M6 Facing The Challenge, Part 2]]
 
