@@ -27,10 +27,10 @@ tags:
 
 # Meeting: 5
 
-# Module: [[m6]]
+# Module: [[../modules/IABIED M6 Facing The Challenge, Part 2]]
 
 # Meeting: 6
 
-# Module: [[.A/modules/AIBIED M7 Next Steps]]
+# Module: [[../modules/IABIED M7 What Happens Next]]
 
 # Meeting: 7
