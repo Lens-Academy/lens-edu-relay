@@ -9,19 +9,19 @@ tags:
 
 # Module: [[../modules/IABIED M1 Intro and Nonhuman Minds, Part 1]]
 
-# Meeting: 1
+# Meeting: Introduction
 
 # Module: [[../modules/IABIED M2 Nonhuman Minds, Part 2]]
 
-# Meeting: 2
+# Meeting: Nonhuman Minds part 2
 
 # Module: [[../modules/IABIED M3 Nonhuman Minds, Part 3]]
 
-# Meeting: 3
+# Meeting: Nonhuman Minds part 3
 
 # Module: [[../modules/IABIED M4 One Extinction Scenario]]
 
-# Meeting: 4
+# Meeting: On
 
 # Module: [[../modules/IABIED M5 Facing The Challenge, Part 1]]
 
