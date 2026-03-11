@@ -19,4 +19,4 @@ content::
 source:: ![[../Learning Outcomes/Where it leads to]]
 
 # Learning Outcome:
-source:: ![[../Learning Outcomes/Feedback cycles create discontinuity]]
+source:: ![[../Learning Outcomes/How to relate]]
