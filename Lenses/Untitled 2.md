@@ -6,7 +6,7 @@ tags:
   - validator-ignore
 ---
 ### Article: `article title`
-source:: [[../articles/ho]]
+source:: [[../articles/Amodei-machines-of-loving-grace]]
 
 #### Text
 content::
