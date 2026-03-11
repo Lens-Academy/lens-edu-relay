@@ -5,7 +5,7 @@ tags:
   - work-in-progress
   - validator-ignore
 ---
-### Article: Machines of Loving Grace
+### Article: Machines Of Loving Grace
 source:: [[../articles/Amodei-machines-of-loving-grace]]
 
 #### Text
