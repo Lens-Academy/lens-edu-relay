@@ -36,7 +36,8 @@ Nick Bostrom, author of Superintelligence, spoke not only about risks. In his "L
 In this essay, Dario Amodei invites us to imagine a world in which safety problems have been solved and powerful AI systems are used for the benefit of humanity. In his view, many people underestimate the scale of AI’s potential benefits, just as they underestimate its risks.
 
 #### Article-excerpt
-from:: ""
+from:: "I think and talk a lot about"
+to:: 
 
 #### Text
 content::
