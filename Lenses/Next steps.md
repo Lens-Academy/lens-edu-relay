@@ -21,6 +21,3 @@ You have only just encountered this field, so it is too early to expect from you
 Even the answer, I do not want to work on this, can be thoughtful and well-grounded. But to reach that point honestly, it helps to ask: what exactly is missing for me right now to make that decision? Is it information? Is it skills? Is it confidence, motivation, community, or something else?
 
 This final block is meant to help you begin answering that question.
-
-
-#### 
