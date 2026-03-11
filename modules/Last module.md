@@ -1,6 +1,6 @@
 ---
 id: cd11efd8-f449-4964-8962-97cbe865a9bf
-slug: last module: What comes next
+slug: last-module-what-comes-next
 title: "Last module: What comes next"
 discussion: https://discordapp.com/channels/1440725236843806762/1476535068779483259 
 tags:
