@@ -10,7 +10,7 @@ source:: [[../articles/Amodei-machines-of-loving-grace]]
 
 #### Text
 content::
-`<introductory text>`
+Yes, the risks are real. But what exactly are we trying to protect?The following materials ask a different question: what good could powerful AI bring if we manage to solve the safety problem?
 
 #### Article-excerpt
 to:: "`<an exact quote from the article where the exerpt should stop>`"
