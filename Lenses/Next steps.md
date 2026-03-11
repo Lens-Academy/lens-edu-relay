@@ -49,8 +49,6 @@ Donate
 If you are not ready to switch your time, you can still contribute resources. Manifund (https://manifund.org/) hosts AI safety regranting and a range of AI-related projects, so it can serve as one entry point for giving. 
 
 
-
-
 #### Chat: Discussion on X-Risk
 instructions::
 TLDR of what the user just read:
