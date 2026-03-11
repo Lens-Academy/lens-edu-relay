@@ -43,7 +43,7 @@ to:: "and abstract one."
 content:: [...]
 
 #### Article-excerpt
-from:: "I think and talk a lot about"
+from:: "The list of positive applications"
 to:: "and abstract one."
 
 #### Text
