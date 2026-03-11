@@ -8,7 +8,7 @@ tags:
 ---
 ## Test:
 
-# Submodule: Welcome
+# Submodule: Where it leads to
 ## Lens:
 optional:: false
 source:: ![[../Lenses/1960, The Year The Singularity Was Cancelled]]
