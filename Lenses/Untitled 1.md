@@ -6,7 +6,7 @@ tags:
   - validator-ignore
 ---
 ### Article: `article title`
-source:: [[]]
+source:: [[../]]
 
 #### Text
 content::
