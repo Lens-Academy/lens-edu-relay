@@ -5,7 +5,7 @@ tags:
   - work-in-progress
   - validator-ignore
 ---
-### Article: `article title`
+### Article: The World-keeps-getting-saved
 source:: [[../articles/Bogoed-the-world-keeps-getting-saved]]
 
 #### Text
