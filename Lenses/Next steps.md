@@ -18,8 +18,6 @@ Even the answer “I do not want to work on this” can be thoughtful and well-g
 
 This final block is meant to help you begin answering that question.
 
-***
-
 Below is a common set of next steps for people who have just finished an introductory course in AI safety. This is not a career decision checklist. It is a menu of ways to learn more, meet people, test your fit, and begin contributing.
 
 Learn more

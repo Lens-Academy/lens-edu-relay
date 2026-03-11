@@ -14,7 +14,7 @@ If we build AI that surpasses humans, one possibility is human extinction. But e
 To convey that vibe, watch the video about an imagined future where people are free from all the AI risks we’re fighting today, they are very much alive and still: would you call it attractive, or not?
 
 #### Article-excerpt
-to:: "`<an exact quote from the article where the exerpt should stop>`"
+from:: ""
 
 #### Text
 content::
