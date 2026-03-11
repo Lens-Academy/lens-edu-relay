@@ -32,5 +32,5 @@ title: AI Safety Course
 
 # Meeting: What do we do next?
 
-# Module:  [[../modules/coming-soon]]
+# Module:  [[../modules/]]
 
