@@ -28,7 +28,7 @@ Do you agree that AI could trigger a return to hyperbolic growth? Explain your o
 #### Chat:
 instructions::
 The user is answering this question:
-If AI can help us write code or solve math problems, what is stopping it from solving the alignment problem for us? Analyze the challenges of using AI for coding and R&D, then extend the analysis to AI safety research.
+Do you agree that AI could trigger a return to hyperbolic growth? Explain your opinion.
 
 Context:
 - This is a philosophical discussion about AI alignment and meta-level reasoning.
