@@ -13,15 +13,15 @@ Yes, the risks are real. But what exactly are we trying to protect?The following
 
 Nick Bostrom, author of Superintelligence, spoke not only about risks. In his "Letter from Utopia" he writes:
 >Dear Human,
-
-Greetings, and may this letter find you at peace and in prosperity. Forgive my writing to you out of the blue. We have never met, yet we are not strangers. We are, in a sense, the closest of kin!
-
-I am one of your possible futures. I hope you will become me. Should this wish come true, then I am not just a possible future, but your actual future: a coming phase of you, like the flower that follows the seed. I am writing to tell you about my life – that you may choose it for yourself.
-
-I am really writing on behalf of all my contemporaries, and we are addressing ourselves to all of your contemporaries. Amongst us are many who are possible futures of your people. Some of us are possible futures of children that have not yet been delivered. Still others are possible artificial persons that you might one day create. We are all dependent on you to make us real.
-
-We call our lives “Utopia”.
-
+>
+>Greetings, and may this letter find you at peace and in prosperity. Forgive my writing to you out of >the blue. We have never met, yet we are not strangers. We are, in a sense, the closest of kin!
+>
+>I am one of your possible futures. I hope you will become me. Should this wish come true, then I >am not just a possible future, but your actual future: a coming phase of you, like the flower that >follows the seed. I am writing to tell you about my life – that you may choose it for yourself.
+>
+>I am really writing on behalf of all my contemporaries, and we are addressing ourselves to all of >your contemporaries. Amongst us are many who are possible futures of your people. Some of us >are possible futures of children that have not yet been delivered. Still others are possible artificial >persons that you might one day create. We are all dependent on you to make us real.
+>
+>We call our lives “Utopia”.
+>
 How can I tell you about Utopia and not leave you mystified? With what words could I convey the wonder? My pen, I fear, is as unequal to the task as if I had tried to use it against a charging war elephant.
 
 But maybe you will overlook the weakness of my exposition. 
