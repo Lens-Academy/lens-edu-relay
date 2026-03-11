@@ -18,7 +18,7 @@ We begin this module with an article demonstrating that history does not have to
 The module opens with a question: how, exactly, do people attempt to predict major historical shifts?
 
 #### Article-excerpt
-to:: "`<an exact quote from the article where the exerpt should stop>`"
+to:: ""
 
 #### Text
 content::
