@@ -37,6 +37,13 @@ In this essay, Dario Amodei invites us to imagine a world in which safety proble
 
 #### Article-excerpt
 from:: "I think and talk a lot about"
+to:: "and abstract one."
+
+#### Text
+content::   
+
+#### Article-excerpt
+from:: "The list of positive applications of"
 to:: "Work and meaning"
 
 #### Text
