@@ -17,8 +17,6 @@ source:: ![[../Lenses/The World Keeps Getting Saved]]
 optional:: false
 source:: ![[../Lenses/The Goddess Of Everything Else]]
 
-Submodule: Test Your Understanding
-
 
 # Submodule: Test Your Understanding
 ## Test:
