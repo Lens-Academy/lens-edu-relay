@@ -6,6 +6,9 @@ tags:
 ---
 ## Test:
 
+## Lens:
+optional:: false
+source:: ![[../Lenses/Intro what comes next]]
 
 ## Lens:
 optional:: false
