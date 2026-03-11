@@ -6,7 +6,6 @@ discussion: https://discordapp.com/channels/1440725236843806762/1476535068779483
 tags:
   - module
   - work-in-progress
-  - validator-ignore
 ---
 
 # Page: Welcome
