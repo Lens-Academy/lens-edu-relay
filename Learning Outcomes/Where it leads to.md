@@ -14,3 +14,6 @@ source:: ![[../Lenses/Intro what comes next]]
 optional:: false
 source:: ![[../Lenses/1960, The Year The Singularity Was Cancelled]]
 
+## Lens:
+optional:: false
+source:: ![[../Lenses/1960, The Year The Singularity Was Cancelled]]
