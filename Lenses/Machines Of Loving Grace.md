@@ -44,7 +44,7 @@ content:: [...]
 
 #### Article-excerpt
 from:: "The list of positive applications"
-to:: "and abstract one."
+to:: "Work and meaning"
 
 #### Text
 content::
