@@ -4,7 +4,8 @@ tags:
   - lens
   - work-in-progress
 ---
-### Video: The Artificial Intelligence That Deleted A Centurysource:: [[../video_transcripts/tomscott-the-artificial-intelligence-that-deleted-a-century]]
+### Video: The Artificial Intelligence That Deleted A Century
+source:: [[../video_transcripts/tomscott-the-artificial-intelligence-that-deleted-a-century]]
 
 #### Text
 content::
