@@ -8,7 +8,6 @@ tags:
 
 #### Text
 content::
-
 At this point, the question is not only what AI might do to the world. It is also whether I am ready to treat this as a field in which my own actions could matter.
 
 There are many different directions in this field, and many different roles a person can grow into. Some people do technical research. Some work on governance or policy. Some build evaluations, do field-building, support institutions, fund projects, or help coordinate communities. And some contribute by spreading knowledge more widely and helping other people understand what is at stake. Not everyone needs to become a technical researcher. Field-building, education, translation, communications, and community support are also real contributions. AISafety.info explicitly lists field-building and communications-oriented paths among ways to help.
