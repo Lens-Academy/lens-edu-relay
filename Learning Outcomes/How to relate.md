@@ -8,7 +8,7 @@ tags:
 
 ## Lens:
 optional:: false
-source:: ![[../Lenses/Intro what comes next]]
+source:: ![[../Lenses/k]]
 
 ## Lens:
 optional:: false
