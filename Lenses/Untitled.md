@@ -1,12 +1,12 @@
 ---
 id: b24e0198-8fa8-49cd-b7c6-396bc5f847be
 tags:
-  - lensss
+  - lens
   - work-in-progress
   - validator-ignore
 ---
 ### Article: `article title`
-source:: [[]]
+source:: [[../articles]]
 
 #### Text
 content::
