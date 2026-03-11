@@ -20,4 +20,4 @@ source:: ![[../Lenses/Machines Of Loving Grace]]
 
 ## Lens:
 optional:: false
-source:: ![[../Lenses/]]
+source:: ![[../Lenses/The Artificial Intelligence That Deleted A Century]]
