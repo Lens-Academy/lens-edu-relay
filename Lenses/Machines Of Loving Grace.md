@@ -39,14 +39,9 @@ In this essay, Dario Amodei invites us to imagine a world in which safety proble
 from:: "I think and talk a lot about"
 to:: "and abstract one."
 
-
-### Article: Machines Of Loving Grace
-source:: [[../articles/Amodei-machines-of-loving-grace]]
-
 #### Article-excerpt
 from:: "The list of positive applications of"
 to:: "meaning"
-
 
 #### Text
 content::
