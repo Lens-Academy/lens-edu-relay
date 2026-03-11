@@ -6,7 +6,7 @@ tags:
   - validator-ignore
 ---
 ### Video: `article title`
-source:: [[../vide]]
+  source:: [[../video_transcripts/]]
 
 #### Text
 content::
