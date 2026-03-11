@@ -40,7 +40,7 @@ If you want a more structured way to explore possibility of the research fit, pr
 
 [SPAR](https://sparai.org/)  is a part-time, remote research fellowship connecting aspiring researchers with professionals in AI safety and policy.
 
-ML4Good (https://ml4good.org/) runs bootcamps designed to help motivated people build skills and transition toward more substantial work in AI safety.
+[ML4Good](https://ml4good.org/) runs bootcamps designed to help motivated people build skills and transition toward more substantial work in AI safety.
 
 MATS (https://matsprogram.org/) is a 12-week research and educational mentorship program in AI alignment, transparency, and security. 
 
