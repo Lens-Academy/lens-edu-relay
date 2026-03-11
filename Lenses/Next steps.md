@@ -13,10 +13,6 @@ id:: ae10d3aa-9adb-47f6-a8f8-3c85da98f88e
 content::
 **Mechanistic Interpretability**
 
-#### Text
-content::
-**We have full access to every parameter and activation in the model, why isn’t that enough to just read off what it believes, wants, or will do?**
-
 #### Chat: Discussion on X-Risk
 instructions::
 The user is answering this question:
