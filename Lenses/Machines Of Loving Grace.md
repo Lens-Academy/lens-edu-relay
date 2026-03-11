@@ -43,7 +43,7 @@ to:: "and abstract one."
 content:: 
 
 #### Article-excerpt
-from:: "The list of positive applications"
+from:: "The list of positive applications of"
 to:: "5. Work and meaning"
 
 #### Text
