@@ -40,12 +40,12 @@ enforce-voice:: true
 
 #### Question
 feedback:: true
-content:: Among these common first steps, (Learn more, Talk to people in the field, Help spread understanding, Apply for a program or fellowship, Engage politically or institutionally, and Donate), which seem most interesting to you personally?
+content:: What is the main thing you are missing right now in order to decide how, or whether, you want to engage further?
 enforce-voice:: true
 
 #### Question
 feedback:: true
-content:: Among these common first steps, (Learn more, Talk to people in the field, Help spread understanding, Apply for a program or fellowship, Engage politically or institutionally, and Donate), which seem most interesting to you personally?
+content:: What would be a reasonable next step for you after this course to address that missing piece?
 enforce-voice:: true
 
 #### Question
