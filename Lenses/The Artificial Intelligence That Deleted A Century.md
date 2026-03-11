@@ -9,7 +9,9 @@ tags:
 
 #### Text
 content::
-`<introductory text>`
+Even if someone has intellectually accepted that the future with AI could be very bad or very good (but one thing is certain: it will be different), it can still be hard to emotionally imagine a world that is truly strange. A very strange future is difficult not only to predict, but even to genuinely picture.
+If we build AI that surpasses humans, one possibility is human extinction. But even if extinction is prevented, or even if you already think it is unlikely, that does not mean the AI safety problem is solved. 
+To convey that vibe, watch the video about an imagined future where people are free from all the AI risks we’re fighting today, they are very much alive and still: would you call it attractive, or not?
 
 #### Article-excerpt
 to:: "`<an exact quote from the article where the exerpt should stop>`"
