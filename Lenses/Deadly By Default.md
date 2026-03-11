@@ -3,6 +3,7 @@ id: e2c85826-d6f4-431b-b036-23de8e48b479
 tags:
   - lens
   - work-in-progress
+  - validator-ignore
 ---
 ### Article: Deadly By Default
 source:: [[../articles/Duncan, Deadly By Default]]
