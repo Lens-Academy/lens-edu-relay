@@ -40,7 +40,11 @@ from:: "I think and talk a lot about"
 to:: "and abstract one."
 
 #### Text
-content::
+content:: [...]
+
+#### Article-excerpt
+from:: "I think and talk a lot about"
+to:: "and abstract one."
 
 #### Text
 content::
