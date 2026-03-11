@@ -5,7 +5,7 @@ tags:
   - work-in-progress
   - validator-ignore
 ---
-### Article: `article title`
+### Article: Machines-of-loving-grace
 source:: [[../articles/Amodei-machines-of-loving-grace]]
 
 #### Text
