@@ -1,9 +1,12 @@
 ---
-id: c80f4c44-fbfe-42c7-bb05-6ce6fb49f16b
-discussion:
-learning-outcome: where it leads to
+id: 3f752f69-cc7f-44c1-bc88-21c657061803
+discussion: <discord url>
+learning-outcome: Be able to give an example of AI working much faster than humans, justify why this difference might increase over time, and tell a story of how this could contribute to x-risk
+tags:
+  - learning-outcome
 ---
 ## Test:
 
 ## Lens:
-source:: ![[../Lenses/External Link Lens Demo|External Link Lens Demo]]
+optional:: false
+source:: ![[../Lenses/Speed advantage with slow motion videos]]
