@@ -5,7 +5,7 @@ tags:
   - work-in-progress
   - validator-ignore
 ---
-### Video: The Artificial Intelligence That Deleted a Century
+### Video: The Artificial Intelligence That Deleted A Century
   source:: [[../video_transcripts/tomscott-the-artificial-intelligence-that-deleted-a-century]]
 
 #### Text
