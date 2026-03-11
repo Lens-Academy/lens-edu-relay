@@ -12,7 +12,10 @@ content::
 Yes, the risks are real. But what exactly are we trying to protect?The following materials ask a different question: what good could powerful AI bring if we manage to solve the safety problem?
 
 Nick Bostrom, author of Superintelligence, spoke not only about risks. In his "Letter from Utopia" he writes:
-
+>AI safety is a pre-paradigmatic field, which APA defines as:
+> > a science at a primitive stage of development, before it has achieved a paradigm and established a consensus about the true nature of the subject matter and how to approach it.
+> 
+> In other words, there is no universally agreed-upon description of what the alignment problem is. \[...\]
 
 In this essay, Dario Amodei invites us to imagine a world in which safety problems have been solved and powerful AI systems are used for the benefit of humanity. In his view, many people underestimate the scale of AI’s potential benefits, just as they underestimate its risks.
 
