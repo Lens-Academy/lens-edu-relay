@@ -8,7 +8,6 @@ tags:
   - work-in-progress
 ---
 
-# Submodule: Welcome
 # Page: Welcome
 id:: 9b2bbd28-207f-4069-9610-37c31300583a
 ## Text
