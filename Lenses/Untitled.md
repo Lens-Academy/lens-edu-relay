@@ -5,8 +5,8 @@ tags:
   - work-in-progress
   - validator-ignore
 ---
-### Article: `article title`
-source:: [[../articles/]]
+### Article: 1960, The Year The Singularity Was Cancelled
+source:: [[../articles/1960, The Year The Singularity Was Cancelled]]
 
 #### Text
 content::
