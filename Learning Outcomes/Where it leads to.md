@@ -8,10 +8,6 @@ tags:
 
 ## Lens:
 optional:: false
-source:: ![[../Lenses/Intro what comes next]]
-
-## Lens:
-optional:: false
 source:: ![[../Lenses/1960, The Year The Singularity Was Cancelled]]
 
 ## Lens:
