@@ -22,12 +22,12 @@ to:: "`<an exact quote from the article where the exerpt should stop>`"
 
 #### Text
 content::
-`<prompt the user on how they should interact with the chatbot>`
+Based on your personal experience analyzing past events, how do you draw the line between "the danger was exaggerated" and "the danger was successfully averted in time"? Using this method, would you be able to distinguish a successful outcome in addressing a safety issue?
 
 #### Chat:
 instructions::
 The user is answering this question:
-What do you think of the argument that AI extinction risk is the default outcome? Which parts of this argument seem strongest to you, and which seem weakest?
+Based on your personal experience analyzing past events, how do you draw the line between "the danger was exaggerated" and "the danger was successfully averted in time"? Using this method, would you be able to distinguish a successful outcome in addressing a safety issue?
 
 Context:
 - This is a philosophical discussion about AI alignment and meta-level reasoning.
