@@ -18,7 +18,8 @@ to:: "`<an exact quote from the article where the exerpt should stop>`"
 #### Text
 content::
 `<prompt the user on how they should interact with the chatbot>`
-Chat:
+
+#### Chat:
 instructions::
 The user is answering this question:
 Do you agree that AI could trigger a return to hyperbolic growth? Explain your opinion.
