@@ -35,7 +35,7 @@ enforce-voice:: true
 
 #### Question
 feedback:: true
-content:: Among these common first steps, (Learn more, Talk to people in the field, Help spread understanding, Apply for a program or fellowship, Engage politically or institutionally, and Donate), which seem most interesting to you personally?
+content:: Which of these options feels most meaningful, and which feels most realistic?
 enforce-voice:: true
 
 #### Question
