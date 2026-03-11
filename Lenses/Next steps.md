@@ -23,4 +23,4 @@ Below is a common set of next steps for people who have just finished an introdu
 
 #### Chat: Discussion on X-Risk
 instructions::
-TLDR of what the user just read:
+TLDR of what the user just read
