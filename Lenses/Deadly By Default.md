@@ -22,12 +22,13 @@ to:: "`<an exact quote from the article where the exerpt should stop>`"
 
 #### Text
 content::
-`<prompt the user on how they should interact with the chatbot>`
+What do you think of the argument that AI extinction risk is the default outcome? Which parts of this argument seem strongest to you, and which seem weakest?
 
 #### Chat:
 instructions::
 The user is answering this question:
-Do you agree that AI could trigger a return to hyperbolic growth? Explain your opinion.
+What do you think of the argument that AI extinction risk is the default outcome? Which parts of this argument seem strongest to you, and which seem weakest?
+
 
 Context:
 - This is a philosophical discussion about AI alignment and meta-level reasoning.
