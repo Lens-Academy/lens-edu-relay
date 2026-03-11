@@ -41,7 +41,8 @@ to:: "and abstract one."
 
 #### Article-excerpt
 from:: "The list of positive applications of"
-to:: "meaning"
+to:: "governance
+5. Work and meaning"
 
 #### Text
 content::
