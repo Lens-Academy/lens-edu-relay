@@ -29,7 +29,6 @@ instructions::
 The user is answering this question:
 What do you think of the argument that AI extinction risk is the default outcome? Which parts of this argument seem strongest to you, and which seem weakest?
 
-
 Context:
 - This is a philosophical discussion about AI alignment and meta-level reasoning.
 - Prioritize conceptual precision over technical detail.
