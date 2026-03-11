@@ -18,7 +18,7 @@ to:: "`<an exact quote from the article where the exerpt should stop>`"
 
 #### Text
 content::
-`<prompt the user on how they should interact with the chatbot>`
+What is your perspective on fictional narratives regarding safety? What role do they play, and what are the potential advantages and disadvantages of incorporating them into educational materials?
 
 #### Chat:
 instructions::
