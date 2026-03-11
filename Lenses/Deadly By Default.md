@@ -10,7 +10,12 @@ source:: [[../articles/Duncan, Deadly By Default]]
 
 #### Text
 content::
-`<introductory text>`
+While the first text argued that the course of history appears different depending on the predictive model used, the next explains why, in the field of AI, we can’t simply count on a positive outcome by default.
+
+This text explains why some researchers believe the development of powerful AI is predictably dangerous, based not on a model of technological trends, but rather on specific incentives specific to what's happening right now.
+The main idea: catastrophic outcomes don't require malicious intent. They can arise simply because very powerful optimization systems are capable of pursuing goals that conflict with human values.
+
+The question this text addresses is: if we cannot confidently predict the exact shape of the future, what is a reasonable baseline hypothesis to adopt regarding powerful AI systems?
 
 #### Article-excerpt
 to:: "`<an exact quote from the article where the exerpt should stop>`"
