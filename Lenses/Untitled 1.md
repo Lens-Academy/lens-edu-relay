@@ -5,7 +5,7 @@ tags:
   - work-in-progress
   - validator-ignore
 ---
-### Article: `
+### Article: Deadly By Default
 source:: [[../articles/Duncan, Deadly By Default]]
 
 #### Text
