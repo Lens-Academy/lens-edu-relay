@@ -11,6 +11,9 @@ source:: [[../articles/Amodei-machines-of-loving-grace]]
 content::
 Yes, the risks are real. But what exactly are we trying to protect?The following materials ask a different question: what good could powerful AI bring if we manage to solve the safety problem?
 
+Nick Bostrom, author of Superintelligence, spoke not only about risks. In his "Letter from Utopia" he writes:
+
+
 In this essay, Dario Amodei invites us to imagine a world in which safety problems have been solved and powerful AI systems are used for the benefit of humanity. In his view, many people underestimate the scale of AI’s potential benefits, just as they underestimate its risks.
 
 #### Article-excerpt
