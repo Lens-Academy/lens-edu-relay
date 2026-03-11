@@ -5,7 +5,7 @@ tags:
   - work-in-progress
   - validator-ignore
 ---
-### Video: `article title`
+### Video: tionalanimations-the-goddess-of-everything-else
 source:: [[../video_transcripts/rationalanimations-the-goddess-of-everything-else]]
 
 #### Text
