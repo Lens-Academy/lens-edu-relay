@@ -3,7 +3,6 @@ id: b49727ba-c6e8-4142-a1a8-7e8793d52465
 tags:
   - lensss
   - work-in-progress
-  - validator-ignore
 ---
 ### Video: The Goddess Of Everything Else
 source:: [[../video_transcripts/rationalanimations-the-goddess-of-everything-else]]
