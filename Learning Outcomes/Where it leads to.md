@@ -8,4 +8,8 @@ tags:
 
 ## Lens:
 optional:: false
-source:: ![[../Lenses/]]
+source:: ![[../Lenses/Intro what comes next]]
+
+## Lens:
+optional:: false
+source:: ![[../Lenses/Intro what comes next]]
