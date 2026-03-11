@@ -12,7 +12,7 @@ source:: ![[../Lenses/1960, The Year The Singularity Was Cancelled]]
 
 ## Lens:
 optional:: false
-source:: ![[../Lenses/Intro what comes next]]
+source:: ![[../Lenses/Deadly By Default]]
 
 ## Lens:
 optional:: false
