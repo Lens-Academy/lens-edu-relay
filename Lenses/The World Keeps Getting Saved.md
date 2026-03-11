@@ -9,7 +9,14 @@ source:: [[../articles/Bogoed-the-world-keeps-getting-saved]]
 
 #### Text
 content::
-`<introductory text>`
+If the consequences are this large and this unpredictable, then what can any one person actually do? This text reminds us of something important: catastrophes are often prevented in ways that remain invisible to most people.
+
+It warns against two common mistakes. First: if the catastrophe did not happen, then the threat was never real. Second: if the problem was solved, then it must have been exaggerated.
+
+But the world has already come close to serious problems, and people managed to prevent them in time. Many catastrophes do not happen precisely because someone recognizes the danger early and starts working on it. The trouble is that these successes are almost invisible. And that creates a cognitive error: if the catastrophe never arrives, people may conclude that the danger was never there.
+
+This argument matters a lot for AI safety. The best outcome may look exactly like this: nothing catastrophic happens, and most people never notice how much effort it took to make that true. But for that outcome to happen, someone has to start putting in that effort now. Today, only around 1,000 people in the world are working directly on existential AI safety. Meanwhile, millions are working to build, deploy, scale, and profit from AI.
+
 
 #### Article-excerpt
 to:: "`<an exact quote from the article where the exerpt should stop>`"

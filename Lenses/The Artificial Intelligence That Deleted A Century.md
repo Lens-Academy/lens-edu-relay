@@ -23,7 +23,7 @@ What is your perspective on fictional narratives regarding safety? What role do 
 #### Chat:
 instructions::
 The user is answering this question:
-What do you think of the argument that AI extinction risk is the default outcome? Which parts of this argument seem strongest to you, and which seem weakest?
+What is your perspective on fictional narratives regarding safety? What role do they play, and what are the potential advantages and disadvantages of incorporating them into educational materials?
 
 Context:
 - This is a philosophical discussion about AI alignment and meta-level reasoning.
