@@ -23,6 +23,10 @@ instructions::
 The user is answering this question:
 If AI can help us write code or solve math problems, what is stopping it from solving the alignment problem for us? Analyze the challenges of using AI for coding and R&D, then extend the analysis to AI safety research.
 
+Context:
+- This is a philosophical discussion about AI alignment and meta-level reasoning.
+- Prioritize conceptual precision over technical detail.
+
 Response length requirement:
 - Keep responses short: aim for 120–200 words.
 - Use short paragraphs. No long lectures. No lists longer than 4 items.
