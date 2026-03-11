@@ -6,7 +6,7 @@ tags:
   - validator-ignore
 ---
 ### Video: `article title`
-source:: [[../video_transcripts/capab]]
+source:: [[../video_transcripts/rationalanimations-the-goddess-of-everything-else]]
 
 #### Text
 content::
