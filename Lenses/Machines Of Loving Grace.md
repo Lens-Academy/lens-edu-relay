@@ -46,6 +46,7 @@ content::
 from:: "The list of positive applications of"
 to:: "Work and meaning"
 
+
 #### Text
 content::
 How would science change if we could conduct thousands of years of research in a single calendar year?
