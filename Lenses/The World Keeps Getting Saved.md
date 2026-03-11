@@ -17,7 +17,6 @@ But the world has already come close to serious problems, and people managed to 
 
 This argument matters a lot for AI safety. The best outcome may look exactly like this: nothing catastrophic happens, and most people never notice how much effort it took to make that true. But for that outcome to happen, someone has to start putting in that effort now. Today, only around 1,000 people in the world are working directly on existential AI safety. Meanwhile, millions are working to build, deploy, scale, and profit from AI.
 
-
 #### Article-excerpt
 to:: "`<an exact quote from the article where the exerpt should stop>`"
 
