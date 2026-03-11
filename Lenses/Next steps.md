@@ -45,7 +45,7 @@ If you want a more structured way to explore possibility of the research fit, pr
 [MATS](https://matsprogram.org/) is a 12-week research and educational mentorship program in AI alignment, transparency, and security. 
 
 Engage politically or institutionally
-If your interests lean toward governance, policy, or institutional design, a reasonable next step is to learn what AI governance work looks like in practice before trying to act. [AISafety.info](https://aisafety.info/), has an overview of AI governance, and MIRI publishes examples of the kinds of [actions that are valuable right now](https://ifanyonebuildsit.com/act) .
+If your interests lean toward governance, policy, or institutional design, a reasonable next step is to learn what AI governance work looks like in practice before trying to act. [AISafety.info](https://aisafety.info/), has an overview of AI governance, and MIRI publishes examples of the kinds of [actions you can do right now](https://ifanyonebuildsit.com/act) .
 Donate
 If you are not ready to switch your time, you can still contribute resources. Manifund (https://manifund.org/) hosts AI safety regranting and a range of AI-related projects, so it can serve as one entry point for giving. 
 
