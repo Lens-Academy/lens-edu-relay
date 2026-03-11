@@ -5,7 +5,6 @@ Learners can describe plausible trajectories of advanced AI development, includi
 
 tags:
   - learning-outcome
-  - validator-ignore
 ---
 ## Test:
 
