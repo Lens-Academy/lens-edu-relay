@@ -26,6 +26,9 @@ How can I tell you about Utopia and not leave you mystified? With what words cou
 
 But maybe you will overlook the weakness of my exposition. 
 \[...\]
+The challenge before you: to become fully what you now are only in hope and potential. For this, new capacities are needed.
+
+To reach Utopia, you must discover the means to three fundamental transformations.
 
 In this essay, Dario Amodei invites us to imagine a world in which safety problems have been solved and powerful AI systems are used for the benefit of humanity. In his view, many people underestimate the scale of AI’s potential benefits, just as they underestimate its risks.
 
