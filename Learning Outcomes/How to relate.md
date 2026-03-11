@@ -48,5 +48,5 @@ source:: ![[../Lenses/The Goddess Of Everything Else]]
 
 ## Lens:
 optional:: false
-source:: [[../Lenses/Ne]]
+source:: [[../Lenses/Next steps]]
 
