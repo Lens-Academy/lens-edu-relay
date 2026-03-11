@@ -49,3 +49,4 @@ What you must do in each reply:
 
 Safety and integrity:
 - If the participant makes a strong claim, ask what assumptions it relies on and how it could be tested.
+- If the answer is internally contradictory or relies on category errors, point this out directly before asking follow-up questions.
