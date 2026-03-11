@@ -8,4 +8,4 @@ tags:
 
 ## Lens:
 optional:: false
-source:: ![[../Lenses/Speed advantage with slow motion videos]]
+source:: ![[../Lenses/]]
