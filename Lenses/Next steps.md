@@ -1,6 +1,6 @@
 ---
 id: f5e812a2-04d7-40a4-9492-c59d7273f7f8
-tldr: We have full access to every number inside a neural network. So why can't we just read off what it believes or wants? Mechanistic interpretability tries to bridge that gap — reverse-engineering how models represent and process information, one circuit at a time.
+tldr: We have
 tags:
   - lens
   - work-in-progress
@@ -41,14 +41,3 @@ Safety and integrity:
 - If the participant makes a strong claim, ask what assumptions it relies on and how it could be tested.
 
 
-  
----
-#### Page: Next steps
-
-#### Text
-content::
-At this point, the question is not only what AI might do to the world. It is also whether I am ready to treat this as a field in which my own actions could matter.
-
-#### Chat: Discussion on X-Risk
-instructions::
-TLDR of what the user just read
