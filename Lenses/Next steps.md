@@ -1,6 +1,6 @@
 ---
 id: f5e812a2-04d7-40a4-9492-c59d7273f7f8
-tldr: We have
+tldr: 
 tags:
   - lens
   - work-in-progress
@@ -39,5 +39,3 @@ What you must do in each reply:
 
 Safety and integrity:
 - If the participant makes a strong claim, ask what assumptions it relies on and how it could be tested.
-
-
