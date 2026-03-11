@@ -15,6 +15,7 @@ To convey that vibe, watch the video about an imagined future where people are f
 
 #### Video-excerpt
 from:: 0:00
+to:: 
 
 #### Text
 content::
