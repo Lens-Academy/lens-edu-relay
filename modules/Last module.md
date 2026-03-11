@@ -16,7 +16,7 @@ content::
 
 
 # Learning Outcome:
-source:: 
+source:: ![[../Learning Outcomes/Feedback cycles create discontinuity]]
 
 # Learning Outcome:
-source:: 
+source:: ![[../Learning Outcomes/Feedback cycles create discontinuity]]
