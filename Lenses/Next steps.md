@@ -8,7 +8,9 @@ tags:
 
 #### Text
 content::
-`<introductory text>`
+
+
+
 #### Chat: Discussion on X-Risk
 instructions::
 TLDR of what the user just read:
