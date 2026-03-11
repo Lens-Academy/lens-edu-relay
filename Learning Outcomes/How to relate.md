@@ -12,12 +12,4 @@ source:: ![[../Lenses/The World Keeps Getting Saved]]
 
 ## Lens:
 optional:: false
-source:: ![[../Lenses/1960, The Year The Singularity Was Cancelled]]
-
-## Lens:
-optional:: false
-source:: ![[../Lenses/Machines Of Loving Grace]]
-
-## Lens:
-optional:: false
-source:: ![[../Lenses/The Artificial Intelligence That Deleted A Century]]
+source:: ![[../Lenses/The Goddess Of Everything Else]]
