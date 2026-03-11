@@ -5,8 +5,8 @@ tags:
   - work-in-progress
   - validator-ignore
 ---
-### Vide: `article title`
-source:: [[]]
+### Video: `article title`
+source:: [[../video_transcripts/]]
 
 #### Text
 content::
