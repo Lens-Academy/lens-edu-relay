@@ -19,12 +19,11 @@ to:: "`<an exact quote from the article where the exerpt should stop>`"
 
 #### Text
 content::
-`<prompt the user on how they should interact with the chatbot>`
+How would science change if we could conduct thousands of years of research in a single calendar year?
 
 #### Chat:
 instructions::
-The user is answering this question:
-What do you think of the argument that AI extinction risk is the default outcome? Which parts of this argument seem strongest to you, and which seem weakest?
+How would science change if we could conduct thousands of years of research in a single calendar year?
 
 Context:
 - This is a philosophical discussion about AI alignment and meta-level reasoning.
