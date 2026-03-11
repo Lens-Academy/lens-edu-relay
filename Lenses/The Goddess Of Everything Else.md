@@ -20,12 +20,12 @@ to:: "`<an exact quote from the article where the exerpt should stop>`"
 
 #### Text
 content::
-If there is anything you would like to discuss with the AI ​​tutor regarding the ideas and materials of this course, do so now. Now is the perfect time!
+If there is anything you would like to discuss with the AI tutor regarding the ideas and materials of this course, do so now. Now is the perfect time!
 
 #### Chat:
 instructions::
 The user is answering this question:
-What do you think of the argument that AI extinction risk is the default outcome? Which parts of this argument seem strongest to you, and which seem weakest?
+If there is anything you would like to discuss with the AI tutor regarding the ideas and materials of this course, do so now. Now is the perfect time!
 
 Context:
 - This is a philosophical discussion about AI alignment and meta-level reasoning.
