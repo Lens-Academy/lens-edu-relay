@@ -37,7 +37,7 @@ In this essay, Dario Amodei invites us to imagine a world in which safety proble
 
 #### Article-excerpt
 from:: "I think and talk a lot about"
-to:: 
+to:: "and abstract one."
 
 #### Text
 content::
