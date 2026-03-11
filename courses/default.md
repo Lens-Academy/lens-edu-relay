@@ -28,6 +28,9 @@ title: AI Safety Course
 
 # Meeting: Existing Approaches
 
-c
+# Module:  [[../modules/coming-soon]]
 
 # Meeting: What do we do next?
+
+# Module:  [[../modules/coming-soon]]
+
