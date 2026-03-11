@@ -4,7 +4,6 @@ slug: last-module-what-comes-next
 title: "Last module: What comes next"
 discussion: https://discordapp.com/channels/1440725236843806762/1476535068779483259 
 tags:
-  - aibied
   - module
   - work-in-progress
 ---
@@ -19,7 +18,10 @@ Across this module, we move from historical prediction to default risk, from cat
 
 This module concludes the course and addresses two questions:
 Where could AI development lead?
+
 What can I do to shape that future? 
+
+
 
 # Learning Outcome:
 source:: ![[../Learning Outcomes/Where it leads to]]
