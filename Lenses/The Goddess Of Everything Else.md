@@ -17,7 +17,7 @@ We close the module with a philosophical reflection on human nature. *The Goddes
 
 #### Video-excerpt
 from:: 0:00
-to:: 
+to:: 15%
 
 #### Text
 content::
