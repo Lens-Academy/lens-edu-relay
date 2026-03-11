@@ -1,10 +1,9 @@
 ---
 id: f5e812a2-04d7-40a4-9492-c59d7273f7f8
+tldr: We have full access to every number inside a neural network. So why can't we just read off what it believes or wants? Mechanistic interpretability tries to bridge that gap — reverse-engineering how models represent and process information, one circuit at a time.
 tags:
   - lens
   - work-in-progress
-
-
 
 ---
 ### Page: Mechanistic Interpretability
