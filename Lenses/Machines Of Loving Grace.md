@@ -14,7 +14,6 @@ Yes, the risks are real. But what exactly are we trying to protect?The following
 Nick Bostrom, author of Superintelligence, spoke not only about risks. In his "Letter from Utopia" he writes:
 
 >Dear Human,
->
 >Greetings, and may this letter find you at peace and in prosperity. Forgive my writing to you out of the blue. We have never met, yet we are not strangers. We are, in a sense, the closest of kin!
 >
 >I am one of your possible futures. I hope you will become me. Should this wish come true, then I am not just a possible future, but your actual future: a coming phase of you, like the flower that follows the seed. I am writing to tell you about my life – that you may choose it for yourself.
