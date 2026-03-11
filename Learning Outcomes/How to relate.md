@@ -30,7 +30,7 @@ We'll be asking you some questions about this module
 
 #### Question
 feedback:: true
-content:: List the concepts from this module that seemed most important to you. You can type your answer or record it using the microphone.
+content:: Among these common first steps, (Learn more, Talk to people in the field, Help spread understanding, Apply for a program or fellowship, Engage politically or institutionally, and Donate), which seem most interesting to you personally?
 enforce-voice:: true
 
 #### Question
