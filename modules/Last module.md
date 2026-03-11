@@ -12,6 +12,13 @@ tags:
 id:: 9b2bbd28-207f-4069-9610-37c31300583a
 ## Text
 content::
+This module is about what comes next. Not because we can predict the future with confidence, but because we cannot afford not to think about it. In AI safety, there is no consensus about when AGI will arrive, what exact path will lead to it, or what the world will look like on the other side. But uncertainty is not a reason to stop thinking. It is a reason to think more carefully.
+
+Across this module, we move from historical prediction to default risk, from catastrophic scenarios to positive visions, from abstract arguments to emotionally imaginable futures, and from civilizational stakes to personal agency.
+
+This module concludes the course and addresses two questions:
+Where could AI development lead?
+What can I do to shape that future? 
 
 
 # Learning Outcome:
