@@ -20,7 +20,7 @@ to:: "`<an exact quote from the article where the exerpt should stop>`"
 
 #### Text
 content::
-`<prompt the user on how they should interact with the chatbot>`
+If there is anything you would like to discuss with the AI ​​tutor regarding the ideas and materials of this course, do so now. Now is the perfect time!
 
 #### Chat:
 instructions::
