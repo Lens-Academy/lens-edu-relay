@@ -25,8 +25,7 @@ Nick Bostrom, author of Superintelligence, spoke not only about risks. In his "L
 >
 >How can I tell you about Utopia and not leave you mystified? With what words could I convey the wonder? My pen, I fear, is as unequal to the task as if I had tried to use it against a charging war elephant.
 >
->But maybe you will overlook the weakness of my exposition. 
->\[...\]
+>But maybe you will overlook the weakness of my exposition. \[...\]
 >The challenge before you: to become fully what you now are only in hope and potential. For this, new capacities are needed.
 >
 >To reach Utopia, you must discover the means to three fundamental transformations.
