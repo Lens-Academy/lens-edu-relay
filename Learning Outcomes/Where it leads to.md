@@ -16,4 +16,8 @@ source:: ![[../Lenses/1960, The Year The Singularity Was Cancelled]]
 
 ## Lens:
 optional:: false
-source:: ![[../Lenses/M]]
+source:: ![[../Lenses/Machines Of Loving Grace]]
+
+## Lens:
+optional:: false
+source:: ![[../Lenses/]]
