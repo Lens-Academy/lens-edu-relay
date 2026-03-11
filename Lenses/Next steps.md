@@ -29,7 +29,7 @@ Below is a common set of next steps for people who have just finished an introdu
 
 **Talk to people in the field**
 
-Events (https://www.effectivealtruism.org/ea-global/events)  like EA Global and EAGx are good places to talk not only to experts, but also to many newcomers who are in a situation similar to yours. They often include career fairs, networking spaces, and structured opportunities for conversation, so they can be a practical way to explore the field, ask questions, and see what paths people actually take.
+[Events (https://www.effectivealtruism.org/ea-global/events)  like EA Global and EAGx are good places to talk not only to experts, but also to many newcomers who are in a situation similar to yours. They often include career fairs, networking spaces, and structured opportunities for conversation, so they can be a practical way to explore the field, ask questions, and see what paths people actually take.
 
 
 Help spread understanding
