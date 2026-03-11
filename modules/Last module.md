@@ -20,7 +20,6 @@ This module concludes the course and addresses two questions:
 Where could AI development lead?
 What can I do to shape that future? 
 
-
 # Learning Outcome:
 source:: ![[../Learning Outcomes/Where it leads to]]
 
