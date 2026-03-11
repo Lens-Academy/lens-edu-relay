@@ -50,5 +50,5 @@ enforce-voice:: true
 
 #### Question
 feedback:: true
-content:: Among these common first steps, (Learn more, Talk to people in the field, Help spread understanding, Apply for a program or fellowship, Engage politically or institutionally, and Donate), which seem most interesting to you personally?
+content:: What did you take away from this course for yourself?
 enforce-voice:: true
