@@ -18,7 +18,7 @@ We begin this module with an article demonstrating that history does not have to
 The module opens with a question: how, exactly, do people attempt to predict major historical shifts?
 
 #### Article-excerpt
-from:: ""
+from:: "***Epis"
 
 #### Text
 content::
