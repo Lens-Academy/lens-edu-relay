@@ -1,5 +1,5 @@
 ---
-id: b2239515-2a69-48c6-8a40-0108c868c6a7
+id: cd11efd8-f449-4964-8962-97cbe865a9bf
 slug:
 title:
 discussion: https://discordapp.com/channels/1440725236843806762/1476535068779483259 
@@ -10,7 +10,7 @@ tags:
 ---
 
 # Page: Welcome
-id:: f5bafdc3-7878-4bbf-bccf-95971d1829ec
+id:: 9b2bbd28-207f-4069-9610-37c31300583a
 ## Text
 content::
 
