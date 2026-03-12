@@ -2,7 +2,6 @@
 id: 0979db63-4c67-4cd2-892c-c653c170729a
 tags:
   - lens
-  - work-in-progress
 ---
 ### Video: The Artificial Intelligence That Deleted A Century
 source:: [[../video_transcripts/tomscott-the-artificial-intelligence-that-deleted-a-century]]
