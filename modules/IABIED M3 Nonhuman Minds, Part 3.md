@@ -22,7 +22,7 @@ content:: In module 3 we ask 2 essential questions:
 - First, how do we know that an AI won't want things that are broadly compatible with human life and flourishing?
 - Second, in the event it wants things that are bad for humanity, can't we just turn it off?
 
-The key intuition to take away from the first question goes something like this: an AI could have countless possible goals and those that compatible with human flourishing are only a very small subset. We don't know nearly enough about what's happening inside AI's to know where goals come from or how they form. 
+The key intuition to take away from the first question goes something like this: an AI could have countless possible goals and those that are compatible with human flourishing are only a very small subset. We don't know nearly enough about what's happening inside AI's to know where goals come from or how they form. 
 
 The authors use the example of bird-like creatures that care a lot about the number of stones in their nests to illustrate the concept that alien goals will be... well... **alien**.
 
