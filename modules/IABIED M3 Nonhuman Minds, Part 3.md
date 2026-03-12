@@ -29,6 +29,8 @@ The authors use the example of bird-like creatures that care a lot about the num
 **Reflection Questions**
 - "I’d guess that correct nests are an extremely rare thing for intelligent aliens to end up caring about." One is tempted to suspect the authors of hinting at some human value(s) they consider silly. Do any ideas spring to mind for you? What human values would be particularly difficult for an alien observer to comprehend?
 
+
+
 # Learning Outcome: IABIED - Human-Compatible Goals Are a Vanishingly Small Subset of All Possible Goals
 source:: 
 
