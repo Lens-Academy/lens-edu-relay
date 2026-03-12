@@ -39,7 +39,7 @@ Editorially, this chapter feels feels like a weird collection of oddities. It's 
 
 "In a sense, the scenario we need to worry about is as simple as this: An AI with strange goals becomes or creates a superintelligence, and that superintelligence creates all sorts of technology and radically reshapes the world."
 
-Really, the learning outcome here distills back to the power of intelligence (plus technolog). 
+Really, the learning outcome here distills back to the power of intelligence (plus technology). 
 
 # Learning Outcome: IABIED - Human-Compatible Goals Are a Vanishingly Small Subset of All Possible Goals
 source:: 
