@@ -21,7 +21,7 @@ content:: In module 3 we ask 2 essential questions:
 - First, how do we know that an AI won't want things that are broadly compatible with human life and flourishing?
 - Second, in the event it wants things that are bad for humanity, can't we just turn it off?
 
-# Learning Outcome: IABIED - Explain that human-c
+# Learning Outcome: IABIED - Explain that human-compatible goals are a vanishingly small sub
 source:: 
 
 # Learning Outcome: IABIED - How Do We Steer This Thing?
