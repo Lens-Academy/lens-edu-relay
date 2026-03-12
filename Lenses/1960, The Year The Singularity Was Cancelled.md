@@ -2,7 +2,6 @@
 id: b24e0198-8fa8-49cd-b7c6-396bc5f847be
 tags:
   - lens
-  - work-in-progress
 ---
 ### Article: 1960, The Year The Singularity Was Cancelled
 source:: [[../articles/1960, The Year The Singularity Was Cancelled]]
