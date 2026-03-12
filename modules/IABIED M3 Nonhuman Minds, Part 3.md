@@ -17,7 +17,8 @@ tags:
 id::
 
 ## Text
-content:: In module 3 we ask 2 e
+content:: In module 3 we ask 2 essential questions:
+- 
 
 # Learning Outcome: IABIED - Explain Why it's Hard to Tell Wanting from Doing
 source:: 
