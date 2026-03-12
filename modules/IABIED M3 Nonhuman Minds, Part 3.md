@@ -20,7 +20,7 @@ id::
 ## Text
 content:: In module 3 we ask 2 essential questions:
 - First, how do we know that an AI won't want things that are broadly compatible with human life and flourishing?
-- Second, in the event it wants things that are bad for humanity, can't we just turn it off?
+- Second, in the event it wants things that are bad for humanity, can't we just...?
 
 **Chapter 5**
 The key intuition to take away from the first question goes something like this: an AI could have countless possible goals and those that are compatible with human flourishing are only a very small subset. We don't know nearly enough about what's happening inside AI's to know where goals come from or how they form. 
@@ -38,8 +38,6 @@ I hate to be pedantic here, but it's pretty much *by definition* that if it's a 
 Editorially, this chapter feels feels like a weird collection of oddities. It's harder to assemble into a coherent whole message aside from: we'll be surprised, but only if we realize there's something to be surprised about. 
 
 "In a sense, the scenario we need to worry about is as simple as this: An AI with strange goals becomes or creates a superintelligence, and that superintelligence creates all sorts of technology and radically reshapes the world."
-
-
 
 # Learning Outcome: IABIED - Human-Compatible Goals Are a Vanishingly Small Subset of All Possible Goals
 source:: 
