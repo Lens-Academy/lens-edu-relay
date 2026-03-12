@@ -18,7 +18,7 @@ id::
 
 ## Text
 content:: In module 3 we ask 2 essential questions:
-- First, how do we know that an AI won't want things that are broadly compatible wit
+- First, how do we know that an AI won't want things that are broadly compatible with human life and flouris
 
 # Learning Outcome: IABIED - Explain Why it's Hard to Tell Wanting from Doing
 source:: 
