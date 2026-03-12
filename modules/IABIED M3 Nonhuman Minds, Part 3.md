@@ -33,7 +33,7 @@ The authors open the chapter with the example of bird-like creatures that care a
 **Chapter 6**
 The chapter opens with Aztec warriors watching a boat approaching. It was much larger than any they knew how to build and one warrior wisely asked "what else might they know how to do that we don't?" 
 
-I hate to be sarcas
+I hate to be sarcastic here, but it's pretty much *by definition* that i
 
 # Learning Outcome: IABIED - Human-Compatible Goals Are a Vanishingly Small Subset of All Possible Goals
 source:: 
