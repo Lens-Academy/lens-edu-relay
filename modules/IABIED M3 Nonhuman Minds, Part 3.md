@@ -37,7 +37,7 @@ I hate to be pedantic here, but it's pretty much *by definition* that if it's a 
 
 Editorially, this chapter feels feels like a weird collection of oddities. It's harder to assemble into a coherent whole message aside from: we'll be surprised, but only if we realize there's something to be surprised about. 
 
-
+"In a sense, the scenario we need to worry about is as simple as this: An AI with strange goals becomes or creates a superintelligence, and that superintelligence creates all sorts of technology and radically reshapes the world."
 
 # Learning Outcome: IABIED - Human-Compatible Goals Are a Vanishingly Small Subset of All Possible Goals
 source:: 
