@@ -27,7 +27,7 @@ The key intuition to take away from the first question goes something like this:
 The authors use the example of bird-like creatures that care a lot about the number of stones in their nests to illustrate the concept that alien goals will be... well... **alien**. There's no translator device for goals and even humans don't seem to care nearly as much about others' goals as they do about their own. It seems wildly optimistic, then, to expect that an alien intelligence would care a lot about human goals.
 
 **Reflection Questions**
-- One is tempted to
+- One is tempted to suspect the authors are pointing at 
 
 # Learning Outcome: IABIED - Human-Compatible Goals Are a Vanishingly Small Subset of All Possible Goals
 source:: 
