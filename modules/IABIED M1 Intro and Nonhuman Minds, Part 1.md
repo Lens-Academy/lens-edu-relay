@@ -2,7 +2,7 @@
 id:
 slug: iabied-m1
 title: "Introduction and Nonhuman Minds, Part 1"
-discussion:
+discussion: https://discord.com/channels/1440725236843806762/1481259751374327929
 tags:
   - aibied
   - module

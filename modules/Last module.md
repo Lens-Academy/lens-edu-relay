@@ -1,22 +1,28 @@
 ---
-id: b2239515-2a69-48c6-8a40-0108c868c6a7
-slug:
-title:
+id: cd11efd8-f449-4964-8962-97cbe865a9bf
+slug: last-module-what-comes-next
+title: "Last module: What comes next"
 discussion: https://discordapp.com/channels/1440725236843806762/1476535068779483259 
 tags:
   - module
-  - work-in-progress
-  - validator-ignore
 ---
 
 # Page: Welcome
-id:: f5bafdc3-7878-4bbf-bccf-95971d1829ec
+id:: 9b2bbd28-207f-4069-9610-37c31300583a
 ## Text
 content::
+This module is about what comes next. Not because we can predict the future with confidence, but because we cannot afford not to think about it. In AI safety, there is no consensus about when AGI will arrive, what exact path will lead to it, or what the world will look like on the other side. But uncertainty is not a reason to stop thinking. It is a reason to think more carefully.
+
+Across this module, we move from historical prediction to default risk, from catastrophic scenarios to positive visions, from abstract arguments to emotionally imaginable futures, and from civilizational stakes to personal agency.
+
+This module concludes the course and addresses two questions:
+Where could AI development lead?
+What can I do to shape that future? 
+
 
 
 # Learning Outcome:
-source:: 
+source:: ![[../Learning Outcomes/Where it leads to]]
 
 # Learning Outcome:
-source:: 
+source:: ![[../Learning Outcomes/How to relate]]

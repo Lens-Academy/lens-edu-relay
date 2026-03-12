@@ -5,32 +5,33 @@ title: "An introduction to AI Safety, by the book: *If Anybone Builds It, Everyo
 description: "This is an introductory AI safety course that assumes no prior knowledge of AI safety, or even computer science. We hope this course can serve as deep foundation for expanding knowledge into the student's areas of interest: technical AI safety, governance, or direct advocacy. In particular, it provides the base-level intuitions that motivate our main AI safety coursw, which is more ambition in technical terms (for example, by asking the students to assess the various existing AI safety techniques)."
 tags:
   - work-in-progress
+discussion:  https://discord.com/channels/1440725236843806762/1481259751374327929
 ---
 
-# Module: [[../modules/AIBIED M1 Intro and Nonhuman Minds, Part 1]]
+# Module: [[../modules/IABIED M1 Intro and Nonhuman Minds, Part 1]]
 
-# Meeting: 1
+# Meeting: Introduction
 
-# Module: [[IA/modules/AIBIED M2 Nonhuman Minds, Part 2]]
+# Module: [[../modules/IABIED M2 Nonhuman Minds, Part 2]]
 
-# Meeting: 2
+# Meeting: Nonhuman Minds part 2
 
-# Module: [[.A/modules/AIBIED M3 Nonhuman Minds, Part 3]]
+# Module: [[../modules/IABIED M3 Nonhuman Minds, Part 3]]
 
-# Meeting: 3
+# Meeting: Nonhuman Minds part 3
 
-# Module: [[.A/modules/AIBIED M4 One Extinction Scenario]]
+# Module: [[../modules/IABIED M4 One Extinction Scenario]]
 
-# Meeting: 4
+# Meeting: One Extinction Scenario
 
-# Module: [[.A/modules/AIBIED M5 Facing The Challenge, Part 1]]
+# Module: [[../modules/IABIED M5 Facing The Challenge, Part 1]]
 
-# Meeting: 5
+# Meeting: Facing the Challenge, part 1
 
-# Module: [[.A/modules/AIBIED M6 Facing The Challenge, Part 2]]
+# Module: [[../modules/IABIED M6 Facing The Challenge, Part 2]]
 
-# Meeting: 6
+# Meeting: Facing the Challenge, part 2
 
-# Module: [[.A/modules/AIBIED M7 Next Steps]]
+# Module: [[../modules/IABIED M7 What Happens Next]]
 
-# Meeting: 7
+# Meeting: What Happens Next
