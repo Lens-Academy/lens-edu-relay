@@ -26,7 +26,7 @@ The key intuition to take away from the first question goes something like this:
 
 The authors use the example of bird-like creatures that care a lot about the number of stones in their nests to illustrate the concept that alien goals will be... well... **alien**. There's no translator device for goals and even humans don't seem to care nearly as much about others' goals as they do about their own. It seems wildly optimistic, then, to expect that an alien intelligence would care a lot about human goals.
 
-**Reflection Questions**
+*Reflection Questions*
 - "I’d guess that correct nests are an extremely rare thing for intelligent aliens to end up caring about." One is tempted to suspect the authors of hinting at some human value(s) they consider silly. Do any ideas spring to mind for you? What human values would be particularly difficult for an alien observer to comprehend?
 
 
