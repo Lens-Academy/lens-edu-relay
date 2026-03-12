@@ -11,7 +11,7 @@ tags:
   - module
   - work-in-progress
   - validator-ignore
-  - discussion-link-to-co
+  - discussion-links-to
 ---
 
 # Page: Welcome
