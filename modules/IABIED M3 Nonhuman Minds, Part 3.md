@@ -25,13 +25,13 @@ content:: In module 3 we ask 2 essential questions:
 **Chapter 5**
 The key intuition to take away from the first question goes something like this: an AI could have countless possible goals and those that are compatible with human flourishing are only a very small subset. We don't know nearly enough about what's happening inside AI's to know where goals come from or how they form. 
 
-The authors use the example of bird-like creatures that care a lot about the number of stones in their nests to illustrate the concept that alien goals will be... well... **alien**. There's no translator device for goals and even humans don't seem to care nearly as much about others' goals as they do about their own. It seems wildly optimistic, then, to expect that an alien intelligence would care a lot about human goals.
+The authors open the chapter with the example of bird-like creatures that care a lot about the number of stones in their nests to illustrate the concept that alien goals will be... well... **alien**. There's no translator device for goals and even humans don't seem to care nearly as much about others' goals as they do about their own. It seems wildly optimistic, then, to expect that an alien intelligence would care a lot about human goals.
 
 *Reflection Questions*
 - "I’d guess that correct nests are an extremely rare thing for intelligent aliens to end up caring about." One is tempted to suspect the authors of hinting at some human value(s) they consider silly. Do any ideas spring to mind for you? What human values would be particularly difficult for an alien observer to comprehend?
 
 **Chapter 6**
-
+The chapter opens wit
 
 # Learning Outcome: IABIED - Human-Compatible Goals Are a Vanishingly Small Subset of All Possible Goals
 source:: 
