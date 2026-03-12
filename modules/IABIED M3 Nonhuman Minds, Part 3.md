@@ -4,8 +4,8 @@ slug: iabied-m1
 title: "Nonhuman Minds, Part 2"
 discussion: https://discord.com/channels/1440725236843806762/1481259751374327929
 readings: 
-  - "Chapter 5: Its Favorite T"
-  - "Chapter 6"
+  - "Chapter 5: Its Favorite Things"
+  - "Chapter 6: We'd Lose"
 tags:
   - aibied
   - module
