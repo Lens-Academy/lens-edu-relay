@@ -24,7 +24,7 @@ content:: In module 3 we ask 2 essential questions:
 
 The key intuition to take away from the first question goes something like this: an AI could have countless possible goals and those that are compatible with human flourishing are only a very small subset. We don't know nearly enough about what's happening inside AI's to know where goals come from or how they form. 
 
-The authors use the example of bird-like creatures that care a lot about the number of stones in their nests to illustrate the concept that alien goals will be... well... **alien**. There's no translator device for goals and even hu
+The authors use the example of bird-like creatures that care a lot about the number of stones in their nests to illustrate the concept that alien goals will be... well... **alien**. There's no translator device for goals and even humans don't seem to care much about other group'
 
 # Learning Outcome: IABIED - Human-Compatible Goals Are a Vanishingly Small Subset of All Possible Goals
 source:: 
