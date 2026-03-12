@@ -18,3 +18,9 @@ id::
 
 ## Text
 content:: 
+
+# Learning Outcome: IABIED - Explain Why it's Hard to Tell Wanting from Doing
+source:: 
+
+# Learning Outcome: IABIED - How Do We Steer This Thing?
+source:: 
