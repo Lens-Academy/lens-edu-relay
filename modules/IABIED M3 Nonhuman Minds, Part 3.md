@@ -17,7 +17,7 @@ tags:
 id::
 
 ## Text
-content:: 
+content:: In module 
 
 # Learning Outcome: IABIED - Explain Why it's Hard to Tell Wanting from Doing
 source:: 
