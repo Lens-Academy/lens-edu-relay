@@ -4,7 +4,6 @@ learning-outcome: Learners can describe plausible trajectories of advanced AI de
 
 tags:
   - learning-outcome
-  - work-in-progress
 ---
 ## Test:
 
