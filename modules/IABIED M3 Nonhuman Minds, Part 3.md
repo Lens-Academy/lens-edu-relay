@@ -31,7 +31,7 @@ The authors open the chapter with the example of bird-like creatures that care a
 - "I’d guess that correct nests are an extremely rare thing for intelligent aliens to end up caring about." One is tempted to suspect the authors of hinting at some human value(s) they consider silly. Do any ideas spring to mind for you? What human values would be particularly difficult for an alien observer to comprehend?
 
 **Chapter 6**
-The chapter opens with Aztec warriors watching a boat approaching. It wasmuch larger than any they knew how to build and one warrior wisely asked "what else might they know how to do that we don't?" Yet
+The chapter opens with Aztec warriors watching a boat approaching. It wasmuch larger than any they knew how to build and one warrior wisely asked "what else might they know how to do that we don't?" Ye
 
 # Learning Outcome: IABIED - Human-Compatible Goals Are a Vanishingly Small Subset of All Possible Goals
 source:: 
