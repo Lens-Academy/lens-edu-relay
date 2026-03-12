@@ -24,5 +24,5 @@ content:: In module 3 we ask 2 essential questions:
 # Learning Outcome: IABIED - Human-Compatible Goals Are a Vanishingly Small Subset of All Possible Goals
 source:: 
 
-# Learning Outcome: IABIED - How Do We Steer This Thing?
+# Learning Outcome: IABIED - We'd Lose
 source:: 
