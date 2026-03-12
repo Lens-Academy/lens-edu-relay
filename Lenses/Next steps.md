@@ -3,8 +3,6 @@ id: f5e812a2-04d7-40a4-9492-c59d7273f7f8
 tldr: 
 tags:
   - lens
-  - work-in-progress
-
 ---
 ### Page: Next steps
 id:: ae10d3aa-9adb-47f6-a8f8-3c85da98f88e
