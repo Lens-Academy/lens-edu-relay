@@ -33,7 +33,8 @@ The authors open the chapter with the example of bird-like creatures that care a
 **Chapter 6**
 The chapter opens with Aztec warriors watching a boat approaching. It was much larger than any they knew how to build and one warrior wisely asked "what else might they know how to do that we don't?" 
 
-I hate to be pedantic here, but it's pretty much *by definition* that if it's a superintelligence, it defeats humans at tasks that require intelligence, like... war?
+I hate to be pedantic here, but it's pretty much *by definition* that if it's a superintelligence, it defeats humans at tasks that require intelligence, like... war? "
+How exactly would it win that conflict? We don’t know, any more than we know exactly what moves Stockfish would use to beat you at chess. But we’re still quite sure it would wipe the floor with you."
 
 # Learning Outcome: IABIED - Human-Compatible Goals Are a Vanishingly Small Subset of All Possible Goals
 source:: 
