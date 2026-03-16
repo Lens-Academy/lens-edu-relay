@@ -1,6 +1,6 @@
 ---
 id: 01f6df31-099f-48ed-adef-773cc4f947e4
-tldr: The concern isn't that AI will "turn evil." It's that a system pursuing perfectly reasonable goals might find that humans are in the way — and be capable enough to act on it. This overview covers the core ideas behind AI as a source of large-scale risk, from misaligned goals to the difficulty of staying in control.
+tldr: {++{"author":"AI","timestamp":1772973167564}@@The concern isn't that AI will "turn evil." It's that a system pursuing perfectly reasonable goals might find that humans are in the way — and be capable enough to act on it. ++}This {--{"author":"AI","timestamp":1772973167564}@@Wikipedia article summarises --}{++{"author":"AI","timestamp":1772973167564}@@overview covers the core ideas behind AI as a source of large-scale risk, from misaligned goals to ++}the {--{"author":"AI","timestamp":1772973167564}@@risks--}{++{"author":"AI","timestamp":1772973167564}@@difficulty++} of {--{"author":"AI","timestamp":1772973167564}@@advanced AI systems.--}staying in control.
 ---
 ### Article: Existential Risk from AI
 source:: [[../articles/wikipedia-existential-risk-from-ai]]
