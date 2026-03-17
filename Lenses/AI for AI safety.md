@@ -9,7 +9,7 @@ source:: [[../articles/carlsmith-ai-for-ai-safety]]
 
 #### Text
 content::
-This post argues there's a temporary "AI for AI safety" sweet spot. This is a period where AI is smart enough to help with safety but not yet smart enough to be uncontrollable. The theory of change relies on differential progress. We must use AI to strengthen safety factors. This should happen before the models reach a level of superintelligence.
+This post argues there's a temporary "AI for AI safety" sweet spot. This is a period where AI is smart enough to help with safety but not yet smart enough to be uncontrollable. The theory of change relies on differential progress (i.e. safety . We must use AI to strengthen safety factors. This should happen before the models reach a level of superintelligence.
 
 
 #### Article-excerpt
