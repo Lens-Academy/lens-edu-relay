@@ -70,10 +70,3 @@ The use of sparse autoencoders has proved a promising means of interpreting neur
 Anthropic’s recent interpretability findings represent an important step forward. They not only identified vast numbers of representations but isolated many safety-relevant features related to threats such as discrimination, deception and misuse. They were also able to make some early attempts at **feature steering**, by identifying specific features and weakening or strengthening their activation in order to influence model outputs (in a [humorous example](https://venturebeat.com/ai/anthropic-tricked-claude-into-thinking-it-was-the-golden-gate-bridge-and-other-glimpses-into-the-mysterious-ai-brain/), amplifying Claude’s Golden Gate Bridge feature leads the model to self-identify as the bridge!). However, there remain many [open problems in the problem of achieving monosemanticity](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html#discussion-limitations), and in the [field of mechanistic interpretability more broadly](https://www.youtube.com/watch?v=EuQjiNrK77M).
 
 [^1]: Recent and much-publicised interpretability research could give an inaccurate perception of how much progress has been made here. Anthropic CEO Dario Amodei estimated in a [recent podcast interview](https://www.youtube.com/watch?v=xm6jNMSFT7g&t=161s) that we currently understand just 3% of how they operate.
-
-[^2]: Testing another footnote lalala
-
-[^3]: Blub blub
-	
-
-[^4]: hello world
