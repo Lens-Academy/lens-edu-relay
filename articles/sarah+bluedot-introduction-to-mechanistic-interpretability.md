@@ -51,7 +51,7 @@ Since we have a basic understanding of the underlying structures that form neura
 
 A central challenge of mechanistic interpretability is **identifying which parts of a network correspond to which features**. It can be difficult to isolate precisely which input is causing a neuron to activate. For example, a neuron which activates in response to pictures of dogs may appear to have encoded a ‘dog’ feature. But it could actually be responding to snouts, fur, or any number of other things which the pictures have in common. This means that accurately identifying just one feature could require a considerable amount of repeated experimentation.
 
-To make matters more complicated, a single neuron in a neural network can sometimes represent multiple features (and even more confusingly, a single feature can be spread over multiple neurons!). This is phenomenon known as **polysemanticity**. One hypothesis is that polysemanticity occurs as a result of **superposition**, where a model stores more features than it has neurons by ‘cramming’ multiple features into a single neuron. In a [well-known example](https://distill.pub/2017/feature-visualization/), a single neuron in the vision model InceptionV1 responded to both cat faces and the fronts of cars. This presents a challenge for mechanistic interpretability since it can be hard to isolate the contribution of individual neurons to a model’s cognition process.
+To make matters more complicated, a single neuron in a neural network can sometimes represent multiple features (and even more confusingly, a single feature can be spread over multiple neurons!). This is phenomenon known as **polysemanticity**. One hypothesis is that polysemanticity occurs as a result of **superposition**, where a model stores more features than it has neurons by ‘cramming’ multiple features into a single neuron. In a [well-known example](https://distill.pub/2017/feature-visualization/), a single neuron in the vision model InceptionV1 responded to both cat faces and the fronts of cars. This presents a challenge for mechanistic interpretability since it can be hard to isolate the contribution of individual neurons to a model’s cognition process.[^3]
 
 Polysemanticity also has implications for safety and alignment. If one neuron can represent multiple features, then it is much harder to disentangle potentially harmful features from innocuous ones. Even if a neuron is representing something as harmless as ‘hairdressing’ 99% of the time, it could be representing ‘deception’ 1% of the time. This complicates the challenge of isolating and eliminating dangerous capabilities.
 
@@ -72,3 +72,6 @@ Anthropic’s recent interpretability findings represent an important step forwa
 [^1]: Recent and much-publicised interpretability research could give an inaccurate perception of how much progress has been made here. Anthropic CEO Dario Amodei estimated in a [recent podcast interview](https://www.youtube.com/watch?v=xm6jNMSFT7g&t=161s) that we currently understand just 3% of how they operate.
 
 [^2]: Testing another footnote lalala
+
+[^3]: Blub blub
+	
