@@ -1,6 +1,7 @@
 ---
 id: 8691b0e4-924f-4685-8f1f-6ce6c6b20205
 tldr: Judging a model only by its behavior has a problem — behavior can be faked. Mechanistic interpretability aims to verify the internal reasons for a model's output by reverse-engineering its circuits. If it works, we could detect dangerous goals before the model ever acts on them.
+discussion: https://discord.com/channels/1440725236843806762/1483418591482347723
 tags:
   - lens
 ---
