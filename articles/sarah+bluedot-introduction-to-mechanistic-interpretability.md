@@ -21,7 +21,7 @@ Progress in mechanistic interpretability is also one path to **detecting unalign
 
 - Avoid (potentially catastrophic) failure modes that stem from uncritically trusting the outputs of misaligned models
 - Build greater consensus around AI-related threats by conclusively demonstrating that they display certain tendencies
-- Negatively reinforce misaligned behaviour
+- Negatively reinforce misaligned behaviour[^4]
 
 In the most optimistic case, mechanistic interpretability could not only help us understand the processes by which AI models produce outputs, but to **intervene in these processes**. For example, if we could isolate the parts of a network that are responsible for producing harmful outputs or misaligned behaviour, perhaps we could ‘turn them off’ to prevent said harms from materialising. Recent [research from Anthropic](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html) showed that increased interpretability of models allows for some degree of ‘feature steering’, where a model’s outputs can be deliberately modified in targeted ways. It seems plausible (though not guaranteed) that the more insight we gain into a model’s cognition, the more control we will acquire over its behaviour.
 
@@ -75,3 +75,5 @@ Anthropic’s recent interpretability findings represent an important step forwa
 
 [^3]: Blub blub
 	
+
+[^4]: hello world
