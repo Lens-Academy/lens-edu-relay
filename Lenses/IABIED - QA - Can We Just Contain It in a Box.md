@@ -1,0 +1,27 @@
+{++{"author":"AI","timestamp":1773780857474}@@---
+id: dc463cfa-3cf7-49d8-ae32-8935dfd4cf28
+tags:
+  - lens
+  - IABIED
+  - supplementary
+  - work-in-progress
+---
+
+### Page
+
+#### Text
+content::
+This is supplementary material from the book's online resources at ifanyonebuildsit.com/6. It addresses the containment objection: "Can't we just keep it in a box, disconnected from the internet?"
+
+TODO: Embed Q&A content from ifanyonebuildsit.com/6
+
+#### Chat: Discussion
+instructions::
+The student just read a supplementary Q&A about AI containment — the idea of keeping a superintelligence "in a box."
+
+Discussion topics:
+- Chapter 6 describes how an AI is "not stuck inside a computer any more than you're stuck inside a brain." Does the containment Q&A change how you think about this?
+- The quiz show in Chapter 6 showed that even human researchers can extract encryption keys from power LEDs. What does this imply for containment?
+
+Ask what they found surprising or new.
+++}
