@@ -23,7 +23,7 @@ from:: "***Epis"
 content::
 Do you agree that AI could trigger a return to hyperbolic growth? Explain your opinion.
 
-#### {--{"author":"AI","timestamp":1773842997249}@@Chat:--}{++{"author":"AI","timestamp":1773842997249}@@Chat++}
+#### Chat
 instructions::
 The user is answering this question:
 Do you agree that AI could trigger a return to hyperbolic growth? Explain your opinion.

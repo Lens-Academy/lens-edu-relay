@@ -15,7 +15,7 @@ This is supplementary material from the book's online resources at ifanyonebuild
 
 TODO: Embed Q&A content from ifanyonebuildsit.com/1
 
-#### {--{"author":"AI","timestamp":1773842966204}@@Chat: Discussion--}{++{"author":"AI","timestamp":1773842966204}@@Chat++}
+#### Chat
 instructions::
 The student just read a supplementary Q&A from the book's website about whether intelligence is a meaningful concept.
 

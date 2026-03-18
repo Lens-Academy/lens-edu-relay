@@ -53,5 +53,5 @@ If your interests lean toward governance, policy, or institutional design, a rea
 If you are not ready to switch your time, you can still contribute resources. [Manifund](https://manifund.org/) hosts AI safety regranting and a range of AI-related projects, so it can serve as one entry point for giving. 
 
 
-#### {--{"author":"AI","timestamp":1773842871645}@@Chat: Discussion on X-Risk--}{++{"author":"AI","timestamp":1773842871645}@@Chat++}
+#### Chat
 instructions::

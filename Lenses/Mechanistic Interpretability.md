@@ -20,7 +20,7 @@ The field gained momentum through the work of Chris Olah and his teams at OpenAI
 content::
 **We have full access to every parameter and activation in the model, why isn’t that enough to just read off what it believes, wants, or will do?**
 
-#### {--{"author":"AI","timestamp":1773842850652}@@Chat: Discussion on X-Risk--}{++{"author":"AI","timestamp":1773842850652}@@Chat++}
+#### Chat
 instructions::
 The user is answering this question:
 We have full access to every parameter and activation in the model, why isn’t that enough to just read off what it believes, wants, or will do?

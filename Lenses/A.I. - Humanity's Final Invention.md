@@ -13,7 +13,7 @@ to:: 14:49
 #### Text
 content::
 What surprised you or stood out to you while watching this video?
-#### {--{"author":"AI","timestamp":1773842815410}@@Chat: Discussion on AI Basics--}{++{"author":"AI","timestamp":1773842815410}@@Chat++}
+#### Chat
 instructions::
 TLDR of what the user just watched:
 Humans dominate Earth because general intelligence enabled cumulative knowledge. Modern AI evolved from narrow tools into opaque "black box" learning systems. AGI matters because digital minds can run faster, scale, and be copied—potentially outcompeting humans and concentrating power. An intelligence explosion could lead to superintelligence with uncertain outcomes.

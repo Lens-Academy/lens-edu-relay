@@ -15,7 +15,7 @@ This is supplementary material from the book's online resources at ifanyonebuild
 
 TODO: Embed Q&A content from ifanyonebuildsit.com/6
 
-#### {--{"author":"AI","timestamp":1773842942058}@@Chat: Discussion--}{++{"author":"AI","timestamp":1773842942058}@@Chat++}
+#### Chat
 instructions::
 The student just read a supplementary Q&A about AI containment — the idea of keeping a superintelligence "in a box."
 

@@ -23,7 +23,7 @@ from:: ""
 content::
 Based on your personal experience analyzing past events, how do you draw the line between "the danger was exaggerated" and "the danger was successfully averted in time"? Using this method, would you be able to distinguish a successful outcome in addressing a safety issue?
 
-#### {--{"author":"AI","timestamp":1773843002156}@@Chat:--}{++{"author":"AI","timestamp":1773843002156}@@Chat++}
+#### Chat
 instructions::
 The user is answering this question:
 Based on your personal experience analyzing past events, how do you draw the line between "the danger was exaggerated" and "the danger was successfully averted in time"? Using this method, would you be able to distinguish a successful outcome in addressing a safety issue?

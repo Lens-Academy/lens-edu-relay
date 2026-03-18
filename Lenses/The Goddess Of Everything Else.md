@@ -22,7 +22,7 @@ to:: 15:53
 content::
 If there is anything you would like to discuss with the AI tutor regarding the ideas and materials of this course, do so now. Now is the perfect time!
 
-#### {--{"author":"AI","timestamp":1773843001256}@@Chat:--}{++{"author":"AI","timestamp":1773843001256}@@Chat++}
+#### Chat
 instructions::
 The user is answering this question:
 If there is anything you would like to discuss with the AI tutor regarding the ideas and materials of this course, do so now. Now is the perfect time!

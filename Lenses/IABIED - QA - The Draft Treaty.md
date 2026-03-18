@@ -15,7 +15,7 @@ This is supplementary material from the book's online resources at ifanyonebuild
 
 TODO: Embed draft treaty text with annotations from ifanyonebuildsit.com/13
 
-#### {--{"author":"AI","timestamp":1773842968851}@@Chat: Discussion--}{++{"author":"AI","timestamp":1773842968851}@@Chat++}
+#### Chat
 instructions::
 The student just read the draft international treaty proposed in the book's online resources.
 
