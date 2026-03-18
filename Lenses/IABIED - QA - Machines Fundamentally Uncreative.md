@@ -1,0 +1,34 @@
+{++{"author":"AI","timestamp":1773852715926}@@---
+id: 12bfc64a-dc20-459f-a448-522e9ae8e7d0
+tags:
+  - lens
+  - IABIED
+  - supplementary
+  - work-in-progress
+---
+
+### Article: IABIED - QA - Machines Fundamentally Uncreative
+source:: [[../articles/iabied-ch1-faq-uncreative]]
+
+#### Text
+content::
+This Q&A argues against the hope that machines will have compensating fatal flaws to balance their advantages. Using the dodo analogy — dodos might have imagined human invaders would have weaknesses too — the authors argue there will be no "amazing plot twist" giving humans a compensating advantage.
+
+#### Article-excerpt
+to:: "built-in limitations to balance the equation"
+
+#### Text
+content::
+What do you think? Does this address a concern you had, or raise new questions?
+
+#### Chat: Discussion
+instructions::
+The student just read a supplementary Q&A from the book's website about whether machines will be fundamentally uncreative or fatally flawed.
+
+TLDR: No — the hope that AI will have compensating weaknesses is wishful thinking. The dodo analogy illustrates this: actual advantages are real advantages, not balanced by mysterious offsetting flaws. Exceptions where the weaker side wins happen far less often in reality than in stories.
+
+Discussion topics:
+- Is the dodo analogy fair? Are there ways humans are fundamentally different from dodos facing a new predator?
+- Do you find yourself hoping for some compensating flaw in AI, and if so, what specifically?
+
+Ask what they found surprising or new.++}
