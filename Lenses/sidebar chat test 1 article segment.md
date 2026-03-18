@@ -64,7 +64,7 @@ This all adds up to a worrying picture, where companies are racing to build a ki
 
 Before you continue, please chat with the tutor for a bit:
 
-#### Chat: Discussion on X-Risk
+#### {--{"author":"AI","timestamp":1773842910293}@@Chat: Discussion on X-Risk--}{++{"author":"AI","timestamp":1773842910293}@@Chat++}
 instructions::
 Hello
 
