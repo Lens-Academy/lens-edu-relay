@@ -17,7 +17,7 @@ to:: "influences, including innate structure and reinforcement."
 #### Text
 content::
 How can LLMs exhibit the properties of oracles, agents, or tools while remaining statistical predictors?
-#### {--{"author":"AI","timestamp":1773842876204}@@Chat: Discussion on X-Risk--}{++{"author":"AI","timestamp":1773842876204}@@Chat++}
+#### Chat
 instructions::
 Author's own TLDR of what the user just read:
 ```

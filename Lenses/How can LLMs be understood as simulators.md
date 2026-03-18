@@ -15,7 +15,7 @@ to:: "continue to act mostly as simulators."
 #### Text
 content::
 Take 1-2 minutes to summarize the key points in this reading. Don't spend too much time here, because the next reading covers simulator theory in much greater detail.
-#### {--{"author":"AI","timestamp":1773842847536}@@Chat: Discussion on X-Risk--}{++{"author":"AI","timestamp":1773842847536}@@Chat++}
+#### Chat
 instructions::
 
 The user has just been told: "Take 1-2 minutes to summarize the key points in this reading. Don't spend too much time here, because the next reading covers simulator theory in much greater detail."

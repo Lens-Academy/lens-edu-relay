@@ -10,7 +10,7 @@ tags:
 #### Text
 content::
 `<introductory text>`
-#### {--{"author":"AI","timestamp":1773842883243}@@Chat: Discussion on X-Risk--}{++{"author":"AI","timestamp":1773842883243}@@Chat++}
+#### Chat
 instructions::
 TLDR of what the user just read:
 `<TLDR text (optional, the bot can see all the text on the page)>`

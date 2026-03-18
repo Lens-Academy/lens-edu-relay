@@ -15,7 +15,7 @@ to:: "and we’re already seeing the warning signs."
 #### Text
 content::
 After reading this article, if you had to explain to a friend the main difference between how ChatGPT was created versus how a typical smartphone app was created, what would you say?
-#### {--{"author":"AI","timestamp":1773842818082}@@Chat: Discussion on X-Risk--}{++{"author":"AI","timestamp":1773842818082}@@Chat++}
+#### Chat
 instructions::
 TLDR of what the user just read:
 The authors argue that modern AI poses a fundamental control problem: AI systems are "grown" through gradient descent rather than designed, meaning engineers understand the training process but not the resulting system. This creates a dangerous gap between capability and control.

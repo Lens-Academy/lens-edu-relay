@@ -18,7 +18,7 @@ to:: "`<an exact quote from the article where the exerpt should stop>`"
 #### Text
 content::
 `<prompt the user on how they should interact with the chatbot>`
-#### {--{"author":"AI","timestamp":1773842849734}@@Chat: Discussion on X-Risk--}{++{"author":"AI","timestamp":1773842849734}@@Chat++}
+#### Chat
 instructions::
 TLDR of what the user just read:
 `<TLDR text (optional, the bot can see all the text on the page)>`

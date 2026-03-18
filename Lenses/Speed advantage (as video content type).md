@@ -39,7 +39,7 @@ to:: "wildlife or insects."
 content::
 Did you imagine yourself able to operate at speeds 100x faster than the human world? Or, perhaps, did you try to put yourself in the shoes of an AI? What did this experience reveal to you?
 
-#### {--{"author":"AI","timestamp":1773842915658}@@Chat: Speed--}{++{"author":"AI","timestamp":1773842915658}@@Chat++}
+#### Chat
 instructions::
 The user has watched a video of a busy subway platform, filmed at 100x slow motion, in the context of an article about how transistors operate at a speed ten million times faster than a human brain cell and what this would mean for the time-perception and comparative power of advanced artificial minds. Explore how they felt and what this revealed to them.
 

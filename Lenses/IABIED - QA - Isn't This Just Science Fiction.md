@@ -15,7 +15,7 @@ This is supplementary material from the book's online resources at ifanyonebuild
 
 TODO: Embed Q&A content from ifanyonebuildsit.com/ii
 
-#### {--{"author":"AI","timestamp":1773842967956}@@Chat: Discussion--}{++{"author":"AI","timestamp":1773842967956}@@Chat++}
+#### Chat
 instructions::
 The student just read a supplementary Q&A about the distinction between science fiction and grounded extrapolation.
 
