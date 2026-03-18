@@ -32,7 +32,7 @@ For a taste of how it might feel, imagine going back in time 100 years and tryin
 
 Here are just a few alternative possibilities for how a story like this one could start:
 
-* There's some sort of breakthrough in lifelong learning, or long-term memory, or learning more efficiently from data, that yields AIs qualitatively more generally intelligent than any that came before (in the same way that LLMs are qualitatively more generally intelligent than AlphaZero).
+- There's some sort of breakthrough in lifelong learning, or long-term memory, or learning more efficiently from data, that yields AIs qualitatively more generally intelligent than any that came before (in the same way that LLMs are qualitatively more generally intelligent than AlphaZero).
 
 * Large language models seem to "hit a wall," AI progress stalls for years, and people say that the hype bubble has popped. But researchers keep tinkering over the following decade, until finally some algorithmic breakthrough is found and the AIs operate qualitatively better than they ever did before.
 
