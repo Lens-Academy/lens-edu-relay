@@ -16,7 +16,7 @@ to:: "and some fairly mysterious innate talents."
 #### Text
 content::
 Imagine you've developed an AI system for automated code writing, and it achieves 99% accuracy on all tests. Instead of celebrating your success, apply a 'security mindset' to this situation. What question should you ask yourself to detect the hidden threat in this 99% success rate? 
-#### Chat: Discussion on X-Risk
+#### {--{"author":"AI","timestamp":1773842874322}@@Chat: Discussion on X-Risk--}{++{"author":"AI","timestamp":1773842874322}@@Chat++}
 instructions::
 TLDR of what the user just read:
 Summary: Security Mindset and AI Safety a
