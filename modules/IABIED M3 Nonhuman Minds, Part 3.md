@@ -9,9 +9,9 @@ readings:
 tags:
   - IABIED
   - module
-  - work-in-progress
+  - work-in-progress{--{"author":"AI","timestamp":1773837960522}@@
   - validator-ignore
-  - discussion-link-to-course-thread
+  - discussion-link-to-course-thread--}
 ---
 
 # Page: Welcome
