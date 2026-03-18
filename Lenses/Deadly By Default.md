@@ -22,7 +22,7 @@ from:: ""
 content::
 What do you think of the argument that AI extinction risk is the default outcome? Which parts of this argument seem strongest to you, and which seem weakest?
 
-#### Chat:
+#### {--{"author":"AI","timestamp":1773842998183}@@Chat:--}{++{"author":"AI","timestamp":1773842998183}@@Chat++}
 instructions::
 The user is answering this question:
 What do you think of the argument that AI extinction risk is the default outcome? Which parts of this argument seem strongest to you, and which seem weakest?
