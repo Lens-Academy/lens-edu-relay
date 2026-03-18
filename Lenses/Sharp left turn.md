@@ -20,7 +20,7 @@ to:: "generally intelligent, does not make them motivated by your objectives."
 #### Text
 content::
 What causes a gap in our control over the system in a sharp left turn scenario? Provide an example of a situation where, when scaling, an AI successfully maintains the goal and safety metric on which it was trained, but does not scale it in accordance with human preferences, leading to negative consequences.
-#### {--{"author":"AI","timestamp":1773842875215}@@Chat: Discussion on X-Risk--}{++{"author":"AI","timestamp":1773842875215}@@Chat++}
+#### Chat
 instructions::
 The participant is answering this question:
 “What causes a gap in our control over the system in a sharp left turn scenario? Provide an example of a situation where, when scaling, an AI successfully maintains the goal and safety metric on which it was trained, but does not scale it in accordance with human preferences, leading to negative consequences.”

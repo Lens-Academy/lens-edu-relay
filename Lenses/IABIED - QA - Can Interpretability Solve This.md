@@ -15,7 +15,7 @@ This is supplementary material from the book's online resources at ifanyonebuild
 
 TODO: Embed Q&A content from ifanyonebuildsit.com/11
 
-#### {--{"author":"AI","timestamp":1773842941164}@@Chat: Discussion--}{++{"author":"AI","timestamp":1773842941164}@@Chat++}
+#### Chat
 instructions::
 The student just read a supplementary Q&A about interpretability as a solution to alignment.
 
