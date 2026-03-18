@@ -11,8 +11,7 @@ readings:
 tags:
   - IABIED
   - module
-  - work-in-progress{--{"author":"AI","timestamp":1773837948855}@@
-  - validator-ignore--}
+  - work-in-progress
 ---
 
 # Page: Welcome
