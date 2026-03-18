@@ -91,7 +91,7 @@ Any number of
 \### Video: or Article:
 \#### Text:
 \#### Video-excerpt or Article-excerpt:
-\#### {--{"author":"AI","timestamp":1773843211937}@@Chat:--}{++{"author":"AI","timestamp":1773843211937}@@Chat++}
+\#### Chat
 
 Each section type has required fields (see example below).
 

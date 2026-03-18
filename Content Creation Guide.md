@@ -145,7 +145,7 @@ to:: "`<exact quote where the excerpt should stop>`"
 content::
 `<prompt for how they should interact with the chatbot>`
 
-#### {--{"author":"AI","timestamp":1773843211053}@@Chat: `<name of the discussion>`--}{++{"author":"AI","timestamp":1773843211053}@@Chat++}
+#### Chat
 instructions::
 TLDR of what the user just read:
 `<summary text>`
