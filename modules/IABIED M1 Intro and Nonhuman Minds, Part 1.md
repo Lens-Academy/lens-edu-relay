@@ -6,7 +6,7 @@ discussion: https://discord.com/channels/1440725236843806762/1481259751374327929
 tags:
   - IABIED
   - module
-  - [ ] work-in-progresshttps://editor.lensacademy.org/8698ea46/Lens-Edu/modules/IABIED-M1-Intro-and-Nonhuman-Minds,-Part-1.md#L29
+  - work-in-progress
 ---
 
 # Page: Welcome
