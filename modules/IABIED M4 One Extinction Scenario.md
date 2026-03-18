@@ -24,7 +24,7 @@ The scenario follows an AI called "Sable" through three phases: **Realization** 
 
 **This week's reading:** Chapter 7 ("Realization") + Chapter 8 ("Expansion") + Chapter 9 ("Ascension") + Coda. After reading, come back here to discuss with the tutor.
 
-## {--{"author":"AI","timestamp":1773843676992}@@Chat: Discuss This Week's Reading--}{++{"author":"AI","timestamp":1773843676992}@@Chat++}
+## Chat
 instructions::
 The student has just read Chapters 7-9 and the Coda of "If Anyone Builds It, Everyone Dies" — the fictional Sable extinction scenario.
 
