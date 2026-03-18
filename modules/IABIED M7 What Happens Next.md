@@ -19,7 +19,7 @@ Over the past six weeks, we've built up a chain of reasoning: intelligence is un
 
 This week is about making sure that chain is solid in your mind, and identifying how you personally want to engage with these issues going forward.
 
-## Chat: Synthesis and Reflection
+## {--{"author":"AI","timestamp":1773843679685}@@Chat: Synthesis and Reflection--}{++{"author":"AI","timestamp":1773843679685}@@Chat++}
 instructions::
 The student has completed all six reading modules of the IABIED book club and is now in the synthesis module with no new reading.
 

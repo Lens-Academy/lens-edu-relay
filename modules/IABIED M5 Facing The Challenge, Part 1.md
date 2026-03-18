@@ -24,7 +24,7 @@ Chapter 11 opens with a parable about alchemists who think they're close to tran
 
 **This week's reading:** Chapter 10 ("A Cursed Problem") + Chapter 11 ("An Alchemy, Not a Science"). After reading, come back here to discuss with the tutor.
 
-## Chat: Discuss This Week's Reading
+## {--{"author":"AI","timestamp":1773843677934}@@Chat: Discuss This Week's Reading--}{++{"author":"AI","timestamp":1773843677934}@@Chat++}
 instructions::
 The student has just read Chapters 10 and 11 of "If Anyone Builds It, Everyone Dies."
 
