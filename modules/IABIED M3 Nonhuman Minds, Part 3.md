@@ -39,8 +39,11 @@ Editorially, this chapter feels feels like a weird collection of oddities. It's 
 
 Really, the learning outcome here distills back to the power of intelligence (plus technology). 
 
-# Learning Outcome: IABIED - Human-Compatible Goals Are a Vanishingly Small Subset of All Possible Goals
+# Learning Outcome: IABIED - Human-Compatible Goals Are {--{"author":"AI","timestamp":1773838501919}@@a --}Vanishingly {--{"author":"AI","timestamp":1773838501919}@@Small Subset of All Possible--}{++{"author":"AI","timestamp":1773838501919}@@Rare
+source:: ![[../Learning Outcomes/IABIED - Human-Compatible++} Goals{--{"author":"AI","timestamp":1773838501919}@@
 source:: 
 
-# Learning Outcome: IABIED - We'd Lose
-source:: 
+--}{++{"author":"AI","timestamp":1773838501919}@@ Are Vanishingly Rare]]
+
+++}# Learning Outcome: IABIED - We'd Lose
+source:: {++{"author":"AI","timestamp":1773838501919}@@![[../Learning Outcomes/IABIED - We'd Lose]]++}
