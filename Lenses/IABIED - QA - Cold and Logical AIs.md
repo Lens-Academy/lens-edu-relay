@@ -1,0 +1,34 @@
+{++{"author":"AI","timestamp":1773853012550}@@---
+id: c900a677-6a2b-4ac0-a192-c6a7927d4c22
+tags:
+  - lens
+  - IABIED
+  - supplementary
+  - work-in-progress
+---
+
+### Article: IABIED - QA - Cold and Logical AIs
+source:: [[../articles/iabied-ch2-faq-cold-logical]]
+
+#### Text
+content::
+This Q&A argues that AIs won't be limited to "cold logic" — just as airplanes fly without flapping wings, AI can achieve capabilities through completely different mechanisms than humans use. The assumption that computers must be "cold and logical" mirrors outdated vitalism about life requiring a special spark.
+
+#### Article-excerpt
+to:: "beyond human decryption capabilities"
+
+#### Text
+content::
+What do you think? Does this address a concern you had, or raise new questions?
+
+#### Chat: Discussion
+instructions::
+The student just read a supplementary Q&A from the book's website about whether AIs will inevitably be cold and logical.
+
+TLDR: No — attributing computer-like qualities to AI is like attributing chemical properties to human thought. Technology accomplishes tasks through novel mechanisms (airplanes don't flap wings). The "cold logic" assumption mirrors vitalism — the outdated belief that life requires a special spark beyond mundane materials.
+
+Discussion topics:
+- The vitalism comparison is interesting — are you persuaded that the "AIs can't have creativity/intuition" argument is making the same kind of error?
+- If AI achieves human-like capabilities through fundamentally different mechanisms, does that make it more or less predictable?
+
+Ask what they found surprising or new.++}
