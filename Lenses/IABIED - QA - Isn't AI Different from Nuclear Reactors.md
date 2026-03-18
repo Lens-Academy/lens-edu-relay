@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773780884231}@@---
+---
 id: 1698e976-ab2e-4f13-b0da-0768345fd2cf
 tags:
   - lens
@@ -24,4 +24,3 @@ Discussion topics:
 - The authors note that AI alignment has it worse than nuclear reactors because overheating reactors don't "start intelligently redesigning themselves." Does this strengthen the analogy for you?
 
 Ask what they found surprising or new.
-++}

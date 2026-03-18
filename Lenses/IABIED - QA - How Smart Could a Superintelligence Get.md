@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773780822268}@@---
+---
 id: 9bf56eed-aee4-4dc2-8ce5-55edfd24e2b6
 tags:
   - lens
@@ -24,4 +24,3 @@ Discussion topics:
 - The authors distinguish between "how smart" and "how fast." Which dimension concerns you more, and why?
 
 Ask what they found surprising or new.
-++}

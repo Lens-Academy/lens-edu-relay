@@ -1,25 +1,25 @@
 ---
-id:{++{"author":"AI","timestamp":1773829191209}@@ affbc92c-6a16-4b2a-9f70-9325e4083434++}
-slug: {--{"author":"AI","timestamp":1773829191209}@@iabied-m1--}{++{"author":"AI","timestamp":1773829191209}@@iabied-m6++}
-title: {--{"author":"AI","timestamp":1773829191209}@@"Nonhuman Minds,--}{++{"author":"AI","timestamp":1773829191209}@@"Facing the Challenge,++} Part 2"
+id: affbc92c-6a16-4b2a-9f70-9325e4083434
+slug: iabied-m6
+title: "Facing the Challenge, Part 2"
 discussion: https://discord.com/channels/1440725236843806762/1481259751374327929
-{++{"author":"AI","timestamp":1773829191209}@@readings:
+readings:
   - "Chapter 12: I Don't Want to Be Alarmist"
   - "Chapter 13: Shut It Down"
   - "Chapter 14: Where There's Life, There's Hope"
   - "Closing Words"
-++}tags:
-  - {--{"author":"AI","timestamp":1773829191209}@@aibied--}{++{"author":"AI","timestamp":1773829191209}@@IABIED++}
+tags:
+  - IABIED
   - module
   - work-in-progress
   - validator-ignore
 ---
 
 # Page: Welcome
-id::{++{"author":"AI","timestamp":1773829191209}@@ a3154792-e84d-40d0-b6ed-90f65f89e3f6++}
+id:: a3154792-e84d-40d0-b6ed-90f65f89e3f6
 
 ## Text
-content:: {++{"author":"AI","timestamp":1773829191209}@@In our final reading week, we confront the incentive structures that drive the AI industry, the authors' case for a worldwide halt on frontier AI development, and — crucially — the reasons for hope. This is the largest reading assignment, covering three chapters plus the closing words.
+content:: In our final reading week, we confront the incentive structures that drive the AI industry, the authors' case for a worldwide halt on frontier AI development, and — crucially — the reasons for hope. This is the largest reading assignment, covering three chapters plus the closing words.
 
 Chapter 12 opens with Thomas Midgley Jr., who invented both leaded gasoline and CFCs — "burning down someone's house to steal the front doorknob." The authors use this to illustrate how perverse incentives lead to catastrophic outcomes, then examine why AI experts downplay their own fears ("I don't want to be alarmist") and why the public isn't paying enough attention.
 
@@ -62,4 +62,4 @@ source:: ![[../Learning Outcomes/IABIED - Perverse Incentives and Institutional 
 source:: ![[../Learning Outcomes/IABIED - The Case for Shutting It Down]]
 
 # Learning Outcome: IABIED - Where There's Life, There's Hope
-source:: ![[../Learning Outcomes/IABIED - Where There's Life, There's Hope]]++}
+source:: ![[../Learning Outcomes/IABIED - Where There's Life, There's Hope]]

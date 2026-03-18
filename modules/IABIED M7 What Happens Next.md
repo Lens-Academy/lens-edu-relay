@@ -1,20 +1,20 @@
 ---
-id:{++{"author":"AI","timestamp":1773829222182}@@ 08699f65-4d31-4570-b46e-3e0cb5b2ffe4++}
-slug: {--{"author":"AI","timestamp":1773829222182}@@iabied-m1--}{++{"author":"AI","timestamp":1773829222182}@@iabied-m7++}
-title: {--{"author":"AI","timestamp":1773829222182}@@"Nonhuman Minds, Part 2"--}{++{"author":"AI","timestamp":1773829222182}@@"What Happens Next"++}
+id: 08699f65-4d31-4570-b46e-3e0cb5b2ffe4
+slug: iabied-m7
+title: "What Happens Next"
 discussion: https://discord.com/channels/1440725236843806762/1481259751374327929
 tags:
-  - {--{"author":"AI","timestamp":1773829222182}@@aibied--}{++{"author":"AI","timestamp":1773829222182}@@IABIED++}
+  - IABIED
   - module
   - work-in-progress
   - validator-ignore
 ---
 
 # Page: Welcome
-id::{++{"author":"AI","timestamp":1773829222182}@@ 4d287f1a-5049-4671-a34e-b49385e7ac5e++}
+id:: 4d287f1a-5049-4671-a34e-b49385e7ac5e
 
 ## Text
-content:: {++{"author":"AI","timestamp":1773829222182}@@Welcome to our final module. There's no new reading this week — instead, we synthesize everything we've learned and chart a path forward. Can you make the book's complete argument to someone who hasn't read it? What will you do next?
+content:: Welcome to our final module. There's no new reading this week — instead, we synthesize everything we've learned and chart a path forward. Can you make the book's complete argument to someone who hasn't read it? What will you do next?
 
 Over the past six weeks, we've built up a chain of reasoning: intelligence is uniquely powerful → AI is grown, not crafted → training produces wants → you don't get what you train for → AI's goals won't be human-compatible → it would defeat us → the engineering problem is cursed → current approaches are alchemy → incentives push everyone to keep going → we need to shut it down → there is still hope if we act.
 
@@ -51,4 +51,4 @@ Start by asking the student to present the complete argument. Listen carefully, 
 source:: ![[../Learning Outcomes/IABIED - Synthesize the Core Argument]]
 
 # Learning Outcome: IABIED - Identify Your Path Forward
-source:: ![[../Learning Outcomes/IABIED - Identify Your Path Forward]]++}
+source:: ![[../Learning Outcomes/IABIED - Identify Your Path Forward]]

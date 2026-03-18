@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773780862596}@@---
+---
 id: 2431fc78-812f-40a2-9275-2aad957738d6
 tags:
   - lens
@@ -24,4 +24,3 @@ Discussion topics:
 - What are the key differences between enhancing humans and building AI, in terms of safety?
 
 Ask what they found surprising or new.
-++}

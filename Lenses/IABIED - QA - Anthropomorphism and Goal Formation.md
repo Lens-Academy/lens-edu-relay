@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773780845769}@@---
+---
 id: 1cc1572d-0384-40a3-8492-3f9433c539b6
 tags:
   - lens
@@ -24,4 +24,3 @@ Discussion topics:
 - The book argues that AI goals will be "alien." Does the anthropomorphism discussion strengthen or weaken that claim for you?
 
 Ask what they found surprising or new.
-++}

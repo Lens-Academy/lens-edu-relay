@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773780878013}@@---
+---
 id: 7a5acb4b-ab2c-4bfc-96c7-328cba9e4f47
 tags:
   - lens
@@ -24,4 +24,3 @@ Discussion topics:
 - Where do you draw the line between "grounded extrapolation" and "speculation"?
 
 Ask what they found surprising or new.
-++}
