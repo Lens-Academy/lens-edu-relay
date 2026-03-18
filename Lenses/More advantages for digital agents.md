@@ -16,7 +16,7 @@ And still we are only scratching the tip of the iceberg. Perhaps you'll want to 
 content::
 Surely the number of yet-unimagined advantages is even greater. Do you have questions about some of these "superpowers"? Perhaps one of them strikes you as especially powerful.
 
-#### Chat: Discussion on X-Risk
+#### {--{"author":"AI","timestamp":1773842870750}@@Chat: Discussion on X-Risk--}{++{"author":"AI","timestamp":1773842870750}@@Chat++}
 instructions::
 TLDR of what the user just read:
 A list of advantages powerful artificial intelligences would have over humans from Bostrom's book "Superintelligence", each with a short description. The list includes the speed of computational elements compared to neurons, the internal communication speed compared to the speed of action potential through axons, the possible number of computational elements, storage capacity, reliability, lifespan and the  precision of sensors as well as editability, duplicability, goal coordination, memory sharing and modular expandability.
