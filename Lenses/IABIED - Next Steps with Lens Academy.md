@@ -22,7 +22,7 @@ The main AI Safety Course covers topics like:
 
 This course assumes the intuitions you've built in the book club and goes further into the technical details — asking you to evaluate specific alignment techniques and understand the mathematical and computational challenges involved.
 
-#### Chat: Discussion
+#### {--{"author":"AI","timestamp":1773842938494}@@Chat: Discussion--}{++{"author":"AI","timestamp":1773842938494}@@Chat++}
 instructions::
 The student has completed the IABIED book club and is considering next steps with Lens Academy.
 

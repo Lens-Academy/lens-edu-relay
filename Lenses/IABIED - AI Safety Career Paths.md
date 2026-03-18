@@ -22,7 +22,7 @@ Now that you've completed the book, you may be wondering how to get more involve
 
 For a more comprehensive guide, visit 80000hours.org/problem-profiles/artificial-intelligence/
 
-#### Chat: Discussion
+#### {--{"author":"AI","timestamp":1773842937611}@@Chat: Discussion--}{++{"author":"AI","timestamp":1773842937611}@@Chat++}
 instructions::
 The student is exploring AI safety career paths after completing the IABIED book club.
 

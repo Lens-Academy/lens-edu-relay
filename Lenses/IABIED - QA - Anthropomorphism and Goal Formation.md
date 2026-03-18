@@ -15,7 +15,7 @@ This is supplementary material from the book's online resources at ifanyonebuild
 
 TODO: Embed extended discussion content from ifanyonebuildsit.com/3
 
-#### Chat: Discussion
+#### {--{"author":"AI","timestamp":1773842939387}@@Chat: Discussion--}{++{"author":"AI","timestamp":1773842939387}@@Chat++}
 instructions::
 The student just read a supplementary discussion about anthropomorphism and goal formation in AI systems.
 

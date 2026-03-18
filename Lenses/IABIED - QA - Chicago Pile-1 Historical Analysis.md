@@ -15,7 +15,7 @@ This is supplementary material from the book's online resources at ifanyonebuild
 
 TODO: Embed extended discussion content from ifanyonebuildsit.com/10
 
-#### Chat: Discussion
+#### {--{"author":"AI","timestamp":1773842944277}@@Chat: Discussion--}{++{"author":"AI","timestamp":1773842944277}@@Chat++}
 instructions::
 The student just read an extended historical analysis of the Chicago Pile-1 nuclear reactor.
 
