@@ -15,7 +15,7 @@ This is supplementary material from the book's online resources at ifanyonebuild
 
 TODO: Embed Q&A content from ifanyonebuildsit.com/10
 
-#### Chat: Discussion
+#### {--{"author":"AI","timestamp":1773842967081}@@Chat: Discussion--}{++{"author":"AI","timestamp":1773842967081}@@Chat++}
 instructions::
 The student just read a supplementary Q&A about whether the nuclear reactor analogy applies to AI.
 
