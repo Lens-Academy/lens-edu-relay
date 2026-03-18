@@ -16,7 +16,7 @@ to:: "plenty of consolation from my side."
 #### Text
 content::
 In the example above, the author was chatting with an early LLM. There were almost certainly fewer guardrails in place at that time, but the LLMs were also less capable and sophisticated. Have you had particularly good conversations with an LLM? How might those conversations have been different (better?) with a more intelligent version?
-#### Chat: Discussion on X-Risk
+#### {--{"author":"AI","timestamp":1773842842608}@@Chat: Discussion on X-Risk--}{++{"author":"AI","timestamp":1773842842608}@@Chat++}
 instructions::
 Discussion topics to explore:
 - Help the user put useful frames around the phenomenon of relationship formation with LLMs. 
@@ -30,7 +30,7 @@ to:: "Other people in the comments [share similar experiences](https://www.lessw
 #### Text
 content::
 What is your reaction to this story? Can you imagine a pathway to more serious risks?
-#### Chat: Discussion on X-Risk
+#### {--{"author":"AI","timestamp":1773842843984}@@Chat: Discussion on X-Risk--}{++{"author":"AI","timestamp":1773842843984}@@Chat++}
 instructions::
 Discussion topics to explore:
 - Could this type of manipulation be extrapolated into x-risk?
