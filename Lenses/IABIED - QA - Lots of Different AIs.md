@@ -1,0 +1,30 @@
+{++{"author":"AI","timestamp":1773863219576}@@---
+id: 01eaea0b-9f02-4b76-aef4-e5617addddf6
+tags:
+  - lens
+  - IABIED
+  - supplementary
+  - work-in-progress
+---
+### Article: What if there are lots of different AIs?
+source:: [[../articles/iabied-ch10-faq-lots-of-ais]]
+
+#### Text
+content::
+This Q&A addresses whether having many different AIs would solve the alignment problem. The authors argue that diversity of AI systems doesn't help if none of them genuinely care about human flourishing. Even if one in ten could be made "good," current approaches make hitting that target extraordinarily unlikely.
+
+#### Article-excerpt
+to:: "Adding more AIs doesn't help when we lack the capability to structure their fundamental drives correctly."
+
+#### Text
+content::
+What do you think? Does this address a concern you had, or raise new questions?
+
+#### Chat: Discussion
+instructions::
+The student just read a supplementary Q&A from the book's website about whether having lots of different AIs would help with alignment.
+TLDR: Multiple AIs with different weird objectives don't solve the problem — at least some must genuinely want human flourishing, and current methods can't reliably produce that.
+Discussion topics:
+- Does the "ecosystem of AIs" argument seem intuitively appealing to you, and does this response change your view?
+- What would it take to reliably make even a small fraction of AIs care about human flourishing?
+Ask what they found surprising or new.++}
