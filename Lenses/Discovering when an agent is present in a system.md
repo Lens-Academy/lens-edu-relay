@@ -19,7 +19,7 @@ to:: "agent in a system – a key concern for assessing risks from AGI."
 content::
 What new things did you learn from the article?
 
-#### Chat: Discussion on X-Risk
+#### {--{"author":"AI","timestamp":1773842821443}@@Chat: Discussion on X-Risk--}{++{"author":"AI","timestamp":1773842821443}@@Chat++}
 instructions::
 The participant is answering this question:
 What new things did you learn from the article?

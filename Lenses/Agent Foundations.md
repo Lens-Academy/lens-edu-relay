@@ -19,7 +19,7 @@ This module approaches safety through the lens of mathematical theory, formal lo
 content::
 **What would make Agent Foundations feel “real” to you: predictive theorems, better threat models etc?**
 
-#### Chat: Discussion on X-Risk
+#### {--{"author":"AI","timestamp":1773842818973}@@Chat: Discussion on X-Risk--}{++{"author":"AI","timestamp":1773842818973}@@Chat++}
 instructions::
 The user is answering this question:
 What would make Agent Foundations feel “real” to you: predictive theorems, better threat models etc?
