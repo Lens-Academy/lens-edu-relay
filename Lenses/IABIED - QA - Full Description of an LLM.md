@@ -1,0 +1,34 @@
+{++{"author":"AI","timestamp":1773853211477}@@---
+id: 2b7687df-d219-4247-bdcf-7a2a1b0b3181
+tags:
+  - lens
+  - IABIED
+  - supplementary
+  - work-in-progress
+---
+
+### Article: IABIED - QA - Full Description of an LLM
+source:: [[../articles/iabied-ch2-ext-full-description]]
+
+#### Text
+content::
+This extended discussion provides a full technical description of Llama 3.1 405B — 405 billion parameters, 126 layers, 810 trillion operations per 1,000 tokens. Reciting all parameters would take 5,133 years. If printed in a spreadsheet, it would cover half of Manhattan. And this model is still smaller than a human brain.
+
+#### Article-excerpt
+to:: "obscure meaningful understanding"
+
+#### Text
+content::
+What do you think? Does this address a concern you had, or raise new questions?
+
+#### Chat: Discussion
+instructions::
+The student just read a supplementary Q&A from the book's website providing a full technical description of how an LLM works.
+
+TLDR: Llama 3.1 405B has 405 billion parameters across 126 layers, requiring 810 trillion operations per 1,000 tokens. Reciting all parameters would take 5,133 years. A spreadsheet of them would cover half of Manhattan. Yet this model is still smaller than a human brain's ~100 trillion synapses.
+
+Discussion topics:
+- The scale comparisons (5,133 years to recite, half of Manhattan as a spreadsheet) — does this viscerally change how you think about AI opacity?
+- The model is smaller than a human brain but can already converse like a person. What does this suggest about what happens when models scale to brain-size?
+
+Ask what they found surprising or new.++}
