@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773780867530}@@---
+---
 id: 9fb62bef-f26a-4e64-b51f-e5949bc6115c
 tags:
   - lens
@@ -24,4 +24,3 @@ Discussion topics:
 - The Coda says "our story is not strange enough." Do you agree that reality would likely be stranger?
 
 Ask what they found surprising or new.
-++}

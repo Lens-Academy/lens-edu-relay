@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773780926975}@@---
+---
 id: 6ff6313a-418d-4094-811f-10555a49efc9
 tags:
   - lens
@@ -32,4 +32,3 @@ Discussion topics:
 - Do you know anyone in your network who might be interested in AI safety? How would you start that conversation?
 
 Ask what specific skills or experience they bring that might be relevant to AI safety work.
-++}
