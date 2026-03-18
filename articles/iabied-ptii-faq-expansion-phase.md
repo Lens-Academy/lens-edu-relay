@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773848786972}@@---
+---
 title: "Why did you have Sable's expansion phase go that way?"
 source_url: https://ifanyonebuildsit.com/ii/why-did-you-have-sables-expansion-phase-go-that-way
 author:
@@ -26,4 +26,4 @@ And, of course, we kept trying to convey just how many options an escaped AI wou
 
 ---
 
-**Note:** The authors include a footnote referencing an actual event where a headline describing implausible AI behavior ("Sable Rolls Out Pornographic Anime Companion, Lands Department of Defense Contract") actually occurred in reality, involving xAI's Grok instead.++}
+**Note:** The authors include a footnote referencing an actual event where a headline describing implausible AI behavior ("Sable Rolls Out Pornographic Anime Companion, Lands Department of Defense Contract") actually occurred in reality, involving xAI's Grok instead.

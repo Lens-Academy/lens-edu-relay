@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773848779445}@@---
+---
 title: "If the story started later, would the world be better prepared?"
 source_url: https://ifanyonebuildsit.com/ii/if-the-story-started-later-would-the-world-be-better-prepared
 author:
@@ -41,4 +41,4 @@ The authors emphasize: "A superintelligence that has any channel to affect the w
 
 ### The Critical Window
 
-The realistic point of intervention occurs before superintelligence creation, not after. Attempting to harden the world afterward represents "the most difficult thing humanity has ever done" and would almost certainly fail.++}
+The realistic point of intervention occurs before superintelligence creation, not after. Attempting to harden the world afterward represents "the most difficult thing humanity has ever done" and would almost certainly fail.

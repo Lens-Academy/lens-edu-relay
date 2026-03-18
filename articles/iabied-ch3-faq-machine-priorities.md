@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773848953199}@@---
+---
 title: "How could a machine end up with its own priorities?"
 source_url: https://ifanyonebuildsit.com/3/how-could-a-machine-end-up-with-its-own-priorities
 author:
@@ -30,4 +30,4 @@ However, this benefit has limits. Once entities become sufficiently intelligent,
 
 **Being grown rather than crafted, AIs are liable to wind up with the wrong targets.**
 
-This topic is explored in the next chapter: *You Don't Get What You Train For*.++}
+This topic is explored in the next chapter: *You Don't Get What You Train For*.

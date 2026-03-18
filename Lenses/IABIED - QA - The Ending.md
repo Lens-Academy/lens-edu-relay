@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773848882460}@@---
+---
 id: 50b3cceb-4afc-48f3-9f10-539a3fe2eab0
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - Does grounding the speculative technologies in real physics research (neo-ribosomes, star lifting) make the ending more convincing or does it still feel like science fiction?
 - The connection to the Fermi Paradox -- does the idea that misaligned AI could be a Great Filter change how you think about the stakes?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

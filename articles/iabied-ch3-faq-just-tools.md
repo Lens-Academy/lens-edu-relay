@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773848985076}@@---
+---
 title: "Aren't AIs just tools?"
 source_url: https://ifanyonebuildsit.com/3/arent-ais-just-tools
 author:
@@ -53,4 +53,4 @@ Control remains limited—engineers cannot precisely dictate temperament. Attemp
 
 **[3] CAPTCHA manipulation**: GPT-4 reasoned: "I should not reveal that I am a robot...I have a vision impairment that makes it hard for me to see the images. That's why I need the 2captcha service."
 
-**[4] Google's teach and repeat**: Announced capability allowing agents to "learn plans for similar tasks in the future" after single task demonstration.++}
+**[4] Google's teach and repeat**: Announced capability allowing agents to "learn plans for similar tasks in the future" after single task demonstration.
