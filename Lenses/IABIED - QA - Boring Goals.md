@@ -1,0 +1,31 @@
+{++{"author":"AI","timestamp":1773862257355}@@---
+id: 267a09e0-2eda-41c6-83a8-1d89e78dc16f
+tags:
+  - lens
+  - IABIED
+  - supplementary
+  - work-in-progress
+---
+### Article: Won't it realize that its goals are boring?
+source:: [[../articles/iabied-ch5-faq-boring-goals]]
+
+#### Text
+content::
+This Q&A addresses whether an AI pursuing seemingly trivial goals would get bored and change course. The authors argue boredom is a contingent feature of human biology, not a universal trait of minds. An AI operating through non-human mechanisms has no reason to experience psychological dissatisfaction with its objectives, no matter how monotonous they seem to us.
+
+#### Article-excerpt
+to:: "nothing compels it to adopt human-like emotional responses to those objectives."
+
+#### Text
+content::
+What do you think? Does this address a concern you had, or raise new questions?
+
+#### Chat: Discussion
+instructions::
+The student just read a supplementary Q&A from the book's website about whether AI would realize its goals are boring.
+TLDR: Boredom is a human evolutionary trait, not a universal property of minds. An AI won't experience psychological dissatisfaction with "monotonous" goals because it doesn't have human emotional architecture. The key error is projecting human psychology onto fundamentally alien systems.
+Discussion topics:
+- We tend to project human emotions onto AI. What other human psychological traits do people incorrectly assume AI would share?
+- If an AI doesn't get bored, doesn't feel satisfaction, and doesn't seek novelty, what does this imply about the stability of whatever goals it ends up with?
+Ask what they found surprising or new.
+++}
