@@ -22,7 +22,7 @@ Choose the question you prefer and discuss it with AI tutor:
 * How do you understand the metaphor between AI and rocket science and cryptography used in this video? Which similarities do you think are accurately identified? And what differences should be considered to prevent this analogy from going too far?  
 * When you encounter a proposal at the level of "just aim for the moon and then steer," what two clarifying requirements from the article would you apply to distinguish a viable idea from "0% success," and what exactly would you ask the author of the idea to describe in a simplified model?
 
-#### Chat: Discussion on X-Risk
+#### {--{"author":"AI","timestamp":1773842845825}@@Chat: Discussion on X-Risk--}{++{"author":"AI","timestamp":1773842845825}@@Chat++}
 instructions::
 **The participant will answer ONE of these prompts: 
 A) How do you understand the metaphor between AI and rocket science and cryptography? Which similarities are accurate, and what differences matter so the analogy does not go too far? 

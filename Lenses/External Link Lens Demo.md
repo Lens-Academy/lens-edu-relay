@@ -7,7 +7,7 @@ content::
 We refer you to: https://ig.ft.com/generative-ai/
 It's highly interactive, so we won't attempt to recreate the experience on our website. Hello world I'm luc. Change 2 3
 
-#### Chat: Discussion on X-Risk
+#### {--{"author":"AI","timestamp":1773842846656}@@Chat: Discussion on X-Risk--}{++{"author":"AI","timestamp":1773842846656}@@Chat++}
 instructions::
 TLDR of what the user just read:
 `<TLDR text>`

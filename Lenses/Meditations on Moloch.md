@@ -17,7 +17,7 @@ to:: "! Down to the river! into the street!*"
 #### Text
 content::
 Consider the structure of the "traps" described by Scott Alexander. Try to find parallels between "Moloch" in human society and "instrumental convergence" in AI. What differences do you see?
-#### Chat: Discussion on X-Risk
+#### {--{"author":"AI","timestamp":1773842851210}@@Chat: Discussion on X-Risk--}{++{"author":"AI","timestamp":1773842851210}@@Chat++}
 instructions::
 The participant is answering this question:
 Consider the structure of the "traps" described by Scott Alexander. Try to find parallels between "Moloch" in human society and "instrumental convergence" in AI. What differences do you see?
