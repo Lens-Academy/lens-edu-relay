@@ -1,17 +1,56 @@
 ---
-id:
-slug: iabied-m1
-title: "Nonhuman Minds, Part 2"
+id:{++{"author":"AI","timestamp":1773829152706}@@ 43f09573-606d-4a92-aabf-fcbede97cf34++}
+slug: {--{"author":"AI","timestamp":1773829152706}@@iabied-m1--}{++{"author":"AI","timestamp":1773829152706}@@iabied-m5++}
+title: {--{"author":"AI","timestamp":1773829152706}@@"Nonhuman Minds,--}{++{"author":"AI","timestamp":1773829152706}@@"Facing the Challenge,++} Part {--{"author":"AI","timestamp":1773829152706}@@2"--}{++{"author":"AI","timestamp":1773829152706}@@1"++}
 discussion: https://discord.com/channels/1440725236843806762/1481259751374327929
-tags:
-  - aibied
+{++{"author":"AI","timestamp":1773829152706}@@readings:
+  - "Chapter 10: A Cursed Problem"
+  - "Chapter 11: An Alchemy, Not a Science"
+++}tags:
+  - {--{"author":"AI","timestamp":1773829152706}@@aibied--}{++{"author":"AI","timestamp":1773829152706}@@IABIED++}
   - module
   - work-in-progress
   - validator-ignore
 ---
 
 # Page: Welcome
-id::
+id::{++{"author":"AI","timestamp":1773829152706}@@ 8fc53ea9-72d4-44c7-bcd2-d4935429ec5c++}
 
 ## Text
-content:: 
+content:: {++{"author":"AI","timestamp":1773829152706}@@Having seen what could happen, we now ask: why is the engineering challenge so hard? The authors present five "curses" that make alignment extraordinarily difficult, then argue that the entire field is still in the stage of alchemy — pre-scientific folk theory — rather than mature engineering.
+
+Chapter 10 draws analogies from space probes (Mars Observer, Climate Orbiter, Polar Lander, Viking 1), nuclear reactors (Chernobyl), and computer security (buffer overflow attacks) to identify five engineering curses: speed, narrow margins, self-amplification, complications, and edge cases. All five apply to AI alignment — and AI has it worse because the system is grown, not crafted, and it can intelligently resist constraints.
+
+Chapter 11 opens with a parable about alchemists who think they're close to transmuting lead into gold, and applies it to AI company leaders who propose alignment plans at the level of "we'll just make it care about truth" or "we'll design it to be submissive."
+
+**This week's reading:** Chapter 10 ("A Cursed Problem") + Chapter 11 ("An Alchemy, Not a Science"). After reading, come back here to discuss with the tutor.
+
+## Chat: Discuss This Week's Reading
+instructions::
+The student has just read Chapters 10 and 11 of "If Anyone Builds It, Everyone Dies."
+
+Key concepts to check understanding of:
+- The five engineering curses: speed, narrow margins, self-amplification, complications, edge cases
+- The before/after gap — humanity only gets one shot
+- Space probe analogies (Mars missions, Viking 1)
+- Chernobyl's four compounding curses and why the SCRAM button caused the explosion
+- Computer security as the curse of edge cases (buffer overflow attacks)
+- The alchemist parable (the young man and his sister)
+- Musk's TruthGPT plan, LeCun's tweets, the "superalignment" plan
+- The mother/engineer dialogue
+- "The whole field of science is in an early stage"
+
+Discussion topics to explore:
+- Which engineering analogy (space probes, Chernobyl, computer security) resonated most with you? Why?
+- The authors call alignment "alchemy, not a science." What would it take for it to become a science?
+- The mother/engineer dialogue is meant to show how AI company leadership sounds to informed observers. How does it make you feel?
+- Can you apply the five curses to a specific AI safety proposal you've heard of?
+- The authors are supporters of nuclear power despite using Chernobyl as an analogy. Why is that distinction important?
+
+Ask what they found surprising or new. Check if they can enumerate the five curses and explain how at least two apply to AI alignment — it's a key concept.
+
+# Learning Outcome: IABIED - The Five Engineering Curses
+source:: ![[../Learning Outcomes/IABIED - The Five Engineering Curses]]
+
+# Learning Outcome: IABIED - Alchemy, Not Science
+source:: ![[../Learning Outcomes/IABIED - Alchemy, Not Science]]++}
