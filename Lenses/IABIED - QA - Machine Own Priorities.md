@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773848960390}@@---
+---
 id: 3ea8ff34-a795-4e7b-8aae-052c69fda14b
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - The birth control analogy is striking—what does it suggest about the relationship between a training process and the goals of the system it produces?
 - If driven behavior "comes automatically" from training on hard problems, what does that imply about efforts to keep AIs passive?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

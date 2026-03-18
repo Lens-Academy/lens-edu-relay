@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773848731019}@@---
+---
 title: "Why does Sable end up thinking the way it does?"
 source_url: https://ifanyonebuildsit.com/ii/why-does-sable-end-up-thinking-the-way-it-does
 author:
@@ -30,4 +30,4 @@ The following passage clarifies:
 
 Sable's impulses and inclinations become seeds for strange, profoundly non-human preferences. This embodies Chapter 4's central claims.
 
-Fundamentally, this narrative attempts to animate the Part I theoretical arguments while establishing groundwork for Part III's subsequent discussions about confronting these challenges.++}
+Fundamentally, this narrative attempts to animate the Part I theoretical arguments while establishing groundwork for Part III's subsequent discussions about confronting these challenges.

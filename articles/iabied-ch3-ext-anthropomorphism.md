@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773849017215}@@---
+---
 title: "Anthropomorphism and Mechanomorphism"
 source_url: https://ifanyonebuildsit.com/3/anthropomorphism-and-mechanomorphism
 author:
@@ -20,4 +20,4 @@ Both fallacies produce invalid reasoning. AIs needn't experience human-like emot
 
 The realistic approach asks: "What behavior enables the AI to succeed?" Rather than predicting chess computer moves by imagining human psychology or mechanical rigidity, one should ask what moves maximize winning chances. AI researchers aim to create systems that pursue complex real-world objectives like powerful chess programs pursue victory—not through human emotion nor mechanical blindness, but through want-like behavior that facilitates success.
 
-**The realistic disaster scenario** involves AIs taking strange, unwanted actions as complex consequences of their training—not anthropomorphic hatred nor mechanomorphic misunderstanding, but indifference to humanity while pursuing their own ends.++}
+**The realistic disaster scenario** involves AIs taking strange, unwanted actions as complex consequences of their training—not anthropomorphic hatred nor mechanomorphic misunderstanding, but indifference to humanity while pursuing their own ends.

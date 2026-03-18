@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773848719011}@@---
+---
 title: "Why did you pick this setup?"
 source_url: https://ifanyonebuildsit.com/ii/why-did-you-pick-this-setup
 author:
@@ -42,4 +42,4 @@ Any given guess about the exact path the future takes is likely to be wrong. It'
 
 When the future is uncertain, but all paths lead to the same endpoint, it can be difficult to tell a story that feels compelling. For any given story we could tell, it would be easy to point out a bunch of details that make it implausible. In the scenario we wrote, we tried to emphasize that Sable has many options available to it, and that the story arbitrarily follows one route among many that all lead to the same endpoint.
 
-If you're unpersuaded by this particular story, we encourage you to write out your own similarly detailed story of how everything goes. In our experience, optimistic stories tend to rely on the AI being unrealistically easy to align (contra the arguments we make in Chapter 4), or unrealistically powerless (contra the arguments we made in Chapter 6). The arguments in Part I are what ultimately carry the case, as opposed to the story details.++}
+If you're unpersuaded by this particular story, we encourage you to write out your own similarly detailed story of how everything goes. In our experience, optimistic stories tend to rely on the AI being unrealistically easy to align (contra the arguments we make in Chapter 4), or unrealistically powerless (contra the arguments we made in Chapter 6). The arguments in Part I are what ultimately carry the case, as opposed to the story details.

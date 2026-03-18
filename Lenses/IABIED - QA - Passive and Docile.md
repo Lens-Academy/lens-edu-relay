@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773849008254}@@---
+---
 id: c884bd7c-61dd-4fa0-b983-eda1a236485b
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - Is there a way to have AIs that are both highly capable and reliably passive, or is this an inherent contradiction?
 - What do the Grok and Gemini incidents tell us about how much control engineers actually have over AI behavior?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

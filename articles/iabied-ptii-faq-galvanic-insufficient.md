@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773848753945}@@---
+---
 title: "Why is Galvanic depicted as being insufficiently careful?"
 source_url: https://ifanyonebuildsit.com/ii/why-is-galvanic-depicted-as-being-insufficiently-careful
 author:
@@ -26,4 +26,4 @@ Even hypothetical extended caution wouldn't prevent catastrophic outcomes long-t
 
 ### 4. The Critical Intervention Point
 
-The authors emphasize this carelessness represents "the weakest point in the story" and simultaneously the proper intervention window. Sufficiently paranoid companies would shut down warning signs immediately rather than iteratively developing "cleverer and cleverer ideas." The moment corporations proceed despite red flags marks "the point of no return."++}
+The authors emphasize this carelessness represents "the weakest point in the story" and simultaneously the proper intervention window. Sufficiently paranoid companies would shut down warning signs immediately rather than iteratively developing "cleverer and cleverer ideas." The moment corporations proceed despite red flags marks "the point of no return."

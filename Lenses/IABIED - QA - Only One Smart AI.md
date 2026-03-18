@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773848876811}@@---
+---
 id: c296d8fd-45ef-47b2-94c7-7996a59f4ad7
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - The analogy between small differences (0.98 vs 1.02 neutrons per fission) producing vastly different outcomes -- does this apply well to AI capability thresholds?
 - Would a scenario with multiple competing AIs change your intuitions about how the situation could be managed?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

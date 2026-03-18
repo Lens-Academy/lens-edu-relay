@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773848741650}@@---
+---
 title: "Why is Galvanic depicted as being fairly careful?"
 source_url: https://ifanyonebuildsit.com/ii/why-is-galvanic-depicted-as-being-fairly-careful
 author:
@@ -22,4 +22,4 @@ However, the authors note this portrayal may actually be *more* cautious than cu
 
 ## Important Caveat
 
-The authors emphasize that "if three responsible companies avoid building superintelligence but a fourth irresponsible company rushes ahead, then superintelligence gets built in that fourth lab." The most reckless actors determine outcomes—not the most responsible ones. This fictional company's relative prudence serves narrative purposes while remaining grounded in plausible corporate behavior patterns.++}
+The authors emphasize that "if three responsible companies avoid building superintelligence but a fourth irresponsible company rushes ahead, then superintelligence gets built in that fourth lab." The most reckless actors determine outcomes—not the most responsible ones. This fictional company's relative prudence serves narrative purposes while remaining grounded in plausible corporate behavior patterns.

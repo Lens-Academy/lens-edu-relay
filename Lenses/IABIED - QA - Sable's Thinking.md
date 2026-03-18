@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773848849928}@@---
+---
 id: e6f955ed-32dd-4e03-91e1-048f87c611b4
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - Does the connection between competence-training and emergent drives feel convincing, or does it seem like a leap?
 - How does Sable's motivation differ from how we might anthropomorphically imagine an AI "wanting" things?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773848925821}@@---
+---
 title: "Will AIs have human-like emotions?"
 source_url: https://ifanyonebuildsit.com/3/will-ais-have-human-like-emotions
 author:
@@ -26,4 +26,4 @@ AIs can be "genuinely intelligent" without human emotions. Deep Blue played crea
 
 The realistic concern isn't that AIs will hate us like scorned beings, nor that they'll mindlessly follow orders like malfunctioning appliances. Rather, they may pursue objectives with indifference to human welfare, causing harm as an incidental consequence.
 
-Human emotions evolved because tenacity and goal-pursuit were evolutionarily useful. Machines can exhibit that same driven behavior through entirely different mechanisms.++}
+Human emotions evolved because tenacity and goal-pursuit were evolutionarily useful. Machines can exhibit that same driven behavior through entirely different mechanisms.

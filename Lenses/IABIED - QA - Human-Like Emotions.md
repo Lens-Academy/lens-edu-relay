@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773848935958}@@---
+---
 id: ae57162c-3ca3-4bbf-b17e-ef747f8b1c4e
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - Why might it be just as dangerous for an AI to be indifferent to humans as it would be for it to actively hate us?
 - How does the distinction between anthropomorphism and mechanomorphism change how we should think about AI risk?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

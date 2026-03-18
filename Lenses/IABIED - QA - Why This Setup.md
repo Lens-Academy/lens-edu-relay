@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773848829858}@@---
+---
 id: 68e6adce-ff75-46b8-b58d-19f2d3ffbb70
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - Does setting the story close to the present make the danger feel more immediate, or does it risk seeming implausible for different reasons?
 - The authors claim optimistic counter-stories rely on unrealistic assumptions about alignment or AI powerlessness -- do you agree?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

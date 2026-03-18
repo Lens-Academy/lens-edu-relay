@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773848864988}@@---
+---
 id: beb387a7-0868-44aa-903d-79a26b445171
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - Does depicting Galvanic as careful strengthen or weaken the argument that AI risk is hard to mitigate?
 - The authors claim real AI companies are actually less careful than fictional Galvanic -- does that match your impression of the industry?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

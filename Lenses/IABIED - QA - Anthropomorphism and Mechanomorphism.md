@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773849024185}@@---
+---
 id: 393019e9-7efb-4819-81e6-3c2143b26e80
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - Can you think of examples in popular culture or public discourse where people fall into anthropomorphism or mechanomorphism about AI?
 - How does the chess program analogy help clarify what kind of "intelligence" we should expect from advanced AI?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

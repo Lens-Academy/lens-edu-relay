@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773848768932}@@---
+---
 title: "Why did you tell a story with only one AI as smart as Sable?"
 source_url: https://ifanyonebuildsit.com/ii/why-did-you-tell-a-story-with-only-one-ai-as-smart-as-sable
 author:
@@ -26,4 +26,4 @@ The argument doesn't require such a gap for machines. We could have written diff
 
 Perhaps no qualitative gap separates today's language models from superintelligence. Perhaps multiple AI firms will incrementally advance their systems in parallel. Perhaps no capability constellation exists permitting one AI to surge ahead, as humans surpassed other animals. Possibly true, but a story structured this way would require unnecessary details about AI factions and internal politics—likely distracting and somewhat irrelevant to later narrative stages. Whether one AI or coordinated multiple AIs execute empowerment strategies fundamentally matters less than the outcome itself.
 
-See also the discussion on why coordinating AIs won't preserve anything for humanity unless one already values human welfare.++}
+See also the discussion on why coordinating AIs won't preserve anything for humanity unless one already values human welfare.

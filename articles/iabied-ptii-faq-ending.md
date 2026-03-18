@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773848793319}@@---
+---
 title: "Why did you write the ending in the way that you did?"
 source_url: https://ifanyonebuildsit.com/ii/why-did-you-write-the-ending-in-the-way-that-you-did
 author:
@@ -32,4 +32,4 @@ The authors wrote the ending by depicting a superintelligence pushing technology
 
 The chapter aims to convey stakes and scope. The authors note that consequences of rogue superintelligence would "extend beyond the planetary scale," and they reference Robin Hanson's work on the Fermi Paradox regarding potential distant alien civilizations.
 
-The scenario depicts one plausible pathway among many leading to catastrophic outcomes, illustrating how "many paths lead to the same destination" rather than claiming predictive accuracy about exact technological developments.++}
+The scenario depicts one plausible pathway among many leading to catastrophic outcomes, illustrating how "many paths lead to the same destination" rather than claiming predictive accuracy about exact technological developments.

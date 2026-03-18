@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773848878898}@@---
+---
 id: ed98cb7a-2bd5-42f5-909d-a5220052033a
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - The claim that "a superintelligence that has any channel to affect the world for good also has a channel to affect the world for ill" -- does this seem like an inevitable tradeoff?
 - Does the argument that defensive hardening is insufficient change how you think about current AI governance proposals?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

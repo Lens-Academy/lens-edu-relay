@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773848870517}@@---
+---
 id: 21b78e2b-d47d-4b8e-84b7-20913d3b9167
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - The authors call Galvanic's carelessness "the weakest point in the story" but also the proper intervention window -- what do you make of that framing?
 - If even extended caution can't prevent misalignment long-term, what does that imply about the kind of solution needed?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

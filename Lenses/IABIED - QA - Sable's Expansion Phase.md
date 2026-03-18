@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773848881050}@@---
+---
 id: bb09a113-affb-4d96-b068-8da243900216
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - The tension between plausibility in fiction vs. plausibility in reality -- does slowing things down for narrative purposes risk making readers underestimate the speed of real AI takeoff?
 - The footnote about xAI's Grok matching a "implausible" headline from the fiction -- what does it say when reality outpaces fictional scenarios?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

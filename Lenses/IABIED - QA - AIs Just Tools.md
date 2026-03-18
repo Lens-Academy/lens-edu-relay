@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773848991964}@@---
+---
 id: 03b0712b-90a0-4195-8b8e-f5c7d1bf8dcd
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - At what point does a system stop being a "tool" and start being an "agent"? Is there a clear line?
 - The labs are simultaneously trying to make AIs more capable AND more controllable. Is that tension resolvable?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.
