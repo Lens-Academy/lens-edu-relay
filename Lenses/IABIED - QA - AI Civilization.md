@@ -1,0 +1,31 @@
+{++{"author":"AI","timestamp":1773862820092}@@---
+id: 31abe48a-eb0b-4dd3-9bb7-1393c9f99a1a
+tags:
+  - lens
+  - IABIED
+  - supplementary
+  - work-in-progress
+---
+### Article: Wouldn't AI need to grow into a whole civilization before it could be dangerous?
+source:: [[../articles/iabied-ch6-faq-civilization]]
+
+#### Text
+content::
+This Q&A challenges the intuition that AI would need to build a whole civilization before posing a threat. Unlike humans who take decades to develop, AI instances can be copied instantly. A superintelligence would bootstrap using existing human infrastructure rather than building from scratch -- and with ~200,000 GPT-5 instances already running simultaneously, the gap between capability and deployment could be negligibly small.
+
+#### Article-excerpt
+to:: "there likely won't be much time between when AI becomes capable enough to potentially dominate if it had millions of instances and when it actually has millions of instances running."
+
+#### Text
+content::
+What do you think? Does this address a concern you had, or raise new questions?
+
+#### Chat: Discussion
+instructions::
+The student just read a supplementary Q&A from the book's website about whether AI needs to become a whole civilization before being dangerous.
+TLDR: AI can scale instantly through copying, unlike humans who take decades to develop. A superintelligence would leverage existing human infrastructure (computers, factories, biolabs) rather than building from scratch. With ~200,000 GPT-5 instances already running, the gap between sufficient capability and sufficient scale may be negligibly small.
+Discussion topics:
+- "Humans started naked on the savannah and bootstrapped to civilization. And we're not that smart." What does AI starting from our technological base imply about its bootstrapping speed?
+- The gap between capability and deployment may be negligible. How does this affect the window for human intervention?
+Ask what they found surprising or new.
+++}
