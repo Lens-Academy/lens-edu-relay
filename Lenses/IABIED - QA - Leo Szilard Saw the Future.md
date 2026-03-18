@@ -1,0 +1,34 @@
+{++{"author":"AI","timestamp":1773852482206}@@---
+id: 31abe48a-eb0b-4dd3-9bb7-1393c9f99a1a
+tags:
+  - lens
+  - IABIED
+  - supplementary
+  - work-in-progress
+---
+
+### Article: IABIED - QA - Leo Szilard Saw the Future
+source:: [[../articles/iabied-intro-ext-leo-szilard]]
+
+#### Text
+content::
+This extended discussion tells the story of Leo Szilard's 1933 insight about nuclear chain reactions. When Enrico Fermi dismissed the idea as "Nuts!" then estimated a 10% probability, Rabi's response became a key lesson: "10 percent is not a remote possibility if it means that we may die of it."
+
+#### Article-excerpt
+to:: "while response remained possible"
+
+#### Text
+content::
+What do you think? Does this address a concern you had, or raise new questions?
+
+#### Chat: Discussion
+instructions::
+The student just read a supplementary Q&A from the book's website about Leo Szilard's early recognition of nuclear chain reactions and the parallels to AI.
+
+TLDR: Szilard saw the possibility of nuclear chain reactions in 1933, but even Fermi initially dismissed it. Rabi's key insight — "10 percent is not a remote possibility if it means that we may die of it" — illustrates why low-probability catastrophic risks demand serious attention.
+
+Discussion topics:
+- Fermi was one of the greatest physicists alive and still dismissed the idea initially. What does this suggest about relying on expert intuition for novel risks?
+- How does Szilard's decision to keep his insight secret (rather than publish) relate to current debates about AI openness vs. caution?
+
+Ask what they found surprising or new.++}
