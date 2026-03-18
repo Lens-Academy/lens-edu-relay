@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773780895542}@@---
+---
 id: 9e6e15d1-7927-45b9-bf53-311b059d3a14
 tags:
   - lens
@@ -24,4 +24,3 @@ Discussion topics:
 - Does this historical example strengthen or weaken the case that AI alignment is "alchemy, not science"?
 
 Ask what they found surprising or new.
-++}

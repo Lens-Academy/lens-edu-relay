@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773780851996}@@---
+---
 id: a0ed5a9a-9436-4617-a487-d40c96bf9b4b
 tags:
   - lens
@@ -24,4 +24,3 @@ Discussion topics:
 - What's the difference between an AI that can predict what humans consider moral and an AI that is moral? Why does that distinction matter?
 
 Ask what they found surprising or new.
-++}

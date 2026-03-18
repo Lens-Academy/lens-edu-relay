@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773780857474}@@---
+---
 id: dc463cfa-3cf7-49d8-ae32-8935dfd4cf28
 tags:
   - lens
@@ -24,4 +24,3 @@ Discussion topics:
 - The quiz show in Chapter 6 showed that even human researchers can extract encryption keys from power LEDs. What does this imply for containment?
 
 Ask what they found surprising or new.
-++}

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773780912105}@@---
+---
 id: 2ab417b5-ff4e-4743-8d46-8b4eea5ef788
 tags:
   - lens
@@ -25,4 +25,3 @@ Discussion topics:
 - What's missing from this treaty that you think would be necessary?
 
 Ask what they found surprising or new.
-++}

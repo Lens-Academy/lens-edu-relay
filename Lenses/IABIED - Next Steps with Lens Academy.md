@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773780935583}@@---
+---
 id: 08874128-af4c-4e32-809c-f8a21f25ceff
 tags:
   - lens
@@ -32,4 +32,3 @@ Discussion topics:
 - How confident do you feel explaining the core argument to someone who hasn't read the book?
 
 Help them identify which parts of the main AI Safety Course would be most valuable for them based on their interests and gaps.
-++}

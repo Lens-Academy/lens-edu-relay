@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773780916731}@@---
+---
 id: 7def2853-26e1-4568-8223-0439095711a8
 tags:
   - lens
@@ -24,4 +24,3 @@ Discussion topics:
 - Chapter 12 quotes Upton Sinclair: "It is difficult to get a man to understand something when his salary depends upon his not understanding it." Does this apply to the benefits argument too?
 
 Ask what they found surprising or new.
-++}

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773780899534}@@---
+---
 id: d761d8d4-6c01-4a2d-bbc9-edf5dbc3bfa3
 tags:
   - lens
@@ -24,4 +24,3 @@ Discussion topics:
 - What would need to be true about the geopolitical landscape for this kind of cooperation to happen?
 
 Ask what they found surprising or new.
-++}

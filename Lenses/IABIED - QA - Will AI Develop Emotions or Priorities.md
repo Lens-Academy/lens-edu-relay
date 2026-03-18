@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773780830339}@@---
+---
 id: 424ac714-4ade-4ff7-8d8d-26055c1bc1ab
 tags:
   - lens
@@ -24,4 +24,3 @@ Discussion topics:
 - How does this Q&A connect to the book's argument that "wanting is an effective strategy for doing"?
 
 Ask what they found surprising or new.
-++}

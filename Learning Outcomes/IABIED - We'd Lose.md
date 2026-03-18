@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773780747783}@@---
+---
 id: 42c5126e-6eeb-42c4-8ba6-d60199ca656d
 learning-outcome: "Articulate why a superintelligence with misaligned goals would defeat humanity, even starting from limited resources"
 tags:
@@ -16,4 +16,3 @@ source:: ![[../Lenses/IABIED - QA - Can We Just Contain It in a Box]]
 ## Lens:
 optional:: true
 source:: ![[../Lenses/IABIED - QA - Could We Enhance Humans to Compete]]
-++}

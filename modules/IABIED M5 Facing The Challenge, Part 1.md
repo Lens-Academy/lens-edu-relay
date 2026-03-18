@@ -1,23 +1,23 @@
 ---
-id:{++{"author":"AI","timestamp":1773829152706}@@ 43f09573-606d-4a92-aabf-fcbede97cf34++}
-slug: {--{"author":"AI","timestamp":1773829152706}@@iabied-m1--}{++{"author":"AI","timestamp":1773829152706}@@iabied-m5++}
-title: {--{"author":"AI","timestamp":1773829152706}@@"Nonhuman Minds,--}{++{"author":"AI","timestamp":1773829152706}@@"Facing the Challenge,++} Part {--{"author":"AI","timestamp":1773829152706}@@2"--}{++{"author":"AI","timestamp":1773829152706}@@1"++}
+id: 43f09573-606d-4a92-aabf-fcbede97cf34
+slug: iabied-m5
+title: "Facing the Challenge, Part 1"
 discussion: https://discord.com/channels/1440725236843806762/1481259751374327929
-{++{"author":"AI","timestamp":1773829152706}@@readings:
+readings:
   - "Chapter 10: A Cursed Problem"
   - "Chapter 11: An Alchemy, Not a Science"
-++}tags:
-  - {--{"author":"AI","timestamp":1773829152706}@@aibied--}{++{"author":"AI","timestamp":1773829152706}@@IABIED++}
+tags:
+  - IABIED
   - module
   - work-in-progress
   - validator-ignore
 ---
 
 # Page: Welcome
-id::{++{"author":"AI","timestamp":1773829152706}@@ 8fc53ea9-72d4-44c7-bcd2-d4935429ec5c++}
+id:: 8fc53ea9-72d4-44c7-bcd2-d4935429ec5c
 
 ## Text
-content:: {++{"author":"AI","timestamp":1773829152706}@@Having seen what could happen, we now ask: why is the engineering challenge so hard? The authors present five "curses" that make alignment extraordinarily difficult, then argue that the entire field is still in the stage of alchemy — pre-scientific folk theory — rather than mature engineering.
+content:: Having seen what could happen, we now ask: why is the engineering challenge so hard? The authors present five "curses" that make alignment extraordinarily difficult, then argue that the entire field is still in the stage of alchemy — pre-scientific folk theory — rather than mature engineering.
 
 Chapter 10 draws analogies from space probes (Mars Observer, Climate Orbiter, Polar Lander, Viking 1), nuclear reactors (Chernobyl), and computer security (buffer overflow attacks) to identify five engineering curses: speed, narrow margins, self-amplification, complications, and edge cases. All five apply to AI alignment — and AI has it worse because the system is grown, not crafted, and it can intelligently resist constraints.
 
@@ -53,4 +53,4 @@ Ask what they found surprising or new. Check if they can enumerate the five curs
 source:: ![[../Learning Outcomes/IABIED - The Five Engineering Curses]]
 
 # Learning Outcome: IABIED - Alchemy, Not Science
-source:: ![[../Learning Outcomes/IABIED - Alchemy, Not Science]]++}
+source:: ![[../Learning Outcomes/IABIED - Alchemy, Not Science]]

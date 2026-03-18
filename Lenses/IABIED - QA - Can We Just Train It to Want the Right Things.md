@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773780834520}@@---
+---
 id: f9aa1ecb-c3f5-474d-905e-32725ac48bf1
 tags:
   - lens
@@ -24,4 +24,3 @@ Discussion topics:
 - The ice cream analogy shows how training targets diverge from outcomes. Can you think of a real-world AI example that illustrates the same point?
 
 Ask what they found surprising or new.
-++}

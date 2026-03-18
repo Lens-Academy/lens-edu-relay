@@ -1,13 +1,13 @@
 ---
-id:{++{"author":"AI","timestamp":1773782209851}@@ 5fe83b25-9dbf-44fa-b966-c6f7d938095e++}
-slug: {--{"author":"AI","timestamp":1773782209851}@@iabied-m1--}{++{"author":"AI","timestamp":1773782209851}@@iabied-m3++}
-title: "Nonhuman Minds, Part {--{"author":"AI","timestamp":1773782209851}@@2"--}{++{"author":"AI","timestamp":1773782209851}@@3"++}
+id: 5fe83b25-9dbf-44fa-b966-c6f7d938095e
+slug: iabied-m3
+title: "Nonhuman Minds, Part 3"
 discussion: https://discord.com/channels/1440725236843806762/1481259751374327929
 readings: 
   - "Chapter 5: Its Favorite Things"
   - "Chapter 6: We'd Lose"
 tags:
-  - {--{"author":"AI","timestamp":1773782216803}@@aibied--}{++{"author":"AI","timestamp":1773782216803}@@IABIED++}
+  - IABIED
   - module
   - work-in-progress
   - validator-ignore
@@ -15,7 +15,7 @@ tags:
 ---
 
 # Page: Welcome
-id::{++{"author":"AI","timestamp":1773782226025}@@ caf48b0b-f27a-4c09-9336-b443ac7843f4++}
+id:: caf48b0b-f27a-4c09-9336-b443ac7843f4
 
 ## Text
 content:: In module 3 we ask 2 essential questions:

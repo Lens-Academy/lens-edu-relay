@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773780750681}@@---
+---
 id: 6535567b-052e-463b-b06c-5939442e44c6
 learning-outcome: "Walk through the key phases of the Sable extinction scenario, identifying the mechanisms at each stage"
 tags:
@@ -12,4 +12,3 @@ tags:
 ## Lens:
 optional:: true
 source:: ![[../Lenses/IABIED - QA - Why Write a Fictional Scenario]]
-++}

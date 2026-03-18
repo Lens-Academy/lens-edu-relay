@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773780825905}@@---
+---
 id: bf5b17e1-e281-4d61-ae2e-fb2a5c0165bf
 tags:
   - lens
@@ -24,4 +24,3 @@ Discussion topics:
 - How does uncertainty about thresholds affect the case for precaution?
 
 Ask what they found surprising or new.
-++}

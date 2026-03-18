@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773780818174}@@---
+---
 id: e06e88b1-ff11-45eb-b88c-d969c33447de
 tags:
   - lens
@@ -24,4 +24,3 @@ Discussion topics:
 - Can you think of important capabilities that this definition of intelligence fails to capture?
 
 Ask what they found surprising or new.
-++}
