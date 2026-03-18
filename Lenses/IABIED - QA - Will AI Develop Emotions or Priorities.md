@@ -15,7 +15,7 @@ This is supplementary material from the book's online resources at ifanyonebuild
 
 TODO: Embed Q&A content from ifanyonebuildsit.com/3
 
-#### Chat: Discussion
+#### {--{"author":"AI","timestamp":1773842972878}@@Chat: Discussion--}{++{"author":"AI","timestamp":1773842972878}@@Chat++}
 instructions::
 The student just read a supplementary Q&A about whether AI systems can develop emotions or priorities.
 

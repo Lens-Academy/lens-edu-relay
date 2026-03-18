@@ -15,7 +15,7 @@ This is supplementary material from the book's online resources at ifanyonebuild
 
 TODO: Embed Q&A content from ifanyonebuildsit.com/1
 
-#### Chat: Discussion
+#### {--{"author":"AI","timestamp":1773842971520}@@Chat: Discussion--}{++{"author":"AI","timestamp":1773842971520}@@Chat++}
 instructions::
 The student just read a supplementary Q&A about whether AI will cross critical capability thresholds.
 

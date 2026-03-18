@@ -15,7 +15,7 @@ This is supplementary material from the book's online resources at ifanyonebuild
 
 TODO: Embed Q&A content from ifanyonebuildsit.com/ii
 
-#### Chat: Discussion
+#### {--{"author":"AI","timestamp":1773842970627}@@Chat: Discussion--}{++{"author":"AI","timestamp":1773842970627}@@Chat++}
 instructions::
 The student just read a supplementary Q&A about why the authors wrote a fictional scenario.
 

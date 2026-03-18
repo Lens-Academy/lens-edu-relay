@@ -15,7 +15,7 @@ This is supplementary material from the book's online resources at ifanyonebuild
 
 TODO: Embed Q&A content from ifanyonebuildsit.com/12
 
-#### Chat: Discussion
+#### {--{"author":"AI","timestamp":1773842969746}@@Chat: Discussion--}{++{"author":"AI","timestamp":1773842969746}@@Chat++}
 instructions::
 The student just read a supplementary Q&A about the benefits of AI and the opportunity cost of halting development.
 
