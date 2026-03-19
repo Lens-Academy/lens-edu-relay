@@ -7,14 +7,15 @@ tags:
   - work-in-progress
 ---
 
-### Article: IABIED - QA - Shallowness of Current AIs
+{--{"author":"AI","timestamp":1773946452276}@@### Article: IABIED - QA - Shallowness of Current AIs
 source:: [[../articles/iabied-ch1-ext-shallowness]]
 
-#### Text
+--}#### Text
 content::
 This extended discussion documents specific weaknesses in current AI systems — getting stuck in Pokemon, failing to read analog clocks, botching classic riddles. These coexist with superhuman math olympiad performance, creating a "strange" capability profile unlike any human's. The key question is how long these gaps persist.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946452276}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946452276}@@Article
+source:: [[../articles/iabied-ch1-ext-shallowness]]++}
 to:: "radically and fundamentally differ from humans in many ways"
 
 #### Text
