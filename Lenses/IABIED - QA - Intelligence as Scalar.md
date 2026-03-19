@@ -7,14 +7,15 @@ tags:
   - work-in-progress
 ---
 
-### Article: IABIED - QA - Intelligence as Scalar
+{--{"author":"AI","timestamp":1773946217796}@@### Article: IABIED - QA - Intelligence as Scalar
 source:: [[../articles/iabied-ch1-faq-scalar-quantity]]
 
-#### Text
+--}#### Text
 content::
 This Q&A concedes that intelligence is not a simple scalar quantity — it's multi-dimensional with bottlenecks and plateaus. But the authors argue this doesn't prevent AI from vastly surpassing humans, just as humans vastly surpass chimpanzees despite intelligence not being one-dimensional.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946217796}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946217796}@@Article
+source:: [[../articles/iabied-ch1-faq-scalar-quantity]]++}
 to:: "separate species in fundamental ways"
 
 #### Text
