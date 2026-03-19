@@ -7,14 +7,15 @@ tags:
   - work-in-progress
 ---
 
-### Article: IABIED - QA - Intelligence as Multiple Skills
+{--{"author":"AI","timestamp":1773946194928}@@### Article: IABIED - QA - Intelligence as Multiple Skills
 source:: [[../articles/iabied-ch1-faq-multiple-skills]]
 
-#### Text
+--}#### Text
 content::
 This Q&A acknowledges that intelligence involves multiple skills, but argues the distinction becomes less important when the capability gap is large. If AI surpasses humans in thousands of domains while humans excel in only a few, insisting on parity becomes untenable.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946194928}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946194928}@@Article
+source:: [[../articles/iabied-ch1-faq-multiple-skills]]++}
 to:: "not philosophical definitions"
 
 #### Text

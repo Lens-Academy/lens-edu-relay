@@ -7,14 +7,15 @@ tags:
   - work-in-progress
 ---
 
-### Article: IABIED - QA - Intelligence Understandable
+{--{"author":"AI","timestamp":1773946192717}@@### Article: IABIED - QA - Intelligence Understandable
 source:: [[../articles/iabied-ch2-faq-understandable]]
 
-#### Text
+--}#### Text
 content::
 This Q&A argues that intelligence is probably understandable in principle, drawing parallels to pre-biochemistry skepticism about understanding life. Some small parts of neural networks have been decoded, but the field is 1/50th to 1/5,000th of the way toward tackling major problems.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946192717}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946192717}@@Article
+source:: [[../articles/iabied-ch2-faq-understandable]]++}
 to:: "the chess program IBM built decades ago"
 
 #### Text

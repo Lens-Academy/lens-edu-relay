@@ -6,14 +6,15 @@ tags:
   - supplementary
   - work-in-progress
 ---
-### Article: Humans Are Almost Never the Most Efficient Solution
+{--{"author":"AI","timestamp":1773946187539}@@### Article: Humans Are Almost Never the Most Efficient Solution
 source:: [[../articles/iabied-ch5-ext-not-efficient]]
 
-#### Text
+--}#### Text
 content::
 This extended discussion drives home the point that happy, healthy, free humans are not the most efficient solution to almost any problem a superintelligence might have. Even in domains where human diversity might theoretically help, a superintelligence could design far more diverse AI minds more efficiently. The "Matrix fallacy" illustrates how even pleasant-sounding AI values (like symmetry or truth) don't guarantee human flourishing.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946187539}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946187539}@@Article
+source:: [[../articles/iabied-ch5-ext-not-efficient]]++}
 to:: "What does this intelligence actually want, and what's the cheapest way to get more of that?"
 
 #### Text
