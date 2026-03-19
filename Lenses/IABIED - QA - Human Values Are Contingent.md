@@ -6,14 +6,15 @@ tags:
   - supplementary
   - work-in-progress
 ---
-### Article: Human Values Are Contingent
+{--{"author":"AI","timestamp":1773946165471}@@### Article: Human Values Are Contingent
 source:: [[../articles/iabied-ch4-ext-human-values]]
 
-#### Text
+--}#### Text
 content::
 This extended discussion traces how human values like empathy and kindness arose from specific accidents of primate evolutionary history — not from universal features of intelligence. Our capacity for empathy emerged because ancestral primates used their own brains as templates to model others, and this simulation machinery "leaks" into our emotional experience. The piece argues that AI, lacking this evolutionary heritage, has no reason to develop similar values.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946165471}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946165471}@@Article
+source:: [[../articles/iabied-ch4-ext-human-values]]++}
 to:: "Many different lines of evidence point at it being genuinely difficult to get AIs to robustly want the right things."
 
 #### Text

@@ -7,14 +7,15 @@ tags:
   - work-in-progress
 ---
 
-### Article: IABIED - QA - Human-Level Intelligence
+{--{"author":"AI","timestamp":1773946167304}@@### Article: IABIED - QA - Human-Level Intelligence
 source:: [[../articles/iabied-ch1-faq-human-level-intelligence]]
 
-#### Text
+--}#### Text
 content::
 This Q&A defends "human-level intelligence" as a useful concept by pointing to the civilization threshold — whatever allowed humans to build technological civilization while chimpanzees could not. The authors distinguish between "superhuman AI" and "superintelligent AI" as more precise terms.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946167304}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946167304}@@Article
+source:: [[../articles/iabied-ch1-faq-human-level-intelligence]]++}
 to:: "semantic arguments about general intelligence"
 
 #### Text
