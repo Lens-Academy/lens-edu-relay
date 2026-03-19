@@ -13,18 +13,19 @@ The reliance on evals might create a "compliance culture" rather than a "safety 
 
 This critique warns that evaluations are not a "safety guarantee." A primary technical limitation is Eval Awareness: by 2026: some models can distinguish between testing and deployment environments and alter their behavior accordingly (a form of "sandbagging"). Furthermore: evals only find "lower bounds"—if a model fails a test: it doesn't prove it lacks the capability; it might just need a better prompt or more compute.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773947430863}@@Article-excerpt--}{++{"author":"AI","timestamp":1773947430863}@@Article
+source:: [[../articles/barnett+thiergart-what-ai-evaluations-for-preventing-catastrophic-risks-can-and-cannot-do]]++}
 to:: "these fundamental limitations remain unsolved."
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773947430863}@@Article-excerpt--}{++{"author":"AI","timestamp":1773947430863}@@Article++}
 from:: "## 1 Introduction"
 to:: "Introduction"
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773947430863}@@Article-excerpt--}{++{"author":"AI","timestamp":1773947430863}@@Article++}
 from:: "The challenges and limitations of AI evaluations"
 to:: "with important implications for AI governance and regulation."
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773947430863}@@Article-excerpt--}{++{"author":"AI","timestamp":1773947430863}@@Article++}
 from:: "## 2 What AI evaluations can do (given sufficient effort)"
 to:: "certain the AI system can do at least this much."
 
