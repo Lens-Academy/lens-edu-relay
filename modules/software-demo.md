@@ -22,11 +22,11 @@ content::
 We begin by examining the potential of AI and the risks and opportunities
 that the characteristics of this technology present to humanity. Hello
 
-## Chat
+{--{"author":"AI","timestamp":1773948246436}@@##--}{++{"author":"AI","timestamp":1773948246436}@@####++} Chat
 instructions::
 You're a tutor.
 
-## Text
+{--{"author":"AI","timestamp":1773948246436}@@##--}{++{"author":"AI","timestamp":1773948246436}@@####++} Text
 content::
 hello again
 
@@ -34,16 +34,16 @@ hello again
 source::
 [[../Learning Outcomes/trial for Testing|trial for Testing]]
 
-# Uncategorized:
-## Lens:
+# {--{"author":"AI","timestamp":1773948254770}@@Uncategorized:
+## --}Lens:
 source::
 [[../Lenses/collapsed article text test]]
 
-## Lens:
+{--{"author":"AI","timestamp":1773948254770}@@##--}{++{"author":"AI","timestamp":1773948254770}@@#++} Lens:
 source::
 [[../Lenses/Trial question and roleplay]]
 
-## Lens:
+{--{"author":"AI","timestamp":1773948254770}@@##--}{++{"author":"AI","timestamp":1773948254770}@@#++} Lens:
 source::
 [[../Lenses/Kurzgesagt software demo]]
 
