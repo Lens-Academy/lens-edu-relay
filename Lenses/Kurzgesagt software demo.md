@@ -1,15 +1,16 @@
 ---
 id: a1b2c3d4-e5f6-7890-abcd-ef1234567890
 ---
-### Video: A.I. - Humanity's Final Invention
+{--{"author":"AI","timestamp":1773945824524}@@### Video: A.I. - Humanity's Final Invention
 source:: [[../video_transcripts/kurzgesagt-ai-humanitys-final-invention]]
 
-#### Text
+--}#### Text
 content::
 Watch the first part of this video from Kurzgesagt to understand why artificial intelligence
 might be humanity's most important invention.
 
-#### Video-excerpt
+#### {--{"author":"AI","timestamp":1773945824524}@@Video-excerpt--}{++{"author":"AI","timestamp":1773945824524}@@Video
+source:: [[../video_transcripts/kurzgesagt-ai-humanitys-final-invention]]++}
 from:: 0:00
 to:: 3:31
 

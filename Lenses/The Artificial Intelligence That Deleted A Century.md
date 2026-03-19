@@ -3,10 +3,10 @@ id: 0979db63-4c67-4cd2-892c-c653c170729a
 tags:
   - lens
 ---
-### Video: The Artificial Intelligence That Deleted A Century
+{--{"author":"AI","timestamp":1773945827429}@@### Video: The Artificial Intelligence That Deleted A Century
 source:: [[../video_transcripts/tomscott-the-artificial-intelligence-that-deleted-a-century]]
 
-#### Text
+--}#### Text
 content::
 Even if someone has intellectually accepted that the future with AI could be very bad or very good (but one thing is certain: it will be different), it can still be hard to emotionally imagine a world that is truly strange. A very strange future is difficult not only to predict, but even to genuinely picture.
 If we build AI that surpasses humans, one possibility is human extinction. But even if extinction is prevented, or even if you already think it is unlikely, that does not mean the AI safety problem is solved. 
