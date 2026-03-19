@@ -13,7 +13,8 @@ of existential threat: what capabilities of this technology are considered
 most concerning, and why the task of eliminating AI risks differs from
 similar tasks for other technologies.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773947390775}@@Article-excerpt--}{++{"author":"AI","timestamp":1773947390775}@@Article
+source:: [[../articles/wikipedia-existential-risk-from-ai]]++}
 from:: "**Existential risk from artificial intelligence**"
 to:: "improve their fundamental architecture."
 
