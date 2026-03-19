@@ -7,14 +7,15 @@ tags:
   - work-in-progress
 ---
 
-### Article: IABIED - QA - Obstacles to Superintelligence
+{--{"author":"AI","timestamp":1773946352128}@@### Article: IABIED - QA - Obstacles to Superintelligence
 source:: [[../articles/iabied-ch1-faq-obstacles]]
 
-#### Text
+--}#### Text
 content::
 This Q&A examines whether obstacles will prevent superintelligence from being built. The authors survey AI history — image recognition, Go, natural language — and show that every major obstacle was eventually overcome. With investment growing twentyfold since 2012, the pattern seems likely to continue.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946352128}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946352128}@@Article
+source:: [[../articles/iabied-ch1-faq-obstacles]]++}
 to:: "humanity intervenes through policy"
 
 #### Text
