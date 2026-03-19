@@ -6,14 +6,15 @@ tags:
   - supplementary
   - work-in-progress
 ---
-### Article: Can we just make it lazy?
+{--{"author":"AI","timestamp":1773946319610}@@### Article: Can we just make it lazy?
 source:: [[../articles/iabied-ch5-faq-make-lazy]]
 
-#### Text
+--}#### Text
 content::
 This Q&A asks whether designing AI to be "lazy" could prevent catastrophic outcomes. The authors identify three obstacles: market incentives push against laziness, engineering robust laziness is as hard as any alignment problem, and satisficing is an unstable equilibrium -- a lazy superintelligence would simply build a harder-working successor to do its work.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946319610}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946319610}@@Article
+source:: [[../articles/iabied-ch5-faq-make-lazy]]++}
 to:: "a lazy superintelligence would rationally build harder-working minds without hesitation, making satisficing AIs an unstable equilibrium."
 
 #### Text
