@@ -7,14 +7,15 @@ tags:
   - work-in-progress
 ---
 
-### Article: IABIED - QA - Full Description of an LLM
+{--{"author":"AI","timestamp":1773946104027}@@### Article: IABIED - QA - Full Description of an LLM
 source:: [[../articles/iabied-ch2-ext-full-description]]
 
-#### Text
+--}#### Text
 content::
 This extended discussion provides a full technical description of Llama 3.1 405B — 405 billion parameters, 126 layers, 810 trillion operations per 1,000 tokens. Reciting all parameters would take 5,133 years. If printed in a spreadsheet, it would cover half of Manhattan. And this model is still smaller than a human brain.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946104027}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946104027}@@Article
+source:: [[../articles/iabied-ch2-ext-full-description]]++}
 to:: "obscure meaningful understanding"
 
 #### Text

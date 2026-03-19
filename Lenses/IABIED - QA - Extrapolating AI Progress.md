@@ -7,14 +7,15 @@ tags:
   - work-in-progress
 ---
 
-### Article: IABIED - QA - Extrapolating AI Progress
+{--{"author":"AI","timestamp":1773946098696}@@### Article: IABIED - QA - Extrapolating AI Progress
 source:: [[../articles/iabied-intro-faq-extrapolate-progress]]
 
-#### Text
+--}#### Text
 content::
 This Q&A explains why trend extrapolation fails for predicting dangerous AI. The core problem is that we cannot map quantitative metrics (like perplexity scores) onto qualitative capabilities (like "can do novel science" or "can kill everyone"). You have to run the AI and find out.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946098696}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946098696}@@Article
+source:: [[../articles/iabied-intro-faq-extrapolate-progress]]++}
 to:: "arbitrary prognostications about overall timelines"
 
 #### Text
