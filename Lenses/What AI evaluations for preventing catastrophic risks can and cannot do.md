@@ -33,11 +33,11 @@ to:: "certain the AI system can do at least this much."
 from:: "### 2.2 Assess misuse risk for current models"
 to:: "if evaluators are unable to use it to exploit any threat vectors."
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773947455357}@@Article-excerpt--}{++{"author":"AI","timestamp":1773947455357}@@Article++}
 from:: "### 2.3 Applications that don’t directly mitigate catastrophic risks"
 to:: "in a model succeeding at tasks it previously failed."
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773947456742}@@Article-excerpt--}{++{"author":"AI","timestamp":1773947456742}@@Article++}
 from:: "### 3.2 Robustly forecast future model capabilities"
 to:: "emerge before dangerous ones, serving as warning signs."
 
