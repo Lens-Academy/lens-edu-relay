@@ -6,14 +6,15 @@ tags:
   - supplementary
   - work-in-progress
 ---
-### Article: Can we enhance humans so they keep pace with AI?
+{--{"author":"AI","timestamp":1773946093396}@@### Article: Can we enhance humans so they keep pace with AI?
 source:: [[../articles/iabied-ch6-faq-enhance-humans]]
 
-#### Text
+--}#### Text
 content::
 This Q&A examines whether human augmentation (brain-computer interfaces, etc.) could let humans compete with superintelligent AI. The authors argue this is fundamentally impossible due to speed differentials: even a greatly enhanced human controlling ten computers with their mind can't compete with an AI doing the same thing ten thousand times faster. The "cyborg horse vs Model T" analogy captures the futility.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946093396}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946093396}@@Article
+source:: [[../articles/iabied-ch6-faq-enhance-humans]]++}
 to:: "What does it matter if a human can download experiences from the internet and control ten computers at once with their mind, if an AI can do the same thing -- but ten thousand times faster?"
 
 #### Text

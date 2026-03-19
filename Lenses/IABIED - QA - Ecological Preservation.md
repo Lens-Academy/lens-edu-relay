@@ -6,14 +6,15 @@ tags:
   - supplementary
   - work-in-progress
 ---
-### Article: Won't AI want to keep us happy and healthy for ecological preservation?
+{--{"author":"AI","timestamp":1773946090993}@@### Article: Won't AI want to keep us happy and healthy for ecological preservation?
 source:: [[../articles/iabied-ch5-faq-ecological]]
 
-#### Text
+--}#### Text
 content::
 This Q&A examines whether an AI might preserve humanity out of ecological or conservationist instincts. The authors point out that even human conservation is impure -- we protect pandas but would eliminate malaria mosquitoes. An AI's preservation drive would similarly be tangled with alien values, potentially leading it to "edit" humanity rather than preserve us as we are.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946090993}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946090993}@@Article
+source:: [[../articles/iabied-ch5-faq-ecological]]++}
 to:: "any preservation drive that makes it into the AI won't necessarily result in beneficial outcomes for humanity, since the AI's values would remain fundamentally alien and unpredictable."
 
 #### Text
