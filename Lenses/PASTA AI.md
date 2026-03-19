@@ -5,10 +5,10 @@ tags :
   - work-in-progress
   - validator-ignore
 ---
-### Article: Forecasting Transformative AI, Part 1: What Kind of AI?
+{--{"author":"AI","timestamp":1773947090980}@@### Article: Forecasting Transformative AI, Part 1: What Kind of AI?
 source:: [[../articles/karnofsky-forecasting-transformative-ai-part-1-what-kind-of-ai|karnofsky-forecasting-transformative-ai-part-1-what-kind-of-ai]]
 
-#### Text
+--}#### Text
 content::
 `<introductory text>`
 
