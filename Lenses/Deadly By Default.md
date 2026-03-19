@@ -3,10 +3,10 @@ id: e2c85826-d6f4-431b-b036-23de8e48b479
 tags:
   - lens
 ---
-### Article: Deadly By Default
+{--{"author":"AI","timestamp":1773946866033}@@### Article: Deadly By Default
 source:: [[../articles/Duncan, Deadly By Default]]
 
-#### Text
+--}#### Text
 content::
 While the first text argued that the course of history appears different depending on the predictive model used, the next explains why, in the field of AI, we can’t simply count on a positive outcome by default.
 
