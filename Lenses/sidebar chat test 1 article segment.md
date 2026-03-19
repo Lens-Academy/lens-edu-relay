@@ -35,6 +35,7 @@ This is not the behavior of people who are carefully creating traditional softwa
 Engineers aren’t about to start understanding AIs, not anytime soon. In the mid-1950s, humanity embarked on a great project to understand intelligence well enough to produce it inside of a machine. That research progress stalled out in a series of “AI winters,” where money invested into AI research never paid off and funding repeatedly collapsed. Humanity never learned to understand intelligence; we never learned to build minds by hand.
 
 #### Article
+source:: [[../articles/karnofsky-most-important-century]]
 to:: like putting safety first when driving. But today, such possibilities get little attention.
 
 #### Text:
