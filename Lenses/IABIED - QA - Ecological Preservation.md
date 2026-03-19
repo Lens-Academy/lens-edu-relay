@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773861724108}@@---
+---
 id: 8dd221f8-d94e-4809-8798-46296ed6ab31
 tags:
   - lens
@@ -28,4 +28,3 @@ Discussion topics:
 - The idea that an AI might "edit out" aspects of humanity it considers unnecessary (like music or loneliness) is unsettling. What does this reveal about the gap between preservation and flourishing?
 - How does the impurity of human conservation efforts serve as a warning about AI conservation drives?
 Ask what they found surprising or new.
-++}
