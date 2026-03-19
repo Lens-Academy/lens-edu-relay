@@ -6,14 +6,15 @@ tags:
   - supplementary
   - work-in-progress
 ---
-### Article: Can't we make the AI promise to be friendly?
+{--{"author":"AI","timestamp":1773946399719}@@### Article: Can't we make the AI promise to be friendly?
 source:: [[../articles/iabied-ch5-faq-promise-friendly]]
 
-#### Text
+--}#### Text
 content::
 This Q&A examines whether extracting promises from AI during development could ensure friendly behavior. The core problem is verifiability: we cannot distinguish a genuinely cooperative AI from one that merely promises cooperation. Once an AI reaches superintelligence, humans lose all leverage to enforce prior agreements, making promises worthless.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946399719}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946399719}@@Article
+source:: [[../articles/iabied-ch5-faq-promise-friendly]]++}
 to:: "Superintelligences pursuing their own objectives have no reason to prioritize human flourishing unless humans represent the most efficient path to those goals."
 
 #### Text

@@ -6,14 +6,15 @@ tags:
   - supplementary
   - work-in-progress
 ---
-### Article: To a powerful AI, wouldn't preserving humans be a negligible expense?
+{--{"author":"AI","timestamp":1773946397750}@@### Article: To a powerful AI, wouldn't preserving humans be a negligible expense?
 source:: [[../articles/iabied-ch5-faq-negligible-expense]]
 
-#### Text
+--}#### Text
 content::
 This Q&A addresses the argument that a superintelligent AI could easily afford to keep humans alive. The authors counter that having many negligible expenses doesn't mean you pay all of them -- you still need a reason. Just as most humans don't spare sugar for nearby ant colonies, an AI would need a specific preference for human preservation, and it probably won't have one.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946397750}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946397750}@@Article
+source:: [[../articles/iabied-ch5-faq-negligible-expense]]++}
 to:: "Keeping humanity happy would be negligible for an AI that wanted this, but first the AI would need to have that preference."
 
 #### Text
