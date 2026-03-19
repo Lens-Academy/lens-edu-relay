@@ -3,10 +3,10 @@ id: b49727ba-c6e8-4142-a1a8-7e8793d52465
 tags:
   - lens
 ---
-### Video: The Goddess Of Everything Else
+{--{"author":"AI","timestamp":1773945828607}@@### Video: The Goddess Of Everything Else
 source:: [[../video_transcripts/rationalanimations-the-goddess-of-everything-else]]
 
-#### Text
+--}#### Text
 content::
 We want to end this module, and this course, with a work of fiction. It is a parable written by Scott Alexander, animated by Rational Animations, and narrated by Rob Miles.
 

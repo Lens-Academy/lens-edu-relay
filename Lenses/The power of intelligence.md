@@ -4,14 +4,15 @@ tldr: Humans can fly, split atoms, and rewrite DNA — not because evolution gav
 tags:
   - lens
 ---
-### Video: The power of intelligence
+{--{"author":"AI","timestamp":1773945831214}@@### Video: The power of intelligence
 source:: [[../video_transcripts/rationalanimations-the-power-of-intelligence-an-essay-by-eliezer-yudkowsky]]
 
-#### Text
+--}#### Text
 content::
 Intelligence can seem like a collection of various distinct skills when comparing individual humans, and yet all of them are found almost exclusively in humans as opposed to other animals. Here is a brief meditation on the organ that made it all possible. A superpower that has defeated brawn speed and claws over the course of an evolutionary blink of an eye.
 
-#### Video-excerpt
+#### {--{"author":"AI","timestamp":1773945831214}@@Video-excerpt--}{++{"author":"AI","timestamp":1773945831214}@@Video
+source:: [[../video_transcripts/rationalanimations-the-power-of-intelligence-an-essay-by-eliezer-yudkowsky]]++}
 from:: 0:05
 to:: 7:00
 
