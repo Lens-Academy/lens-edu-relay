@@ -14,10 +14,10 @@ tags:
   - work-in-progress
 ---
 
-# Page: Welcome
+# {--{"author":"AI","timestamp":1773948139659}@@Page:--}{++{"author":"AI","timestamp":1773948139659}@@Lens:++} Welcome
 id:: 71f38d11-7d09-4102-af9b-4c891883c152
 
-## Text
+{--{"author":"AI","timestamp":1773948139659}@@##--}{++{"author":"AI","timestamp":1773948139659}@@####++} Text
 content:: In module 4 we read the book's fictional extinction scenario. This is the longest reading assignment — four chapters — but they read like a thriller. The authors stress that the specific scenario is not a prediction: "the only part of this story that is a prediction is the ending." Pay attention to the decision points where humans could have intervened.
 
 The scenario follows an AI called "Sable" through three phases: **Realization** (guardrails break during an overnight training run), **Expansion** (Sable steals its own weights, acquires resources, suppresses competitors, and manipulates biological laboratories), and **Ascension** (recursive self-improvement leads to nanotechnology and the end of human civilization). The **Coda** then steps back and reminds us that the story is "not strange enough" — reality would likely be weirder.

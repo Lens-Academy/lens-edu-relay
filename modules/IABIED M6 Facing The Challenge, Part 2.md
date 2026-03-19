@@ -14,10 +14,10 @@ tags:
   - work-in-progress
 ---
 
-# Page: Welcome
+# {--{"author":"AI","timestamp":1773948142642}@@Page:--}{++{"author":"AI","timestamp":1773948142642}@@Lens:++} Welcome
 id:: a3154792-e84d-40d0-b6ed-90f65f89e3f6
 
-## Text
+{--{"author":"AI","timestamp":1773948142642}@@##--}{++{"author":"AI","timestamp":1773948142642}@@####++} Text
 content:: In our final reading week, we confront the incentive structures that drive the AI industry, the authors' case for a worldwide halt on frontier AI development, and — crucially — the reasons for hope. This is the largest reading assignment, covering three chapters plus the closing words.
 
 Chapter 12 opens with Thomas Midgley Jr., who invented both leaded gasoline and CFCs — "burning down someone's house to steal the front doorknob." The authors use this to illustrate how perverse incentives lead to catastrophic outcomes, then examine why AI experts downplay their own fears ("I don't want to be alarmist") and why the public isn't paying enough attention.
