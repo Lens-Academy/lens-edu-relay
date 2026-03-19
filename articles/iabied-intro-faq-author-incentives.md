@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852399993}@@---
+---
 title: "What are your incentives and conflicts of interest, as authors?"
 source_url: https://ifanyonebuildsit.com/intro/what-are-your-incentives-and-conflicts-of-interest-as-authors
 author:
@@ -22,4 +22,4 @@ Both would genuinely prefer being wrong. They'd be "ecstatic to conclude that ou
 
 They would pivot again if evidence merited it. However, they believe current evidence doesn't support such a pivot.
 
-Importantly, they note that dismissing arguments based on speaker incentives is unreliable. Rather than focusing on who raises concerns, evaluation should focus on arguments themselves. The book opens by discussing AI rather than corporate incentives, and discusses developers' actual plans and their merits rather than dismissing speakers based on affiliation. This approach allows evidence to potentially change minds.++}
+Importantly, they note that dismissing arguments based on speaker incentives is unreliable. Rather than focusing on who raises concerns, evaluation should focus on arguments themselves. The book opens by discussing AI rather than corporate incentives, and discusses developers' actual plans and their merits rather than dismissing speakers based on affiliation. This approach allows evidence to potentially change minds.

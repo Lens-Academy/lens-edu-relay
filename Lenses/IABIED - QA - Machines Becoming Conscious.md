@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852756139}@@---
+---
 id: e2d3e554-c4ee-46f9-b9a1-96984c80b23f
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - Does separating consciousness from intelligence feel right to you, or does something important get lost?
 - If a superintelligent AI were conscious, would that change the moral calculus of the situation? How?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

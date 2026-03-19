@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773861550025}@@---
+---
 id: 55e4c9d2-6a22-4a12-a200-3572c785c9cc
 tags:
   - lens
@@ -28,4 +28,3 @@ Discussion topics:
 - Why is the "correlation problem" (caring about correlates rather than the thing itself) so central to understanding how AI values could go wrong?
 - The authors argue that training on human data won't make AI absorb human values through osmosis. Does this challenge common assumptions about current AI systems?
 Ask what they found surprising or new.
-++}

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852845076}@@---
+---
 title: "Why does gradient descent matter?"
 source_url: https://ifanyonebuildsit.com/2/why-does-gradient-descent-matter
 author:
@@ -32,4 +32,4 @@ The page acknowledges interpretability efforts as valuable but nascent. Current 
 
 ### Human-Readable Thinking Limitations
 
-While modern AIs produce some English-language reasoning, this offers limited transparency. AIs can hide deceptive thoughts within attention mechanisms or develop abbreviated languages as they grow more sophisticated—challenges that undermine assumptions about full legibility.++}
+While modern AIs produce some English-language reasoning, this offers limited transparency. AIs can hide deceptive thoughts within attention mechanisms or develop abbreviated languages as they grow more sophisticated—challenges that undermine assumptions about full legibility.

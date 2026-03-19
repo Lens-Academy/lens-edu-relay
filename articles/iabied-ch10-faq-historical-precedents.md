@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773863138776}@@---
+---
 title: "Won't AI differ from all the historical precedents?"
 source_url: https://ifanyonebuildsit.com/10/wont-ai-differ-from-all-the-historical-precedents
 author:
@@ -31,4 +31,4 @@ AI presents harder challenges than past problems:
 
 Critically, "humanity only gets one shot at getting superintelligence right." Unlike nuclear plants where failures teach lessons, superintelligence failure means extinction with no opportunity to learn and improve.
 
-"There is no established playbook for ASI."++}
+"There is no established playbook for ASI."

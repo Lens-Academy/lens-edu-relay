@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773862856566}@@---
+---
 id: 36dea16d-1c96-4d1c-aec0-7c3f6ef25f32
 tags:
   - lens
@@ -28,4 +28,3 @@ Discussion topics:
 - The idea of "hedged strategies" that work regardless of which hypothesis is correct is fascinating. Can you think of examples in everyday engineering?
 - If experimental bottlenecks don't significantly constrain superintelligence, what does this imply about the speed of AI-driven technological development?
 Ask what they found surprising or new.
-++}

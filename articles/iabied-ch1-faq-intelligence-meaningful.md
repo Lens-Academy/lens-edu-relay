@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852494873}@@---
+---
 title: "Is intelligence a meaningful concept?"
 source_url: https://ifanyonebuildsit.com/1/is-intelligence-a-meaningful-concept
 author:
@@ -32,4 +32,4 @@ Humans created fire before grasping combustion chemistry. Similarly, AI developm
 
 The authors focus on what intelligence *does* rather than internal mechanisms. Humans perform diverse feats: particle physics, medicine, agriculture, military strategy. The label "intelligence" describes this enabling capacity itself.
 
-Human and AI intelligence needn't be identical processes to produce comparable real-world impacts.++}
+Human and AI intelligence needn't be identical processes to produce comparable real-world impacts.

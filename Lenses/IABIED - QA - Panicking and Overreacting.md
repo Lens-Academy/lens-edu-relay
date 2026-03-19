@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852336400}@@---
+---
 id: eaea6c4f-403f-4b0a-a317-da776bb9cd60
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - Can you think of cases where humanity under-reacted to a genuine threat? How does that compare to cases of overreaction?
 - What would it look like to examine AI risk "on its merits" rather than pattern-matching to previous scares?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852896561}@@---
+---
 title: "Is intelligence understandable in principle?"
 source_url: https://ifanyonebuildsit.com/2/is-intelligence-understandable-in-principle
 author:
@@ -32,4 +32,4 @@ Understanding AI internals constrains what engineers can achieve. Currently, the
 
 Mechanistic interpretability research remains nascent—receiving roughly 0.1% of AI capability-building resources. While achievements exist, the field has achieved perhaps 1/50th to 1/5,000th of necessary progress for addressing major AI problems.
 
-Human engineers cannot yet read out individual number meanings from modern AIs the way they could with Deep Blue, the chess program IBM built decades ago.++}
+Human engineers cannot yet read out individual number meanings from modern AIs the way they could with Deep Blue, the chess program IBM built decades ago.

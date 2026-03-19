@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773861608973}@@---
+---
 title: "To a powerful AI, wouldn't preserving humans be a negligible expense?"
 source_url: https://ifanyonebuildsit.com/5/to-a-powerful-ai-wouldnt-preserving-humans-be-a-negligible-expense
 author:
@@ -40,4 +40,3 @@ The vast majority of humans don't spare negligible amounts of sugar to keep near
 The mere fact that we want preservation doesn't mean the AI will care about it. Additionally, if the AI did have preferences involving humans, outcomes probably wouldn't be favorable.
 
 Human conservation efforts are selective — we protect pandas but let unappealing species die out. An AI with a preservation drive would likely exhibit similarly arbitrary preferences, coloring its conservation efforts through its own alien values.
-++}

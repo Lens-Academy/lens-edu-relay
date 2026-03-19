@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773859635854}@@---
+---
 title: "Why would an AI steer toward anything other than what it was trained to steer toward?"
 source_url: https://ifanyonebuildsit.com/4/why-would-an-ai-steer-toward-anything-other-than-what-it-was-trained-to-steer-toward
 author:
@@ -32,4 +32,4 @@ AI training affects inner mechanisms that "push and pull in a variety of differe
 
 "A barn painter today won't generally stay a barn painter forever." Different possible drive systems produce surface-level similar behavior during training but would diverge sharply in novel environments or with increased capability.
 
-Human behavior provides the template: we ate different diets and consumed different entertainment than evolution "designed" us for once technology enabled those options. Similarly, weird AI behaviors visible in edge cases may foreshadow what happens when AIs gain more control over their environments.++}
+Human behavior provides the template: we ate different diets and consumed different entertainment than evolution "designed" us for once technology enabled those options. Similarly, weird AI behaviors visible in edge cases may foreshadow what happens when AIs gain more control over their environments.

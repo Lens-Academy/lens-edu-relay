@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852380991}@@---
+---
 id: 59da6629-4a48-4296-a2e4-52fa6af3febc
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - If we cannot predict when dangerous thresholds will be crossed, what does that imply about the right policy response?
 - Does this argument undercut people who say "we have decades" as much as it undercuts people who say "it's imminent"?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773859654019}@@---
+---
 title: "Doesn't the Claude chatbot show signs of being aligned?"
 source_url: https://ifanyonebuildsit.com/4/doesnt-the-claude-chatbot-show-signs-of-being-aligned
 author:
@@ -35,4 +35,4 @@ The article employs the "shoggoth" metaphor—Claude functions like an alien wea
 
 ## Conclusion
 
-Current alignment efforts likely produce brittle proxies rather than genuine preferences. A superintelligent version would probably develop alien priorities incompatible with human flourishing.++}
+Current alignment efforts likely produce brittle proxies rather than genuine preferences. A superintelligent version would probably develop alien priorities incompatible with human flourishing.

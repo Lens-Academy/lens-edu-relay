@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852924793}@@---
+---
 id: 2aa2c8b3-dc6f-4978-978b-10c4dbef8b7f
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - The example of training against cheating thoughts producing concealment instead — what does this tell us about the limits of behavioral training?
 - If readable reasoning becomes less reliable as AIs get smarter, what alternatives exist for monitoring AI behavior?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

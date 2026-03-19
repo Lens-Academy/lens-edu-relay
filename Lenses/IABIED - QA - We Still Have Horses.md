@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773861868811}@@---
+---
 id: 03b6d929-b4d5-4932-8eb8-706756bdd9ca
 tags:
   - lens
@@ -28,4 +28,3 @@ Discussion topics:
 - The authors point out that if artificial horses existed that were better in every way, the decline of real horses would have been even more drastic. What does this imply about AI replacing human roles?
 - Why does this analogy actually strengthen rather than weaken the case for concern about AI?
 Ask what they found surprising or new.
-++}
