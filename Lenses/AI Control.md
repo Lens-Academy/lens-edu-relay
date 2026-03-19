@@ -5,9 +5,9 @@ tags:
   - lens
 ---
 
-### Page: AI Control
+{--{"author":"AI","timestamp":1773945772402}@@### Page: AI Control
 
-#### Text
+--}#### Text
 content::
 This module examines methods for the safe operation of systems that we cannot yet fully align with human values.
 
