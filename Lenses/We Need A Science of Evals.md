@@ -4,8 +4,8 @@ tags:
   - lens
 tldr: AI evaluations currently underpin major safety decisions, but the field isn't yet rigorous enough to bear that weight. This article argues for building a proper science around evals — with the kind of methodology and reproducibility you'd expect before betting on test results in high-stakes situations.
 ---
-### Article: We Need A 'Science of Evals'
-source:: [[../articles/chris+apollo-research-we-need-a-science-of-evals]]
+
+
 
 #### Article-excerpt
 from:: "In this post,"
