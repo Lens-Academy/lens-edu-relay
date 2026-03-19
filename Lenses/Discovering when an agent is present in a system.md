@@ -12,7 +12,8 @@ content::
 In AI safety we often model systems as agents, meaning systems that make decisions to achieve objectives. But this can be a modelling choice rather than an obvious fact. This post proposes a causal definition of agency grounded in how the system’s behaviour would change under specific counterfactual changes in how its actions affect the world. The core idea is: an agent is a system that would adapt its policy if the causal influence of its actions were different, and we can in principle test for this using intervention style data and causal modelling tools such as causal influence diagrams.
 
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773947017465}@@Article-excerpt--}{++{"author":"AI","timestamp":1773947017465}@@Article
+source:: [[../articles/kenton+etal-discovering-when-an-agent-is-present-in-a-system]]++}
 to:: "agent in a system – a key concern for assessing risks from AGI."
 
 #### Text
