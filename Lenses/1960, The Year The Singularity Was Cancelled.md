@@ -16,7 +16,8 @@ We begin this module with an article demonstrating that history does not have to
 
 The module opens with a question: how, exactly, do people attempt to predict major historical shifts?
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946577556}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946577556}@@Article
+source:: [[../articles/1960, The Year The Singularity Was Cancelled]]++}
 from:: "***Epis"
 
 #### Text
