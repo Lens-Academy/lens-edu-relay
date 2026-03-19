@@ -6,14 +6,15 @@ tags:
   - supplementary
   - work-in-progress
 ---
-### Article: Won't the situation get better once governments get more involved?
+{--{"author":"AI","timestamp":1773946134004}@@### Article: Won't the situation get better once governments get more involved?
 source:: [[../articles/iabied-ch11-faq-governments]]
 
-#### Text
+--}#### Text
 content::
 This Q&A examines whether government involvement will improve AI safety. The authors argue it depends entirely on how and when governments engage. Currently, policymakers assume companies have things under control while companies assume regulation will handle it -- everyone expects someone else to solve the problem.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946134004}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946134004}@@Article
+source:: [[../articles/iabied-ch11-faq-governments]]++}
 to:: "Extended resources examine why international cooperation alone proves insufficient."
 
 #### Text
