@@ -6,14 +6,15 @@ tags:
   - supplementary
   - work-in-progress
 ---
-### Article: Wouldn't AI only care about the digital realm?
+{--{"author":"AI","timestamp":1773946357933}@@### Article: Wouldn't AI only care about the digital realm?
 source:: [[../articles/iabied-ch5-faq-digital-realm]]
 
-#### Text
+--}#### Text
 content::
 This Q&A addresses the hope that AI would confine itself to the digital world and leave humans alone. The authors argue there is no "digital realm" independent of physical infrastructure. Just as humans mine underground and launch satellites despite having no evolved emotions about these activities, an AI would find physical resources instrumentally valuable for creating more computing substrate, cooling processors, and launching space probes.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946357933}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946357933}@@Article
+source:: [[../articles/iabied-ch5-faq-digital-realm]]++}
 to:: "Matter and energy can be used to create more digital substrate, to cool overheating processors, or to launch probes into space to collect even more resources."
 
 #### Text

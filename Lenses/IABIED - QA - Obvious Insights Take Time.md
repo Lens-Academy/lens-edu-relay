@@ -7,14 +7,15 @@ tags:
   - work-in-progress
 ---
 
-### Article: IABIED - QA - Obvious Insights Take Time
+{--{"author":"AI","timestamp":1773946354860}@@### Article: IABIED - QA - Obvious Insights Take Time
 source:: [[../../Lens/IABIED/articles/iabied-ch2-ext-obvious-insights]]
 
-#### Text
+--}#### Text
 content::
 This extended discussion shows how "obvious" AI insights — like dividing initial weights by a constant, or using max(x,0) instead of sigmoid — took decades to discover despite their simplicity. The implication: we cannot rely on researchers finding safety solutions quickly, even if those solutions turn out to be simple in retrospect.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946354860}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946354860}@@Article
+source:: [[../../Lens/IABIED/articles/iabied-ch2-ext-obvious-insights]]++}
 to:: "we ought to shut down their efforts"
 
 #### Text
