@@ -2,17 +2,18 @@
 id: 8a7ca9c4-c111-467b-2c2b-e08d10698767
 tldr: I.J. Good recognized that the first machine smarter than any human would be the last one we'd need to design — because the second would be built by the first, according to principles we can't yet imagine. This classic text asks what happens when intelligence starts building its own successors.
 ---
-### Article: Speculations concerning the first ultraintelligent machine
+{--{"author":"AI","timestamp":1773947233669}@@### Article: Speculations concerning the first ultraintelligent machine
 source:: [[../articles/good-speculations-concerning-first-ultraintelligent-machine]]
 
-#### Text
+--}#### Text
 content::
 The issue with self amplifying loops is that plans become obsolete very quickly. The system a few steps down the line will be dominated by effects that are almost impossible to foresee from the starting line. I.J. Good recognised this when he wrote the following:
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773947243817}@@Article-excerpt--}{++{"author":"AI","timestamp":1773947243817}@@Article
+source:: [[../articles/good-speculations-concerning-first-ultraintelligent-machine]]++}
 from:: "The survival of man depends"
 to:: "in his own image."
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773947243817}@@Article-excerpt--}{++{"author":"AI","timestamp":1773947243817}@@Article++}
 from:: "Let an ultraintelligent machine be defined"
 to:: "value at a megakeynes."
 

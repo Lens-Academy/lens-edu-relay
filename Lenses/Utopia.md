@@ -5,14 +5,15 @@ tags:
   - work-in-progress
   - validator-ignore
 ---
-### Article: Utopia
+{--{"author":"AI","timestamp":1773947226735}@@### Article: Utopia
 source:: [[../articles/bostrom-utopia]]
 
-#### Text
+--}#### Text
 content::
 `<introductory text>`
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773947226735}@@Article-excerpt--}{++{"author":"AI","timestamp":1773947226735}@@Article
+source:: [[../articles/bostrom-utopia]]++}
 to:: "`<an exact quote from the article where the exerpt should stop>`"
 
 #### Text
