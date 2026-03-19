@@ -4,10 +4,11 @@ tldr: If control research gives us tools to contain AI, it might also give AI th
 tags:
   - lens
 ---
-### Article: The Case Against AI Control Research 
-source:: [[../articles/wentworth--the-case-against-ai-control-research]]
+{--{"author":"AI","timestamp":1773947221021}@@### Article: The Case Against AI Control Research 
+--}{++{"author":"AI","timestamp":1773947221021}@@#### Article
+++}source:: [[../articles/wentworth--the-case-against-ai-control-research]]{--{"author":"AI","timestamp":1773947221021}@@
 
-#### Article-excerpt
+#### Article-excerpt--}
 
 #### Text
 content::
