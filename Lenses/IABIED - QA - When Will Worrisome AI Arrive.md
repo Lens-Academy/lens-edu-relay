@@ -7,14 +7,15 @@ tags:
   - work-in-progress
 ---
 
-### Article: IABIED - QA - When Will Worrisome AI Arrive
+{--{"author":"AI","timestamp":1773946527911}@@### Article: IABIED - QA - When Will Worrisome AI Arrive
 source:: [[../articles/iabied-intro-faq-when-developed]]
 
-#### Text
+--}#### Text
 content::
 This Q&A tackles the timeline question head-on. The authors show how forecasting communities have repeatedly been forced to move their AGI predictions earlier — from 2049 to 2037 to 2033 — and how even superforecasters dramatically underestimated the pace of AI progress on concrete benchmarks.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946527911}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946527911}@@Article
+source:: [[../articles/iabied-intro-faq-when-developed]]++}
 to:: "humanity won't act at all"
 
 #### Text

@@ -6,14 +6,15 @@ tags:
   - supplementary
   - work-in-progress
 ---
-### Article: But we still have horses. Why wouldn't AI keep us around?
+{--{"author":"AI","timestamp":1773946522821}@@### Article: But we still have horses. Why wouldn't AI keep us around?
 source:: [[../articles/iabied-ch5-faq-horses]]
 
-#### Text
+--}#### Text
 content::
 This Q&A tackles the common analogy that since horses survived the automobile revolution, humans would survive superintelligent AI. The authors argue the analogy actually strengthens extinction concerns: horses survived because humans loved them and chose to keep them. For humans to survive, AI would need to either find us useful (unlikely) or care about us specifically (also unlikely without deliberate design).
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946522821}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946522821}@@Article
+source:: [[../articles/iabied-ch5-faq-horses]]++}
 to:: "The analogy, therefore, actually strengthens rather than weakens extinction concerns."
 
 #### Text
