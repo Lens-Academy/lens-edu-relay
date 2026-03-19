@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773861674878}@@---
+---
 title: "Wouldn't AI recognize our intrinsic moral worth?"
 source_url: https://ifanyonebuildsit.com/5/wouldnt-ai-recognize-our-intrinsic-moral-worth
 author:
@@ -33,4 +33,3 @@ For humans to survive in a superintelligent AI future, one of two conditions mus
 Neither scenario appears likely given how AI systems develop and what motivates their behavior.
 
 Human moral frameworks wouldn't automatically transfer to artificial minds shaped by entirely different processes.
-++}

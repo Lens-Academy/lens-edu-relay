@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773861969663}@@---
+---
 id: f946995b-20dc-4ad7-b9ab-a58a0b5e4787
 tags:
   - lens
@@ -28,4 +28,3 @@ Discussion topics:
 - What is the difference between an AI that has learned the concept of "kindness" and one that is genuinely motivated by kindness?
 - The authors say you can't "jumble together English-language words" to get good AI drives. What does this reveal about the limits of current training approaches?
 Ask what they found surprising or new.
-++}

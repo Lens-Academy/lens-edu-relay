@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773862336835}@@---
+---
 id: 9b407edb-4d70-4eab-8393-a1b58ac31e6b
 tags:
   - lens
@@ -28,4 +28,3 @@ Discussion topics:
 - The "purple whales" analogy challenges the idea that truth lies between optimistic and pessimistic predictions. When is splitting the difference reasonable, and when is it a fallacy?
 - The authors are optimistic about nuclear power, biotech, and nanotech but not superintelligent AI. What makes AI categorically different?
 Ask what they found surprising or new.
-++}

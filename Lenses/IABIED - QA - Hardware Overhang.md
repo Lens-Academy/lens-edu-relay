@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773863537649}@@---
+---
 id: e2d3e554-c4ee-46f9-b9a1-96984c80b23f
 tags:
   - lens
@@ -27,4 +27,4 @@ TLDR: Racing ahead doesn't solve alignment — intelligence has threshold effect
 Discussion topics:
 - Does the threshold effects argument convince you that gradual progress won't help?
 - What do you make of the case study of Sam Altman using this argument to justify racing ahead?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

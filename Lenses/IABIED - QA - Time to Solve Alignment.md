@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773863188225}@@---
+---
 id: a928c44c-8397-4653-ba88-391f16042c52
 tags:
   - lens
@@ -27,4 +27,4 @@ TLDR: The problem isn't just time — it's that science normally relies on trial
 Discussion topics:
 - How does this change your thinking about timelines for AI safety research?
 - Can you think of other domains where we had to get something right on the first try without trial and error?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

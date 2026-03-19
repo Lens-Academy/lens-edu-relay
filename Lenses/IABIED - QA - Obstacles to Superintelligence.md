@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852680814}@@---
+---
 id: 8c028985-0717-4a0c-a5a3-4d4c8614d1c8
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - The track record of overcoming obstacles is impressive, but could there be a fundamentally different kind of barrier ahead? What would that look like?
 - The conclusion that only policy intervention can stop progress — does that seem like the right framing, or does it assume too much?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

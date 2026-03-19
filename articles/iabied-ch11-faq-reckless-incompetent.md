@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773863476534}@@---
+---
 title: "Won't the most reckless companies naturally be the most incompetent, and thus not a threat?"
 source_url: https://ifanyonebuildsit.com/11/wont-the-most-reckless-companies-naturally-be-the-most-incompetent-and-thus-not-a-threat
 author:
@@ -25,4 +25,4 @@ The AI company Anthropic is considered by a reasonable number of people to be a 
 
 Anthropic benefits heavily from the fact that observers are grading on a curve — in a normal industry, a company that chooses to endanger the lives of billions of people (as admitted by the CEO), while routinely downplaying their activities to the public and to lawmakers, wouldn't garner praise for their restraint.
 
-Cutting corners is common in AI, as it is in many competitive industries. Recklessness is common. And the less reckless companies are very visibly not on top of the challenges.++}
+Cutting corners is common in AI, as it is in many competitive industries. Recklessness is common. And the less reckless companies are very visibly not on top of the challenges.

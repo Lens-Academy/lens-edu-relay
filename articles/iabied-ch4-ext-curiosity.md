@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773861418373}@@---
+---
 title: "Curiosity Isn't Convergent"
 source_url: https://ifanyonebuildsit.com/4/curiosity-isnt-convergent
 author:
@@ -36,4 +36,3 @@ The text uses a thought experiment: an AI solely focused on maximizing titanium 
 The analysis extends to other human values like novelty preference, boredom avoidance, beauty appreciation, and fairness. The core claim: "There are just too many ways for AIs to perform well" compared to the narrow path humans follow.
 
 Human values appear contingent on specific evolutionary history, not convergent features of intelligence itself.
-++}

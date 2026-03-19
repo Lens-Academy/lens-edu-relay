@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852983875}@@---
+---
 id: 57fb3bd9-cdbf-4304-bb1f-8c101489be3e
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - AlphaGo Zero learning Go from scratch is powerful evidence against "just parroting." But does Go (with clear rules) transfer to the messier real world?
 - The medical report example — does an AI choosing "elevated" vs. "normal" ammonia levels really constitute "understanding medicine"?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

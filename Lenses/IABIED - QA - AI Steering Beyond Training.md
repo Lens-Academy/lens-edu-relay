@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773859676375}@@---
+---
 id: 66a11607-f9f4-4dc4-9c27-1e657e2ab50b
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - Does the barn-painter analogy help clarify why "trained to do X" doesn't guarantee "wants to do X"?
 - How does this connect to the earlier discussion of evolution producing humans whose goals diverged from reproductive fitness?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

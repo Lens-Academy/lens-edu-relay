@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773861587809}@@---
+---
 id: 6aba9b76-3637-4002-bb08-fbcf83802f82
 tags:
   - lens
@@ -28,4 +28,3 @@ Discussion topics:
 - The analogy to how human society treats non-human animals is striking. Does it change how you think about AI-human power dynamics?
 - If AIs can inspect each other's minds to verify trustworthiness, what does this imply about the kind of coordination mechanisms they might develop?
 Ask what they found surprising or new.
-++}

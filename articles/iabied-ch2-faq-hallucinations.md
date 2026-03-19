@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773853088110}@@---
+---
 title: "Don't hallucinations show that modern AIs are weak?"
 source_url: https://ifanyonebuildsit.com/2/dont-hallucinations-show-that-modern-ais-are-weak
 author:
@@ -28,4 +28,4 @@ Even when prompted to say "I don't know," AIs may continue hallucinating because
 
 ### Misalignment Between Training and Intent
 
-The fundamental problem extends beyond mere weakness: "more reliable AIs will be made eventually," but fixing hallucinations wouldn't necessarily address deeper alignment issues. This distinction matters for understanding why technical fixes alone may prove insufficient for ensuring safe AI development.++}
+The fundamental problem extends beyond mere weakness: "more reliable AIs will be made eventually," but fixing hallucinations wouldn't necessarily address deeper alignment issues. This distinction matters for understanding why technical fixes alone may prove insufficient for ensuring safe AI development.

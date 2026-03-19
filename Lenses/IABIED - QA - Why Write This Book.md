@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852283890}@@---
+---
 id: a9bf8d9f-cad8-4a86-9cfe-6c9bd4f33e5f
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - Do you find the comparison to Leo Szilard and nuclear weapons persuasive, or does it feel like an overreach?
 - How should we weigh the fact that nearly half of AI researchers express concern about catastrophic outcomes?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

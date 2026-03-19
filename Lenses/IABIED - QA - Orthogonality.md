@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773862609946}@@---
+---
 id: eaea6c4f-403f-4b0a-a317-da776bb9cd60
 tags:
   - lens
@@ -28,4 +28,3 @@ Discussion topics:
 - "Understanding humor doesn't mean finding jokes funny" is a powerful analogy. How does this help explain why a superintelligent AI wouldn't necessarily be moral?
 - The orthogonality thesis is one of the most important concepts in AI safety. Does it change how you think about the relationship between intelligence and values?
 Ask what they found surprising or new.
-++}

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773862211484}@@---
+---
 title: "Humans tend to get kinder as they get smarter. Wouldn't AIs too?"
 source_url: https://ifanyonebuildsit.com/5/humans-tend-to-get-kinder-as-they-get-smarter-or-wiser-wouldnt-ais-too
 author:
@@ -28,4 +28,3 @@ The authors identify a common cognitive error: people work backward from desired
 ### Core Insight
 
 "We shouldn't expect it to suddenly swap out this goal for things humans value." Unlike maturing humans who develop empathy through social evolution, AIs lack evolutionary pressures toward kindness. Intelligence amplifies existing goals rather than transforming them.
-++}

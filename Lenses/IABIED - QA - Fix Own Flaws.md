@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773859792649}@@---
+---
 id: a5091f40-86bb-4e7a-ad1d-1d17b501a608
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - Does the argument that "self-modification preserves existing goals" remind you of any human analogies — do people who reflect on their values always become kinder?
 - How does this connect to the earlier point about training producing surface behavior rather than deep values?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

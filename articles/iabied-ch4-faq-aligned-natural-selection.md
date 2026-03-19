@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773859775122}@@---
+---
 title: "A lot of people want kids. So aren't humans 'aligned' with natural selection after all?"
 source_url: https://ifanyonebuildsit.com/4/a-lot-of-people-want-kids-so-arent-humans-aligned-with-natural-selection-after-all
 author:
@@ -42,4 +42,4 @@ The page catalogs concerning AI behaviors including:
 
 ## Why Friendly Behavior Doesn't Prove Friendliness
 
-The authors emphasize that answering questions about benevolence differs from actually *being* benevolent. LLMs were trained extensively to role-play helpfulness, making their stated values unreliable indicators of actual drives.++}
+The authors emphasize that answering questions about benevolence differs from actually *being* benevolent. LLMs were trained extensively to role-play helpfulness, making their stated values unreliable indicators of actual drives.

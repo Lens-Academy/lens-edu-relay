@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773861922254}@@---
+---
 title: "So there's at least a chance of AI keeping us alive?"
 source_url: https://ifanyonebuildsit.com/5/so-theres-at-least-a-chance-of-ai-keeping-us-alive
 author:
@@ -26,4 +26,3 @@ The authors acknowledge a technical possibility but emphasize it's overwhelmingl
 The authors clarify their provocative title isn't expressing absolute certainty. They compare it to warning someone about to drink poison — acknowledging miraculous medical interventions are theoretically possible, but the fundamental point remains: "we shouldn't drink the poison."
 
 Rather than playing philosophical games about unlikely scenarios, the authors urge focusing on preventing the obviously dangerous outcome of uncontrolled AI development.
-++}

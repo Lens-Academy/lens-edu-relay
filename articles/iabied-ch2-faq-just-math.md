@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852941853}@@---
+---
 title: "Aren't AIs 'just math'?"
 source_url: https://ifanyonebuildsit.com/2/arent-ais-just-math
 author:
@@ -32,4 +32,4 @@ We don't fully understand how modern AI behavior emerges from simple components 
 
 ### The Key Point
 
-Mathematical sufficiency for complex tasks shouldn't be doubted. If mathematical operations are enough for AIs to accomplish what they already do, why assume they're insufficient for more complex future tasks? Where should such a line be drawn?++}
+Mathematical sufficiency for complex tasks shouldn't be doubted. If mathematical operations are enough for AIs to accomplish what they already do, why assume they're insufficient for more complex future tasks? Where should such a line be drawn?

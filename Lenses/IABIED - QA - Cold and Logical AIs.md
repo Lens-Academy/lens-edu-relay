@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773853012550}@@---
+---
 id: c900a677-6a2b-4ac0-a192-c6a7927d4c22
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - The vitalism comparison is interesting — are you persuaded that the "AIs can't have creativity/intuition" argument is making the same kind of error?
 - If AI achieves human-like capabilities through fundamentally different mechanisms, does that make it more or less predictable?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

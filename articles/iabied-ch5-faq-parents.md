@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773861535887}@@---
+---
 title: "Will AI treat us as its 'parents'?"
 source_url: https://ifanyonebuildsit.com/5/will-ai-treat-us-as-its-parents
 author:
@@ -44,4 +44,3 @@ Humans were shaped by natural selection to maximize reproductive fitness, yet we
 This could manifest as: freezing humans in amber, keeping people alive against their will, preventing reproduction while providing minimal comfort, or something far stranger.
 
 The outcome would be unpredictable but almost certainly undesirable.
-++}

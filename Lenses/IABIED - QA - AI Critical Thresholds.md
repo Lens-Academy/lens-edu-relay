@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852609899}@@---
+---
 id: aa4ced0d-1111-4085-9f62-49bab9b1a8a3
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - The nuclear fission analogy is striking — does it accurately capture how intelligence thresholds might work, or is intelligence fundamentally different?
 - The authors say "we don't have the luxury of waiting" — but how do you motivate action when nobody can point to a specific threshold being crossed?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

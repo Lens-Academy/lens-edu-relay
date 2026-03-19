@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852453354}@@---
+---
 title: "AI Experts on Catastrophe Scenarios"
 source_url: https://ifanyonebuildsit.com/intro/ai-experts-on-catastrophe-scenarios
 author:
@@ -36,4 +36,4 @@ A 2022 survey of 738 NeurIPS and ICML conference attendees found that **48% thou
 
 ### Editorial Note on "p(doom)"
 
-The authors express concerns about assigning single probability estimates, noting this approach could become self-fulfilling if people misinterpret the reasons behind high probability assignments. They emphasize that even 5% extinction risk justifies urgent action.++}
+The authors express concerns about assigning single probability estimates, noting this approach could become self-fulfilling if people misinterpret the reasons behind high probability assignments. They emphasize that even 5% extinction risk justifies urgent action.

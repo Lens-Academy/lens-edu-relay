@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773853130194}@@---
+---
 title: "Could LLMs advance all the way to superintelligence?"
 source_url: https://ifanyonebuildsit.com/2/could-llms-advance-all-the-way-to-superintelligence
 author:
@@ -22,4 +22,4 @@ Even if LLMs hit fundamental barriers, the field demonstrates consistent capabil
 
 The authors discuss LLMs because they represent the currently functional AI approach, offering valuable insights into understanding emerging artificial minds—regardless of whether they represent the ultimate path forward.
 
-The page references extended content on why gradient descent knowledge matters, expert understanding limitations regarding AI internals, intelligence's understandability in principle, AI reasoning transparency and its limitations, mathematical foundations of AI systems, token prediction as genuine reasoning, and AI capacity to exceed training data. All these discussions elaborate on why LLMs warrant serious study despite uncertainty about their superintelligence potential.++}
+The page references extended content on why gradient descent knowledge matters, expert understanding limitations regarding AI internals, intelligence's understandability in principle, AI reasoning transparency and its limitations, mathematical foundations of AI systems, token prediction as genuine reasoning, and AI capacity to exceed training data. All these discussions elaborate on why LLMs warrant serious study despite uncertainty about their superintelligence potential.

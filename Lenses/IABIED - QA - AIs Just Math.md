@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852945768}@@---
+---
 id: dda20895-9416-4a5f-93b5-14a92ef3fc84
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - Does the analogy between "just math" and "just biochemistry" change how you think about AI capabilities?
 - If you accept that math can encode anything, what implications does this have for the claim that AIs can't truly "understand" or "create"?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

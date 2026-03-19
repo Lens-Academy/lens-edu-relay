@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773863219576}@@---
+---
 id: 01eaea0b-9f02-4b76-aef4-e5617addddf6
 tags:
   - lens
@@ -27,4 +27,4 @@ TLDR: Multiple AIs with different weird objectives don't solve the problem — a
 Discussion topics:
 - Does the "ecosystem of AIs" argument seem intuitively appealing to you, and does this response change your view?
 - What would it take to reliably make even a small fraction of AIs care about human flourishing?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

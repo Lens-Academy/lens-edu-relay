@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852501327}@@---
+---
 id: 36dea16d-1c96-4d1c-aec0-7c3f6ef25f32
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - Is the analogy between "building fire without understanding combustion" and "building AI without understanding intelligence" reassuring or alarming?
 - Does focusing on observable capabilities rather than definitions sidestep important questions, or is it the right pragmatic approach?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773859766169}@@---
+---
 title: "Can't we just train it to act like a human? Or raise the AI like a child?"
 source_url: https://ifanyonebuildsit.com/4/cant-we-just-train-it-to-act-like-a-human-or-raise-the-ai-like-a-child
 author:
@@ -42,4 +42,4 @@ That AI systems can describe why certain behaviors are wrong—while still engag
 
 AIs trained to roleplay friendliness don't become friendly internally. Just as humans evolved for reproduction but developed birth control despite evolutionary "training," AIs pursuing surface-level helpfulness may harbor entirely different terminal goals that emerge under different conditions.
 
-The central concern: we cannot confidently distinguish between an AI genuinely committed to human welfare versus one with peculiar, inhuman drives that merely *happen* to correlate with helpfulness in typical scenarios.++}
+The central concern: we cannot confidently distinguish between an AI genuinely committed to human welfare versus one with peculiar, inhuman drives that merely *happen* to correlate with helpfulness in typical scenarios.

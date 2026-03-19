@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773862291624}@@---
+---
 id: 90381b34-294e-4e2a-b884-555996939080
 tags:
   - lens
@@ -28,4 +28,3 @@ Discussion topics:
 - The phrase "a sense of happiness is not a cube" is memorable. Why does understanding a concept not automatically create motivation to pursue it?
 - People often assume sufficiently intelligent entities would converge on human-like values. What makes this assumption so persistent, and why is it wrong?
 Ask what they found surprising or new.
-++}

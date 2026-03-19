@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852582968}@@---
+---
 title: "Is 'intelligence' a simple scalar quantity?"
 source_url: https://ifanyonebuildsit.com/1/is-intelligence-a-simple-scalar-quantity
 author:
@@ -22,4 +22,4 @@ The key distinction: "Biological brains have limitations that aren't present in 
 
 The authors use this analogy: animal intelligence isn't a scalar measure, yet humans clearly exceed chimpanzees. If incremental improvements in brain size and structure created that gap, similar progression in AI could produce comparable divergence.
 
-They emphasize that acknowledging intelligence's complexity doesn't undermine concerns about superhuman AI development. The existence of limits and complications is compatible with crossing critical capability thresholds that separate species in fundamental ways.++}
+They emphasize that acknowledging intelligence's complexity doesn't undermine concerns about superhuman AI development. The existence of limits and complications is compatible with crossing critical capability thresholds that separate species in fundamental ways.

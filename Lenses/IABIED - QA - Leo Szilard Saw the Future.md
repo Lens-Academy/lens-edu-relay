@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852482206}@@---
+---
 id: 31abe48a-eb0b-4dd3-9bb7-1393c9f99a1a
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - Fermi was one of the greatest physicists alive and still dismissed the idea initially. What does this suggest about relying on expert intuition for novel risks?
 - How does Szilard's decision to keep his insight secret (rather than publish) relate to current debates about AI openness vs. caution?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

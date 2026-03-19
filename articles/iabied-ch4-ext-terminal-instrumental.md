@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773861385259}@@---
+---
 title: "Terminal Goals and Instrumental Goals"
 source_url: https://ifanyonebuildsit.com/4/terminal-goals-and-instrumental-goals
 author:
@@ -30,4 +30,3 @@ As the book's slogan suggests: "You can't fetch the coffee if you're dead." A co
 Chapter 5 argues that many different terminal goals imply instrumental goals dangerous to humanity. Even without knowing exactly what superintelligence would want, we have strong reasons expecting it to be dangerous.
 
 Before exploring terminal goals, we address how plausible it is that humans and AIs would share similar terminal goals. The short answer: not very plausible.
-++}

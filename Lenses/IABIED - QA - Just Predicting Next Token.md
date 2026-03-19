@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852963235}@@---
+---
 id: 71d3ce4e-68ce-401e-9f56-9f28fb8fe880
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - The argument that "predicting a physicist's novel answer requires reasoning like a physicist" — do you find this convincing, or could memorization and pattern-matching explain the same outputs?
 - How does the shift from prediction training to reinforcement learning change the nature of what these systems are doing?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

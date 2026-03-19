@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773859586918}@@---
+---
 title: "'Obvious' Insights Take Time"
 source_url: https://ifanyonebuildsit.com/2/obvious-insights-take-time
 author:
@@ -34,4 +34,4 @@ Even when there is a simple and practical solution to some engineering challenge
 
 This pattern matters because developing safe superintelligent AI likely requires numerous insights. Researchers cannot rely on discovering simple solutions quickly, even when those solutions seem obvious afterward. If stumbling through trial-and-error might cause extinction, civilization cannot permit such experimentation.
 
-"You cannot rely on researchers seeing it as soon as a solution becomes important. You cannot rely on them seeing it within the next two years."++}
+"You cannot rely on researchers seeing it as soon as a solution becomes important. You cannot rely on them seeing it within the next two years."

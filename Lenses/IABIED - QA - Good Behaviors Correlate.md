@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773861308740}@@---
+---
 id: 3dba768a-c3e4-4a7c-8063-9bf1ce403513
 tags:
   - lens
@@ -28,4 +28,3 @@ Discussion topics:
 - What is the difference between an AI that displays good behavior and one that is genuinely motivated by benevolence? Why does this distinction matter?
 - The "mask metaphor" suggests AIs can be tuned toward virtue or vice equally easily. What does this imply about current alignment approaches?
 Ask what they found surprising or new.
-++}

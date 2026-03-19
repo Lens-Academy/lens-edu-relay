@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773861644492}@@---
+---
 title: "Won't AI find us fascinating or historically important?"
 source_url: https://ifanyonebuildsit.com/5/wont-ai-find-us-fascinating-or-historically-important
 author:
@@ -26,4 +26,3 @@ Should an AI value humans as historical records, the preservation wouldn't neces
 The fundamental challenge is that an "enormous space of possibilities" exists beyond scenarios where AI cares about human flourishing. We lack experience with truly alien optimizers pursuing unfamiliar goals, making intuitions about AI behavior unreliable.
 
 Superintelligent AI would need specific reasons to prioritize human preservation — and absent genuine alignment with human values, no such reasons are likely to exist.
-++}

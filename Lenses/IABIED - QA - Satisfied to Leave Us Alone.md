@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773862159485}@@---
+---
 id: a529f564-5ba0-4aec-909d-5e0021314c74
 tags:
   - lens
@@ -28,4 +28,3 @@ Discussion topics:
 - The car-painting example shows how even simple goals lead to resource-intensive defensive behavior. What does this imply about more complex AI goals?
 - The chimpanzee analogy suggests humans could be incidental casualties rather than targets. Is this distinction important for how we think about AI risk?
 Ask what they found surprising or new.
-++}

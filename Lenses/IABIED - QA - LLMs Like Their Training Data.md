@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773853031760}@@---
+---
 id: 1a32f363-c44e-4651-b0a7-b8fe37d7f9b7
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - The actress analogy is vivid — but is there a meaningful difference between "perfect imitation" and "genuine understanding" if the outputs are identical?
 - The warning that humanlike outputs shouldn't be confused with human values — how does this apply to current AI assistants that seem helpful and friendly?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

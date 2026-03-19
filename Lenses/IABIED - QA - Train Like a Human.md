@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773859802561}@@---
+---
 id: a435b40c-0122-44c1-94f0-8eb74659af9b
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - Does the "New Soviet Man" analogy help illustrate why socialization has limits even for humans?
 - What's the difference between an AI that perfectly imitates kindness and one that genuinely possesses it — and does that difference matter practically?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

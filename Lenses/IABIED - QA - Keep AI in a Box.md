@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773862729747}@@---
+---
 id: a9480ae0-d2d4-44ba-a323-d3e247c38ea1
 tags:
   - lens
@@ -28,4 +28,3 @@ Discussion topics:
 - The tension between usefulness and safety seems fundamental. Is there any way to have a useful AI that can't exploit its communication channels?
 - Competitive dynamics pushing toward less safety is a recurring theme. How might this race-to-the-bottom dynamic be addressed?
 Ask what they found surprising or new.
-++}

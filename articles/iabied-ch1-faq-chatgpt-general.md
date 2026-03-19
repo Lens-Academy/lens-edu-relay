@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852630079}@@---
+---
 title: "Isn't ChatGPT already a general intelligence?"
 source_url: https://ifanyonebuildsit.com/1/isnt-chatgpt-already-a-general-intelligence
 author:
@@ -36,4 +36,4 @@ The authors employ "smarter-than-human AI," "superhuman AI," or "superintelligen
 
 **Superintelligent AI / Artificial Superintelligence (ASI):** Superhuman AI vastly surpassing human intelligence. Individual humans and real-world human groups cannot compete with superintelligent AI in practically important domains.
 
-The book largely treats "superhuman" and "superintelligent" interchangeably, though Part II distinguishes them when describing AI takeover scenarios where systems begin weakly smarter-than-human without being superintelligent.++}
+The book largely treats "superhuman" and "superintelligent" interchangeably, though Part II distinguishes them when describing AI takeover scenarios where systems begin weakly smarter-than-human without being superintelligent.

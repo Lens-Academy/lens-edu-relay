@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773863434798}@@---
+---
 id: 12bfc64a-dc20-459f-a448-522e9ae8e7d0
 tags:
   - lens
@@ -27,4 +27,4 @@ TLDR: Everyone in power — politicians and AI companies alike — assumes someo
 Discussion topics:
 - Does the observation that everyone assumes someone else will handle it ring true to you?
 - What kind of government involvement do you think could actually help?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

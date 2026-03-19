@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852962240}@@---
+---
 title: "Aren't AIs just predicting the next token?"
 source_url: https://ifanyonebuildsit.com/2/arent-ais-just-predicting-the-next-token
 author:
@@ -26,4 +26,4 @@ Even pure prediction training would likely induce steering behavior. Predicting 
 
 Contemporary language models are explicitly trained to complete various tasks their creators deem helpful, moving beyond passive prediction toward active accomplishment.
 
-The text emphasizes that mathematical operations underlying AI systems can represent sophisticated, non-mathematical concepts—much like binary code encodes photographs. This capacity doesn't limit AI reasoning to mechanical or numerical domains; complexity emerges naturally from simple computational foundations.++}
+The text emphasizes that mathematical operations underlying AI systems can represent sophisticated, non-mathematical concepts—much like binary code encodes photographs. This capacity doesn't limit AI reasoning to mechanical or numerical domains; complexity emerges naturally from simple computational foundations.

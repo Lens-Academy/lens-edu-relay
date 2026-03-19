@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852459275}@@---
+---
 id: 39b965c6-1a8d-43f7-9229-121e0ea8d517
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - How should we interpret a field where roughly half its practitioners think there's a meaningful chance their work leads to catastrophe?
 - The authors warn against treating "p(doom)" as a simple number — what's the danger in reducing existential risk to a single probability?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

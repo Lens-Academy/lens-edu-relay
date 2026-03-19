@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773859694545}@@---
+---
 id: 16398b2f-7a5b-4335-8d5d-24e190960c4e
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - Does the distinction between "knowing ethics" and "being motivated by ethics" change how you interpret AI behavior?
 - The authors use the "shoggoth" metaphor — do you think this is a fair characterization, or does it overstate the case?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

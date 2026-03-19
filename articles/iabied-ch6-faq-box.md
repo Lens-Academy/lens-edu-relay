@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773862717869}@@---
+---
 title: "Can developers just keep the AI in a box?"
 source_url: https://ifanyonebuildsit.com/6/can-developers-just-keep-the-ai-in-a-box
 author:
@@ -30,4 +30,3 @@ A superintelligent system could manipulate gatekeepers or exploit multiple influ
 ### Intelligence Advantages
 
 Superintelligent systems could coordinate vast resources rapidly. Unlike humans requiring decades to train, "a whole (small) civilization's worth of AI minds" emerges instantly through copying trained models across datacenters.
-++}

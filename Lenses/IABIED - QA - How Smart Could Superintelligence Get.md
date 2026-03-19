@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852661453}@@---
+---
 id: ce0bfb7a-a07c-48a0-a998-f529e368d257
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - The speed advantage alone (transistors switching billions of times vs. neurons firing ~100 times per second) is staggering. What implications does this have for human ability to oversee or control such systems?
 - Does the ability to replicate and share experiences change the nature of intelligence in ways we might not anticipate?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773863404405}@@---
+---
 id: 9faaf0d6-779f-455d-9fb0-b92735e0b4c4
 tags:
   - lens
@@ -27,4 +27,4 @@ TLDR: Alignment doesn't need to be perfect, but "partial" or "mostly" aligned AI
 Discussion topics:
 - Why might "95% aligned" not translate to "95% good outcomes"?
 - Does the distinction between "doesn't need to be perfect" and "partial alignment is still catastrophic" make sense to you?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

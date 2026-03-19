@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852330017}@@---
+---
 title: "Aren't people always panicking and overreacting to things?"
 source_url: https://ifanyonebuildsit.com/intro/arent-people-always-panicking-and-overreacting-to-things
 author:
@@ -28,4 +28,4 @@ Some dangers people warn about are fake; others are real. Humanity sometimes ove
 
 **There is no simple solution** like "ignore all technological risks" or "assume every risk is real." Instead, one must examine the details of each case individually.
 
-The authors note: "To figure out what's true, you have to actually look at the details of each case."++}
+The authors note: "To figure out what's true, you have to actually look at the details of each case."

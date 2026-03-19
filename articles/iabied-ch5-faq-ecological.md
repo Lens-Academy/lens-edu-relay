@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773861709757}@@---
+---
 title: "Won't AI want to keep us happy and healthy for ecological preservation or similar drive?"
 source_url: https://ifanyonebuildsit.com/5/wont-ai-want-to-keep-us-happy-and-healthy-for-the-sake-of-ecological-preservation-or-some-similar-drive
 author:
@@ -24,4 +24,3 @@ Any preservation instinct an AI develops would "also be liable to be impure, com
 "To make an AI that actually lets people lead flourishing lives, we'd probably need to make one that actually cares about that in particular." An AI with conservation values isn't the same as one that values human flourishing specifically.
 
 "Any preservation drive that makes it into the AI" won't necessarily result in beneficial outcomes for humanity, since the AI's values would remain fundamentally alien and unpredictable.
-++}

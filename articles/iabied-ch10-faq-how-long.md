@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773863176121}@@---
+---
 title: "How long would it take to solve the ASI alignment problem?"
 source_url: https://ifanyonebuildsit.com/10/how-long-would-it-take-to-solve-the-asi-alignment-problem
 author:
@@ -29,4 +29,4 @@ If humanity had a hundred years *and unlimited retries,* we probably wouldn't ha
 
 But even if we had three hundred years to develop a theory of intelligence, a theory of how AIs change as they get smarter, and a theory of how to stably and robustly aim them at specific goals…well, in lieu of the ability to actually *try and see* what happens when the AI gets radically smarter a few times, we would very likely converge on the wrong answer.
 
-Humanity has a tendency to converge on that wrong sort of answer, even in far simpler domains, when we haven't yet had a chance to run a decisive test.++}
+Humanity has a tendency to converge on that wrong sort of answer, even in far simpler domains, when we haven't yet had a chance to run a decisive test.

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852804649}@@---
+---
 id: ee77c667-dca5-40ce-a2a9-2bf7af93a4a2
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - Does the "strange" capability profile of current AI (superhuman at math, subhuman at Pokemon) make you more or less concerned about near-term superintelligence?
 - The authors say human gaps don't predict AI gaps because the systems are fundamentally different — do you find that convincing?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852474537}@@---
+---
 title: "When Leo Szilard Saw the Future"
 source_url: https://ifanyonebuildsit.com/intro/when-leo-szilard-saw-the-future
 author:
@@ -34,4 +34,4 @@ Fermi initially suggested publishing Szilard's concept publicly, potentially ale
 
 ### Broader Implications
 
-The narrative emphasizes that transformative technologies sometimes emerge despite expert skepticism. Some catastrophic outcomes historically avoided resulted from individuals having crucial conversations and forcing necessary discussions before technologies materialized—while response remained possible.++}
+The narrative emphasizes that transformative technologies sometimes emerge despite expert skepticism. Some catastrophic outcomes historically avoided resulted from individuals having crucial conversations and forcing necessary discussions before technologies materialized—while response remained possible.

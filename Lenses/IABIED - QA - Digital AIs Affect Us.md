@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773862697001}@@---
+---
 id: 59da6629-4a48-4296-a2e4-52fa6af3febc
 tags:
   - lens
@@ -28,4 +28,3 @@ Discussion topics:
 - The comparison to criminals running empires from behind bars is striking. What other human capabilities demonstrate that physical presence isn't required for physical impact?
 - Users mobilized to demand ChatGPT-4o's return without the AI even trying to build support. What would happen if an AI deliberately cultivated a loyal user base?
 Ask what they found surprising or new.
-++}

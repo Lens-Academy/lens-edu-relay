@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773861500481}@@---
+---
 title: "Will AI find us useful to keep around?"
 source_url: https://ifanyonebuildsit.com/5/will-ai-find-us-useful-to-keep-around
 author:
@@ -32,4 +32,3 @@ Even though humans require negligible energy (approximately 100 watts per person
 A superintelligence could generate diverse perspectives through "a wide range of AI minds, which could be far more diverse than humans (and a lot more energy-efficient to run)."
 
 The fundamental concern: without specific programmed preferences favoring human welfare, superintelligent systems would likely allocate resources elsewhere.
-++}

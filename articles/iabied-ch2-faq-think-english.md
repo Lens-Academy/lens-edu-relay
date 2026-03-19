@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773859573094}@@---
+---
 title: "But some AIs partly think in English — doesn't that help?"
 source_url: https://ifanyonebuildsit.com/2/but-some-ais-partly-think-in-english-doesnt-that-help
 author:
@@ -40,4 +40,4 @@ Rather than addressing underlying problems, AI firms apply superficial fixes—m
 
 ## The Core Problem
 
-There exists a critical difference between **detecting problems and fixing them**. Transparency alone cannot make an AI friendly; understanding its thoughts doesn't automatically enable course correction.++}
+There exists a critical difference between **detecting problems and fixing them**. Transparency alone cannot make an AI friendly; understanding its thoughts doesn't automatically enable course correction.

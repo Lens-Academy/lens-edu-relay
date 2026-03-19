@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773862820092}@@---
+---
 id: 31abe48a-eb0b-4dd3-9bb7-1393c9f99a1a
 tags:
   - lens
@@ -28,4 +28,3 @@ Discussion topics:
 - "Humans started naked on the savannah and bootstrapped to civilization. And we're not that smart." What does AI starting from our technological base imply about its bootstrapping speed?
 - The gap between capability and deployment may be negligible. How does this affect the window for human intervention?
 Ask what they found surprising or new.
-++}

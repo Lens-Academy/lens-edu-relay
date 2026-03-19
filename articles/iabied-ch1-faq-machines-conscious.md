@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852749412}@@---
+---
 title: "Are you saying machines will become conscious?"
 source_url: https://ifanyonebuildsit.com/1/are-you-saying-machines-will-become-conscious
 author:
@@ -38,4 +38,4 @@ Their practical focus: "If an AI is inventing new technology and infrastructure.
 
 Superintelligent systems would necessarily be "extremely good at modeling itself—thinking about its own computations, improving its mental heuristics." However, this practical self-understanding differs fundamentally from human-style subjective consciousness.
 
-The book prioritizes discussing intelligence defined as "a reasoner's ability to predict and steer the world," regardless of whether that system experiences consciousness.++}
+The book prioritizes discussing intelligence defined as "a reasoner's ability to predict and steer the world," regardless of whether that system experiences consciousness.

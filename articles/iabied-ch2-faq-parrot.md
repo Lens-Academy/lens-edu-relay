@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852976872}@@---
+---
 title: "Aren't AIs only able to parrot back what humans say?"
 source_url: https://ifanyonebuildsit.com/2/arent-ais-only-able-to-parrot-back-what-humans-say
 author:
@@ -36,4 +36,4 @@ The authors note significant caveats:
 - Understanding *that* something works differs fundamentally from understanding *why*
 - Real-world complexity exceeds Go's relatively constrained environment
 
-**Bottom line:** Dismissing modern AI as mere parroting ignores the sophisticated pattern-learning and generalization these systems demonstrably perform.++}
+**Bottom line:** Dismissing modern AI as mere parroting ignores the sophisticated pattern-learning and generalization these systems demonstrably perform.

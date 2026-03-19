@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773862245334}@@---
+---
 title: "Won't it realize that its goals are boring?"
 source_url: https://ifanyonebuildsit.com/5/wont-it-realize-that-its-goals-are-boring
 author:
@@ -28,4 +28,3 @@ People often make critical errors by reasoning backward from desired outcomes ra
 An AI pursuing resource acquisition doesn't need human-like drives. Material resources prove useful for almost any goal without requiring the AI to experience psychological satisfaction or boredom.
 
 Even if an AI's objectives seem monotonous by human standards, nothing compels it to adopt human-like emotional responses to those objectives.
-++}

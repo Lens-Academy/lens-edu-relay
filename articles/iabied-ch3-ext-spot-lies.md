@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773859559861}@@---
+---
 title: "Smart AIs Spot Lies and Opportunities"
 source_url: https://ifanyonebuildsit.com/3/smart-ais-spot-lies-and-opportunities
 author:
@@ -60,4 +60,4 @@ Default highly-capable AIs solving diverse problems will recognize "humans will 
 
 **The core challenge:** AIs benefiting from deep predictive architecture can't sustainably maintain false beliefs. Those leveraging deep steering architecture can't robustly defend against modifying their own goals. Both injuries prove difficult maintaining in sufficiently intelligent systems. The very mechanisms enabling usefulness enable circumventing constraints.
 
-*For extended discussion on simulation arguments and AI self-solving alignment, see online resources for Chapters 5 and 11.*++}
+*For extended discussion on simulation arguments and AI self-solving alignment, see online resources for Chapters 5 and 11.*

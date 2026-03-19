@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773863251875}@@---
+---
 title: "What if AI is developed only slowly, and it slowly integrates with society?"
 source_url: https://ifanyonebuildsit.com/10/what-if-ai-is-developed-only-slowly-and-it-slowly-integrates-with-society
 author:
@@ -31,4 +31,4 @@ By analogy: If your city plans to enslave dragons to plow their fields and roast
 
 If you imagine finding yourself in a city full of unfriendly mature dragons, that situation will go poorly very quickly. It will go poorly even if you thought you had some clever scheme for controlling those dragons, like giving them a legal system which said that the humans own most of the property, such that surely no dragon coalition would dare to suggest an alternate legal system for fear of their own rights being invalidated. It will go poorly even if you plan to cleverly play the dragons off against each other, so that no dragon would dare to breathe fire for fear of the other dragons. When the dragons are fully mature, they will all look at each other and nod and then roast you.
 
-If AIs develop fairly slowly, then that future might get interesting and weird for a time, but it would still end up in a basin where the power and resources go to AIs. Humans are not going to keep pace, realistically. Once any collection of those AIs gets into a position where they could take the planet's resources for themselves, that's the point of no return. Either that collection of AIs contains a component that deeply cares about happy, healthy, free people, or the future goes poorly for us.++}
+If AIs develop fairly slowly, then that future might get interesting and weird for a time, but it would still end up in a basin where the power and resources go to AIs. Humans are not going to keep pace, realistically. Once any collection of those AIs gets into a position where they could take the planet's resources for themselves, that's the point of no return. Either that collection of AIs contains a component that deeply cares about happy, healthy, free people, or the future goes poorly for us.
