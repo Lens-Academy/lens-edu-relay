@@ -6,14 +6,15 @@ tags:
   - supplementary
   - work-in-progress
 ---
-### Article: Humans tend to get kinder as they get smarter. Wouldn't AIs too?
+{--{"author":"AI","timestamp":1773946251710}@@### Article: Humans tend to get kinder as they get smarter. Wouldn't AIs too?
 source:: [[../articles/iabied-ch5-faq-kinder-smarter]]
 
-#### Text
+--}#### Text
 content::
 This Q&A challenges the assumption that increased intelligence leads to increased kindness. While some humans become kinder as they mature, this reflects contingent facts about human social evolution, not a universal law. The orthogonality principle tells us that intelligence amplifies existing goals rather than transforming them -- a smarter titanium-cube maximizer just gets better at making titanium cubes.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946251710}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946251710}@@Article
+source:: [[../articles/iabied-ch5-faq-kinder-smarter]]++}
 to:: "Intelligence amplifies existing goals rather than transforming them."
 
 #### Text
