@@ -7,14 +7,15 @@ tags:
   - work-in-progress
 ---
 
-### Article: IABIED - QA - LLMs to Superintelligence
+{--{"author":"AI","timestamp":1773946261210}@@### Article: IABIED - QA - LLMs to Superintelligence
 source:: [[../articles/iabied-ch2-faq-llms-to-superintelligence]]
 
-#### Text
+--}#### Text
 content::
 This Q&A asks whether LLMs specifically could reach superintelligence. The path is unclear, but barriers keep falling — extended reasoning chains were once thought impossible. Even if LLMs hit limits, the field consistently develops new architectures. The book's argument targets superintelligence broadly, not LLMs specifically.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946261210}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946261210}@@Article
+source:: [[../articles/iabied-ch2-faq-llms-to-superintelligence]]++}
 to:: "uncertainty about their superintelligence potential"
 
 #### Text

@@ -7,14 +7,15 @@ tags:
   - work-in-progress
 ---
 
-### Article: IABIED - QA - Knowledge of LLMs
+{--{"author":"AI","timestamp":1773946256148}@@### Article: IABIED - QA - Knowledge of LLMs
 source:: [[../articles/iabied-ch2-ext-knowledge-llms]]
 
-#### Text
+--}#### Text
 content::
 This extended discussion explains why understanding LLM mechanics matters for policy and public discourse. It helps counter misinformation (like false claims that AI opacity has been "resolved"), enables better regulation, and reveals the gap between understanding the training process and understanding the trained system.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946256148}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946256148}@@Article
+source:: [[../articles/iabied-ch2-ext-knowledge-llms]]++}
 to:: "addressing underlying issues"
 
 #### Text
