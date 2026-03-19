@@ -4,10 +4,10 @@ tldr: Traditional AI theory imagines agents that sit outside their environment a
 tags:
   - lens
 ---
-### Article: Embedded agents
-source:: [[../articles/garrabrant+demski--embedded-agency]]
+{--{"author":"AI","timestamp":1773946992018}@@### Article: Embedded agents--}{++{"author":"AI","timestamp":1773946992018}@@#### Article++}
+source:: [[../articles/garrabrant+demski--embedded-agency]]{--{"author":"AI","timestamp":1773946992018}@@
 
-#### Article-excerpt
+#### Article-excerpt--}
 from:: "## 1. Embedded agents"
 to:: "of the same unified concept that is *embedded agency*."
 

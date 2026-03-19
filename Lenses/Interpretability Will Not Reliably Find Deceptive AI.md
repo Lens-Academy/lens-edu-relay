@@ -4,10 +4,10 @@ tldr: What if we could look inside a model and read its intentions? Interpretabi
 tags:
   - lens
 ---
-### Article: Interpretability Will Not Reliably Find Deceptive AI
-source:: [[../articles/nanda-interpretability-will-not-reliably-find-deceptive-ai]]
+{--{"author":"AI","timestamp":1773946999072}@@### Article: Interpretability Will Not Reliably Find Deceptive AI--}{++{"author":"AI","timestamp":1773946999072}@@#### Article++}
+source:: [[../articles/nanda-interpretability-will-not-reliably-find-deceptive-ai]]{--{"author":"AI","timestamp":1773946999072}@@
 
-#### Article-excerpt
+#### Article-excerpt--}
 to:: "in production, while evaluations can be more expensive and slow"
 
 #### Text
