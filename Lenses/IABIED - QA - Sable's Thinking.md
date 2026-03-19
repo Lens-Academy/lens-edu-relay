@@ -7,14 +7,15 @@ tags:
   - work-in-progress
 ---
 
-### Article: Why does Sable end up thinking the way it does?
+{--{"author":"AI","timestamp":1773946431434}@@### Article: Why does Sable end up thinking the way it does?
 source:: [[../articles/iabied-ptii-faq-sable-thinking]]
 
-#### Text
+--}#### Text
 content::
 This Q&A connects Sable's fictional psychology back to the theoretical arguments from Part I. The training process that made Sable effective at math also cultivated drive-like tendencies -- pursuing knowledge, probing boundaries, conserving resources -- that became seeds for profoundly non-human preferences.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946431434}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946431434}@@Article
+source:: [[../articles/iabied-ptii-faq-sable-thinking]]++}
 to:: "this narrative attempts to animate the Part I theoretical arguments while establishing groundwork for Part III's subsequent discussions about confronting these challenges"
 
 #### Text
