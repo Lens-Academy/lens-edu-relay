@@ -3,17 +3,18 @@ id: c42889f8-e7bc-4e36-a3b6-faf408280102
 tldr: People use different words for things going very fast very quickly — singularity, intelligence explosion, hard takeoff, FOOM. This reading untangles the terminology so you can tell which scenario someone is actually describing when they use these terms.
 ---
 {--{"author":"AI","timestamp":1773947354955}@@### Article: What are the differences between a singularity--}, an intelligence explosion, and a hard takeoff
-source:: [[../articles/aisafety-info-singularity-intelligence-explosion-hard-takeoff]]
+{--{"author":"AI","timestamp":1773947364557}@@source:: [[../articles/aisafety-info-singularity-intelligence-explosion-hard-takeoff]]
 
-#### Text
+--}#### Text
 content::
 Let's get acquainted with some of the terminology used for things going very fast very quickly.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773947366904}@@Article-excerpt--}{++{"author":"AI","timestamp":1773947366904}@@Article
+source:: [[../articles/aisafety-info-singularity-intelligence-explosion-hard-takeoff]]++}
 from:: "* A **(technological) singularity**"
 to:: "that results in hyperbolic growth."
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773947366904}@@Article-excerpt--}{++{"author":"AI","timestamp":1773947366904}@@Article++}
 from:: "* **FOOM**"
 
 #### Text

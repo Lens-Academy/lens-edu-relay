@@ -5,13 +5,14 @@ tags :
   - lens
 ---
 {--{"author":"AI","timestamp":1773947356236}@@### Article: Without fundamental advances--}, misalignment and catastrophe are the default outcomes of training powerful AIs
-source:: [[../articles/gillen+barnett-without-fundamental-advances,-misalignment-and-catastrophe-are-the-default-outcomes-of-training-powerful-ai]]
+{--{"author":"AI","timestamp":1773947368012}@@source:: [[../articles/gillen+barnett-without-fundamental-advances,-misalignment-and-catastrophe-are-the-default-outcomes-of-training-powerful-ai]]
 
-#### Text
+--}#### Text
 content::
 Many alignment proposals assume that if we just iterate on current training and add enough safety patches, things will probably work out. This material argues the opposite: given how we currently build powerful AI systems, misalignment and catastrophe are the default outcomes
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773947369700}@@Article-excerpt--}{++{"author":"AI","timestamp":1773947369700}@@Article
+source:: [[../articles/gillen+barnett-without-fundamental-advances,-misalignment-and-catastrophe-are-the-default-outcomes-of-training-powerful-ai]]++}
 to:: "research task every 8 minutes."
 
 #### Text
