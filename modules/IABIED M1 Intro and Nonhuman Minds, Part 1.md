@@ -26,7 +26,7 @@ We hope this book club will also help grow the AI safety community. Some of thes
 
 **This week's reading:** Introduction ("Hard Calls and Easy Calls") + Chapter 1 ("Humanity's Special Power") + Chapter 2 ("Grown, Not Crafted"). After reading, come back here to discuss with the tutor.
 
-## Chat
+{--{"author":"AI","timestamp":1773948117952}@@##--}{++{"author":"AI","timestamp":1773948117952}@@####++} Chat
 instructions::
 The student has just read the Introduction, Chapter 1, and Chapter 2 of "If Anyone Builds It, Everyone Dies."
 
