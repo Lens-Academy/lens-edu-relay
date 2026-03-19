@@ -7,14 +7,15 @@ tags:
   - work-in-progress
 ---
 
-### Article: IABIED - QA - Building Without Understanding
+{--{"author":"AI","timestamp":1773946034123}@@### Article: IABIED - QA - Building Without Understanding
 source:: [[../articles/iabied-ch2-faq-build-without-understanding]]
 
-#### Text
+--}#### Text
 content::
 This Q&A explains why not understanding intelligence doesn't prevent building superhuman AI. Gradient descent doesn't require understanding, and evolution produced human intelligence without comprehension. But this same lack of understanding means engineers cannot predict or control what they build.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946034123}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946034123}@@Article
+source:: [[../articles/iabied-ch2-faq-build-without-understanding]]++}
 to:: "to be practically useful"
 
 #### Text

@@ -6,14 +6,15 @@ tags:
   - supplementary
   - work-in-progress
 ---
-### Article: So there's at least a chance of AI keeping us alive?
+{--{"author":"AI","timestamp":1773946038069}@@### Article: So there's at least a chance of AI keeping us alive?
 source:: [[../articles/iabied-ch5-faq-chance-alive]]
 
-#### Text
+--}#### Text
 content::
 This Q&A directly addresses whether any hope exists for AI preserving humanity. The authors concede a theoretical possibility but compare it to surviving drinking poison through a miraculous medical intervention -- technically possible, but not a reason to drink the poison. The overwhelming likelihood, they argue, is that unaligned AI kills everyone.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946038069}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946038069}@@Article
+source:: [[../articles/iabied-ch5-faq-chance-alive]]++}
 to:: "we shouldn't drink the poison."
 
 #### Text

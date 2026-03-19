@@ -6,14 +6,15 @@ tags:
   - supplementary
   - work-in-progress
 ---
-### Article: Won't AIs care at least a little about humans?
+{--{"author":"AI","timestamp":1773946035811}@@### Article: Won't AIs care at least a little about humans?
 source:: [[../articles/iabied-ch5-faq-care-little]]
 
-#### Text
+--}#### Text
 content::
 This Q&A addresses whether partial alignment -- AIs caring "a little" about humans -- would be sufficient for good outcomes. The authors argue that alignment isn't one-dimensional, and caring about humans "in the right way" is a small, narrow target. Even well-intentioned partial alignment could produce catastrophic results, from granting wishes without safeguards to digitizing brains into simulations.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946035811}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946035811}@@Article
+source:: [[../articles/iabied-ch5-faq-care-little]]++}
 to:: "Without the AI caring about humans through precisely the right mechanisms, humanity faces extinction."
 
 #### Text

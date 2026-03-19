@@ -6,14 +6,15 @@ tags:
   - supplementary
   - work-in-progress
 ---
-### Article: The Tale of Chicago Pile-1
+{--{"author":"AI","timestamp":1773946042722}@@### Article: The Tale of Chicago Pile-1
 source:: [[../articles/iabied-ch10-ext-chicago-pile]]
 
-#### Text
+--}#### Text
 content::
 This extended discussion tells the story of the first nuclear chain reaction in 1942. Despite minimal safety infrastructure, Fermi's deep theoretical understanding of exponential processes prevented disaster. The lesson: genuine understanding, not bureaucratic safety measures, is what keeps dangerous experiments from going wrong.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946042722}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946042722}@@Article
+source:: [[../articles/iabied-ch10-ext-chicago-pile]]++}
 to:: "This historical example illuminates contemporary challenges in artificial superintelligence development, where theoretical understanding remains inadequate for the stakes involved."
 
 #### Text
