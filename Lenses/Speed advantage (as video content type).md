@@ -4,24 +4,26 @@ tags:
   - lens
   - validator-ignore
 ---
-### Article: Slow motion videos as AI risk intuition pumps
+{--{"author":"AI","timestamp":1773945865849}@@### Article: Slow motion videos as AI risk intuition pumps
 source:: [[../articles/slow-motion-videos-as-ai-risk-intuition-pumps]]
 
-#### Text
+--}#### Text
 content::
 In the following reading, we ask you to watch a video in order to get an intuitive sense for what it means for computer processing to be much, much faster than animal processing. Machines would most likely have a vastly different sense of time than we do.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773945865849}@@Article-excerpt--}{++{"author":"AI","timestamp":1773945865849}@@Article
+source:: [[../articles/slow-motion-videos-as-ai-risk-intuition-pumps]]++}
 from:: "Over the past"
 to:: "when slowed down by only around 100x:"
 
-### Video: The power of intelligence
+{--{"author":"AI","timestamp":1773945865849}@@### Video: The power of intelligence
 source:: [[../video_transcripts/adam-magyar-stainless-alexanderplatz]]
-#### Text
+--}#### Text
 content:: 
  . 
 
-#### Video-excerpt
+#### {--{"author":"AI","timestamp":1773945865849}@@Video-excerpt--}{++{"author":"AI","timestamp":1773945865849}@@Video
+source:: [[../video_transcripts/adam-magyar-stainless-alexanderplatz]]++}
 from:: 0:00
 to:: 2:07
 
@@ -29,9 +31,9 @@ to:: 2:07
 content:: 
  . 
 
-### Article: Slow motion videos as AI risk intuition pumps
+{--{"author":"AI","timestamp":1773945865849}@@### Article: Slow motion videos as AI risk intuition pumps
 source:: [[../articles/slow-motion-videos-as-ai-risk-intuition-pumps]]
-#### Article-excerpt
+--}#### {--{"author":"AI","timestamp":1773945865849}@@Article-excerpt--}{++{"author":"AI","timestamp":1773945865849}@@Article++}
 from:: "Now, when you try"
 to:: "wildlife or insects."
 
