@@ -14,7 +14,8 @@ The central challenge in alignment is ensuring that the learned goal remains sta
 
 If we cannot predict how an AI’s objectives will evolve as its capabilities grow, we are fundamentally unable to guarantee its safety. This material examines why capabilities tend to generalise much faster than alignment, creating a dangerous gap in our control over the system.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773947181321}@@Article-excerpt--}{++{"author":"AI","timestamp":1773947181321}@@Article
+source:: [[../articles/soares-a-central-ai-alignment-problem-capabilities-generalization-and-the-sharp-left-turn]]++}
 to:: "generally intelligent, does not make them motivated by your objectives."
 
 #### Text
