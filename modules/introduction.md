@@ -15,11 +15,11 @@ source:: ![[../Learning Outcomes/Unknown intro outcome 1]]
 # Learning Outcome:
 source:: ![[../Learning Outcomes/Objections L1 - Realize objections and rebuttals exist]]
 
-# Uncategorized:
-## Lens:
+# {--{"author":"AI","timestamp":1773948230751}@@Uncategorized:
+## --}Lens:
 optional:: true
 source:: ![[../Lenses/Four Background Claims]]
 
-## Lens:
+{--{"author":"AI","timestamp":1773948230751}@@##--}{++{"author":"AI","timestamp":1773948230751}@@#++} Lens:
 optional:: true
 source:: ![[../Lenses/Worst-Case Thinking]]
