@@ -6,9 +6,9 @@ discussion: https://discord.com/channels/1440725236843806762/1467932217312547019
 tags:
   - module
 ---
-# Page: Welcome
+# {--{"author":"AI","timestamp":1773948194944}@@Page:--}{++{"author":"AI","timestamp":1773948194944}@@Lens:++} Welcome
 id:: 2a219827-f4dd-4c77-86dd-5098df71f62d
-## Text
+{--{"author":"AI","timestamp":1773948194944}@@##--}{++{"author":"AI","timestamp":1773948194944}@@####++} Text
 content::
 The AI alignment problem currently has no proven solution. This module provides a unified picture of why achieving alignment is inherently challenging and the fundamental challenges we must overcome to find a safe way to build AI. This is especially true given that, even with competent participants, the default outcome can be poor, as competitive pressures and coordination failures can encourage risky deployments and lock the ecosystem into an equilibrium that none of the participants desire.
 
