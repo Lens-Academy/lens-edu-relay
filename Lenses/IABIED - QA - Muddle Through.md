@@ -6,14 +6,15 @@ tags:
   - supplementary
   - work-in-progress
 ---
-### Article: Won't we just muddle through, like always?
+{--{"author":"AI","timestamp":1773946324174}@@### Article: Won't we just muddle through, like always?
 source:: [[../articles/iabied-ch11-faq-muddle-through]]
 
-#### Text
+--}#### Text
 content::
 This brief Q&A addresses the common intuition that humanity always muddles through challenges. The authors point out that "muddling through" relies on trial and error, but with superintelligence, early errors would leave no survivors to learn from.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946324174}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946324174}@@Article
+source:: [[../articles/iabied-ch11-faq-muddle-through]]++}
 to:: "In this case, early errors wouldn't leave survivors."
 
 #### Text

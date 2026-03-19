@@ -6,14 +6,15 @@ tags:
   - supplementary
   - work-in-progress
 ---
-### Article: What if AI companies only deploy their AIs for non-dangerous actions?
+{--{"author":"AI","timestamp":1773946329539}@@### Article: What if AI companies only deploy their AIs for non-dangerous actions?
 source:: [[../articles/iabied-ch11-faq-non-dangerous]]
 
-#### Text
+--}#### Text
 content::
 This Q&A examines whether AI companies could limit their systems to "safe" uses. The authors argue that actions seeming benign can still require dangerous capabilities -- an AI good enough to superhumanly persuade politicians would have general intelligence dangerous in other domains. They find no narrow-but-effective AI uses that don't require alignment breakthroughs first.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946329539}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946329539}@@Article
+source:: [[../articles/iabied-ch11-faq-non-dangerous]]++}
 to:: "We haven't been able to find any narrow-but-effective plans, and we suspect it's not an accident that most narrow domains don't provide an opportunity for world-saving results."
 
 #### Text

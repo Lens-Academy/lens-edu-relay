@@ -6,14 +6,15 @@ tags:
   - supplementary
   - work-in-progress
 ---
-### Article: Nanotechnology and Protein Synthesis
+{--{"author":"AI","timestamp":1773946326469}@@### Article: Nanotechnology and Protein Synthesis
 source:: [[../articles/iabied-ch6-ext-nanotech]]
 
-#### Text
+--}#### Text
 content::
 This extended discussion explores the technological capabilities a superintelligence might develop through nanotechnology. Biology already demonstrates molecular-scale machinery (ATP synthase, kinesin, flagella), but it operates far below theoretical physical limits due to evolutionary constraints. Engineered nanosystems using diamond or mechanosynthesis could vastly exceed biological capabilities, potentially including self-replicating systems that double hourly.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946326469}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946326469}@@Article
+source:: [[../articles/iabied-ch6-ext-nanotech]]++}
 to:: "A superintelligence with a small bit of lead time could probably find technological solutions for taking over the planet."
 
 #### Text
