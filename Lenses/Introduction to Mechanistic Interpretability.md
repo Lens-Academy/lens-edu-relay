@@ -5,17 +5,18 @@ discussion: https://discord.com/channels/1440725236843806762/1483418591482347723
 tags:
   - lens
 ---
-### Article: Introduction to Mechanistic Interpretability
+{--{"author":"AI","timestamp":1773947084362}@@### Article: Introduction to Mechanistic Interpretability
 source:: [[../articles/sarah+bluedot-introduction-to-mechanistic-interpretability]]
 
-#### Text
+--}#### Text
 content::
 This perspective argues that safety requires a white-box approach. We cannot trust a model based only on its behavior. Behavior can be faked. Mechanistic interpretability aims to provide a way to verify the internal reasons for a model's output. If we could understand the circuits of a model, we would be able to detect dangerous goals before the model acts on them.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773947084362}@@Article-excerpt--}{++{"author":"AI","timestamp":1773947084362}@@Article
+source:: [[../articles/sarah+bluedot-introduction-to-mechanistic-interpretability]]++}
 to:: "to more efficiently achieve reward (reward-hacking). "
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773947084362}@@Article-excerpt--}{++{"author":"AI","timestamp":1773947084362}@@Article++}
 from:: "## What makes mechanistic interpretability hard?"
 to:: "contribution of individual neurons to a model’s cognition process."
 

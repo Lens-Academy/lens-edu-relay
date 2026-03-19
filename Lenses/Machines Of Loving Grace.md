@@ -4,10 +4,10 @@ tags:
   - lens
 
 ---
-### Article: Machines Of Loving Grace
+{--{"author":"AI","timestamp":1773947087223}@@### Article: Machines Of Loving Grace
 source:: [[../articles/Amodei-machines-of-loving-grace]]
 
-#### Text
+--}#### Text
 content::
 Yes, the risks are real. But what exactly are we trying to protect?The following materials ask a different question: what good could powerful AI bring if we manage to solve the safety problem?
 
