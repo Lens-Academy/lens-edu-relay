@@ -12,10 +12,10 @@ tags:
   - work-in-progress
 ---
 
-# Page: Welcome
+# {--{"author":"AI","timestamp":1773948136860}@@Page:--}{++{"author":"AI","timestamp":1773948136860}@@Lens:++} Welcome
 id:: a058eebe-2914-4a55-b88a-57027f0b79aa
 
-## Text
+{--{"author":"AI","timestamp":1773948136860}@@##--}{++{"author":"AI","timestamp":1773948136860}@@####++} Text
 content:: Congratulations on completing week 1. You already know more essential facts about AI safety than 99% of humanity. However, our journey is only just beginning.
 
 This week we ask two critical questions: Can AIs develop wants? And if so, will they want what we trained them to want?

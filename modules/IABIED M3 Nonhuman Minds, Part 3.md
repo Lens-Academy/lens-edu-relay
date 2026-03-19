@@ -12,10 +12,10 @@ tags:
   - work-in-progress
 ---
 
-# Page: Welcome
+# {--{"author":"AI","timestamp":1773948138376}@@Page:--}{++{"author":"AI","timestamp":1773948138376}@@Lens:++} Welcome
 id:: caf48b0b-f27a-4c09-9336-b443ac7843f4
 
-## Text
+{--{"author":"AI","timestamp":1773948138376}@@##--}{++{"author":"AI","timestamp":1773948138376}@@####++} Text
 content:: In module 3 we ask 2 essential questions:
 - First, how do we know that an AI won't want things that are broadly compatible with human life and flourishing?
 - Second, in the event it wants things that are bad for humanity, can't we just...?
