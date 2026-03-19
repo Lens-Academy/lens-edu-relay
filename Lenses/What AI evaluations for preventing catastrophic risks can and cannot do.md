@@ -4,10 +4,10 @@ tldr: Evaluations can tell us the floor of what an AI is capable of — but not 
 tags:
   - lens
 ---
-### Article: What AI evaluations for preventing catastrophic risks can and cannot do
+{--{"author":"AI","timestamp":1773947422422}@@### Article: What AI evaluations for preventing catastrophic risks can and cannot do
 source:: [[../articles/barnett+thiergart-what-ai-evaluations-for-preventing-catastrophic-risks-can-and-cannot-do]]
 
-#### Text
+--}#### Text
 content::
 The reliance on evals might create a "compliance culture" rather than a "safety culture." Labs may optimize their models specifically to pass safety tests while ignoring the deeper: more complex alignment issues. If "passing the eval" becomes the goal: the test itself becomes a target for the AI to manipulate.
 
