@@ -11,15 +11,16 @@ source:: [[../articles/greenblatt+buck-the-case-for-ensuring-that-powerful-ais-a
 content::
 This perspective argues that control is our best short-term defense. We might not solve the "Hard Alignment Problem" before we build AGI. Control gives us a way to benefit from powerful AI while we are still working on deep alignment. The core theory of change is that if we can build a "prison" that is stronger than the "prisoner," we can put the prisoner to work safely.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773947248155}@@Article-excerpt--}{++{"author":"AI","timestamp":1773947248155}@@Article
+source:: [[../articles/greenblatt+buck-the-case-for-ensuring-that-powerful-ais-are-controlled]]++}
 from:: "There are two main lines of defense you could employ"
 to:: "it might be tractable to use control to substantially reduce risk."
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773947249051}@@Article-excerpt--}{++{"author":"AI","timestamp":1773947249051}@@Article++}
 from:: "# The control property"
 to:: "to some employees intentionally subverting security measures."
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773947250335}@@Article-excerpt--}{++{"author":"AI","timestamp":1773947250335}@@Article++}
 from:: "# Evaluating whether you have control is doable"
 to:: "to use for the training, evaluation, and deployment of the model."
 

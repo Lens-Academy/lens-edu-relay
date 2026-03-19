@@ -11,7 +11,8 @@ source:: [[../articles/slow-motion-videos-as-ai-risk-intuition-pumps]]
 content::
 In the following reading, we ask you to watch a video in order to get an intuitive sense for what it means for computer processing to be much, much faster than animal processing. Machines would most likely have a vastly different sense of time than we do.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773947245519}@@Article-excerpt--}{++{"author":"AI","timestamp":1773947245519}@@Article
+source:: [[../articles/slow-motion-videos-as-ai-risk-intuition-pumps]]++}
 from:: "Over the past"
 to:: "when slowed down by only around 100x:"
 
@@ -19,7 +20,7 @@ to:: "when slowed down by only around 100x:"
 content:: 
 https://www.youtube.com/watch?v=N0F3OyuP9LA
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773947246878}@@Article-excerpt--}{++{"author":"AI","timestamp":1773947246878}@@Article++}
 from:: "Now, when you try"
 to:: "wildlife or insects."
 
