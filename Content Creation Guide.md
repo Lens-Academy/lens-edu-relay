@@ -236,14 +236,15 @@ source:: ![[../Lenses/Optional Extra Lens]]
 - `title`: Display name for the module
 - `discussion`: Discord channel link
 
-**Page section**: The welcome/intro content
-- `id::` for the page itself
-- `content::` with overview text
+{--{"author":"AI","timestamp":1773948646989}@@**Page--}{++{"author":"AI","timestamp":1773948646989}@@**Inline Lens++} section**: The welcome/intro content
+- `id::` for the {--{"author":"AI","timestamp":1773948646989}@@page--}{++{"author":"AI","timestamp":1773948646989}@@lens++} itself
+- {--{"author":"AI","timestamp":1773948646989}@@`content::`--}{++{"author":"AI","timestamp":1773948646989}@@`#### Text` / `#### Chat` segments++} with {--{"author":"AI","timestamp":1773948646989}@@overview text--}{++{"author":"AI","timestamp":1773948646989}@@content++}
 
 **Learning Outcome references**: Link to each outcome using `source:: ![[path]]`
 
-**Uncategorized section**: Optional lenses not tied to a specific outcome
-- Mark with `optional:: true`
+{--{"author":"AI","timestamp":1773948646989}@@**Uncategorized section**: Optional lenses not tied--}{++{"author":"AI","timestamp":1773948646989}@@**Referenced Lens sections**: Lenses imported from separate files
+- `source::` links++} to {--{"author":"AI","timestamp":1773948646989}@@a specific outcome--}{++{"author":"AI","timestamp":1773948646989}@@the lens file++}
+- {--{"author":"AI","timestamp":1773948646989}@@Mark with `optional:: true`--}{++{"author":"AI","timestamp":1773948646989}@@`optional:: true` marks it as not required++}
 
 ### Step 4: Add the module to the course
 

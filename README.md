@@ -42,23 +42,25 @@ e.g. `Lens Educational Content/Modules/module.md`
 Required frontmatter: `slug`, `title`, `id`
 
 Any number of
-\# Text Page:
+\# {--{"author":"AI","timestamp":1773948670812}@@Text Page:--}{++{"author":"AI","timestamp":1773948670812}@@Lens: (inline with `id::` + segments, or referenced with `source::`)++}
 \# Learning Outcome:
 
 Wiki-links must use relative paths (e.g. `[[../video_transcripts/...]]`) and targets must exist.
 
 Example:
 ```md
-# Text Page:
-id::
-content::
+# {--{"author":"AI","timestamp":1773948670812}@@Text Page:--}{++{"author":"AI","timestamp":1773948670812}@@Lens: Welcome++}
+id::{++{"author":"AI","timestamp":1773948670812}@@ <uuid>++}
+{++{"author":"AI","timestamp":1773948670812}@@#### Text
+++}content::
 Lorum Ipsum
 
 # Learning Outcome:
 [[link to Learning Outcome note]]
 
-# Learning Outcome:
-[[link to 2nd learning outcome note]]
+# {--{"author":"AI","timestamp":1773948670812}@@Learning Outcome:--}{++{"author":"AI","timestamp":1773948670812}@@Lens:
+optional:: true++}
+{++{"author":"AI","timestamp":1773948670812}@@source:: ++}[[link to {--{"author":"AI","timestamp":1773948670812}@@2nd learning outcome--}{++{"author":"AI","timestamp":1773948670812}@@Lens++} note]]
 ```
 
 #### Learning Outcomes
