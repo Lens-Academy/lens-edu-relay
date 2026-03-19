@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773861852749}@@---
+---
 title: "But we still have horses. Why wouldn't AI keep us around?"
 source_url: https://ifanyonebuildsit.com/5/but-we-still-have-horses-why-wouldnt-ai-keep-us-around
 author:
@@ -32,4 +32,3 @@ Human preference for horses arose from what makes humans uniquely human. By exte
 The horse analogy reveals more about human nature than AI futures. We kept horses partly for utility and partly for love. Neither factor reliably protects humans from superintelligent systems with alien priorities. The analogy, therefore, actually strengthens rather than weakens extinction concerns.
 
 Human survival cannot depend on hoping AI systems independently develop human-like caring instincts or preferences. The more reliable path would involve deliberate design choices made during AI development, but even those remain uncertain given our limited ability to specify complex values accurately.
-++}

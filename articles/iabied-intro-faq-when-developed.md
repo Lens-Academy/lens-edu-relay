@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852356027}@@---
+---
 title: "When is this worrisome sort of AI going to be developed?"
 source_url: https://ifanyonebuildsit.com/intro/when-is-this-worrisome-sort-of-ai-going-to-be-developed
 author:
@@ -35,4 +35,4 @@ Historical precedent shows unreliable predictions about technological timelines.
 
 Contemporary skeptics continue making confident claims that AI could never match humans in specific capabilities, even as progress demonstrates otherwise. For example, AIs have demonstrated ability to identify sarcasm and irony from text and nonverbal cues since 2024, yet the New York Times reported in May 2025 that "scientists have no hard evidence that today's technologies are capable of performing even some of the simpler things the brain can do, like recognizing irony."
 
-The uncomfortable reality: nobody currently knows when superhuman AI will arrive. Worse, nobody may ever know until it's too late for international action. Timing breakthroughs is incredibly difficult. Without acting from uncertainty, humanity won't act at all.++}
+The uncomfortable reality: nobody currently knows when superhuman AI will arrive. Worse, nobody may ever know until it's too late for international action. Timing breakthroughs is incredibly difficult. Without acting from uncertainty, humanity won't act at all.
