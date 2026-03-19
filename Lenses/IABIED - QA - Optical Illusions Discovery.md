@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773862955426}@@---
+---
 id: 03e48d89-a09e-4070-9988-9cbae7498992
 tags:
   - lens
@@ -28,4 +28,3 @@ Discussion topics:
 - If researchers can already construct illusions that cause involuntary physical responses (like pupil dilation), what might a superintelligence understand about human cognitive vulnerabilities?
 - How does this connect to the broader theme of AI being able to manipulate humans through deep understanding of our psychology?
 Ask what they found surprising or new.
-++}

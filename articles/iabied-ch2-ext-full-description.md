@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773853205092}@@---
+---
 title: "A Full Description of an LLM"
 source_url: https://ifanyonebuildsit.com/2/a-full-description-of-an-llm
 author:
@@ -41,4 +41,4 @@ If all parameters were placed in an Excel spreadsheet on a standard screen, the 
 
 Llama 3.1 405B is not yet as large as a human brain (approximately 100 trillion synapses). However, it can apparently talk like a person.
 
-The authors emphasize that characterizing AIs as "just numbers" understates the genuine complexity involved, much as describing humans as "just biochemistry" would obscure meaningful understanding.++}
+The authors emphasize that characterizing AIs as "just numbers" understates the genuine complexity involved, much as describing humans as "just biochemistry" would obscure meaningful understanding.

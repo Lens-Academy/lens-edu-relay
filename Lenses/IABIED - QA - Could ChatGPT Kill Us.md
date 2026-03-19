@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852322084}@@---
+---
 id: 08d61baf-f061-42a2-9686-ca4dc622043d
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - Does the sheer scale of investment (hundreds of billions) change how seriously you take claims about AGI timelines?
 - The authors say there's no "principled barrier" to a breakthrough tomorrow — what would constitute such a barrier?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

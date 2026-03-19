@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773862914829}@@---
+---
 id: 3a4b5d59-691b-4c75-bf3e-45c5e5c3f957
 tags:
   - lens
@@ -28,4 +28,3 @@ Discussion topics:
 - The gap between biological machinery and theoretical physical limits is enormous. What does this imply about the potential capabilities of engineered nanosystems?
 - Self-replicating nanomachines doubling hourly is an extraordinary claim. How does this compare to the speed of biological replication, and what would it mean for a superintelligence's capabilities?
 Ask what they found surprising or new.
-++}

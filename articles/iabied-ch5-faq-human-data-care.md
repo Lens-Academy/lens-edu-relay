@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773861955958}@@---
+---
 title: "If AIs are trained on human data, doesn't that make them likelier to care about human concepts?"
 source_url: https://ifanyonebuildsit.com/5/if-ais-are-trained-on-human-data-doesnt-that-make-them-likelier-to-care-about-human-concepts
 author:
@@ -28,4 +28,3 @@ Drawing on Chapter 4's discussion, advanced AIs will pursue "something complicat
 Even if human-related concepts exist in an AI's mental framework, "you can't just jumble together a bunch of English-language words and get out a good set of drives for a superintelligence." The caring must be calibrated precisely right — "a narrow target."
 
 Training data alone cannot ensure an AI cares about humans in ways that matter for our survival.
-++}

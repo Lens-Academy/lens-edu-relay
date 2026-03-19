@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852441032}@@---
+---
 id: 72bca5c6-5bcc-4bb7-bbf0-18b3e149bae2
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - Do you think the association with science fiction makes it harder for people to take AI risk seriously? How might this be overcome?
 - The authors claim the future with superintelligent AI would be as transformative as the Industrial Revolution — does that seem plausible or hyperbolic?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

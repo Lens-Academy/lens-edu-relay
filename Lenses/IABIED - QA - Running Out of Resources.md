@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773853120003}@@---
+---
 id: cf3f37ce-3fc3-46ab-b693-7f83807b2b1e
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - The "100 watts" argument — humans prove general intelligence is energy-efficient, so current AI power consumption is just an engineering problem. Is this convincing?
 - If resource constraints won't stop AI development, what does that imply about the importance of policy intervention?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

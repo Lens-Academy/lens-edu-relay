@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773861463836}@@---
+---
 title: "Human Values Are Contingent"
 source_url: https://ifanyonebuildsit.com/4/human-values-are-contingent
 author:
@@ -48,4 +48,3 @@ Individual humans exhibit enormous value diversity — antithetical to engineeri
 The contingency of human biology, history, and moral perspectives suggests that achieving robust AI alignment is genuinely difficult. Engineering solutions exist, but unlimited retries aren't available. Current progress remains insufficient.
 
 "Many different lines of evidence point at it being genuinely difficult to get AIs to robustly want the right things."
-++}

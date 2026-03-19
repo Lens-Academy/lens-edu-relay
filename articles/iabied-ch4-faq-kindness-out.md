@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773861229392}@@---
+---
 title: "Maybe no matter what goal you train on, you get kindness out?"
 source_url: https://ifanyonebuildsit.com/4/maybe-no-matter-what-goal-you-train-on-you-get-kindness-out
 author:
@@ -102,4 +102,3 @@ The paradox dissolves when we consider:
 - An AI can know a fact ("this behavior causes harm") without caring about that fact, without being motivated to action by that fact. You can quiz the AI about what "the right thing to do" is, but that doesn't mean it's going to do that thing.
 
 - Insofar as the programmers didn't successfully make Claude honest, Claude can think one thing inside its giant matrices, and say another thing entirely in English text.
-++}

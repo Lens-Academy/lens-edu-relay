@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773863363913}@@---
+---
 id: 8c028985-0717-4a0c-a5a3-4d4c8614d1c8
 tags:
   - lens
@@ -27,4 +27,4 @@ TLDR: "Muddling through" depends on trial and error, but with superintelligence,
 Discussion topics:
 - Does the "we always muddle through" intuition feel compelling to you, and does this response change your view?
 - Can you think of situations where humanity did NOT muddle through successfully?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

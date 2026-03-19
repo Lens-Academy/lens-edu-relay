@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773853136851}@@---
+---
 id: 46a8ad84-2685-4afc-8bcd-f22f48ef6cb3
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - Does it matter whether superintelligence comes from LLMs specifically or some other architecture? Why or why not?
 - The pattern of "experts say X is impossible, then it happens" — at what point does this pattern become an argument in itself?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

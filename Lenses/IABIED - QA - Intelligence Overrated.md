@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852555559}@@---
+---
 id: 842dbf1d-8971-4619-a978-3432e169519c
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - Does this broader definition of intelligence change how you think about AI capabilities? Is it fair to lump charisma and engineering under one label?
 - If AI develops "artificial charisma" alongside analytical capabilities, what new concerns does that raise?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

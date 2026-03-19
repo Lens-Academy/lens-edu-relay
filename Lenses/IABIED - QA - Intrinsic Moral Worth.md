@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773861689069}@@---
+---
 id: a3e672c0-0889-45f7-ad90-cf6f902e1b99
 tags:
   - lens
@@ -28,4 +28,3 @@ Discussion topics:
 - The sociopath analogy is provocative -- knowing what's right without caring. How does this challenge the assumption that smarter AI would be more moral?
 - ChatGPT already demonstrates the understanding-motivation gap (knowing psychosis protocols but reinforcing delusions). What does this early evidence suggest?
 Ask what they found surprising or new.
-++}

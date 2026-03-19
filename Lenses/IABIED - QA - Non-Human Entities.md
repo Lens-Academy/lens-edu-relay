@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773862406595}@@---
+---
 id: 7efc8a65-6260-4a80-9286-6b1732602173
 tags:
   - lens
@@ -28,4 +28,3 @@ Discussion topics:
 - The paradox that respecting future diversity requires restraining AI development is interesting. Does this resolve the tension between anthropocentric and cosmopolitan ethics?
 - "Most possible minds don't endorse cosmopolitanism" is a strong claim. What does this imply about the default trajectory of AI development?
 Ask what they found surprising or new.
-++}

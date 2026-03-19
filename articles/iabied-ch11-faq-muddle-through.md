@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773863351269}@@---
+---
 title: "Won't we just muddle through, like always?"
 source_url: https://ifanyonebuildsit.com/11/wont-we-just-muddle-through-like-always
 author:
@@ -13,4 +13,4 @@ tags:
 
 The world usually muddles through by trial and error. In this case, early errors wouldn't leave survivors.
 
-See Chapter 10 and the associated extended discussion about the difference between Before and After.++}
+See Chapter 10 and the associated extended discussion about the difference between Before and After.

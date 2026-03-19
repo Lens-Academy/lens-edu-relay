@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773861657332}@@---
+---
 id: 299b31d0-c5bf-4db1-9897-2fe568a5d861
 tags:
   - lens
@@ -28,4 +28,3 @@ Discussion topics:
 - The distinction between "preservation" and "flourishing" is important here. What would AI-driven human preservation actually look like if the AI didn't share human values?
 - If an AI could construct more fascinating minds than humans, what does this imply about our uniqueness as a reason for preservation?
 Ask what they found surprising or new.
-++}

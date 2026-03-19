@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773853052211}@@---
+---
 id: 7629014a-214f-4273-817c-378496558cca
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - The Tycho Brahe analogy — does predicting someone's observations really incentivize discovering the laws behind those observations?
 - AlphaGo Zero succeeded without human data in Go. Do you think similar approaches could work for less structured domains?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

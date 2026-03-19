@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773863265760}@@---
+---
 id: aa4ced0d-1111-4085-9f62-49bab9b1a8a3
 tags:
   - lens
@@ -27,4 +27,4 @@ TLDR: Slow development doesn't fix the core problem — at some point AIs become
 Discussion topics:
 - Does the dragon analogy help clarify the Before/After problem for you?
 - Do you think gradual integration could buy enough time to develop genuine alignment solutions, or does the argument convince you otherwise?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

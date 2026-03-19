@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852786621}@@---
+---
 id: 852658c6-e827-4bbf-a3e1-df3a51d6e43d
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - The claim that "accuracy converges; steering does not" is central to the alignment problem. Does this framing make the challenge clearer?
 - If steering is truly a "free parameter," what does this imply about attempts to make AI share human values?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

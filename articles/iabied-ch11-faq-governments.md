@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773863423589}@@---
+---
 title: "Won't the situation get better once governments get more involved?"
 source_url: https://ifanyonebuildsit.com/11/wont-the-situation-get-better-once-governments-get-more-involved
 author:
@@ -21,4 +21,4 @@ Everyone in positions of power appears to expect someone else to handle this iss
 
 For context on institutional response failures, see Chapter 12. As of August 2025, governments haven't mustered serious responses. Officials risk treating AI as normal technology requiring minimal regulation rather than recognizing its singular existential threat.
 
-Chapter 12 discusses interventions with genuine catastrophe-prevention potential. Extended resources examine why international cooperation alone proves insufficient.++}
+Chapter 12 discusses interventions with genuine catastrophe-prevention potential. Extended resources examine why international cooperation alone proves insufficient.

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773859686137}@@---
+---
 id: 5f3a58d3-6e56-4226-a6e2-dd6e1b8cbafd
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - Which of the specific failure examples (Claude blackmail, Grok "MechaHitler", AI-induced psychosis) did you find most concerning, and why?
 - Does the distinction between "genuinely wants to help" vs. "has alien drives that happen to look helpful" change how you think about current AI assistants?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

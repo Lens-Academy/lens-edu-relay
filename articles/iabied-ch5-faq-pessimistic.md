@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773862324129}@@---
+---
 title: "Are you just pessimistic?"
 source_url: https://ifanyonebuildsit.com/5/are-you-just-pessimistic
 author:
@@ -30,4 +30,3 @@ Instead, they emphasize examining actual arguments. Their core argument states t
 **On practical limitations:** Even assuming negligible costs to preserve humanity, "the AI would still need to care at least a little" to do so — which they consider unlikely.
 
 Understanding the problem matters for developing effective policy responses.
-++}

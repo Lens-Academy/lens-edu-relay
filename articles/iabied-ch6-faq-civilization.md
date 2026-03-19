@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773862808710}@@---
+---
 title: "Wouldn't AI need to grow into a whole civilization before it could be dangerous?"
 source_url: https://ifanyonebuildsit.com/6/wouldnt-ai-need-to-grow-into-a-whole-civilization-before-it-could-be-dangerous
 author:
@@ -32,4 +32,3 @@ A superintelligent AI wouldn't need to build civilization from scratch. It could
 Today, companies already deploy "groups of parallel agents" when maximizing performance. Estimates suggest approximately 200,000 GPT-5 instances run simultaneously — approaching small-nation scale.
 
 The crucial point: there likely won't be much time between when AI becomes capable enough to potentially dominate if it had millions of instances and when it actually has millions of instances running.
-++}

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852778925}@@---
+---
 title: "More on Intelligence as Prediction and Steering"
 source_url: https://ifanyonebuildsit.com/1/more-on-intelligence-as-prediction-and-steering
 author:
@@ -34,4 +34,4 @@ The authors illustrate how even "superhumanly good prediction" requires steering
 
 ### Intelligence Across Different Domains
 
-Stock markets perform prediction in narrow domains; chess AI (Stockfish) performs steering toward checkmate. These disparate systems share no common internal architecture yet both accomplish intelligence's essential work. The distinction matters: there is no universally "correct" steering destination, only correct predictions about reality.++}
+Stock markets perform prediction in narrow domains; chess AI (Stockfish) performs steering toward checkmate. These disparate systems share no common internal architecture yet both accomplish intelligence's essential work. The distinction matters: there is no universally "correct" steering destination, only correct predictions about reality.

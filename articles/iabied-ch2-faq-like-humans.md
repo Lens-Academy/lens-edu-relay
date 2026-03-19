@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773853024578}@@---
+---
 title: "Won't LLMs be like the humans in the data they're trained on?"
 source_url: https://ifanyonebuildsit.com/2/wont-llms-be-like-the-humans-in-the-data-theyre-trained-on
 author:
@@ -36,4 +36,4 @@ Current LLMs can exhibit human-appearing behaviors through training, but these r
 
 The authors emphasize that humanlike external behavior shouldn't be confused with internal similarity. Training systems to output noble sentiments doesn't create entities that genuinely hold those values: "it won't be real."
 
-Human operators seeing apparently kind outputs shouldn't conclude the underlying system shares human values or motivations.++}
+Human operators seeing apparently kind outputs shouldn't conclude the underlying system shares human values or motivations.

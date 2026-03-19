@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852697655}@@---
+---
 id: 9faaf0d6-779f-455d-9fb0-b92735e0b4c4
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - Does the Stockfish analogy hold up? Chess has fixed rules — is the real world different enough to undermine the comparison?
 - If we can predict that a superintelligence will achieve its goals but not how, what does that imply about our ability to constrain it?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

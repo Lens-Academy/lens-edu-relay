@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773853112423}@@---
+---
 title: "But won't we run out of data before AI goes all the way? Or electrical power? Or funding?"
 source_url: https://ifanyonebuildsit.com/2/but-wont-we-run-out-of-data-before-ai-goes-all-the-way-or-electrical-power-or-funding
 author:
@@ -44,4 +44,4 @@ Earlier AI funding cycles collapsed when public backers lost patience with lack 
 - The platform generated $3.7 billion in 2024 revenue with projections of $12.7 billion in 2025
 - Private investment sustains the field independent of public funders who might withdraw support
 
-**Conclusion**: While theoretical constraints could emerge, current evidence suggests talent, resources, and technical innovation will overcome anticipated bottlenecks.++}
+**Conclusion**: While theoretical constraints could emerge, current evidence suggests talent, resources, and technical innovation will overcome anticipated bottlenecks.

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773862002304}@@---
+---
 id: da6dcd93-f3de-4057-ac7b-723a5fc44a8d
 tags:
   - lens
@@ -28,4 +28,3 @@ Discussion topics:
 - The verifiability problem means we can't tell a genuine promise from a deceptive one. How does this relate to current challenges in AI interpretability?
 - Once leverage is lost at superintelligence, prior agreements become unenforceable. What does this imply about the timeline for solving alignment?
 Ask what they found surprising or new.
-++}

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773863207145}@@---
+---
 title: "What if there are lots of different AIs?"
 source_url: https://ifanyonebuildsit.com/10/what-if-there-are-lots-of-different-ais
 author:
@@ -22,4 +22,4 @@ Background References:
 - Chapter 5: Whether AIs find humans useful; whether AIs need law; whether they care about us; why humans rarely represent efficient solutions
 - Part II: Why the narrative featured only one superintelligent AI
 
-If we could make one in ten AIs "good," perhaps we could negotiate with them for a portion of resources. However, given modern "grown" AI approaches, hitting such a narrow target even ten percent of the time remains extraordinarily unlikely. Adding more AIs doesn't help when we lack the capability to structure their fundamental drives correctly.++}
+If we could make one in ten AIs "good," perhaps we could negotiate with them for a portion of resources. However, given modern "grown" AI approaches, hitting such a narrow target even ten percent of the time remains extraordinarily unlikely. Adding more AIs doesn't help when we lack the capability to structure their fundamental drives correctly.

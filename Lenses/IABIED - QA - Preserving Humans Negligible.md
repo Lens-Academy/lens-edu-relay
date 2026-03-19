@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773861624414}@@---
+---
 id: ab851733-57a3-4956-8ffe-0401ab6edc62
 tags:
   - lens
@@ -28,4 +28,3 @@ Discussion topics:
 - The ant colony analogy is striking -- we don't preserve ants despite the trivial cost. Does this change how you view the "negligible expense" argument?
 - Even if an AI did care about preserving humans, the authors suggest the result might not be favorable. Why might alien preservation look very different from what we'd want?
 Ask what they found surprising or new.
-++}

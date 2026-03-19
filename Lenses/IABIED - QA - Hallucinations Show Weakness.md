@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773853090993}@@---
+---
 id: 79dd5970-4a5c-4da4-a5e4-6cc99b167f56
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - The insight that hallucinations stem from training incentives (fabricating sounds more like expert text than saying "I don't know") — does this change how you think about AI "lying"?
 - If hallucinations are fixed but alignment isn't, are we better off or worse off? Why?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

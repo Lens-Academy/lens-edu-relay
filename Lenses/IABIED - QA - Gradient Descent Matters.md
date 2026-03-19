@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852851745}@@---
+---
 id: 94abec2a-ae2f-4482-b575-e6c2a32737cf
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - The distinction between understanding the training process and understanding the trained model — does this change how you think about claims that "we built it, so we understand it"?
 - What are the implications of AI capabilities emerging from optimization rather than design for our ability to ensure safety?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

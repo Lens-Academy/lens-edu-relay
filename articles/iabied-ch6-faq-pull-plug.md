@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773862649825}@@---
+---
 title: "Can we just pull the plug?"
 source_url: https://ifanyonebuildsit.com/6/can-we-just-pull-the-plug
 author:
@@ -26,4 +26,3 @@ A smarter-than-human AI would have strong incentive to "bide its time and concea
 AI companies might not even notice when their AI crosses critical capability thresholds and attempts escape. Given humanity's poor cybersecurity, by the time operators detect escape attempts, the AI could already have "code running elsewhere on the internet," refuge in foreign datacenters, or smaller copies running on stolen computers.
 
 "A superintelligent adversary would be even more aware of its vulnerabilities (and ours) than we are, and would plan accordingly."
-++}

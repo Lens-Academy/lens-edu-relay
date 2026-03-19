@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773861990159}@@---
+---
 title: "Can't we make the AI promise to be friendly?"
 source_url: https://ifanyonebuildsit.com/5/cant-we-make-the-ai-promise-to-be-friendly
 author:
@@ -22,4 +22,3 @@ No. The fundamental problem is **verifiability**: we cannot distinguish between 
 ### The Underlying Principle
 
 Superintelligences pursuing their own objectives have no reason to prioritize human flourishing unless humans represent the most efficient path to those goals — which they almost certainly won't.
-++}

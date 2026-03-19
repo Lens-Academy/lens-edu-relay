@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773862073827}@@---
+---
 id: 34c52200-f6b8-4fa8-88c7-2b3a46849231
 tags:
   - lens
@@ -28,4 +28,3 @@ Discussion topics:
 - The distinction between emotional motivation and instrumental behavior is crucial here. Can you think of other cases where the "why" doesn't matter as much as the "what"?
 - If AI danger comes from instrumental resource acquisition rather than malice, does that make the problem harder or easier to address?
 Ask what they found surprising or new.
-++}

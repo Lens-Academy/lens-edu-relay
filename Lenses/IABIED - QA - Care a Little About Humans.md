@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773861903478}@@---
+---
 id: 2ed51bc1-28d3-4db9-93fb-69e968d2beca
 tags:
   - lens
@@ -28,4 +28,3 @@ Discussion topics:
 - The list of ways an AI could "care" about humans while producing terrible outcomes is striking. Which failure mode surprised you most?
 - Why is alignment described as a "narrow target" rather than a spectrum from bad to good?
 Ask what they found surprising or new.
-++}

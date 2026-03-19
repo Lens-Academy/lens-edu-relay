@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852730869}@@---
+---
 title: "Isn't there something special about humans that mere machines could never emulate?"
 source_url: https://ifanyonebuildsit.com/1/isnt-there-something-special-about-humans-that-mere-machines-could-never-emulate
 author:
@@ -28,4 +28,4 @@ Even if certain biological reasoning aspects proved difficult to implement in ma
 
 The central concern involves AI capabilities for prediction and environmental manipulation, not whether machines possess consciousness, a "vital spark," or other qualities humans consider special. Subsequent chapters explore how modern AIs develop through growth rather than design, how this developmental process creates increasingly capable systems with strong goal-orientation, and how those goals diverge from human intentions. These dynamics suffice to create existential risks regardless of whether AIs possess consciousness or other attributes marking them as truly sentient.
 
-Human exceptionalism debates ultimately distract from the practical concerns surrounding superintelligent systems.++}
+Human exceptionalism debates ultimately distract from the practical concerns surrounding superintelligent systems.

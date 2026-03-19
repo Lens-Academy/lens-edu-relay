@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773862896475}@@---
+---
 title: "Nanotechnology and Protein Synthesis"
 source_url: https://ifanyonebuildsit.com/6/nanotechnology-and-protein-synthesis
 author:
@@ -50,4 +50,3 @@ Conservative estimates suggest nanosystems of diamond or iron materials could re
 ### The Broader Point
 
 "A superintelligence with a small bit of lead time could probably find technological solutions for taking over the planet." Human technology already exceeds biology in numerous domains — aircraft carry cargo thousands of times heavier than birds; transistors switch millions of times faster than neurons. Nanotechnology represents a frontier where superintelligent AIs could achieve capabilities incomprehensibly beyond current human reach.
-++}

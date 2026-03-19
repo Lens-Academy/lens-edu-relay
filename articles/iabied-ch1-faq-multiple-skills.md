@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852532463}@@---
+---
 title: "Doesn't intelligence consist of multiple skills?"
 source_url: https://ifanyonebuildsit.com/1/doesnt-intelligence-consist-of-multiple-skills
 author:
@@ -24,4 +24,4 @@ The book doesn't require precise comparisons between humans, AI systems, and oth
 - Eventually, AI will surpass humans in domains of immense practical importance
 - This trajectory matters more than definitional debates about "intelligence"
 
-The substantive concern centers on capability breadth and practical consequences, not philosophical definitions.++}
+The substantive concern centers on capability breadth and practical consequences, not philosophical definitions.

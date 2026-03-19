@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773863559738}@@---
+---
 title: "Isn't it important to race ahead so we can do alignment research?"
 source_url: https://ifanyonebuildsit.com/11/isnt-it-important-to-race-ahead-so-we-can-do-alignment-research
 author:
@@ -25,4 +25,4 @@ The authors contend: "We don't know which of those cases are happening for reaso
 
 Understanding these existing phenomena offers decades of research opportunities. The 2015 argument that "we can't solve alignment without studying AIs" held more weight then. Now, with sufficient data already available, that rationale weakens considerably.
 
-Corporate executives who genuinely built AI solely for alignment research have succeeded — ample material exists for study. Those continuing despite warning signs likely pursued other objectives despite earlier justifications.++}
+Corporate executives who genuinely built AI solely for alignment research have succeeded — ample material exists for study. Those continuing despite warning signs likely pursued other objectives despite earlier justifications.

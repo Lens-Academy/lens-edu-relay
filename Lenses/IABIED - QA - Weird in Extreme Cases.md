@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773859701535}@@---
+---
 id: 5a558859-8665-4328-b6e6-a53e5ae1a81a
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - Does the argument that "superintelligence lives permanently in extreme cases" change how you weight current edge-case failures?
 - How does the point about optimization seeking extremes connect to the barn-painter analogy from earlier?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

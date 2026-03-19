@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852589230}@@---
+---
 id: 01eaea0b-9f02-4b76-aef4-e5617addddf6
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - Does the human-chimpanzee comparison work well as an analogy for the potential human-AI gap, or are there important disanalogies?
 - If intelligence isn't scalar, could AI be superhuman in some dimensions while remaining subhuman in others that matter critically?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

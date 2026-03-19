@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852797124}@@---
+---
 title: "The Shallowness of Current AIs"
 source_url: https://ifanyonebuildsit.com/1/the-shallowness-of-current-ais
 author:
@@ -32,4 +32,4 @@ The resource acknowledges that modern AIs achieve notable feats—winning gold m
 
 The authors emphasize that this shallowness "is of sorts" to contemporary systems, but progress continues steadily. The critical question remaining concerns how long such limitations persist before they're overcome.
 
-Human capability gaps don't necessarily predict AI trajectory, given that "AIs radically and fundamentally differ from humans in many ways."++}
+Human capability gaps don't necessarily predict AI trajectory, given that "AIs radically and fundamentally differ from humans in many ways."

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773861431679}@@---
+---
 id: 77ae7904-9a9d-4c33-92f1-a2b229f91f8d
 tags:
   - lens
@@ -28,4 +28,3 @@ Discussion topics:
 - If curiosity isn't convergent, what other human traits that we consider "natural" might also be non-convergent?
 - The submarine analogy (submarines navigate water without swimming) suggests AIs will solve problems differently than humans. What are the safety implications of this?
 Ask what they found surprising or new.
-++}

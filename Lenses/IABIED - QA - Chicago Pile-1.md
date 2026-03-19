@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773863332623}@@---
+---
 id: ce0bfb7a-a07c-48a0-a998-f529e368d257
 tags:
   - lens
@@ -27,4 +27,4 @@ TLDR: Fermi safely managed the first nuclear chain reaction not through bureaucr
 Discussion topics:
 - What's the difference between "safety theater" and genuine safety grounded in understanding?
 - Do you think AI researchers today have the equivalent of Fermi's understanding of the systems they're building?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

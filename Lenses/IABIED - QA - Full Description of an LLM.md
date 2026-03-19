@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773853211477}@@---
+---
 id: 2b7687df-d219-4247-bdcf-7a2a1b0b3181
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - The scale comparisons (5,133 years to recite, half of Manhattan as a spreadsheet) — does this viscerally change how you think about AI opacity?
 - The model is smaller than a human brain but can already converse like a person. What does this suggest about what happens when models scale to brain-size?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

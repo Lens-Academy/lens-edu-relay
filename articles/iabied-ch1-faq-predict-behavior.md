@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852691049}@@---
+---
 title: "Isn't it impossible to predict the behavior of a superintelligence?"
 source_url: https://ifanyonebuildsit.com/1/isnt-it-impossible-to-predict-the-behavior-of-a-superintelligence
 author:
@@ -25,4 +25,4 @@ The key insight involves an epistemological distinction—when something is demo
 - This principle applies broadly to AI systems optimizing toward particular goals
 - Current AI systems showcase this pattern: we cannot predict exact behaviors but can anticipate goal-directed outcomes
 
-The authors observe this epistemological principle remains underdeveloped in computer science literature, suggesting academia has historically overlooked frameworks for understanding superhuman intelligence dynamics.++}
+The authors observe this epistemological principle remains underdeveloped in computer science literature, suggesting academia has historically overlooked frameworks for understanding superhuman intelligence dynamics.

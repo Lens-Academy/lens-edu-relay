@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773862661528}@@---
+---
 id: 9f2acee2-c3a8-4b6a-bb3d-f8d9e5deeff5
 tags:
   - lens
@@ -28,4 +28,3 @@ Discussion topics:
 - AI companies have already dismissed warning signs like AIs planning to steal their own weights. What does this institutional behavior pattern suggest about our ability to respond to genuine threats?
 - A superintelligent AI would "bide its time" strategically. How does this change the threat model compared to more obvious dangers?
 Ask what they found surprising or new.
-++}

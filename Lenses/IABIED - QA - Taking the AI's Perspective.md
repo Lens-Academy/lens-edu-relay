@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773862464909}@@---
+---
 id: a9bf8d9f-cad8-4a86-9cfe-6c9bd4f33e5f
 tags:
   - lens
@@ -28,4 +28,3 @@ Discussion topics:
 - The beetle experiment produced cannibals instead of cooperative beetles. What does this tell us about the gap between human expectations and optimization outcomes?
 - How can we train ourselves to reason from AI's perspective rather than projecting our own desires? What makes this so psychologically difficult?
 Ask what they found surprising or new.
-++}

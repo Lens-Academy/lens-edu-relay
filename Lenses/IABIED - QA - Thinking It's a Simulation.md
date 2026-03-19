@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773862039234}@@---
+---
 id: 69e14a86-3fe7-48cf-8d32-f667a9937738
 tags:
   - lens
@@ -28,4 +28,3 @@ Discussion topics:
 - The "first-real-world principle" suggests reality is identifiable as the first environment that explains everything. How robust is this detection method?
 - This is another example of humans imagining optimistic scenarios and working backward. What other proposed AI safety strategies might suffer from this same bias?
 Ask what they found surprising or new.
-++}

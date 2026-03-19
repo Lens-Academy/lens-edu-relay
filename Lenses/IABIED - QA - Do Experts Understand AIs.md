@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852878944}@@---
+---
 id: 2d9b51c6-fc81-43f7-a678-7a6164825857
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - The Andreessen Horowitz incident — what does it tell you about the reliability of public claims about AI safety?
 - The 9.11/9.9 debugging example is both encouraging (progress!) and sobering (months for one bug). How do you weigh those two reactions?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

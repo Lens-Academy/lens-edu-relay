@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773853044656}@@---
+---
 title: "How could an AI trained only on human data surpass humans?"
 source_url: https://ifanyonebuildsit.com/2/how-could-an-ai-trained-only-on-human-data-surpass-humans
 author:
@@ -34,4 +34,4 @@ The text uses a historical analogy: an AI trained only on Tycho Brahe's astronom
 
 ### Current Limitations and Emerging Capabilities
 
-A footnote acknowledges that as of early 2025, modern LLMs show signs of performing novel mathematical work and sometimes outperforming human mathematicians in specific domains.++}
+A footnote acknowledges that as of early 2025, modern LLMs show signs of performing novel mathematical work and sometimes outperforming human mathematicians in specific domains.

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773862939968}@@---
+---
 title: "A New Way to Discover Optical Illusions"
 source_url: https://ifanyonebuildsit.com/6/a-new-way-to-discover-optical-illusions
 author:
@@ -32,4 +32,3 @@ Early 2000s cone-activation research produced "impossible" color sensations — 
 ### Brain Wave Timing Studies
 
 Recent experiments reveal "rhythmic waves of brain activity cause us to see or not see complex images" that flash before eyes, demonstrating how perception alters through stimulus timing rather than sensory input modification alone.
-++}
