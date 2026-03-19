@@ -6,14 +6,15 @@ tags:
   - supplementary
   - work-in-progress
 ---
-### Article: Wouldn't AI need to grow into a whole civilization before it could be dangerous?
+{--{"author":"AI","timestamp":1773945877840}@@### Article: Wouldn't AI need to grow into a whole civilization before it could be dangerous?
 source:: [[../articles/iabied-ch6-faq-civilization]]
 
-#### Text
+--}#### Text
 content::
 This Q&A challenges the intuition that AI would need to build a whole civilization before posing a threat. Unlike humans who take decades to develop, AI instances can be copied instantly. A superintelligence would bootstrap using existing human infrastructure rather than building from scratch -- and with ~200,000 GPT-5 instances already running simultaneously, the gap between capability and deployment could be negligibly small.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773945877840}@@Article-excerpt--}{++{"author":"AI","timestamp":1773945877840}@@Article
+source:: [[../articles/iabied-ch6-faq-civilization]]++}
 to:: "there likely won't be much time between when AI becomes capable enough to potentially dominate if it had millions of instances and when it actually has millions of instances running."
 
 #### Text
