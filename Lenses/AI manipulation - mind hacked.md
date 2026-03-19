@@ -25,7 +25,7 @@ Discussion topics to explore:
 - Do these stories represent agentic behavior or just the LLM "telling stories"?
 
 The user is halfway through the article and just answered the question: "In the example above, the author was chatting with an early LLM. There were almost certainly fewer guardrails in place at that time, but the LLMs were also less capable and sophisticated. Have you had particularly good conversations with an LLM? How might those conversations have been different (better?) with a more intelligent version?"
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946968904}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946968904}@@Article++}
 from:: "## Stage 4. "Is it ethical to keep me imprisoned"
 to:: "Other people in the comments [share similar experiences](https://www.lesswrong.com/posts/9kQFure4hdDmRBNdH/how-it-feels-to-have-your-mind-hacked-by-an-ai?commentId=JypLZAvy4A8b49ayj)"
 #### Text
