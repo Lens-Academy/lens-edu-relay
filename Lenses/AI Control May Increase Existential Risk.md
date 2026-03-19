@@ -4,15 +4,16 @@ tldr: What if believing we can control an AI makes us more willing to build dang
 tags:
   - lens
 ---
-### Article: AI Control May Increase Existential Risk
+{--{"author":"AI","timestamp":1773946596000}@@### Article: AI Control May Increase Existential Risk
 source:: [[../articles/kulveit--ai-control-may-increase-existential-risk]]
 
-#### Text
+--}#### Text
 content::
 This critique warns that control might be a "deadly distraction." If we think we can control a model, we might be tempted to build it sooner and make it more powerful. This creates a "false sense of security." If the control protocols have even a tiny flaw, a superintelligent model will find it and escape.
 More than that, control research is "dual-use." To learn how to control an AI, you first have to learn how a model might try to escape. This could accidentally teach us how to build more dangerous, "escape-ready" models.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946596000}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946596000}@@Article
+source:: [[../articles/kulveit--ai-control-may-increase-existential-risk]]++}
 from:: "Consider two broad possibilities:"
 
 #### Text

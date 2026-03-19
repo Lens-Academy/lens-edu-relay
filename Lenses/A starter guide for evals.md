@@ -5,14 +5,15 @@ tags:
   - lens
 ---
 
-### Article: A starter guide for eval
+{--{"author":"AI","timestamp":1773946589944}@@### Article: A starter guide for eval
 source:: [[../articles/hobbhahn+etal-a-starter-guide-for-evals]]
 
-#### Text
+--}#### Text
 content::
 This perspective views evals as the most practical way to reduce uncertainty. By treating AI models as "black boxes" and testing their behavior: we can find lower bounds on their capabilities. Furthermore, our current measurement methods need serious improvement.  
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946589944}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946589944}@@Article
+source:: [[../articles/hobbhahn+etal-a-starter-guide-for-evals]]++}
 to:: "high-confidence statements, we should not rely on evals alone."
 
 #### Text

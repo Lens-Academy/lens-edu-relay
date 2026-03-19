@@ -4,14 +4,15 @@ tldr: What if the deepest AI safety problems can't be solved by experimenting on
 tags:
   - lens
 ---
-### Article: Agent foundations: not really math, not really science
+{--{"author":"AI","timestamp":1773946592618}@@### Article: Agent foundations: not really math, not really science
 source:: [[../articles/altair-agent-foundations-not-really-math-not-really-science]]
 
-#### Text
+--}#### Text
 content::
 This perspective argues that we need a basic science of alignment. Without Agent Foundations, we are just fumbling in the dark. We need to understand the deep structure of goals and agency to ensure that a superintelligent system doesn't develop catastrophic instrumental goals.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946592618}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946592618}@@Article
+source:: [[../articles/altair-agent-foundations-not-really-math-not-really-science]]++}
 
 #### Text
 content::
