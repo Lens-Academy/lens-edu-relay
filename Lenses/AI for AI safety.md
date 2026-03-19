@@ -18,7 +18,7 @@ from:: "*(Audio version* [*here*]"
 to:: "a few options in this respect, for the different security factors above."
 
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946852760}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946852760}@@Article++}
 from:: "2.1 A tale of two feedback loops"
 to:: "restraint enough to hold off on pushing the capability frontier when necessary)."
 
