@@ -7,14 +7,15 @@ tags:
   - work-in-progress
 ---
 
-### Article: IABIED - QA - Cold and Logical AIs
+{--{"author":"AI","timestamp":1773946062408}@@### Article: IABIED - QA - Cold and Logical AIs
 source:: [[../articles/iabied-ch2-faq-cold-logical]]
 
-#### Text
+--}#### Text
 content::
 This Q&A argues that AIs won't be limited to "cold logic" — just as airplanes fly without flapping wings, AI can achieve capabilities through completely different mechanisms than humans use. The assumption that computers must be "cold and logical" mirrors outdated vitalism about life requiring a special spark.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946062408}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946062408}@@Article
+source:: [[../articles/iabied-ch2-faq-cold-logical]]++}
 to:: "beyond human decryption capabilities"
 
 #### Text

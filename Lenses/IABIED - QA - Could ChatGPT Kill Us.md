@@ -7,14 +7,15 @@ tags:
   - work-in-progress
 ---
 
-### Article: IABIED - QA - Could ChatGPT Kill Us
+{--{"author":"AI","timestamp":1773946064658}@@### Article: IABIED - QA - Could ChatGPT Kill Us
 source:: [[../articles/iabied-intro-faq-chatgpt-kill-us]]
 
-#### Text
+--}#### Text
 content::
 This Q&A clarifies that the authors' concern is not about ChatGPT itself, but about the trajectory of AI development. They point to explicit statements from every major AI company CEO about building AGI and superintelligence, backed by hundreds of billions in capital investment.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946064658}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946064658}@@Article
+source:: [[../articles/iabied-intro-faq-chatgpt-kill-us]]++}
 to:: "justify an aggressive international response today"
 
 #### Text
