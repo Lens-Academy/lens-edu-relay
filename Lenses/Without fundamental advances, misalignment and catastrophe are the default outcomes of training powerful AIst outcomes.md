@@ -4,7 +4,7 @@ tldr: Many alignment proposals assume that iterating on current training with en
 tags :
   - lens
 ---
-### Article: Without fundamental advances, misalignment and catastrophe are the default outcomes of training powerful AIs
+{--{"author":"AI","timestamp":1773947356236}@@### Article: Without fundamental advances--}, misalignment and catastrophe are the default outcomes of training powerful AIs
 source:: [[../articles/gillen+barnett-without-fundamental-advances,-misalignment-and-catastrophe-are-the-default-outcomes-of-training-powerful-ai]]
 
 #### Text

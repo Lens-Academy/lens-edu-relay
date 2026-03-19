@@ -8,9 +8,9 @@ tags:
 %% hello world %%
 
 ### Article {>>{"author":"Luc","timestamp":1772447436480}@@And here<<}
-source:: [[../articles/karnofsky-most-important-century]]
+{--{"author":"AI","timestamp":1773947357112}@@source:: [[../articles/karnofsky-most-important-century]]
 %% hi there %%
-#### Text
+--}#### Text
 content:: %% and here? %%
 %% Here is an Obsidian comment %%
 The relationship that biologists have with DNA is pretty much the relationship that AI engineers have with the numbers inside an AI. Indeed, biologists know far more about how DNA turns into biochemistry and adult traits than engineers understand about how the numbers inside an AI yield cogent conversation and useful behavior. Biologists have been at the job for decades longer. %% blublub %%
