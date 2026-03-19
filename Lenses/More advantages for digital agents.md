@@ -10,7 +10,8 @@ source:: [[../articles/bostrom-sources-of-advantage-for-digital-agents-over-biol
 content::
 And still we are only scratching the tip of the iceberg. Perhaps you'll want to sit down and think of a few more advantages you could imagine an artificial mind having over us yourself, before you read the following non-exhaustive list.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773947100798}@@Article-excerpt--}{++{"author":"AI","timestamp":1773947100798}@@Article
+source:: [[../articles/bostrom-sources-of-advantage-for-digital-agents-over-biological-agents]]++}
 
 #### Text
 content::

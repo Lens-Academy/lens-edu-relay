@@ -12,7 +12,8 @@ source:: [[../articles/karnofsky-forecasting-transformative-ai-part-1-what-kind-
 content::
 `<introductory text>`
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773947102647}@@Article-excerpt--}{++{"author":"AI","timestamp":1773947102647}@@Article
+source:: [[../articles/karnofsky-forecasting-transformative-ai-part-1-what-kind-of-ai|karnofsky-forecasting-transformative-ai-part-1-what-kind-of-ai]]++}
 to:: "`<an exact quote from the article where the exerpt should stop>`"
 
 #### Text
