@@ -4,15 +4,16 @@ tldr: There may be a window where AI is smart enough to help with safety researc
 tags:
   - lens
 ---
-### Article: AI for AI safety
+{--{"author":"AI","timestamp":1773946839575}@@### Article: AI for AI safety
 source:: [[../articles/carlsmith-ai-for-ai-safety]]
 
-#### Text
+--}#### Text
 content::
 This post argues there's a temporary "AI for AI safety" sweet spot. This is a period where AI is smart enough to help with safety but not yet smart enough to be uncontrollable. The theory of change relies on differential progress (i.e. safety progress moves faster than capabilities progress). We must use AI to strengthen safety factors. This should happen before the models reach a level of superintelligence.
 
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946839575}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946839575}@@Article
+source:: [[../articles/carlsmith-ai-for-ai-safety]]++}
 from:: "*(Audio version* [*here*]"
 to:: "a few options in this respect, for the different security factors above."
 
