@@ -3,10 +3,10 @@ id: b24e0198-8fa8-49cd-b7c6-396bc5f847be
 tags:
   - lens
 ---
-### Article: 1960, The Year The Singularity Was Cancelled
+{--{"author":"AI","timestamp":1773946552477}@@### Article: 1960, The Year The Singularity Was Cancelled
 source:: [[../articles/1960, The Year The Singularity Was Cancelled]]
 
-#### Text
+--}#### Text
 content::
 There is no consensus in the field regarding exactly when AGI will emerge or which specific changes compared to today's systems will prove decisive. No one knows it. However, this does not mean that we cannot think about the future systematically.
 
