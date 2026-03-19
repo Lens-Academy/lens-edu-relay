@@ -15,7 +15,8 @@ The main idea: catastrophic outcomes don't require malicious intent. They can ar
 
 The question this text addresses is: if we cannot confidently predict the exact shape of the future, what is a reasonable baseline hypothesis to adopt regarding powerful AI systems?
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946915713}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946915713}@@Article
+source:: [[../articles/Duncan, Deadly By Default]]++}
 
 #### Text
 content::

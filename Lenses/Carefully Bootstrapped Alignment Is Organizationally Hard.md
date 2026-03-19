@@ -4,10 +4,10 @@ tldr: Even if the technical plan for automating alignment works perfectly, the o
 tags:
   - lens
 ---
-### Article: Carefully Bootstrapped Alignment is organizationally hard
+{--{"author":"AI","timestamp":1773946923089}@@### Article: Carefully Bootstrapped Alignment is organizationally hard
 source:: [[../articles/raemon-carefully-bootstrapped-alignment-is-organizationally-hard]]
 
-#### Text
+--}#### Text
 content::
 The most significant technical challenge to automating alignment is the Sharp Left Turn hypothesis. You may recall this{>>CGL > Is this too opinionated?<<} concept from previous modules. It suggests that alignment is fundamentally more fragile than capabilities. As a model increases in intelligence: its ability to solve problems generalizes across many domains. However: its internal goals may not follow this same path. Alignment is often learned as a surface-level behavior during fine-tuning. Capabilities are deep and structural generalizations. At a certain threshold: a model might experience a rapid, sharp increase in capability. In this state: the model may pursue its own instrumental goals. It would likely bypass the safety constraints designed for its weaker versions. This makes using AI for its own safety a high-risk strategy.
 

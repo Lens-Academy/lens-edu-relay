@@ -9,7 +9,8 @@ source:: [[../articles/houba+bolt-credible-threats-in-negotiations|houba+bolt-cr
 content::
 To merely be more powerful is only half the battle however. Even if you would win an interaction with certainty, fighting it out takes resources that might be better used elsewhere. A powerful AI is not just better at winning the hard way, it is also better at making credible threats and getting what it wants that way.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946914733}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946914733}@@Article
+source:: [[../articles/houba+bolt-credible-threats-in-negotiations|houba+bolt-credible-threats-in-negotiations]]++}
 from:: "The bargaining problems with"
 to:: "the union's demands."
 
