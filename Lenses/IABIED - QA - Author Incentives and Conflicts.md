@@ -7,14 +7,15 @@ tags:
   - work-in-progress
 ---
 
-### Article: IABIED - QA - Author Incentives and Conflicts
+{--{"author":"AI","timestamp":1773945993312}@@### Article: IABIED - QA - Author Incentives and Conflicts
 source:: [[../articles/iabied-intro-faq-author-incentives]]
 
-#### Text
+--}#### Text
 content::
 This Q&A addresses the authors' potential conflicts of interest. They disclose that all royalties go to MIRI, they would prefer to be wrong, and they have changed their minds before — MIRI originally aimed to build superintelligence before pivoting to safety research.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773945993312}@@Article-excerpt--}{++{"author":"AI","timestamp":1773945993312}@@Article
+source:: [[../articles/iabied-intro-faq-author-incentives]]++}
 to:: "evidence to potentially change minds"
 
 #### Text
