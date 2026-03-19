@@ -7,14 +7,15 @@ tags:
   - work-in-progress
 ---
 
-### Article: IABIED - QA - Machines Fundamentally Uncreative
+{--{"author":"AI","timestamp":1773946300379}@@### Article: IABIED - QA - Machines Fundamentally Uncreative
 source:: [[../articles/iabied-ch1-faq-uncreative]]
 
-#### Text
+--}#### Text
 content::
 This Q&A argues against the hope that machines will have compensating fatal flaws to balance their advantages. Using the dodo analogy — dodos might have imagined human invaders would have weaknesses too — the authors argue there will be no "amazing plot twist" giving humans a compensating advantage.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946300379}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946300379}@@Article
+source:: [[../articles/iabied-ch1-faq-uncreative]]++}
 to:: "built-in limitations to balance the equation"
 
 #### Text

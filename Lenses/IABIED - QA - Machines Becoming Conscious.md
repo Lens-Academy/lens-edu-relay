@@ -7,14 +7,15 @@ tags:
   - work-in-progress
 ---
 
-### Article: IABIED - QA - Machines Becoming Conscious
+{--{"author":"AI","timestamp":1773946298133}@@### Article: IABIED - QA - Machines Becoming Conscious
 source:: [[../articles/iabied-ch1-faq-machines-conscious]]
 
-#### Text
+--}#### Text
 content::
 This Q&A separates the question of machine consciousness from machine intelligence. The authors argue that consciousness (subjective experience) is irrelevant to the existential risk question — just as robot arms don't need blood to function. If an AI is killing us as a side effect of its goals, asking "But is it conscious?" is academic.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946298133}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946298133}@@Article
+source:: [[../articles/iabied-ch1-faq-machines-conscious]]++}
 to:: "regardless of whether that system experiences consciousness"
 
 #### Text
