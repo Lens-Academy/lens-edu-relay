@@ -7,14 +7,15 @@ tags:
   - work-in-progress
 ---
 
-### Article: IABIED - QA - Panicking and Overreacting
+{--{"author":"AI","timestamp":1773946367805}@@### Article: IABIED - QA - Panicking and Overreacting
 source:: [[../articles/iabied-intro-faq-panicking-overreacting]]
 
-#### Text
+--}#### Text
 content::
 This Q&A addresses the common dismissal that people are always overreacting to new technologies. The authors acknowledge this tendency while pointing to historical cases — Nazi Germany, nuclear weapons, the ozone layer — where warnings about genuine dangers proved correct and action was needed.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946367805}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946367805}@@Article
+source:: [[../articles/iabied-intro-faq-panicking-overreacting]]++}
 to:: "you have to actually look at the details of each case"
 
 #### Text
