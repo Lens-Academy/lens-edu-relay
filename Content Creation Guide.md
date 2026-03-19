@@ -225,7 +225,7 @@ source:: ![[../Learning Outcomes/Second Outcome]]{--{"author":"AI","timestamp":1
 # Uncategorized:--}
 {>>A place where we can store lenses that are not yet attached to a learning outcome<<}
 
-## Lens:
+{--{"author":"AI","timestamp":1773948639437}@@##--}{++{"author":"AI","timestamp":1773948639437}@@#++} Lens:
 optional:: true
 source:: ![[../Lenses/Optional Extra Lens]]
 ```
