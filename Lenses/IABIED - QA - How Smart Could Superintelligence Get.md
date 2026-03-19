@@ -7,14 +7,15 @@ tags:
   - work-in-progress
 ---
 
-### Article: IABIED - QA - How Smart Could Superintelligence Get
+{--{"author":"AI","timestamp":1773946160103}@@### Article: IABIED - QA - How Smart Could Superintelligence Get
 source:: [[../articles/iabied-ch1-faq-how-smart]]
 
-#### Text
+--}#### Text
 content::
 This Q&A explores the upper bounds of superintelligence. Physics permits machines to think thousands to billions of times faster than humans, replicate themselves, and share experiences. Even small advantages compound rapidly — historical examples show how modest technological edges enable dominant positions.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946160103}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946160103}@@Article
+source:: [[../articles/iabied-ch1-faq-how-smart]]++}
 to:: "anything but small in potential practical advantage"
 
 #### Text

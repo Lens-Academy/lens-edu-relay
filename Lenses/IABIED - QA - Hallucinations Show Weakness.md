@@ -7,14 +7,15 @@ tags:
   - work-in-progress
 ---
 
-### Article: IABIED - QA - Hallucinations Show Weakness
+{--{"author":"AI","timestamp":1773946155285}@@### Article: IABIED - QA - Hallucinations Show Weakness
 source:: [[../articles/iabied-ch2-faq-hallucinations]]
 
-#### Text
+--}#### Text
 content::
 This Q&A examines what hallucinations reveal about AI. They show genuine current limitations but also illustrate a deeper misalignment — AIs hallucinate because fabricating plausible text is more consistent with training objectives than admitting ignorance. Fixing hallucinations won't fix alignment.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946155285}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946155285}@@Article
+source:: [[../articles/iabied-ch2-faq-hallucinations]]++}
 to:: "insufficient for ensuring safe AI development"
 
 #### Text

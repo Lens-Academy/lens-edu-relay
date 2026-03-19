@@ -6,14 +6,15 @@ tags:
   - supplementary
   - work-in-progress
 ---
-### Article: Isn't it important to race ahead because of 'hardware overhang'?
+{--{"author":"AI","timestamp":1773946157929}@@### Article: Isn't it important to race ahead because of 'hardware overhang'?
 source:: [[../articles/iabied-ch11-faq-hardware-overhang]]
 
-#### Text
+--}#### Text
 content::
 This Q&A addresses the argument that racing ahead in AI prevents a dangerous "hardware overhang." The authors argue this is suicidal because intelligence is subject to threshold effects, and growing more AIs faster does nothing to solve the core alignment problem. They note how AI executives latch onto such arguments to justify racing ahead.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946157929}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946157929}@@Article
+source:: [[../articles/iabied-ch11-faq-hardware-overhang]]++}
 to:: "We think this is a decent case study in how executives at AI companies will latch onto whatever argument they think might fly to excuse racing ahead."
 
 #### Text

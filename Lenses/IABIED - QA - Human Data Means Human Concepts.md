@@ -6,14 +6,15 @@ tags:
   - supplementary
   - work-in-progress
 ---
-### Article: If AIs are trained on human data, doesn't that make them likelier to care about human concepts?
+{--{"author":"AI","timestamp":1773946163023}@@### Article: If AIs are trained on human data, doesn't that make them likelier to care about human concepts?
 source:: [[../articles/iabied-ch5-faq-human-data-care]]
 
-#### Text
+--}#### Text
 content::
 This Q&A addresses whether training on human data would make AIs care about human values. The answer is "yes, but this doesn't help much" -- knowing about concepts like love and kindness is different from being motivated by them. You can't just jumble together English-language words and get a good set of drives for a superintelligence.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946163023}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946163023}@@Article
+source:: [[../articles/iabied-ch5-faq-human-data-care]]++}
 to:: "Training data alone cannot ensure an AI cares about humans in ways that matter for our survival."
 
 #### Text
