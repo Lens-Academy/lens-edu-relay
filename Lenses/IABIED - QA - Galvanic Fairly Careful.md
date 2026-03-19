@@ -7,14 +7,15 @@ tags:
   - work-in-progress
 ---
 
-### Article: Why is Galvanic depicted as being fairly careful?
+{--{"author":"AI","timestamp":1773946124370}@@### Article: Why is Galvanic depicted as being fairly careful?
 source:: [[../articles/iabied-ptii-faq-galvanic-careful]]
 
-#### Text
+--}#### Text
 content::
 This Q&A addresses a deliberate narrative choice: Galvanic is portrayed as reasonably cautious -- using AI supervisors, honeypots, and other safeguards -- so that Sable's escape can't be dismissed as mere corporate negligence. The authors argue this actually overstates current industry caution.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946124370}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946124370}@@Article
+source:: [[../articles/iabied-ptii-faq-galvanic-careful]]++}
 to:: "if three responsible companies avoid building superintelligence but a fourth irresponsible company rushes ahead, then superintelligence gets built in that fourth lab"
 
 #### Text

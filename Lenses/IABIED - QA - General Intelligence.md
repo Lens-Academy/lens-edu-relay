@@ -7,14 +7,15 @@ tags:
   - work-in-progress
 ---
 
-### Article: IABIED - QA - General Intelligence
+{--{"author":"AI","timestamp":1773946129555}@@### Article: IABIED - QA - General Intelligence
 source:: [[../articles/iabied-ch1-faq-general-intelligence]]
 
-#### Text
+--}#### Text
 content::
 This Q&A argues that general intelligence is a meaningful concept by showing it exists on a spectrum. Deep Blue could only play chess; AlphaGo could play chess, Go, and Atari. Humans go further, building metal shells to fly faster than falcons and dive deeper than whales. Generality means having mental gears reusable across many scenarios.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946129555}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946129555}@@Article
+source:: [[../articles/iabied-ch1-faq-general-intelligence]]++}
 to:: "forest fires burn regardless of chemistry knowledge"
 
 #### Text
