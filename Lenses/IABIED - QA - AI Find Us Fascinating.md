@@ -6,14 +6,15 @@ tags:
   - supplementary
   - work-in-progress
 ---
-### Article: Won't AI find us fascinating or historically important?
+{--{"author":"AI","timestamp":1773945925176}@@### Article: Won't AI find us fascinating or historically important?
 source:: [[../articles/iabied-ch5-faq-fascinating]]
 
-#### Text
+--}#### Text
 content::
 This Q&A examines whether superintelligent AI might preserve humanity out of fascination or a sense of historical importance. The authors argue that fascination is a human emotion AI needn't share, and even if it did value us as historical artifacts, "preservation" might look more like storing us in amber than enabling human flourishing.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773945925176}@@Article-excerpt--}{++{"author":"AI","timestamp":1773945925176}@@Article
+source:: [[../articles/iabied-ch5-faq-fascinating]]++}
 to:: "absent genuine alignment with human values, no such reasons are likely to exist."
 
 #### Text

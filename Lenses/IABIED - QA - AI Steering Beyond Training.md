@@ -7,14 +7,15 @@ tags:
   - work-in-progress
 ---
 
-### Article: Why would an AI steer toward anything other than what it was trained to steer toward?
+{--{"author":"AI","timestamp":1773945932939}@@### Article: Why would an AI steer toward anything other than what it was trained to steer toward?
 source:: [[../articles/iabied-ch4-faq-steer-other]]
 
-#### Text
+--}#### Text
 content::
 Chapter 4 argues that training doesn't reliably produce the goals we intend. This Q&A tackles the natural objection head-on: if we train an AI to do X, why wouldn't it just do X? The answer draws on the "barn painter" analogy — many different internal drive systems can produce identical surface behavior during training, but diverge wildly once conditions change.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773945932939}@@Article-excerpt--}{++{"author":"AI","timestamp":1773945932939}@@Article
+source:: [[../articles/iabied-ch4-faq-steer-other]]++}
 to:: "weird AI behaviors visible in edge cases may foreshadow what happens when AIs gain more control over their environments"
 
 #### Text
