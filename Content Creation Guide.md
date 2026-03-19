@@ -130,15 +130,16 @@ Every Lens needs:
 ```markdown
 ---
 id: <generate a UUID>
----
+---{--{"author":"AI","timestamp":1773948598852}@@
 ### Article: `Article Title`
-source:: [[../articles/article-filename]]
+source:: [[../articles/article-filename]]--}
 
 #### Text
 content::
 `<introductory text — context for the student before they read>`
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773948598852}@@Article-excerpt--}{++{"author":"AI","timestamp":1773948598852}@@Article
+source:: [[../articles/article-filename]]++}
 to:: "`<exact quote where the excerpt should stop>`"
 
 #### Text
@@ -160,17 +161,17 @@ Ask what they found surprising or new. Check if they can explain `<key concept>`
 `<context for the chatbot about what prompt the user is responding to>`
 ```
 
-**Header section**: Just the `id` (UUID)
+**Header section**: Just the `id` (UUID){--{"author":"AI","timestamp":1773948598852}@@
 
 **Article section**:
 - Title of the article
-- `source::` links to the article file
+- `source::` links to the article file--}
 
 **Text sections**:
 - Introduction before the reading
 - Prompt after the reading (how to engage with the chatbot)
 
-**Article-excerpt**: Where to stop showing the article (using an exact quote)
+{--{"author":"AI","timestamp":1773948598852}@@**Article-excerpt**: Where--}{++{"author":"AI","timestamp":1773948598852}@@**Article segment**: Links++} to {--{"author":"AI","timestamp":1773948598852}@@stop showing--}{++{"author":"AI","timestamp":1773948598852}@@the source article; `from::`/`to::` anchors define++} the {--{"author":"AI","timestamp":1773948598852}@@article (using an exact quote)--}{++{"author":"AI","timestamp":1773948598852}@@excerpt. Subsequent `#### Article` segments inherit the source.++}
 
 **Chat section**: Instructions for the AI tutor
 - TLDR summary of the reading
