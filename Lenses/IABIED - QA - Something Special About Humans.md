@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852738933}@@---
+---
 id: 568cb83e-08e2-47ec-8993-38384de56124
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - Does it matter to you whether AI achieves its capabilities through the same mechanisms as humans, or only that it achieves them?
 - The authors say human exceptionalism debates "distract" from real concerns — do you agree, or do you think something important is lost by setting that question aside?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

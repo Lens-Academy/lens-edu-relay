@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773862369808}@@---
+---
 id: 92fd9aaa-b529-49ff-a11f-60b4f5b1ca57
 tags:
   - lens
@@ -28,4 +28,3 @@ Discussion topics:
 - Why might people conflate consciousness with safety? Does the intuition that "if it's conscious, it would understand us" hold up?
 - If AI consciousness is unlikely, does this change how you think about the moral status of AI systems?
 Ask what they found surprising or new.
-++}

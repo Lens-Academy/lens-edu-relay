@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773862839647}@@---
+---
 title: "Won't AIs be limited by their ability to design and run experiments?"
 source_url: https://ifanyonebuildsit.com/6/wont-ais-be-limited-by-their-ability-to-design-and-run-experiments
 author:
@@ -35,4 +35,3 @@ Einstein's relativity theory took 8 years for empirical validation, yet didn't b
 ### Conclusion
 
 Experimental constraints exist but aren't as limiting as intuition suggests. A superintelligence would actively identify and work around bottlenecks — that's fundamentally what intelligence accomplishes.
-++}

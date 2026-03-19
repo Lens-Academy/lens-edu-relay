@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852567289}@@---
+---
 title: "Is 'general intelligence' a meaningful concept?"
 source_url: https://ifanyonebuildsit.com/1/is-general-intelligence-a-meaningful-concept
 author:
@@ -30,4 +30,4 @@ The authors acknowledge we lack "a mature formal theory of generality," yet argu
 
 ### Practical Implications
 
-The piece emphasizes that lacking precise definitions doesn't prevent real consequences. An undefined threat remains dangerous—much like "forest fires burn regardless of chemistry knowledge."++}
+The piece emphasizes that lacking precise definitions doesn't prevent real consequences. An undefined threat remains dangerous—much like "forest fires burn regardless of chemistry knowledge."

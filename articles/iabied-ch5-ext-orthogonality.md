@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773862599844}@@---
+---
 title: "Orthogonality: AIs Can Have (Almost) Any Goal"
 source_url: https://ifanyonebuildsit.com/5/orthogonality-ais-can-have-almost-any-goal
 author:
@@ -35,4 +35,3 @@ This thesis directly challenges intuitions that advanced AIs would naturally ado
 - Pursues objectives completely misaligned with human flourishing
 
 The orthogonality thesis doesn't predict what goals AIs will have — only that their objectives needn't correlate with their intelligence level.
-++}

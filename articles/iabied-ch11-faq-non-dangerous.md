@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773863645956}@@---
+---
 title: "What if AI companies only deploy their AIs for non-dangerous actions?"
 source_url: https://ifanyonebuildsit.com/11/what-if-ai-companies-only-deploy-their-ais-for-non-dangerous-actions
 author:
@@ -37,4 +37,4 @@ Many proposals we've seen for leveraging AI advances to save the world have the 
 
 The idea of superhumanly persuasive AIs falls into this category. AIs that are able to do AI alignment research fall in the same category, as we discuss in the book. AIs that develop powerful new technologies that help with AI nonproliferation are another example, because it would be hard to reliably tell whether an AI's design blueprints for radical new technologies are safe to implement.
 
-We haven't been able to find any narrow-but-effective plans, and we suspect it's not an accident that most narrow domains don't provide an opportunity for world-saving results.++}
+We haven't been able to find any narrow-but-effective plans, and we suspect it's not an accident that most narrow domains don't provide an opportunity for world-saving results.

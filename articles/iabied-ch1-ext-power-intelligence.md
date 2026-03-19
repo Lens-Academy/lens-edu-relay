@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852824114}@@---
+---
 title: "Appreciating the Power of Intelligence"
 source_url: https://ifanyonebuildsit.com/1/appreciating-the-power-of-intelligence
 author:
@@ -34,4 +34,4 @@ Generalizing this concept: an entity is epistemically efficient relative to anot
 
 Magnus Carlsen exhibits instrumental efficiency relative to most players—even when losing to stronger AIs like Stockfish, casual players shouldn't assume they could find better moves.
 
-This concept remains absent from popular AI discussions, where people propose outsmarting superintelligences using strategies visible to human adversaries. The authors stress: "If you can't respect the power of intelligence, you'll badly misunderstand what it means for humanity to build a superintelligence."++}
+This concept remains absent from popular AI discussions, where people propose outsmarting superintelligences using strategies visible to human adversaries. The authors stress: "If you can't respect the power of intelligence, you'll badly misunderstand what it means for humanity to build a superintelligence."

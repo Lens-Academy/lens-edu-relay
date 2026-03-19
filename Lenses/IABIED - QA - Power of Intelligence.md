@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852832552}@@---
+---
 id: 85666bdb-67ba-49b1-a880-5cd3f07f5d85
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - The Ultron example is striking — GPT-4o immediately found a better plan than a movie superintelligence. What does this say about our intuitions?
 - The concept of "relative efficiency" implies we couldn't even tell if a superintelligence was making a mistake. How does that change the control problem?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

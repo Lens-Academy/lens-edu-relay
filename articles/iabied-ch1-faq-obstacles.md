@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852673660}@@---
+---
 title: "But aren't there big obstacles to reaching superintelligence?"
 source_url: https://ifanyonebuildsit.com/1/but-arent-there-big-obstacles-to-reaching-superintelligence
 author:
@@ -34,4 +34,4 @@ Private AI investment has increased over twentyfold since 2012. Major conference
 
 Without understanding intelligence's fundamental nature, predicting when major breakthroughs occur remains impossible. The next architectural insight could arrive soon or require years of development.
 
-**Conclusion**: Obstacles likely exist, but the field's track record suggests researchers will probably overcome them unless humanity intervenes through policy.++}
+**Conclusion**: Obstacles likely exist, but the field's track record suggests researchers will probably overcome them unless humanity intervenes through policy.

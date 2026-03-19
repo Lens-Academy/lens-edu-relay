@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773863571993}@@---
+---
 id: 852658c6-e827-4bbf-a3e1-df3a51d6e43d
 tags:
   - lens
@@ -27,4 +27,4 @@ TLDR: The authors reject the current AI paradigm entirely and argue there's alre
 Discussion topics:
 - Do you find it convincing that enough material already exists to do alignment research without building more powerful systems?
 - What do you make of the argument that the entire current AI paradigm is wrong for alignment?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

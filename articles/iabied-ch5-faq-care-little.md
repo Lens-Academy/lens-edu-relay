@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773861890233}@@---
+---
 title: "Won't AIs care at least a little about humans?"
 source_url: https://ifanyonebuildsit.com/5/wont-ais-care-at-least-a-little-about-humans
 author:
@@ -37,4 +37,3 @@ Like human environmental preferences (which would edit nature's cruelties if tec
 ### Conclusion
 
 Without the AI caring about humans through precisely the right mechanisms, humanity faces extinction. The authors note this requires either solving the philosophy of morality or developing "alchemy, not science."
-++}

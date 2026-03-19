@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773862778338}@@---
+---
 title: "Can we enhance humans so they keep pace with AI?"
 source_url: https://ifanyonebuildsit.com/6/can-we-enhance-humans-so-they-keep-pace-with-ai
 author:
@@ -28,4 +28,3 @@ Even if humans achieved significant augmentation, the speed differential remains
 ### A Qualified Exception
 
 Despite this pessimistic assessment, "smarter humans might nevertheless be able to help humanity find a way out of this mess" through policy and governance approaches discussed in Chapter 13.
-++}

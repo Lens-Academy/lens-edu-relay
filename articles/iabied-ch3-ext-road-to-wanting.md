@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773859521074}@@---
+---
 title: "The Road to Wanting"
 source_url: https://ifanyonebuildsit.com/3/the-road-to-wanting
 author:
@@ -176,4 +176,4 @@ This leads to Chapter 4: *You Don't Get What You Train For.*
 
 ### Footnotes
 
-**[1] Skipping the investigation:** The anecdote spread among computer scientists before the internet derived from later retellings omitting Fabre's caveat about wasp colony behavioral variation differences.++}
+**[1] Skipping the investigation:** The anecdote spread among computer scientists before the internet derived from later retellings omitting Fabre's caveat about wasp colony behavioral variation differences.

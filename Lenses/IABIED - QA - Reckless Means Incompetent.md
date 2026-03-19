@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773863488437}@@---
+---
 id: 568cb83e-08e2-47ec-8993-38384de56124
 tags:
   - lens
@@ -27,4 +27,4 @@ TLDR: Corner-cutting is often competitive, not incompetent — Volkswagen and Bo
 Discussion topics:
 - Does the Volkswagen/Boeing analogy change how you think about the relationship between recklessness and competence?
 - What do you make of the critique of even the most safety-conscious AI companies?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

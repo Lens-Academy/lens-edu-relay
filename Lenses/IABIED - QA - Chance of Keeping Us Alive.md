@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773861935116}@@---
+---
 id: 61065d0e-458f-4523-afbc-ccfd48375a9c
 tags:
   - lens
@@ -28,4 +28,3 @@ Discussion topics:
 - The poison analogy reframes the debate from "is there any chance?" to "should we take the risk?" How does this change the conversation?
 - The authors distinguish between absolute certainty and overwhelming likelihood. Why is this distinction important for policy discussions about AI?
 Ask what they found surprising or new.
-++}

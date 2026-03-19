@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852363088}@@---
+---
 id: 9f2acee2-c3a8-4b6a-bb3d-f8d9e5deeff5
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - Does the pattern of forecasters consistently being too conservative change how much weight you put on current timeline estimates?
 - Is "we must act under uncertainty" a compelling argument, or does it prove too much (could justify action against any speculative risk)?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

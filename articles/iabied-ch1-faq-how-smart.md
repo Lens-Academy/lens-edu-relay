@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852653179}@@---
+---
 title: "How smart could a superintelligence get?"
 source_url: https://ifanyonebuildsit.com/1/how-smart-could-a-superintelligence-get
 author:
@@ -28,4 +28,4 @@ Beyond processing speed, artificial systems could benefit from enhanced cognitiv
 
 The document emphasizes that superior intelligence translates into practical capability. Intelligence differences have historically enabled groups to achieve decisive advantages in "science, technology, and strategic planning."
 
-The resource presents superintelligence as substantially more capable than human minds across multiple dimensions—speed, quality, durability, and replicability—making it "anything but small" in potential practical advantage.++}
+The resource presents superintelligence as substantially more capable than human minds across multiple dimensions—speed, quality, durability, and replicability—making it "anything but small" in potential practical advantage.

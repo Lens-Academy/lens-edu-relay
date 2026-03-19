@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773861514447}@@---
+---
 id: 8cb088a9-a296-4403-95a5-278c13ec3983
 tags:
   - lens
@@ -28,4 +28,3 @@ Discussion topics:
 - The authors warn against starting with desired outcomes and retrofitting explanations. How does this "perspective problem" affect common arguments about AI keeping humans around?
 - If AI-human teams are already underperforming AI alone in some domains, what does this trajectory suggest?
 Ask what they found surprising or new.
-++}

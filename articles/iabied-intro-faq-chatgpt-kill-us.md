@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852315637}@@---
+---
 title: "Are you suggesting that ChatGPT could kill us all?"
 source_url: https://ifanyonebuildsit.com/intro/are-you-suggesting-that-chatgpt-could-kill-us-all
 author:
@@ -40,4 +40,4 @@ None of this means that smarter-than-human AI is just around the corner. But it 
 
 Our own view, after decades of trying to better understand this issue and think seriously about future developments, is that there isn't a principled barrier to researchers achieving a breakthrough tomorrow and succeeding in building smarter-than-human AI.
 
-We don't know whether that threshold will in fact be hit in the near future, or whether it's still a decade away, etc. History shows that timing new technologies is a lot harder than predicting that a technology will be developed at all. But we believe that the evidence of danger is vastly greater than is needed to justify an aggressive international response today.++}
+We don't know whether that threshold will in fact be hit in the near future, or whether it's still a decade away, etc. History shows that timing new technologies is a lot harder than predicting that a technology will be developed at all. But we believe that the evidence of danger is vastly greater than is needed to justify an aggressive international response today.

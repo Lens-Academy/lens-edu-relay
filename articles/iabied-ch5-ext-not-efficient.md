@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773862560125}@@---
+---
 title: "Humans Are Almost Never the Most Efficient Solution"
 source_url: https://ifanyonebuildsit.com/5/humans-are-almost-never-the-most-efficient-solution
 author:
@@ -26,4 +26,3 @@ Even supposing AIs prize something like symmetry or truth — why would current 
 ### The Central Mistake
 
 The central mistake is starting with pleasant outcomes and inventing post-hoc stories about why AIs might want them, rather than asking: "What does this intelligence actually want, and what's the cheapest way to get more of that?"
-++}

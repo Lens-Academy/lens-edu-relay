@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852431715}@@---
+---
 title: "Isn't this AI stuff just science fiction?"
 source_url: https://ifanyonebuildsit.com/intro/isnt-this-ai-stuff-just-science-fiction
 author:
@@ -44,4 +44,4 @@ These developments seemingly cannot occur without upending the existing world or
 
 Technologies like AI mean the future may arrive soon with hard-hitting effects. The Industrial Revolution transformed the world very quickly by pre-modern standards. New world-changing processes reshape things very quickly measured by old standards.
 
-Humanity approaches another radical transformation where machines reshape the world at machine speeds, vastly outstripping biological speeds.++}
+Humanity approaches another radical transformation where machines reshape the world at machine speeds, vastly outstripping biological speeds.

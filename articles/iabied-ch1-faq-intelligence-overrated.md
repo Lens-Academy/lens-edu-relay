@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852549449}@@---
+---
 title: "Isn't intelligence overrated?"
 source_url: https://ifanyonebuildsit.com/1/isnt-intelligence-overrated
 author:
@@ -28,4 +28,4 @@ The authors use "artificial intelligence" to mean **"artificial everything-that-
 
 While many successful humans are charismatic politicians or pop stars rather than intellectuals, these abilities still derive from brain processes. The underlying cognitive architecture enabling human achievement—whether expressed as scientific insight or social influence—represents the phenomenon the authors call intelligence.
 
-The distinction isn't about narrow academic capability, but about the vast gap between human problem-solving ability and that of other animals, which enables civilization-building and technological advancement.++}
+The distinction isn't about narrow academic capability, but about the vast gap between human problem-solving ability and that of other animals, which enables civilization-building and technological advancement.

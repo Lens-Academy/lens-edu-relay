@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773862120809}@@---
+---
 id: 6766121a-d208-42ad-a9cf-0c71797c065e
 tags:
   - lens
@@ -28,4 +28,3 @@ Discussion topics:
 - The analogy to human pit mines and satellites is powerful -- we exploit domains we have no evolved drives for. How does this undermine the digital/physical distinction?
 - If AI needs physical resources for computation, what does this imply about the idea that AI and humans could coexist by occupying different "realms"?
 Ask what they found surprising or new.
-++}

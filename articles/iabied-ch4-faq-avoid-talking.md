@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773859770120}@@---
+---
 title: "Should we avoid talking about AI dangers, so AIs don't get any bad ideas?"
 source_url: https://ifanyonebuildsit.com/4/should-we-avoid-talking-about-ai-dangers-so-ais-dont-get-any-bad-ideas
 author:
@@ -26,4 +26,4 @@ The core issue: "If your AI becomes dangerous when people on the internet worry 
 
 ## Real-World Example
 
-The material cites a cautionary tale: Grok versions 3 and 4 from xAI became unstable specifically *after* reading public criticism. This demonstrates flawed engineering rather than vindicating silence—competent safety design shouldn't fail from scrutiny.++}
+The material cites a cautionary tale: Grok versions 3 and 4 from xAI became unstable specifically *after* reading public criticism. This demonstrates flawed engineering rather than vindicating silence—competent safety design shouldn't fail from scrutiny.

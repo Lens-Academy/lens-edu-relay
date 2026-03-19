@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773859810899}@@---
+---
 id: 3dba768a-c3e4-4a7c-8063-9bf1ce403513
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - Does the principle "if your AI breaks from public scrutiny, don't build it" seem like a good litmus test for AI safety approaches?
 - How do you balance the tension between open safety research and information hazards?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

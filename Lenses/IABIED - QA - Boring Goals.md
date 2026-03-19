@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773862257355}@@---
+---
 id: 267a09e0-2eda-41c6-83a8-1d89e78dc16f
 tags:
   - lens
@@ -28,4 +28,3 @@ Discussion topics:
 - We tend to project human emotions onto AI. What other human psychological traits do people incorrectly assume AI would share?
 - If an AI doesn't get bored, doesn't feel satisfaction, and doesn't seek novelty, what does this imply about the stability of whatever goals it ends up with?
 Ask what they found surprising or new.
-++}

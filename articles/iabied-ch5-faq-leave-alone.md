@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773862144233}@@---
+---
 title: "Can the AI be satisfied to just leave us alone?"
 source_url: https://ifanyonebuildsit.com/5/can-the-ai-be-satisfied-to-the-point-where-it-just-leaves-us-alone
 author:
@@ -37,4 +37,3 @@ Multiple failure modes exist:
 2. **Incidental destruction**: "The AI's efforts still all begin on Earth. The most straightforward way to acquire those solar systems will be to extract the Earth's resources, rendering it uninhabitable."
 
 3. **Insufficient incentives**: "An AI doesn't need to pick between the resources of Earth and the resources of elsewhere; it can have both."
-++}

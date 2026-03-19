@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773862225805}@@---
+---
 id: 65dd8218-2b0c-4e70-84a9-9d7ac8fe4af6
 tags:
   - lens
@@ -28,4 +28,3 @@ Discussion topics:
 - The titanium cube maximizer example shows intelligence amplifying goals rather than changing them. Can you think of real-world examples where greater capability didn't lead to better values?
 - Why is the tendency to reason backward from desired outcomes (constructing post-hoc justifications) so dangerous in AI safety discussions?
 Ask what they found surprising or new.
-++}

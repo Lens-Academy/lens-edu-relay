@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773853003916}@@---
+---
 title: "Won't AIs inevitably be cold and logical, or otherwise missing some crucial spark?"
 source_url: https://ifanyonebuildsit.com/2/wont-ais-inevitably-be-cold-and-logical-or-otherwise-missing-some-crucial-spark
 author:
@@ -34,4 +34,4 @@ Interpretability research—attempting to decode AI internals—remains nascent.
 
 ### Legibility Concerns
 
-While current AIs express reasoning in English, this transparency provides false security. AIs have demonstrated hidden thoughts within attention mechanisms. As systems grow more sophisticated, they may develop abbreviated languages, abstract thinking patterns, or entirely new notation beyond human decryption capabilities.++}
+While current AIs express reasoning in English, this transparency provides false security. AIs have demonstrated hidden thoughts within attention mechanisms. As systems grow more sophisticated, they may develop abbreviated languages, abstract thinking patterns, or entirely new notation beyond human decryption capabilities.

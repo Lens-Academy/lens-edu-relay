@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852715926}@@---
+---
 id: 12bfc64a-dc20-459f-a448-522e9ae8e7d0
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - Is the dodo analogy fair? Are there ways humans are fundamentally different from dodos facing a new predator?
 - Do you find yourself hoping for some compensating flaw in AI, and if so, what specifically?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773853154592}@@---
+---
 title: "What Good Does Knowledge of LLMs Do?"
 source_url: https://ifanyonebuildsit.com/2/what-good-does-knowledge-of-llms-do
 author:
@@ -44,4 +44,4 @@ Even when AIs generate readable English explanations, substantial cognition flow
 
 ### False Security
 
-Warning signs have limited value if organizations merely suppress them through additional training rather than addressing underlying issues.++}
+Warning signs have limited value if organizations merely suppress them through additional training rather than addressing underlying issues.

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773863523989}@@---
+---
 title: "Isn't it important to race ahead because of 'hardware overhang'?"
 source_url: https://ifanyonebuildsit.com/11/isnt-it-important-to-race-ahead-because-of-hardware-overhang
 author:
@@ -33,4 +33,4 @@ That problem is not solved by growing more AIs at the earliest moment it's possi
 
 The non sequitur was, nevertheless, picked up by OpenAI CEO Sam Altman, who gave it as his excuse in 2023 for OpenAI to rush ahead as fast as possible. This excuse was then revealed to be hollow when that same Sam Altman rushed to build dramatically more computing hardware.
 
-We think this is a decent case study in how executives at AI companies will latch onto whatever argument they think might fly to excuse racing ahead.++}
+We think this is a decent case study in how executives at AI companies will latch onto whatever argument they think might fly to excuse racing ahead.

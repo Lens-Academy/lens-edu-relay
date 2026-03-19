@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773863320890}@@---
+---
 title: "The Tale of Chicago Pile-1"
 source_url: https://ifanyonebuildsit.com/10/the-tale-of-chicago-pile-1
 author:
@@ -25,4 +25,4 @@ Fermi understood the narrow margin between functional reactors and explosions: r
 
 The core lesson transcends nuclear physics: understanding prevented disaster. Stereotypical safety theater — inspectors, regulations, credentials — would have proven insufficient without theoretical knowledge. Fermi's predictive framework, grounded in physics principles, enabled safe operation where bureaucratic oversight alone would fail.
 
-This historical example illuminates contemporary challenges in artificial superintelligence development, where theoretical understanding remains inadequate for the stakes involved.++}
+This historical example illuminates contemporary challenges in artificial superintelligence development, where theoretical understanding remains inadequate for the stakes involved.

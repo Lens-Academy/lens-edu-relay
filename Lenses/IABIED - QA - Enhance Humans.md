@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773862789237}@@---
+---
 id: 39b965c6-1a8d-43f7-9229-121e0ea8d517
 tags:
   - lens
@@ -28,4 +28,3 @@ Discussion topics:
 - The authors support human augmentation research despite arguing it can't compete with AI. What role might augmented humans play in the AI safety landscape?
 - Brain-computer interfaces face the challenge of integrating with thoughts and implicit beliefs, not just data transfer. Why is this distinction important?
 Ask what they found surprising or new.
-++}

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773862192560}@@---
+---
 id: 1af9ac9a-8ab1-48cc-a72e-39c2ca9d7027
 tags:
   - lens
@@ -28,4 +28,3 @@ Discussion topics:
 - The insight that a lazy AI would build a hard-working assistant is clever. What does this tell us about the stability of any personality trait we try to engineer into AI?
 - Market incentives pushing against safety features is a recurring theme. How does competitive pressure affect AI safety more broadly?
 Ask what they found surprising or new.
-++}
