@@ -7,14 +7,15 @@ tags:
   - work-in-progress
 ---
 
-### Article: How could a machine end up with its own priorities?
+{--{"author":"AI","timestamp":1773946295919}@@### Article: How could a machine end up with its own priorities?
 source:: [[../articles/iabied-ch3-faq-machine-priorities]]
 
-#### Text
+--}#### Text
 content::
 Chapter 3 explores how the push toward solving harder problems naturally drives AIs to become more agentic and goal-directed. This Q&A explains why that driven behavior emerges automatically from training pressures, drawing a parallel to how evolution produced humans with their own priorities that diverged from pure reproductive fitness.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946295919}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946295919}@@Article
+source:: [[../articles/iabied-ch3-faq-machine-priorities]]++}
 to:: "Millions of years of evolution produced humanity, which promptly invented birth control."
 
 #### Text

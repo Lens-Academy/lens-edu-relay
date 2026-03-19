@@ -6,14 +6,15 @@ tags:
   - supplementary
   - work-in-progress
 ---
-### Article: What if there are lots of different AIs?
+{--{"author":"AI","timestamp":1773946293580}@@### Article: What if there are lots of different AIs?
 source:: [[../articles/iabied-ch10-faq-lots-of-ais]]
 
-#### Text
+--}#### Text
 content::
 This Q&A addresses whether having many different AIs would solve the alignment problem. The authors argue that diversity of AI systems doesn't help if none of them genuinely care about human flourishing. Even if one in ten could be made "good," current approaches make hitting that target extraordinarily unlikely.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946293580}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946293580}@@Article
+source:: [[../articles/iabied-ch10-faq-lots-of-ais]]++}
 to:: "Adding more AIs doesn't help when we lack the capability to structure their fundamental drives correctly."
 
 #### Text

@@ -6,14 +6,15 @@ tags:
   - supplementary
   - work-in-progress
 ---
-### Article: Won't AIs be limited by their ability to design and run experiments?
+{--{"author":"AI","timestamp":1773946290907}@@### Article: Won't AIs be limited by their ability to design and run experiments?
 source:: [[../articles/iabied-ch6-faq-experiments]]
 
-#### Text
+--}#### Text
 content::
 This Q&A addresses whether physical experimentation would bottleneck a superintelligent AI. The authors argue intelligence trades off against needing experiments: a sufficiently smart reasoner can extract answers from existing data, run parallel tests, build faster equipment, and develop hedged strategies that work regardless of which hypothesis is correct. The Human Genome Project and Einstein's relativity both illustrate this principle.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946290907}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946290907}@@Article
+source:: [[../articles/iabied-ch6-faq-experiments]]++}
 to:: "A superintelligence would actively identify and work around bottlenecks -- that's fundamentally what intelligence accomplishes."
 
 #### Text
