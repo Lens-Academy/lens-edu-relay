@@ -7,14 +7,15 @@ tags:
   - work-in-progress
 ---
 
-### Article: IABIED - QA - Surpassing Humans from Human Data
+{--{"author":"AI","timestamp":1773946464813}@@### Article: IABIED - QA - Surpassing Humans from Human Data
 source:: [[../articles/iabied-ch2-faq-surpass-humans]]
 
-#### Text
+--}#### Text
 content::
 This Q&A explains how AI trained on human data can surpass humans. Deep Blue outplayed its creators at chess; AlphaGo Zero surpassed all humans from self-play alone. The Tycho Brahe analogy shows how predicting a scientist's notes could incentivize discovering laws that scientist never knew.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946464813}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946464813}@@Article
+source:: [[../articles/iabied-ch2-faq-surpass-humans]]++}
 to:: "outperforming human mathematicians in specific domains"
 
 #### Text

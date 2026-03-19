@@ -7,14 +7,15 @@ tags:
   - work-in-progress
 ---
 
-### Article: IABIED - QA - Something Special About Humans
+{--{"author":"AI","timestamp":1773946460134}@@### Article: IABIED - QA - Something Special About Humans
 source:: [[../articles/iabied-ch1-faq-special-humans]]
 
-#### Text
+--}#### Text
 content::
 This Q&A argues that human uniqueness is unlikely and not especially relevant to AI risk. Even if some human capabilities are hard to replicate, AI could achieve equivalent results through different methods — just as Deep Blue played chess through completely different mechanisms than Kasparov. What matters is capability, not similarity.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946460134}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946460134}@@Article
+source:: [[../articles/iabied-ch1-faq-special-humans]]++}
 to:: "practical concerns surrounding superintelligent systems"
 
 #### Text
