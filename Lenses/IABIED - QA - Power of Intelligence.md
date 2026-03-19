@@ -7,14 +7,15 @@ tags:
   - work-in-progress
 ---
 
-### Article: IABIED - QA - Power of Intelligence
+{--{"author":"AI","timestamp":1773946392359}@@### Article: IABIED - QA - Power of Intelligence
 source:: [[../articles/iabied-ch1-ext-power-intelligence]]
 
-#### Text
+--}#### Text
 content::
 This extended discussion argues that popular culture systematically underestimates intelligence. Through chess (Magnus Carlsen spotting a rook), Hollywood (Ultron's absurd plan), and market efficiency, the authors build the concept of "relative efficiency" — a superintelligence would be instrumentally efficient relative to humans, meaning we couldn't identify better strategies than its own.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946392359}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946392359}@@Article
+source:: [[../articles/iabied-ch1-ext-power-intelligence]]++}
 to:: "you'll badly misunderstand what it means for humanity to build a superintelligence"
 
 #### Text
