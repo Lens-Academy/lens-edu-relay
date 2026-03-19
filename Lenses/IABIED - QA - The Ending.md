@@ -7,14 +7,15 @@ tags:
   - work-in-progress
 ---
 
-### Article: Why did you write the ending in the way that you did?
+{--{"author":"AI","timestamp":1773946490129}@@### Article: Why did you write the ending in the way that you did?
 source:: [[../articles/iabied-ptii-faq-ending]]
 
-#### Text
+--}#### Text
 content::
 This Q&A explains the ending's depiction of a superintelligence pushing technology to physical limits. The authors discuss speculative but grounded technologies -- neo-ribosomes, star lifting, ecophagy, Matrioshka brains -- to convey that the consequences of misaligned superintelligence extend far beyond the planetary scale.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946490129}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946490129}@@Article
+source:: [[../articles/iabied-ptii-faq-ending]]++}
 to:: "illustrating how 'many paths lead to the same destination' rather than claiming predictive accuracy about exact technological developments"
 
 #### Text

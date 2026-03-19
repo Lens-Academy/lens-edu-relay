@@ -6,14 +6,15 @@ tags:
   - supplementary
   - work-in-progress
 ---
-### Article: How long would it take to solve the ASI alignment problem?
+{--{"author":"AI","timestamp":1773946495302}@@### Article: How long would it take to solve the ASI alignment problem?
 source:: [[../articles/iabied-ch10-faq-how-long]]
 
-#### Text
+--}#### Text
 content::
 This Q&A explains why the timeline question misses the deeper problem. The authors argue that science normally progresses through trial and error, but with ASI alignment, the first error could be fatal. Even with centuries, humanity would likely converge on the wrong answer without the ability to safely test and iterate.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946495302}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946495302}@@Article
+source:: [[../articles/iabied-ch10-faq-how-long]]++}
 to:: "Humanity has a tendency to converge on that wrong sort of answer, even in far simpler domains, when we haven't yet had a chance to run a decisive test."
 
 #### Text
