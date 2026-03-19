@@ -1,10 +1,10 @@
 ---
 id: b2c3d4e5-f6a7-8901-bcde-f23456789012
 ---
-### Article: Understanding Existential Risk from AI
+{--{"author":"AI","timestamp":1773947338884}@@### Article: Understanding Existential Risk from AI
 source:: [[../articles/wikipedia-existential-risk-from-ai]]
 
-#### Text
+--}#### Text
 content::
 !# Understanding Existential Risk from AI
 
