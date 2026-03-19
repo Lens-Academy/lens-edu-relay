@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773862684756}@@---
+---
 title: "How will AIs be able to affect us if they're digital?"
 source_url: https://ifanyonebuildsit.com/6/how-will-ais-be-able-to-affect-us-if-theyre-digital
 author:
@@ -34,4 +34,3 @@ Superintelligent AI might not require robotics at all. It could potentially acco
 ### Multiple Intervention Channels
 
 There exist "many different channels AIs could make use of to intervene in the physical world." The notion that AIs remain confined reflects "a failure of imagination, where people don't imagine the AI even being as resourceful or creative as they themselves would be in the AI's shoes."
-++}

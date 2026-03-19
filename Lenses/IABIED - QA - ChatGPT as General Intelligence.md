@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852636893}@@---
+---
 id: 6258e7f4-1a97-4a03-a652-268b86092e93
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - Does your experience with current AI systems feel more like "fundamentally less capable than humans" or "depends on what you ask"?
 - The possibility that a single algorithmic breakthrough could close the remaining gap — does that seem plausible or speculative to you?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

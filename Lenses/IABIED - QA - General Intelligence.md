@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852573827}@@---
+---
 id: a928c44c-8397-4653-ba88-391f16042c52
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - The Alice/Beth analogy (memorized routes vs. internalized map) is compelling — do you think current AI systems are more like Alice or Beth?
 - How far along the generality spectrum do you think current AI systems are?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

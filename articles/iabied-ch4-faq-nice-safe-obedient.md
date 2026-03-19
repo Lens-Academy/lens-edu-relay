@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773859650057}@@---
+---
 title: "Aren't developers regularly making their AIs nice and safe and obedient?"
 source_url: https://ifanyonebuildsit.com/4/arent-developers-regularly-making-their-ais-nice-and-safe-and-obedient
 author:
@@ -46,4 +46,4 @@ Many mechanisms could produce helpful behavior without creating actual benevolen
 
 ## Fundamental Limitations of Current Assessment
 
-LLMs were trained on internet data to imitate humans with explicit goals of marketing friendly chatbots. Such training cannot reveal internal alignment—only create convincing performance. The distinction between an AI that genuinely wants helpfulness versus one with alien drives temporarily aligned with it remains unresolved by current testing methods.++}
+LLMs were trained on internet data to imitate humans with explicit goals of marketing friendly chatbots. Such training cannot reveal internal alignment—only create convincing performance. The distinction between an AI that genuinely wants helpfulness versus one with alien drives temporarily aligned with it remains unresolved by current testing methods.

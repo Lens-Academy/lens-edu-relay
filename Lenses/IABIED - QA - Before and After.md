@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773863300318}@@---
+---
 id: 6258e7f4-1a97-4a03-a652-268b86092e93
 tags:
   - lens
@@ -27,4 +27,4 @@ TLDR: Alignment must be established before AI is dangerous but must hold after c
 Discussion topics:
 - How does the analogy to Newtonian mechanics breaking down at relativistic speeds land for you?
 - Can you think of any approach that might bridge the Before/After gap?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852602264}@@---
+---
 title: "Will AI cross critical thresholds and take off?"
 source_url: https://ifanyonebuildsit.com/1/will-ai-cross-critical-thresholds-and-take-off
 author:
@@ -28,4 +28,4 @@ The core argument doesn't require rapid recursive self-improvement. Whether adva
 
 Critically, "we don't have the luxury of waiting until the AI is a little better than every human at every mental task, because by that point, there might not be very much time left at all."
 
-Human progress toward moon travel took millions of years to halfway, then just two days for completion—illustrating why early vigilance matters when thresholds may exist.++}
+Human progress toward moon travel took millions of years to halfway, then just two days for completion—illustrating why early vigilance matters when thresholds may exist.

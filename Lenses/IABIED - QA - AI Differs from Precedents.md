@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773863150905}@@---
+---
 id: 842dbf1d-8971-4619-a978-3432e169519c
 tags:
   - lens
@@ -27,4 +27,4 @@ TLDR: The authors argue AI is fundamentally harder to manage than nuclear weapon
 Discussion topics:
 - Which of the listed differences between AI and nuclear weapons do you find most compelling?
 - Are there any historical precedents you think are more analogous to the AI situation than nuclear weapons?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

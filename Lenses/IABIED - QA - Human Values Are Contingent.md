@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773861479634}@@---
+---
 id: 6e22366e-0068-4412-8f3a-acc72a244beb
 tags:
   - lens
@@ -28,4 +28,3 @@ Discussion topics:
 - The piece argues that even human moral universalism may depend on specific cultural-religious developments. What does this fragility of human values imply for the difficulty of instilling values in AI?
 - If an alien species with eusocial genetics would develop entirely different values, what does this suggest about the range of possible AI value systems?
 Ask what they found surprising or new.
-++}

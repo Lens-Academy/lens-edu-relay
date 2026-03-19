@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852539126}@@---
+---
 id: 03e48d89-a09e-4070-9988-9cbae7498992
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - At what point does AI superiority in many domains become practically equivalent to "general" superiority, even if there are holdout domains?
 - Are there specific human skills you think would be particularly resistant to AI surpassing?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

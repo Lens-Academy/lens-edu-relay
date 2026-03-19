@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773862453701}@@---
+---
 title: "Taking the AI's Perspective"
 source_url: https://ifanyonebuildsit.com/5/taking-the-ais-perspective
 author:
@@ -26,4 +26,3 @@ The takeaway: non-human optimizers don't seek human-palatable answers. They find
 ### The Key Error
 
 People tend to start with pleasant-feeling outcomes and construct post-hoc justifications for why an AI might want those outcomes too. Instead, one should ask: "What does this thing want, and how can it get more of that, cheaply and efficiently?" This approach reveals that far more scenarios exist where AI does something other than build a flourishing human civilization.
-++}

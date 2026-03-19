@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773862575819}@@---
+---
 id: 08d61baf-f061-42a2-9686-ca4dc622043d
 tags:
   - lens
@@ -28,4 +28,3 @@ Discussion topics:
 - The factory farming analogy (optimizing for efficiency leads to horrific conditions) is applied to how AI might treat humans. Does this parallel feel apt or forced?
 - The authors insist we should ask "what does this intelligence want?" instead of imagining pleasant outcomes. How might this disciplined thinking change AI policy discussions?
 Ask what they found surprising or new.
-++}

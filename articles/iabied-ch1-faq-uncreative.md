@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852708890}@@---
+---
 title: "Won't machines be fundamentally uncreative, or otherwise fatally flawed?"
 source_url: https://ifanyonebuildsit.com/1/wont-machines-be-fundamentally-uncreative-or-otherwise-fatally-flawed
 author:
@@ -24,4 +24,4 @@ The page argues that machines do not need fatal flaws to balance against their a
 
 **Exceptions are rare.** The authors note that people enjoy recounting exceptional cases where disadvantaged forces triumph, but such outcomes occur "much less often than they occur in stories."
 
-The section emphasizes there will be no "amazing plot twist" offering humans a compensating advantage—intelligence is a substantial practical advantage without built-in limitations to balance the equation.++}
+The section emphasizes there will be no "amazing plot twist" offering humans a compensating advantage—intelligence is a substantial practical advantage without built-in limitations to balance the equation.

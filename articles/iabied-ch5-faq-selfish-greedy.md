@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773862057425}@@---
+---
 title: "Humans evolved to be selfish, aggressive, and greedy. Won't AI lack those evolved drives?"
 source_url: https://ifanyonebuildsit.com/5/humans-evolved-to-be-selfish-aggressive-and-greedy-wont-ai-lack-those-evolved-drives
 author:
@@ -24,4 +24,3 @@ The key insight is distinguishing between why something seeks resources and what
 - **Material needs**: Even vast cosmic resources don't guarantee Earth's preservation.
 
 The underlying theme: danger comes from the work of resource acquisition, not the emotional motivation behind it.
-++}

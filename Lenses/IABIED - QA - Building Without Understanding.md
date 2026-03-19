@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773853071566}@@---
+---
 id: 0ed0d307-d8dd-45f5-873c-7acaa6b152df
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - The evolution analogy is double-edged: evolution produced intelligence without understanding, but it also couldn't control what it produced. Is this the right parallel for AI development?
 - If understanding isn't needed to build AI but is needed to control it, what does that imply about the race between capabilities and safety research?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

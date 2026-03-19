@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773862394784}@@---
+---
 title: "Why don't you care about non-human entities?"
 source_url: https://ifanyonebuildsit.com/5/why-dont-you-care-about-the-values-of-any-entities-other-than-humans
 author:
@@ -28,4 +28,3 @@ Superintelligences would have no incentive to preserve humanity. "Happy, healthy
 ### Core Message
 
 Backing away from superintelligence development protects both current humans and long-term cosmopolitan futures. The apparent conflict between human welfare and universal values is illusory.
-++}

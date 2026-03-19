@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773863662271}@@---
+---
 id: ee77c667-dca5-40ce-a2a9-2bf7af93a4a2
 tags:
   - lens
@@ -27,4 +27,4 @@ TLDR: "Safe" uses can still require dangerous capabilities. An AI capable enough
 Discussion topics:
 - Does the red car/blue car analogy help clarify why restricting AI to "safe" tasks might not work?
 - Can you think of any genuinely narrow AI application that could help with alignment without requiring dangerous capabilities?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

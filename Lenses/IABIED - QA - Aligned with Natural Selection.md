@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773859819439}@@---
+---
 id: 7bca2049-a575-4c9c-a598-b5dcc6f5757b
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - Does the $1-for-a-million-genetic-offspring thought experiment change how you think about the evolution analogy?
 - If AI develops proxy-care for humans the way humans have proxy-care for reproduction, what might the AI equivalent of "birth control" look like?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

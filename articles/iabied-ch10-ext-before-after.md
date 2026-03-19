@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773863287237}@@---
+---
 title: "A Closer Look at Before and After"
 source_url: https://ifanyonebuildsit.com/10/a-closer-look-at-before-and-after
 author:
@@ -27,4 +27,4 @@ As AIs develop into superintelligences, their internals change dramatically. "An
 
 The historical lesson from Newtonian mechanics: it made excellent predictions but failed at relativistic speeds. Scientists had "heaps and heaps of empirical evidence" yet remained wrong about unmeasured domains.
 
-Getting theories right on the first critical attempt proves extraordinarily difficult — yet superintelligence alignment permits no failed experiments.++}
+Getting theories right on the first critical attempt proves extraordinarily difficult — yet superintelligence alignment permits no failed experiments.

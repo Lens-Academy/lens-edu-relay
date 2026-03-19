@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773861397687}@@---
+---
 id: 7bca2049-a575-4c9c-a598-b5dcc6f5757b
 tags:
   - lens
@@ -28,4 +28,3 @@ Discussion topics:
 - The "you can't fetch the coffee if you're dead" principle suggests self-preservation is instrumentally useful for almost any goal. What are the implications for AI shutdown procedures?
 - Can you think of terminal goals that would NOT lead to dangerous instrumental convergence?
 Ask what they found surprising or new.
-++}

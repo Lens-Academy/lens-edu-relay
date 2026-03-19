@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852406915}@@---
+---
 id: a9480ae0-d2d4-44ba-a323-d3e247c38ea1
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - Is the authors' transparency about their incentives sufficient, or do you see remaining concerns about bias?
 - They argue we should evaluate arguments rather than speakers — but how do you actually do that on a topic where you're not an expert?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

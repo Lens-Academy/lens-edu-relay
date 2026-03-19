@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773861245860}@@---
+---
 id: a435b40c-0122-44c1-94f0-8eb74659af9b
 tags:
   - lens
@@ -28,4 +28,3 @@ Discussion topics:
 - The barn-painting analogy suggests many different internal drives could produce the same trained behavior. What does this imply for AI safety testing?
 - If humans diverged from evolution's "goal" of reproduction, what does that tell us about AI diverging from its training objectives?
 Ask what they found surprising or new.
-++}

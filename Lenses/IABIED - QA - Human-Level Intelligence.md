@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852523972}@@---
+---
 id: 3a4b5d59-691b-4c75-bf3e-45c5e5c3f957
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - Is the "civilization threshold" the right way to think about what makes human intelligence distinctive, or does it miss important aspects?
 - How useful is the distinction between "superhuman AI" (better than top humans at most things) and "superintelligent AI" (vastly beyond humans)?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852904657}@@---
+---
 id: c4afa01d-727e-49d4-b714-d0295ec2fc71
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - Does "understandable in principle" help if we need understanding before superintelligence arrives? How do you reconcile the timeline problem?
 - The parallel to pre-biochemistry skepticism about life — is this a fair comparison, or is AI understanding harder for specific reasons?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

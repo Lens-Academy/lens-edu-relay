@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773852276467}@@---
+---
 title: "Why write a book about superhuman AI as an extinction threat?"
 source_url: https://ifanyonebuildsit.com/intro/why-write-a-book-about-superhuman-ai-as-an-extinction-threat
 author:
@@ -22,4 +22,4 @@ AI labs are racing to build machines smarter than any human with apparent signif
 
 Top scientists signed an open letter warning that AI threats should be treated as a "global priority alongside other societal-scale risks such as pandemics and nuclear war." Nearly half the field shares this concern. The authors emphasize this deserves serious discussion regardless of initial skepticism.
 
-They stress this requires weighing arguments rather than following intuition. If warnings are correct, humanity faces an incredibly dangerous position. However, they maintain the situation is not hopeless and wrote the book hoping to change humanity's trajectory, believing solutions exist.++}
+They stress this requires weighing arguments rather than following intuition. If warnings are correct, humanity faces an incredibly dangerous position. However, they maintain the situation is not hopeless and wrote the book hoping to change humanity's trajectory, believing solutions exist.

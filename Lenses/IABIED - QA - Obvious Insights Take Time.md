@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1773853187499}@@---
+---
 id: b1ccb447-4591-41e4-8168-d891fdb15098
 tags:
   - lens
@@ -31,4 +31,4 @@ Discussion topics:
 - The parallel between capability insights and safety insights — if capability breakthroughs took decades, should we expect safety breakthroughs to take equally long?
 - The authors suggest shutting down AI development if safety can't be guaranteed in advance. Is this realistic, and what would it look like in practice?
 
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.
