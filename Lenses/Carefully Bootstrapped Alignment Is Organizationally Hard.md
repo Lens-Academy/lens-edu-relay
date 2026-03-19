@@ -13,11 +13,12 @@ The most significant technical challenge to automating alignment is the Sharp Le
 
 Another argument is presented in the following article: *Carefully Bootstrapped Alignment is organizationally hard*. This critique identifies a major flaw in the Carefully Bootstrapped plan. It focuses on the Organizational Assumption. The plan requires an organization to be perfect. Even if the technical alignment methods work: the human implementation might fail. Competitive pressure leads to Goodharting safety metrics. {>>CGL > Probably should not assume students know what Goodharting means.<<}Psychological bias makes it difficult for a team to pause a project worth billions of dollars. Technical success is insufficient if the organizational structure is brittle.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946942670}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946942670}@@Article
+source:: [[../articles/raemon-carefully-bootstrapped-alignment-is-organizationally-hard]]++}
 from:: "In addition to technical challenges, plans"
 to:: "a concrete plan for handling that."
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946942670}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946942670}@@Article++}
 from:: "# How "
 to:: "org, the rest of your org might plow ahead."
 
