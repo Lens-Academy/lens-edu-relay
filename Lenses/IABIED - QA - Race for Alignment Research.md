@@ -6,14 +6,15 @@ tags:
   - supplementary
   - work-in-progress
 ---
-### Article: Isn't it important to race ahead so we can do alignment research?
+{--{"author":"AI","timestamp":1773946421193}@@### Article: Isn't it important to race ahead so we can do alignment research?
 source:: [[../articles/iabied-ch11-faq-race-alignment]]
 
-#### Text
+--}#### Text
 content::
 This Q&A challenges the justification that racing ahead in AI development is necessary for alignment research. The authors argue the current AI paradigm is fundamentally flawed for alignment, and there is already plenty of unexplained AI behavior to study without building more powerful systems.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946421193}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946421193}@@Article
+source:: [[../articles/iabied-ch11-faq-race-alignment]]++}
 to:: "Those continuing despite warning signs likely pursued other objectives despite earlier justifications."
 
 #### Text
