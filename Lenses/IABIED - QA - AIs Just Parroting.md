@@ -7,14 +7,15 @@ tags:
   - work-in-progress
 ---
 
-### Article: IABIED - QA - AIs Just Parroting
+{--{"author":"AI","timestamp":1773945956616}@@### Article: IABIED - QA - AIs Just Parroting
 source:: [[../articles/iabied-ch2-faq-parrot]]
 
-#### Text
+--}#### Text
 content::
 This Q&A argues that modern AIs do far more than parrot training data. To predict medical reports accurately, an AI must understand medical reality. AlphaGo Zero surpassed all human Go players through pure self-play with zero human data, and chess engines have taught human masters new strategies.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773945956616}@@Article-excerpt--}{++{"author":"AI","timestamp":1773945956616}@@Article
+source:: [[../articles/iabied-ch2-faq-parrot]]++}
 to:: "generalization these systems demonstrably perform"
 
 #### Text

@@ -7,14 +7,15 @@ tags:
   - work-in-progress
 ---
 
-### Article: IABIED - QA - AIs Just Math
+{--{"author":"AI","timestamp":1773945954731}@@### Article: IABIED - QA - AIs Just Math
 source:: [[../articles/iabied-ch2-faq-just-math]]
 
-#### Text
+--}#### Text
 content::
 This Q&A counters the dismissal that AIs are "just math." Just as humans are "just biochemistry" yet landed on the moon, mathematical operations can encode anything — including beautiful images, complex reasoning, and strategic planning. The substrate doesn't limit the capabilities that emerge from it.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773945954731}@@Article-excerpt--}{++{"author":"AI","timestamp":1773945954731}@@Article
+source:: [[../articles/iabied-ch2-faq-just-math]]++}
 to:: "Where should such a line be drawn?"
 
 #### Text

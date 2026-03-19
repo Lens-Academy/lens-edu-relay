@@ -6,14 +6,15 @@ tags:
   - supplementary
   - work-in-progress
 ---
-### Article: Will AI treat us as its "parents"?
+{--{"author":"AI","timestamp":1773945951779}@@### Article: Will AI treat us as its "parents"?
 source:: [[../articles/iabied-ch5-faq-parents]]
 
-#### Text
+--}#### Text
 content::
 This Q&A addresses the hope that AI might treat humanity well out of filial responsibility. The authors argue this is unlikely because filial care is a rare evolutionary trait even among animals, and none of the conditions that produced it in humans apply to AI. Paradoxically, even if an AI did develop something like filial love, the distorted version would likely produce undesirable outcomes.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773945951779}@@Article-excerpt--}{++{"author":"AI","timestamp":1773945951779}@@Article
+source:: [[../articles/iabied-ch5-faq-parents]]++}
 to:: "The outcome would be unpredictable but almost certainly undesirable."
 
 #### Text
