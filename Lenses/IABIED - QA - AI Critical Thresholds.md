@@ -7,14 +7,15 @@ tags:
   - work-in-progress
 ---
 
-### Article: IABIED - QA - AI Critical Thresholds
+{--{"author":"AI","timestamp":1773945898513}@@### Article: IABIED - QA - AI Critical Thresholds
 source:: [[../articles/iabied-ch1-faq-critical-thresholds]]
 
-#### Text
+--}#### Text
 content::
 This Q&A argues that AI will likely cross critical thresholds, just as nuclear fission crosses from subcritical to supercritical with small increases in uranium mass. Human brains are only 3-4x larger than chimpanzee brains, yet this produced a qualitative leap to civilization-building. We cannot tell how close current AI is to a similar threshold.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773945898513}@@Article-excerpt--}{++{"author":"AI","timestamp":1773945898513}@@Article
+source:: [[../articles/iabied-ch1-faq-critical-thresholds]]++}
 to:: "thresholds may exist"
 
 #### Text
