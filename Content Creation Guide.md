@@ -210,19 +210,19 @@ slug: module-name-here
 title: Module Title Here
 discussion: <Discord channel URL>
 ---
-# Page: Welcome
-id:: <generate another UUID for the page>
+# {--{"author":"AI","timestamp":1773948619923}@@Page:--}{++{"author":"AI","timestamp":1773948619923}@@Lens:++} Welcome
+id:: <generate another UUID for {--{"author":"AI","timestamp":1773948619923}@@the page>--}{++{"author":"AI","timestamp":1773948619923}@@this lens>++}
 
-## Text
+{--{"author":"AI","timestamp":1773948619923}@@##--}{++{"author":"AI","timestamp":1773948619923}@@####++} Text
 content:: `<overview text introducing this module>`
 
 # Learning Outcome:
 source:: ![[../Learning Outcomes/First Outcome]]
 
 # Learning Outcome:
-source:: ![[../Learning Outcomes/Second Outcome]]
+source:: ![[../Learning Outcomes/Second Outcome]]{--{"author":"AI","timestamp":1773948619923}@@
 
-# Uncategorized:
+# Uncategorized:--}
 {>>A place where we can store lenses that are not yet attached to a learning outcome<<}
 
 ## Lens:
