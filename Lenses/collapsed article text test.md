@@ -4,11 +4,12 @@ tags:
   - lens
   - work-in-progress
 ---
-### Article: Collapsed Annotation Test
+{--{"author":"AI","timestamp":1773947309622}@@### Article: Collapsed Annotation Test
 source:: [[../articles/tim-urban-artificial-intelligence-revolution-edited]]
 
-#### Text
+--}#### Text
 content::
 `<introductory text>`
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773947309622}@@Article-excerpt--}{++{"author":"AI","timestamp":1773947309622}@@Article
+source:: [[../articles/tim-urban-artificial-intelligence-revolution-edited]]++}
