@@ -7,14 +7,15 @@ tags:
   - work-in-progress
 ---
 
-### Article: IABIED - QA - Is Intelligence Meaningful
+{--{"author":"AI","timestamp":1773946222741}@@### Article: IABIED - QA - Is Intelligence Meaningful
 source:: [[../articles/iabied-ch1-faq-intelligence-meaningful]]
 
-#### Text
+--}#### Text
 content::
 This Q&A defends the meaningfulness of "intelligence" as a concept. The authors argue that we don't need a perfect definition — the gap between human capabilities and chimpanzee capabilities is real and observable, and machines converting Earth's surface into infrastructure won't care whether we've defined "intelligence" precisely.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946222741}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946222741}@@Article
+source:: [[../articles/iabied-ch1-faq-intelligence-meaningful]]++}
 to:: "comparable real-world impacts"
 
 #### Text
