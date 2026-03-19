@@ -6,14 +6,15 @@ tags:
   - supplementary
   - work-in-progress
 ---
-### Article: How will AIs be able to affect us if they're digital?
+{--{"author":"AI","timestamp":1773946069917}@@### Article: How will AIs be able to affect us if they're digital?
 source:: [[../articles/iabied-ch6-faq-affect-digital]]
 
-#### Text
+--}#### Text
 content::
 This Q&A addresses the assumption that digital AIs can't affect the physical world. The authors argue that internet access provides enormous power: AI can pay, blackmail, trick, or simply ask humans for help, much like criminals running empires from prison. Real examples already show AIs organizing physical events and mobilizing users, and robots are increasingly available as physical extensions.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946069917}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946069917}@@Article
+source:: [[../articles/iabied-ch6-faq-affect-digital]]++}
 to:: "a failure of imagination, where people don't imagine the AI even being as resourceful or creative as they themselves would be in the AI's shoes."
 
 #### Text
