@@ -7,14 +7,15 @@ tags:
   - work-in-progress
 ---
 
-### Article: IABIED - QA - Why Write This Book
+{--{"author":"AI","timestamp":1773946532628}@@### Article: IABIED - QA - Why Write This Book
 source:: [[../articles/iabied-intro-faq-why-write-book]]
 
-#### Text
+--}#### Text
 content::
 This Q&A from the book's website explains the authors' motivation for writing about superhuman AI as an extinction threat. They draw a parallel to Leo Szilard's early recognition of nuclear chain reactions, arguing that the current moment demands similar foresight and urgency.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773946532628}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946532628}@@Article
+source:: [[../articles/iabied-intro-faq-why-write-book]]++}
 to:: "believing solutions exist"
 
 #### Text
