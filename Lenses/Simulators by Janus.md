@@ -2,10 +2,10 @@
 id: c88cfac7-1fe2-4a14-b20b-7903a28daa8d
 tldr: When people discuss AI risk, they often picture AI as an agent pursuing goals. But LLMs don't fit neatly into that box. This essay proposes that language models are better understood as simulators — systems that can produce agent-like behavior without being agents themselves. The distinction matters for how we think about risk.
 ---
-### Article: Simulators by Janus -- LessWrong
+{--{"author":"AI","timestamp":1773947161817}@@### Article: Simulators by Janus -- LessWrong
 source:: [[../articles/janus-simulators|janus-simulators]]
 
-#### Text
+--}#### Text
 content::
 *This article is the source that Scott Alexander refers to in the prior piece. It is long and some students find it challenging, but we believe it provides an excellent grounding in simulator theory if you wish to deepen your understanding.*
 
