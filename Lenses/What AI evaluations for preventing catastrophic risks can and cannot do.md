@@ -42,12 +42,12 @@ from:: "### 3.2 Robustly forecast future model capabilities"
 to:: "emerge before dangerous ones, serving as warning signs."
 
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773947458267}@@Article-excerpt--}{++{"author":"AI","timestamp":1773947458267}@@Article++}
 from:: "### 3.3 Robustly assess misalignment and model autonomy risks"
 to:: "not lead it to cause harm, even in novel situations."
 
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773947459115}@@Article-excerpt--}{++{"author":"AI","timestamp":1773947459115}@@Article++}
 from:: "### 3.4 Unknown unknown risks"
 to:: "lead to catastrophic and possibly existential outcomes."
 
