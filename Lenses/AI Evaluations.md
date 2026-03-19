@@ -5,10 +5,10 @@ tags:
   - lens
 ---
 
-### Page: AI Evaluations
+{--{"author":"AI","timestamp":1773945784930}@@### Page: AI Evaluations
 id:: eaf174f0-0e6b-401c-9bba-f6d325beb262
 
-#### Text
+--}#### Text
 content::
 This module focuses on the empirical testing of what AI systems can do and identifying the risks they pose. 
 

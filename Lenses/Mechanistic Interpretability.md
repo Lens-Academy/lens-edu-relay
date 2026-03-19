@@ -5,10 +5,10 @@ discussion: https://discord.com/channels/1440725236843806762/1483418591482347723
 tags:
   - lens
 ---
-### Page: Mechanistic Interpretability
+{--{"author":"AI","timestamp":1773945787907}@@### Page: Mechanistic Interpretability
 id:: ae10d3aa-9adb-47f6-a8f8-3c85da98f88e
 
-#### Text
+--}#### Text
 content::
 **Mechanistic Interpretability** is the study of the internal workings of AI models. It seeks to reverse-engineer neural networks into human-understandable algorithms. Researchers analyze individual neurons and connections to see how they represent concepts.
 

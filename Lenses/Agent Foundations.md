@@ -5,9 +5,9 @@ tags:
   - lens
 ---
 
-### Page: Agent Foundations
+{--{"author":"AI","timestamp":1773945785576}@@### Page: Agent Foundations
 
-#### Text
+--}#### Text
 content::
 This module approaches safety through the lens of mathematical theory, formal logic, and the fundamental nature of agency.
 

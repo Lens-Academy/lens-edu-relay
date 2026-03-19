@@ -4,10 +4,10 @@ tldr:
 tags:
   - lens
 ---
-### Page: Next steps
+{--{"author":"AI","timestamp":1773945789088}@@### Page: Next steps
 id:: ae10d3aa-9adb-47f6-a8f8-3c85da98f88e
 
-#### Text
+--}#### Text
 content::
 At this point, the question is not only what AI might do to the world. It is also whether I am ready to treat this as a field in which my own actions could matter.
 
