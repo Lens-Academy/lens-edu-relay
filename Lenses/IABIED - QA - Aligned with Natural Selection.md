@@ -7,14 +7,15 @@ tags:
   - work-in-progress
 ---
 
-### Article: A lot of people want kids. So aren't humans 'aligned' with natural selection after all?
+{--{"author":"AI","timestamp":1773945984902}@@### Article: A lot of people want kids. So aren't humans 'aligned' with natural selection after all?
 source:: [[../articles/iabied-ch4-faq-aligned-natural-selection]]
 
-#### Text
+--}#### Text
 content::
 Chapter 4 argues that training doesn't produce intended goals. This Q&A pushes back on the evolution analogy by noting that many people do want children. The authors respond that wanting children is a proxy, not fitness-maximization — most people wouldn't pay even $1 for a million genetic offspring. The implication for AI: even if an AI develops something resembling "care for humans," it would be a proxy that diverges from genuine human flourishing once conditions change.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773945984902}@@Article-excerpt--}{++{"author":"AI","timestamp":1773945984902}@@Article
+source:: [[../articles/iabied-ch4-faq-aligned-natural-selection]]++}
 to:: "making their stated values unreliable indicators of actual drives"
 
 #### Text
