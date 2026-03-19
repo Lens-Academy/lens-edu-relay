@@ -47,7 +47,7 @@ Discussion topics:
 Ask what they found surprising or new. Check if they can explain the gorilla
 analogy in their own words—it's a key concept.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773947404309}@@Article-excerpt--}{++{"author":"AI","timestamp":1773947404309}@@Article++}
 from:: "One of the earliest authors"
 to:: "strong public buy-in."
 
@@ -56,7 +56,7 @@ content::
 This history shows that concerns about AI risk aren't new - thinkers from
 Alan Turing to Stephen Hawking have considered these questions.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773947404309}@@Article-excerpt--}{++{"author":"AI","timestamp":1773947404309}@@Article++}
 from:: "### General Intelligence"
 to:: "evasion of human control"
 
