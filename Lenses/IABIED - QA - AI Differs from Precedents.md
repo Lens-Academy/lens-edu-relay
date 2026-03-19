@@ -6,14 +6,15 @@ tags:
   - supplementary
   - work-in-progress
 ---
-### Article: Won't AI differ from all the historical precedents?
+{--{"author":"AI","timestamp":1773945920098}@@### Article: Won't AI differ from all the historical precedents?
 source:: [[../articles/iabied-ch10-faq-historical-precedents]]
 
-#### Text
+--}#### Text
 content::
 This Q&A addresses whether AI alignment differs from historical challenges like nuclear weapons. The authors argue that while some features could make alignment easier, the overall picture is dramatically harder than managing nuclear technology. They list numerous ways superintelligent AI poses unique challenges that have no historical parallel.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773945920098}@@Article-excerpt--}{++{"author":"AI","timestamp":1773945920098}@@Article
+source:: [[../articles/iabied-ch10-faq-historical-precedents]]++}
 to:: "There is no established playbook for ASI."
 
 #### Text

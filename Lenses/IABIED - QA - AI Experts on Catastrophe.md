@@ -7,14 +7,15 @@ tags:
   - work-in-progress
 ---
 
-### Article: IABIED - QA - AI Experts on Catastrophe
+{--{"author":"AI","timestamp":1773945922904}@@### Article: IABIED - QA - AI Experts on Catastrophe
 source:: [[../articles/iabied-intro-ext-experts-catastrophe]]
 
-#### Text
+--}#### Text
 content::
 This extended discussion compiles expert statements on AI catastrophe risk. Nearly half of surveyed AI researchers at top conferences think there's at least a 10% chance of "extremely bad" outcomes. Notable figures like Geoffrey Hinton assign extinction risk above 50%, while even more conservative experts put it at 10-20%.
 
-#### Article-excerpt
+#### {--{"author":"AI","timestamp":1773945922904}@@Article-excerpt--}{++{"author":"AI","timestamp":1773945922904}@@Article
+source:: [[../articles/iabied-intro-ext-experts-catastrophe]]++}
 to:: "even 5% extinction risk justifies urgent action"
 
 #### Text
