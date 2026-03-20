@@ -14,8 +14,7 @@ This Q&A addresses the authors' potential conflicts of interest. They disclose t
 
 #### Article
 source:: [[../articles/iabied-intro-faq-author-incentives]]
-{--{"author":"AI","timestamp":1774008863056}@@to:: "evidence to potentially change minds"
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

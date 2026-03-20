@@ -13,8 +13,7 @@ This Q&A examines whether superintelligent AI might preserve humanity out of fas
 
 #### Article
 source:: [[../articles/iabied-ch5-faq-fascinating]]
-{--{"author":"AI","timestamp":1774008825927}@@to:: "absent genuine alignment with human values, no such reasons are likely to exist."
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

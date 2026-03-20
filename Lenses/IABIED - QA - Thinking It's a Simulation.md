@@ -13,8 +13,7 @@ This Q&A examines the proposal to make AI uncertain about whether it's in a simu
 
 #### Article
 source:: [[../articles/iabied-ch5-faq-simulation]]
-{--{"author":"AI","timestamp":1774009249063}@@to:: "Humans tend to imagine optimistic scenarios and construct post-hoc justifications for why AIs might cooperate with us."
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

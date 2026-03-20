@@ -14,8 +14,7 @@ This Q&A defends "human-level intelligence" as a useful concept by pointing to t
 
 #### Article
 source:: [[../articles/iabied-ch1-faq-human-level-intelligence]]
-{--{"author":"AI","timestamp":1774008947047}@@to:: "semantic arguments about general intelligence"
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

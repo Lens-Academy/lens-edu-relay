@@ -14,8 +14,7 @@ Chapter 4 argues that training doesn't produce intended goals. This Q&A pushes b
 
 #### Article
 source:: [[../articles/iabied-ch4-faq-aligned-natural-selection]]
-{--{"author":"AI","timestamp":1774008851672}@@to:: "making their stated values unreliable indicators of actual drives"
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

@@ -13,8 +13,7 @@ This extended discussion introduces the distinction between terminal goals (valu
 
 #### Article
 source:: [[../articles/iabied-ch4-ext-terminal-instrumental]]
-{--{"author":"AI","timestamp":1774009238680}@@to:: "Even without knowing exactly what superintelligence would want, we have strong reasons expecting it to be dangerous."
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

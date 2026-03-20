@@ -14,8 +14,7 @@ This Q&A argues that English-language reasoning in AIs provides less safety than
 
 #### Article
 source:: [[../articles/iabied-ch2-faq-think-english]]
-{--{"author":"AI","timestamp":1774008849789}@@to:: "through text inspection alone"
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

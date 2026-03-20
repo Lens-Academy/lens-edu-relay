@@ -13,8 +13,7 @@ This extended discussion drives home the point that happy, healthy, free humans 
 
 #### Article
 source:: [[../articles/iabied-ch5-ext-not-efficient]]
-{--{"author":"AI","timestamp":1774008950320}@@to:: "What does this intelligence actually want, and what's the cheapest way to get more of that?"
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

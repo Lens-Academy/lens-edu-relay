@@ -14,8 +14,7 @@ This Q&A explains how AI trained on human data can surpass humans. Deep Blue out
 
 #### Article
 source:: [[../articles/iabied-ch2-faq-surpass-humans]]
-{--{"author":"AI","timestamp":1774009237342}@@to:: "outperforming human mathematicians in specific domains"
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

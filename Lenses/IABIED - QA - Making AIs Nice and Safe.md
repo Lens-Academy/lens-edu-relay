@@ -14,8 +14,7 @@ Chapter 4 argues that training doesn't produce intended goals. This Q&A addresse
 
 #### Article
 source:: [[../articles/iabied-ch4-faq-nice-safe-obedient]]
-{--{"author":"AI","timestamp":1774009063959}@@to:: "The distinction between an AI that genuinely wants helpfulness versus one with alien drives temporarily aligned with it remains unresolved by current testing methods"
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

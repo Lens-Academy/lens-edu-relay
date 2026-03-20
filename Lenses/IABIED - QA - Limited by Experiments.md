@@ -13,8 +13,7 @@ This Q&A addresses whether physical experimentation would bottleneck a superinte
 
 #### Article
 source:: [[../articles/iabied-ch6-faq-experiments]]
-{--{"author":"AI","timestamp":1774009002458}@@to:: "A superintelligence would actively identify and work around bottlenecks -- that's fundamentally what intelligence accomplishes."
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

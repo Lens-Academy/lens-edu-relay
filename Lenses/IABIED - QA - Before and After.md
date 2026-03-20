@@ -13,8 +13,7 @@ This extended discussion explores the Before/After problem in depth. You must al
 
 #### Article
 source:: [[../articles/iabied-ch10-ext-before-after]]
-{--{"author":"AI","timestamp":1774008864323}@@to:: "Getting theories right on the first critical attempt proves extraordinarily difficult — yet superintelligence alignment permits no failed experiments."
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

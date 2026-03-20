@@ -14,8 +14,7 @@ This Q&A addresses whether superintelligence would be unpredictable. The key ins
 
 #### Article
 source:: [[../articles/iabied-ch1-faq-predict-behavior]]
-{--{"author":"AI","timestamp":1774009189825}@@to:: "understanding superhuman intelligence dynamics"
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

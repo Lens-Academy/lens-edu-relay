@@ -13,8 +13,7 @@ This Q&A addresses whether AI alignment differs from historical challenges like 
 
 #### Article
 source:: [[../articles/iabied-ch10-faq-historical-precedents]]
-{--{"author":"AI","timestamp":1774008823808}@@to:: "There is no established playbook for ASI."
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

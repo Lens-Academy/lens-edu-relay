@@ -13,8 +13,7 @@ This brief Q&A addresses the common intuition that humanity always muddles throu
 
 #### Article
 source:: [[../articles/iabied-ch11-faq-muddle-through]]
-{--{"author":"AI","timestamp":1774009064669}@@to:: "In this case, early errors wouldn't leave survivors."
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

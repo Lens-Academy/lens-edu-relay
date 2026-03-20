@@ -14,8 +14,7 @@ This Q&A separates the question of machine consciousness from machine intelligen
 
 #### Article
 source:: [[../articles/iabied-ch1-faq-machines-conscious]]
-{--{"author":"AI","timestamp":1774009061694}@@to:: "regardless of whether that system experiences consciousness"
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

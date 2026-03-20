@@ -14,8 +14,7 @@ This extended discussion decomposes intelligence into two components: prediction
 
 #### Article
 source:: [[../articles/iabied-ch1-ext-prediction-steering]]
-{--{"author":"AI","timestamp":1774008966582}@@to:: "only correct predictions about reality"
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

@@ -14,8 +14,7 @@ This extended discussion shows how "obvious" AI insights — like dividing initi
 
 #### Article
 source:: [[../articles/iabied-ch2-ext-obvious-insights]]
-{--{"author":"AI","timestamp":1774009165026}@@to:: "we ought to shut down their efforts"
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

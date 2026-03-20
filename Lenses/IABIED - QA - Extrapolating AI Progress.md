@@ -14,8 +14,7 @@ This Q&A explains why trend extrapolation fails for predicting dangerous AI. The
 
 #### Article
 source:: [[../articles/iabied-intro-faq-extrapolate-progress]]
-{--{"author":"AI","timestamp":1774008910477}@@to:: "arbitrary prognostications about overall timelines"
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

@@ -13,8 +13,7 @@ This Q&A addresses the hope that AI might treat humanity well out of filial resp
 
 #### Article
 source:: [[../articles/iabied-ch5-faq-parents]]
-{--{"author":"AI","timestamp":1774008836916}@@to:: "The outcome would be unpredictable but almost certainly undesirable."
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

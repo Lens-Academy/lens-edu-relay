@@ -14,8 +14,7 @@ This Q&A explores whether ChatGPT qualifies as a general intelligence and conclu
 
 #### Article
 source:: [[../articles/iabied-ch1-faq-chatgpt-general]]
-{--{"author":"AI","timestamp":1774008876983}@@to:: "weakly smarter-than-human without being superintelligent"
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

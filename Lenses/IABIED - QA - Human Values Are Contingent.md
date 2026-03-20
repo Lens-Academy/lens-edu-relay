@@ -13,8 +13,7 @@ This extended discussion traces how human values like empathy and kindness arose
 
 #### Article
 source:: [[../articles/iabied-ch4-ext-human-values]]
-{--{"author":"AI","timestamp":1774008945714}@@to:: "Many different lines of evidence point at it being genuinely difficult to get AIs to robustly want the right things."
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

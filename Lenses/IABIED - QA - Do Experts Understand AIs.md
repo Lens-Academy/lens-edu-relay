@@ -14,8 +14,7 @@ This Q&A documents that AI experts do not understand what goes on inside their s
 
 #### Article
 source:: [[../articles/iabied-ch2-faq-experts-understand]]
-{--{"author":"AI","timestamp":1774008899943}@@to:: "abstract thinking patterns that humans cannot decode"
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?
