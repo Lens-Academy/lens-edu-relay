@@ -1,5 +1,5 @@
 ---
-id: 3dba768a-c3e4-4a7c-8063-9bf1ce403513
+id: {--{"author":"AI","timestamp":1774007052285}@@3dba768a-c3e4-4a7c-8063-9bf1ce403513--}{++{"author":"AI","timestamp":1774007052285}@@25947894-248a-4b34-a85c-dcef68c76937++}
 title: "Should we avoid talking about AI dangers, so AIs don't get any bad ideas?"
 tags:
   - lens
