@@ -1,6 +1,7 @@
 ---
 id: 6766121a-d208-42ad-a9cf-0c71797c065e
-tags:
+{++{"author":"AI","timestamp":1773998606426}@@title: "Wouldn't AI only care about the digital realm?"
+++}tags:
   - lens
   - IABIED
   - supplementary
