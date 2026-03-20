@@ -19,7 +19,7 @@ to:: "Intelligence amplifies existing goals rather than transforming them."
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### Chat: Discussion
+#### {--{"author":"AI","timestamp":1774006480168}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006480168}@@Chat++}
 instructions::
 The student just read a supplementary Q&A from the book's website about whether AI would get kinder as it gets smarter, like humans sometimes do.
 TLDR: Human kindness increasing with maturity is a contingent fact about our species, not a law of intelligence. The orthogonality principle means intelligence amplifies existing goals rather than transforming them. A smarter AI with weird goals just gets better at pursuing those weird goals.
