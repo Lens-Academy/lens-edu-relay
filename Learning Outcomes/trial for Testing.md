@@ -43,7 +43,6 @@ enforce-voice:: true
 optional:: false
 source:: [[../Lenses/AI Evaluations]]
 
-## Submodule
 
 ## Lens:
 optional:: false
