@@ -521,7 +521,7 @@ In my mind, “simulator”, like most natural language categories, has fuzzy bo
 | **GPT** | X | X | X | X | X | X |
 | **Bert** | X | X |  | X | X | X |
 | **“Behavior cloning”** | X | X | X |  | X | X |
-| **GANs** | X <sup><span><a href="https://www.lesswrong.com/s/N7nDePaNabJdnbXeE/p/#fnbfhs37ysptj">[30]</a></span></sup> | ? |  | X | X | X |
+| **GANs** | {--{"author":"AI","timestamp":1774023644619}@@X <sup><span><a href="https://www.lesswrong.com/s/N7nDePaNabJdnbXeE/p/#fnbfhs37ysptj">[30]</a></span></sup>--}{++{"author":"AI","timestamp":1774023644619}@@X[^30]++} | ? |  | X | X | X |
 | **Diffusion** | X <sup><span><a href="https://www.lesswrong.com/s/N7nDePaNabJdnbXeE/p/#fnbfhs37ysptj">[30]</a></span></sup> | ? |  | X | X | X |
 | **Model-based RL transition function** | X | X | X | X | X | X |
 | **Game of life** |  | N/A | X | X |  |  |
