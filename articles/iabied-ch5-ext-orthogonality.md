@@ -1,7 +1,8 @@
 ---
 title: "Orthogonality: AIs Can Have (Almost) Any Goal"
 source_url: https://ifanyonebuildsit.com/5/orthogonality-ais-can-have-almost-any-goal
-author:
+{++{"author":"AI","timestamp":1774006833892}@@published: 2025-09-16
+++}author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

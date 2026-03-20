@@ -1,7 +1,8 @@
 ---
 title: "So there's at least a chance of AI keeping us alive?"
 source_url: https://ifanyonebuildsit.com/5/so-theres-at-least-a-chance-of-ai-keeping-us-alive
-author:
+{++{"author":"AI","timestamp":1774006838002}@@published: 2025-09-16
+++}author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:
