@@ -1,7 +1,8 @@
 ---
 title: "Will AI cross critical thresholds and take off?"
 source_url: https://ifanyonebuildsit.com/1/will-ai-cross-critical-thresholds-and-take-off
-author:
+{++{"author":"AI","timestamp":1774006675693}@@published: 2025-09-16
+++}author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

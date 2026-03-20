@@ -1,7 +1,8 @@
 ---
 title: "How smart could a superintelligence get?"
 source_url: https://ifanyonebuildsit.com/1/how-smart-could-a-superintelligence-get
-author:
+{++{"author":"AI","timestamp":1774006678389}@@published: 2025-09-16
+++}author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

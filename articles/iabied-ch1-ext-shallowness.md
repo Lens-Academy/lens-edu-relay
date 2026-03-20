@@ -1,7 +1,8 @@
 ---
 title: "The Shallowness of Current AIs"
 source_url: https://ifanyonebuildsit.com/1/the-shallowness-of-current-ais
-author:
+{++{"author":"AI","timestamp":1774006672955}@@published: 2025-09-16
+++}author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:
