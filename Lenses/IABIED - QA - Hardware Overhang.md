@@ -19,7 +19,7 @@ to:: "We think this is a decent case study in how executives at AI companies wil
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### Chat: Discussion
+#### {--{"author":"AI","timestamp":1774006439013}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006439013}@@Chat++}
 instructions::
 The student just read a supplementary Q&A from the book's website about whether racing ahead in AI development prevents hardware overhang.
 TLDR: Racing ahead doesn't solve alignment — intelligence has threshold effects, and growing more AIs faster is a non sequitur when nobody knows how to make AIs robustly care about what designers want.
