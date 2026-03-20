@@ -1,6 +1,7 @@
 ---
 id: 03b0712b-90a0-4195-8b8e-f5c7d1bf8dcd
-tags:
+{++{"author":"AI","timestamp":1773997661183}@@title: "Aren't AIs just tools?"
+++}tags:
   - lens
   - IABIED
   - supplementary

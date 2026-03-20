@@ -1,6 +1,7 @@
 ---
 id: 66a11607-f9f4-4dc4-9c27-1e657e2ab50b
-tags:
+{++{"author":"AI","timestamp":1773997654477}@@title: "Why would an AI steer toward anything other than what it was trained to steer toward?"
+++}tags:
   - lens
   - IABIED
   - supplementary

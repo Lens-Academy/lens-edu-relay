@@ -1,6 +1,7 @@
 ---
 id: 34c52200-f6b8-4fa8-88c7-2b3a46849231
-tags:
+{++{"author":"AI","timestamp":1773997632905}@@title: "Humans are dangerous because of selfish, greedy drives. AI won't have those drives?"
+++}tags:
   - lens
   - IABIED
   - supplementary

@@ -1,6 +1,7 @@
 ---
 id: 55e4c9d2-6a22-4a12-a200-3572c785c9cc
-tags:
+{++{"author":"AI","timestamp":1773997656563}@@title: "Will AI treat us as its 'parents'?"
+++}tags:
   - lens
   - IABIED
   - supplementary

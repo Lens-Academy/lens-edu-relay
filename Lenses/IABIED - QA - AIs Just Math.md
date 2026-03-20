@@ -1,6 +1,7 @@
 ---
 id: dda20895-9416-4a5f-93b5-14a92ef3fc84
-tags:
+{++{"author":"AI","timestamp":1773997657477}@@title: "Aren't AIs 'just math'?"
+++}tags:
   - lens
   - IABIED
   - supplementary

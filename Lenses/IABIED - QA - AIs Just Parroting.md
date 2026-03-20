@@ -1,6 +1,7 @@
 ---
 id: 57fb3bd9-cdbf-4304-bb1f-8c101489be3e
-tags:
+{++{"author":"AI","timestamp":1773997659331}@@title: "Aren't AIs only able to parrot back what humans say?"
+++}tags:
   - lens
   - IABIED
   - supplementary
