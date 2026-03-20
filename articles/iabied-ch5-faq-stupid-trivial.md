@@ -1,7 +1,8 @@
 ---
 title: "Why are you imagining a smart AI doing such stupid, trivial things?"
 source_url: https://ifanyonebuildsit.com/5/why-are-you-imagining-a-smart-ai-doing-such-stupid-trivial-things
-author:
+{++{"author":"AI","timestamp":1774006897002}@@published: 2025-09-16
+++}author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:
