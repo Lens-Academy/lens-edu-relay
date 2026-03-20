@@ -1,6 +1,7 @@
 ---
 id: 61065d0e-458f-4523-afbc-ccfd48375a9c
-tags:
+{++{"author":"AI","timestamp":1773997758848}@@title: "So there's at least a chance of AI keeping us alive?"
+++}tags:
   - lens
   - IABIED
   - supplementary

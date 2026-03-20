@@ -1,6 +1,7 @@
 ---
 id: 2ed51bc1-28d3-4db9-93fb-69e968d2beca
-tags:
+{++{"author":"AI","timestamp":1773997757205}@@title: "Won't AIs care at least a little about humans?"
+++}tags:
   - lens
   - IABIED
   - supplementary
