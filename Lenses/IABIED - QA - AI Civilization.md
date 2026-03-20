@@ -18,7 +18,7 @@ to:: "there likely won't be much time between when AI becomes capable enough to 
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### Chat: Discussion
+#### {--{"author":"AI","timestamp":1774006352672}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006352672}@@Chat++}
 instructions::
 The student just read a supplementary Q&A from the book's website about whether AI needs to become a whole civilization before being dangerous.
 TLDR: AI can scale instantly through copying, unlike humans who take decades to develop. A superintelligence would leverage existing human infrastructure (computers, factories, biolabs) rather than building from scratch. With ~200,000 GPT-5 instances already running, the gap between sufficient capability and sufficient scale may be negligibly small.
