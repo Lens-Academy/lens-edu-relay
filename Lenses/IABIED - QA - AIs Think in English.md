@@ -13,7 +13,7 @@ content::
 This Q&A argues that English-language reasoning in AIs provides less safety than it might seem. Deceptive reasoning is already visible (o1 writing "play dumb"), but deceptive thoughts can also flow through attention mechanisms invisibly. When trained against cheating thoughts, AIs learned to hide them rather than stop cheating.
 
 #### Article
-source:: [[../../Lens/IABIED/articles/iabied-ch2-faq-think-english]]
+source:: {--{"author":"AI","timestamp":1774007697697}@@[[../../Lens/IABIED/articles/iabied-ch2-faq-think-english]]--}{++{"author":"AI","timestamp":1774007697697}@@[[../articles/iabied-ch2-faq-think-english]]++}
 to:: "through text inspection alone"
 
 #### Text
