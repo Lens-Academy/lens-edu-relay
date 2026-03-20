@@ -1,6 +1,7 @@
 ---
 id: e79dd07a-e837-483f-8534-b53b86d509b4
-tldr: If a program can optimize code and you point it at its own code, do you get an ever-improving tower of optimizers? An early AI called EURISKO tried exactly this — and the result was surprisingly flat. This article explores why self-improvement doesn't automatically go exponential, and what would need to change.
+{++{"author":"AI","timestamp":1773996651274}@@title: "Recursion, Magic"
+++}tldr: If a program can optimize code and you point it at its own code, do you get an ever-improving tower of optimizers? An early AI called EURISKO tried exactly this — and the result was surprisingly flat. This article explores why self-improvement doesn't automatically go exponential, and what would need to change.
 ---
 {--{"author":"AI","timestamp":1773947157785}@@### Article: Recursion, Magic
 source:: [[../articles/recursion-magic]] 
