@@ -14,8 +14,8 @@ This Q&A examines whether obstacles will prevent superintelligence from being bu
 
 #### Article
 source:: [[../articles/iabied-ch1-faq-obstacles]]
-to:: "humanity intervenes through policy"
-
+{--{"author":"AI","timestamp":1774009163597}@@to:: "humanity intervenes through policy"
+--}
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

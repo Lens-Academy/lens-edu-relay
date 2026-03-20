@@ -13,8 +13,8 @@ This Q&A addresses the charge that the authors only care about humans. They expl
 
 #### Article
 source:: [[../articles/iabied-ch5-faq-non-human-entities]]
-to:: "The apparent conflict between human welfare and universal values is illusory."
-
+{--{"author":"AI","timestamp":1774009162048}@@to:: "The apparent conflict between human welfare and universal values is illusory."
+--}
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

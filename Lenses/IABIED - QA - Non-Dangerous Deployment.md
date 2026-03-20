@@ -13,8 +13,8 @@ This Q&A examines whether AI companies could limit their systems to "safe" uses.
 
 #### Article
 source:: [[../articles/iabied-ch11-faq-non-dangerous]]
-to:: "We haven't been able to find any narrow-but-effective plans, and we suspect it's not an accident that most narrow domains don't provide an opportunity for world-saving results."
-
+{--{"author":"AI","timestamp":1774009160874}@@to:: "We haven't been able to find any narrow-but-effective plans, and we suspect it's not an accident that most narrow domains don't provide an opportunity for world-saving results."
+--}
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

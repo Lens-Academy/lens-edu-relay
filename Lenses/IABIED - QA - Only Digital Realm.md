@@ -13,8 +13,8 @@ This Q&A addresses the hope that AI would confine itself to the digital world an
 
 #### Article
 source:: [[../articles/iabied-ch5-faq-digital-realm]]
-to:: "Matter and energy can be used to create more digital substrate, to cool overheating processors, or to launch probes into space to collect even more resources."
-
+{--{"author":"AI","timestamp":1774009166498}@@to:: "Matter and energy can be used to create more digital substrate, to cool overheating processors, or to launch probes into space to collect even more resources."
+--}
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?
