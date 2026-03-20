@@ -19,7 +19,7 @@ to:: "Of particular relevance is \"Won't AIs care at least a little about humans
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### Chat: Discussion
+#### {--{"author":"AI","timestamp":1774006378980}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006378980}@@Chat++}
 instructions::
 The student just read a supplementary Q&A from the book's website about whether alignment is an all-or-nothing problem.
 TLDR: Alignment doesn't need to be perfect, but "partial" or "mostly" aligned AIs won't produce proportionally okay outcomes. An AI that acts nice 95% of the time can still lead to catastrophe.

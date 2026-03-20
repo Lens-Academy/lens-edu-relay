@@ -20,7 +20,7 @@ to:: "indifference to humanity while pursuing their own ends."
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### Chat: Discussion
+#### {--{"author":"AI","timestamp":1774006380501}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006380501}@@Chat++}
 instructions::
 The student just read a supplementary Q&A from the book's website about anthropomorphism and mechanomorphism in AI thinking.
 
