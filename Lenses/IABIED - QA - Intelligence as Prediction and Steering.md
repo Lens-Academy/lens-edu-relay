@@ -1,6 +1,7 @@
 ---
 id: 852658c6-e827-4bbf-a3e1-df3a51d6e43d
-tags:
+{++{"author":"AI","timestamp":1773997951101}@@title: More on Intelligence as Prediction and Steering
+++}tags:
   - lens
   - IABIED
   - supplementary

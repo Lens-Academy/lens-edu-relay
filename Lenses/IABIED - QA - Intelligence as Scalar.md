@@ -1,6 +1,7 @@
 ---
 id: 01eaea0b-9f02-4b76-aef4-e5617addddf6
-tags:
+{++{"author":"AI","timestamp":1773997952729}@@title: "Is 'intelligence' a simple scalar quantity?"
+++}tags:
   - lens
   - IABIED
   - supplementary
