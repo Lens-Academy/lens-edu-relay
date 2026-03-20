@@ -1,6 +1,7 @@
 ---
 id: 46a8ad84-2685-4afc-8bcd-f22f48ef6cb3
-tags:
+{++{"author":"AI","timestamp":1773998513541}@@title: "Could LLMs advance all the way to superintelligence?"
+++}tags:
   - lens
   - IABIED
   - supplementary

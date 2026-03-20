@@ -1,6 +1,7 @@
 ---
 id: 1a32f363-c44e-4651-b0a7-b8fe37d7f9b7
-tags:
+{++{"author":"AI","timestamp":1773998511391}@@title: "Won't LLMs be like the humans in the data they're trained on?"
+++}tags:
   - lens
   - IABIED
   - supplementary

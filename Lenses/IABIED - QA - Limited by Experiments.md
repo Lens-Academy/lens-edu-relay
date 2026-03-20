@@ -1,6 +1,7 @@
 ---
 id: 36dea16d-1c96-4d1c-aec0-7c3f6ef25f32
-tags:
+{++{"author":"AI","timestamp":1773998516639}@@title: "Won't AIs be limited by their ability to design and run experiments?"
+++}tags:
   - lens
   - IABIED
   - supplementary

@@ -1,6 +1,7 @@
 ---
 id: 31abe48a-eb0b-4dd3-9bb7-1393c9f99a1a
-tags:
+{++{"author":"AI","timestamp":1773998515065}@@title: When Leo Szilard Saw the Future
+++}tags:
   - lens
   - IABIED
   - supplementary
