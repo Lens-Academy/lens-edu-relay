@@ -1,17 +1,14 @@
 ---
 id: 97a886d3-693a-4916-bd20-9c94a21aca96
-{++{"author":"AI","timestamp":1773996654174}@@title: "Recursion, Magic"
-++}tldr: The agricultural revolution only happened because surplus grain produced more than enough to replant. If the yield had stayed flat, nothing would have changed. This article asks the same question about AI self-improvement — does it compound, or just run faster in place?
+title: "Recursion, Magic"
+tldr: The agricultural revolution only happened because surplus grain produced more than enough to replant. If the yield had stayed flat, nothing would have changed. This article asks the same question about AI self-improvement — does it compound, or just run faster in place?
 ---
-{--{"author":"AI","timestamp":1773946997858}@@### Article: Recursion, Magic
-source:: [[../articles/recursion-magic]] 
-
---}#### Text
+#### Text
 content::
 Getting to plug the outputs of a process back into the input does not necessarily lead to an explosion though. Consider the case of EURISKO.
 
-#### {--{"author":"AI","timestamp":1773946997858}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946997858}@@Article
-source:: [[../articles/recursion-magic]]++}
+#### Article
+source:: [[../articles/recursion-magic]]
 from:: "We have historical records aplenty"
 to:: "recursive enough."
 

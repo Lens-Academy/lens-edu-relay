@@ -1,22 +1,19 @@
 ---
 id: 393019e9-7efb-4819-81e6-3c2143b26e80
-{++{"author":"AI","timestamp":1773997689108}@@title: Anthropomorphism and Mechanomorphism
-++}tags:
+title: Anthropomorphism and Mechanomorphism
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1773945989735}@@### Article: Anthropomorphism and Mechanomorphism
-source:: [[../articles/iabied-ch3-ext-anthropomorphism]]
-
---}#### Text
+#### Text
 content::
 Chapter 3 introduces two key thinking errors that derail AI predictions. This extended discussion explains why both projecting human emotions onto AIs and assuming they'll be rigid machines lead to faulty conclusions—and why the realistic approach focuses on what behavior enables the AI to succeed at its objectives.
 
-#### {--{"author":"AI","timestamp":1773945989735}@@Article-excerpt--}{++{"author":"AI","timestamp":1773945989735}@@Article
-source:: [[../articles/iabied-ch3-ext-anthropomorphism]]++}
+#### Article
+source:: [[../articles/iabied-ch3-ext-anthropomorphism]]
 to:: "indifference to humanity while pursuing their own ends."
 
 #### Text

@@ -1,21 +1,18 @@
 ---
 id: 90381b34-294e-4e2a-b884-555996939080
-{++{"author":"AI","timestamp":1773998854300}@@title: "Why are you imagining a smart AI doing such stupid, trivial things?"
-++}tags:
+title: "Why are you imagining a smart AI doing such stupid, trivial things?"
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1773946457604}@@### Article: Why are you imagining a smart AI doing such stupid, trivial things?
-source:: [[../articles/iabied-ch5-faq-stupid-trivial]]
-
---}#### Text
+#### Text
 content::
 This Q&A responds to the objection that imagining a smart AI pursuing trivial goals like titanium cubes is unrealistic. The authors argue that intelligently pursuing any goal isn't "stupid" -- it's simply pursuing different objectives. An AI can be perfectly rational, self-aware, and capable of understanding human values while being completely unmotivated to pursue them.
 
-#### {--{"author":"AI","timestamp":1773946457604}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946457604}@@Article
-source:: [[../articles/iabied-ch5-faq-stupid-trivial]]++}
+#### Article
+source:: [[../articles/iabied-ch5-faq-stupid-trivial]]
 to:: "This represents a fundamental disconnect between capability and alignment rather than any computational failing."
 
 #### Text

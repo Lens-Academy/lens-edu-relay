@@ -1,19 +1,17 @@
 ---
 id: 0142f30d-e2a6-47b3-8125-33f6fede737e
-{++{"author":"AI","timestamp":1773996851868}@@title: Without fundamental advances
-++}tldr: Many alignment proposals assume that iterating on current training with enough safety patches will probably work out. This article argues the opposite — given how we currently build AI, misalignment isn't the exception. It's what we should expect by default without fundamentally new approaches.
+title: Without fundamental advances
+tldr: Many alignment proposals assume that iterating on current training with enough safety patches will probably work out. This article argues the opposite — given how we currently build AI, misalignment isn't the exception. It's what we should expect by default without fundamentally new approaches.
 tags :
   - lens
 ---
-{--{"author":"AI","timestamp":1773947356236}@@### Article: Without fundamental advances--}, misalignment and catastrophe are the default outcomes of training powerful AIs
-{--{"author":"AI","timestamp":1773947368012}@@source:: [[../articles/gillen+barnett-without-fundamental-advances,-misalignment-and-catastrophe-are-the-default-outcomes-of-training-powerful-ai]]
-
---}#### Text
+, misalignment and catastrophe are the default outcomes of training powerful AIs
+#### Text
 content::
 Many alignment proposals assume that if we just iterate on current training and add enough safety patches, things will probably work out. This material argues the opposite: given how we currently build powerful AI systems, misalignment and catastrophe are the default outcomes
 
-#### {--{"author":"AI","timestamp":1773947369700}@@Article-excerpt--}{++{"author":"AI","timestamp":1773947369700}@@Article
-source:: [[../articles/gillen+barnett-without-fundamental-advances,-misalignment-and-catastrophe-are-the-default-outcomes-of-training-powerful-ai]]++}
+#### Article
+source:: [[../articles/gillen+barnett-without-fundamental-advances,-misalignment-and-catastrophe-are-the-default-outcomes-of-training-powerful-ai]]
 to:: "research task every 8 minutes."
 
 #### Text

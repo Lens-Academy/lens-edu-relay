@@ -1,21 +1,18 @@
 ---
 id: 9faaf0d6-779f-455d-9fb0-b92735e0b4c4
-{++{"author":"AI","timestamp":1773997687803}@@title: "Do you see alignment as all-or-nothing?"
-++}tags:
+title: "Do you see alignment as all-or-nothing?"
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1773945987119}@@### Article: Do you see alignment as all-or-nothing?
-source:: [[../articles/iabied-ch11-faq-all-or-nothing]]
-
---}#### Text
+#### Text
 content::
 This Q&A clarifies that the authors don't view alignment as all-or-nothing, but argue that "partial alignment" is still likely catastrophic. An AI acting nicely 95% of the time doesn't translate into a 95% good outcome -- there are many ways partial alignment fails to produce acceptable long-term results.
 
-#### {--{"author":"AI","timestamp":1773945987119}@@Article-excerpt--}{++{"author":"AI","timestamp":1773945987119}@@Article
-source:: [[../articles/iabied-ch11-faq-all-or-nothing]]++}
+#### Article
+source:: [[../articles/iabied-ch11-faq-all-or-nothing]]
 to:: "Of particular relevance is \"Won't AIs care at least a little about humans?\""
 
 #### Text

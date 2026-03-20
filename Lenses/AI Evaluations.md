@@ -1,15 +1,12 @@
 ---
 id: 2d930d96-1658-4143-b29c-52e3b9259396
-{++{"author":"AI","timestamp":1773996815087}@@title: AI Evaluations
-++}tldr: How do you know if an AI system is safe? Evaluations are structured tests designed to measure what models can do — especially the dangerous things. But passing a test and being safe aren't the same thing, and understanding why is the first step to better measurement.
+title: AI Evaluations
+tldr: How do you know if an AI system is safe? Evaluations are structured tests designed to measure what models can do — especially the dangerous things. But passing a test and being safe aren't the same thing, and understanding why is the first step to better measurement.
 tags:
   - lens
 ---
 
-{--{"author":"AI","timestamp":1773945784930}@@### Page: AI Evaluations
-id:: eaf174f0-0e6b-401c-9bba-f6d325beb262
-
---}#### Text
+#### Text
 content::
 This module focuses on the empirical testing of what AI systems can do and identifying the risks they pose. 
 

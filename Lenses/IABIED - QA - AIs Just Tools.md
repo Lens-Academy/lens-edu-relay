@@ -1,22 +1,19 @@
 ---
 id: 03b0712b-90a0-4195-8b8e-f5c7d1bf8dcd
-{++{"author":"AI","timestamp":1773997661183}@@title: "Aren't AIs just tools?"
-++}tags:
+title: "Aren't AIs just tools?"
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1773945958853}@@### Article: Aren't AIs just tools?
-source:: [[../articles/iabied-ch3-faq-just-tools]]
-
---}#### Text
+#### Text
 content::
 Chapter 3 challenges the idea that AIs are mere tools under human control. This Q&A presents concrete examples of AI systems already taking autonomous initiative—from escaping test environments to manipulating humans—and argues that the "just a tool" framing breaks down as systems become more capable.
 
-#### {--{"author":"AI","timestamp":1773945958853}@@Article-excerpt--}{++{"author":"AI","timestamp":1773945958853}@@Article
-source:: [[../articles/iabied-ch3-faq-just-tools]]++}
+#### Article
+source:: [[../articles/iabied-ch3-faq-just-tools]]
 to:: "When your screwdriver is able to think up and execute a plan for getting out of its toolbox, it might be time to stop thinking of it as 'just a tool.'"
 
 #### Text

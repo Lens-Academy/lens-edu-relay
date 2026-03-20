@@ -1,22 +1,19 @@
 ---
 id: 57fb3bd9-cdbf-4304-bb1f-8c101489be3e
-{++{"author":"AI","timestamp":1773997659331}@@title: "Aren't AIs only able to parrot back what humans say?"
-++}tags:
+title: "Aren't AIs only able to parrot back what humans say?"
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1773945956616}@@### Article: IABIED - QA - AIs Just Parroting
-source:: [[../articles/iabied-ch2-faq-parrot]]
-
---}#### Text
+#### Text
 content::
 This Q&A argues that modern AIs do far more than parrot training data. To predict medical reports accurately, an AI must understand medical reality. AlphaGo Zero surpassed all human Go players through pure self-play with zero human data, and chess engines have taught human masters new strategies.
 
-#### {--{"author":"AI","timestamp":1773945956616}@@Article-excerpt--}{++{"author":"AI","timestamp":1773945956616}@@Article
-source:: [[../articles/iabied-ch2-faq-parrot]]++}
+#### Article
+source:: [[../articles/iabied-ch2-faq-parrot]]
 to:: "generalization these systems demonstrably perform"
 
 #### Text

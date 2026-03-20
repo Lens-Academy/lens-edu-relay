@@ -1,15 +1,12 @@
 ---
 id: 3ac9034c-2107-4522-9bbe-36eeb3fae4ad
-{++{"author":"AI","timestamp":1773996785728}@@title: Automating Alignment
-++}tldr: What if we used today's AI to solve safety problems for tomorrow's AI? Automating alignment is a strategy where researchers use weaker models to develop safety techniques for stronger ones — creating a recursive loop that tries to keep pace with capability gains.
+title: Automating Alignment
+tldr: What if we used today's AI to solve safety problems for tomorrow's AI? Automating alignment is a strategy where researchers use weaker models to develop safety techniques for stronger ones — creating a recursive loop that tries to keep pace with capability gains.
 tags:
   - lens
 ---
 
-{--{"author":"AI","timestamp":1773945786799}@@### Page: Automating Alignment
-
-
---}#### Text
+#### Text
 content:: **Automating alignment** is the practice of using current AI systems to accelerate alignment research. It is a technical strategy to keep pace with rapid capability gains. The core logic involves a recursive loop: researchers use weak AI to find safety techniques for stronger AI. This process repeats as the power of the models increases. This loop should ideally move faster than the capabilities feedback loop.
 
 *Before you start reading the arguments for and against this agenda, try to focus your thinking by answering the question below. Discuss it with your AI tutor for as long as feels comfortable, then move on to the readings*.

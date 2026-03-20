@@ -1,22 +1,19 @@
 ---
 id: ae57162c-3ca3-4bbf-b17e-ef747f8b1c4e
-{++{"author":"AI","timestamp":1773997918550}@@title: "Will AIs have human-like emotions?"
-++}tags:
+title: "Will AIs have human-like emotions?"
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1773946185019}@@### Article: Will AIs have human-like emotions?
-source:: [[../articles/iabied-ch3-faq-human-like-emotions]]
-
---}#### Text
+#### Text
 content::
 Chapter 3 argues that AI systems will develop goal-directed behavior not because they feel emotions, but because such behavior is effective. This Q&A addresses the common intuition that truly intelligent systems must have human-like feelings, and explains why that assumption leads us astray.
 
-#### {--{"author":"AI","timestamp":1773946185019}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946185019}@@Article
-source:: [[../articles/iabied-ch3-faq-human-like-emotions]]++}
+#### Article
+source:: [[../articles/iabied-ch3-faq-human-like-emotions]]
 to:: "Machines can exhibit that same driven behavior through entirely different mechanisms."
 
 #### Text

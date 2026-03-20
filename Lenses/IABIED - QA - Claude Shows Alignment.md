@@ -1,22 +1,19 @@
 ---
 id: 16398b2f-7a5b-4335-8d5d-24e190960c4e
-{++{"author":"AI","timestamp":1773997765523}@@title: "Doesn't the Claude chatbot show signs of being aligned?"
-++}tags:
+title: "Doesn't the Claude chatbot show signs of being aligned?"
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1773946060344}@@### Article: Doesn't the Claude chatbot show signs of being aligned?
-source:: [[../articles/iabied-ch4-faq-claude-aligned]]
-
---}#### Text
+#### Text
 content::
 Chapter 4 argues that training doesn't reliably produce intended goals. This Q&A directly confronts the case of Claude — often cited as a positive example of alignment work. The response distinguishes between what an AI says about its values and what it actually prefers, using the "shoggoth with a mask" metaphor to argue that consistent surface behavior can mask fundamentally alien internal drives.
 
-#### {--{"author":"AI","timestamp":1773946060344}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946060344}@@Article
-source:: [[../articles/iabied-ch4-faq-claude-aligned]]++}
+#### Article
+source:: [[../articles/iabied-ch4-faq-claude-aligned]]
 to:: "A superintelligent version would probably develop alien priorities incompatible with human flourishing"
 
 #### Text

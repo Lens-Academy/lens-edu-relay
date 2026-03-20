@@ -1,21 +1,18 @@
 ---
 id: a9480ae0-d2d4-44ba-a323-d3e247c38ea1
-{++{"author":"AI","timestamp":1773998004976}@@title: "Can developers just keep the AI in a box?"
-++}tags:
+title: "Can developers just keep the AI in a box?"
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1773946248704}@@### Article: Can developers just keep the AI in a box?
-source:: [[../articles/iabied-ch6-faq-box]]
-
---}#### Text
+#### Text
 content::
 This Q&A addresses whether AI containment ("boxing") could work as a safety strategy. The authors argue it fails on three levels: companies won't do it (profit incentives push toward internet access), it wouldn't work even if attempted (any communication channel is exploitable), and economic competition means unilateral restraint just hands advantage to more reckless actors.
 
-#### {--{"author":"AI","timestamp":1773946248704}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946248704}@@Article
-source:: [[../articles/iabied-ch6-faq-box]]++}
+#### Article
+source:: [[../articles/iabied-ch6-faq-box]]
 to:: "Any channel through which the AI can affect the world is a channel that it can use to do things you don't like."
 
 #### Text
