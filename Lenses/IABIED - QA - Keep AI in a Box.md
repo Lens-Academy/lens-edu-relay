@@ -19,7 +19,7 @@ to:: "Any channel through which the AI can affect the world is a channel that it
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### {--{"author":"AI","timestamp":1774006478562}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006478562}@@Chat++}
+#### Chat
 instructions::
 The student just read a supplementary Q&A from the book's website about whether developers could keep AI contained in a box.
 TLDR: AI boxing fails on three levels: companies won't do it (profit motives), it wouldn't work (any channel for useful output is exploitable by a superintelligence), and competitive dynamics mean restraint just advantages reckless actors. A completely isolated AI is useless; a useful AI necessarily has influence channels.

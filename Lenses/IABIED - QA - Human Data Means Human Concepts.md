@@ -19,7 +19,7 @@ to:: "Training data alone cannot ensure an AI cares about humans in ways that ma
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### {--{"author":"AI","timestamp":1774006445680}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006445680}@@Chat++}
+#### Chat
 instructions::
 The student just read a supplementary Q&A from the book's website about whether training on human data makes AIs care about human concepts.
 TLDR: While AIs trained on human data do learn about human concepts, knowing about "love" and "kindness" for text prediction is very different from being genuinely motivated by those values. The alignment problem remains because caring must be calibrated precisely right, and training data alone can't achieve this.

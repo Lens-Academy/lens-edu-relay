@@ -1,8 +1,8 @@
 ---
 title: "Will AI treat us as its 'parents'?"
 source_url: https://ifanyonebuildsit.com/5/will-ai-treat-us-as-its-parents
-{++{"author":"AI","timestamp":1774006877987}@@published: 2025-09-16
-++}author:
+published: 2025-09-16
+author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

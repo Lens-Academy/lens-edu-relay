@@ -1,8 +1,8 @@
 ---
 title: "Why does Sable end up thinking the way it does?"
 source_url: https://ifanyonebuildsit.com/ii/why-does-sable-end-up-thinking-the-way-it-does
-{++{"author":"AI","timestamp":1774006964281}@@published: 2025-09-16
-++}author:
+published: 2025-09-16
+author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

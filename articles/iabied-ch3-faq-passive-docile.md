@@ -1,8 +1,8 @@
 ---
 title: "Can we just train AIs to be more passive and docile?"
 source_url: https://ifanyonebuildsit.com/3/can-we-just-train-ais-to-be-more-passive-and-docile
-{++{"author":"AI","timestamp":1774006796476}@@published: 2025-09-16
-++}author:
+published: 2025-09-16
+author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

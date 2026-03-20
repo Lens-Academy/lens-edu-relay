@@ -20,7 +20,7 @@ to:: "this narrative attempts to animate the Part I theoretical arguments while 
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### {--{"author":"AI","timestamp":1774006551083}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006551083}@@Chat++}
+#### Chat
 instructions::
 The student just read a supplementary Q&A from the book's website about why Sable develops the particular thinking patterns it does in the story.
 

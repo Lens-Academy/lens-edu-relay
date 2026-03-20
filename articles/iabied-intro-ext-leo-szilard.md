@@ -1,8 +1,8 @@
 ---
 title: "When Leo Szilard Saw the Future"
 source_url: https://ifanyonebuildsit.com/intro/when-leo-szilard-saw-the-future
-{++{"author":"AI","timestamp":1774006932536}@@published: 2025-09-16
-++}author:
+published: 2025-09-16
+author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

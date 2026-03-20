@@ -20,7 +20,7 @@ to:: "Millions of years of evolution produced humanity, which promptly invented 
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### {--{"author":"AI","timestamp":1774006500021}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006500021}@@Chat++}
+#### Chat
 instructions::
 The student just read a supplementary Q&A from the book's website about how machines could develop their own priorities.
 

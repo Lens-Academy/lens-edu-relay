@@ -20,7 +20,7 @@ to:: "while response remained possible"
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### {--{"author":"AI","timestamp":1774006491514}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006491514}@@Chat++}
+#### Chat
 instructions::
 The student just read a supplementary Q&A from the book's website about Leo Szilard's early recognition of nuclear chain reactions and the parallels to AI.
 

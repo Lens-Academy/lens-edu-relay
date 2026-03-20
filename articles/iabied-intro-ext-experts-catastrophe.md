@@ -1,8 +1,8 @@
 ---
 title: "AI Experts on Catastrophe Scenarios"
 source_url: https://ifanyonebuildsit.com/intro/ai-experts-on-catastrophe-scenarios
-{++{"author":"AI","timestamp":1774006931479}@@published: 2025-09-16
-++}author:
+published: 2025-09-16
+author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

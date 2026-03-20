@@ -19,7 +19,7 @@ to:: "AIs that are animated by a complex collection of drives that point who-kno
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### {--{"author":"AI","timestamp":1774006435404}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006435404}@@Chat++}
+#### Chat
 instructions::
 The student just read a supplementary Q&A from the book's website about whether correlated good behaviors in AI experiments suggest alignment is achievable.
 TLDR: While experiments show bad behaviors correlate in AI, this is only a minor positive update. The "goodness vector" may not represent genuine values, and an AI displaying good behavior is fundamentally different from one motivated by genuine benevolence. Modern AIs are described as "aliens wearing many masks."

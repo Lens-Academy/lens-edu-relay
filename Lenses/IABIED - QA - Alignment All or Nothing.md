@@ -1,5 +1,5 @@
 ---
-id: {--{"author":"AI","timestamp":1774007105615}@@9faaf0d6-779f-455d-9fb0-b92735e0b4c4--}{++{"author":"AI","timestamp":1774007105615}@@c958fdba-a5e4-437f-81f4-f5ea69c6053b++}
+id: c958fdba-a5e4-437f-81f4-f5ea69c6053b
 title: "Do you see alignment as all-or-nothing?"
 tags:
   - lens
@@ -19,7 +19,7 @@ to:: "Of particular relevance is \"Won't AIs care at least a little about humans
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### {--{"author":"AI","timestamp":1774006378980}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006378980}@@Chat++}
+#### Chat
 instructions::
 The student just read a supplementary Q&A from the book's website about whether alignment is an all-or-nothing problem.
 TLDR: Alignment doesn't need to be perfect, but "partial" or "mostly" aligned AIs won't produce proportionally okay outcomes. An AI that acts nice 95% of the time can still lead to catastrophe.

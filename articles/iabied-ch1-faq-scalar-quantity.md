@@ -1,8 +1,8 @@
 ---
 title: "Is 'intelligence' a simple scalar quantity?"
 source_url: https://ifanyonebuildsit.com/1/is-intelligence-a-simple-scalar-quantity
-{++{"author":"AI","timestamp":1774006699921}@@published: 2025-09-16
-++}author:
+published: 2025-09-16
+author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

@@ -1,5 +1,5 @@
 ---
-id: {--{"author":"AI","timestamp":1774007028362}@@36dea16d-1c96-4d1c-aec0-7c3f6ef25f32--}{++{"author":"AI","timestamp":1774007028362}@@a48d0490-027e-421f-b064-943425076a39++}
+id: a48d0490-027e-421f-b064-943425076a39
 title: "Is intelligence a meaningful concept?"
 tags:
   - lens
@@ -20,7 +20,7 @@ to:: "comparable real-world impacts"
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### {--{"author":"AI","timestamp":1774006461097}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006461097}@@Chat++}
+#### Chat
 instructions::
 The student just read a supplementary Q&A from the book's website about whether intelligence is a meaningful concept.
 

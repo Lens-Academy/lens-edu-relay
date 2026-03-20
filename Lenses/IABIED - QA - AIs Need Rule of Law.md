@@ -19,7 +19,7 @@ to:: "All AIs would likely prefer outcomes where they control Earth's resources 
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### {--{"author":"AI","timestamp":1774006376001}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006376001}@@Chat++}
+#### Chat
 instructions::
 The student just read a supplementary Q&A from the book's website about whether AIs would need the rule of law.
 TLDR: Even if multiple superintelligent AIs develop something like a legal system, humans would have no leverage to participate. AIs could inspect each other's minds to verify trustworthiness, a capability unavailable to humans. The mouse-city thought experiment illustrates why human property rights would be unstable against superintelligent entities.

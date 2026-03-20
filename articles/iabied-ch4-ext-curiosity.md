@@ -1,8 +1,8 @@
 ---
 title: "Curiosity Isn't Convergent"
 source_url: https://ifanyonebuildsit.com/4/curiosity-isnt-convergent
-{++{"author":"AI","timestamp":1774006797184}@@published: 2025-09-16
-++}author:
+published: 2025-09-16
+author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

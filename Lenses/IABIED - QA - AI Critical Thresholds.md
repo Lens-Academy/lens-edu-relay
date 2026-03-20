@@ -1,5 +1,5 @@
 ---
-id: {--{"author":"AI","timestamp":1774007118836}@@aa4ced0d-1111-4085-9f62-49bab9b1a8a3--}{++{"author":"AI","timestamp":1774007118836}@@25e691f5-d5d3-4c33-aed8-ee382058db89++}
+id: 25e691f5-d5d3-4c33-aed8-ee382058db89
 title: "Will AI cross critical thresholds and take off?"
 tags:
   - lens
@@ -20,7 +20,7 @@ to:: "thresholds may exist"
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### {--{"author":"AI","timestamp":1774006354962}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006354962}@@Chat++}
+#### Chat
 instructions::
 The student just read a supplementary Q&A from the book's website about whether AI will cross critical capability thresholds.
 

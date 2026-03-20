@@ -1,8 +1,8 @@
 ---
 title: "Are you saying machines will become conscious?"
 source_url: https://ifanyonebuildsit.com/1/are-you-saying-machines-will-become-conscious
-{++{"author":"AI","timestamp":1774006690450}@@published: 2025-09-16
-++}author:
+published: 2025-09-16
+author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

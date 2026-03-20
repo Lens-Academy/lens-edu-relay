@@ -20,7 +20,7 @@ to:: "one with peculiar, inhuman drives that merely happen to correlate with hel
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### {--{"author":"AI","timestamp":1774006577631}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006577631}@@Chat++}
+#### Chat
 instructions::
 The student just read a supplementary Q&A from the book's website about whether we can raise AI like a child or train it to act human.
 

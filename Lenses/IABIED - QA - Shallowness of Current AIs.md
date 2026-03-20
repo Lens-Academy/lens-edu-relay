@@ -20,7 +20,7 @@ to:: "radically and fundamentally differ from humans in many ways"
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### {--{"author":"AI","timestamp":1774006553787}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006553787}@@Chat++}
+#### Chat
 instructions::
 The student just read a supplementary Q&A from the book's website about the shallowness of current AI systems.
 

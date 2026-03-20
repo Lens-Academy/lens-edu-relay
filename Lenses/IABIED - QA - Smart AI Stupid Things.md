@@ -19,7 +19,7 @@ to:: "This represents a fundamental disconnect between capability and alignment 
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### {--{"author":"AI","timestamp":1774006559555}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006559555}@@Chat++}
+#### Chat
 instructions::
 The student just read a supplementary Q&A from the book's website about why a smart AI might pursue seemingly stupid or trivial goals.
 TLDR: Pursuing titanium cubes intelligently isn't stupid -- it's just different from human goals. An AI can understand happiness and fulfillment perfectly while recognizing they aren't cubes, and therefore not steering toward them. The disconnect between capability and alignment is the core issue.

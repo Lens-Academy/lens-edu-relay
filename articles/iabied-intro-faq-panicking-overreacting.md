@@ -1,8 +1,8 @@
 ---
 title: "Aren't people always panicking and overreacting to things?"
 source_url: https://ifanyonebuildsit.com/intro/arent-people-always-panicking-and-overreacting-to-things
-{++{"author":"AI","timestamp":1774006944138}@@published: 2025-09-16
-++}author:
+published: 2025-09-16
+author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

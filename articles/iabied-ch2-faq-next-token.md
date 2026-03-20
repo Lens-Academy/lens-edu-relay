@@ -1,8 +1,8 @@
 ---
 title: "Aren't AIs just predicting the next token?"
 source_url: https://ifanyonebuildsit.com/2/arent-ais-just-predicting-the-next-token
-{++{"author":"AI","timestamp":1774006763497}@@published: 2025-09-16
-++}author:
+published: 2025-09-16
+author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

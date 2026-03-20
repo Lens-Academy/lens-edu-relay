@@ -19,7 +19,7 @@ to:: "Adding more AIs doesn't help when we lack the capability to structure thei
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### {--{"author":"AI","timestamp":1774006494590}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006494590}@@Chat++}
+#### Chat
 instructions::
 The student just read a supplementary Q&A from the book's website about whether having lots of different AIs would help with alignment.
 TLDR: Multiple AIs with different weird objectives don't solve the problem — at least some must genuinely want human flourishing, and current methods can't reliably produce that.

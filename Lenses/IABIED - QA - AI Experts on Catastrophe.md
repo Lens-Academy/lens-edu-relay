@@ -1,5 +1,5 @@
 ---
-id: {--{"author":"AI","timestamp":1774007048051}@@39b965c6-1a8d-43f7-9229-121e0ea8d517--}{++{"author":"AI","timestamp":1774007048051}@@07355bf9-38b4-41a5-b4a8-05a23aed71be++}
+id: 07355bf9-38b4-41a5-b4a8-05a23aed71be
 title: AI Experts on Catastrophe Scenarios
 tags:
   - lens
@@ -20,7 +20,7 @@ to:: "even 5% extinction risk justifies urgent action"
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### {--{"author":"AI","timestamp":1774006356943}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006356943}@@Chat++}
+#### Chat
 instructions::
 The student just read a supplementary Q&A from the book's website compiling expert views on AI catastrophe risk.
 

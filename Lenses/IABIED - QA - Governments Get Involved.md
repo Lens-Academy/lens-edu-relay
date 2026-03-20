@@ -1,5 +1,5 @@
 ---
-id: {--{"author":"AI","timestamp":1774007023509}@@12bfc64a-dc20-459f-a448-522e9ae8e7d0--}{++{"author":"AI","timestamp":1774007023509}@@ab553a4a-66b9-4191-bfe5-9178ebb5fec1++}
+id: ab553a4a-66b9-4191-bfe5-9178ebb5fec1
 title: "Won't the situation get better once governments get more involved?"
 tags:
   - lens
@@ -19,7 +19,7 @@ to:: "Extended resources examine why international cooperation alone proves insu
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### {--{"author":"AI","timestamp":1774006436160}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006436160}@@Chat++}
+#### Chat
 instructions::
 The student just read a supplementary Q&A from the book's website about whether government involvement will improve AI safety.
 TLDR: Everyone in power — politicians and AI companies alike — assumes someone else will handle the alignment problem. Governments haven't mustered serious responses and risk treating AI as normal technology.

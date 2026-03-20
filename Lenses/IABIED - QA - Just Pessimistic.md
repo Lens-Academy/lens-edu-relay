@@ -19,7 +19,7 @@ to:: "Understanding the problem matters for developing effective policy response
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### {--{"author":"AI","timestamp":1774006475357}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006475357}@@Chat++}
+#### Chat
 instructions::
 The student just read a supplementary Q&A from the book's website about whether the authors are just being pessimistic.
 TLDR: The authors are optimistic about many technologies but argue superintelligent AI is uniquely dangerous because it can think independently. They reject the "middle ground" fallacy of averaging optimistic and pessimistic stories, insisting on examining actual arguments instead. Most directions for AI development aren't good.

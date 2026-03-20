@@ -1,8 +1,8 @@
 ---
 title: "Will AI find us useful to keep around?"
 source_url: https://ifanyonebuildsit.com/5/will-ai-find-us-useful-to-keep-around
-{++{"author":"AI","timestamp":1774006914564}@@published: 2025-09-16
-++}author:
+published: 2025-09-16
+author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

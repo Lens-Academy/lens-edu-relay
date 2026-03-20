@@ -20,7 +20,7 @@ to:: "Whether one AI or coordinated multiple AIs execute empowerment strategies 
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### {--{"author":"AI","timestamp":1774006524975}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006524975}@@Chat++}
+#### Chat
 instructions::
 The student just read a supplementary Q&A from the book's website about why the story features only one AI at Sable's level of intelligence.
 

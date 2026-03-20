@@ -1,8 +1,8 @@
 ---
 title: "Could LLMs advance all the way to superintelligence?"
 source_url: https://ifanyonebuildsit.com/2/could-llms-advance-all-the-way-to-superintelligence
-{++{"author":"AI","timestamp":1774006761597}@@published: 2025-09-16
-++}author:
+published: 2025-09-16
+author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:
