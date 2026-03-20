@@ -1,6 +1,7 @@
 ---
 id: 12bfc64a-dc20-459f-a448-522e9ae8e7d0
-tags:
+{++{"author":"AI","timestamp":1773998544362}@@title: "Won't machines be fundamentally uncreative, or otherwise fatally flawed?"
+++}tags:
   - lens
   - IABIED
   - supplementary

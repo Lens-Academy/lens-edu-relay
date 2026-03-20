@@ -1,6 +1,7 @@
 ---
 id: 5f3a58d3-6e56-4226-a6e2-dd6e1b8cbafd
-tags:
+{++{"author":"AI","timestamp":1773998548182}@@title: "Aren't developers regularly making their AIs nice and safe and obedient?"
+++}tags:
   - lens
   - IABIED
   - supplementary

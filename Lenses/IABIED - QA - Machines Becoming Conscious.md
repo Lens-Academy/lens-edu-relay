@@ -1,6 +1,7 @@
 ---
 id: e2d3e554-c4ee-46f9-b9a1-96984c80b23f
-tags:
+{++{"author":"AI","timestamp":1773998542309}@@title: "Are you saying machines will become conscious?"
+++}tags:
   - lens
   - IABIED
   - supplementary

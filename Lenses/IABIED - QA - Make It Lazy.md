@@ -1,6 +1,7 @@
 ---
 id: 1af9ac9a-8ab1-48cc-a72e-39c2ca9d7027
-tags:
+{++{"author":"AI","timestamp":1773998545652}@@title: "Can we just make it lazy?"
+++}tags:
   - lens
   - IABIED
   - supplementary
