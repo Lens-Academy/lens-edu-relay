@@ -1,6 +1,7 @@
 ---
 id: 8a701cd5-82b1-46a2-8ebb-e08d10588177
-tldr: Humans dominate Earth not because we're the strongest or fastest, but because we're the best general problem-solvers. Kurzgesagt explores what happens as AI moves from narrow tools toward something more general — and why digital minds could scale in ways biological ones can't.
+{++{"author":"AI","timestamp":1773996628699}@@title: "A.I. - Humanity's Final Invention"
+++}tldr: Humans dominate Earth not because we're the strongest or fastest, but because we're the best general problem-solvers. Kurzgesagt explores what happens as AI moves from narrow tools toward something more general — and why digital minds could scale in ways biological ones can't.
 ---
 {--{"author":"AI","timestamp":1773945819230}@@### Video: A.I. - Humanity's Final Invention
 source:: [[../video_transcripts/kurzgesagt-ai-humanitys-final-invention]]
