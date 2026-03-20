@@ -14,8 +14,8 @@ This Q&A reframes "intelligence" beyond the narrow academic sense. The authors m
 
 #### Article
 source:: [[../articles/iabied-ch1-faq-intelligence-overrated]]
-to:: "civilization-building and technological advancement"
-
+{--{"author":"AI","timestamp":1774008951221}@@to:: "civilization-building and technological advancement"
+--}
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

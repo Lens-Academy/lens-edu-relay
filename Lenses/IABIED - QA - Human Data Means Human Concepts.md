@@ -13,8 +13,8 @@ This Q&A addresses whether training on human data would make AIs care about huma
 
 #### Article
 source:: [[../articles/iabied-ch5-faq-human-data-care]]
-to:: "Training data alone cannot ensure an AI cares about humans in ways that matter for our survival."
-
+{--{"author":"AI","timestamp":1774008943962}@@to:: "Training data alone cannot ensure an AI cares about humans in ways that matter for our survival."
+--}
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

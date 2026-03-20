@@ -14,8 +14,8 @@ Chapter 3 argues that AI systems will develop goal-directed behavior not because
 
 #### Article
 source:: [[../articles/iabied-ch3-faq-human-like-emotions]]
-to:: "Machines can exhibit that same driven behavior through entirely different mechanisms."
-
+{--{"author":"AI","timestamp":1774008948611}@@to:: "Machines can exhibit that same driven behavior through entirely different mechanisms."
+--}
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?
