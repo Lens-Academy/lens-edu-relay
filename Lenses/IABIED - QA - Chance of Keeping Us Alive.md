@@ -13,8 +13,7 @@ This Q&A directly addresses whether any hope exists for AI preserving humanity. 
 
 #### Article
 source:: [[../articles/iabied-ch5-faq-chance-alive]]
-{--{"author":"AI","timestamp":1774008875783}@@to:: "we shouldn't drink the poison."
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

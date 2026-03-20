@@ -13,8 +13,7 @@ This Q&A challenges the assumption that increased intelligence leads to increase
 
 #### Article
 source:: [[../articles/iabied-ch5-faq-kinder-smarter]]
-{--{"author":"AI","timestamp":1774008988875}@@to:: "Intelligence amplifies existing goals rather than transforming them."
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

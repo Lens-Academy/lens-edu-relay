@@ -13,8 +13,7 @@ This Q&A addresses whether an AI pursuing seemingly trivial goals would get bore
 
 #### Article
 source:: [[../articles/iabied-ch5-faq-boring-goals]]
-{--{"author":"AI","timestamp":1774008865226}@@to:: "nothing compels it to adopt human-like emotional responses to those objectives."
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

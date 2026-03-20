@@ -13,8 +13,7 @@ This Q&A challenges the justification that racing ahead in AI development is nec
 
 #### Article
 source:: [[../articles/iabied-ch11-faq-race-alignment]]
-{--{"author":"AI","timestamp":1774009203599}@@to:: "Those continuing despite warning signs likely pursued other objectives despite earlier justifications."
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

@@ -13,8 +13,7 @@ This Q&A asks whether designing AI to be "lazy" could prevent catastrophic outco
 
 #### Article
 source:: [[../articles/iabied-ch5-faq-make-lazy]]
-{--{"author":"AI","timestamp":1774009034035}@@to:: "a lazy superintelligence would rationally build harder-working minds without hesitation, making satisficing AIs an unstable equilibrium."
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?
