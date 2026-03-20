@@ -1,22 +1,19 @@
 ---
 id: ed98cb7a-2bd5-42f5-909d-a5220052033a
-{++{"author":"AI","timestamp":1773998761557}@@title: "If the story started later, would the world be better prepared?"
-++}tags:
+title: "If the story started later, would the world be better prepared?"
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1773946462720}@@### Article: If the story started later, would the world be better prepared?
-source:: [[../articles/iabied-ptii-faq-started-later]]
-
---}#### Text
+#### Text
 content::
 This Q&A examines whether more time before superintelligence arrives would help. The authors consider defensive measures like DNA synthesis controls and cybersecurity hardening, but argue these would be insufficient against an adversarial superintelligence. The realistic intervention point is before creation, not after.
 
-#### {--{"author":"AI","timestamp":1773946462720}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946462720}@@Article
-source:: [[../articles/iabied-ptii-faq-started-later]]++}
+#### Article
+source:: [[../articles/iabied-ptii-faq-started-later]]
 to:: "Attempting to harden the world afterward represents 'the most difficult thing humanity has ever done' and would almost certainly fail."
 
 #### Text

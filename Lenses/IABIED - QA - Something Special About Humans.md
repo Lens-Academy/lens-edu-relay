@@ -1,22 +1,19 @@
 ---
 id: 568cb83e-08e2-47ec-8993-38384de56124
-{++{"author":"AI","timestamp":1773998759667}@@title: "Isn't there something special about humans that mere machines could never emulate?"
-++}tags:
+title: "Isn't there something special about humans that mere machines could never emulate?"
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1773946460134}@@### Article: IABIED - QA - Something Special About Humans
-source:: [[../articles/iabied-ch1-faq-special-humans]]
-
---}#### Text
+#### Text
 content::
 This Q&A argues that human uniqueness is unlikely and not especially relevant to AI risk. Even if some human capabilities are hard to replicate, AI could achieve equivalent results through different methods — just as Deep Blue played chess through completely different mechanisms than Kasparov. What matters is capability, not similarity.
 
-#### {--{"author":"AI","timestamp":1773946460134}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946460134}@@Article
-source:: [[../articles/iabied-ch1-faq-special-humans]]++}
+#### Article
+source:: [[../articles/iabied-ch1-faq-special-humans]]
 to:: "practical concerns surrounding superintelligent systems"
 
 #### Text

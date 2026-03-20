@@ -1,21 +1,18 @@
 ---
 id: 8cb088a9-a296-4403-95a5-278c13ec3983
-{++{"author":"AI","timestamp":1773997631737}@@title: "Will AI find us useful enough to keep around?"
-++}tags:
+title: "Will AI find us useful enough to keep around?"
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1773945927639}@@### Article: Will AI find us useful to keep around?
-source:: [[../articles/iabied-ch5-faq-useful-keep]]
-
---}#### Text
+#### Text
 content::
 This Q&A addresses whether superintelligent AI would keep humans around for practical reasons. The authors argue that humans are rarely the most efficient solution to any problem, pointing to evidence that AI-human teams already underperform AI alone in domains like chess and medicine. Without specifically programmed preferences for human welfare, a superintelligence would likely allocate resources elsewhere.
 
-#### {--{"author":"AI","timestamp":1773945927639}@@Article-excerpt--}{++{"author":"AI","timestamp":1773945927639}@@Article
-source:: [[../articles/iabied-ch5-faq-useful-keep]]++}
+#### Article
+source:: [[../articles/iabied-ch5-faq-useful-keep]]
 to:: "without specific programmed preferences favoring human welfare, superintelligent systems would likely allocate resources elsewhere."
 
 #### Text

@@ -6,15 +6,12 @@ tags:
   - supplementary
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1773945896034}@@### Article: Would smarter-than-human AI be conscious?
-source:: [[../articles/iabied-ch5-faq-conscious]]
-
---}#### Text
+#### Text
 content::
 This brief Q&A addresses whether superintelligent AI would be conscious. The authors' best guess is "probably not," and they treat the question as largely separate from AI danger. Whether conscious or unconscious, an optimizer pursuing misaligned goals poses the same existential threat.
 
-#### {--{"author":"AI","timestamp":1773945896034}@@Article-excerpt--}{++{"author":"AI","timestamp":1773945896034}@@Article
-source:: [[../articles/iabied-ch5-faq-conscious]]++}
+#### Article
+source:: [[../articles/iabied-ch5-faq-conscious]]
 to:: "An unconscious optimizer pursuing goals misaligned with human values would be just as dangerous as a conscious one."
 
 #### Text

@@ -9,10 +9,10 @@ tags:
   - work-in-progress
 ---
 
-# {--{"author":"AI","timestamp":1773948111547}@@Page:--}{++{"author":"AI","timestamp":1773948111547}@@Lens:++} Welcome
+# Lens: Welcome
 id:: c9e0e94a-e007-4e4b-afb4-3417fe2cbcb4
 
-{--{"author":"AI","timestamp":1773948111547}@@##--}{++{"author":"AI","timestamp":1773948111547}@@####++} Text
+#### Text
 content:: Welcome to our introductory AI safety course. We're using the book *If Anyone Builds It, Everyone Dies* as our primary source for this book club. We use the word "book-club" lightly in this context. The author of this module (Chris) has been a long-time member of a book club and has been told that his book club is unusual in that they focus on the books, whereas most book clubs (apparently) serve as an excuse to drink wine and socialize. This book club will push in the opposite direction: we'll ask you to interact with our AI tutor and do homework assignments each week in order to help the material stick.
 
 The reading requirement is quite modest: We only cover 32 pages of the book per week, which we'll estimate as approximately 1 hour of reading. However, we'll also expect that each student will spend
@@ -26,7 +26,7 @@ We hope this book club will also help grow the AI safety community. Some of thes
 
 **This week's reading:** Introduction ("Hard Calls and Easy Calls") + Chapter 1 ("Humanity's Special Power") + Chapter 2 ("Grown, Not Crafted"). After reading, come back here to discuss with the tutor.
 
-{--{"author":"AI","timestamp":1773948117952}@@##--}{++{"author":"AI","timestamp":1773948117952}@@####++} Chat
+#### Chat
 instructions::
 The student has just read the Introduction, Chapter 1, and Chapter 2 of "If Anyone Builds It, Everyone Dies."
 

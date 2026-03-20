@@ -1,20 +1,17 @@
 ---
 id: c1cba6fe-1661-458e-83e6-eaebe2b2046b
-{++{"author":"AI","timestamp":1773996725107}@@title: Utopia
-++}tags:
+title: Utopia
+tags:
   - lens
   - work-in-progress
   - validator-ignore
 ---
-{--{"author":"AI","timestamp":1773947226735}@@### Article: Utopia
-source:: [[../articles/bostrom-utopia]]
-
---}#### Text
+#### Text
 content::
 `<introductory text>`
 
-#### {--{"author":"AI","timestamp":1773947226735}@@Article-excerpt--}{++{"author":"AI","timestamp":1773947226735}@@Article
-source:: [[../articles/bostrom-utopia]]++}
+#### Article
+source:: [[../articles/bostrom-utopia]]
 to:: "`<an exact quote from the article where the exerpt should stop>`"
 
 #### Text

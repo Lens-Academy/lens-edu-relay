@@ -1,21 +1,18 @@
 ---
 id: 568cb83e-08e2-47ec-8993-38384de56124
-{++{"author":"AI","timestamp":1773998669937}@@title: "Won't the most reckless companies naturally be the most incompetent, and thus not a threat?"
-++}tags:
+title: "Won't the most reckless companies naturally be the most incompetent, and thus not a threat?"
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1773946423700}@@### Article: Won't the most reckless companies naturally be the most incompetent, and thus not a threat?
-source:: [[../articles/iabied-ch11-faq-reckless-incompetent]]
-
---}#### Text
+#### Text
 content::
 This Q&A challenges the assumption that reckless companies will be too incompetent to pose a threat. Using Volkswagen and Boeing as examples, the authors show that corner-cutting is often competitively advantageous. Even the "cautious" AI companies are still reckless by any normal standard.
 
-#### {--{"author":"AI","timestamp":1773946423700}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946423700}@@Article
-source:: [[../articles/iabied-ch11-faq-reckless-incompetent]]++}
+#### Article
+source:: [[../articles/iabied-ch11-faq-reckless-incompetent]]
 to:: "And the less reckless companies are very visibly not on top of the challenges."
 
 #### Text

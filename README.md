@@ -42,25 +42,25 @@ e.g. `Lens Educational Content/Modules/module.md`
 Required frontmatter: `slug`, `title`, `id`
 
 Any number of
-\# {--{"author":"AI","timestamp":1773948670812}@@Text Page:--}{++{"author":"AI","timestamp":1773948670812}@@Lens: (inline with `id::` + segments, or referenced with `source::`)++}
+\# Lens: (inline with `id::` + segments, or referenced with `source::`)
 \# Learning Outcome:
 
 Wiki-links must use relative paths (e.g. `[[../video_transcripts/...]]`) and targets must exist.
 
 Example:
 ```md
-# {--{"author":"AI","timestamp":1773948670812}@@Text Page:--}{++{"author":"AI","timestamp":1773948670812}@@Lens: Welcome++}
-id::{++{"author":"AI","timestamp":1773948670812}@@ <uuid>++}
-{++{"author":"AI","timestamp":1773948670812}@@#### Text
-++}content::
+# Lens: Welcome
+id:: <uuid>
+#### Text
+content::
 Lorum Ipsum
 
 # Learning Outcome:
 [[link to Learning Outcome note]]
 
-# {--{"author":"AI","timestamp":1773948670812}@@Learning Outcome:--}{++{"author":"AI","timestamp":1773948670812}@@Lens:
-optional:: true++}
-{++{"author":"AI","timestamp":1773948670812}@@source:: ++}[[link to {--{"author":"AI","timestamp":1773948670812}@@2nd learning outcome--}{++{"author":"AI","timestamp":1773948670812}@@Lens++} note]]
+# Lens:
+optional:: true
+source:: [[link to Lens note]]
 ```
 
 #### Learning Outcomes
@@ -87,35 +87,21 @@ Example:
 e.g. `Lens Educational Content/Lenses/lens.md`
 Required frontmatter: `id`
 
-{--{"author":"AI","timestamp":1773948682038}@@Valid section types: `Video`, `Article`, `Text`, `Chat`
-
-Any number of
-\### Video: or Article:
-\#### Text:
-\#### Video-excerpt or Article-excerpt:
-\#### Chat
-
-Each section type has required fields (see example below).
-
-Example:
-```md
-### Video: or Article:
-source:: [[link to video_transcript or article note]]--}{++{"author":"AI","timestamp":1773948682038}@@Lenses are flat: frontmatter + H4 segments. No H3 section headers.
+Lenses are flat: frontmatter + H4 segments. No H3 section headers.
 
 Valid segment types: `Text`, `Chat`, `Article`, `Video`, `Question`, `Roleplay`
 
-Article/Video segments carry a `source::` field (inherited from prior segment of same type).++}
+Article/Video segments carry a `source::` field (inherited from prior segment of same type).
 
-{++{"author":"AI","timestamp":1773948682038}@@Example:
+Example:
 ```md
-++}#### Text
+#### Text
 content::
 Lorum Ipsum
 
-#### {--{"author":"AI","timestamp":1773948682038}@@Video-excerpt or Article-excerpt--}{++{"author":"AI","timestamp":1773948682038}@@Article
-source:: [[../articles/article-name]]++}
-{--{"author":"AI","timestamp":1773948682038}@@(optional) from:: 1:18
-(optional) to:: 15:38--}{++{"author":"AI","timestamp":1773948682038}@@to:: "exact quote where excerpt stops"++}
+#### Article
+source:: [[../articles/article-name]]
+to:: "exact quote where excerpt stops"
 
 #### Text
 content::
@@ -124,7 +110,7 @@ Lorum Ipsum
 #### Chat
 instructions::
 You're an AI tutor
-```{++{"author":"AI","timestamp":1773948682038}@@
+```
 
 Video example:
 ```md
@@ -132,5 +118,5 @@ Video example:
 source:: [[../video_transcripts/video-name]]
 from:: 1:18
 to:: 15:38
-```++}
+```
 

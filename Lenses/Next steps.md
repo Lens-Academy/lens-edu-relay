@@ -1,14 +1,11 @@
 ---
 id: f5e812a2-04d7-40a4-9492-c59d7273f7f8
-{++{"author":"AI","timestamp":1773996926585}@@title: Next steps
-++}tldr: 
+title: Next steps
+tldr: 
 tags:
   - lens
 ---
-{--{"author":"AI","timestamp":1773945789088}@@### Page: Next steps
-id:: ae10d3aa-9adb-47f6-a8f8-3c85da98f88e
-
---}#### Text
+#### Text
 content::
 At this point, the question is not only what AI might do to the world. It is also whether I am ready to treat this as a field in which my own actions could matter.
 

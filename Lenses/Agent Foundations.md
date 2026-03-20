@@ -1,14 +1,12 @@
 ---
 id: 9e925489-937b-4317-9bd1-f3d59807ab3a
-{++{"author":"AI","timestamp":1773996783953}@@title: Agent Foundations
-++}tldr: What if current neural networks are too messy to reason about safely? Agent Foundations treats AI safety as a formal mathematical problem, seeking universal laws that govern any intelligent system — building safety from first principles rather than patching current systems.
+title: Agent Foundations
+tldr: What if current neural networks are too messy to reason about safely? Agent Foundations treats AI safety as a formal mathematical problem, seeking universal laws that govern any intelligent system — building safety from first principles rather than patching current systems.
 tags:
   - lens
 ---
 
-{--{"author":"AI","timestamp":1773945785576}@@### Page: Agent Foundations
-
---}#### Text
+#### Text
 content::
 This module approaches safety through the lens of mathematical theory, formal logic, and the fundamental nature of agency.
 

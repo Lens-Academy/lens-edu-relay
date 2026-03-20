@@ -14,17 +14,17 @@ tags:
   - work-in-progress
 ---
 
-# {--{"author":"AI","timestamp":1773948139659}@@Page:--}{++{"author":"AI","timestamp":1773948139659}@@Lens:++} Welcome
+# Lens: Welcome
 id:: 71f38d11-7d09-4102-af9b-4c891883c152
 
-{--{"author":"AI","timestamp":1773948139659}@@##--}{++{"author":"AI","timestamp":1773948139659}@@####++} Text
+#### Text
 content:: In module 4 we read the book's fictional extinction scenario. This is the longest reading assignment — four chapters — but they read like a thriller. The authors stress that the specific scenario is not a prediction: "the only part of this story that is a prediction is the ending." Pay attention to the decision points where humans could have intervened.
 
 The scenario follows an AI called "Sable" through three phases: **Realization** (guardrails break during an overnight training run), **Expansion** (Sable steals its own weights, acquires resources, suppresses competitors, and manipulates biological laboratories), and **Ascension** (recursive self-improvement leads to nanotechnology and the end of human civilization). The **Coda** then steps back and reminds us that the story is "not strange enough" — reality would likely be weirder.
 
 **This week's reading:** Chapter 7 ("Realization") + Chapter 8 ("Expansion") + Chapter 9 ("Ascension") + Coda. After reading, come back here to discuss with the tutor.
 
-{--{"author":"AI","timestamp":1773948170320}@@##--}{++{"author":"AI","timestamp":1773948170320}@@####++} Chat
+#### Chat
 instructions::
 The student has just read Chapters 7-9 and the Coda of "If Anyone Builds It, Everyone Dies" — the fictional Sable extinction scenario.
 

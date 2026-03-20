@@ -1,22 +1,19 @@
 ---
 id: 12bfc64a-dc20-459f-a448-522e9ae8e7d0
-{++{"author":"AI","timestamp":1773998544362}@@title: "Won't machines be fundamentally uncreative, or otherwise fatally flawed?"
-++}tags:
+title: "Won't machines be fundamentally uncreative, or otherwise fatally flawed?"
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1773946300379}@@### Article: IABIED - QA - Machines Fundamentally Uncreative
-source:: [[../articles/iabied-ch1-faq-uncreative]]
-
---}#### Text
+#### Text
 content::
 This Q&A argues against the hope that machines will have compensating fatal flaws to balance their advantages. Using the dodo analogy — dodos might have imagined human invaders would have weaknesses too — the authors argue there will be no "amazing plot twist" giving humans a compensating advantage.
 
-#### {--{"author":"AI","timestamp":1773946300379}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946300379}@@Article
-source:: [[../articles/iabied-ch1-faq-uncreative]]++}
+#### Article
+source:: [[../articles/iabied-ch1-faq-uncreative]]
 to:: "built-in limitations to balance the equation"
 
 #### Text

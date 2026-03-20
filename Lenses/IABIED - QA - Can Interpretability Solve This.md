@@ -1,7 +1,7 @@
 ---
 id: e2182435-3994-4f05-82d4-6d79aa94c47b
-{++{"author":"AI","timestamp":1773997729102}@@title: "Can interpretability solve this?"
-++}tags:
+title: "Can interpretability solve this?"
+tags:
   - lens
   - IABIED
   - supplementary
