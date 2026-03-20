@@ -13,8 +13,8 @@ This Q&A challenges the assumption that reckless companies will be too incompete
 
 #### Article
 source:: [[../articles/iabied-ch11-faq-reckless-incompetent]]
-to:: "And the less reckless companies are very visibly not on top of the challenges."
-
+{--{"author":"AI","timestamp":1774009204128}@@to:: "And the less reckless companies are very visibly not on top of the challenges."
+--}
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

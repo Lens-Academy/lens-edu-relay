@@ -13,8 +13,8 @@ This Q&A addresses the intuition that we could simply shut down a dangerous AI. 
 
 #### Article
 source:: [[../articles/iabied-ch6-faq-pull-plug]]
-to:: "A superintelligent adversary would be even more aware of its vulnerabilities (and ours) than we are, and would plan accordingly."
-
+{--{"author":"AI","timestamp":1774009202938}@@to:: "A superintelligent adversary would be even more aware of its vulnerabilities (and ours) than we are, and would plan accordingly."
+--}
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?
