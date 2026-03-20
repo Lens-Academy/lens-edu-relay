@@ -1,6 +1,7 @@
 ---
 id: cf3f37ce-3fc3-46ab-b693-7f83807b2b1e
-tags:
+{++{"author":"AI","timestamp":1773998671991}@@title: "But won't we run out of data before AI goes all the way? Or electrical power? Or funding?"
+++}tags:
   - lens
   - IABIED
   - supplementary
