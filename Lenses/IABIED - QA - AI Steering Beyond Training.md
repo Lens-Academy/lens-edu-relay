@@ -14,8 +14,8 @@ Chapter 4 argues that training doesn't reliably produce the goals we intend. Thi
 
 #### Article
 source:: [[../articles/iabied-ch4-faq-steer-other]]
-to:: "weird AI behaviors visible in edge cases may foreshadow what happens when AIs gain more control over their environments"
-
+{--{"author":"AI","timestamp":1774008835186}@@to:: "weird AI behaviors visible in edge cases may foreshadow what happens when AIs gain more control over their environments"
+--}
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?
