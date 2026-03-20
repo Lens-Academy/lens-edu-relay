@@ -1,6 +1,7 @@
 ---
 id: a1b2c3d4-e5f6-7890-abcd-ef1234567890
----
+{++{"author":"AI","timestamp":1773996929809}@@title: "A.I. - Humanity's Final Invention"
+++}---
 {--{"author":"AI","timestamp":1773945824524}@@### Video: A.I. - Humanity's Final Invention
 source:: [[../video_transcripts/kurzgesagt-ai-humanitys-final-invention]]
 
