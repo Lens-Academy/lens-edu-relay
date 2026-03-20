@@ -1,6 +1,7 @@
 ---
 id: 50b3cceb-4afc-48f3-9f10-539a3fe2eab0
-tags:
+{++{"author":"AI","timestamp":1773998790823}@@title: "Why did you write the ending in the way that you did?"
+++}tags:
   - lens
   - IABIED
   - supplementary

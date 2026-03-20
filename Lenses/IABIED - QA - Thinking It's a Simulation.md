@@ -1,6 +1,7 @@
 ---
 id: 69e14a86-3fe7-48cf-8d32-f667a9937738
-tags:
+{++{"author":"AI","timestamp":1773998799361}@@title: "What if we make it think it's in a simulation?"
+++}tags:
   - lens
   - IABIED
   - supplementary

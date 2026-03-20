@@ -1,6 +1,7 @@
 ---
 id: 2ab417b5-ff4e-4743-8d46-8b4eea5ef788
-tags:
+{++{"author":"AI","timestamp":1773998788876}@@title: "Why did you pick this setup?"
+++}tags:
   - lens
   - IABIED
   - supplementary
