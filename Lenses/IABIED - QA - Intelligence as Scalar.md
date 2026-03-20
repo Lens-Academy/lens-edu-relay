@@ -14,8 +14,8 @@ This Q&A concedes that intelligence is not a simple scalar quantity — it's mul
 
 #### Article
 source:: [[../articles/iabied-ch1-faq-scalar-quantity]]
-to:: "separate species in fundamental ways"
-
+{--{"author":"AI","timestamp":1774008968076}@@to:: "separate species in fundamental ways"
+--}
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

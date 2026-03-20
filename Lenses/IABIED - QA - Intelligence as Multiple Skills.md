@@ -14,8 +14,8 @@ This Q&A acknowledges that intelligence involves multiple skills, but argues the
 
 #### Article
 source:: [[../articles/iabied-ch1-faq-multiple-skills]]
-to:: "not philosophical definitions"
-
+{--{"author":"AI","timestamp":1774008965169}@@to:: "not philosophical definitions"
+--}
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

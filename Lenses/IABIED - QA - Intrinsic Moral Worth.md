@@ -13,8 +13,8 @@ This Q&A addresses whether a superintelligent AI would recognize and act on huma
 
 #### Article
 source:: [[../articles/iabied-ch5-faq-moral-worth]]
-to:: "Human moral frameworks wouldn't automatically transfer to artificial minds shaped by entirely different processes."
-
+{--{"author":"AI","timestamp":1774008969274}@@to:: "Human moral frameworks wouldn't automatically transfer to artificial minds shaped by entirely different processes."
+--}
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

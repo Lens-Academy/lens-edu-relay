@@ -14,8 +14,8 @@ This Q&A defends the meaningfulness of "intelligence" as a concept. The authors 
 
 #### Article
 source:: [[../articles/iabied-ch1-faq-intelligence-meaningful]]
-to:: "comparable real-world impacts"
-
+{--{"author":"AI","timestamp":1774008970299}@@to:: "comparable real-world impacts"
+--}
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?
