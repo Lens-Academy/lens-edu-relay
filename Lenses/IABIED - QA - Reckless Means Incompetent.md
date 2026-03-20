@@ -1,5 +1,5 @@
 ---
-id: 568cb83e-08e2-47ec-8993-38384de56124
+id: {--{"author":"AI","timestamp":1774007054241}@@568cb83e-08e2-47ec-8993-38384de56124--}{++{"author":"AI","timestamp":1774007054241}@@8d9445ee-2905-4d66-8230-6b88cd16af6a++}
 title: "Won't the most reckless companies naturally be the most incompetent, and thus not a threat?"
 tags:
   - lens

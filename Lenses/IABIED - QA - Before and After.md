@@ -1,5 +1,5 @@
 ---
-id: 6258e7f4-1a97-4a03-a652-268b86092e93
+id: {--{"author":"AI","timestamp":1774007058026}@@6258e7f4-1a97-4a03-a652-268b86092e93--}{++{"author":"AI","timestamp":1774007058026}@@2f489ea7-a29e-4458-98f6-013a14759932++}
 title: A Closer Look at Before and After
 tags:
   - lens

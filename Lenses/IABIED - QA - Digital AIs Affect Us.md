@@ -1,5 +1,5 @@
 ---
-id: 59da6629-4a48-4296-a2e4-52fa6af3febc
+id: {--{"author":"AI","timestamp":1774007056503}@@59da6629-4a48-4296-a2e4-52fa6af3febc--}{++{"author":"AI","timestamp":1774007056503}@@02188337-ed24-4043-a42d-d3cc6945d58a++}
 title: "How will AIs be able to affect us if they're digital?"
 tags:
   - lens
