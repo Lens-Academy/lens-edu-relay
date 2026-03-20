@@ -8,7 +8,7 @@ tags:
 
 
 # Submodule: Automating Alignment
-## Lens: (AUtom)
+## Lens: (Automating alignment)
 optional:: false
 source:: [[../Lenses/Automating Alignment]]
 
