@@ -1,7 +1,8 @@
 ---
 title: "Appreciating the Power of Intelligence"
 source_url: https://ifanyonebuildsit.com/1/appreciating-the-power-of-intelligence
-author:
+{++{"author":"AI","timestamp":1774006603317}@@published: 2025-09-16
+++}author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

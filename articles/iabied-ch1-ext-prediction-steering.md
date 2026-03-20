@@ -1,6 +1,7 @@
 ---
 title: "More on Intelligence as Prediction and Steering"
-source_url: https://ifanyonebuildsit.com/1/more-on-intelligence-as-prediction-and-steering
+source_url:{++{"author":"AI","timestamp":1774006604094}@@
+published: 2025-09-16++} https://ifanyonebuildsit.com/1/more-on-intelligence-as-prediction-and-steering
 author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
