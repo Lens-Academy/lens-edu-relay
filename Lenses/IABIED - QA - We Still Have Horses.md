@@ -13,8 +13,8 @@ This Q&A tackles the common analogy that since horses survived the automobile re
 
 #### Article
 source:: [[../articles/iabied-ch5-faq-horses]]
-to:: "The analogy, therefore, actually strengthens rather than weakens extinction concerns."
-
+{--{"author":"AI","timestamp":1774009254498}@@to:: "The analogy, therefore, actually strengthens rather than weakens extinction concerns."
+--}
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

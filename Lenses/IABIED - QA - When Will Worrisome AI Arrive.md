@@ -14,8 +14,8 @@ This Q&A tackles the timeline question head-on. The authors show how forecasting
 
 #### Article
 source:: [[../articles/iabied-intro-faq-when-developed]]
-to:: "humanity won't act at all"
-
+{--{"author":"AI","timestamp":1774009262638}@@to:: "humanity won't act at all"
+--}
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?
