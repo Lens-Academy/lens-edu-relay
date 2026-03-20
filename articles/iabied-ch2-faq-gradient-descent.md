@@ -1,7 +1,8 @@
 ---
 title: "Why does gradient descent matter?"
 source_url: https://ifanyonebuildsit.com/2/why-does-gradient-descent-matter
-author:
+{++{"author":"AI","timestamp":1774006748612}@@published: 2025-09-16
+++}author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:
