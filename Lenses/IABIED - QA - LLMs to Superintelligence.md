@@ -14,8 +14,8 @@ This Q&A asks whether LLMs specifically could reach superintelligence. The path 
 
 #### Article
 source:: [[../articles/iabied-ch2-faq-llms-to-superintelligence]]
-to:: "uncertainty about their superintelligence potential"
-
+{--{"author":"AI","timestamp":1774009021543}@@to:: "uncertainty about their superintelligence potential"
+--}
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?
