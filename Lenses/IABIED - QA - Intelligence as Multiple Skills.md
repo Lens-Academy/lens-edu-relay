@@ -1,5 +1,5 @@
 ---
-id: 03e48d89-a09e-4070-9988-9cbae7498992
+id: {--{"author":"AI","timestamp":1774007015681}@@03e48d89-a09e-4070-9988-9cbae7498992--}{++{"author":"AI","timestamp":1774007015681}@@05662215-d019-4114-96b2-d8dbcd3ffc72++}
 title: "Doesn't intelligence consist of multiple skills?"
 tags:
   - lens

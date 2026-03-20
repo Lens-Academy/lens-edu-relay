@@ -1,5 +1,5 @@
 ---
-id: 08d61baf-f061-42a2-9686-ca4dc622043d
+id: {--{"author":"AI","timestamp":1774007019310}@@08d61baf-f061-42a2-9686-ca4dc622043d--}{++{"author":"AI","timestamp":1774007019310}@@a8935422-f09d-424c-a562-282d3f93e3f1++}
 title: "Are you suggesting that ChatGPT could kill us all?"
 tags:
   - lens

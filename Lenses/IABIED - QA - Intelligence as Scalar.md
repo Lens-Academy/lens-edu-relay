@@ -1,5 +1,5 @@
 ---
-id: 01eaea0b-9f02-4b76-aef4-e5617addddf6
+id: {--{"author":"AI","timestamp":1774007012698}@@01eaea0b-9f02-4b76-aef4-e5617addddf6--}{++{"author":"AI","timestamp":1774007012698}@@a8fd7f0e-f120-4695-bdb2-69fdda698bae++}
 title: "Is 'intelligence' a simple scalar quantity?"
 tags:
   - lens
