@@ -27,7 +27,7 @@ to:: "with important implications for AI governance and regulation."
 from:: "## 2 What AI evaluations can do (given sufficient effort)"
 to:: "certain the AI system can do at least this much."
 
-#### Article-excerpt
+#### Article
 from:: "### 2.2 Assess misuse risk for current models"
 to:: "if evaluators are unable to use it to exploit any threat vectors."
 
