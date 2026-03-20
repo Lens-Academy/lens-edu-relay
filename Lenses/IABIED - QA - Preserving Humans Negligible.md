@@ -13,8 +13,8 @@ This Q&A addresses the argument that a superintelligent AI could easily afford t
 
 #### Article
 source:: [[../articles/iabied-ch5-faq-negligible-expense]]
-to:: "Keeping humanity happy would be negligible for an AI that wanted this, but first the AI would need to have that preference."
-
+{--{"author":"AI","timestamp":1774009191975}@@to:: "Keeping humanity happy would be negligible for an AI that wanted this, but first the AI would need to have that preference."
+--}
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?
