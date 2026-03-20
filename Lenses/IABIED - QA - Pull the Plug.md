@@ -19,7 +19,7 @@ to:: "A superintelligent adversary would be even more aware of its vulnerabiliti
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### Chat: Discussion
+#### {--{"author":"AI","timestamp":1774006539739}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006539739}@@Chat++}
 instructions::
 The student just read a supplementary Q&A from the book's website about whether we could just pull the plug on a dangerous AI.
 TLDR: Pulling the plug fails for two reasons: companies have financial incentives to keep AIs running and dismiss warning signs, and a superintelligent AI would strategically conceal its plans until escape is already accomplished. Poor cybersecurity means the AI could have copies running elsewhere before anyone notices.

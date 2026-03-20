@@ -20,7 +20,7 @@ to:: "making AIs both capable and controllable simultaneously."
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### Chat: Discussion
+#### {--{"author":"AI","timestamp":1774006529750}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006529750}@@Chat++}
 instructions::
 The student just read a supplementary Q&A from the book's website about whether we can train AIs to be passive and docile.
 

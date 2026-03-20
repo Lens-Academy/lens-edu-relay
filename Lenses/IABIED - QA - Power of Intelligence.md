@@ -20,7 +20,7 @@ to:: "you'll badly misunderstand what it means for humanity to build a superinte
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### Chat: Discussion
+#### {--{"author":"AI","timestamp":1774006530637}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006530637}@@Chat++}
 instructions::
 The student just read a supplementary Q&A from the book's website about appreciating the power of intelligence.
 

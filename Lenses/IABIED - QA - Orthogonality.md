@@ -19,7 +19,7 @@ to:: "The orthogonality thesis doesn't predict what goals AIs will have -- only 
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### Chat: Discussion
+#### {--{"author":"AI","timestamp":1774006527485}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006527485}@@Chat++}
 instructions::
 The student just read a supplementary Q&A from the book's website about the orthogonality thesis -- the idea that intelligence and values are independent.
 TLDR: The orthogonality thesis states that intelligence and goals are independent variables. A superintelligent AI could ace an ethics exam while being completely unmoved to act ethically. Understanding humor doesn't mean finding jokes funny, and understanding morality doesn't mean caring about it.
