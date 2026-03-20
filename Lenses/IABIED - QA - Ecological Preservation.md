@@ -19,7 +19,7 @@ to:: "any preservation drive that makes it into the AI won't necessarily result 
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### Chat: Discussion
+#### {--{"author":"AI","timestamp":1774006412433}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006412433}@@Chat++}
 instructions::
 The student just read a supplementary Q&A from the book's website about whether AI would preserve humans for ecological reasons.
 TLDR: Even human conservation is impure and selective (pandas yes, mosquitoes no). An AI's preservation drive would be similarly mixed with alien values, potentially leading it to modify humans according to its preferences rather than preserving us as we are. Genuine human flourishing requires an AI that specifically cares about that.
