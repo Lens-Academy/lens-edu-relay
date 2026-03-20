@@ -1,6 +1,7 @@
 ---
 id: 8c028985-0717-4a0c-a5a3-4d4c8614d1c8
-tags:
+{++{"author":"AI","timestamp":1773998574289}@@title: "Won't we just muddle through, like always?"
+++}tags:
   - lens
   - IABIED
   - supplementary
