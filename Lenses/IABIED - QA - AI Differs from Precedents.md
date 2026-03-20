@@ -1,5 +1,5 @@
 ---
-id: {--{"author":"AI","timestamp":1774007080046}@@842dbf1d-8971-4619-a978-3432e169519c--}{++{"author":"AI","timestamp":1774007080046}@@f9e787b3-476e-436e-9967-5428976c79e7++}
+id: f9e787b3-476e-436e-9967-5428976c79e7
 title: "Won't AI differ from all the historical precedents?"
 tags:
   - lens
@@ -19,7 +19,7 @@ to:: "There is no established playbook for ASI."
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### {--{"author":"AI","timestamp":1774006355875}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006355875}@@Chat++}
+#### Chat
 instructions::
 The student just read a supplementary Q&A from the book's website about whether AI alignment differs from historical precedents like nuclear weapons.
 TLDR: The authors argue AI is fundamentally harder to manage than nuclear weapons because AI can be smarter than humans, self-replicate, self-improve, and humanity only gets one shot at getting it right.

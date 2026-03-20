@@ -1,8 +1,8 @@
 ---
 title: "Why write a book about superhuman AI as an extinction threat?"
 source_url: https://ifanyonebuildsit.com/intro/why-write-a-book-about-superhuman-ai-as-an-extinction-threat
-{++{"author":"AI","timestamp":1774006948383}@@published: 2025-09-16
-++}author:
+published: 2025-09-16
+author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

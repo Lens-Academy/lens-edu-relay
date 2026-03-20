@@ -1,5 +1,5 @@
 ---
-id: {--{"author":"AI","timestamp":1774007050379}@@3a4b5d59-691b-4c75-bf3e-45c5e5c3f957--}{++{"author":"AI","timestamp":1774007050379}@@7baab38c-d1b4-4a88-85eb-dd7952de417e++}
+id: 7baab38c-d1b4-4a88-85eb-dd7952de417e
 title: "Is 'human-level intelligence' a meaningful concept?"
 tags:
   - lens
@@ -20,7 +20,7 @@ to:: "semantic arguments about general intelligence"
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### {--{"author":"AI","timestamp":1774006447885}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006447885}@@Chat++}
+#### Chat
 instructions::
 The student just read a supplementary Q&A from the book's website about whether "human-level intelligence" is a meaningful concept.
 

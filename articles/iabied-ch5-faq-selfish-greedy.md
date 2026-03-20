@@ -1,8 +1,8 @@
 ---
 title: "Humans evolved to be selfish, aggressive, and greedy. Won't AI lack those evolved drives?"
 source_url: https://ifanyonebuildsit.com/5/humans-evolved-to-be-selfish-aggressive-and-greedy-wont-ai-lack-those-evolved-drives
-{++{"author":"AI","timestamp":1774006895432}@@published: 2025-09-16
-++}author:
+published: 2025-09-16
+author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

@@ -1,5 +1,5 @@
 ---
-id: {--{"author":"AI","timestamp":1774007077800}@@7bca2049-a575-4c9c-a598-b5dcc6f5757b--}{++{"author":"AI","timestamp":1774007077800}@@df52321c-fa73-430f-b3a6-2782f8f4020e++}
+id: df52321c-fa73-430f-b3a6-2782f8f4020e
 title: "A lot of people want kids. So aren't humans 'aligned' with natural selection after all?"
 tags:
   - lens
@@ -20,7 +20,7 @@ to:: "making their stated values unreliable indicators of actual drives"
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### {--{"author":"AI","timestamp":1774006378240}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006378240}@@Chat++}
+#### Chat
 instructions::
 The student just read a supplementary Q&A from the book's website about whether humans wanting kids means we're actually aligned with natural selection.
 

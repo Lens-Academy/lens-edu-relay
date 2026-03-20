@@ -1,5 +1,5 @@
 ---
-id: {--{"author":"AI","timestamp":1774007111844}@@a9480ae0-d2d4-44ba-a323-d3e247c38ea1--}{++{"author":"AI","timestamp":1774007111844}@@696304fd-14e9-4d69-9851-38b8597f4d95++}
+id: 696304fd-14e9-4d69-9851-38b8597f4d95
 title: "What are your incentives and conflicts of interest, as authors?"
 tags:
   - lens
@@ -20,7 +20,7 @@ to:: "evidence to potentially change minds"
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### {--{"author":"AI","timestamp":1774006387024}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006387024}@@Chat++}
+#### Chat
 instructions::
 The student just read a supplementary Q&A from the book's website about the authors' incentives and conflicts of interest.
 

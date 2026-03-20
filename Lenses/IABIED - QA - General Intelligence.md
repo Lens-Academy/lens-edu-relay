@@ -1,5 +1,5 @@
 ---
-id: {--{"author":"AI","timestamp":1774007110243}@@a928c44c-8397-4653-ba88-391f16042c52--}{++{"author":"AI","timestamp":1774007110243}@@43a57463-5daa-4a3f-8455-bffd37011ea3++}
+id: 43a57463-5daa-4a3f-8455-bffd37011ea3
 title: "Is 'general intelligence' a meaningful concept?"
 tags:
   - lens
@@ -20,7 +20,7 @@ to:: "forest fires burn regardless of chemistry knowledge"
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### {--{"author":"AI","timestamp":1774006428104}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006428104}@@Chat++}
+#### Chat
 instructions::
 The student just read a supplementary Q&A from the book's website about whether general intelligence is a meaningful concept.
 

@@ -1,8 +1,8 @@
 ---
 title: "Why did you have Sable's expansion phase go that way?"
 source_url: https://ifanyonebuildsit.com/ii/why-did-you-have-sables-expansion-phase-go-that-way
-{++{"author":"AI","timestamp":1774006950777}@@published: 2025-09-16
-++}author:
+published: 2025-09-16
+author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

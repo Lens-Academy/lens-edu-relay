@@ -19,7 +19,7 @@ to:: "Many different lines of evidence point at it being genuinely difficult to 
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### {--{"author":"AI","timestamp":1774006446548}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006446548}@@Chat++}
+#### Chat
 instructions::
 The student just read a supplementary Q&A from the book's website about how human values are contingent on our specific evolutionary history.
 TLDR: Human empathy arose from a "glorious accident" — primates using their own brains to model others' minds, with the simulation machinery leaking into emotional experience. Friendship, love, and curiosity all trace to specific evolutionary shortcuts. AI systems have no reason to develop similar values through fundamentally different architectures.
