@@ -14,9 +14,8 @@ source:: [[../articles/slow-motion-videos-as-ai-risk-intuition-pumps]]
 from:: "Over the past"
 to:: "when slowed down by only around 100x:"
 
-#### {--{"author":"AI","timestamp":1774023008094}@@Text--}{++{"author":"AI","timestamp":1774023008094}@@Video++}
-{--{"author":"AI","timestamp":1774023008094}@@content:: 
-https://www.youtube.com/watch?v=N0F3OyuP9LA--}{++{"author":"AI","timestamp":1774023008094}@@source:: [[../video_transcripts/adam-magyar-stainless-alexanderplatz]]++}
+#### Video
+source:: [[../video_transcripts/adam-magyar-stainless-alexanderplatz]]
 
 #### Article
 from:: "Now, when you try"
