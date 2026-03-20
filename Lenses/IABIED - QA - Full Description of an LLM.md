@@ -20,7 +20,7 @@ to:: "obscure meaningful understanding"
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### Chat: Discussion
+#### {--{"author":"AI","timestamp":1774006424808}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006424808}@@Chat++}
 instructions::
 The student just read a supplementary Q&A from the book's website providing a full technical description of how an LLM works.
 

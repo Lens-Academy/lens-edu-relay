@@ -20,7 +20,7 @@ to:: "Current AIs' apparent helpfulness provides no guarantee of their ultimate 
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### Chat: Discussion
+#### {--{"author":"AI","timestamp":1774006423524}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006423524}@@Chat++}
 instructions::
 The student just read a supplementary Q&A from the book's website about whether smarter AIs will fix their own alignment flaws.
 
