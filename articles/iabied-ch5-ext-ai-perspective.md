@@ -1,7 +1,8 @@
 ---
 title: "Taking the AI's Perspective"
 source_url: https://ifanyonebuildsit.com/5/taking-the-ais-perspective
-author:
+{++{"author":"AI","timestamp":1774006826336}@@published: 2025-09-16
+++}author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

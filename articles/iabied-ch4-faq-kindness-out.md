@@ -1,7 +1,8 @@
 ---
 title: "Maybe no matter what goal you train on, you get kindness out?"
 source_url: https://ifanyonebuildsit.com/4/maybe-no-matter-what-goal-you-train-on-you-get-kindness-out
-author:
+{++{"author":"AI","timestamp":1774006819836}@@published: 2025-09-16
+++}author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:
