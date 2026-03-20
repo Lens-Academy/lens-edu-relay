@@ -1,6 +1,7 @@
 ---
 id: 9b407edb-4d70-4eab-8393-a1b58ac31e6b
-tags:
+{++{"author":"AI","timestamp":1773997999920}@@title: "Are you just pessimistic?"
+++}tags:
   - lens
   - IABIED
   - supplementary
