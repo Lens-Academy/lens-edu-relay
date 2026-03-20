@@ -1,5 +1,5 @@
 ---
-id: eaea6c4f-403f-4b0a-a317-da776bb9cd60
+id: {--{"author":"AI","timestamp":1774007143525}@@eaea6c4f-403f-4b0a-a317-da776bb9cd60--}{++{"author":"AI","timestamp":1774007143525}@@0a5f01f5-5739-4fa7-aa2a-318bdc7841f1++}
 title: "Orthogonality: AIs Can Have (Almost) Any Goal"
 tags:
   - lens

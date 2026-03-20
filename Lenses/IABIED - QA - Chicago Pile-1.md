@@ -1,5 +1,5 @@
 ---
-id: ce0bfb7a-a07c-48a0-a998-f529e368d257
+id: {--{"author":"AI","timestamp":1774007142412}@@ce0bfb7a-a07c-48a0-a998-f529e368d257--}{++{"author":"AI","timestamp":1774007142412}@@5ffa8d76-ed27-4fd0-b423-fa9f8d2b7563++}
 title: The Tale of Chicago Pile-1
 tags:
   - lens

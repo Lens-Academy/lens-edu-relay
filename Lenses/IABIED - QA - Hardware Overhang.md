@@ -1,5 +1,5 @@
 ---
-id: e2d3e554-c4ee-46f9-b9a1-96984c80b23f
+id: {--{"author":"AI","timestamp":1774007142933}@@e2d3e554-c4ee-46f9-b9a1-96984c80b23f--}{++{"author":"AI","timestamp":1774007142933}@@b5559f42-dbf6-4385-8117-69783eee35e1++}
 title: "Isn't it important to race ahead because of 'hardware overhang'?"
 tags:
   - lens

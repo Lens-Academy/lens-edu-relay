@@ -1,5 +1,5 @@
 ---
-id: ee77c667-dca5-40ce-a2a9-2bf7af93a4a2
+id: {--{"author":"AI","timestamp":1774007144096}@@ee77c667-dca5-40ce-a2a9-2bf7af93a4a2--}{++{"author":"AI","timestamp":1774007144096}@@7fe9ef5e-4f19-4cee-afe9-8856d317d46e++}
 title: "What if AI companies only deploy their AIs for non-dangerous actions?"
 tags:
   - lens
