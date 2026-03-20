@@ -1,6 +1,7 @@
 ---
 id: ce0bfb7a-a07c-48a0-a998-f529e368d257
-tags:
+{++{"author":"AI","timestamp":1773997763933}@@title: The Tale of Chicago Pile-1
+++}tags:
   - lens
   - IABIED
   - supplementary

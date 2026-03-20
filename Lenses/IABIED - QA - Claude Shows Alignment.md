@@ -1,6 +1,7 @@
 ---
 id: 16398b2f-7a5b-4335-8d5d-24e190960c4e
-tags:
+{++{"author":"AI","timestamp":1773997765523}@@title: "Doesn't the Claude chatbot show signs of being aligned?"
+++}tags:
   - lens
   - IABIED
   - supplementary
