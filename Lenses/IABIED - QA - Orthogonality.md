@@ -1,6 +1,7 @@
 ---
 id: eaea6c4f-403f-4b0a-a317-da776bb9cd60
-tags:
+{++{"author":"AI","timestamp":1773998610457}@@title: "Orthogonality: AIs Can Have (Almost) Any Goal"
+++}tags:
   - lens
   - IABIED
   - supplementary

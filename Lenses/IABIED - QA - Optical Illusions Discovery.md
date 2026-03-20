@@ -1,6 +1,7 @@
 ---
 id: 03e48d89-a09e-4070-9988-9cbae7498992
-tags:
+{++{"author":"AI","timestamp":1773998609652}@@title: A New Way to Discover Optical Illusions
+++}tags:
   - lens
   - IABIED
   - supplementary

@@ -1,6 +1,7 @@
 ---
 id: eaea6c4f-403f-4b0a-a317-da776bb9cd60
-tags:
+{++{"author":"AI","timestamp":1773998611923}@@title: "Aren't people always panicking and overreacting to things?"
+++}tags:
   - lens
   - IABIED
   - supplementary

@@ -1,6 +1,7 @@
 ---
 id: c884bd7c-61dd-4fa0-b983-eda1a236485b
-tags:
+{++{"author":"AI","timestamp":1773998618357}@@title: "Can we just train AIs to be more passive and docile?"
+++}tags:
   - lens
   - IABIED
   - supplementary
