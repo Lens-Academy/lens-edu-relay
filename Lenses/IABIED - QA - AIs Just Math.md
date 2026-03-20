@@ -1,22 +1,19 @@
 ---
 id: dda20895-9416-4a5f-93b5-14a92ef3fc84
-{++{"author":"AI","timestamp":1773997657477}@@title: "Aren't AIs 'just math'?"
-++}tags:
+title: "Aren't AIs 'just math'?"
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1773945954731}@@### Article: IABIED - QA - AIs Just Math
-source:: [[../articles/iabied-ch2-faq-just-math]]
-
---}#### Text
+#### Text
 content::
 This Q&A counters the dismissal that AIs are "just math." Just as humans are "just biochemistry" yet landed on the moon, mathematical operations can encode anything — including beautiful images, complex reasoning, and strategic planning. The substrate doesn't limit the capabilities that emerge from it.
 
-#### {--{"author":"AI","timestamp":1773945954731}@@Article-excerpt--}{++{"author":"AI","timestamp":1773945954731}@@Article
-source:: [[../articles/iabied-ch2-faq-just-math]]++}
+#### Article
+source:: [[../articles/iabied-ch2-faq-just-math]]
 to:: "Where should such a line be drawn?"
 
 #### Text

@@ -1,13 +1,10 @@
 ---
 id: b24e0198-8fa8-49cd-b7c6-396bc5f847be
-{++{"author":"AI","timestamp":1773996923532}@@title: "1960, The Year The Singularity Was Cancelled"
-++}tags:
+title: "1960, The Year The Singularity Was Cancelled"
+tags:
   - lens
 ---
-{--{"author":"AI","timestamp":1773946552477}@@### Article: 1960, The Year The Singularity Was Cancelled
-source:: [[../articles/1960, The Year The Singularity Was Cancelled]]
-
---}#### Text
+#### Text
 content::
 There is no consensus in the field regarding exactly when AGI will emerge or which specific changes compared to today's systems will prove decisive. No one knows it. However, this does not mean that we cannot think about the future systematically.
 
@@ -17,8 +14,8 @@ We begin this module with an article demonstrating that history does not have to
 
 The module opens with a question: how, exactly, do people attempt to predict major historical shifts?
 
-#### {--{"author":"AI","timestamp":1773946577556}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946577556}@@Article
-source:: [[../articles/1960, The Year The Singularity Was Cancelled]]++}
+#### Article
+source:: [[../articles/1960, The Year The Singularity Was Cancelled]]
 from:: "***Epis"
 
 #### Text

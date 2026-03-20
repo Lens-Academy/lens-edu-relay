@@ -1,20 +1,17 @@
 ---
 id: 60a1046d-cb9d-4803-ac84-810e070b79fb
-{++{"author":"AI","timestamp":1773996718481}@@title: Discovering when an agent is present in a system
-++}tldr: We often talk about AI systems as agents — things that make decisions to achieve goals. But how do you actually tell whether something is an agent, versus just a process following rules? This article proposes a way to test for agency by looking at how a system would behave if its actions affected the world differently.
+title: Discovering when an agent is present in a system
+tldr: We often talk about AI systems as agents — things that make decisions to achieve goals. But how do you actually tell whether something is an agent, versus just a process following rules? This article proposes a way to test for agency by looking at how a system would behave if its actions affected the world differently.
 tags :
   - lens
 ---
-{--{"author":"AI","timestamp":1773947007696}@@### Article: Discovering when an agent is present in a system by Zachary Kenton et al.
-source:: [[../articles/kenton+etal-discovering-when-an-agent-is-present-in-a-system]]
-
---}#### Text
+#### Text
 content::
 In AI safety we often model systems as agents, meaning systems that make decisions to achieve objectives. But this can be a modelling choice rather than an obvious fact. This post proposes a causal definition of agency grounded in how the system’s behaviour would change under specific counterfactual changes in how its actions affect the world. The core idea is: an agent is a system that would adapt its policy if the causal influence of its actions were different, and we can in principle test for this using intervention style data and causal modelling tools such as causal influence diagrams.
 
 
-#### {--{"author":"AI","timestamp":1773947017465}@@Article-excerpt--}{++{"author":"AI","timestamp":1773947017465}@@Article
-source:: [[../articles/kenton+etal-discovering-when-an-agent-is-present-in-a-system]]++}
+#### Article
+source:: [[../articles/kenton+etal-discovering-when-an-agent-is-present-in-a-system]]
 to:: "agent in a system – a key concern for assessing risks from AGI."
 
 #### Text

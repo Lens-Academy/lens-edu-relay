@@ -1,19 +1,16 @@
 ---
 id: b5690990-21b5-45d0-bc2b-e58449fbf194
-{++{"author":"AI","timestamp":1773996658144}@@title: The power of intelligence
-++}tldr: Humans can fly, split atoms, and rewrite DNA — not because evolution gave us those abilities, but because general intelligence let us invent them. This video explores what makes intelligence unique as a tool, and asks whether the idea of a program that's good at everything is really as strange as it sounds.
+title: The power of intelligence
+tldr: Humans can fly, split atoms, and rewrite DNA — not because evolution gave us those abilities, but because general intelligence let us invent them. This video explores what makes intelligence unique as a tool, and asks whether the idea of a program that's good at everything is really as strange as it sounds.
 tags:
   - lens
 ---
-{--{"author":"AI","timestamp":1773945831214}@@### Video: The power of intelligence
-source:: [[../video_transcripts/rationalanimations-the-power-of-intelligence-an-essay-by-eliezer-yudkowsky]]
-
---}#### Text
+#### Text
 content::
 Intelligence can seem like a collection of various distinct skills when comparing individual humans, and yet all of them are found almost exclusively in humans as opposed to other animals. Here is a brief meditation on the organ that made it all possible. A superpower that has defeated brawn speed and claws over the course of an evolutionary blink of an eye.
 
-#### {--{"author":"AI","timestamp":1773945831214}@@Video-excerpt--}{++{"author":"AI","timestamp":1773945831214}@@Video
-source:: [[../video_transcripts/rationalanimations-the-power-of-intelligence-an-essay-by-eliezer-yudkowsky]]++}
+#### Video
+source:: [[../video_transcripts/rationalanimations-the-power-of-intelligence-an-essay-by-eliezer-yudkowsky]]
 from:: 0:05
 to:: 7:00
 

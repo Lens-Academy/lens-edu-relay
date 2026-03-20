@@ -1,21 +1,18 @@
 ---
 id: 34c52200-f6b8-4fa8-88c7-2b3a46849231
-{++{"author":"AI","timestamp":1773997632905}@@title: "Humans are dangerous because of selfish, greedy drives. AI won't have those drives?"
-++}tags:
+title: "Humans are dangerous because of selfish, greedy drives. AI won't have those drives?"
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1773945930480}@@### Article: Humans evolved to be selfish, aggressive, and greedy. Won't AI lack those evolved drives?
-source:: [[../articles/iabied-ch5-faq-selfish-greedy]]
-
---}#### Text
+#### Text
 content::
 This Q&A addresses the hope that AI, lacking evolved drives like selfishness and greed, would be less dangerous than humans. The authors argue that an AI doesn't need emotional greed to acquire resources -- it just needs to recognize that matter and energy are useful for achieving its goals. The danger comes from the work of resource acquisition, not the emotional motivation behind it.
 
-#### {--{"author":"AI","timestamp":1773945930480}@@Article-excerpt--}{++{"author":"AI","timestamp":1773945930480}@@Article
-source:: [[../articles/iabied-ch5-faq-selfish-greedy]]++}
+#### Article
+source:: [[../articles/iabied-ch5-faq-selfish-greedy]]
 to:: "danger comes from the work of resource acquisition, not the emotional motivation behind it."
 
 #### Text

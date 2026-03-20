@@ -1,7 +1,7 @@
 ---
 id: 1698e976-ab2e-4f13-b0da-0768345fd2cf
-{++{"author":"AI","timestamp":1773997958986}@@title: "Isn't AI Different from Nuclear Reactors?"
-++}tags:
+title: "Isn't AI Different from Nuclear Reactors?"
+tags:
   - lens
   - IABIED
   - supplementary

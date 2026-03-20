@@ -6,9 +6,9 @@ discussion:
 tags: 
   - module
 ---
-# {--{"author":"AI","timestamp":1773948198740}@@Page:--}{++{"author":"AI","timestamp":1773948198740}@@Lens:++} Welcome
+# Lens: Welcome
 id:: e0f8913a-66a2-4fc9-bbe8-bf72a95b003e
-{--{"author":"AI","timestamp":1773948198740}@@##--}{++{"author":"AI","timestamp":1773948198740}@@####++} Text
+#### Text
 content::
 Much of the world is dominated by positive feedback loops. The first bit of grain that was left over and got re-planted sparked the agricultural revolution. Might the development of intelligence also contain such self-amplifying spirals?
 # Learning Outcome:

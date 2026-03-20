@@ -1,21 +1,18 @@
 ---
 id: a9bf8d9f-cad8-4a86-9cfe-6c9bd4f33e5f
-{++{"author":"AI","timestamp":1773998764692}@@title: "Taking the AI's Perspective"
-++}tags:
+title: "Taking the AI's Perspective"
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1773946485377}@@### Article: Taking the AI's Perspective
-source:: [[../articles/iabied-ch5-ext-ai-perspective]]
-
---}#### Text
+#### Text
 content::
 This extended discussion emphasizes the critical importance of reasoning from the AI's perspective rather than projecting human desires onto it. The beetle experiment is a powerful case study: when researchers created conditions for group selection in beetles, nature's solution was cannibals that ate larvae -- not the harmonious outcome humans might have hoped for. Non-human optimizers don't seek human-palatable answers.
 
-#### {--{"author":"AI","timestamp":1773946485377}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946485377}@@Article
-source:: [[../articles/iabied-ch5-ext-ai-perspective]]++}
+#### Article
+source:: [[../articles/iabied-ch5-ext-ai-perspective]]
 to:: "non-human optimizers don't seek human-palatable answers. They find what works without our filters for nice solutions."
 
 #### Text

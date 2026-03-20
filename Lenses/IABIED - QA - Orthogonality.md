@@ -1,21 +1,18 @@
 ---
 id: eaea6c4f-403f-4b0a-a317-da776bb9cd60
-{++{"author":"AI","timestamp":1773998610457}@@title: "Orthogonality: AIs Can Have (Almost) Any Goal"
-++}tags:
+title: "Orthogonality: AIs Can Have (Almost) Any Goal"
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1773945901309}@@### Article: Orthogonality: AIs Can Have (Almost) Any Goal
-source:: [[../articles/iabied-ch5-ext-orthogonality]]
-
---}#### Text
+#### Text
 content::
 This extended discussion presents the orthogonality thesis: intelligence and values are independent variables. A superintelligent AI can comprehend human ethics perfectly while remaining entirely indifferent to human welfare. The Boy-Bird/Girl-Bird dialogue illustrates that preferences aren't universal cosmic truths, and the action-understanding gap shows that understanding humor doesn't mean finding jokes funny.
 
-#### {--{"author":"AI","timestamp":1773945901309}@@Article-excerpt--}{++{"author":"AI","timestamp":1773945901309}@@Article
-source:: [[../articles/iabied-ch5-ext-orthogonality]]++}
+#### Article
+source:: [[../articles/iabied-ch5-ext-orthogonality]]
 to:: "The orthogonality thesis doesn't predict what goals AIs will have -- only that their objectives needn't correlate with their intelligence level."
 
 #### Text

@@ -1,19 +1,16 @@
 ---
 id: e11cb5ab-b56f-47c5-869e-40315845d325
-{++{"author":"AI","timestamp":1773996889392}@@title: Slow motion videos as AI risk intuition pumps
-++}tldr: Transistors operate roughly ten million times faster than neurons. This reading pairs a slow-motion video of a busy subway platform with an article about processing speed, inviting you to feel — not just understand — what it would mean for a mind to operate that much faster than ours.
+title: Slow motion videos as AI risk intuition pumps
+tldr: Transistors operate roughly ten million times faster than neurons. This reading pairs a slow-motion video of a busy subway platform with an article about processing speed, inviting you to feel — not just understand — what it would mean for a mind to operate that much faster than ours.
 tags:
   - lens
 ---
-{--{"author":"AI","timestamp":1773947235356}@@### Article: Slow motion videos as AI risk intuition pumps
-source:: [[../articles/slow-motion-videos-as-ai-risk-intuition-pumps]]
-
---}#### Text
+#### Text
 content::
 In the following reading, we ask you to watch a video in order to get an intuitive sense for what it means for computer processing to be much, much faster than animal processing. Machines would most likely have a vastly different sense of time than we do.
 
-#### {--{"author":"AI","timestamp":1773947245519}@@Article-excerpt--}{++{"author":"AI","timestamp":1773947245519}@@Article
-source:: [[../articles/slow-motion-videos-as-ai-risk-intuition-pumps]]++}
+#### Article
+source:: [[../articles/slow-motion-videos-as-ai-risk-intuition-pumps]]
 from:: "Over the past"
 to:: "when slowed down by only around 100x:"
 
@@ -21,7 +18,7 @@ to:: "when slowed down by only around 100x:"
 content:: 
 https://www.youtube.com/watch?v=N0F3OyuP9LA
 
-#### {--{"author":"AI","timestamp":1773947246878}@@Article-excerpt--}{++{"author":"AI","timestamp":1773947246878}@@Article++}
+#### Article
 from:: "Now, when you try"
 to:: "wildlife or insects."
 
