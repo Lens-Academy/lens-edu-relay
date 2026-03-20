@@ -14,8 +14,8 @@ This Q&A argues that AIs won't be limited to "cold logic" — just as airplanes 
 
 #### Article
 source:: [[../articles/iabied-ch2-faq-cold-logical]]
-to:: "beyond human decryption capabilities"
-
+{--{"author":"AI","timestamp":1774008881954}@@to:: "beyond human decryption capabilities"
+--}
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

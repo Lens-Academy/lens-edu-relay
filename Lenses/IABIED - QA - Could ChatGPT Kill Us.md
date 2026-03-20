@@ -14,8 +14,8 @@ This Q&A clarifies that the authors' concern is not about ChatGPT itself, but ab
 
 #### Article
 source:: [[../articles/iabied-intro-faq-chatgpt-kill-us]]
-to:: "justify an aggressive international response today"
-
+{--{"author":"AI","timestamp":1774008883122}@@to:: "justify an aggressive international response today"
+--}
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

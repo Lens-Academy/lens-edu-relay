@@ -13,8 +13,8 @@ This extended discussion tells the story of the first nuclear chain reaction in 
 
 #### Article
 source:: [[../articles/iabied-ch10-ext-chicago-pile]]
-to:: "This historical example illuminates contemporary challenges in artificial superintelligence development, where theoretical understanding remains inadequate for the stakes involved."
-
+{--{"author":"AI","timestamp":1774008878894}@@to:: "This historical example illuminates contemporary challenges in artificial superintelligence development, where theoretical understanding remains inadequate for the stakes involved."
+--}
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?
