@@ -1,6 +1,7 @@
 ---
 id: 12bfc64a-dc20-459f-a448-522e9ae8e7d0
-tags:
+{++{"author":"AI","timestamp":1773997863108}@@title: "Won't the situation get better once governments get more involved?"
+++}tags:
   - lens
   - IABIED
   - supplementary

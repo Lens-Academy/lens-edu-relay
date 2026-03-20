@@ -1,6 +1,7 @@
 ---
 id: 3dba768a-c3e4-4a7c-8063-9bf1ce403513
-tags:
+{++{"author":"AI","timestamp":1773997861176}@@title: "What about the experimental result suggesting good behaviors correlate?"
+++}tags:
   - lens
   - IABIED
   - supplementary
