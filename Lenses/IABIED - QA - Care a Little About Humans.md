@@ -13,8 +13,8 @@ This Q&A addresses whether partial alignment -- AIs caring "a little" about huma
 
 #### Article
 source:: [[../articles/iabied-ch5-faq-care-little]]
-to:: "Without the AI caring about humans through precisely the right mechanisms, humanity faces extinction."
-
+{--{"author":"AI","timestamp":1774008867562}@@to:: "Without the AI caring about humans through precisely the right mechanisms, humanity faces extinction."
+--}
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?
