@@ -73,7 +73,7 @@ So, where does interpretability fit into this pragmatic portfolio? I see several
 
 Firstly, safeguards can be categorised as follows:
 
-1. **Evaluation**: We take a system and perform extensive tests on it for 1. esired properties, like a tendency towards misalignment or sandbagging
+1. **Evaluation**: We take a system and perform extensive tests on it for {--{"author":"AI","timestamp":1774022766290}@@1. esired--}{++{"author":"AI","timestamp":1774022766290}@@desired++} properties, like a tendency towards misalignment or sandbagging
 2. **Monitoring**: When we deploy a system we are always running some checks at inference, which try to catch and mitigate bad behaviour
 	1. Importantly, this needs to be cheap to be run in production, while evaluations can be more expensive and slow
 
@@ -82,11 +82,11 @@ How can interp help?
 1. **A Layer of Swiss Cheese:** I think the right monitoring schemes have several layers of defence (a la the [swiss cheese model](https://en.wikipedia.org/wiki/Swiss_cheese_model)), with different cost to accuracy trade-offs.
 	- Interpretability techniques like probes for known dangerous features are extremely cheap, [and surprisingly effective](https://www.alignmentforum.org/posts/4uXCAJNuPKtKBsi28/negative-results-for-saes-on-downstream-tasks#Using_SAEs_for_OOD_Probing), and can serve as a good first layer of defence, which call more expensive tests (e.g. an LLM reading the chain of thought) if they fire.
 	- Interpretability techniques like SAEs or cross-layer transcoders may have the potential to be more expensive but accurate ways to audit what’s going on and look for anything unexpected.
-	- Even if interpretability is not more accurate, so long as it has som1. ignal and is de-correlated, then it adds value, even if it’ll miss many things.
+	- Even if interpretability is not more accurate, so long as it has {--{"author":"AI","timestamp":1774022768157}@@som1. ignal--}{++{"author":"AI","timestamp":1774022768157}@@some signal++} and is de-correlated, then it adds value, even if it’ll miss many things.
 2. **Enhancing Black-Box Evaluations:** Interpretability might make our external checks more effective. For example:
 	- Could we use steering vectors identified via interpretability to **manipulate whether the model thinks it’s in an eval?** Maybe we can test it more effectively if we can trick it into thinking it's *not* in a honeypot or evaluation setting.
 	- Can we use interpretability to better elicit information from token forcing? We can make the model say “my secret plan is”, and even if it tries to internally suppress awareness or obfuscate the output perhaps interpretability can prevent that?
-	- Interpretability may provide a sanity check that our black box methods are not missing something, e.g. whether a model is 2. sing an eval only because it knows it’s in one and is deliberately underperforming.
+	- Interpretability may provide a sanity check that our black box methods are not missing something, e.g. whether a model is {--{"author":"AI","timestamp":1774022768966}@@2. sing--}{++{"author":"AI","timestamp":1774022768966}@@using++} an eval only because it knows it’s in one and is deliberately underperforming.
 3. **Debugging mysterious behaviour**: One particularly interesting form of evaluation (or offline monitoring) is taking particularly weird or unexpected examples of model behaviour, e.g. it seeming to put vulnerabilities in critical code, and trying to debug what’s going on and see if it’s real alignment or not. I think interpretability methods may prove very good at raising unexpected hypotheses, and piecing together what’s happening (e.g. [this proof of concept](https://transformer-circuits.pub/2025/attribution-graphs/biology.html))
 	- I expect these kinds of potential warning shots to happen, and anything that can add more signal here would be great.
 	- Even if we don’t trust the interpretability method fully, the hypotheses generated can be verified by other means.
