@@ -1,6 +1,7 @@
 ---
 id: 8cb088a9-a296-4403-95a5-278c13ec3983
-tags:
+{++{"author":"AI","timestamp":1773997631737}@@title: "Will AI find us useful enough to keep around?"
+++}tags:
   - lens
   - IABIED
   - supplementary

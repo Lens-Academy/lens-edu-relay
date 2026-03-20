@@ -1,6 +1,7 @@
 ---
 id: 299b31d0-c5bf-4db1-9897-2fe568a5d861
-tags:
+{++{"author":"AI","timestamp":1773997629443}@@title: "Won't AI find us historically important?"
+++}tags:
   - lens
   - IABIED
   - supplementary
