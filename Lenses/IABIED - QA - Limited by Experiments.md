@@ -19,7 +19,7 @@ to:: "A superintelligence would actively identify and work around bottlenecks --
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### Chat: Discussion
+#### {--{"author":"AI","timestamp":1774006492717}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006492717}@@Chat++}
 instructions::
 The student just read a supplementary Q&A from the book's website about whether experimental limitations would constrain superintelligent AI.
 TLDR: Intelligence trades off against needing experiments. A superintelligence could extract answers from existing data, run massive parallel tests, build specialized equipment, and develop hedged strategies. The Human Genome Project (2 years early, $300M under budget) and Einstein (theory from existing data, validation 8 years later) illustrate how intelligence overcomes experimental bottlenecks.

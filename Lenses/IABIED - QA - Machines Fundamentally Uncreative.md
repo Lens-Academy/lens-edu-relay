@@ -20,7 +20,7 @@ to:: "built-in limitations to balance the equation"
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### Chat: Discussion
+#### {--{"author":"AI","timestamp":1774006502061}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006502061}@@Chat++}
 instructions::
 The student just read a supplementary Q&A from the book's website about whether machines will be fundamentally uncreative or fatally flawed.
 
