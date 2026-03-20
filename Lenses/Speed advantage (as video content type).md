@@ -1,5 +1,6 @@
 ---
-id:
+id:{++{"author":"AI","timestamp":1773996883045}@@ 
+title: Slow motion videos as AI risk intuition pumps++}
 tags:
   - lens
   - validator-ignore

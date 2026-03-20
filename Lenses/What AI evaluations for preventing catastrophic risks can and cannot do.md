@@ -1,6 +1,7 @@
 ---
 id: b5cd523c-9426-4f3b-93d4-81b098b7f49c
-tldr: Evaluations can tell us the floor of what an AI is capable of — but not the ceiling. This paper examines what safety testing can and can't deliver — useful lower bounds on capabilities, yes, but reliable forecasts of future behavior or detection of hidden goals? Not yet.
+{++{"author":"AI","timestamp":1773996878065}@@title: What AI evaluations for preventing catastrophic risks can and cannot do
+++}tldr: Evaluations can tell us the floor of what an AI is capable of — but not the ceiling. This paper examines what safety testing can and can't deliver — useful lower bounds on capabilities, yes, but reliable forecasts of future behavior or detection of hidden goals? Not yet.
 tags:
   - lens
 ---
