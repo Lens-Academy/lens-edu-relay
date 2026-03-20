@@ -1,6 +1,7 @@
 ---
 id: 9f2acee2-c3a8-4b6a-bb3d-f8d9e5deeff5
-tags:
+{++{"author":"AI","timestamp":1773998826966}@@title: "When is this worrisome sort of AI going to be developed?"
+++}tags:
   - lens
   - IABIED
   - supplementary

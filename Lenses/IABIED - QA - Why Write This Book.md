@@ -1,6 +1,7 @@
 ---
 id: a9bf8d9f-cad8-4a86-9cfe-6c9bd4f33e5f
-tags:
+{++{"author":"AI","timestamp":1773998830556}@@title: "Why write a book about superhuman AI as an extinction threat?"
+++}tags:
   - lens
   - IABIED
   - supplementary

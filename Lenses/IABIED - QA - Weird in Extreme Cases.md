@@ -1,6 +1,7 @@
 ---
 id: 5a558859-8665-4328-b6e6-a53e5ae1a81a
-tags:
+{++{"author":"AI","timestamp":1773998823220}@@title: "If current AIs are mostly weird in extreme cases, what's the problem?"
+++}tags:
   - lens
   - IABIED
   - supplementary
