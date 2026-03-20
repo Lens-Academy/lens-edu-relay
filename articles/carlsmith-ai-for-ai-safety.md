@@ -132,8 +132,8 @@ But I am sufficiently optimistic about automated alignment research (especially 
 
 I also want to highlight another concept that I find useful in thinking about AI for AI safety – that is, what I call the “AI for AI safety sweet spot.” By this I mean, a zone of capability development (and safety progress) such that:
 
-1. Frontier AIs are capable enough to radically improve the security factors above, *if* relevant actors can succeed at eliciting these capabilities.<sup><span><span></span><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnvpzdxsnagxf" class="">[27]</a></span></sup>
-2. Disempowering humanity is not an option for these AIs, given our efforts to restrict their options in this respect (call such efforts “countermeasures”).<sup><span><span></span><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fne422l3lygv5" class="">[28]</a></span></sup>
+1. Frontier AIs are capable enough to radically improve the security factors above, *if* relevant actors can succeed at eliciting these capabilities.{--{"author":"AI","timestamp":1774023421356}@@<sup><span><span></span><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnvpzdxsnagxf" class="">[27]</a></span></sup>--}{++{"author":"AI","timestamp":1774023421356}@@[^27]++}
+2. Disempowering humanity is not an option for these AIs, given our efforts to restrict their options in this respect (call such efforts “countermeasures”).{--{"author":"AI","timestamp":1774023423110}@@<sup><span><span></span><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fne422l3lygv5" class="">[28]</a></span></sup>--}{++{"author":"AI","timestamp":1774023423110}@@[^28]++}
 
 Thus, in a diagram:
 
@@ -141,10 +141,10 @@ Thus, in a diagram:
 
 The AI for AI safety sweet spot is important, I think, because it’s an especially salient target for efforts at capability restraint:
 
-- That is: to extent one has a limited budget of capability restraint, applying it once you’re within the AI for AI safety sweet spot, relative to beforehand, makes it possible for the time you buy to go towards radical, AI-driven improvements to our civilizational competence; whereas this is less true of earlier “pauses.”<sup><span><span></span><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnn39137zsgtm" class="">[29]</a></span></sup>
+- That is: to extent one has a limited budget of capability restraint, applying it once you’re within the AI for AI safety sweet spot, relative to beforehand, makes it possible for the time you buy to go towards radical, AI-driven improvements to our civilizational competence; whereas this is less true of earlier “pauses.”{--{"author":"AI","timestamp":1774023424453}@@<sup><span><span></span><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnn39137zsgtm" class="">[29]</a></span></sup>--}{++{"author":"AI","timestamp":1774023424453}@@[^29]++}
 - Whereas applying capability restraint *later* means working with AI systems that are in a position to disempower all of humanity – a scarier position (more on this below).
 
-Note that in principle, different security factors might have different sweet spots – e.g. maybe the capability level required to use AIs to help with coordination is lower than the level required to use AIs for alignment research.<sup><span><span></span><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnb8msrxv52nk" class="">[30]</a></span></sup> And note, also, that you can expand the AI for AI safety sweet spot by improving your countermeasures – and that AI labor can help with this.
+Note that in principle, different security factors might have different sweet spots – e.g. maybe the capability level required to use AIs to help with coordination is lower than the level required to use AIs for alignment research.{--{"author":"AI","timestamp":1774023427499}@@<sup><span><span></span><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnb8msrxv52nk" class="">[30]</a></span></sup>--}{++{"author":"AI","timestamp":1774023427499}@@[^30]++} And note, also, that you can expand the AI for AI safety sweet spot by improving your countermeasures – and that AI labor can help with this.
 
 ![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/f45d9ff6729b7065f25940354d80807bcb50d392ada44313130215e6d7261061/ksakanzewp5ofh9mq3bh)
 
