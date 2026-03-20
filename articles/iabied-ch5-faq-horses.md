@@ -1,8 +1,8 @@
 ---
 title: "But we still have horses. Why wouldn't AI keep us around?"
 source_url: https://ifanyonebuildsit.com/5/but-we-still-have-horses-why-wouldnt-ai-keep-us-around
-{++{"author":"AI","timestamp":1774006851647}@@published: 2025-09-16
-++}author:
+published: 2025-09-16
+author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

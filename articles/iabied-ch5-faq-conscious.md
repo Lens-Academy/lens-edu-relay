@@ -1,8 +1,8 @@
 ---
 title: "Would smarter-than-human AI be conscious?"
 source_url: https://ifanyonebuildsit.com/5/would-smarter-than-human-ai-be-conscious
-{++{"author":"AI","timestamp":1774006839005}@@published: 2025-09-16
-++}author:
+published: 2025-09-16
+author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

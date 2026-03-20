@@ -1,8 +1,8 @@
 ---
 title: "What Good Does Knowledge of LLMs Do?"
 source_url: https://ifanyonebuildsit.com/2/what-good-does-knowledge-of-llms-do
-{++{"author":"AI","timestamp":1774006736945}@@published: 2025-09-16
-++}author:
+published: 2025-09-16
+author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

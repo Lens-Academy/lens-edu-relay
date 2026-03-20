@@ -1,8 +1,8 @@
 ---
 title: "Won't AIs inevitably be cold and logical, or otherwise missing some crucial spark?"
 source_url: https://ifanyonebuildsit.com/2/wont-ais-inevitably-be-cold-and-logical-or-otherwise-missing-some-crucial-spark
-{++{"author":"AI","timestamp":1774006746076}@@published: 2025-09-16
-++}author:
+published: 2025-09-16
+author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

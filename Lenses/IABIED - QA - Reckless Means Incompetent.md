@@ -1,5 +1,5 @@
 ---
-id: {--{"author":"AI","timestamp":1774007054241}@@568cb83e-08e2-47ec-8993-38384de56124--}{++{"author":"AI","timestamp":1774007054241}@@8d9445ee-2905-4d66-8230-6b88cd16af6a++}
+id: 8d9445ee-2905-4d66-8230-6b88cd16af6a
 title: "Won't the most reckless companies naturally be the most incompetent, and thus not a threat?"
 tags:
   - lens
@@ -19,7 +19,7 @@ to:: "And the less reckless companies are very visibly not on top of the challen
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### {--{"author":"AI","timestamp":1774006542908}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006542908}@@Chat++}
+#### Chat
 instructions::
 The student just read a supplementary Q&A from the book's website about whether reckless AI companies will naturally be too incompetent to be dangerous.
 TLDR: Corner-cutting is often competitive, not incompetent — Volkswagen and Boeing show this. Even the most "cautious" AI companies are still reckless by normal standards and not on top of the challenges.

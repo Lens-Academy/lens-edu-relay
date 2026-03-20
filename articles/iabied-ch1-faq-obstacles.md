@@ -1,8 +1,8 @@
 ---
 title: "But aren't there big obstacles to reaching superintelligence?"
 source_url: https://ifanyonebuildsit.com/1/but-arent-there-big-obstacles-to-reaching-superintelligence
-{++{"author":"AI","timestamp":1774006693634}@@published: 2025-09-16
-++}author:
+published: 2025-09-16
+author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

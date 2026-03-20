@@ -1,8 +1,8 @@
 ---
 title: "Isn't intelligence overrated?"
 source_url: https://ifanyonebuildsit.com/1/isnt-intelligence-overrated
-{++{"author":"AI","timestamp":1774006689428}@@published: 2025-09-16
-++}author:
+published: 2025-09-16
+author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

@@ -1,8 +1,8 @@
 ---
 title: "Do experts understand what's going on inside AIs?"
 source_url: https://ifanyonebuildsit.com/2/do-experts-understand-whats-going-on-inside-ais
-{++{"author":"AI","timestamp":1774006747603}@@published: 2025-09-16
-++}author:
+published: 2025-09-16
+author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

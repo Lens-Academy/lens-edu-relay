@@ -1,8 +1,8 @@
 ---
 title: "Can the AI be satisfied to just leave us alone?"
 source_url: https://ifanyonebuildsit.com/5/can-the-ai-be-satisfied-to-the-point-where-it-just-leaves-us-alone
-{++{"author":"AI","timestamp":1774006866906}@@published: 2025-09-16
-++}author:
+published: 2025-09-16
+author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

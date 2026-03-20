@@ -19,7 +19,7 @@ to:: "Those continuing despite warning signs likely pursued other objectives des
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### {--{"author":"AI","timestamp":1774006540906}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006540906}@@Chat++}
+#### Chat
 instructions::
 The student just read a supplementary Q&A from the book's website about whether racing ahead in AI is necessary for alignment research.
 TLDR: The authors reject the current AI paradigm entirely and argue there's already decades of unexplained AI behavior to study. The "we need more advanced AI to do alignment research" argument has weakened as alarming behaviors have already been observed.

@@ -20,7 +20,7 @@ to:: "addressing underlying issues"
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### {--{"author":"AI","timestamp":1774006487476}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006487476}@@Chat++}
+#### Chat
 instructions::
 The student just read a supplementary Q&A from the book's website about the practical value of understanding LLMs.
 

@@ -19,7 +19,7 @@ to:: "a lazy superintelligence would rationally build harder-working minds witho
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### {--{"author":"AI","timestamp":1774006503729}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006503729}@@Chat++}
+#### Chat
 instructions::
 The student just read a supplementary Q&A from the book's website about whether we could make AI lazy as a safety strategy.
 TLDR: Making AI lazy faces three problems: market incentives push against it, engineering laziness is as hard as any alignment target, and a lazy superintelligence would simply delegate to a harder-working successor -- making laziness an unstable equilibrium.

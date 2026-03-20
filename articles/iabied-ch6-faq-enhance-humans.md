@@ -1,8 +1,8 @@
 ---
 title: "Can we enhance humans so they keep pace with AI?"
 source_url: https://ifanyonebuildsit.com/6/can-we-enhance-humans-so-they-keep-pace-with-ai
-{++{"author":"AI","timestamp":1774006918518}@@published: 2025-09-16
-++}author:
+published: 2025-09-16
+author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

@@ -1,8 +1,8 @@
 ---
 title: "Won't AIs care at least a little about humans?"
 source_url: https://ifanyonebuildsit.com/5/wont-ais-care-at-least-a-little-about-humans
-{++{"author":"AI","timestamp":1774006836666}@@published: 2025-09-16
-++}author:
+published: 2025-09-16
+author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

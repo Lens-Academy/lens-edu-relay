@@ -1,8 +1,8 @@
 ---
 title: "What if AI companies only deploy their AIs for non-dangerous actions?"
 source_url: https://ifanyonebuildsit.com/11/what-if-ai-companies-only-deploy-their-ais-for-non-dangerous-actions
-{++{"author":"AI","timestamp":1774006732162}@@published: 2025-09-16
-++}author:
+published: 2025-09-16
+author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

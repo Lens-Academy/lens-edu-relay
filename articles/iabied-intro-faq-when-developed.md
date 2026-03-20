@@ -1,8 +1,8 @@
 ---
 title: "When is this worrisome sort of AI going to be developed?"
 source_url: https://ifanyonebuildsit.com/intro/when-is-this-worrisome-sort-of-ai-going-to-be-developed
-{++{"author":"AI","timestamp":1774006946696}@@published: 2025-09-16
-++}author:
+published: 2025-09-16
+author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

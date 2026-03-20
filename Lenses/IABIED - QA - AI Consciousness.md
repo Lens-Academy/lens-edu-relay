@@ -18,7 +18,7 @@ to:: "An unconscious optimizer pursuing goals misaligned with human values would
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### {--{"author":"AI","timestamp":1774006354147}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006354147}@@Chat++}
+#### Chat
 instructions::
 The student just read a supplementary Q&A from the book's website about whether superintelligent AI would be conscious.
 TLDR: The authors guess "probably not" but treat the question as separate from AI danger. Consciousness doesn't determine whether an AI is dangerous -- an unconscious optimizer pursuing misaligned goals is just as threatening.

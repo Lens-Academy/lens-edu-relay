@@ -1,8 +1,8 @@
 ---
 title: "Will AIs have human-like emotions?"
 source_url: https://ifanyonebuildsit.com/3/will-ais-have-human-like-emotions
-{++{"author":"AI","timestamp":1774006786010}@@published: 2025-09-16
-++}author:
+published: 2025-09-16
+author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

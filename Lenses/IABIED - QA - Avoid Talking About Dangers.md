@@ -1,5 +1,5 @@
 ---
-id: {--{"author":"AI","timestamp":1774007052285}@@3dba768a-c3e4-4a7c-8063-9bf1ce403513--}{++{"author":"AI","timestamp":1774007052285}@@25947894-248a-4b34-a85c-dcef68c76937++}
+id: 25947894-248a-4b34-a85c-dcef68c76937
 title: "Should we avoid talking about AI dangers, so AIs don't get any bad ideas?"
 tags:
   - lens
@@ -20,7 +20,7 @@ to:: "competent safety design shouldn't fail from scrutiny"
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### {--{"author":"AI","timestamp":1774006387775}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006387775}@@Chat++}
+#### Chat
 instructions::
 The student just read a supplementary Q&A from the book's website about whether discussing AI dangers publicly could give AIs bad ideas.
 
