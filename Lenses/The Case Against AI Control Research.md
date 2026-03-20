@@ -1,6 +1,7 @@
 ---
 id: 8dd82ec4-8172-4afe-a905-6af3ad5a2911
-tldr: If control research gives us tools to contain AI, it might also give AI the understanding to escape containment. This article questions whether building better cages is a path to safety — or an accelerant for risk.
+{++{"author":"AI","timestamp":1773996812305}@@title: The Case Against AI Control Research
+++}tldr: If control research gives us tools to contain AI, it might also give AI the understanding to escape containment. This article questions whether building better cages is a path to safety — or an accelerant for risk.
 tags:
   - lens
 ---
