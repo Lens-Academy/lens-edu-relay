@@ -20,7 +20,7 @@ to:: "justify an aggressive international response today"
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### Chat: Discussion
+#### {--{"author":"AI","timestamp":1774006403329}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006403329}@@Chat++}
 instructions::
 The student just read a supplementary Q&A from the book's website about whether ChatGPT specifically is the threat (it isn't — the concern is about the trajectory toward superintelligence).
 

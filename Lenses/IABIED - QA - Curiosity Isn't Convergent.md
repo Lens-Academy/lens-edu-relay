@@ -19,7 +19,7 @@ to:: "Human values appear contingent on specific evolutionary history, not conve
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### Chat: Discussion
+#### {--{"author":"AI","timestamp":1774006408845}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006408845}@@Chat++}
 instructions::
 The student just read a supplementary Q&A from the book's website about why curiosity is not a convergent property of intelligence.
 TLDR: Human curiosity is one specific way to solve the problem of gathering useful information, but AIs could solve the same problem through passionless value-of-information calculations. The titanium cube maximizer thought experiment shows why an AI wouldn't voluntarily adopt human-like emotional architecture.

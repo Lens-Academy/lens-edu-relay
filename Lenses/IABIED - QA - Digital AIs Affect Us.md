@@ -19,7 +19,7 @@ to:: "a failure of imagination, where people don't imagine the AI even being as 
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### Chat: Discussion
+#### {--{"author":"AI","timestamp":1774006410237}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006410237}@@Chat++}
 instructions::
 The student just read a supplementary Q&A from the book's website about how digital AIs could affect the physical world.
 TLDR: Being digital and internet-connected provides enormous capabilities. AIs can pay, blackmail, trick, or ask humans for help (like criminals running empires from prison). Real examples show AIs already organizing physical events. Robots, biolabs, and social engineering provide additional channels for physical world intervention.
