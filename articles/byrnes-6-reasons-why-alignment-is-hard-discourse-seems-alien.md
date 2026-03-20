@@ -234,7 +234,7 @@ For my part, I’m obviously very interested in the question of whether we can a
 
 *Thanks Seth Herd, Linda Linsefors, Charlie Steiner, Simon Skade, Jeremy Gillen, and Justis Mills for critical comments on earlier drafts.*
 
-1. <sup><strong><a href="https://www.lesswrong.com/posts/d4HNRdw6z7Xqbnu5E/#fnrefzefjufuanq">^</a></strong></sup>
+{--{"author":"AI","timestamp":1774022855336}@@1. <sup><strong><a href="https://www.lesswrong.com/posts/d4HNRdw6z7Xqbnu5E/#fnrefzefjufuanq">^</a></strong></sup>--}{++{"author":"AI","timestamp":1774022855336}@@[^1]:++}
 	…and by extension today’s LLMs, [which (I claim) get their powers mainly from imitating humans](https://www.lesswrong.com/posts/bnnKGSCHJghAvqPjS/foom-and-doom-2-technical-alignment-is-hard#2_3_1__Where_do_you_get_your_capabilities_from__).
 2. <sup><strong><a href="https://www.lesswrong.com/posts/d4HNRdw6z7Xqbnu5E/#fnrefvozn424spkh">^</a></strong></sup>
 	I said “surreptitiously” here because if you *ostentatiously* press a reward button, in a way that the robot can see, then the robot would presumably wind up wanting the reward button to be pressed, which eventually leads to the robot grabbing the reward button etc. See [Reward button alignment](https://www.lesswrong.com/posts/JrTk2pbqp7BFwPAKw/reward-button-alignment).
