@@ -1,7 +1,7 @@
 ---
 id: 08874128-af4c-4e32-809c-f8a21f25ceff
-{++{"author":"AI","timestamp":1773998855396}@@title: Next Steps with Lens Academy
-++}tags:
+title: Next Steps with Lens Academy
+tags:
   - lens
   - IABIED
   - work-in-progress

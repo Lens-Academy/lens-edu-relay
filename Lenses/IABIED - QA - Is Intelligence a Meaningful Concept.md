@@ -1,7 +1,7 @@
 ---
 id: e06e88b1-ff11-45eb-b88c-d969c33447de
-{++{"author":"AI","timestamp":1773997958036}@@title: "Is intelligence a meaningful concept?"
-++}tags:
+title: "Is intelligence a meaningful concept?"
+tags:
   - lens
   - IABIED
   - supplementary

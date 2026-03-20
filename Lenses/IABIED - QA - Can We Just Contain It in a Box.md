@@ -1,7 +1,7 @@
 ---
 id: dc463cfa-3cf7-49d8-ae32-8935dfd4cf28
-{++{"author":"AI","timestamp":1773997730756}@@title: "Can developers just keep the AI in a box?"
-++}tags:
+title: "Can developers just keep the AI in a box?"
+tags:
   - lens
   - IABIED
   - supplementary

@@ -1,7 +1,7 @@
 ---
 id: 7def2853-26e1-4568-8223-0439095711a8
-{++{"author":"AI","timestamp":1773998825265}@@title: "What about the benefits of AI?"
-++}tags:
+title: "What about the benefits of AI?"
+tags:
   - lens
   - IABIED
   - supplementary

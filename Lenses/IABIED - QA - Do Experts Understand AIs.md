@@ -1,22 +1,19 @@
 ---
 id: 2d9b51c6-fc81-43f7-a678-7a6164825857
-{++{"author":"AI","timestamp":1773997801271}@@title: "Do experts understand what's going on inside AIs?"
-++}tags:
+title: "Do experts understand what's going on inside AIs?"
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1773946072126}@@### Article: IABIED - QA - Do Experts Understand AIs
-source:: [[../articles/iabied-ch2-faq-experts-understand]]
-
---}#### Text
+#### Text
 content::
 This Q&A documents that AI experts do not understand what goes on inside their systems. When Andreessen Horowitz falsely claimed the opacity problem was "resolved," researchers at every major lab publicly contradicted them. Interpretability research receives about 0.1% of the personnel devoted to building more capable AI.
 
-#### {--{"author":"AI","timestamp":1773946072126}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946072126}@@Article
-source:: [[../articles/iabied-ch2-faq-experts-understand]]++}
+#### Article
+source:: [[../articles/iabied-ch2-faq-experts-understand]]
 to:: "abstract thinking patterns that humans cannot decode"
 
 #### Text

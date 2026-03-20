@@ -1,7 +1,7 @@
 ---
 id: b2525f8a-9290-4900-bd03-44cc512287a2
-{++{"author":"AI","timestamp":1773996925033}@@title: What do I do next?
-++}tags:
+title: What do I do next?
+tags:
   - lens
   - work-in-progress
   - validator-ignore

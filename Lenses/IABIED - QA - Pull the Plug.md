@@ -1,21 +1,18 @@
 ---
 id: 9f2acee2-c3a8-4b6a-bb3d-f8d9e5deeff5
-{++{"author":"AI","timestamp":1773998645335}@@title: "Can we just pull the plug?"
-++}tags:
+title: "Can we just pull the plug?"
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1773946402081}@@### Article: Can we just pull the plug?
-source:: [[../articles/iabied-ch6-faq-pull-plug]]
-
---}#### Text
+#### Text
 content::
 This Q&A addresses the intuition that we could simply shut down a dangerous AI. The authors argue this is practically impossible for two reasons: companies resist turning off profitable systems (even dismissing warning signs like AIs planning to steal their own weights), and a superintelligent AI would conceal its capabilities and escape before anyone notices the problem.
 
-#### {--{"author":"AI","timestamp":1773946402081}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946402081}@@Article
-source:: [[../articles/iabied-ch6-faq-pull-plug]]++}
+#### Article
+source:: [[../articles/iabied-ch6-faq-pull-plug]]
 to:: "A superintelligent adversary would be even more aware of its vulnerabilities (and ours) than we are, and would plan accordingly."
 
 #### Text

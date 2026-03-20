@@ -5,28 +5,26 @@ title: Introduction to AI Safety
 tags:
   - work-in-progress
 ---
-# {--{"author":"AI","timestamp":1773948238859}@@Uncategorized:
-
-## --}Lens:
+# Lens:
 source::
 [[../Lenses/sidebar chat test 1 article segment|sidebar chat test 1 article segment]]
 
-{--{"author":"AI","timestamp":1773948238859}@@##--}{++{"author":"AI","timestamp":1773948238859}@@#++} Lens:
+# Lens:
 source::
 [[../Lenses/sidebar chat test 2 article segments|sidebar chat test 2 article segments]]
 
-# {--{"author":"AI","timestamp":1773948238859}@@Page:--}{++{"author":"AI","timestamp":1773948238859}@@Lens:++} Welcome to AI Safety
+# Lens: Welcome to AI Safety
 id:: d1e2f3a4-b5c6-7890-d1e2-f3a4b5c67890
-{--{"author":"AI","timestamp":1773948238859}@@##--}{++{"author":"AI","timestamp":1773948238859}@@####++} Text
+#### Text
 content::
 We begin by examining the potential of AI and the risks and opportunities
 that the characteristics of this technology present to humanity. Hello
 
-{--{"author":"AI","timestamp":1773948246436}@@##--}{++{"author":"AI","timestamp":1773948246436}@@####++} Chat
+#### Chat
 instructions::
 You're a tutor.
 
-{--{"author":"AI","timestamp":1773948246436}@@##--}{++{"author":"AI","timestamp":1773948246436}@@####++} Text
+#### Text
 content::
 hello again
 
@@ -34,16 +32,15 @@ hello again
 source::
 [[../Learning Outcomes/trial for Testing|trial for Testing]]
 
-# {--{"author":"AI","timestamp":1773948254770}@@Uncategorized:
-## --}Lens:
+# Lens:
 source::
 [[../Lenses/collapsed article text test]]
 
-{--{"author":"AI","timestamp":1773948254770}@@##--}{++{"author":"AI","timestamp":1773948254770}@@#++} Lens:
+# Lens:
 source::
 [[../Lenses/Trial question and roleplay]]
 
-{--{"author":"AI","timestamp":1773948254770}@@##--}{++{"author":"AI","timestamp":1773948254770}@@#++} Lens:
+# Lens:
 source::
 [[../Lenses/Kurzgesagt software demo]]
 

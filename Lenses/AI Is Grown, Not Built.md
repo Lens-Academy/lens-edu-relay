@@ -1,17 +1,14 @@
 ---
 id: cc0b8328-78dd-408e-a5c3-35fe2ec45568
-{++{"author":"AI","timestamp":1773996753154}@@title: "AI Is Grown, Not Built"
-++}tldr: Nobody sat down and programmed ChatGPT to have conversations. Instead, engineers set up a training process and let billions of parameters arrange themselves. The result can talk, reason, and surprise its creators — but nobody can fully explain how. This article asks what it means to deploy something powerful when you can't explain how it works.
+title: "AI Is Grown, Not Built"
+tldr: Nobody sat down and programmed ChatGPT to have conversations. Instead, engineers set up a training process and let billions of parameters arrange themselves. The result can talk, reason, and surprise its creators — but nobody can fully explain how. This article asks what it means to deploy something powerful when you can't explain how it works.
 ---
-{--{"author":"AI","timestamp":1773946617083}@@### Article: AI Is Grown, Not Built
-source:: [[../articles/yudkowsky-soares-ai-is-grown-not-built|yudkowsky-soares-ai-is-grown-not-built]]
-
---}#### Text
+#### Text
 content::
 We don’t "build" intelligence brick by brick; instead, we create conditions for it to develop using massive datasets. This "growth" leads to emergent properties, skills that the system wasn't explicitly taught and that often surprise the creators themselves. The first material in this module examines these features of the current AI development paradigm and explores the consequences of such an approach.
 
-#### {--{"author":"AI","timestamp":1773946644822}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946644822}@@Article
-source:: [[../articles/yudkowsky-soares-ai-is-grown-not-built|yudkowsky-soares-ai-is-grown-not-built]]++}
+#### Article
+source:: [[../articles/yudkowsky-soares-ai-is-grown-not-built|yudkowsky-soares-ai-is-grown-not-built]]
 to:: "and we’re already seeing the warning signs."
 
 #### Text

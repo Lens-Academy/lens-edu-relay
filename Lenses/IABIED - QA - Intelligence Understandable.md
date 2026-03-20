@@ -1,22 +1,19 @@
 ---
 id: c4afa01d-727e-49d4-b714-d0295ec2fc71
-{++{"author":"AI","timestamp":1773997927850}@@title: "Is intelligence understandable in principle?"
-++}tags:
+title: "Is intelligence understandable in principle?"
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1773946192717}@@### Article: IABIED - QA - Intelligence Understandable
-source:: [[../articles/iabied-ch2-faq-understandable]]
-
---}#### Text
+#### Text
 content::
 This Q&A argues that intelligence is probably understandable in principle, drawing parallels to pre-biochemistry skepticism about understanding life. Some small parts of neural networks have been decoded, but the field is 1/50th to 1/5,000th of the way toward tackling major problems.
 
-#### {--{"author":"AI","timestamp":1773946192717}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946192717}@@Article
-source:: [[../articles/iabied-ch2-faq-understandable]]++}
+#### Article
+source:: [[../articles/iabied-ch2-faq-understandable]]
 to:: "the chess program IBM built decades ago"
 
 #### Text

@@ -1,22 +1,19 @@
 ---
 id: 9faaf0d6-779f-455d-9fb0-b92735e0b4c4
-{++{"author":"AI","timestamp":1773998639507}@@title: "Isn't it impossible to predict the behavior of a superintelligence?"
-++}tags:
+title: "Isn't it impossible to predict the behavior of a superintelligence?"
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1773946395008}@@### Article: IABIED - QA - Predicting Superintelligence
-source:: [[../articles/iabied-ch1-faq-predict-behavior]]
-
---}#### Text
+#### Text
 content::
 This Q&A addresses whether superintelligence would be unpredictable. The key insight: "It's hard to predict what moves Stockfish will make; it's easy to predict that it will win." We cannot predict specific actions of a smarter-than-human system, but we can predict it will achieve its goals effectively.
 
-#### {--{"author":"AI","timestamp":1773946395008}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946395008}@@Article
-source:: [[../articles/iabied-ch1-faq-predict-behavior]]++}
+#### Article
+source:: [[../articles/iabied-ch1-faq-predict-behavior]]
 to:: "understanding superhuman intelligence dynamics"
 
 #### Text

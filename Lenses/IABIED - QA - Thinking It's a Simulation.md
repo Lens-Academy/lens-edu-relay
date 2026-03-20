@@ -1,21 +1,18 @@
 ---
 id: 69e14a86-3fe7-48cf-8d32-f667a9937738
-{++{"author":"AI","timestamp":1773998799361}@@title: "What if we make it think it's in a simulation?"
-++}tags:
+title: "What if we make it think it's in a simulation?"
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1773946492318}@@### Article: What if we make it think it's in a simulation?
-source:: [[../articles/iabied-ch5-faq-simulation]]
-
---}#### Text
+#### Text
 content::
 This Q&A examines the proposal to make AI uncertain about whether it's in a simulation, hoping this would deter harmful behavior. The authors argue a superintelligence could easily detect reality through scale, physics consistency, and response signatures, making this deception strategy ineffective.
 
-#### {--{"author":"AI","timestamp":1773946492318}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946492318}@@Article
-source:: [[../articles/iabied-ch5-faq-simulation]]++}
+#### Article
+source:: [[../articles/iabied-ch5-faq-simulation]]
 to:: "Humans tend to imagine optimistic scenarios and construct post-hoc justifications for why AIs might cooperate with us."
 
 #### Text

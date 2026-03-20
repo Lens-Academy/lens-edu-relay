@@ -1,22 +1,19 @@
 ---
 id: 59da6629-4a48-4296-a2e4-52fa6af3febc
-{++{"author":"AI","timestamp":1773997828505}@@title: "Can we use past progress to extrapolate when we'll build smarter-than-human AI?"
-++}tags:
+title: "Can we use past progress to extrapolate when we'll build smarter-than-human AI?"
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1773946098696}@@### Article: IABIED - QA - Extrapolating AI Progress
-source:: [[../articles/iabied-intro-faq-extrapolate-progress]]
-
---}#### Text
+#### Text
 content::
 This Q&A explains why trend extrapolation fails for predicting dangerous AI. The core problem is that we cannot map quantitative metrics (like perplexity scores) onto qualitative capabilities (like "can do novel science" or "can kill everyone"). You have to run the AI and find out.
 
-#### {--{"author":"AI","timestamp":1773946098696}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946098696}@@Article
-source:: [[../articles/iabied-intro-faq-extrapolate-progress]]++}
+#### Article
+source:: [[../articles/iabied-intro-faq-extrapolate-progress]]
 to:: "arbitrary prognostications about overall timelines"
 
 #### Text

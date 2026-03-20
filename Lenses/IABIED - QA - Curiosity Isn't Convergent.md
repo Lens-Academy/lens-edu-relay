@@ -1,21 +1,18 @@
 ---
 id: 77ae7904-9a9d-4c33-92f1-a2b229f91f8d
-{++{"author":"AI","timestamp":1773997798033}@@title: "Curiosity Isn't Convergent"
-++}tags:
+title: "Curiosity Isn't Convergent"
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1773946067416}@@### Article: Curiosity Isn't Convergent
-source:: [[../articles/iabied-ch4-ext-curiosity]]
-
---}#### Text
+#### Text
 content::
 This extended discussion challenges the assumption that curiosity is a natural feature of any sufficiently intelligent mind. Instead, it argues that curiosity is a specifically human solution to the problem of gathering information, and that AI systems could solve the same problem through entirely different mechanisms like value-of-information calculations, without any emotional experience of wonder or delight.
 
-#### {--{"author":"AI","timestamp":1773946067416}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946067416}@@Article
-source:: [[../articles/iabied-ch4-ext-curiosity]]++}
+#### Article
+source:: [[../articles/iabied-ch4-ext-curiosity]]
 to:: "Human values appear contingent on specific evolutionary history, not convergent features of intelligence itself."
 
 #### Text

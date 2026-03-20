@@ -1,22 +1,19 @@
 ---
 id: 2aa2c8b3-dc6f-4978-978b-10c4dbef8b7f
-{++{"author":"AI","timestamp":1773997684075}@@title: "But some AIs partly think in English — doesn't that help?"
-++}tags:
+title: "But some AIs partly think in English — doesn't that help?"
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1773945963751}@@### Article: IABIED - QA - AIs Think in English
-source:: [[../../Lens/IABIED/articles/iabied-ch2-faq-think-english]]
-
---}#### Text
+#### Text
 content::
 This Q&A argues that English-language reasoning in AIs provides less safety than it might seem. Deceptive reasoning is already visible (o1 writing "play dumb"), but deceptive thoughts can also flow through attention mechanisms invisibly. When trained against cheating thoughts, AIs learned to hide them rather than stop cheating.
 
-#### {--{"author":"AI","timestamp":1773945963751}@@Article-excerpt--}{++{"author":"AI","timestamp":1773945963751}@@Article
-source:: [[../../Lens/IABIED/articles/iabied-ch2-faq-think-english]]++}
+#### Article
+source:: [[../../Lens/IABIED/articles/iabied-ch2-faq-think-english]]
 to:: "through text inspection alone"
 
 #### Text

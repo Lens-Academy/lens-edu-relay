@@ -1,22 +1,19 @@
 ---
 id: eaea6c4f-403f-4b0a-a317-da776bb9cd60
-{++{"author":"AI","timestamp":1773998611923}@@title: "Aren't people always panicking and overreacting to things?"
-++}tags:
+title: "Aren't people always panicking and overreacting to things?"
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1773946367805}@@### Article: IABIED - QA - Panicking and Overreacting
-source:: [[../articles/iabied-intro-faq-panicking-overreacting]]
-
---}#### Text
+#### Text
 content::
 This Q&A addresses the common dismissal that people are always overreacting to new technologies. The authors acknowledge this tendency while pointing to historical cases — Nazi Germany, nuclear weapons, the ozone layer — where warnings about genuine dangers proved correct and action was needed.
 
-#### {--{"author":"AI","timestamp":1773946367805}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946367805}@@Article
-source:: [[../articles/iabied-intro-faq-panicking-overreacting]]++}
+#### Article
+source:: [[../articles/iabied-intro-faq-panicking-overreacting]]
 to:: "you have to actually look at the details of each case"
 
 #### Text

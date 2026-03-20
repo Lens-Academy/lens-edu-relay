@@ -9,17 +9,17 @@ tags:
   - work-in-progress
 ---
 
-# {--{"author":"AI","timestamp":1773948144212}@@Page:--}{++{"author":"AI","timestamp":1773948144212}@@Lens:++} Welcome
+# Lens: Welcome
 id:: 4d287f1a-5049-4671-a34e-b49385e7ac5e
 
-{--{"author":"AI","timestamp":1773948144212}@@##--}{++{"author":"AI","timestamp":1773948144212}@@####++} Text
+#### Text
 content:: Welcome to our final module. There's no new reading this week — instead, we synthesize everything we've learned and chart a path forward. Can you make the book's complete argument to someone who hasn't read it? What will you do next?
 
 Over the past six weeks, we've built up a chain of reasoning: intelligence is uniquely powerful → AI is grown, not crafted → training produces wants → you don't get what you train for → AI's goals won't be human-compatible → it would defeat us → the engineering problem is cursed → current approaches are alchemy → incentives push everyone to keep going → we need to shut it down → there is still hope if we act.
 
 This week is about making sure that chain is solid in your mind, and identifying how you personally want to engage with these issues going forward.
 
-{--{"author":"AI","timestamp":1773948173239}@@##--}{++{"author":"AI","timestamp":1773948173239}@@####++} Chat
+#### Chat
 instructions::
 The student has completed all six reading modules of the IABIED book club and is now in the synthesis module with no new reading.
 
