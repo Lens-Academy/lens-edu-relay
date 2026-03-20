@@ -14,8 +14,8 @@ This Q&A argues against the hope that machines will have compensating fatal flaw
 
 #### Article
 source:: [[../articles/iabied-ch1-faq-uncreative]]
-to:: "built-in limitations to balance the equation"
-
+{--{"author":"AI","timestamp":1774009062714}@@to:: "built-in limitations to balance the equation"
+--}
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?
