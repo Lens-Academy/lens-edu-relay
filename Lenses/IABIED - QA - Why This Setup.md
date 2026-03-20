@@ -14,8 +14,8 @@ The authors of Part II chose a scenario set close to the present day, not becaus
 
 #### Article
 source:: [[../articles/iabied-ptii-faq-pick-setup]]
-to:: "optimistic stories tend to rely on the AI being unrealistically easy to align (contra the arguments we make in Chapter 4), or unrealistically powerless (contra the arguments we made in Chapter 6)"
-
+{--{"author":"AI","timestamp":1774009264947}@@to:: "optimistic stories tend to rely on the AI being unrealistically easy to align (contra the arguments we make in Chapter 4), or unrealistically powerless (contra the arguments we made in Chapter 6)"
+--}
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?
