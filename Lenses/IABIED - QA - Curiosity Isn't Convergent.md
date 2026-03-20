@@ -13,8 +13,8 @@ This extended discussion challenges the assumption that curiosity is a natural f
 
 #### Article
 source:: [[../articles/iabied-ch4-ext-curiosity]]
-to:: "Human values appear contingent on specific evolutionary history, not convergent features of intelligence itself."
-
+{--{"author":"AI","timestamp":1774008895685}@@to:: "Human values appear contingent on specific evolutionary history, not convergent features of intelligence itself."
+--}
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?
