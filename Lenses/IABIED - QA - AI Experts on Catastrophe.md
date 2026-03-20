@@ -20,7 +20,7 @@ to:: "even 5% extinction risk justifies urgent action"
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### Chat: Discussion
+#### {--{"author":"AI","timestamp":1774006356943}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006356943}@@Chat++}
 instructions::
 The student just read a supplementary Q&A from the book's website compiling expert views on AI catastrophe risk.
 

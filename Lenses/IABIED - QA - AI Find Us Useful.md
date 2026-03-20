@@ -19,7 +19,7 @@ to:: "without specific programmed preferences favoring human welfare, superintel
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### Chat: Discussion
+#### {--{"author":"AI","timestamp":1774006363824}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006363824}@@Chat++}
 instructions::
 The student just read a supplementary Q&A from the book's website about whether AI would find humans useful enough to keep around.
 TLDR: Humans are rarely the most efficient solution to any problem, and AI-human teams are already being outperformed by AI alone in some domains. A superintelligence could generate more diverse perspectives through AI minds more efficiently than through humans.
