@@ -1,6 +1,7 @@
 ---
 id: 01eaea0b-9f02-4b76-aef4-e5617addddf6
-tags:
+{++{"author":"AI","timestamp":1773998538468}@@title: "What if there are lots of different AIs?"
+++}tags:
   - lens
   - IABIED
   - supplementary

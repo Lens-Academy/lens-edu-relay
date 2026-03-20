@@ -1,6 +1,7 @@
 ---
 id: 3ea8ff34-a795-4e7b-8aae-052c69fda14b
-tags:
+{++{"author":"AI","timestamp":1773998540143}@@title: "How could a machine end up with its own priorities?"
+++}tags:
   - lens
   - IABIED
   - supplementary
