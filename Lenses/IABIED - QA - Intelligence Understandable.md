@@ -14,8 +14,8 @@ This Q&A argues that intelligence is probably understandable in principle, drawi
 
 #### Article
 source:: [[../articles/iabied-ch2-faq-understandable]]
-to:: "the chess program IBM built decades ago"
-
+{--{"author":"AI","timestamp":1774008963985}@@to:: "the chess program IBM built decades ago"
+--}
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?
