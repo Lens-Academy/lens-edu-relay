@@ -1,6 +1,7 @@
 ---
 id: 90381b34-294e-4e2a-b884-555996939080
-tags:
+{++{"author":"AI","timestamp":1773998854300}@@title: "Why are you imagining a smart AI doing such stupid, trivial things?"
+++}tags:
   - lens
   - IABIED
   - supplementary
