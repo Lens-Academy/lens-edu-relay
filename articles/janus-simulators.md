@@ -254,7 +254,7 @@ Treating GPT as an unsupervised implementation of a supervised learner leads to 
 
 Not only does the supervised/oracle perspective obscure the importance and limitations of prompting, it also obscures one of the most crucial dimensions of GPT: the implicit time dimension. By this I mean the ability to evolve a process through time by recursively applying GPT, that is, generate text of arbitrary length.
 
-Recall, the second supervised assumption is that “tasks are closed-ended, defined by question/correct answer pairs”. GPT was trained on context-completion pairs. But the pairs do not represent closed, independent tasks, and the division into question and answer is merely indexical: in another training sample, a token from the question is the answer, and in yet another, the answer forms part of the question <sup><span><a href="https://www.lesswrong.com/s/N7nDePaNabJdnbXeE/p/#fnx2cab1frycp">[17]</a></span></sup>.
+Recall, the second supervised assumption is that “tasks are closed-ended, defined by question/correct answer pairs”. GPT was trained on context-completion pairs. But the pairs do not represent closed, independent tasks, and the division into question and answer is merely indexical: in another training sample, a token from the question is the answer, and in yet another, the answer forms part of the {--{"author":"AI","timestamp":1774023491950}@@question <sup><span><a href="https://www.lesswrong.com/s/N7nDePaNabJdnbXeE/p/#fnx2cab1frycp">[17]</a></span></sup>--}{++{"author":"AI","timestamp":1774023491950}@@question[^17]++}.
 
 For example, the natural language sequence “ **The answer is a question** ” yields training samples like:
 
@@ -272,7 +272,7 @@ In contrast, models trained with supervised learning output answers that cannot 
 
 Benchmarks derived from supervised learning test GPT’s ability to produce correct answers, not to produce *questions* which cause it to produce a correct answer down the line. But GPT is capable of the latter, and that is how it is the [most powerful](https://ai.googleblog.com/2022/05/language-models-perform-reasoning-via.html).
 
-The supervised mindset causes capabilities researchers to focus on closed-form tasks rather than GPT’s ability to simulate open-ended, indefinitely long processes <sup><span><a href="https://www.lesswrong.com/s/N7nDePaNabJdnbXeE/p/#fngmdpgm15gb4">[18]</a></span></sup>, and as such to overlook multi-step inference strategies like chain-of-thought prompting. Let’s see how the oracle mindset causes a blind spot of the same shape in the imagination of a hypothetical alignment researcher.
+The supervised mindset causes capabilities researchers to focus on closed-form tasks rather than GPT’s ability to simulate open-ended, indefinitely long {--{"author":"AI","timestamp":1774023496974}@@processes <sup><span><a href="https://www.lesswrong.com/s/N7nDePaNabJdnbXeE/p/#fngmdpgm15gb4">[18]</a></span></sup>--}{++{"author":"AI","timestamp":1774023496974}@@processes[^18]++}, and as such to overlook multi-step inference strategies like chain-of-thought prompting. Let’s see how the oracle mindset causes a blind spot of the same shape in the imagination of a hypothetical alignment researcher.
 
 Thinking of GPT as an oracle brings strategies to mind like asking GPT-N to predict a [solution to alignment from 2000 years in the future](https://www.lesswrong.com/posts/nXeLPcT9uhfG3TMPS/conditioning-generative-models).).
 

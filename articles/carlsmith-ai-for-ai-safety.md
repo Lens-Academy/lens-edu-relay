@@ -254,17 +254,17 @@ In my next essay, I’ll look at these objections – both the more fundamental 
 	 I think I first heard this framing from Carl Shulman.
 {--{"author":"AI","timestamp":1774023486283}@@14. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnrefq28566wd1u">^</a></strong></sup>--}{++{"author":"AI","timestamp":1774023486283}@@[^14]:++}
 	 See e.g. [here](https://situational-awareness.ai/from-agi-to-superintelligence/) and [here](https://www.openphilanthropy.org/research/what-a-compute-centric-framework-says-about-takeoff-speeds/) for more discussion. Note that the intelligence explosion need not involve AI systems literally improving *themselves* – i.e., recursive *self-*improvement. Nor need it involve the automation of ~all tasks in the economy.
-15. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnref75ffeuoma2f">^</a></strong></sup>
+{--{"author":"AI","timestamp":1774023491886}@@15. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnref75ffeuoma2f">^</a></strong></sup>--}{++{"author":"AI","timestamp":1774023491886}@@[^15]:++}
 	Though: note that not all scary AI scenarios involve this feedback loop. For example: the creation of the AI systems that disempower humans might be driven centrally by human labor.
-16. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnrefc647ttwbvn">^</a></strong></sup>
+{--{"author":"AI","timestamp":1774023493744}@@16. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnrefc647ttwbvn">^</a></strong></sup>--}{++{"author":"AI","timestamp":1774023493744}@@[^16]:++}
 	 Though: note that to the extent that we end up relying heavily on *restraining* further increases in frontier AI capability, the AI safety feedback loop also won’t be able to benefit from more capable forms of AI labor, and so the “feedback” aspect will be correspondingly stalled.
-17. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnrefuaexs4l2n0g">^</a></strong></sup>
+{--{"author":"AI","timestamp":1774023495420}@@17. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnrefuaexs4l2n0g">^</a></strong></sup>--}{++{"author":"AI","timestamp":1774023495420}@@[^17]:++}
 	 See e.g. [Leahy et al (2024)](https://www.thecompendium.ai/) for an example: “The iterative alignment strategy has an ordering error – we first need to achieve alignment to safely and effectively leverage AIs… Fundamentally, the problem with iterative alignment is that it never pays the cost of alignment. Somewhere along the story, alignment gets implicitly solved – yet no one ever proposes an actual plan for doing so beyond ‘the (unaligned) AIs will help us’.”
-18. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnrefvx49rypao1">^</a></strong></sup>
+{--{"author":"AI","timestamp":1774023497270}@@18. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnrefvx49rypao1">^</a></strong></sup>--}{++{"author":"AI","timestamp":1774023497270}@@[^18]:++}
 	 Or at least, unenhanced human labor of the form that will likely, in practice, be brought to bear.
-19. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnrefq188303j88">^</a></strong></sup>
+{--{"author":"AI","timestamp":1774023498614}@@19. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnrefq188303j88">^</a></strong></sup>--}{++{"author":"AI","timestamp":1774023498614}@@[^19]:++}
 	 At least as of early 2024. From [here](https://www.alignmentforum.org/posts/q3bJYTB3dGRf5fbD9/miri-2024-mission-and-strategy-update#fndnikb6w9rc8): “Nate and Eliezer both believe that humanity should not be attempting technical alignment at its current level of cognitive ability, and should instead pursue human cognitive enhancement (e.g., via uploading), and then having smarter (trans)humans figure out alignment.”
-20. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnrefzdbjz36v9as">^</a></strong></sup>
+{--{"author":"AI","timestamp":1774023500357}@@20. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnrefzdbjz36v9as">^</a></strong></sup>--}{++{"author":"AI","timestamp":1774023500357}@@[^20]:++}
 	 Lizka Vaintrob and Owen Cotton-Barratt also have a forthcoming piece on a topic closely akin to “AI for AI safety,” which offers a perspective quite similar to my own.
 21. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnrefjr2ydc35c9a">^</a></strong></sup>
 	 See also [Clifford (2024)](https://www.joinef.com/posts/introducing-def-acc-at-ef/) on “def/acc.”
