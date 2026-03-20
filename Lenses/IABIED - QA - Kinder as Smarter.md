@@ -1,6 +1,7 @@
 ---
 id: 65dd8218-2b0c-4e70-84a9-9d7ac8fe4af6
-tags:
+{++{"author":"AI","timestamp":1773998006504}@@title: "Humans tend to get kinder as they get smarter. Wouldn't AIs too?"
+++}tags:
   - lens
   - IABIED
   - supplementary

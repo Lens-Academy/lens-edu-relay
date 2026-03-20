@@ -1,6 +1,7 @@
 ---
 id: a435b40c-0122-44c1-94f0-8eb74659af9b
-tags:
+{++{"author":"AI","timestamp":1773998507417}@@title: "Maybe no matter what goal you train on, you get kindness out?"
+++}tags:
   - lens
   - IABIED
   - supplementary

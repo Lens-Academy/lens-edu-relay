@@ -1,6 +1,7 @@
 ---
 id: 71d3ce4e-68ce-401e-9f56-9f28fb8fe880
-tags:
+{++{"author":"AI","timestamp":1773998001417}@@title: "Aren't AIs just predicting the next token?"
+++}tags:
   - lens
   - IABIED
   - supplementary
