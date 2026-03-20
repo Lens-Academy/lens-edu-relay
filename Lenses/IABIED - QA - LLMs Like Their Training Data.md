@@ -13,7 +13,7 @@ content::
 This Q&A argues that training on human data doesn't make LLMs human-like. An actress who learns to predict drunk people doesn't become drunk herself. The machinery for predicting diverse humans differs fundamentally from the machinery for being one human. Humanlike outputs are performance, not genuine internal states.
 
 #### Article
-source:: {--{"author":"AI","timestamp":1774007698251}@@[[../../../Lens Edu/articles/iabied-ch2-faq-like-humans]]--}{++{"author":"AI","timestamp":1774007698251}@@[[../articles/iabied-ch2-faq-like-humans]]++}
+source:: [[../articles/iabied-ch2-faq-like-humans]]
 to:: "shares human values or motivations"
 
 #### Text

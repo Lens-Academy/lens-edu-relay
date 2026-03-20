@@ -8,9 +8,7 @@ tags:
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1774007686254}@@### Page
-
---}#### Text
+#### Text
 content::
 This is supplementary material from the book's online resources at ifanyonebuildsit.com/ii. It addresses the question of why the authors chose to include a fictional extinction scenario in Part II.
 

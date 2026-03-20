@@ -7,9 +7,7 @@ tags:
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1774007654155}@@### Page
-
---}#### Text
+#### Text
 content::
 Now that you've completed the book, you may be wondering how to get more involved in AI safety. There are several paths depending on your background and interests:
 

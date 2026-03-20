@@ -8,9 +8,7 @@ tags:
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1774007683406}@@### Page
-
---}#### Text
+#### Text
 content::
 This is supplementary material from the book's online resources at ifanyonebuildsit.com/13. It presents a tentative draft international treaty with 15 articles covering the establishment of an International Superintelligence Inspection Authority (ISIA), AI training restrictions, chip consolidation, monitoring and verification mechanisms, dispute resolution, and protective actions.
 

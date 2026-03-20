@@ -8,9 +8,7 @@ tags:
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1774007677857}@@### Page
-
---}#### Text
+#### Text
 content::
 This is supplementary material from the book's online resources at ifanyonebuildsit.com/10. It addresses the "false analogy" objection: "AI is fundamentally different from nuclear reactors, so the Chernobyl comparison doesn't hold."
 

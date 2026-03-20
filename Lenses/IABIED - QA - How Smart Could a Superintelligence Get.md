@@ -8,9 +8,7 @@ tags:
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1774007675834}@@### Page
-
---}#### Text
+#### Text
 content::
 This is supplementary material from the book's online resources at ifanyonebuildsit.com/1. It explores how smart a superintelligence could theoretically get — what are the physical and theoretical upper bounds?
 

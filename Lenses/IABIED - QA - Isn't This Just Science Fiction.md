@@ -8,9 +8,7 @@ tags:
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1774007682745}@@### Page
-
---}#### Text
+#### Text
 content::
 This is supplementary material from the book's online resources at ifanyonebuildsit.com/ii. It addresses the objection that the Sable scenario is "just science fiction" and distinguishes grounded extrapolation from speculation.
 
