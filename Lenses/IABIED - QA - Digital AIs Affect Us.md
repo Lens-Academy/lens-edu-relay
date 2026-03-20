@@ -1,6 +1,7 @@
 ---
 id: 59da6629-4a48-4296-a2e4-52fa6af3febc
-tags:
+{++{"author":"AI","timestamp":1773997799992}@@title: "How will AIs be able to affect us if they're digital?"
+++}tags:
   - lens
   - IABIED
   - supplementary

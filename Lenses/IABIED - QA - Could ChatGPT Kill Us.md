@@ -1,6 +1,7 @@
 ---
 id: 08d61baf-f061-42a2-9686-ca4dc622043d
-tags:
+{++{"author":"AI","timestamp":1773997794917}@@title: "Are you suggesting that ChatGPT could kill us all?"
+++}tags:
   - lens
   - IABIED
   - supplementary

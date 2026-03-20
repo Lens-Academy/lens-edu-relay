@@ -1,6 +1,7 @@
 ---
 id: 77ae7904-9a9d-4c33-92f1-a2b229f91f8d
-tags:
+{++{"author":"AI","timestamp":1773997798033}@@title: "Curiosity Isn't Convergent"
+++}tags:
   - lens
   - IABIED
   - supplementary
