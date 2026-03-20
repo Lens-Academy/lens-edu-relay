@@ -1,6 +1,7 @@
 ---
 id: 6258e7f4-1a97-4a03-a652-268b86092e93
-tags:
+{++{"author":"AI","timestamp":1773997722110}@@title: A Closer Look at Before and After
+++}tags:
   - lens
   - IABIED
   - supplementary

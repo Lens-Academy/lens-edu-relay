@@ -1,6 +1,7 @@
 ---
 id: 267a09e0-2eda-41c6-83a8-1d89e78dc16f
-tags:
+{++{"author":"AI","timestamp":1773997724738}@@title: "Won't it realize that its goals are boring?"
+++}tags:
   - lens
   - IABIED
   - supplementary
