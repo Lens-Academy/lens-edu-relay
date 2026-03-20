@@ -13,8 +13,8 @@ This Q&A addresses whether superintelligent AI would keep humans around for prac
 
 #### Article
 source:: [[../articles/iabied-ch5-faq-useful-keep]]
-to:: "without specific programmed preferences favoring human welfare, superintelligent systems would likely allocate resources elsewhere."
-
+{--{"author":"AI","timestamp":1774008831777}@@to:: "without specific programmed preferences favoring human welfare, superintelligent systems would likely allocate resources elsewhere."
+--}
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?
