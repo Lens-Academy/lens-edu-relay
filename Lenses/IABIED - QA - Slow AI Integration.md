@@ -19,7 +19,7 @@ to:: "Either that collection of AIs contains a component that deeply cares about
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### Chat: Discussion
+#### {--{"author":"AI","timestamp":1774006554356}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006554356}@@Chat++}
 instructions::
 The student just read a supplementary Q&A from the book's website about whether slow AI development would solve the alignment problem.
 TLDR: Slow development doesn't fix the core problem — at some point AIs become capable enough to take power, and the safety tricks developed on weaker systems must work on the first try against stronger ones.

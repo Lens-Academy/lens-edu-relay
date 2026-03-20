@@ -19,7 +19,7 @@ to:: "non-human optimizers don't seek human-palatable answers. They find what wo
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### Chat: Discussion
+#### {--{"author":"AI","timestamp":1774006563921}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006563921}@@Chat++}
 instructions::
 The student just read a supplementary Q&A from the book's website about taking the AI's perspective rather than projecting human values.
 TLDR: People tend to start with desired outcomes and work backward to justify why AI might want them. The beetle experiment shows what actually happens when non-human optimizers find solutions: they produce effective but horrifying outcomes (cannibalism), not the harmonious results humans hope for. Genuine perspective-taking requires asking what the AI wants, not what we want it to want.
