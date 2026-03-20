@@ -1,6 +1,7 @@
 ---
 id: a928c44c-8397-4653-ba88-391f16042c52
-tags:
+{++{"author":"AI","timestamp":1773998800078}@@title: "How long would it take to solve the ASI alignment problem?"
+++}tags:
   - lens
   - IABIED
   - supplementary

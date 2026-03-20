@@ -1,6 +1,7 @@
 ---
 id: 03b6d929-b4d5-4932-8eb8-706756bdd9ca
-tags:
+{++{"author":"AI","timestamp":1773998820897}@@title: "But we still have horses. Why wouldn't AI keep us around?"
+++}tags:
   - lens
   - IABIED
   - supplementary

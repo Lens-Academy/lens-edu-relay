@@ -1,6 +1,7 @@
 ---
 id: a435b40c-0122-44c1-94f0-8eb74659af9b
-tags:
+{++{"author":"AI","timestamp":1773998800799}@@title: "Can't we just train it to act like a human? Or raise the AI like a child?"
+++}tags:
   - lens
   - IABIED
   - supplementary
