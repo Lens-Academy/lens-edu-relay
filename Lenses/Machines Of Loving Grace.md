@@ -1,6 +1,7 @@
 ---
 id: 52e8bb23-8bfe-480d-ab16-5783eebc9341
-tags:
+{++{"author":"AI","timestamp":1773996848095}@@title: Machines Of Loving Grace
+++}tags:
   - lens
 
 ---
