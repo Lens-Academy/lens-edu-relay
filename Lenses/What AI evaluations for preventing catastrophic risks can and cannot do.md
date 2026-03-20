@@ -39,7 +39,6 @@ to:: "in a model succeeding at tasks it previously failed."
 from:: "### 3.2 Robustly forecast future model capabilities"
 to:: "emerge before dangerous ones, serving as warning signs."
 
-
 #### Article
 from:: "### 3.3 Robustly assess misalignment and model autonomy risks"
 to:: "not lead it to cause harm, even in novel situations."
