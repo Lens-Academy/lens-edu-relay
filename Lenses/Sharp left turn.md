@@ -5,11 +5,9 @@ tldr: An AI might behave perfectly during training and testing, then suddenly ac
 tags :
   - lens
 
----{--{"author":"AI","timestamp":1774007947812}@@
- – capabilities generalization, and the sharp left turn by Nate Soares
---}{++{"author":"AI","timestamp":1774007947812}@@
+---
 
-++}#### Text
+#### Text
 content::
 The central challenge in alignment is ensuring that the learned goal remains stable as the system becomes more powerful. This article explores the phenomenon of capabilities generalisation: a situation where an AI learns a skill in a limited environment but applies it in unintended ways when faced with broader challenges. Researchers call this the sharp left turn scenario. It is a moment when an AI's internal logic shifts rapidly, potentially leading to a misalignment that was invisible during the training phase.
 
