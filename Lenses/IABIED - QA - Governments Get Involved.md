@@ -1,5 +1,5 @@
 ---
-id: 12bfc64a-dc20-459f-a448-522e9ae8e7d0
+id: {--{"author":"AI","timestamp":1774007023509}@@12bfc64a-dc20-459f-a448-522e9ae8e7d0--}{++{"author":"AI","timestamp":1774007023509}@@ab553a4a-66b9-4191-bfe5-9178ebb5fec1++}
 title: "Won't the situation get better once governments get more involved?"
 tags:
   - lens

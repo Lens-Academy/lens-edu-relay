@@ -1,5 +1,5 @@
 ---
-id: 36dea16d-1c96-4d1c-aec0-7c3f6ef25f32
+id: {--{"author":"AI","timestamp":1774007028362}@@36dea16d-1c96-4d1c-aec0-7c3f6ef25f32--}{++{"author":"AI","timestamp":1774007028362}@@a48d0490-027e-421f-b064-943425076a39++}
 title: "Is intelligence a meaningful concept?"
 tags:
   - lens
