@@ -1,6 +1,7 @@
 ---
 id: 2b7687df-d219-4247-bdcf-7a2a1b0b3181
-tags:
+{++{"author":"AI","timestamp":1773997834009}@@title: A Full Description of an LLM
+++}tags:
   - lens
   - IABIED
   - supplementary
