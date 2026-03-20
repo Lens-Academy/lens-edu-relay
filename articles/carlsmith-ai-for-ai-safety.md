@@ -236,11 +236,11 @@ In my next essay, I’ll look at these objections – both the more fundamental 
 	 This is a form of non-local “option control,” but it still falls under “safety progress” on my definition. And note that “backdrop capacity,” discussed below, intersects in important ways with hardening the world to AI attack.
 {--{"author":"AI","timestamp":1774023466073}@@5. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnref62y6p0lyt8c">^</a></strong></sup>--}{++{"author":"AI","timestamp":1774023466073}@@[^5]:++}
 	 Though note that not all the effects of this on the strategic landscape are necessarily positive. Thus, for example, some of the less aggressive forms of “[mutually-assured AI malfunction](https://arxiv.org/abs/2503.05628)” involve different actors being able to sabotage each other’s projects using cyberattacks.
-6. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnrefblj4cvoampm">^</a></strong></sup>
+{--{"author":"AI","timestamp":1774023468132}@@6. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnrefblj4cvoampm">^</a></strong></sup>--}{++{"author":"AI","timestamp":1774023468132}@@[^6]:++}
 	 This could include gathering and processing vastly larger amounts of information than humans have hitherto been able to process.
-7. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnrefkw1jgun9yir">^</a></strong></sup>
+{--{"author":"AI","timestamp":1774023469352}@@7. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnrefkw1jgun9yir">^</a></strong></sup>--}{++{"author":"AI","timestamp":1774023469352}@@[^7]:++}
 	 See [Davidson (2023)](https://www.alignmentforum.org/posts/zxmzBTwKkPMxQQcfR/let-s-use-ai-to-harden-human-defenses-against-ai) for more here.
-8. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnref48esjwhvksb">^</a></strong></sup>
+{--{"author":"AI","timestamp":1774023476421}@@8. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnref48esjwhvksb">^</a></strong></sup>--}{++{"author":"AI","timestamp":1774023476421}@@[^8]:++}
 	 See [Karnofsky (2022)](https://www.alignmentforum.org/posts/rCJQAkPTEypGjSJ8X/how-might-we-align-transformative-ai-if-it-s-developed-very) for more.
 9. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnref70bqs16p82">^</a></strong></sup>
 	  See e.g. [Lukas Finnveden’s discussion of “AI for epistemics”](https://forum.effectivealtruism.org/posts/jPKoNFRowKJwGgGyy/what-s-important-in-ai-for-epistemics) for more.

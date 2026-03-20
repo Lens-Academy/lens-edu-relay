@@ -179,7 +179,7 @@ Everything can be trivially modeled as a utility maximizer, but for these reason
 
 There are interesting things that are not utility maximizers, some of which qualify as AGI or . Are any of them something we’d be better off creating than a utility maximizer? An inner-aligned GPT, for instance, gives us a way of instantiating goal-directed processes which can be tempered with normativity and freely terminated in a way that is not anti-natural to the training objective. There’s much more to say about this, but for now, I’ll bring it back to how GPT defies the agent orthodoxy.
 
-The crux stated earlier can be restated from the perspective of training stories: **In the agentic AI ontology, the** ***direction of optimization pressure applied by training*** **is in the direction of the effective agent’s objective function, but in GPT’s case it is (most generally) orthogonal.**<sup><span><a href="https://www.lesswrong.com/s/N7nDePaNabJdnbXeE/p/#fnrhs2red4hto">[12]</a></span></sup>
+The crux stated earlier can be restated from the perspective of training stories: **In the agentic AI ontology, the** ***direction of optimization pressure applied by training*** **is in the direction of the effective agent’s objective function, but in GPT’s case it is (most generally) {--{"author":"AI","timestamp":1774023467640}@@orthogonal.**<sup><span><a href="https://www.lesswrong.com/s/N7nDePaNabJdnbXeE/p/#fnrhs2red4hto">[12]</a></span></sup>--}{++{"author":"AI","timestamp":1774023467640}@@orthogonal.**[^12]++}
 
 This means that neither the policy nor the effective agents necessarily become more optimal agents as loss goes down, because the policy is not optimized to be an agent, and the agent-objectives are not optimized directly.
 
@@ -189,7 +189,7 @@ This means that neither the policy nor the effective agents necessarily become m
 > 
 > Laplace: Sire, I had no need of that hypothesis.
 
-Even though neither GPT’s behavior nor its training story fit with the traditional agent framing, there are still compatibilist views that characterize it as some kind of agent. For example, Gwern has said <sup><span><a href="https://www.lesswrong.com/s/N7nDePaNabJdnbXeE/p/#fn4qv9vfo4ps7">[13]</a></span></sup> that anyone who uses GPT for long enough begins to think of it as an agent who only cares about roleplaying a lot of roles.
+Even though neither GPT’s behavior nor its training story fit with the traditional agent framing, there are still compatibilist views that characterize it as some kind of agent. For example, Gwern has {--{"author":"AI","timestamp":1774023472687}@@said <sup><span><a href="https://www.lesswrong.com/s/N7nDePaNabJdnbXeE/p/#fn4qv9vfo4ps7">[13]</a></span></sup>--}{++{"author":"AI","timestamp":1774023472687}@@said[^13]++} that anyone who uses GPT for long enough begins to think of it as an agent who only cares about roleplaying a lot of roles.
 
 That framing seems unnatural to me, comparable to thinking of physics as an agent who only cares about evolving the universe accurately according to the laws of physics. At best, the agent is an epicycle; but it is also compatible with interpretations that generate dubious predictions.
 
@@ -201,7 +201,7 @@ Say you’re told that an agent *values predicting text correctly*. Shouldn’t 
 
 In short, all the same types of instrumental convergence that we expect from agents who want almost anything at all.
 
-But this behavior would be very unexpected in GPT, whose training doesn’t incentivize instrumental behavior that optimizes prediction accuracy! GPT does not generate rollouts during training. Its output is never sampled to yield “actions” whose consequences are evaluated, so there is no reason to expect that GPT will form preferences over the *consequences* of its output related to the text prediction objective.<sup><span><a href="https://www.lesswrong.com/s/N7nDePaNabJdnbXeE/p/#fnual5wnttct">[14]</a></span></sup>
+But this behavior would be very unexpected in GPT, whose training doesn’t incentivize instrumental behavior that optimizes prediction accuracy! GPT does not generate rollouts during training. Its output is never sampled to yield “actions” whose consequences are evaluated, so there is no reason to expect that GPT will form preferences over the *consequences* of its output related to the text prediction {--{"author":"AI","timestamp":1774023477619}@@objective.<sup><span><a href="https://www.lesswrong.com/s/N7nDePaNabJdnbXeE/p/#fnual5wnttct">[14]</a></span></sup>--}{++{"author":"AI","timestamp":1774023477619}@@objective.[^14]++}
 
 Saying that GPT is an agent who wants to roleplay implies the presence of a coherent, unconditionally instantiated *roleplayer* running the show who attaches terminal value to roleplaying. This presence is an additional hypothesis, and so far, I haven’t noticed evidence that it’s true.
 
