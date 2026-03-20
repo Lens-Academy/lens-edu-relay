@@ -1,5 +1,5 @@
 ---
-id: a435b40c-0122-44c1-94f0-8eb74659af9b
+id: {--{"author":"AI","timestamp":1774007107847}@@a435b40c-0122-44c1-94f0-8eb74659af9b--}{++{"author":"AI","timestamp":1774007107847}@@d1625486-918b-457d-9adf-2fcbc67bd595++}
 title: "Maybe no matter what goal you train on, you get kindness out?"
 tags:
   - lens

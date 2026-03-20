@@ -1,5 +1,5 @@
 ---
-id: 9faaf0d6-779f-455d-9fb0-b92735e0b4c4
+id: {--{"author":"AI","timestamp":1774007105615}@@9faaf0d6-779f-455d-9fb0-b92735e0b4c4--}{++{"author":"AI","timestamp":1774007105615}@@c958fdba-a5e4-437f-81f4-f5ea69c6053b++}
 title: "Do you see alignment as all-or-nothing?"
 tags:
   - lens
