@@ -14,8 +14,7 @@ This Q&A counters the dismissal that AIs are "just math." Just as humans are "ju
 
 #### Article
 source:: [[../articles/iabied-ch2-faq-just-math]]
-{--{"author":"AI","timestamp":1774008837585}@@to:: "Where should such a line be drawn?"
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

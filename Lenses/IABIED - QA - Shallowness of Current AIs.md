@@ -14,8 +14,7 @@ This extended discussion documents specific weaknesses in current AI systems —
 
 #### Article
 source:: [[../articles/iabied-ch1-ext-shallowness]]
-{--{"author":"AI","timestamp":1774009218214}@@to:: "radically and fundamentally differ from humans in many ways"
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

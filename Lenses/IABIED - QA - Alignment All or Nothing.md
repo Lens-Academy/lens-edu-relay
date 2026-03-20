@@ -13,8 +13,7 @@ This Q&A clarifies that the authors don't view alignment as all-or-nothing, but 
 
 #### Article
 source:: [[../articles/iabied-ch11-faq-all-or-nothing]]
-{--{"author":"AI","timestamp":1774008853304}@@to:: "Of particular relevance is \"Won't AIs care at least a little about humans?\""
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

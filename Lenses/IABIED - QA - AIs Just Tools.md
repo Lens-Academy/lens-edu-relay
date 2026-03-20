@@ -14,8 +14,7 @@ Chapter 3 challenges the idea that AIs are mere tools under human control. This 
 
 #### Article
 source:: [[../articles/iabied-ch3-faq-just-tools]]
-{--{"author":"AI","timestamp":1774008846204}@@to:: "When your screwdriver is able to think up and execute a plan for getting out of its toolbox, it might be time to stop thinking of it as 'just a tool.'"
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

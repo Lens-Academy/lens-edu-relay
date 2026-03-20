@@ -14,8 +14,7 @@ Chapter 3 explores how the push toward solving harder problems naturally drives 
 
 #### Article
 source:: [[../articles/iabied-ch3-faq-machine-priorities]]
-{--{"author":"AI","timestamp":1774009060879}@@to:: "Millions of years of evolution produced humanity, which promptly invented birth control."
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

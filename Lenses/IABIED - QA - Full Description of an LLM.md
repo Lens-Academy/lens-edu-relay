@@ -14,8 +14,7 @@ This extended discussion provides a full technical description of Llama 3.1 405B
 
 #### Article
 source:: [[../articles/iabied-ch2-ext-full-description]]
-{--{"author":"AI","timestamp":1774008913575}@@to:: "obscure meaningful understanding"
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

@@ -13,8 +13,7 @@ This Q&A tackles the hope that superintelligent AIs would need legal frameworks 
 
 #### Article
 source:: [[../articles/iabied-ch5-faq-rule-of-law]]
-{--{"author":"AI","timestamp":1774008848429}@@to:: "All AIs would likely prefer outcomes where they control Earth's resources rather than maintaining the fiction that slow-moving, stupid primates control most assets."
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

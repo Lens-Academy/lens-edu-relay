@@ -13,8 +13,7 @@ This Q&A examines whether government involvement will improve AI safety. The aut
 
 #### Article
 source:: [[../articles/iabied-ch11-faq-governments]]
-{--{"author":"AI","timestamp":1774008931721}@@to:: "Extended resources examine why international cooperation alone proves insufficient."
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

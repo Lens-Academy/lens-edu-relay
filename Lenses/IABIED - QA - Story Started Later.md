@@ -14,8 +14,7 @@ This Q&A examines whether more time before superintelligence arrives would help.
 
 #### Article
 source:: [[../articles/iabied-ptii-faq-started-later]]
-{--{"author":"AI","timestamp":1774009236824}@@to:: "Attempting to harden the world afterward represents 'the most difficult thing humanity has ever done' and would almost certainly fail."
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

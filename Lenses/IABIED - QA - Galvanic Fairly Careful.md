@@ -14,8 +14,7 @@ This Q&A addresses a deliberate narrative choice: Galvanic is portrayed as reaso
 
 #### Article
 source:: [[../articles/iabied-ptii-faq-galvanic-careful]]
-{--{"author":"AI","timestamp":1774008915859}@@to:: "if three responsible companies avoid building superintelligence but a fourth irresponsible company rushes ahead, then superintelligence gets built in that fourth lab"
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

@@ -14,8 +14,7 @@ Chapter 4 argues that training doesn't produce intended goals. This Q&A addresse
 
 #### Article
 source:: [[../articles/iabied-ch4-faq-weird-extreme]]
-{--{"author":"AI","timestamp":1774009256201}@@to:: "This pattern only becomes more dangerous as capabilities increase"
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

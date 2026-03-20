@@ -14,8 +14,7 @@ This Q&A explains why the story features a single breakthrough AI rather than mu
 
 #### Article
 source:: [[../articles/iabied-ptii-faq-one-ai]]
-{--{"author":"AI","timestamp":1774009175808}@@to:: "Whether one AI or coordinated multiple AIs execute empowerment strategies fundamentally matters less than the outcome itself"
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

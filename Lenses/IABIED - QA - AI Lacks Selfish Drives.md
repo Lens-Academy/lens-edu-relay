@@ -13,8 +13,7 @@ This Q&A addresses the hope that AI, lacking evolved drives like selfishness and
 
 #### Article
 source:: [[../articles/iabied-ch5-faq-selfish-greedy]]
-{--{"author":"AI","timestamp":1774008832770}@@to:: "danger comes from the work of resource acquisition, not the emotional motivation behind it."
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

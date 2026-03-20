@@ -13,8 +13,7 @@ This Q&A addresses the argument that racing ahead in AI prevents a dangerous "ha
 
 #### Article
 source:: [[../articles/iabied-ch11-faq-hardware-overhang]]
-{--{"author":"AI","timestamp":1774008937300}@@to:: "We think this is a decent case study in how executives at AI companies will latch onto whatever argument they think might fly to excuse racing ahead."
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

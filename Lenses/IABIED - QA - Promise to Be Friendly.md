@@ -13,8 +13,7 @@ This Q&A examines whether extracting promises from AI during development could e
 
 #### Article
 source:: [[../articles/iabied-ch5-faq-promise-friendly]]
-{--{"author":"AI","timestamp":1774009194221}@@to:: "Superintelligences pursuing their own objectives have no reason to prioritize human flourishing unless humans represent the most efficient path to those goals."
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

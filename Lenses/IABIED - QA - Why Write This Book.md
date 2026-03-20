@@ -14,8 +14,7 @@ This Q&A from the book's website explains the authors' motivation for writing ab
 
 #### Article
 source:: [[../articles/iabied-intro-faq-why-write-book]]
-{--{"author":"AI","timestamp":1774009266284}@@to:: "believing solutions exist"
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

@@ -14,8 +14,7 @@ This Q&A argues that modern AIs do far more than parrot training data. To predic
 
 #### Article
 source:: [[../articles/iabied-ch2-faq-parrot]]
-{--{"author":"AI","timestamp":1774008838964}@@to:: "generalization these systems demonstrably perform"
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

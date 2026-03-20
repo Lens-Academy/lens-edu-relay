@@ -13,8 +13,7 @@ This Q&A addresses the assumption that digital AIs can't affect the physical wor
 
 #### Article
 source:: [[../articles/iabied-ch6-faq-affect-digital]]
-{--{"author":"AI","timestamp":1774008898147}@@to:: "a failure of imagination, where people don't imagine the AI even being as resourceful or creative as they themselves would be in the AI's shoes."
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

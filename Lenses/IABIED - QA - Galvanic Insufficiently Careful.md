@@ -14,8 +14,7 @@ This Q&A is the counterpart to the previous one: while Galvanic is fairly cautio
 
 #### Article
 source:: [[../articles/iabied-ptii-faq-galvanic-insufficient]]
-{--{"author":"AI","timestamp":1774008917158}@@to:: "The moment corporations proceed despite red flags marks 'the point of no return.'"
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

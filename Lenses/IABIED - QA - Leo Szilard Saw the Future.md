@@ -14,8 +14,7 @@ This extended discussion tells the story of Leo Szilard's 1933 insight about nuc
 
 #### Article
 source:: [[../articles/iabied-intro-ext-leo-szilard]]
-{--{"author":"AI","timestamp":1774009022055}@@to:: "while response remained possible"
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

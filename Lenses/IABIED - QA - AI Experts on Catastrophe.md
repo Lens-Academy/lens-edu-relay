@@ -14,8 +14,7 @@ This extended discussion compiles expert statements on AI catastrophe risk. Near
 
 #### Article
 source:: [[../articles/iabied-intro-ext-experts-catastrophe]]
-{--{"author":"AI","timestamp":1774008824776}@@to:: "even 5% extinction risk justifies urgent action"
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

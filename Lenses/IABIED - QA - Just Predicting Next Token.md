@@ -14,8 +14,7 @@ This Q&A argues that "just predicting the next token" actually requires understa
 
 #### Article
 source:: [[../articles/iabied-ch2-faq-next-token]]
-{--{"author":"AI","timestamp":1774008977200}@@to:: "simple computational foundations"
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

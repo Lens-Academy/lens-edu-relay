@@ -13,8 +13,7 @@ This Q&A addresses whether AI containment ("boxing") could work as a safety stra
 
 #### Article
 source:: [[../articles/iabied-ch6-faq-box]]
-{--{"author":"AI","timestamp":1774008980315}@@to:: "Any channel through which the AI can affect the world is a channel that it can use to do things you don't like."
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

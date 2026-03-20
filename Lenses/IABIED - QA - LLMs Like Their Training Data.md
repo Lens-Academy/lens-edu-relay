@@ -14,8 +14,7 @@ This Q&A argues that training on human data doesn't make LLMs human-like. An act
 
 #### Article
 source:: [[../articles/iabied-ch2-faq-like-humans]]
-{--{"author":"AI","timestamp":1774008997378}@@to:: "shares human values or motivations"
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

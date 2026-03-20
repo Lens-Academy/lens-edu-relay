@@ -14,8 +14,7 @@ This Q&A argues that AI will likely cross critical thresholds, just as nuclear f
 
 #### Article
 source:: [[../articles/iabied-ch1-faq-critical-thresholds]]
-{--{"author":"AI","timestamp":1774008818473}@@to:: "thresholds may exist"
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

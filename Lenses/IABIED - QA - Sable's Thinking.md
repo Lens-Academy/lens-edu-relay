@@ -14,8 +14,7 @@ This Q&A connects Sable's fictional psychology back to the theoretical arguments
 
 #### Article
 source:: [[../articles/iabied-ptii-faq-sable-thinking]]
-{--{"author":"AI","timestamp":1774009214797}@@to:: "this narrative attempts to animate the Part I theoretical arguments while establishing groundwork for Part III's subsequent discussions about confronting these challenges"
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

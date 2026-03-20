@@ -13,8 +13,7 @@ This extended discussion presents the orthogonality thesis: intelligence and val
 
 #### Article
 source:: [[../articles/iabied-ch5-ext-orthogonality]]
-{--{"author":"AI","timestamp":1774009179358}@@to:: "The orthogonality thesis doesn't predict what goals AIs will have -- only that their objectives needn't correlate with their intelligence level."
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

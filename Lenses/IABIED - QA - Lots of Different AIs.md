@@ -13,8 +13,7 @@ This Q&A addresses whether having many different AIs would solve the alignment p
 
 #### Article
 source:: [[../articles/iabied-ch10-faq-lots-of-ais]]
-{--{"author":"AI","timestamp":1774009022583}@@to:: "Adding more AIs doesn't help when we lack the capability to structure their fundamental drives correctly."
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

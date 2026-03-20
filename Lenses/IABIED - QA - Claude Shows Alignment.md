@@ -14,8 +14,7 @@ Chapter 4 argues that training doesn't reliably produce intended goals. This Q&A
 
 #### Article
 source:: [[../articles/iabied-ch4-faq-claude-aligned]]
-{--{"author":"AI","timestamp":1774008881195}@@to:: "A superintelligent version would probably develop alien priorities incompatible with human flourishing"
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

@@ -14,8 +14,7 @@ Chapter 3 introduces two key thinking errors that derail AI predictions. This ex
 
 #### Article
 source:: [[../articles/iabied-ch3-ext-anthropomorphism]]
-{--{"author":"AI","timestamp":1774008854675}@@to:: "indifference to humanity while pursuing their own ends."
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

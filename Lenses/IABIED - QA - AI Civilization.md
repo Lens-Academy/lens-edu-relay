@@ -12,8 +12,7 @@ This Q&A challenges the intuition that AI would need to build a whole civilizati
 
 #### Article
 source:: [[../articles/iabied-ch6-faq-civilization]]
-{--{"author":"AI","timestamp":1774008816641}@@to:: "there likely won't be much time between when AI becomes capable enough to potentially dominate if it had millions of instances and when it actually has millions of instances running."
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

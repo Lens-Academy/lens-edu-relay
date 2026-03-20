@@ -14,8 +14,7 @@ Chapter 4 argues that training doesn't produce intended goals. This Q&A addresse
 
 #### Article
 source:: [[../articles/iabied-ch4-faq-train-like-human]]
-{--{"author":"AI","timestamp":1774009253123}@@to:: "one with peculiar, inhuman drives that merely happen to correlate with helpfulness in typical scenarios"
---}
+
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?
