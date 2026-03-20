@@ -56,7 +56,9 @@ Cosmologists were able to construct an unimaginably precise and deep theory of t
 
 Maybe if we can get as many agent foundations researchers as there were nuclear physicists or cosmologists, we can collectively discover as much understanding about the nature of agents to navigate to a good future.
 
-1. <sup><strong><a href="https://www.lesswrong.com/posts/Dt4DuCCok3Xv5HEnG/#fnrefa99ao84nsac">^</a></strong></sup>
-	I say "I" here only because I don't want to put words in the mouths of other agent foundations researchers. My sense is that what I'm saying here is true for the whole field, but other researchers should feel free to chime in.
+{--{"author":"AI","timestamp":1774022549046}@@1. <sup><strong><a href="https://www.lesswrong.com/posts/Dt4DuCCok3Xv5HEnG/#fnrefa99ao84nsac">^</a></strong></sup>
+	--}{++{"author":"AI","timestamp":1774022549046}@@[^1]: ++}I say "I" here only because I don't want to put words in the mouths of other agent foundations researchers. My sense is that what I'm saying here is true for the whole field, but other researchers should feel free to chime in.{--{"author":"AI","timestamp":1774022549046}@@
 2. <sup><strong><a href="https://www.lesswrong.com/posts/Dt4DuCCok3Xv5HEnG/#fnref4zh55djpzbe">^</a></strong></sup>
-	Other sub-fields of AI safety can usefully do experiments on existing models, because they're asking different questions (like "how can we interpret existing models?" and "in what ways are existing models dangerous?"). This research *is* much more like a standard science, and that's great! AI safety needs a million different people doing a million different jobs. I think agent foundations is one of those jobs.
+	--}{++{"author":"AI","timestamp":1774022549046}@@
+
+[^2]: ++}Other sub-fields of AI safety can usefully do experiments on existing models, because they're asking different questions (like "how can we interpret existing models?" and "in what ways are existing models dangerous?"). This research *is* much more like a standard science, and that's great! AI safety needs a million different people doing a million different jobs. I think agent foundations is one of those jobs.
