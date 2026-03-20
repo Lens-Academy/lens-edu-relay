@@ -300,9 +300,9 @@ In my next essay, I’ll look at these objections – both the more fundamental 
 	 And in my opinion, arguments about AI risk too often focus on the *maximally* spicy case (i.e., the case of AIs that are in a position to disempower humanity extremely easily via a wide variety of paths).
 {--{"author":"AI","timestamp":1774023542236}@@37. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnref47tfsdpo65h">^</a></strong></sup>--}{++{"author":"AI","timestamp":1774023542236}@@[^37]:++}
 	 In the diagram, I’ve put the two lines in the same place; but in principle, the capability level required for disempowering humanity might actually come *earlier* than the capability level required to radically improve our competence. H/t Owen Cotton-Barratt for discussion.
-38. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnref0c5b3ape37j">^</a></strong></sup>
+{--{"author":"AI","timestamp":1774023543867}@@38. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnref0c5b3ape37j">^</a></strong></sup>--}{++{"author":"AI","timestamp":1774023543867}@@[^38]:++}
 	 For example: we might worry that it will be too difficult to *tell* when we’re in the sweet spot (h/t Catherine Brewer); or we might worry that relevant actors won’t invest enough resources into benefiting from the sweet spot.
-39. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnref7p5nyle2czr">^</a></strong></sup>
+{--{"author":"AI","timestamp":1774023545266}@@39. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnref7p5nyle2czr">^</a></strong></sup>--}{++{"author":"AI","timestamp":1774023545266}@@[^39]:++}
 	 We might also worry about:
 	**Cover**: The idea of “AI for AI safety” will provide cover for people to push forward with dangerous forms of AI capability development.
 	**Complacency**: The idea of “passing the buck to the AIs” will obscure how much work humans will still need to be doing, and will render us complacent more generally.
