@@ -1,7 +1,8 @@
 ---
 title: "The Tale of Chicago Pile-1"
 source_url: https://ifanyonebuildsit.com/10/the-tale-of-chicago-pile-1
-author:
+{++{"author":"AI","timestamp":1774006705459}@@published: 2025-09-16
+++}author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

@@ -1,7 +1,8 @@
 ---
 title: "A Closer Look at Before and After"
 source_url: https://ifanyonebuildsit.com/10/a-closer-look-at-before-and-after
-author:
+{++{"author":"AI","timestamp":1774006704159}@@published: 2025-09-16
+++}author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:
