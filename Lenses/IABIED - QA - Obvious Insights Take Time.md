@@ -1,6 +1,7 @@
 ---
 id: b1ccb447-4591-41e4-8168-d891fdb15098
-tags:
+{++{"author":"AI","timestamp":1773998583458}@@title: "'Obvious' Insights Take Time"
+++}tags:
   - lens
   - IABIED
   - supplementary

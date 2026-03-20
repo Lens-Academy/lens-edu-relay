@@ -1,6 +1,7 @@
 ---
 id: 7efc8a65-6260-4a80-9286-6b1732602173
-tags:
+{++{"author":"AI","timestamp":1773998579896}@@title: "Why don't you care about non-human entities?"
+++}tags:
   - lens
   - IABIED
   - supplementary

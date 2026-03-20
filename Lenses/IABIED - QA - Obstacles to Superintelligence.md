@@ -1,6 +1,7 @@
 ---
 id: 8c028985-0717-4a0c-a5a3-4d4c8614d1c8
-tags:
+{++{"author":"AI","timestamp":1773998581587}@@title: "But aren't there big obstacles to reaching superintelligence?"
+++}tags:
   - lens
   - IABIED
   - supplementary

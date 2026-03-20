@@ -1,6 +1,7 @@
 ---
 id: 3a4b5d59-691b-4c75-bf3e-45c5e5c3f957
-tags:
+{++{"author":"AI","timestamp":1773998575908}@@title: Nanotechnology and Protein Synthesis
+++}tags:
   - lens
   - IABIED
   - supplementary

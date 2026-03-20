@@ -1,6 +1,7 @@
 ---
 id: ee77c667-dca5-40ce-a2a9-2bf7af93a4a2
-tags:
+{++{"author":"AI","timestamp":1773998577459}@@title: "What if AI companies only deploy their AIs for non-dangerous actions?"
+++}tags:
   - lens
   - IABIED
   - supplementary
