@@ -1,6 +1,7 @@
 ---
 id: 7bca2049-a575-4c9c-a598-b5dcc6f5757b
-tags:
+{++{"author":"AI","timestamp":1773997686263}@@title: "A lot of people want kids. So aren't humans 'aligned' with natural selection after all?"
+++}tags:
   - lens
   - IABIED
   - supplementary

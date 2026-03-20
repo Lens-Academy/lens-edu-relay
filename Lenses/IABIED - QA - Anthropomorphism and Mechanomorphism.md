@@ -1,6 +1,7 @@
 ---
 id: 393019e9-7efb-4819-81e6-3c2143b26e80
-tags:
+{++{"author":"AI","timestamp":1773997689108}@@title: Anthropomorphism and Mechanomorphism
+++}tags:
   - lens
   - IABIED
   - supplementary

@@ -1,6 +1,7 @@
 ---
 id: a9480ae0-d2d4-44ba-a323-d3e247c38ea1
-tags:
+{++{"author":"AI","timestamp":1773997691177}@@title: "What are your incentives and conflicts of interest, as authors?"
+++}tags:
   - lens
   - IABIED
   - supplementary

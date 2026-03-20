@@ -1,6 +1,7 @@
 ---
 id: 9faaf0d6-779f-455d-9fb0-b92735e0b4c4
-tags:
+{++{"author":"AI","timestamp":1773997687803}@@title: "Do you see alignment as all-or-nothing?"
+++}tags:
   - lens
   - IABIED
   - supplementary

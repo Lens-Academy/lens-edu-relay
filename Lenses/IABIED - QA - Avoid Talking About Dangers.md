@@ -1,6 +1,7 @@
 ---
 id: 3dba768a-c3e4-4a7c-8063-9bf1ce403513
-tags:
+{++{"author":"AI","timestamp":1773997692548}@@title: "Should we avoid talking about AI dangers, so AIs don't get any bad ideas?"
+++}tags:
   - lens
   - IABIED
   - supplementary
