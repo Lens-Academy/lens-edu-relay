@@ -1,7 +1,8 @@
 ---
 title: "Can't we make the AI promise to be friendly?"
 source_url: https://ifanyonebuildsit.com/5/cant-we-make-the-ai-promise-to-be-friendly
-author:
+{++{"author":"AI","timestamp":1774006880646}@@published: 2025-09-16
+++}author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

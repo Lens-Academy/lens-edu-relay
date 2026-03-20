@@ -1,7 +1,8 @@
 ---
 title: "Won't AIs need the rule of law?"
 source_url: https://ifanyonebuildsit.com/5/wont-ais-need-the-rule-of-law
-author:
+{++{"author":"AI","timestamp":1774006882121}@@published: 2025-09-16
+++}author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:
