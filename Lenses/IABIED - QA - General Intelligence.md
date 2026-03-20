@@ -1,5 +1,5 @@
 ---
-id: a928c44c-8397-4653-ba88-391f16042c52
+id: {--{"author":"AI","timestamp":1774007110243}@@a928c44c-8397-4653-ba88-391f16042c52--}{++{"author":"AI","timestamp":1774007110243}@@43a57463-5daa-4a3f-8455-bffd37011ea3++}
 title: "Is 'general intelligence' a meaningful concept?"
 tags:
   - lens

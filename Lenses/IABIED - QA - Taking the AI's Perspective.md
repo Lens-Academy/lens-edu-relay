@@ -1,5 +1,5 @@
 ---
-id: a9bf8d9f-cad8-4a86-9cfe-6c9bd4f33e5f
+id: {--{"author":"AI","timestamp":1774007118000}@@a9bf8d9f-cad8-4a86-9cfe-6c9bd4f33e5f--}{++{"author":"AI","timestamp":1774007118000}@@e6e6d3af-b6ae-4079-b2df-3b35b4365b83++}
 title: "Taking the AI's Perspective"
 tags:
   - lens
