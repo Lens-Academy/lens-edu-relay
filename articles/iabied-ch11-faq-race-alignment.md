@@ -1,7 +1,8 @@
 ---
 title: "Isn't it important to race ahead so we can do alignment research?"
 source_url: https://ifanyonebuildsit.com/11/isnt-it-important-to-race-ahead-so-we-can-do-alignment-research
-author:
+{++{"author":"AI","timestamp":1774006733102}@@published: 2025-09-16
+++}author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:
