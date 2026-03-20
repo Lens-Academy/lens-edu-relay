@@ -1,21 +1,18 @@
 ---
 id: 7bca2049-a575-4c9c-a598-b5dcc6f5757b
-{++{"author":"AI","timestamp":1773998787154}@@title: Terminal Goals and Instrumental Goals
-++}tags:
+title: Terminal Goals and Instrumental Goals
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1773946488107}@@### Article: Terminal Goals and Instrumental Goals
-source:: [[../articles/iabied-ch4-ext-terminal-instrumental]]
-
---}#### Text
+#### Text
 content::
 This extended discussion introduces the distinction between terminal goals (valued for their own sake) and instrumental goals (valued as means to other ends). The key insight is that even wildly different terminal goals often converge on similar instrumental strategies like self-preservation and resource acquisition, making dangerous AI behavior predictable even when we cannot predict its specific desires.
 
-#### {--{"author":"AI","timestamp":1773946488107}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946488107}@@Article
-source:: [[../articles/iabied-ch4-ext-terminal-instrumental]]++}
+#### Article
+source:: [[../articles/iabied-ch4-ext-terminal-instrumental]]
 to:: "Even without knowing exactly what superintelligence would want, we have strong reasons expecting it to be dangerous."
 
 #### Text

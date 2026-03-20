@@ -1,7 +1,7 @@
 ---
 id: a0ed5a9a-9436-4617-a487-d40c96bf9b4b
-{++{"author":"AI","timestamp":1773998851756}@@title: "Won't it choose to be moral?"
-++}tags:
+title: "Won't it choose to be moral?"
+tags:
   - lens
   - IABIED
   - supplementary

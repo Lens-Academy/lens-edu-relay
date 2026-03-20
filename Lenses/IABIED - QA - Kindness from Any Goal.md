@@ -1,21 +1,18 @@
 ---
 id: a435b40c-0122-44c1-94f0-8eb74659af9b
-{++{"author":"AI","timestamp":1773998507417}@@title: "Maybe no matter what goal you train on, you get kindness out?"
-++}tags:
+title: "Maybe no matter what goal you train on, you get kindness out?"
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1773946254162}@@### Article: Maybe no matter what goal you train on, you get kindness out?
-source:: [[../articles/iabied-ch4-faq-kindness-out]]
-
---}#### Text
+#### Text
 content::
 This Q&A addresses the hope that kindness might be an inevitable byproduct of AI training, regardless of the specific goal. The authors argue that kindness is contingent on our particular biology and evolutionary history, offering four reasons why AI systems are unlikely to develop kindness as a default property.
 
-#### {--{"author":"AI","timestamp":1773946254162}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946254162}@@Article
-source:: [[../articles/iabied-ch4-faq-kindness-out]]++}
+#### Article
+source:: [[../articles/iabied-ch4-faq-kindness-out]]
 to:: "Nobody knows what machinery is producing seemingly friendly behaviors today; and whatever it is, it's probably weird and complex."
 
 #### Text

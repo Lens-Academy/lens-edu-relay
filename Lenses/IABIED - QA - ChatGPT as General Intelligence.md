@@ -1,22 +1,19 @@
 ---
 id: 6258e7f4-1a97-4a03-a652-268b86092e93
-{++{"author":"AI","timestamp":1773997760601}@@title: "Isn't ChatGPT already a general intelligence?"
-++}tags:
+title: "Isn't ChatGPT already a general intelligence?"
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1773946040900}@@### Article: IABIED - QA - ChatGPT as General Intelligence
-source:: [[../articles/iabied-ch1-faq-chatgpt-general]]
-
---}#### Text
+#### Text
 content::
 This Q&A explores whether ChatGPT qualifies as a general intelligence and concludes that the answer depends on definitions. More importantly, the authors argue that the distinction between "superhuman AI" and "superintelligent AI" matters more. The remaining gap could require a modest scale increase or a single algorithmic breakthrough.
 
-#### {--{"author":"AI","timestamp":1773946040900}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946040900}@@Article
-source:: [[../articles/iabied-ch1-faq-chatgpt-general]]++}
+#### Article
+source:: [[../articles/iabied-ch1-faq-chatgpt-general]]
 to:: "weakly smarter-than-human without being superintelligent"
 
 #### Text

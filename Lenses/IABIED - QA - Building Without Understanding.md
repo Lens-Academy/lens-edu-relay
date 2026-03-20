@@ -1,22 +1,19 @@
 ---
 id: 0ed0d307-d8dd-45f5-873c-7acaa6b152df
-{++{"author":"AI","timestamp":1773997726072}@@title: "What makes you think people can build superhuman AI when they don't even understand intelligence?"
-++}tags:
+title: "What makes you think people can build superhuman AI when they don't even understand intelligence?"
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1773946034123}@@### Article: IABIED - QA - Building Without Understanding
-source:: [[../articles/iabied-ch2-faq-build-without-understanding]]
-
---}#### Text
+#### Text
 content::
 This Q&A explains why not understanding intelligence doesn't prevent building superhuman AI. Gradient descent doesn't require understanding, and evolution produced human intelligence without comprehension. But this same lack of understanding means engineers cannot predict or control what they build.
 
-#### {--{"author":"AI","timestamp":1773946034123}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946034123}@@Article
-source:: [[../articles/iabied-ch2-faq-build-without-understanding]]++}
+#### Article
+source:: [[../articles/iabied-ch2-faq-build-without-understanding]]
 to:: "to be practically useful"
 
 #### Text

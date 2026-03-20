@@ -1,22 +1,19 @@
 ---
 id: 3a4b5d59-691b-4c75-bf3e-45c5e5c3f957
-{++{"author":"AI","timestamp":1773997916798}@@title: "Is 'human-level intelligence' a meaningful concept?"
-++}tags:
+title: "Is 'human-level intelligence' a meaningful concept?"
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1773946167304}@@### Article: IABIED - QA - Human-Level Intelligence
-source:: [[../articles/iabied-ch1-faq-human-level-intelligence]]
-
---}#### Text
+#### Text
 content::
 This Q&A defends "human-level intelligence" as a useful concept by pointing to the civilization threshold — whatever allowed humans to build technological civilization while chimpanzees could not. The authors distinguish between "superhuman AI" and "superintelligent AI" as more precise terms.
 
-#### {--{"author":"AI","timestamp":1773946167304}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946167304}@@Article
-source:: [[../articles/iabied-ch1-faq-human-level-intelligence]]++}
+#### Article
+source:: [[../articles/iabied-ch1-faq-human-level-intelligence]]
 to:: "semantic arguments about general intelligence"
 
 #### Text

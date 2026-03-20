@@ -1,22 +1,19 @@
 ---
 id: a9480ae0-d2d4-44ba-a323-d3e247c38ea1
-{++{"author":"AI","timestamp":1773997691177}@@title: "What are your incentives and conflicts of interest, as authors?"
-++}tags:
+title: "What are your incentives and conflicts of interest, as authors?"
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1773945993312}@@### Article: IABIED - QA - Author Incentives and Conflicts
-source:: [[../articles/iabied-intro-faq-author-incentives]]
-
---}#### Text
+#### Text
 content::
 This Q&A addresses the authors' potential conflicts of interest. They disclose that all royalties go to MIRI, they would prefer to be wrong, and they have changed their minds before — MIRI originally aimed to build superintelligence before pivoting to safety research.
 
-#### {--{"author":"AI","timestamp":1773945993312}@@Article-excerpt--}{++{"author":"AI","timestamp":1773945993312}@@Article
-source:: [[../articles/iabied-intro-faq-author-incentives]]++}
+#### Article
+source:: [[../articles/iabied-intro-faq-author-incentives]]
 to:: "evidence to potentially change minds"
 
 #### Text

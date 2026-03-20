@@ -1,22 +1,19 @@
 ---
 id: 03e48d89-a09e-4070-9988-9cbae7498992
-{++{"author":"AI","timestamp":1773997928597}@@title: "Doesn't intelligence consist of multiple skills?"
-++}tags:
+title: "Doesn't intelligence consist of multiple skills?"
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1773946194928}@@### Article: IABIED - QA - Intelligence as Multiple Skills
-source:: [[../articles/iabied-ch1-faq-multiple-skills]]
-
---}#### Text
+#### Text
 content::
 This Q&A acknowledges that intelligence involves multiple skills, but argues the distinction becomes less important when the capability gap is large. If AI surpasses humans in thousands of domains while humans excel in only a few, insisting on parity becomes untenable.
 
-#### {--{"author":"AI","timestamp":1773946194928}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946194928}@@Article
-source:: [[../articles/iabied-ch1-faq-multiple-skills]]++}
+#### Article
+source:: [[../articles/iabied-ch1-faq-multiple-skills]]
 to:: "not philosophical definitions"
 
 #### Text

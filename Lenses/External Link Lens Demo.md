@@ -1,7 +1,7 @@
 ---
 id: 8130919f-1e4d-4140-99b4-cc569c36a40d
-{++{"author":"AI","timestamp":1773996956101}@@title: External Link Lens Demo
-++}---
+title: External Link Lens Demo
+---
 ### Page
 #### Text
 content::

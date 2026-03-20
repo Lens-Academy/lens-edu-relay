@@ -1,21 +1,18 @@
 ---
 id: 6258e7f4-1a97-4a03-a652-268b86092e93
-{++{"author":"AI","timestamp":1773997722110}@@title: A Closer Look at Before and After
-++}tags:
+title: A Closer Look at Before and After
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1773945997564}@@### Article: A Closer Look at Before and After
-source:: [[../articles/iabied-ch10-ext-before-after]]
-
---}#### Text
+#### Text
 content::
 This extended discussion explores the Before/After problem in depth. You must align an AI before it becomes powerful enough to be dangerous, but that alignment must hold after conditions change dramatically. The authors argue this is unlike standard engineering because you cannot safely test alignment under the real conditions that matter.
 
-#### {--{"author":"AI","timestamp":1773945997564}@@Article-excerpt--}{++{"author":"AI","timestamp":1773945997564}@@Article
-source:: [[../articles/iabied-ch10-ext-before-after]]++}
+#### Article
+source:: [[../articles/iabied-ch10-ext-before-after]]
 to:: "Getting theories right on the first critical attempt proves extraordinarily difficult — yet superintelligence alignment permits no failed experiments."
 
 #### Text

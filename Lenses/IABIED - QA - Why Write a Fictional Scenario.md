@@ -1,7 +1,7 @@
 ---
 id: 9fb62bef-f26a-4e64-b51f-e5949bc6115c
-{++{"author":"AI","timestamp":1773998848931}@@title: "Why Write a Fictional Scenario?"
-++}tags:
+title: "Why Write a Fictional Scenario?"
+tags:
   - lens
   - IABIED
   - supplementary
