@@ -14,8 +14,8 @@ This Q&A explains why gradient descent matters for AI safety. The key insight: t
 
 #### Article
 source:: [[../articles/iabied-ch2-faq-gradient-descent]]
-to:: "assumptions about full legibility"
-
+{--{"author":"AI","timestamp":1774008933068}@@to:: "assumptions about full legibility"
+--}
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

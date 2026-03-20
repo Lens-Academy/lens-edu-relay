@@ -14,8 +14,8 @@ This Q&A explores the upper bounds of superintelligence. Physics permits machine
 
 #### Article
 source:: [[../articles/iabied-ch1-faq-how-smart]]
-to:: "anything but small in potential practical advantage"
-
+{--{"author":"AI","timestamp":1774008937854}@@to:: "anything but small in potential practical advantage"
+--}
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

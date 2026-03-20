@@ -14,8 +14,8 @@ This Q&A examines what hallucinations reveal about AI. They show genuine current
 
 #### Article
 source:: [[../articles/iabied-ch2-faq-hallucinations]]
-to:: "insufficient for ensuring safe AI development"
-
+{--{"author":"AI","timestamp":1774008934792}@@to:: "insufficient for ensuring safe AI development"
+--}
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

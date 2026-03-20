@@ -13,8 +13,8 @@ This Q&A examines an experimental finding that bad behaviors in AI tend to corre
 
 #### Article
 source:: [[../articles/iabied-ch4-faq-good-behaviors]]
-to:: "AIs that are animated by a complex collection of drives that point who-knows-where."
-
+{--{"author":"AI","timestamp":1774008930350}@@to:: "AIs that are animated by a complex collection of drives that point who-knows-where."
+--}
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?
