@@ -13,8 +13,8 @@ This Q&A examines whether a superintelligent AI could simply be "satisfied" and 
 
 #### Article
 source:: [[../articles/iabied-ch5-faq-leave-alone]]
-to:: "An AI doesn't need to pick between the resources of Earth and the resources of elsewhere; it can have both."
-
+{--{"author":"AI","timestamp":1774009216698}@@to:: "An AI doesn't need to pick between the resources of Earth and the resources of elsewhere; it can have both."
+--}
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

@@ -14,8 +14,8 @@ This Q&A addresses whether AI will be bottlenecked by data, power, or funding. T
 
 #### Article
 source:: [[../articles/iabied-ch2-faq-run-out-resources]]
-to:: "overcome anticipated bottlenecks"
-
+{--{"author":"AI","timestamp":1774009210885}@@to:: "overcome anticipated bottlenecks"
+--}
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

@@ -14,8 +14,8 @@ This Q&A reveals that the authors deliberately slowed down Sable's expansion to 
 
 #### Article
 source:: [[../articles/iabied-ptii-faq-expansion-phase]]
-to:: "we kept trying to convey just how many options an escaped AI would have at its disposal"
-
+{--{"author":"AI","timestamp":1774009212880}@@to:: "we kept trying to convey just how many options an escaped AI would have at its disposal"
+--}
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?
