@@ -134,8 +134,8 @@ In this section, we'll argue that there will be a significant range of AI capabi
 Consider the following three properties of the capabilities of an AI system:
 
 - **Very dangerous:** Able to cause existential catastrophe, in the absence of countermeasures.
-- **Transformatively useful:** Capable of substantially reducing the risk posed by subsequent AIs<sup class="footnote-ref"><span><span></span><a href="https://www.alignmentforum.org/posts/kcKrE9mzEHrdqtDpE/#fn-hmnGzWKsN432gg9j7-21" id="fnref-hmnGzWKsN432gg9j7-21" class="">[21]</a></span></sup> if fully deployed, likely by speeding up R&D and some other tasks by a large factor (perhaps 30x).
-- **Uncontrollable:** Capable enough at evading control techniques or sabotaging control evaluations that it's infeasible to control it.<sup class="footnote-ref"><span><span></span><a href="https://www.alignmentforum.org/posts/kcKrE9mzEHrdqtDpE/#fn-hmnGzWKsN432gg9j7-22" id="fnref-hmnGzWKsN432gg9j7-22" class="">[22]</a></span></sup>
+- **Transformatively useful:** Capable of substantially reducing the risk posed by subsequent AIs{--{"author":"AI","timestamp":1774022897956}@@<sup class="footnote-ref"><span><span></span><a href="https://www.alignmentforum.org/posts/kcKrE9mzEHrdqtDpE/#fn-hmnGzWKsN432gg9j7-21" id="fnref-hmnGzWKsN432gg9j7-21" class="">[21]</a></span></sup>--}{++{"author":"AI","timestamp":1774022897956}@@[^21]++} if fully deployed, likely by speeding up R&D and some other tasks by a large factor (perhaps 30x).
+- **Uncontrollable:** Capable enough at evading control techniques or sabotaging control evaluations that it's infeasible to control it.{--{"author":"AI","timestamp":1774022903936}@@<sup class="footnote-ref"><span><span></span><a href="https://www.alignmentforum.org/posts/kcKrE9mzEHrdqtDpE/#fn-hmnGzWKsN432gg9j7-22" id="fnref-hmnGzWKsN432gg9j7-22" class="">[22]</a></span></sup>--}{++{"author":"AI","timestamp":1774022903936}@@[^22]++}
 
 Our basic argument is that we expect that **as labs build increasingly powerful models, they'll produce models that are both very dangerous and transformatively useful before they produce models that are uncontrollable**.
 
