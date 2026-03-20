@@ -8,9 +8,9 @@ tags:
   - work-in-progress
 ---
 
-### Page
+{--{"author":"AI","timestamp":1774007688032}@@### Page
 
-#### Text
+--}#### Text
 content::
 This is supplementary material from the book's online resources at ifanyonebuildsit.com/5. Chapter 5 has the richest online supplement — 24 FAQs. This Q&A addresses the emotionally appealing objection: "Won't a superintelligence choose to be moral, or install love into itself?"
 

@@ -8,9 +8,9 @@ tags:
   - work-in-progress
 ---
 
-### Page
+{--{"author":"AI","timestamp":1774007684685}@@### Page
 
-#### Text
+--}#### Text
 content::
 This is supplementary material from the book's online resources at ifanyonebuildsit.com/12. It addresses the opportunity cost objection: "What about the benefits of AI? Aren't we giving up fusion reactors, miracle medicines, and interstellar travel?"
 
