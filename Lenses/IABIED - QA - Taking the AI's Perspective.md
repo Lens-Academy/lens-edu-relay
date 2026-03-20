@@ -1,6 +1,7 @@
 ---
 id: a9bf8d9f-cad8-4a86-9cfe-6c9bd4f33e5f
-tags:
+{++{"author":"AI","timestamp":1773998764692}@@title: "Taking the AI's Perspective"
+++}tags:
   - lens
   - IABIED
   - supplementary

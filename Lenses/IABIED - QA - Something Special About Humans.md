@@ -1,6 +1,7 @@
 ---
 id: 568cb83e-08e2-47ec-8993-38384de56124
-tags:
+{++{"author":"AI","timestamp":1773998759667}@@title: "Isn't there something special about humans that mere machines could never emulate?"
+++}tags:
   - lens
   - IABIED
   - supplementary

@@ -1,6 +1,7 @@
 ---
 id: ed98cb7a-2bd5-42f5-909d-a5220052033a
-tags:
+{++{"author":"AI","timestamp":1773998761557}@@title: "If the story started later, would the world be better prepared?"
+++}tags:
   - lens
   - IABIED
   - supplementary
