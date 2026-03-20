@@ -1,6 +1,7 @@
 ---
 id: 842dbf1d-8971-4619-a978-3432e169519c
-tags:
+{++{"author":"AI","timestamp":1773997921903}@@title: "Isn't intelligence overrated?"
+++}tags:
   - lens
   - IABIED
   - supplementary

@@ -1,6 +1,7 @@
 ---
 id: 6e22366e-0068-4412-8f3a-acc72a244beb
-tags:
+{++{"author":"AI","timestamp":1773997893883}@@title: Human Values Are Contingent
+++}tags:
   - lens
   - IABIED
   - supplementary

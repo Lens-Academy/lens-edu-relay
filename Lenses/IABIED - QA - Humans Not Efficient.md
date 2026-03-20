@@ -1,6 +1,7 @@
 ---
 id: 08d61baf-f061-42a2-9686-ca4dc622043d
-tags:
+{++{"author":"AI","timestamp":1773997920375}@@title: Humans Are Almost Never the Most Efficient Solution
+++}tags:
   - lens
   - IABIED
   - supplementary
