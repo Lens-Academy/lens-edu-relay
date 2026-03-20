@@ -1,6 +1,7 @@
 ---
 id: c4afa01d-727e-49d4-b714-d0295ec2fc71
-tags:
+{++{"author":"AI","timestamp":1773997927850}@@title: "Is intelligence understandable in principle?"
+++}tags:
   - lens
   - IABIED
   - supplementary

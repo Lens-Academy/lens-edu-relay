@@ -1,6 +1,7 @@
 ---
 id: 03e48d89-a09e-4070-9988-9cbae7498992
-tags:
+{++{"author":"AI","timestamp":1773997928597}@@title: "Doesn't intelligence consist of multiple skills?"
+++}tags:
   - lens
   - IABIED
   - supplementary
