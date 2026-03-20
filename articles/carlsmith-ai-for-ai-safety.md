@@ -242,17 +242,17 @@ In my next essay, I’ll look at these objections – both the more fundamental 
 	 See [Davidson (2023)](https://www.alignmentforum.org/posts/zxmzBTwKkPMxQQcfR/let-s-use-ai-to-harden-human-defenses-against-ai) for more here.
 {--{"author":"AI","timestamp":1774023476421}@@8. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnref48esjwhvksb">^</a></strong></sup>--}{++{"author":"AI","timestamp":1774023476421}@@[^8]:++}
 	 See [Karnofsky (2022)](https://www.alignmentforum.org/posts/rCJQAkPTEypGjSJ8X/how-might-we-align-transformative-ai-if-it-s-developed-very) for more.
-9. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnref70bqs16p82">^</a></strong></sup>
+{--{"author":"AI","timestamp":1774023478079}@@9. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnref70bqs16p82">^</a></strong></sup>--}{++{"author":"AI","timestamp":1774023478079}@@[^9]:++}
 	  See e.g. [Lukas Finnveden’s discussion of “AI for epistemics”](https://forum.effectivealtruism.org/posts/jPKoNFRowKJwGgGyy/what-s-important-in-ai-for-epistemics) for more.
-10. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnref562dzj9y659">^</a></strong></sup>
+{--{"author":"AI","timestamp":1774023479980}@@10. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnref562dzj9y659">^</a></strong></sup>--}{++{"author":"AI","timestamp":1774023479980}@@[^10]:++}
 	  Though: this is one of the scariest applications of AI for AI safety, and worth special caution.
-11. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnreftpl0sntv21">^</a></strong></sup>
+{--{"author":"AI","timestamp":1774023481612}@@11. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnreftpl0sntv21">^</a></strong></sup>--}{++{"author":"AI","timestamp":1774023481612}@@[^11]:++}
 	 See e.g. Amodei’s “[Machines of Loving Grace](https://darioamodei.com/machines-of-loving-grace)” for some discussion.
-12. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnref4hju4ieb6g">^</a></strong></sup>
+{--{"author":"AI","timestamp":1774023482943}@@12. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnref4hju4ieb6g">^</a></strong></sup>--}{++{"author":"AI","timestamp":1774023482943}@@[^12]:++}
 	 Though of course: AI could also degrade our backdrop capacity in lots of ways as well – and in scenarios with a fast and disruptive transition to advanced AI, we might expect a lot of this, too.
-13. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnref32zs7nsm767">^</a></strong></sup>
+{--{"author":"AI","timestamp":1774023485104}@@13. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnref32zs7nsm767">^</a></strong></sup>--}{++{"author":"AI","timestamp":1774023485104}@@[^13]:++}
 	 I think I first heard this framing from Carl Shulman.
-14. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnrefq28566wd1u">^</a></strong></sup>
+{--{"author":"AI","timestamp":1774023486283}@@14. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnrefq28566wd1u">^</a></strong></sup>--}{++{"author":"AI","timestamp":1774023486283}@@[^14]:++}
 	 See e.g. [here](https://situational-awareness.ai/from-agi-to-superintelligence/) and [here](https://www.openphilanthropy.org/research/what-a-compute-centric-framework-says-about-takeoff-speeds/) for more discussion. Note that the intelligence explosion need not involve AI systems literally improving *themselves* – i.e., recursive *self-*improvement. Nor need it involve the automation of ~all tasks in the economy.
 15. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnref75ffeuoma2f">^</a></strong></sup>
 	Though: note that not all scary AI scenarios involve this feedback loop. For example: the creation of the AI systems that disempower humans might be driven centrally by human labor.
