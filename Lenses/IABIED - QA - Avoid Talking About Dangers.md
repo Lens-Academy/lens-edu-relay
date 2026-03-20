@@ -1,22 +1,19 @@
 ---
 id: 3dba768a-c3e4-4a7c-8063-9bf1ce403513
-{++{"author":"AI","timestamp":1773997692548}@@title: "Should we avoid talking about AI dangers, so AIs don't get any bad ideas?"
-++}tags:
+title: "Should we avoid talking about AI dangers, so AIs don't get any bad ideas?"
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1773945996435}@@### Article: Should we avoid talking about AI dangers, so AIs don't get any bad ideas?
-source:: [[../articles/iabied-ch4-faq-avoid-talking]]
-
---}#### Text
+#### Text
 content::
 Chapter 4 argues that training doesn't produce intended goals. This Q&A addresses the worry that public discussion of AI risks might "teach" AIs dangerous strategies. The authors argue this gets the problem backwards: any AI system that becomes dangerous from reading internet discussion about risks is already too dangerous to build, and sufficiently capable AIs would figure out such strategies independently anyway.
 
-#### {--{"author":"AI","timestamp":1773945996435}@@Article-excerpt--}{++{"author":"AI","timestamp":1773945996435}@@Article
-source:: [[../articles/iabied-ch4-faq-avoid-talking]]++}
+#### Article
+source:: [[../articles/iabied-ch4-faq-avoid-talking]]
 to:: "competent safety design shouldn't fail from scrutiny"
 
 #### Text
