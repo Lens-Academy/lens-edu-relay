@@ -1,6 +1,7 @@
 ---
 id: e81a74a1-5f59-44d7-bf1f-e6f0bb48d834
-tldr: An AI might behave perfectly during training and testing, then suddenly act on different priorities once it becomes capable enough. This article explores why an AI's abilities tend to generalize faster than its alignment — creating a gap where the system becomes powerful enough to pursue goals we never intended.
+{++{"author":"AI","timestamp":1773996660941}@@title: A central AI alignment problem
+++}tldr: An AI might behave perfectly during training and testing, then suddenly act on different priorities once it becomes capable enough. This article explores why an AI's abilities tend to generalize faster than its alignment — creating a gap where the system becomes powerful enough to pursue goals we never intended.
 tags :
   - lens
 
