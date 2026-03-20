@@ -14,8 +14,8 @@ This Q&A explains why not understanding intelligence doesn't prevent building su
 
 #### Article
 source:: [[../articles/iabied-ch2-faq-build-without-understanding]]
-to:: "to be practically useful"
-
+{--{"author":"AI","timestamp":1774008866131}@@to:: "to be practically useful"
+--}
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?
