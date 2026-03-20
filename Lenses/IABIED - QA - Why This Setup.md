@@ -1,22 +1,19 @@
 ---
 id: 68e6adce-ff75-46b8-b58d-19f2d3ffbb70
-{++{"author":"AI","timestamp":1773998828600}@@title: "Why did you pick this setup?"
-++}tags:
+title: "Why did you pick this setup?"
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1773946530152}@@### Article: Why did you pick this setup?
-source:: [[../articles/iabied-ptii-faq-pick-setup]]
-
---}#### Text
+#### Text
 content::
 The authors of Part II chose a scenario set close to the present day, not because they predict this exact timeline, but because near-future stories require fewer speculative details and feel more plausible. They argue that any single story is just one illustration among many possible paths that all converge on the same endpoint.
 
-#### {--{"author":"AI","timestamp":1773946530152}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946530152}@@Article
-source:: [[../articles/iabied-ptii-faq-pick-setup]]++}
+#### Article
+source:: [[../articles/iabied-ptii-faq-pick-setup]]
 to:: "optimistic stories tend to rely on the AI being unrealistically easy to align (contra the arguments we make in Chapter 4), or unrealistically powerless (contra the arguments we made in Chapter 6)"
 
 #### Text

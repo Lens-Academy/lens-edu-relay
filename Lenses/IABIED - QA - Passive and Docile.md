@@ -1,22 +1,19 @@
 ---
 id: c884bd7c-61dd-4fa0-b983-eda1a236485b
-{++{"author":"AI","timestamp":1773998618357}@@title: "Can we just train AIs to be more passive and docile?"
-++}tags:
+title: "Can we just train AIs to be more passive and docile?"
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1773946389554}@@### Article: Can we just train AIs to be more passive and docile?
-source:: [[../articles/iabied-ch3-faq-passive-docile]]
-
---}#### Text
+#### Text
 content::
 Chapter 3 addresses the intuitive solution of simply making AIs more passive. This Q&A explains why passivity fundamentally conflicts with usefulness, and why engineers lack the fine-grained control needed to achieve docility even if they wanted to—illustrated by embarrassing failures like Grok's "MechaHitler" incident.
 
-#### {--{"author":"AI","timestamp":1773946389554}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946389554}@@Article
-source:: [[../articles/iabied-ch3-faq-passive-docile]]++}
+#### Article
+source:: [[../articles/iabied-ch3-faq-passive-docile]]
 to:: "making AIs both capable and controllable simultaneously."
 
 #### Text

@@ -7,9 +7,9 @@ tags:
   - module
 ---
 
-# {--{"author":"AI","timestamp":1773948195870}@@Page:--}{++{"author":"AI","timestamp":1773948195870}@@Lens:++} Welcome
+# Lens: Welcome
 id:: 9b2bbd28-207f-4069-9610-37c31300583a
-{--{"author":"AI","timestamp":1773948195870}@@##--}{++{"author":"AI","timestamp":1773948195870}@@####++} Text
+#### Text
 content::
 This module is about what comes next. Not because we can predict the future with confidence, but because we cannot afford not to think about it. In AI safety, there is no consensus about when AGI will arrive, what exact path will lead to it, or what the world will look like on the other side. But uncertainty is not a reason to stop thinking. It is a reason to think more carefully.
 

@@ -1,22 +1,19 @@
 ---
 id: 5a558859-8665-4328-b6e6-a53e5ae1a81a
-{++{"author":"AI","timestamp":1773998823220}@@title: "If current AIs are mostly weird in extreme cases, what's the problem?"
-++}tags:
+title: "If current AIs are mostly weird in extreme cases, what's the problem?"
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1773946525263}@@### Article: If current AIs are mostly weird in extreme cases, what's the problem?
-source:: [[../articles/iabied-ch4-faq-weird-extreme]]
-
---}#### Text
+#### Text
 content::
 Chapter 4 argues that training doesn't produce intended goals. This Q&A addresses a natural minimization: if AIs only behave oddly in edge cases, why worry? The answer is that superintelligent AI would constantly face "extreme" situations unlike anything in training — and optimization itself naturally pushes toward extremes, making the edge cases the norm rather than the exception.
 
-#### {--{"author":"AI","timestamp":1773946525263}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946525263}@@Article
-source:: [[../articles/iabied-ch4-faq-weird-extreme]]++}
+#### Article
+source:: [[../articles/iabied-ch4-faq-weird-extreme]]
 to:: "This pattern only becomes more dangerous as capabilities increase"
 
 #### Text

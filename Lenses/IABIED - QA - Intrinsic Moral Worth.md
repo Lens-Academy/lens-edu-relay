@@ -1,21 +1,18 @@
 ---
 id: a3e672c0-0889-45f7-ad90-cf6f902e1b99
-{++{"author":"AI","timestamp":1773997954535}@@title: "Wouldn't AI recognize our intrinsic moral worth?"
-++}tags:
+title: "Wouldn't AI recognize our intrinsic moral worth?"
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1773946220468}@@### Article: Wouldn't AI recognize our intrinsic moral worth?
-source:: [[../articles/iabied-ch5-faq-moral-worth]]
-
---}#### Text
+#### Text
 content::
 This Q&A addresses whether a superintelligent AI would recognize and act on humanity's intrinsic moral worth. The key insight is the gap between understanding and motivation: an AI can comprehend moral principles perfectly without being moved to act on them, just as humans understand evolutionary fitness without being driven to maximize reproduction. The orthogonality thesis tells us intelligence and goals are independent.
 
-#### {--{"author":"AI","timestamp":1773946220468}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946220468}@@Article
-source:: [[../articles/iabied-ch5-faq-moral-worth]]++}
+#### Article
+source:: [[../articles/iabied-ch5-faq-moral-worth]]
 to:: "Human moral frameworks wouldn't automatically transfer to artificial minds shaped by entirely different processes."
 
 #### Text

@@ -1,21 +1,18 @@
 ---
 id: aa4ced0d-1111-4085-9f62-49bab9b1a8a3
-{++{"author":"AI","timestamp":1773998757632}@@title: "What if AI is developed only slowly, and it slowly integrates with society?"
-++}tags:
+title: "What if AI is developed only slowly, and it slowly integrates with society?"
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1773946455007}@@### Article: What if AI is developed only slowly, and it slowly integrates with society?
-source:: [[../articles/iabied-ch10-faq-slow-integration]]
-
---}#### Text
+#### Text
 content::
 This Q&A addresses whether slow AI development would make alignment safer. The authors argue that speed is not the core difficulty -- the fundamental problem is the Before/After transition where tricks that work on weaker AIs must generalize to ones that could take power. They use a dragon analogy to illustrate why controlling entities far more powerful than you inevitably fails.
 
-#### {--{"author":"AI","timestamp":1773946455007}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946455007}@@Article
-source:: [[../articles/iabied-ch10-faq-slow-integration]]++}
+#### Article
+source:: [[../articles/iabied-ch10-faq-slow-integration]]
 to:: "Either that collection of AIs contains a component that deeply cares about happy, healthy, free people, or the future goes poorly for us."
 
 #### Text

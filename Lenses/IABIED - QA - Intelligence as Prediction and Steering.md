@@ -1,22 +1,19 @@
 ---
 id: 852658c6-e827-4bbf-a3e1-df3a51d6e43d
-{++{"author":"AI","timestamp":1773997951101}@@title: More on Intelligence as Prediction and Steering
-++}tags:
+title: More on Intelligence as Prediction and Steering
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1773946196803}@@### Article: IABIED - QA - Intelligence as Prediction and Steering
-source:: [[../articles/iabied-ch1-ext-prediction-steering]]
-
---}#### Text
+#### Text
 content::
 This extended discussion decomposes intelligence into two components: prediction (objective, converges across capable systems) and steering (subjective, a free parameter). The critical insight is that making AI more capable improves prediction automatically, but steering doesn't automatically aim at human-desired destinations.
 
-#### {--{"author":"AI","timestamp":1773946196803}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946196803}@@Article
-source:: [[../articles/iabied-ch1-ext-prediction-steering]]++}
+#### Article
+source:: [[../articles/iabied-ch1-ext-prediction-steering]]
 to:: "only correct predictions about reality"
 
 #### Text

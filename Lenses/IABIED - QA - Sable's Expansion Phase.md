@@ -1,22 +1,19 @@
 ---
 id: bb09a113-affb-4d96-b068-8da243900216
-{++{"author":"AI","timestamp":1773998674019}@@title: "Why did you have Sable's expansion phase go that way?"
-++}tags:
+title: "Why did you have Sable's expansion phase go that way?"
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1773946428760}@@### Article: Why did you have Sable's expansion phase go that way?
-source:: [[../articles/iabied-ptii-faq-expansion-phase]]
-
---}#### Text
+#### Text
 content::
 This Q&A reveals that the authors deliberately slowed down Sable's expansion to keep it comprehensible. In reality, technological leaps can happen overnight -- as with the atomic bomb or ChatGPT. The story could plausibly have jumped straight from Chapter 7 to Chapter 9, but that would have felt less believable in fiction even though it is more realistic.
 
-#### {--{"author":"AI","timestamp":1773946428760}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946428760}@@Article
-source:: [[../articles/iabied-ptii-faq-expansion-phase]]++}
+#### Article
+source:: [[../articles/iabied-ptii-faq-expansion-phase]]
 to:: "we kept trying to convey just how many options an escaped AI would have at its disposal"
 
 #### Text

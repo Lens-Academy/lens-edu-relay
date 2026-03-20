@@ -1,22 +1,19 @@
 ---
 id: cf3f37ce-3fc3-46ab-b693-7f83807b2b1e
-{++{"author":"AI","timestamp":1773998671991}@@title: "But won't we run out of data before AI goes all the way? Or electrical power? Or funding?"
-++}tags:
+title: "But won't we run out of data before AI goes all the way? Or electrical power? Or funding?"
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1773946426034}@@### Article: IABIED - QA - Running Out of Resources
-source:: [[../articles/iabied-ch2-faq-run-out-resources]]
-
---}#### Text
+#### Text
 content::
 This Q&A addresses whether AI will be bottlenecked by data, power, or funding. The authors argue probably not: humans run on 100 watts (proving efficiency is achievable), AI hardware improves 40% annually in efficiency, and private investment measured in hundreds of billions makes "AI winters" unlikely to recur.
 
-#### {--{"author":"AI","timestamp":1773946426034}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946426034}@@Article
-source:: [[../articles/iabied-ch2-faq-run-out-resources]]++}
+#### Article
+source:: [[../articles/iabied-ch2-faq-run-out-resources]]
 to:: "overcome anticipated bottlenecks"
 
 #### Text

@@ -1,21 +1,18 @@
 ---
 id: 03e48d89-a09e-4070-9988-9cbae7498992
-{++{"author":"AI","timestamp":1773998609652}@@title: A New Way to Discover Optical Illusions
-++}tags:
+title: A New Way to Discover Optical Illusions
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1773946362545}@@### Article: A New Way to Discover Optical Illusions
-source:: [[../articles/iabied-ch6-ext-optical-illusions]]
-
---}#### Text
+#### Text
 content::
 This extended discussion examines how modern neuroscience enables researchers to systematically construct new optical illusions from first principles, rather than discovering them by accident. Examples include the Curvature Blindness Illusion (2017), the Expanding Black Hole (2022), and "chimerical colors" that produce impossible color sensations. This illustrates how understanding a system's architecture enables exploitation of its vulnerabilities.
 
-#### {--{"author":"AI","timestamp":1773946362545}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946362545}@@Article
-source:: [[../articles/iabied-ch6-ext-optical-illusions]]++}
+#### Article
+source:: [[../articles/iabied-ch6-ext-optical-illusions]]
 to:: "perception alters through stimulus timing rather than sensory input modification alone."
 
 #### Text

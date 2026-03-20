@@ -1,7 +1,7 @@
 ---
 id: 6ff6313a-418d-4094-811f-10555a49efc9
-{++{"author":"AI","timestamp":1773998856345}@@title: AI Safety Career Paths
-++}tags:
+title: AI Safety Career Paths
+tags:
   - lens
   - IABIED
   - work-in-progress

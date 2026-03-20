@@ -1,22 +1,19 @@
 ---
 id: 842dbf1d-8971-4619-a978-3432e169519c
-{++{"author":"AI","timestamp":1773997921903}@@title: "Isn't intelligence overrated?"
-++}tags:
+title: "Isn't intelligence overrated?"
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1773946189851}@@### Article: IABIED - QA - Intelligence Overrated
-source:: [[../articles/iabied-ch1-faq-intelligence-overrated]]
-
---}#### Text
+#### Text
 content::
 This Q&A reframes "intelligence" beyond the narrow academic sense. The authors mean everything that separates human brains from mouse brains — including charisma, emotional persuasion, and practical skills. Artificial intelligence in their usage means "artificial everything-that-separates-human-brains-from-mouse-brains."
 
-#### {--{"author":"AI","timestamp":1773946189851}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946189851}@@Article
-source:: [[../articles/iabied-ch1-faq-intelligence-overrated]]++}
+#### Article
+source:: [[../articles/iabied-ch1-faq-intelligence-overrated]]
 to:: "civilization-building and technological advancement"
 
 #### Text

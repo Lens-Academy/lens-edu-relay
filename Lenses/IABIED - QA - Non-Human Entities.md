@@ -1,21 +1,18 @@
 ---
 id: 7efc8a65-6260-4a80-9286-6b1732602173
-{++{"author":"AI","timestamp":1773998579896}@@title: "Why don't you care about non-human entities?"
-++}tags:
+title: "Why don't you care about non-human entities?"
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1773946331737}@@### Article: Why don't you care about non-human entities?
-source:: [[../articles/iabied-ch5-faq-non-human-entities]]
-
---}#### Text
+#### Text
 content::
 This Q&A addresses the charge that the authors only care about humans. They explicitly state they have broad cosmopolitan values and consider it a tragedy that AI won't fulfill them. The paradox is that most possible minds don't endorse cosmopolitanism, so building unaligned superintelligence actually destroys the diversity that cosmopolitan values aim to protect.
 
-#### {--{"author":"AI","timestamp":1773946331737}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946331737}@@Article
-source:: [[../articles/iabied-ch5-faq-non-human-entities]]++}
+#### Article
+source:: [[../articles/iabied-ch5-faq-non-human-entities]]
 to:: "The apparent conflict between human welfare and universal values is illusory."
 
 #### Text

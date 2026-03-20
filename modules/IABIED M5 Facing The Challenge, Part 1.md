@@ -12,10 +12,10 @@ tags:
   - work-in-progress
 ---
 
-# {--{"author":"AI","timestamp":1773948140847}@@Page:--}{++{"author":"AI","timestamp":1773948140847}@@Lens:++} Welcome
+# Lens: Welcome
 id:: 8fc53ea9-72d4-44c7-bcd2-d4935429ec5c
 
-{--{"author":"AI","timestamp":1773948140847}@@##--}{++{"author":"AI","timestamp":1773948140847}@@####++} Text
+#### Text
 content:: Having seen what could happen, we now ask: why is the engineering challenge so hard? The authors present five "curses" that make alignment extraordinarily difficult, then argue that the entire field is still in the stage of alchemy — pre-scientific folk theory — rather than mature engineering.
 
 Chapter 10 draws analogies from space probes (Mars Observer, Climate Orbiter, Polar Lander, Viking 1), nuclear reactors (Chernobyl), and computer security (buffer overflow attacks) to identify five engineering curses: speed, narrow margins, self-amplification, complications, and edge cases. All five apply to AI alignment — and AI has it worse because the system is grown, not crafted, and it can intelligently resist constraints.
@@ -24,7 +24,7 @@ Chapter 11 opens with a parable about alchemists who think they're close to tran
 
 **This week's reading:** Chapter 10 ("A Cursed Problem") + Chapter 11 ("An Alchemy, Not a Science"). After reading, come back here to discuss with the tutor.
 
-{--{"author":"AI","timestamp":1773948171546}@@##--}{++{"author":"AI","timestamp":1773948171546}@@####++} Chat
+#### Chat
 instructions::
 The student has just read Chapters 10 and 11 of "If Anyone Builds It, Everyone Dies."
 

@@ -1,21 +1,19 @@
 ---
 id: c42889f8-e7bc-4e36-a3b6-faf408280102
-{++{"author":"AI","timestamp":1773996879600}@@title: "What are the differences between a singularity, an intelligence explosion, and a hard takeoff?"
-++}tldr: People use different words for things going very fast very quickly — singularity, intelligence explosion, hard takeoff, FOOM. This reading untangles the terminology so you can tell which scenario someone is actually describing when they use these terms.
+title: "What are the differences between a singularity, an intelligence explosion, and a hard takeoff?"
+tldr: People use different words for things going very fast very quickly — singularity, intelligence explosion, hard takeoff, FOOM. This reading untangles the terminology so you can tell which scenario someone is actually describing when they use these terms.
 ---
-{--{"author":"AI","timestamp":1773947354955}@@### Article: What are the differences between a singularity--}, an intelligence explosion, and a hard takeoff
-{--{"author":"AI","timestamp":1773947364557}@@source:: [[../articles/aisafety-info-singularity-intelligence-explosion-hard-takeoff]]
-
---}#### Text
+, an intelligence explosion, and a hard takeoff
+#### Text
 content::
 Let's get acquainted with some of the terminology used for things going very fast very quickly.
 
-#### {--{"author":"AI","timestamp":1773947366904}@@Article-excerpt--}{++{"author":"AI","timestamp":1773947366904}@@Article
-source:: [[../articles/aisafety-info-singularity-intelligence-explosion-hard-takeoff]]++}
+#### Article
+source:: [[../articles/aisafety-info-singularity-intelligence-explosion-hard-takeoff]]
 from:: "* A **(technological) singularity**"
 to:: "that results in hyperbolic growth."
 
-#### {--{"author":"AI","timestamp":1773947366904}@@Article-excerpt--}{++{"author":"AI","timestamp":1773947366904}@@Article++}
+#### Article
 from:: "* **FOOM**"
 
 #### Text
