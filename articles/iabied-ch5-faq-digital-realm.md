@@ -1,7 +1,8 @@
 ---
 title: "Wouldn't AI only care about the digital realm?"
 source_url: https://ifanyonebuildsit.com/5/wouldnt-ai-only-care-about-the-digital-realm
-author:
+{++{"author":"AI","timestamp":1774006846626}@@published: 2025-09-16
+++}author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:
