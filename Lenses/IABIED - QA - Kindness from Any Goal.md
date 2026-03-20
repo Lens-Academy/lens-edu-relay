@@ -13,8 +13,8 @@ This Q&A addresses the hope that kindness might be an inevitable byproduct of AI
 
 #### Article
 source:: [[../articles/iabied-ch4-faq-kindness-out]]
-to:: "Nobody knows what machinery is producing seemingly friendly behaviors today; and whatever it is, it's probably weird and complex."
-
+{--{"author":"AI","timestamp":1774008989567}@@to:: "Nobody knows what machinery is producing seemingly friendly behaviors today; and whatever it is, it's probably weird and complex."
+--}
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

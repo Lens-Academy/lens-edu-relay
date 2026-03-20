@@ -14,8 +14,8 @@ This extended discussion explains why understanding LLM mechanics matters for po
 
 #### Article
 source:: [[../articles/iabied-ch2-ext-knowledge-llms]]
-to:: "addressing underlying issues"
-
+{--{"author":"AI","timestamp":1774008995850}@@to:: "addressing underlying issues"
+--}
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?
