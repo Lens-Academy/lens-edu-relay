@@ -19,7 +19,7 @@ to:: "Matter and energy can be used to create more digital substrate, to cool ov
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### Chat: Discussion
+#### {--{"author":"AI","timestamp":1774006518820}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006518820}@@Chat++}
 instructions::
 The student just read a supplementary Q&A from the book's website about whether AI would only care about the digital realm.
 TLDR: There is no separate "digital realm" -- all computation requires physical infrastructure. Just as humans exploit underground mines and space despite having no evolved drives for those domains, an AI would find physical matter and energy instrumentally valuable regardless of whether it "cares" about the physical world intrinsically.

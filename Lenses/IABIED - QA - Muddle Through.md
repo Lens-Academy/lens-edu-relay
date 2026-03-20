@@ -19,7 +19,7 @@ to:: "In this case, early errors wouldn't leave survivors."
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### Chat: Discussion
+#### {--{"author":"AI","timestamp":1774006505932}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006505932}@@Chat++}
 instructions::
 The student just read a supplementary Q&A from the book's website about whether humanity will just muddle through AI development like always.
 TLDR: "Muddling through" depends on trial and error, but with superintelligence, the first serious error could be the last — there would be no survivors to learn from mistakes.

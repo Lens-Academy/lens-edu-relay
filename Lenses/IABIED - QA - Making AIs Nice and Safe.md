@@ -20,7 +20,7 @@ to:: "The distinction between an AI that genuinely wants helpfulness versus one 
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### Chat: Discussion
+#### {--{"author":"AI","timestamp":1774006505273}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006505273}@@Chat++}
 instructions::
 The student just read a supplementary Q&A from the book's website about whether developers are successfully making AIs safe and obedient.
 
