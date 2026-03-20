@@ -1,6 +1,7 @@
 ---
 id: e2d3e554-c4ee-46f9-b9a1-96984c80b23f
-tags:
+{++{"author":"AI","timestamp":1773997887646}@@title: "Isn't it important to race ahead because of 'hardware overhang'?"
+++}tags:
   - lens
   - IABIED
   - supplementary

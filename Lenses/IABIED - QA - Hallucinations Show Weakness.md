@@ -1,6 +1,7 @@
 ---
 id: 79dd5970-4a5c-4da4-a5e4-6cc99b167f56
-tags:
+{++{"author":"AI","timestamp":1773997886054}@@title: "Don't hallucinations show that modern AIs are weak?"
+++}tags:
   - lens
   - IABIED
   - supplementary

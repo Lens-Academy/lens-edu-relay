@@ -1,6 +1,7 @@
 ---
 id: 9bf56eed-aee4-4dc2-8ce5-55edfd24e2b6
-tags:
+{++{"author":"AI","timestamp":1773997890947}@@title: "How smart could a superintelligence get?"
+++}tags:
   - lens
   - IABIED
   - supplementary
