@@ -20,7 +20,7 @@ to:: "we kept trying to convey just how many options an escaped AI would have at
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### Chat: Discussion
+#### {--{"author":"AI","timestamp":1774006549608}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006549608}@@Chat++}
 instructions::
 The student just read a supplementary Q&A from the book's website about why Sable's expansion phase unfolds the way it does in the narrative.
 

@@ -19,7 +19,7 @@ to:: "An AI doesn't need to pick between the resources of Earth and the resource
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### Chat: Discussion
+#### {--{"author":"AI","timestamp":1774006552252}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006552252}@@Chat++}
 instructions::
 The student just read a supplementary Q&A from the book's website about whether AI could be satisfied enough to leave humans alone.
 TLDR: Complex preferences are generally insatiable -- even an AI focused on painting a car red would build defenses to ensure it stays red. The chimpanzee analogy shows how incidental destruction occurs without malice. An AI wouldn't need to choose between Earth and space resources; it could take both.
