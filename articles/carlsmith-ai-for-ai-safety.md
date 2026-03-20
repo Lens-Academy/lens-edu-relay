@@ -182,7 +182,7 @@ Note, though, that [as I discussed in my second essay](https://joecarlsmith.subs
 
 Will we be in a position to benefit from an AI for AI safety sweet spot? It’s not all clear. Here I’ll note a few salient worries. (And note that these worries can apply to milder versions of the “spicy zone” as well.)
 
-The first is just that: there won’t be a sweet spot at all. That is: by the time frontier AIs are capable enough to radically improve our civilizational competence, they’ll also be in a position to disempower humanity, even given our countermeasures. Call this a “no sweet spot view.”<sup><span><span></span><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fn47tfsdpo65h" class="">[37]</a></span></sup> 
+The first is just that: there won’t be a sweet spot at all. That is: by the time frontier AIs are capable enough to radically improve our civilizational competence, they’ll also be in a position to disempower humanity, even given our countermeasures. Call this a “no sweet spot view.”{--{"author":"AI","timestamp":1774023443663}@@<sup><span><span></span><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fn47tfsdpo65h" class="">[37]</a></span></sup>--}{++{"author":"AI","timestamp":1774023443663}@@[^37]++} 
 
 ![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/db10664a25f9ee48bc87480824ce41d70ac3b9bf2476d8affc67dd5f02f52ec6/imm9gvtuhwx3zcbjqeri)
 
@@ -194,7 +194,7 @@ Finally, you might think that there will be a large enough sweet spot to spend m
 
 ![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/F3j4xqpxjxgQD3xXh/rtsrufpys0ybwvotod9i)
 
-And we can imagine a variety of other concerns besides.<sup><span><span></span><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fn0c5b3ape37j" class="">[38]</a></span></sup> Indeed, these concerns tend to mirror the core concerns about AI for AI safety more generally. Let’s look at those more directly now.
+And we can imagine a variety of other concerns besides.{--{"author":"AI","timestamp":1774023451723}@@<sup><span><span></span><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fn0c5b3ape37j" class="">[38]</a></span></sup>--}{++{"author":"AI","timestamp":1774023451723}@@[^38]++} Indeed, these concerns tend to mirror the core concerns about AI for AI safety more generally. Let’s look at those more directly now.
 
 # 5\. Objections to AI for AI safety
 
@@ -216,7 +216,7 @@ These three core objections can arise, in various guises, with respect to any ap
 
 ## 5.2 Other practical concerns
 
-Beyond these three core objections, we can also note a variety of other concerns about AI for AI safety – concerns that focus less on whether AI for AI safety is viable in principle, and more on whether or not, in practice, we would do it right. Of these, I worry most about the following (but see footnote for a few others<sup><span><span></span><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fn7p5nyle2czr" class="">[39]</a></span></sup>):
+Beyond these three core objections, we can also note a variety of other concerns about AI for AI safety – concerns that focus less on whether AI for AI safety is viable in principle, and more on whether or not, in practice, we would do it right. Of these, I worry most about the following (but see footnote for a few others{--{"author":"AI","timestamp":1774023452325}@@<sup><span><span></span><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fn7p5nyle2czr" class="">[39]</a></span></sup>--}{++{"author":"AI","timestamp":1774023452325}@@[^39]++}):
 
 - **Uneven capability arrival**: the sorts of capabilities necessary for AI for AI safety will arrive much *later* than the capabilities necessary for automating capabilities R&D, thereby significantly disadvantaging the AI safety feedback loop relative to the AI capabilities feedback loop.
 - **Inadequate time**: Even setting aside uneven capability arrival, by the time we’re in a position to use AI systems to meaningfully help us with AI safety goals, there won’t be enough time left before the AI capability feedback loop pushes us into catastrophe.
