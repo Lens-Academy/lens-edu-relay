@@ -8,9 +8,9 @@ tags:
   - work-in-progress
 ---
 
-### Page
+{--{"author":"AI","timestamp":1774007672870}@@### Page
 
-#### Text
+--}#### Text
 content::
 This is supplementary material from the book's online resources at ifanyonebuildsit.com/10. It provides an extended historical analysis of Enrico Fermi's Chicago Pile-1 — the first nuclear reactor — and what it teaches us about the difference between understood and un-understood engineering.
 

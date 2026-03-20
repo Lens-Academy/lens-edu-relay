@@ -8,9 +8,9 @@ tags:
   - work-in-progress
 ---
 
-### Page
+{--{"author":"AI","timestamp":1774007674159}@@### Page
 
-#### Text
+--}#### Text
 content::
 This is supplementary material from the book's online resources at ifanyonebuildsit.com/6. It explores whether enhancing human intelligence (through biological or technological means) could help us compete with or safely manage a superintelligence.
 
