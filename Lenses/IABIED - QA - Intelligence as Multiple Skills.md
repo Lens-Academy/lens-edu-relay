@@ -20,7 +20,7 @@ to:: "not philosophical definitions"
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### Chat: Discussion
+#### {--{"author":"AI","timestamp":1774006456874}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006456874}@@Chat++}
 instructions::
 The student just read a supplementary Q&A from the book's website about whether intelligence consists of multiple skills rather than a single dimension.
 
