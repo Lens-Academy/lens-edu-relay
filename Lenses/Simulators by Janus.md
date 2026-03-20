@@ -1,6 +1,7 @@
 ---
 id: c88cfac7-1fe2-4a14-b20b-7903a28daa8d
-tldr: When people discuss AI risk, they often picture AI as an agent pursuing goals. But LLMs don't fit neatly into that box. This essay proposes that language models are better understood as simulators — systems that can produce agent-like behavior without being agents themselves. The distinction matters for how we think about risk.
+{++{"author":"AI","timestamp":1773996681182}@@title: Simulators by Janus
+++}tldr: When people discuss AI risk, they often picture AI as an agent pursuing goals. But LLMs don't fit neatly into that box. This essay proposes that language models are better understood as simulators — systems that can produce agent-like behavior without being agents themselves. The distinction matters for how we think about risk.
 ---
 {--{"author":"AI","timestamp":1773947161817}@@### Article: Simulators by Janus -- LessWrong
 source:: [[../articles/janus-simulators|janus-simulators]]
