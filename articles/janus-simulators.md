@@ -522,11 +522,11 @@ In my mind, “simulator”, like most natural language categories, has fuzzy bo
 | **Bert** | X | X |  | X | X | X |
 | **“Behavior cloning”** | X | X | X |  | X | X |
 | **GANs** | {--{"author":"AI","timestamp":1774023644619}@@X <sup><span><a href="https://www.lesswrong.com/s/N7nDePaNabJdnbXeE/p/#fnbfhs37ysptj">[30]</a></span></sup>--}{++{"author":"AI","timestamp":1774023644619}@@X[^30]++} | ? |  | X | X | X |
-| **Diffusion** | X <sup><span><a href="https://www.lesswrong.com/s/N7nDePaNabJdnbXeE/p/#fnbfhs37ysptj">[30]</a></span></sup> | ? |  | X | X | X |
+| **Diffusion** | {--{"author":"AI","timestamp":1774023650775}@@X <sup><span><a href="https://www.lesswrong.com/s/N7nDePaNabJdnbXeE/p/#fnbfhs37ysptj">[30]</a></span></sup>--}{++{"author":"AI","timestamp":1774023650775}@@X[^30]++} | ? |  | X | X | X |
 | **Model-based RL transition function** | X | X | X | X | X | X |
 | **Game of life** |  | N/A | X | X |  |  |
 | **Physics** |  | N/A | X | X | X |  |
-| **Human imagination** | X <sup><span><a href="https://www.lesswrong.com/s/N7nDePaNabJdnbXeE/p/#fnyqbdfj6rki8">[31]</a></span></sup> |  | X | X | X | X |
+| **Human imagination** | {--{"author":"AI","timestamp":1774023655613}@@X <sup><span><a href="https://www.lesswrong.com/s/N7nDePaNabJdnbXeE/p/#fnyqbdfj6rki8">[31]</a></span></sup>--}{++{"author":"AI","timestamp":1774023655613}@@X[^31]++} |  | X | X | X | X |
 | **SimCity** |  | N/A | X | X | X |  |
 
 ---
