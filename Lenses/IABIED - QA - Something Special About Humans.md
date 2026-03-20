@@ -14,8 +14,8 @@ This Q&A argues that human uniqueness is unlikely and not especially relevant to
 
 #### Article
 source:: [[../articles/iabied-ch1-faq-special-humans]]
-to:: "practical concerns surrounding superintelligent systems"
-
+{--{"author":"AI","timestamp":1774009228325}@@to:: "practical concerns surrounding superintelligent systems"
+--}
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

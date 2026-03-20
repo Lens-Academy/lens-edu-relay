@@ -13,8 +13,8 @@ This Q&A responds to the objection that imagining a smart AI pursuing trivial go
 
 #### Article
 source:: [[../articles/iabied-ch5-faq-stupid-trivial]]
-to:: "This represents a fundamental disconnect between capability and alignment rather than any computational failing."
-
+{--{"author":"AI","timestamp":1774009227085}@@to:: "This represents a fundamental disconnect between capability and alignment rather than any computational failing."
+--}
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

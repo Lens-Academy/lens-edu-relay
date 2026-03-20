@@ -13,8 +13,8 @@ This Q&A addresses whether slow AI development would make alignment safer. The a
 
 #### Article
 source:: [[../articles/iabied-ch10-faq-slow-integration]]
-to:: "Either that collection of AIs contains a component that deeply cares about happy, healthy, free people, or the future goes poorly for us."
-
+{--{"author":"AI","timestamp":1774009219974}@@to:: "Either that collection of AIs contains a component that deeply cares about happy, healthy, free people, or the future goes poorly for us."
+--}
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?
