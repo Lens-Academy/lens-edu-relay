@@ -12,8 +12,8 @@ This brief Q&A addresses whether superintelligent AI would be conscious. The aut
 
 #### Article
 source:: [[../articles/iabied-ch5-faq-conscious]]
-to:: "An unconscious optimizer pursuing goals misaligned with human values would be just as dangerous as a conscious one."
-
+{--{"author":"AI","timestamp":1774008817704}@@to:: "An unconscious optimizer pursuing goals misaligned with human values would be just as dangerous as a conscious one."
+--}
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?
