@@ -20,7 +20,7 @@ to:: "competent safety design shouldn't fail from scrutiny"
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### Chat: Discussion
+#### {--{"author":"AI","timestamp":1774006387775}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006387775}@@Chat++}
 instructions::
 The student just read a supplementary Q&A from the book's website about whether discussing AI dangers publicly could give AIs bad ideas.
 

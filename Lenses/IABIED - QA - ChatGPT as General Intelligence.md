@@ -20,7 +20,7 @@ to:: "weakly smarter-than-human without being superintelligent"
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### Chat: Discussion
+#### {--{"author":"AI","timestamp":1774006398841}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006398841}@@Chat++}
 instructions::
 The student just read a supplementary Q&A from the book's website about whether ChatGPT is already a general intelligence.
 

@@ -19,7 +19,7 @@ to:: "we shouldn't drink the poison."
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### Chat: Discussion
+#### {--{"author":"AI","timestamp":1774006397644}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006397644}@@Chat++}
 instructions::
 The student just read a supplementary Q&A from the book's website about whether there's at least a chance of AI keeping humans alive.
 TLDR: While technically possible, the authors compare hope for AI preservation to surviving poison through miraculous medicine -- not a reason to drink the poison. The overwhelming probability is that unaligned superintelligent AI kills everyone, and we should focus on prevention rather than hoping for unlikely good outcomes.

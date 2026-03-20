@@ -19,7 +19,7 @@ to:: "Getting theories right on the first critical attempt proves extraordinaril
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### Chat: Discussion
+#### {--{"author":"AI","timestamp":1774006388650}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006388650}@@Chat++}
 instructions::
 The student just read an extended discussion from the book's website about the Before/After problem in AI alignment.
 TLDR: Alignment must be established before AI is dangerous but must hold after conditions change dramatically — and you can't safely test under the real conditions that matter, like how Newtonian mechanics worked perfectly until relativistic speeds revealed its limits.

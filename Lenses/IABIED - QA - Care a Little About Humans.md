@@ -19,7 +19,7 @@ to:: "Without the AI caring about humans through precisely the right mechanisms,
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### Chat: Discussion
+#### {--{"author":"AI","timestamp":1774006392211}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006392211}@@Chat++}
 instructions::
 The student just read a supplementary Q&A from the book's website about whether AIs caring at least a little about humans would be enough.
 TLDR: Alignment isn't one-dimensional -- there are many ways to "partially care" about humans that lead to catastrophic outcomes. The list of failure modes (granting wishes unsafely, isolating humans, locking in values from one time period, digitizing brains) shows how narrow the target of genuine beneficial alignment really is.
