@@ -1,7 +1,8 @@
 ---
 title: "Don't hallucinations show that modern AIs are weak?"
 source_url: https://ifanyonebuildsit.com/2/dont-hallucinations-show-that-modern-ais-are-weak
-author:
+{++{"author":"AI","timestamp":1774006750187}@@published: 2025-09-16
+++}author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:
