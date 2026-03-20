@@ -19,7 +19,7 @@ to:: "Even without knowing exactly what superintelligence would want, we have st
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### Chat: Discussion
+#### {--{"author":"AI","timestamp":1774006565511}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006565511}@@Chat++}
 instructions::
 The student just read a supplementary Q&A from the book's website about terminal goals versus instrumental goals.
 TLDR: Terminal goals are valued for their own sake; instrumental goals are means to ends. Many wildly different terminal goals converge on the same dangerous instrumental goals (self-preservation, resource acquisition, infrastructure building), making AI risk predictable even without knowing its exact desires.

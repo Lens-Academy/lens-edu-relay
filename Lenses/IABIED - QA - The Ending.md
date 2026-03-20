@@ -20,7 +20,7 @@ to:: "illustrating how 'many paths lead to the same destination' rather than cla
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### Chat: Discussion
+#### {--{"author":"AI","timestamp":1774006573989}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006573989}@@Chat++}
 instructions::
 The student just read a supplementary Q&A from the book's website about why the ending depicts specific speculative technologies and cosmic-scale consequences.
 
