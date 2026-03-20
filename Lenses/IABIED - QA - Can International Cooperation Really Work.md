@@ -8,9 +8,9 @@ tags:
   - work-in-progress
 ---
 
-### Page
+{--{"author":"AI","timestamp":1774007655851}@@### Page
 
-#### Text
+--}#### Text
 content::
 This is supplementary material from the book's online resources at ifanyonebuildsit.com/13. It addresses the feasibility objection: "Can international cooperation really work to halt AI development worldwide?"
 

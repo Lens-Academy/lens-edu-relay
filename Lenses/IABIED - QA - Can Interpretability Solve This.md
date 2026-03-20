@@ -8,9 +8,9 @@ tags:
   - work-in-progress
 ---
 
-### Page
+{--{"author":"AI","timestamp":1774007656866}@@### Page
 
-#### Text
+--}#### Text
 content::
 This is supplementary material from the book's online resources at ifanyonebuildsit.com/11. It addresses whether interpretability research — the effort to understand what's happening inside AI systems — could solve the alignment problem.
 

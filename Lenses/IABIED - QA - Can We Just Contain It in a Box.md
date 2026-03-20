@@ -8,9 +8,9 @@ tags:
   - work-in-progress
 ---
 
-### Page
+{--{"author":"AI","timestamp":1774007657526}@@### Page
 
-#### Text
+--}#### Text
 content::
 This is supplementary material from the book's online resources at ifanyonebuildsit.com/6. It addresses the containment objection: "Can't we just keep it in a box, disconnected from the internet?"
 

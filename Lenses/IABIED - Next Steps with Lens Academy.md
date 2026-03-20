@@ -7,9 +7,9 @@ tags:
   - work-in-progress
 ---
 
-### Page
+{--{"author":"AI","timestamp":1774007654796}@@### Page
 
-#### Text
+--}#### Text
 content::
 Congratulations on completing the IABIED book club! If you want to go deeper into AI safety concepts, Lens Academy offers a more technical AI Safety Course that builds on the foundations you've developed here.
 
