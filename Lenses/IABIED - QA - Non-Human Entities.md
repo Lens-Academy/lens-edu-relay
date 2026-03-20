@@ -19,7 +19,7 @@ to:: "The apparent conflict between human welfare and universal values is illuso
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### {--{"author":"AI","timestamp":1774006515341}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006515341}@@Chat++}
+#### Chat
 instructions::
 The student just read a supplementary Q&A from the book's website about why the authors focus on human values rather than all entities.
 TLDR: The authors do care about non-human entities and cosmopolitan values, but argue that most possible minds don't endorse cosmopolitanism. Building unaligned superintelligence would prevent diverse civilizations from flourishing, making human safety and cosmopolitan values aligned rather than conflicting.

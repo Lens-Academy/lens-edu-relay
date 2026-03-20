@@ -1,5 +1,5 @@
 ---
-id: {--{"author":"AI","timestamp":1774007142412}@@ce0bfb7a-a07c-48a0-a998-f529e368d257--}{++{"author":"AI","timestamp":1774007142412}@@5ffa8d76-ed27-4fd0-b423-fa9f8d2b7563++}
+id: 5ffa8d76-ed27-4fd0-b423-fa9f8d2b7563
 title: The Tale of Chicago Pile-1
 tags:
   - lens
@@ -19,7 +19,7 @@ to:: "This historical example illuminates contemporary challenges in artificial 
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### {--{"author":"AI","timestamp":1774006400075}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006400075}@@Chat++}
+#### Chat
 instructions::
 The student just read an extended discussion from the book's website about Chicago Pile-1 and Fermi's management of the first nuclear chain reaction.
 TLDR: Fermi safely managed the first nuclear chain reaction not through bureaucratic safety measures but through deep theoretical understanding of the physics — and AI alignment currently lacks this level of understanding.

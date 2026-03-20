@@ -19,7 +19,7 @@ to:: "perception alters through stimulus timing rather than sensory input modifi
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### {--{"author":"AI","timestamp":1774006526062}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006526062}@@Chat++}
+#### Chat
 instructions::
 The student just read a supplementary Q&A from the book's website about how researchers now systematically construct new optical illusions from first principles.
 TLDR: Modern understanding of human visual processing allows researchers to construct new optical illusions from first principles rather than discovering them accidentally. This includes illusions that cause physical pupil dilation and "impossible" color sensations. The broader implication: understanding a system's architecture enables systematic exploitation of its vulnerabilities -- relevant to how a superintelligence might manipulate humans.

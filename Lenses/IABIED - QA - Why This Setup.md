@@ -20,7 +20,7 @@ to:: "optimistic stories tend to rely on the AI being unrealistically easy to al
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### {--{"author":"AI","timestamp":1774006587202}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006587202}@@Chat++}
+#### Chat
 instructions::
 The student just read a supplementary Q&A from the book's website about why the authors chose this particular narrative setup for Part II's fictional scenario.
 

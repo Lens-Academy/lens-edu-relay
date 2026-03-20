@@ -1,8 +1,8 @@
 ---
 title: "Won't the most reckless companies naturally be the most incompetent, and thus not a threat?"
 source_url: https://ifanyonebuildsit.com/11/wont-the-most-reckless-companies-naturally-be-the-most-incompetent-and-thus-not-a-threat
-{++{"author":"AI","timestamp":1774006734534}@@published: 2025-09-16
-++}author:
+published: 2025-09-16
+author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

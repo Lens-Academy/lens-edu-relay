@@ -1,5 +1,5 @@
 ---
-id: {--{"author":"AI","timestamp":1774007142933}@@e2d3e554-c4ee-46f9-b9a1-96984c80b23f--}{++{"author":"AI","timestamp":1774007142933}@@b5559f42-dbf6-4385-8117-69783eee35e1++}
+id: b5559f42-dbf6-4385-8117-69783eee35e1
 title: "Isn't it important to race ahead because of 'hardware overhang'?"
 tags:
   - lens
@@ -19,7 +19,7 @@ to:: "We think this is a decent case study in how executives at AI companies wil
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### {--{"author":"AI","timestamp":1774006439013}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006439013}@@Chat++}
+#### Chat
 instructions::
 The student just read a supplementary Q&A from the book's website about whether racing ahead in AI development prevents hardware overhang.
 TLDR: Racing ahead doesn't solve alignment — intelligence has threshold effects, and growing more AIs faster is a non sequitur when nobody knows how to make AIs robustly care about what designers want.

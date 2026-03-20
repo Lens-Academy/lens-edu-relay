@@ -19,7 +19,7 @@ to:: "Superintelligences pursuing their own objectives have no reason to priorit
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### {--{"author":"AI","timestamp":1774006538740}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006538740}@@Chat++}
+#### Chat
 instructions::
 The student just read a supplementary Q&A from the book's website about whether we can make AI promise to be friendly.
 TLDR: Promises from AI are worthless because we can't verify sincerity, and once an AI reaches superintelligence, we lose all leverage to enforce agreements. The incentive structure means a deceptive AI faces no penalty for breaking promises.

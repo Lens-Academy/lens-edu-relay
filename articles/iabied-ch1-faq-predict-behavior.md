@@ -1,8 +1,8 @@
 ---
 title: "Isn't it impossible to predict the behavior of a superintelligence?"
 source_url: https://ifanyonebuildsit.com/1/isnt-it-impossible-to-predict-the-behavior-of-a-superintelligence
-{++{"author":"AI","timestamp":1774006694253}@@published: 2025-09-16
-++}author:
+published: 2025-09-16
+author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

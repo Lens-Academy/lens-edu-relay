@@ -1,8 +1,8 @@
 ---
 title: "How long would it take to solve the ASI alignment problem?"
 source_url: https://ifanyonebuildsit.com/10/how-long-would-it-take-to-solve-the-asi-alignment-problem
-{++{"author":"AI","timestamp":1774006717777}@@published: 2025-09-16
-++}author:
+published: 2025-09-16
+author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

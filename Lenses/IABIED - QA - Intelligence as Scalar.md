@@ -1,5 +1,5 @@
 ---
-id: {--{"author":"AI","timestamp":1774007012698}@@01eaea0b-9f02-4b76-aef4-e5617addddf6--}{++{"author":"AI","timestamp":1774007012698}@@a8fd7f0e-f120-4695-bdb2-69fdda698bae++}
+id: a8fd7f0e-f120-4695-bdb2-69fdda698bae
 title: "Is 'intelligence' a simple scalar quantity?"
 tags:
   - lens
@@ -20,7 +20,7 @@ to:: "separate species in fundamental ways"
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### {--{"author":"AI","timestamp":1774006459344}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006459344}@@Chat++}
+#### Chat
 instructions::
 The student just read a supplementary Q&A from the book's website about whether intelligence is a simple scalar quantity.
 

@@ -1,8 +1,8 @@
 ---
 title: "Won't the situation get better once governments get more involved?"
 source_url: https://ifanyonebuildsit.com/11/wont-the-situation-get-better-once-governments-get-more-involved
-{++{"author":"AI","timestamp":1774006723365}@@published: 2025-09-16
-++}author:
+published: 2025-09-16
+author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

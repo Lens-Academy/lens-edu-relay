@@ -1,5 +1,5 @@
 ---
-id: {--{"author":"AI","timestamp":1774007019310}@@08d61baf-f061-42a2-9686-ca4dc622043d--}{++{"author":"AI","timestamp":1774007019310}@@a8935422-f09d-424c-a562-282d3f93e3f1++}
+id: a8935422-f09d-424c-a562-282d3f93e3f1
 title: "Are you suggesting that ChatGPT could kill us all?"
 tags:
   - lens
@@ -20,7 +20,7 @@ to:: "justify an aggressive international response today"
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### {--{"author":"AI","timestamp":1774006403329}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006403329}@@Chat++}
+#### Chat
 instructions::
 The student just read a supplementary Q&A from the book's website about whether ChatGPT specifically is the threat (it isn't — the concern is about the trajectory toward superintelligence).
 

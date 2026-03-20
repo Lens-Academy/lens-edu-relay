@@ -1,8 +1,8 @@
 ---
 title: "Won't we just muddle through, like always?"
 source_url: https://ifanyonebuildsit.com/11/wont-we-just-muddle-through-like-always
-{++{"author":"AI","timestamp":1774006730817}@@published: 2025-09-16
-++}author:
+published: 2025-09-16
+author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

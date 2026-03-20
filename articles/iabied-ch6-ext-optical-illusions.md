@@ -1,8 +1,8 @@
 ---
 title: "A New Way to Discover Optical Illusions"
 source_url: https://ifanyonebuildsit.com/6/a-new-way-to-discover-optical-illusions
-{++{"author":"AI","timestamp":1774006901292}@@published: 2025-09-16
-++}author:
+published: 2025-09-16
+author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

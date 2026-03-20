@@ -1,8 +1,8 @@
 ---
 title: "Are you just pessimistic?"
 source_url: https://ifanyonebuildsit.com/5/are-you-just-pessimistic
-{++{"author":"AI","timestamp":1774006879338}@@published: 2025-09-16
-++}author:
+published: 2025-09-16
+author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

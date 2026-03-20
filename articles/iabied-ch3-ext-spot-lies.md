@@ -1,8 +1,8 @@
 ---
 title: "Smart AIs Spot Lies and Opportunities"
 source_url: https://ifanyonebuildsit.com/3/smart-ais-spot-lies-and-opportunities
-{++{"author":"AI","timestamp":1774006779427}@@published: 2025-09-16
-++}author:
+published: 2025-09-16
+author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

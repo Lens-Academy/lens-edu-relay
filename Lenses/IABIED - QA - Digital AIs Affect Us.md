@@ -1,5 +1,5 @@
 ---
-id: {--{"author":"AI","timestamp":1774007056503}@@59da6629-4a48-4296-a2e4-52fa6af3febc--}{++{"author":"AI","timestamp":1774007056503}@@02188337-ed24-4043-a42d-d3cc6945d58a++}
+id: 02188337-ed24-4043-a42d-d3cc6945d58a
 title: "How will AIs be able to affect us if they're digital?"
 tags:
   - lens
@@ -19,7 +19,7 @@ to:: "a failure of imagination, where people don't imagine the AI even being as 
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### {--{"author":"AI","timestamp":1774006410237}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006410237}@@Chat++}
+#### Chat
 instructions::
 The student just read a supplementary Q&A from the book's website about how digital AIs could affect the physical world.
 TLDR: Being digital and internet-connected provides enormous capabilities. AIs can pay, blackmail, trick, or ask humans for help (like criminals running empires from prison). Real examples show AIs already organizing physical events. Robots, biolabs, and social engineering provide additional channels for physical world intervention.
