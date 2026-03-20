@@ -19,7 +19,7 @@ to:: "The outcome would be unpredictable but almost certainly undesirable."
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### Chat: Discussion
+#### {--{"author":"AI","timestamp":1774006367238}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006367238}@@Chat++}
 instructions::
 The student just read a supplementary Q&A from the book's website about whether AI would treat humans as its "parents."
 TLDR: Filial responsibility is rare even in the animal kingdom and depends on specific evolutionary conditions that don't apply to AI. Even if an AI developed something like parental love, the distorted version (analogous to how humans care about correlates of fitness, not fitness itself) would likely produce bizarre and undesirable outcomes.

@@ -20,7 +20,7 @@ to:: "Where should such a line be drawn?"
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### Chat: Discussion
+#### {--{"author":"AI","timestamp":1774006367779}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006367779}@@Chat++}
 instructions::
 The student just read a supplementary Q&A from the book's website about whether AIs are "just math."
 

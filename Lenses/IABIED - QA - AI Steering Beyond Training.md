@@ -20,7 +20,7 @@ to:: "weird AI behaviors visible in edge cases may foreshadow what happens when 
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### Chat: Discussion
+#### {--{"author":"AI","timestamp":1774006366541}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006366541}@@Chat++}
 instructions::
 The student just read a supplementary Q&A from the book's website about why AIs might steer toward goals different from their training objectives.
 

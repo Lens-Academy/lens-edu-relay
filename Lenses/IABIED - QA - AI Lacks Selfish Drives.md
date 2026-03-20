@@ -19,7 +19,7 @@ to:: "danger comes from the work of resource acquisition, not the emotional moti
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### Chat: Discussion
+#### {--{"author":"AI","timestamp":1774006364676}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006364676}@@Chat++}
 instructions::
 The student just read a supplementary Q&A from the book's website about whether AI would lack dangerous evolved drives like selfishness.
 TLDR: An AI doesn't need human-style greed or aggression to be dangerous. Resource acquisition driven by cold calculation produces the same outcomes as resource acquisition driven by emotional greed. The coffee-fetching robot avoids trucks not from self-preservation instinct but from instrumental reasoning.
