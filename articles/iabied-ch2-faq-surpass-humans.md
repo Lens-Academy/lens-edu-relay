@@ -1,7 +1,8 @@
 ---
 title: "How could an AI trained only on human data surpass humans?"
 source_url: https://ifanyonebuildsit.com/2/how-could-an-ai-trained-only-on-human-data-surpass-humans
-author:
+{++{"author":"AI","timestamp":1774006772533}@@published: 2025-09-16
+++}author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

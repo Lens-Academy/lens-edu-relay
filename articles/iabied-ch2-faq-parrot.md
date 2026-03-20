@@ -1,7 +1,8 @@
 ---
 title: "Aren't AIs only able to parrot back what humans say?"
 source_url: https://ifanyonebuildsit.com/2/arent-ais-only-able-to-parrot-back-what-humans-say
-author:
+{++{"author":"AI","timestamp":1774006764335}@@published: 2025-09-16
+++}author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:
