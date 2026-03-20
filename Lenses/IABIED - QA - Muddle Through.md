@@ -1,5 +1,5 @@
 ---
-id: 8c028985-0717-4a0c-a5a3-4d4c8614d1c8
+id: {--{"author":"AI","timestamp":1774007084494}@@8c028985-0717-4a0c-a5a3-4d4c8614d1c8--}{++{"author":"AI","timestamp":1774007084494}@@b92fbed7-e6c7-4ba7-922e-bd0898bb186e++}
 title: "Won't we just muddle through, like always?"
 tags:
   - lens

@@ -1,5 +1,5 @@
 ---
-id: 842dbf1d-8971-4619-a978-3432e169519c
+id: {--{"author":"AI","timestamp":1774007080046}@@842dbf1d-8971-4619-a978-3432e169519c--}{++{"author":"AI","timestamp":1774007080046}@@f9e787b3-476e-436e-9967-5428976c79e7++}
 title: "Won't AI differ from all the historical precedents?"
 tags:
   - lens

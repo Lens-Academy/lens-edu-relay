@@ -1,5 +1,5 @@
 ---
-id: 9f2acee2-c3a8-4b6a-bb3d-f8d9e5deeff5
+id: {--{"author":"AI","timestamp":1774007086515}@@9f2acee2-c3a8-4b6a-bb3d-f8d9e5deeff5--}{++{"author":"AI","timestamp":1774007086515}@@8402298b-c7d7-47f9-8038-6ed621dc98cd++}
 title: "Can we just pull the plug?"
 tags:
   - lens
