@@ -13,8 +13,8 @@ This extended discussion examines how modern neuroscience enables researchers to
 
 #### Article
 source:: [[../articles/iabied-ch6-ext-optical-illusions]]
-to:: "perception alters through stimulus timing rather than sensory input modification alone."
-
+{--{"author":"AI","timestamp":1774009177160}@@to:: "perception alters through stimulus timing rather than sensory input modification alone."
+--}
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

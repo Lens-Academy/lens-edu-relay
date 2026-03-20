@@ -14,8 +14,8 @@ This extended discussion argues that popular culture systematically underestimat
 
 #### Article
 source:: [[../articles/iabied-ch1-ext-power-intelligence]]
-to:: "you'll badly misunderstand what it means for humanity to build a superintelligence"
-
+{--{"author":"AI","timestamp":1774009183059}@@to:: "you'll badly misunderstand what it means for humanity to build a superintelligence"
+--}
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

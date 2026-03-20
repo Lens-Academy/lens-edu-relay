@@ -14,8 +14,8 @@ This Q&A addresses the common dismissal that people are always overreacting to n
 
 #### Article
 source:: [[../articles/iabied-intro-faq-panicking-overreacting]]
-to:: "you have to actually look at the details of each case"
-
+{--{"author":"AI","timestamp":1774009180515}@@to:: "you have to actually look at the details of each case"
+--}
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

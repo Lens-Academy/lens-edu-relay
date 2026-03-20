@@ -14,8 +14,8 @@ Chapter 3 addresses the intuitive solution of simply making AIs more passive. Th
 
 #### Article
 source:: [[../articles/iabied-ch3-faq-passive-docile]]
-to:: "making AIs both capable and controllable simultaneously."
-
+{--{"author":"AI","timestamp":1774009181993}@@to:: "making AIs both capable and controllable simultaneously."
+--}
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?
