@@ -1,7 +1,8 @@
 ---
 title: "How will AIs be able to affect us if they're digital?"
 source_url: https://ifanyonebuildsit.com/6/how-will-ais-be-able-to-affect-us-if-theyre-digital
-author:
+{++{"author":"AI","timestamp":1774006902542}@@published: 2025-09-16
+++}author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

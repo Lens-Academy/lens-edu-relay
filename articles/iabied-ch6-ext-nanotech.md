@@ -1,7 +1,8 @@
 ---
 title: "Nanotechnology and Protein Synthesis"
 source_url: https://ifanyonebuildsit.com/6/nanotechnology-and-protein-synthesis
-author:
+{++{"author":"AI","timestamp":1774006899991}@@published: 2025-09-16
+++}author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:
