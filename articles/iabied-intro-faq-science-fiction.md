@@ -1,7 +1,8 @@
 ---
 title: "Isn't this AI stuff just science fiction?"
 source_url: https://ifanyonebuildsit.com/intro/isnt-this-ai-stuff-just-science-fiction
-author:
+{++{"author":"AI","timestamp":1774006945453}@@published: 2025-09-16
+++}author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:
