@@ -13,8 +13,8 @@ This Q&A examines whether human augmentation (brain-computer interfaces, etc.) c
 
 #### Article
 source:: [[../articles/iabied-ch6-faq-enhance-humans]]
-to:: "What does it matter if a human can download experiences from the internet and control ten computers at once with their mind, if an AI can do the same thing -- but ten thousand times faster?"
-
+{--{"author":"AI","timestamp":1774008904200}@@to:: "What does it matter if a human can download experiences from the internet and control ten computers at once with their mind, if an AI can do the same thing -- but ten thousand times faster?"
+--}
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

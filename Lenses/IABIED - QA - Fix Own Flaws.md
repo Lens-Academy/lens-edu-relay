@@ -14,8 +14,8 @@ Chapter 4 argues that training doesn't produce intended goals. This Q&A tackles 
 
 #### Article
 source:: [[../articles/iabied-ch4-faq-fix-flaws]]
-to:: "Current AIs' apparent helpfulness provides no guarantee of their ultimate goals when more capable"
-
+{--{"author":"AI","timestamp":1774008912255}@@to:: "Current AIs' apparent helpfulness provides no guarantee of their ultimate goals when more capable"
+--}
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

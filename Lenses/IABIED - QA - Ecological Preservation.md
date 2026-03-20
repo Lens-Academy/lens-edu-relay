@@ -13,8 +13,8 @@ This Q&A examines whether an AI might preserve humanity out of ecological or con
 
 #### Article
 source:: [[../articles/iabied-ch5-faq-ecological]]
-to:: "any preservation drive that makes it into the AI won't necessarily result in beneficial outcomes for humanity, since the AI's values would remain fundamentally alien and unpredictable."
-
+{--{"author":"AI","timestamp":1774008901977}@@to:: "any preservation drive that makes it into the AI won't necessarily result in beneficial outcomes for humanity, since the AI's values would remain fundamentally alien and unpredictable."
+--}
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?
