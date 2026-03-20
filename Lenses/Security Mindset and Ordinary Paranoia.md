@@ -1,6 +1,7 @@
 ---
 id: c549ae1c-9bab-4c11-ae9b-2c8876265a24
-tldr: Standard engineering asks "does this work?" The security mindset asks "how does this fail when something is actively trying to break it?" This article argues that building safe AI requires thinking borrowed from cryptography — not piling up defenses, but designing systems where safety doesn't depend on outsmarting what you're containing.
+{++{"author":"AI","timestamp":1773996687618}@@title: Security Mindset and Ordinary Paranoia
+++}tldr: Standard engineering asks "does this work?" The security mindset asks "how does this fail when something is actively trying to break it?" This article argues that building safe AI requires thinking borrowed from cryptography — not piling up defenses, but designing systems where safety doesn't depend on outsmarting what you're containing.
 ---
 {--{"author":"AI","timestamp":1773947159235}@@### Article: Security Mindset and Ordinary Paranoia
 source:: [[../articles/yudkowsky-security-mindset-and-ordinary-paranoia|yudkowsky-security-mindset-and-ordinary-paranoia]]
