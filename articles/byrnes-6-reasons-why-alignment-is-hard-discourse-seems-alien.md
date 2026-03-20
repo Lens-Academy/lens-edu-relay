@@ -104,7 +104,7 @@ In human experience, it is totally normal and good for desires to change over ti
 
 …And so on. Anyway, openness-to-change, in the right context, is great. Indeed, even our meta-preferences concerning desire-changes are *themselves* subject to change, and we’re generally OK with that too.{--{"author":"AI","timestamp":1774022804315}@@<sup><span><span></span><a href="https://www.lesswrong.com/posts/d4HNRdw6z7Xqbnu5E/#fnhh3lpa0k2ic" class="">[5]</a></span></sup>--}{++{"author":"AI","timestamp":1774022804315}@@[^5]++}
 
-Whereas if you’re thinking about an AI agent with foresight, planning, and situational awareness (whether it’s a utility maximizer, or a model-based RL agent<sup><span><span></span><a href="https://www.lesswrong.com/posts/d4HNRdw6z7Xqbnu5E/#fnqqxj0hdplko" class="">[6]</a></span></sup>, etc.), this kind of preference is a weird anomaly, *not* a normal expectation. The default instead is [instrumental convergence](https://www.lesswrong.com/w/instrumental-convergence): if I want to cure cancer, then I (incidentally) want to continue wanting to cure cancer until it’s cured.
+Whereas if you’re thinking about an AI agent with foresight, planning, and situational awareness (whether it’s a utility maximizer, or a model-based RL agent{--{"author":"AI","timestamp":1774022807859}@@<sup><span><span></span><a href="https://www.lesswrong.com/posts/d4HNRdw6z7Xqbnu5E/#fnqqxj0hdplko" class="">[6]</a></span></sup>--}{++{"author":"AI","timestamp":1774022807859}@@[^6]++}, etc.), this kind of preference is a weird anomaly, *not* a normal expectation. The default instead is [instrumental convergence](https://www.lesswrong.com/w/instrumental-convergence): if I want to cure cancer, then I (incidentally) want to continue wanting to cure cancer until it’s cured.
 
 Why the difference? Well, it comes right from that diagram in §0.3 just above. For Approval-Reward-free AGIs (which I see as “default”), their self-reflective (meta)desires are subservient to their object-level desires.
 
@@ -112,7 +112,7 @@ Goal-preservation follows: if the AGI wants object-level-thing X to happen next 
 
 By contrast, in humans, self-reflective preferences mostly come from Approval Reward. By and large, our “true”, endorsed desires are approximately whatever kinds of desires would impress our friends and idols, if they could read our minds. (They can’t actually read our minds—but our own reward function can!)
 
-This pathway does not generate any particular force for desire preservation.<sup><span><span></span><a href="https://www.lesswrong.com/posts/d4HNRdw6z7Xqbnu5E/#fna9nn1dnpgxq" class="">[7]</a></span></sup> If our friends and idols would be impressed by desires that change over time, then that’s generally what we want for ourselves as well.
+This pathway does not generate any particular force for desire preservation.{--{"author":"AI","timestamp":1774022811792}@@<sup><span><span></span><a href="https://www.lesswrong.com/posts/d4HNRdw6z7Xqbnu5E/#fna9nn1dnpgxq" class="">[7]</a></span></sup>--}{++{"author":"AI","timestamp":1774022811792}@@[^7]++} If our friends and idols would be impressed by desires that change over time, then that’s generally what we want for ourselves as well.
 
 # 2. The human intuition that ego-syntonic “desires” come from a fundamentally different place than “urges”
 
@@ -130,7 +130,7 @@ Start with the former. Humans often have conflicts between ego-syntonic self-ref
 
 By contrast, I happen to expect AGIs, by default (in the absence of Approval Reward or similar), to mainly have object-level, non-self-reflective desires. For such AGIs, I don’t expect self-reflection to lead to much desire change. Really, it shouldn’t lead to any change more interesting than pursuing its existing desires more effectively.
 
-(Of course, such an AGI may feel torn between conflicting object-level desires, but I don’t think that leads to the kinds of internal battles that we’re used to from humans.<sup><span><span></span><a href="https://www.lesswrong.com/posts/d4HNRdw6z7Xqbnu5E/#fnt6pgf3acqri" class="">[8]</a></span></sup>)
+(Of course, such an AGI may feel torn between conflicting object-level desires, but I don’t think that leads to the kinds of internal battles that we’re used to from humans.{--{"author":"AI","timestamp":1774022816454}@@<sup><span><span></span><a href="https://www.lesswrong.com/posts/d4HNRdw6z7Xqbnu5E/#fnt6pgf3acqri" class="">[8]</a></span></sup>--}{++{"author":"AI","timestamp":1774022816454}@@[^8]++})
 
 (To be clear, reflection in Approval-Reward-free AGIs might still have [“complications”](https://www.lesswrong.com/posts/rQDCQxuCRrrN4ujAe/jeremy-gillen-s-shortform?commentId=vYdtN3nHEtJfgjSSB) of other sorts, such as [ontological crises](https://www.lesswrong.com/w/ontological-crisis).)
 
@@ -164,7 +164,7 @@ Moreover, everyone has gotten very used to this fact about human nature. Thus, d
 
 As an example, I like to bring up Earning To Give (EtG) in Effective Altruism, the idea of getting a higher-paying job in order to earn money and give it to charity. If you tell a normal non-nerdy person about EtG, they’ll generally assume that it’s an obvious lie, and that the person actually wants the higher-paying job for its perks and status. That’s how weird it is—it doesn’t even cross most people’s minds that someone is actually doing a socially-frowned-upon plan because of its expected long-term consequences, unless the person is a psycho. …Well, that’s less true now than a decade ago; EtG has become more common, probably because (you guessed it) there’s now a community in which EtG is socially admirable.
 
-Related: there’s a [fiction trope](https://tvtropes.org/pmwiki/pmwiki.php/Main/VillainsActHeroesReact) that basically only villains are allowed to make out-of-the-box plans and display intelligence. The normal way to write a hero in a work of fiction is to have conflicts between doing things that have strong immediate social approval, versus doing things for other reasons (e.g. fear, hunger, logic(!)), and to have the former win out over the latter in the mind of the hero. And then the hero pursues the immediate-social-approval option with *such gusto* that everyone lives happily ever after.<sup><span><span></span><a href="https://www.lesswrong.com/posts/d4HNRdw6z7Xqbnu5E/#fnspf3e8rswz" class="">[9]</a></span></sup>
+Related: there’s a [fiction trope](https://tvtropes.org/pmwiki/pmwiki.php/Main/VillainsActHeroesReact) that basically only villains are allowed to make out-of-the-box plans and display intelligence. The normal way to write a hero in a work of fiction is to have conflicts between doing things that have strong immediate social approval, versus doing things for other reasons (e.g. fear, hunger, logic(!)), and to have the former win out over the latter in the mind of the hero. And then the hero pursues the immediate-social-approval option with *such gusto* that everyone lives happily ever after.{--{"author":"AI","timestamp":1774022820231}@@<sup><span><span></span><a href="https://www.lesswrong.com/posts/d4HNRdw6z7Xqbnu5E/#fnspf3e8rswz" class="">[9]</a></span></sup>--}{++{"author":"AI","timestamp":1774022820231}@@[^9]++}
 
 That’s all in the human world. Meanwhile in AI, the alignment-is-hard thinkers like me generally expect that future powerful AIs will lack Approval Reward, or anything like it. Instead, they generally assume that the agent will have preferences about the future, and make decisions so as to bring about those preferences, not just as a tie-breaker on the margin, but as the main event. Hence [instrumental convergence](https://www.lesswrong.com/w/instrumental-convergence). I think this is exactly the right assumption (in the absence of a specific designed mechanism to prevent that), but I think people react with disbelief when we start describing how these AI agents behave, since it’s so different from humans.
 
@@ -190,7 +190,7 @@ If you extend this “Security Mindset Institution Design” attitude to an actu
 
 ## 5.2 The load-bearing ingredient in human society is not Security-Mindset Institution Design, but rather good-enough institutions plus almost-universal human innate Approval Reward
 
-Meanwhile, ordinary readers<sup><span><span></span><a href="https://www.lesswrong.com/posts/d4HNRdw6z7Xqbnu5E/#fn704yaxlxnqv" class="">[10]</a></span></sup> might be shaking their heads and saying:
+Meanwhile, ordinary readers{--{"author":"AI","timestamp":1774022823861}@@<sup><span><span></span><a href="https://www.lesswrong.com/posts/d4HNRdw6z7Xqbnu5E/#fn704yaxlxnqv" class="">[10]</a></span></sup>--}{++{"author":"AI","timestamp":1774022823861}@@[^10]++} might be shaking their heads and saying:
 
 *“Man, what kind of strange alien world is being described in that subsection above? High-trust societies with robust functional institutions are obviously possible! I live in one!”*
 
