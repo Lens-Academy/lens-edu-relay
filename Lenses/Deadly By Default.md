@@ -1,13 +1,10 @@
 ---
 id: e2c85826-d6f4-431b-b036-23de8e48b479
-{++{"author":"AI","timestamp":1773996638253}@@title: Deadly By Default
-++}tags:
+title: Deadly By Default
+tags:
   - lens
 ---
-{--{"author":"AI","timestamp":1773946866033}@@### Article: Deadly By Default
-source:: [[../articles/Duncan, Deadly By Default]]
-
---}#### Text
+#### Text
 content::
 While the first text argued that the course of history appears different depending on the predictive model used, the next explains why, in the field of AI, we can’t simply count on a positive outcome by default.
 
@@ -16,8 +13,8 @@ The main idea: catastrophic outcomes don't require malicious intent. They can ar
 
 The question this text addresses is: if we cannot confidently predict the exact shape of the future, what is a reasonable baseline hypothesis to adopt regarding powerful AI systems?
 
-#### {--{"author":"AI","timestamp":1773946915713}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946915713}@@Article
-source:: [[../articles/Duncan, Deadly By Default]]++}
+#### Article
+source:: [[../articles/Duncan, Deadly By Default]]
 
 #### Text
 content::

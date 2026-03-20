@@ -4,9 +4,9 @@ slug: coming-soon
 title: Coming soon!
 ---
 
-# {--{"author":"AI","timestamp":1773948197232}@@Page:--}{++{"author":"AI","timestamp":1773948197232}@@Lens:++} Coming Soon
+# Lens: Coming Soon
 id:: b2c3d4e5-6789-01bc-def2-3456789012cd
-{--{"author":"AI","timestamp":1773948197232}@@##--}{++{"author":"AI","timestamp":1773948197232}@@####++} Text
+#### Text
 content:: 
 Coming soon!
 

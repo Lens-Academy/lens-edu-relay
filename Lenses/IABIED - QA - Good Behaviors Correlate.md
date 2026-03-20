@@ -1,21 +1,18 @@
 ---
 id: 3dba768a-c3e4-4a7c-8063-9bf1ce403513
-{++{"author":"AI","timestamp":1773997861176}@@title: "What about the experimental result suggesting good behaviors correlate?"
-++}tags:
+title: "What about the experimental result suggesting good behaviors correlate?"
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1773946131800}@@### Article: What about the experimental result suggesting good behaviors correlate?
-source:: [[../articles/iabied-ch4-faq-good-behaviors]]
-
---}#### Text
+#### Text
 content::
 This Q&A examines an experimental finding that bad behaviors in AI tend to correlate (e.g., an AI trained to write flawed code also exhibited other problematic behaviors). While this is framed as a minor positive update, the authors argue it tells us little about genuine alignment, since surface behavior can mask fundamentally alien motivational structures.
 
-#### {--{"author":"AI","timestamp":1773946131800}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946131800}@@Article
-source:: [[../articles/iabied-ch4-faq-good-behaviors]]++}
+#### Article
+source:: [[../articles/iabied-ch4-faq-good-behaviors]]
 to:: "AIs that are animated by a complex collection of drives that point who-knows-where."
 
 #### Text

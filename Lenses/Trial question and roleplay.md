@@ -1,13 +1,12 @@
 ---
 id: 8189763f-576e-4f04-a614-4a00c628e386
-{++{"author":"AI","timestamp":1773996958335}@@title: Question and Roleplay Trial
-++}tags:
+title: Question and Roleplay Trial
+tags:
   - lens
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1773945790134}@@### Page: Question and Roleplay Trial
---}#### Text
+#### Text
 content::
 We'll be asking you some questions about X
 

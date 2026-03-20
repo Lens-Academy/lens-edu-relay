@@ -1,21 +1,18 @@
 ---
 id: 9b407edb-4d70-4eab-8393-a1b58ac31e6b
-{++{"author":"AI","timestamp":1773997999920}@@title: "Are you just pessimistic?"
-++}tags:
+title: "Are you just pessimistic?"
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1773946225520}@@### Article: Are you just pessimistic?
-source:: [[../articles/iabied-ch5-faq-pessimistic]]
-
---}#### Text
+#### Text
 content::
 This Q&A responds to the charge of pessimism. The authors clarify they are optimistic about many technologies but argue that superintelligent AI is fundamentally different because it can think for itself, plot escapes, and build more powerful technology. They reject the "truth is in the middle" approach, emphasizing that actual arguments -- not narrative balance -- should guide predictions.
 
-#### {--{"author":"AI","timestamp":1773946225520}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946225520}@@Article
-source:: [[../articles/iabied-ch5-faq-pessimistic]]++}
+#### Article
+source:: [[../articles/iabied-ch5-faq-pessimistic]]
 to:: "Understanding the problem matters for developing effective policy responses."
 
 #### Text

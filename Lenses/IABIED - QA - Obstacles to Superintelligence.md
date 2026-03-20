@@ -1,22 +1,19 @@
 ---
 id: 8c028985-0717-4a0c-a5a3-4d4c8614d1c8
-{++{"author":"AI","timestamp":1773998581587}@@title: "But aren't there big obstacles to reaching superintelligence?"
-++}tags:
+title: "But aren't there big obstacles to reaching superintelligence?"
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1773946352128}@@### Article: IABIED - QA - Obstacles to Superintelligence
-source:: [[../articles/iabied-ch1-faq-obstacles]]
-
---}#### Text
+#### Text
 content::
 This Q&A examines whether obstacles will prevent superintelligence from being built. The authors survey AI history — image recognition, Go, natural language — and show that every major obstacle was eventually overcome. With investment growing twentyfold since 2012, the pattern seems likely to continue.
 
-#### {--{"author":"AI","timestamp":1773946352128}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946352128}@@Article
-source:: [[../articles/iabied-ch1-faq-obstacles]]++}
+#### Article
+source:: [[../articles/iabied-ch1-faq-obstacles]]
 to:: "humanity intervenes through policy"
 
 #### Text

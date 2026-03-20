@@ -1,11 +1,8 @@
 ---
 id: b2c3d4e5-f6a7-8901-bcde-f23456789012
-{++{"author":"AI","timestamp":1773996953903}@@title: Understanding Existential Risk from AI
-++}---
-{--{"author":"AI","timestamp":1773947338884}@@### Article: Understanding Existential Risk from AI
-source:: [[../articles/wikipedia-existential-risk-from-ai]]
-
---}#### Text
+title: Understanding Existential Risk from AI
+---
+#### Text
 content::
 !# Understanding Existential Risk from AI
 
@@ -14,8 +11,8 @@ of existential threat: what capabilities of this technology are considered
 most concerning, and why the task of eliminating AI risks differs from
 similar tasks for other technologies.
 
-#### {--{"author":"AI","timestamp":1773947390775}@@Article-excerpt--}{++{"author":"AI","timestamp":1773947390775}@@Article
-source:: [[../articles/wikipedia-existential-risk-from-ai]]++}
+#### Article
+source:: [[../articles/wikipedia-existential-risk-from-ai]]
 from:: "**Existential risk from artificial intelligence**"
 to:: "improve their fundamental architecture."
 
@@ -48,7 +45,7 @@ Discussion topics:
 Ask what they found surprising or new. Check if they can explain the gorilla
 analogy in their own words—it's a key concept.
 
-#### {--{"author":"AI","timestamp":1773947404309}@@Article-excerpt--}{++{"author":"AI","timestamp":1773947404309}@@Article++}
+#### Article
 from:: "One of the earliest authors"
 to:: "strong public buy-in."
 
@@ -57,7 +54,7 @@ content::
 This history shows that concerns about AI risk aren't new - thinkers from
 Alan Turing to Stephen Hawking have considered these questions.
 
-#### {--{"author":"AI","timestamp":1773947404309}@@Article-excerpt--}{++{"author":"AI","timestamp":1773947404309}@@Article++}
+#### Article
 from:: "### General Intelligence"
 to:: "evasion of human control"
 

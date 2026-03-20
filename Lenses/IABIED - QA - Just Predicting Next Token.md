@@ -1,22 +1,19 @@
 ---
 id: 71d3ce4e-68ce-401e-9f56-9f28fb8fe880
-{++{"author":"AI","timestamp":1773998001417}@@title: "Aren't AIs just predicting the next token?"
-++}tags:
+title: "Aren't AIs just predicting the next token?"
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1773946227607}@@### Article: IABIED - QA - Just Predicting Next Token
-source:: [[../articles/iabied-ch2-faq-next-token]]
-
---}#### Text
+#### Text
 content::
 This Q&A argues that "just predicting the next token" actually requires understanding the world. If an AI accurately predicts a physicist's novel answer, it must reason about physics at that level. Furthermore, modern AIs are trained for task completion through reinforcement learning, not just prediction.
 
-#### {--{"author":"AI","timestamp":1773946227607}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946227607}@@Article
-source:: [[../articles/iabied-ch2-faq-next-token]]++}
+#### Article
+source:: [[../articles/iabied-ch2-faq-next-token]]
 to:: "simple computational foundations"
 
 #### Text

@@ -1,21 +1,18 @@
 ---
 id: a529f564-5ba0-4aec-909d-5e0021314c74
-{++{"author":"AI","timestamp":1773998677462}@@title: "Can the AI be satisfied to just leave us alone?"
-++}tags:
+title: "Can the AI be satisfied to just leave us alone?"
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1773946433586}@@### Article: Can the AI be satisfied to just leave us alone?
-source:: [[../articles/iabied-ch5-faq-leave-alone]]
-
---}#### Text
+#### Text
 content::
 This Q&A examines whether a superintelligent AI could simply be "satisfied" and leave humanity alone. The authors argue that complex preferences are generally insatiable, and even a narrowly focused AI would spend resources defending its goals. The chimpanzee analogy is key: humans destroy chimp habitat not from malice but from wanting other things, and AI could similarly treat Earth's resources as useful without specifically targeting humanity.
 
-#### {--{"author":"AI","timestamp":1773946433586}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946433586}@@Article
-source:: [[../articles/iabied-ch5-faq-leave-alone]]++}
+#### Article
+source:: [[../articles/iabied-ch5-faq-leave-alone]]
 to:: "An AI doesn't need to pick between the resources of Earth and the resources of elsewhere; it can have both."
 
 #### Text

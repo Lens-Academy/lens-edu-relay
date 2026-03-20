@@ -1,22 +1,19 @@
 ---
 id: 31abe48a-eb0b-4dd3-9bb7-1393c9f99a1a
-{++{"author":"AI","timestamp":1773998515065}@@title: When Leo Szilard Saw the Future
-++}tags:
+title: When Leo Szilard Saw the Future
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1773946288179}@@### Article: IABIED - QA - Leo Szilard Saw the Future
-source:: [[../articles/iabied-intro-ext-leo-szilard]]
-
---}#### Text
+#### Text
 content::
 This extended discussion tells the story of Leo Szilard's 1933 insight about nuclear chain reactions. When Enrico Fermi dismissed the idea as "Nuts!" then estimated a 10% probability, Rabi's response became a key lesson: "10 percent is not a remote possibility if it means that we may die of it."
 
-#### {--{"author":"AI","timestamp":1773946288179}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946288179}@@Article
-source:: [[../articles/iabied-intro-ext-leo-szilard]]++}
+#### Article
+source:: [[../articles/iabied-intro-ext-leo-szilard]]
 to:: "while response remained possible"
 
 #### Text

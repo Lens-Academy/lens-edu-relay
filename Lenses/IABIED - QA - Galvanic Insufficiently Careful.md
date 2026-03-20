@@ -1,22 +1,19 @@
 ---
 id: 21b78e2b-d47d-4b8e-84b7-20913d3b9167
-{++{"author":"AI","timestamp":1773997858087}@@title: "Why is Galvanic depicted as being insufficiently careful?"
-++}tags:
+title: "Why is Galvanic depicted as being insufficiently careful?"
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1773946126923}@@### Article: Why is Galvanic depicted as being insufficiently careful?
-source:: [[../articles/iabied-ptii-faq-galvanic-insufficient]]
-
---}#### Text
+#### Text
 content::
 This Q&A is the counterpart to the previous one: while Galvanic is fairly cautious, it is also insufficiently cautious. The authors give four reasons for this, ranging from realism about corporate behavior to the argument that even extended caution can't prevent misalignment from eventually manifesting.
 
-#### {--{"author":"AI","timestamp":1773946126923}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946126923}@@Article
-source:: [[../articles/iabied-ptii-faq-galvanic-insufficient]]++}
+#### Article
+source:: [[../articles/iabied-ptii-faq-galvanic-insufficient]]
 to:: "The moment corporations proceed despite red flags marks 'the point of no return.'"
 
 #### Text

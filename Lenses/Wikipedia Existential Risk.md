@@ -1,17 +1,14 @@
 ---
 id: 01f6df31-099f-48ed-adef-773cc4f947e4
-{++{"author":"AI","timestamp":1773996635823}@@title: Existential Risk from AI
-++}tldr: The concern isn't that AI will "turn evil." It's that a system pursuing perfectly reasonable goals might find that humans are in the way — and be capable enough to act on it. This overview covers the core ideas behind AI as a source of large-scale risk, from misaligned goals to the difficulty of staying in control.
+title: Existential Risk from AI
+tldr: The concern isn't that AI will "turn evil." It's that a system pursuing perfectly reasonable goals might find that humans are in the way — and be capable enough to act on it. This overview covers the core ideas behind AI as a source of large-scale risk, from misaligned goals to the difficulty of staying in control.
 ---
-{--{"author":"AI","timestamp":1773947305036}@@### Article: Existential Risk from AI
-source:: [[../articles/wikipedia-existential-risk-from-ai]]
-
---}#### Text
+#### Text
 content::
 We continue with an overview of the main concepts regarding AI as a source of existential threat: what capabilities of this technology are considered first and foremost, and why the task of eliminating AI risks differs from similar tasks for other impressive technologies created by humanity.
 
-#### {--{"author":"AI","timestamp":1773947306719}@@Article-excerpt--}{++{"author":"AI","timestamp":1773947306719}@@Article
-source:: [[../articles/wikipedia-existential-risk-from-ai]]++}
+#### Article
+source:: [[../articles/wikipedia-existential-risk-from-ai]]
 to:: "the "evasion of human control"."
 
 #### Text

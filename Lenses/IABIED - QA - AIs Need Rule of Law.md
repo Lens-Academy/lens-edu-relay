@@ -1,21 +1,18 @@
 ---
 id: 6aba9b76-3637-4002-bb08-fbcf83802f82
-{++{"author":"AI","timestamp":1773997662427}@@title: "Won't AIs need the rule of law?"
-++}tags:
+title: "Won't AIs need the rule of law?"
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1773945961740}@@### Article: Won't AIs need the rule of law?
-source:: [[../articles/iabied-ch5-faq-rule-of-law]]
-
---}#### Text
+#### Text
 content::
 This Q&A tackles the hope that superintelligent AIs would need legal frameworks that include protections for humans. The authors argue that AIs could coordinate among themselves without including humans, and that any property rights protecting humans would be inherently unstable — much like a city where mice supposedly own most property and control human decisions.
 
-#### {--{"author":"AI","timestamp":1773945961740}@@Article-excerpt--}{++{"author":"AI","timestamp":1773945961740}@@Article
-source:: [[../articles/iabied-ch5-faq-rule-of-law]]++}
+#### Article
+source:: [[../articles/iabied-ch5-faq-rule-of-law]]
 to:: "All AIs would likely prefer outcomes where they control Earth's resources rather than maintaining the fiction that slow-moving, stupid primates control most assets."
 
 #### Text

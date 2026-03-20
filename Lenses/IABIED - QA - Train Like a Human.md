@@ -1,22 +1,19 @@
 ---
 id: a435b40c-0122-44c1-94f0-8eb74659af9b
-{++{"author":"AI","timestamp":1773998800799}@@title: "Can't we just train it to act like a human? Or raise the AI like a child?"
-++}tags:
+title: "Can't we just train it to act like a human? Or raise the AI like a child?"
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1773946497499}@@### Article: Can't we just train it to act like a human? Or raise the AI like a child?
-source:: [[../articles/iabied-ch4-faq-train-like-human]]
-
---}#### Text
+#### Text
 content::
 Chapter 4 argues that training doesn't produce intended goals. This Q&A addresses the intuitive suggestion of socializing AI the way we socialize children. The response argues that human development isn't infinitely malleable (the Soviet "New Man" failed), AI architecture is fundamentally alien to human brains, and imitation of human behavior doesn't create human values — "an AI that imitates a drunk person doesn't thereby become drunk."
 
-#### {--{"author":"AI","timestamp":1773946497499}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946497499}@@Article
-source:: [[../articles/iabied-ch4-faq-train-like-human]]++}
+#### Article
+source:: [[../articles/iabied-ch4-faq-train-like-human]]
 to:: "one with peculiar, inhuman drives that merely happen to correlate with helpfulness in typical scenarios"
 
 #### Text

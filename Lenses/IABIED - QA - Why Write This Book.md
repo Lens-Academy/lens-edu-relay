@@ -1,22 +1,19 @@
 ---
 id: a9bf8d9f-cad8-4a86-9cfe-6c9bd4f33e5f
-{++{"author":"AI","timestamp":1773998830556}@@title: "Why write a book about superhuman AI as an extinction threat?"
-++}tags:
+title: "Why write a book about superhuman AI as an extinction threat?"
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1773946532628}@@### Article: IABIED - QA - Why Write This Book
-source:: [[../articles/iabied-intro-faq-why-write-book]]
-
---}#### Text
+#### Text
 content::
 This Q&A from the book's website explains the authors' motivation for writing about superhuman AI as an extinction threat. They draw a parallel to Leo Szilard's early recognition of nuclear chain reactions, arguing that the current moment demands similar foresight and urgency.
 
-#### {--{"author":"AI","timestamp":1773946532628}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946532628}@@Article
-source:: [[../articles/iabied-intro-faq-why-write-book]]++}
+#### Article
+source:: [[../articles/iabied-intro-faq-why-write-book]]
 to:: "believing solutions exist"
 
 #### Text

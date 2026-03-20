@@ -1,22 +1,19 @@
 ---
 id: c296d8fd-45ef-47b2-94c7-7996a59f4ad7
-{++{"author":"AI","timestamp":1773998608770}@@title: "Why did you tell a story with only one AI as smart as Sable?"
-++}tags:
+title: "Why did you tell a story with only one AI as smart as Sable?"
+tags:
   - lens
   - IABIED
   - supplementary
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1773946359804}@@### Article: Why did you tell a story with only one AI as smart as Sable?
-source:: [[../articles/iabied-ptii-faq-one-ai]]
-
---}#### Text
+#### Text
 content::
 This Q&A explains why the story features a single breakthrough AI rather than multiple competing systems. The authors argue this is both historically realistic -- AlphaGo and ChatGPT were each essentially unmatched at launch -- and narratively simpler, since multiple AIs would add complexity without changing the fundamental outcome.
 
-#### {--{"author":"AI","timestamp":1773946359804}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946359804}@@Article
-source:: [[../articles/iabied-ptii-faq-one-ai]]++}
+#### Article
+source:: [[../articles/iabied-ptii-faq-one-ai]]
 to:: "Whether one AI or coordinated multiple AIs execute empowerment strategies fundamentally matters less than the outcome itself"
 
 #### Text
