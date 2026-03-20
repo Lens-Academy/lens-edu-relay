@@ -1,6 +1,7 @@
 ---
 id: 21b78e2b-d47d-4b8e-84b7-20913d3b9167
-tags:
+{++{"author":"AI","timestamp":1773997858087}@@title: "Why is Galvanic depicted as being insufficiently careful?"
+++}tags:
   - lens
   - IABIED
   - supplementary

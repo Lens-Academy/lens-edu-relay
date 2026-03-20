@@ -1,6 +1,7 @@
 ---
 id: a928c44c-8397-4653-ba88-391f16042c52
-tags:
+{++{"author":"AI","timestamp":1773997859397}@@title: "Is 'general intelligence' a meaningful concept?"
+++}tags:
   - lens
   - IABIED
   - supplementary

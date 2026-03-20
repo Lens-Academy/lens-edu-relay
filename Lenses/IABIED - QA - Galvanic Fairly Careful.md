@@ -1,6 +1,7 @@
 ---
 id: beb387a7-0868-44aa-903d-79a26b445171
-tags:
+{++{"author":"AI","timestamp":1773997856500}@@title: "Why is Galvanic depicted as being fairly careful?"
+++}tags:
   - lens
   - IABIED
   - supplementary
