@@ -282,23 +282,23 @@ In my next essay, I’ll look at these objections – both the more fundamental 
 	 And in particular: if they’re willing to devote large amounts of compute and other relevant resources to the project – though I won’t take a stand here on how much is necessary.
 {--{"author":"AI","timestamp":1774023518120}@@28. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnrefe422l3lygv5">^</a></strong></sup>--}{++{"author":"AI","timestamp":1774023518120}@@[^28]:++}
 	 I.e., they don’t have options for disempowering humanity that would succeed with non-trivial probability. That is, in the [taxonomy of vulnerability conditions I offered in my second essay](https://joecarlsmith.substack.com/i/157445591/appendix-a-typology-of-vulnerability-conditions), we aren’t in a global vulnerability-to-motivations condition. And note that one way this can happen is: the relevant AIs don’t satisfy the agency pre-requisites at all.
-29. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnrefn39137zsgtm">^</a></strong></sup>
+{--{"author":"AI","timestamp":1774023524766}@@29. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnrefn39137zsgtm">^</a></strong></sup>--}{++{"author":"AI","timestamp":1774023524766}@@[^29]:++}
 	 Though of course, the usefulness of our AIs comes along a spectrum, and we should be trying to do as much AI for AI safety as we can, at every step along the way.
-30. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnrefb8msrxv52nk">^</a></strong></sup>
+{--{"author":"AI","timestamp":1774023526324}@@30. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnrefb8msrxv52nk">^</a></strong></sup>--}{++{"author":"AI","timestamp":1774023526324}@@[^30]:++}
 	 Thanks to Owen Cotton-Barratt for discussion.
-31. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnrefc395ddz9gnn">^</a></strong></sup>
+{--{"author":"AI","timestamp":1774023527655}@@31. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnrefc395ddz9gnn">^</a></strong></sup>--}{++{"author":"AI","timestamp":1774023527655}@@[^31]:++}
 	 This is the sort of strategy that I associate with e.g. Shlegeris and Greenblatt [here](https://www.alignmentforum.org/posts/kcKrE9mzEHrdqtDpE/the-case-for-ensuring-that-powerful-ais-are-controlled), though I’m not sure if they’d endorse this framing.
-32. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnrefx4xfxdcok9m">^</a></strong></sup>
+{--{"author":"AI","timestamp":1774023529590}@@32. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnrefx4xfxdcok9m">^</a></strong></sup>--}{++{"author":"AI","timestamp":1774023529590}@@[^32]:++}
 	 For example: applying option control to superhuman strategies requires access to superhuman forms of oversight and monitoring.
-33. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnrefcmsmd8k623">^</a></strong></sup>
+{--{"author":"AI","timestamp":1774023531364}@@33. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnrefcmsmd8k623">^</a></strong></sup>--}{++{"author":"AI","timestamp":1774023531364}@@[^33]:++}
 	 Plus, as in the case of the AI for AI safety sweet spot, we need adequate elicitation ability.
-34. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnref83f0a4zp7ir">^</a></strong></sup>
+{--{"author":"AI","timestamp":1774023532997}@@34. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnref83f0a4zp7ir">^</a></strong></sup>--}{++{"author":"AI","timestamp":1774023532997}@@[^34]:++}
 	 Though obviously, relying on our countermeasures to ensure this condition is its own form of scary as well.
-35. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnrefy8ct31e2gvk">^</a></strong></sup>
+{--{"author":"AI","timestamp":1774023534441}@@35. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnrefy8ct31e2gvk">^</a></strong></sup>--}{++{"author":"AI","timestamp":1774023534441}@@[^35]:++}
 	 Because the availability of more such paths makes it harder for an AI’s “inhibitions” to rule out all the available options, and higher probabilities of success make it easier for lower-levels of “ambition” to justify going for it anyways.
-36. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnrefp4j79xvqffb">^</a></strong></sup>
+{--{"author":"AI","timestamp":1774023540560}@@36. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnrefp4j79xvqffb">^</a></strong></sup>--}{++{"author":"AI","timestamp":1774023540560}@@[^36]:++}
 	 And in my opinion, arguments about AI risk too often focus on the *maximally* spicy case (i.e., the case of AIs that are in a position to disempower humanity extremely easily via a wide variety of paths).
-37. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnref47tfsdpo65h">^</a></strong></sup>
+{--{"author":"AI","timestamp":1774023542236}@@37. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnref47tfsdpo65h">^</a></strong></sup>--}{++{"author":"AI","timestamp":1774023542236}@@[^37]:++}
 	 In the diagram, I’ve put the two lines in the same place; but in principle, the capability level required for disempowering humanity might actually come *earlier* than the capability level required to radically improve our competence. H/t Owen Cotton-Barratt for discussion.
 38. <sup><strong><a href="https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/#fnref0c5b3ape37j">^</a></strong></sup>
 	 For example: we might worry that it will be too difficult to *tell* when we’re in the sweet spot (h/t Catherine Brewer); or we might worry that relevant actors won’t invest enough resources into benefiting from the sweet spot.
