@@ -1,6 +1,7 @@
 ---
 id: ee77c667-dca5-40ce-a2a9-2bf7af93a4a2
-tags:
+{++{"author":"AI","timestamp":1773998679266}@@title: The Shallowness of Current AIs
+++}tags:
   - lens
   - IABIED
   - supplementary

@@ -1,6 +1,7 @@
 ---
 id: e6f955ed-32dd-4e03-91e1-048f87c611b4
-tags:
+{++{"author":"AI","timestamp":1773998675899}@@title: "Why does Sable end up thinking the way it does?"
+++}tags:
   - lens
   - IABIED
   - supplementary

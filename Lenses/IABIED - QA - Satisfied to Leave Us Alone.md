@@ -1,6 +1,7 @@
 ---
 id: a529f564-5ba0-4aec-909d-5e0021314c74
-tags:
+{++{"author":"AI","timestamp":1773998677462}@@title: "Can the AI be satisfied to just leave us alone?"
+++}tags:
   - lens
   - IABIED
   - supplementary
