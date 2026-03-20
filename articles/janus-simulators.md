@@ -68,7 +68,7 @@ But, aside from indulging that emotion, I didn’t think about what would happen
 
 Huge mistake! Perhaps I could have started thinking several years earlier about what now seems so fantastically important. But it wasn’t until GPT-3, when I saw the [qualitative correlate](https://www.gwern.net/GPT-3) of “loss going down”, that I updated.
 
-I wasn’t the only one <sup><span><a href="https://www.lesswrong.com/s/N7nDePaNabJdnbXeE/p/#fna35qx2ldayo">[2]</a></span></sup> whose imagination was naively constrained. A 2016 paper from Google Brain, “ [Exploring the Limits of Language Modeling](https://arxiv.org/abs/1602.02410) ”, describes the utility of training language models as follows:
+I wasn’t the only {--{"author":"AI","timestamp":1774023402799}@@one <sup><span><a href="https://www.lesswrong.com/s/N7nDePaNabJdnbXeE/p/#fna35qx2ldayo">[2]</a></span></sup>--}{++{"author":"AI","timestamp":1774023402799}@@one[^2]++} whose imagination was naively constrained. A 2016 paper from Google Brain, “ [Exploring the Limits of Language Modeling](https://arxiv.org/abs/1602.02410) ”, describes the utility of training language models as follows:
 
 > Often (although not always), training better language models improves the underlying metrics of the downstream task (such as word error rate for speech recognition, or BLEU score for translation), which makes the task of training better LMs valuable by itself.
 
@@ -76,7 +76,7 @@ Despite its title, this paper’s analysis is entirely myopic. Improving BLEU sc
 
 > If loss keeps going down on the test set, in the limit – putting aside whether the current paradigm can approach it – the model must be learning to interpret and predict all patterns represented in language, including common-sense reasoning, goal-directed optimization, and deployment of the sum of recorded human knowledge. Its outputs would behave as intelligent entities in their own right. You could converse with it by alternately generating and adding your responses to its prompt, and it would pass the Turing test. In fact, you could condition it to generate interactive and autonomous versions of any real or fictional person who has been recorded in the training corpus or even *could* be recorded (in the sense that the record counterfactually “could be” in the test set). Oh shit, and it could write code…
 
-The paper does, however, mention that making the model bigger improves test perplexity.<sup><span><a href="https://www.lesswrong.com/s/N7nDePaNabJdnbXeE/p/#fnhxtnxj1c2hb">[3]</a></span></sup>
+The paper does, however, mention that making the model bigger improves test {--{"author":"AI","timestamp":1774023408263}@@perplexity.<sup><span><a href="https://www.lesswrong.com/s/N7nDePaNabJdnbXeE/p/#fnhxtnxj1c2hb">[3]</a></span></sup>--}{++{"author":"AI","timestamp":1774023408263}@@perplexity.[^3]++}
 
 I’m only picking on *Jozefowicz et al.* because of their ironic title. I don’t know of any explicit discussion of this limit predating GPT, except a working consensus of Wikipedia editors that [NLU](https://en.wikipedia.org/wiki/Natural-language_understanding) is [AI-complete](https://en.wikipedia.org/wiki/AI-complete#AI-complete_problems).
 
