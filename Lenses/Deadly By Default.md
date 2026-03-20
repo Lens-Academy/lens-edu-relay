@@ -1,6 +1,7 @@
 ---
 id: e2c85826-d6f4-431b-b036-23de8e48b479
-tags:
+{++{"author":"AI","timestamp":1773996638253}@@title: Deadly By Default
+++}tags:
   - lens
 ---
 {--{"author":"AI","timestamp":1773946866033}@@### Article: Deadly By Default

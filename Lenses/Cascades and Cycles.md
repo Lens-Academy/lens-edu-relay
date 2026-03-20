@@ -1,6 +1,7 @@
 ---
 id: 3dd47fce-a0fe-4e03-916d-a160fe697dd0
-tldr: Writing didn't just help us keep records — it triggered a wave of civilizational breakthroughs, each one making the next more likely. A single neutron can split an atom, releasing neutrons that split more. This article introduces two patterns of positive feedback and asks whether intelligence could work the same way.
+{++{"author":"AI","timestamp":1773996633372}@@title: Cascades and Cycles
+++}tldr: Writing didn't just help us keep records — it triggered a wave of civilizational breakthroughs, each one making the next more likely. A single neutron can split an atom, releasing neutrons that split more. This article introduces two patterns of positive feedback and asks whether intelligence could work the same way.
 ---
 {--{"author":"AI","timestamp":1773946887781}@@source:: [[../articles/yudkowsky-cascades-cycles-insight]]
 
