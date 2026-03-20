@@ -1,7 +1,8 @@
 ---
 title: "Is intelligence understandable in principle?"
 source_url: https://ifanyonebuildsit.com/2/is-intelligence-understandable-in-principle
-author:
+{++{"author":"AI","timestamp":1774006775441}@@published: 2025-09-16
+++}author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

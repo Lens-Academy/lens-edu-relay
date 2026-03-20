@@ -1,7 +1,8 @@
 ---
 title: "Anthropomorphism and Mechanomorphism"
 source_url: https://ifanyonebuildsit.com/3/anthropomorphism-and-mechanomorphism
-author:
+{++{"author":"AI","timestamp":1774006776800}@@published: 2025-09-16
+++}author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

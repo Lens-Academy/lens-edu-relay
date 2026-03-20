@@ -1,7 +1,8 @@
 ---
 title: "But some AIs partly think in English — doesn't that help?"
 source_url: https://ifanyonebuildsit.com/2/but-some-ais-partly-think-in-english-doesnt-that-help
-author:
+{++{"author":"AI","timestamp":1774006773845}@@published: 2025-09-16
+++}author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

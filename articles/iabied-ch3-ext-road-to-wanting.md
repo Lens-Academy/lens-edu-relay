@@ -1,7 +1,8 @@
 ---
 title: "The Road to Wanting"
 source_url: https://ifanyonebuildsit.com/3/the-road-to-wanting
-author:
+{++{"author":"AI","timestamp":1774006778280}@@published: 2025-09-16
+++}author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:
