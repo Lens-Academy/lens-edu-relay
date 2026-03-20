@@ -20,7 +20,7 @@ to:: "outperforming human mathematicians in specific domains"
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### {--{"author":"AI","timestamp":1774006562932}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006562932}@@Chat++}
+#### Chat
 instructions::
 The student just read a supplementary Q&A from the book's website about how AI trained on human data could surpass humans.
 

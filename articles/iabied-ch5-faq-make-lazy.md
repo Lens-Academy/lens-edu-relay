@@ -1,8 +1,8 @@
 ---
 title: "Can we just make it lazy?"
 source_url: https://ifanyonebuildsit.com/5/can-we-just-make-it-lazy
-{++{"author":"AI","timestamp":1774006868369}@@published: 2025-09-16
-++}author:
+published: 2025-09-16
+author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

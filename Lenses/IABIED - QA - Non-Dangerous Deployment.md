@@ -1,5 +1,5 @@
 ---
-id: {--{"author":"AI","timestamp":1774007144096}@@ee77c667-dca5-40ce-a2a9-2bf7af93a4a2--}{++{"author":"AI","timestamp":1774007144096}@@7fe9ef5e-4f19-4cee-afe9-8856d317d46e++}
+id: 7fe9ef5e-4f19-4cee-afe9-8856d317d46e
 title: "What if AI companies only deploy their AIs for non-dangerous actions?"
 tags:
   - lens
@@ -19,7 +19,7 @@ to:: "We haven't been able to find any narrow-but-effective plans, and we suspec
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### {--{"author":"AI","timestamp":1774006513955}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006513955}@@Chat++}
+#### Chat
 instructions::
 The student just read a supplementary Q&A from the book's website about whether AI companies could only deploy AIs for non-dangerous actions.
 TLDR: "Safe" uses can still require dangerous capabilities. An AI capable enough to help (e.g., superhuman persuasion) would be general enough to be dangerous. The red car/blue car analogy illustrates why narrow deployment doesn't guarantee narrow capability.

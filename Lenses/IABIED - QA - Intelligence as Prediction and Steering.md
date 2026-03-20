@@ -1,5 +1,5 @@
 ---
-id: {--{"author":"AI","timestamp":1774007082445}@@852658c6-e827-4bbf-a3e1-df3a51d6e43d--}{++{"author":"AI","timestamp":1774007082445}@@550d735c-5f7a-4d2e-b95d-1d0859ffa4ee++}
+id: 550d735c-5f7a-4d2e-b95d-1d0859ffa4ee
 title: More on Intelligence as Prediction and Steering
 tags:
   - lens
@@ -20,7 +20,7 @@ to:: "only correct predictions about reality"
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### {--{"author":"AI","timestamp":1774006457859}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006457859}@@Chat++}
+#### Chat
 instructions::
 The student just read a supplementary Q&A from the book's website about intelligence decomposed into prediction and steering.
 

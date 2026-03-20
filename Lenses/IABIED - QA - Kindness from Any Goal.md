@@ -1,5 +1,5 @@
 ---
-id: {--{"author":"AI","timestamp":1774007107847}@@a435b40c-0122-44c1-94f0-8eb74659af9b--}{++{"author":"AI","timestamp":1774007107847}@@d1625486-918b-457d-9adf-2fcbc67bd595++}
+id: d1625486-918b-457d-9adf-2fcbc67bd595
 title: "Maybe no matter what goal you train on, you get kindness out?"
 tags:
   - lens
@@ -19,7 +19,7 @@ to:: "Nobody knows what machinery is producing seemingly friendly behaviors toda
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### {--{"author":"AI","timestamp":1774006481266}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006481266}@@Chat++}
+#### Chat
 instructions::
 The student just read a supplementary Q&A from the book's website about whether training on any goal inevitably produces kindness.
 TLDR: Kindness appears contingent on human biology and ancestry, not a universal property of minds. Training produces surface behaviors that may mask alien internal drives, as illustrated by the barn-painting analogy and the gap between evolution's "goals" and actual human priorities.

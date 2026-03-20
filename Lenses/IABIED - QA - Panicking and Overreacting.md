@@ -20,7 +20,7 @@ to:: "you have to actually look at the details of each case"
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### {--{"author":"AI","timestamp":1774006528551}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006528551}@@Chat++}
+#### Chat
 instructions::
 The student just read a supplementary Q&A from the book's website about whether AI concerns are just another case of people overreacting.
 

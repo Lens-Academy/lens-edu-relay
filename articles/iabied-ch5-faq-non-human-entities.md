@@ -1,8 +1,8 @@
 ---
 title: "Why don't you care about non-human entities?"
 source_url: https://ifanyonebuildsit.com/5/why-dont-you-care-about-the-values-of-any-entities-other-than-humans
-{++{"author":"AI","timestamp":1774006872861}@@published: 2025-09-16
-++}author:
+published: 2025-09-16
+author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

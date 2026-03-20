@@ -1,8 +1,8 @@
 ---
 title: "What if there are lots of different AIs?"
 source_url: https://ifanyonebuildsit.com/10/what-if-there-are-lots-of-different-ais
-{++{"author":"AI","timestamp":1774006719124}@@published: 2025-09-16
-++}author:
+published: 2025-09-16
+author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

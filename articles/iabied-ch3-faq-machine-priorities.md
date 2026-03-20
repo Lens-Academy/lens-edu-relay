@@ -1,8 +1,8 @@
 ---
 title: "How could a machine end up with its own priorities?"
 source_url: https://ifanyonebuildsit.com/3/how-could-a-machine-end-up-with-its-own-priorities
-{++{"author":"AI","timestamp":1774006795836}@@published: 2025-09-16
-++}author:
+published: 2025-09-16
+author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

@@ -19,7 +19,7 @@ to:: "Keeping humanity happy would be negligible for an AI that wanted this, but
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### {--{"author":"AI","timestamp":1774006537714}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006537714}@@Chat++}
+#### Chat
 instructions::
 The student just read a supplementary Q&A from the book's website about whether preserving humans would be a negligible expense for a powerful AI.
 TLDR: Even though keeping humans alive would be cheap for a superintelligence, cheapness doesn't create motivation. Most humans don't bother preserving nearby ant colonies despite the negligible cost. Earth's resources (oceans, matter for probes) would have competing uses, and even an AI with some preservation drive would filter it through alien values.

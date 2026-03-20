@@ -1,8 +1,8 @@
 ---
 title: "Is 'human-level intelligence' a meaningful concept?"
 source_url: https://ifanyonebuildsit.com/1/is-human-level-intelligence-a-meaningful-concept
-{++{"author":"AI","timestamp":1774006679134}@@published: 2025-09-16
-++}author:
+published: 2025-09-16
+author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

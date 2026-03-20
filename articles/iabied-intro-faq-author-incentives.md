@@ -1,8 +1,8 @@
 ---
 title: "What are your incentives and conflicts of interest, as authors?"
 source_url: https://ifanyonebuildsit.com/intro/what-are-your-incentives-and-conflicts-of-interest-as-authors
-{++{"author":"AI","timestamp":1774006934054}@@published: 2025-09-16
-++}author:
+published: 2025-09-16
+author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

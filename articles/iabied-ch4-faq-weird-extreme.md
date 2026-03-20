@@ -1,8 +1,8 @@
 ---
 title: "If current AIs are mostly weird in extreme cases, what's the problem?"
 source_url: https://ifanyonebuildsit.com/4/if-current-ais-are-mostly-weird-in-extreme-cases-whats-the-problem
-{++{"author":"AI","timestamp":1774006825443}@@published: 2025-09-16
-++}author:
+published: 2025-09-16
+author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

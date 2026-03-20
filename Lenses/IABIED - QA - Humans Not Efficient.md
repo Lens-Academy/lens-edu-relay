@@ -19,7 +19,7 @@ to:: "What does this intelligence actually want, and what's the cheapest way to 
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### {--{"author":"AI","timestamp":1774006450384}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006450384}@@Chat++}
+#### Chat
 instructions::
 The student just read a supplementary Q&A from the book's website about how humans are almost never the most efficient solution to any problem.
 TLDR: Humans are already being outperformed by AI alone in narrow domains. A superintelligence could design more diverse AI minds more efficiently than relying on biological humans. The "Matrix fallacy" shows how even pleasant-sounding AI values don't guarantee human survival. The central error is working backward from desired outcomes.

@@ -1,8 +1,8 @@
 ---
 title: "A Full Description of an LLM"
 source_url: https://ifanyonebuildsit.com/2/a-full-description-of-an-llm
-{++{"author":"AI","timestamp":1774006735888}@@published: 2025-09-16
-++}author:
+published: 2025-09-16
+author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

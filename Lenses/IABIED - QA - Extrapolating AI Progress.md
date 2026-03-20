@@ -20,7 +20,7 @@ to:: "arbitrary prognostications about overall timelines"
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### {--{"author":"AI","timestamp":1774006422681}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006422681}@@Chat++}
+#### Chat
 instructions::
 The student just read a supplementary Q&A from the book's website about whether trend extrapolation can predict when superhuman AI will arrive.
 

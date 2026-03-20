@@ -20,7 +20,7 @@ to:: "regardless of whether that system experiences consciousness"
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### {--{"author":"AI","timestamp":1774006501028}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006501028}@@Chat++}
+#### Chat
 instructions::
 The student just read a supplementary Q&A from the book's website about whether machines will become conscious.
 

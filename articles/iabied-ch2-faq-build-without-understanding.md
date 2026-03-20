@@ -1,8 +1,8 @@
 ---
 title: "What makes you think people can build superhuman AI when they don't even understand intelligence?"
 source_url: https://ifanyonebuildsit.com/2/what-makes-you-think-people-can-build-superhuman-ai-when-they-dont-even-understand-intelligence
-{++{"author":"AI","timestamp":1774006745586}@@published: 2025-09-16
-++}author:
+published: 2025-09-16
+author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

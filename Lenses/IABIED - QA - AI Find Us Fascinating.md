@@ -19,7 +19,7 @@ to:: "absent genuine alignment with human values, no such reasons are likely to 
 content::
 What do you think? Does this address a concern you had, or raise new questions?
 
-#### {--{"author":"AI","timestamp":1774006357943}@@Chat: Discussion--}{++{"author":"AI","timestamp":1774006357943}@@Chat++}
+#### Chat
 instructions::
 The student just read a supplementary Q&A from the book's website about whether AI would find humans fascinating or historically important.
 TLDR: Fascination and curiosity are human emotions that AI needn't develop. Even if AI valued humans as historical records, preservation might mean digitizing or storing us rather than enabling flourishing. An AI could construct more fascinating alternative minds rather than preserving biological humans.
