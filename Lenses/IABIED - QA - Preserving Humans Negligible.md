@@ -1,6 +1,7 @@
 ---
 id: ab851733-57a3-4956-8ffe-0401ab6edc62
-tags:
+{++{"author":"AI","timestamp":1773998641517}@@title: "To a powerful AI, wouldn't preserving humans be a negligible expense?"
+++}tags:
   - lens
   - IABIED
   - supplementary

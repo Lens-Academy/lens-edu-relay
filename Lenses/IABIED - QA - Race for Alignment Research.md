@@ -1,6 +1,7 @@
 ---
 id: 852658c6-e827-4bbf-a3e1-df3a51d6e43d
-tags:
+{++{"author":"AI","timestamp":1773998646660}@@title: "Isn't it important to race ahead so we can do alignment research?"
+++}tags:
   - lens
   - IABIED
   - supplementary

@@ -1,6 +1,7 @@
 ---
 id: 9f2acee2-c3a8-4b6a-bb3d-f8d9e5deeff5
-tags:
+{++{"author":"AI","timestamp":1773998645335}@@title: "Can we just pull the plug?"
+++}tags:
   - lens
   - IABIED
   - supplementary
