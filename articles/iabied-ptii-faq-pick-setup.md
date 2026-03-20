@@ -1,7 +1,8 @@
 ---
 title: "Why did you pick this setup?"
 source_url: https://ifanyonebuildsit.com/ii/why-did-you-pick-this-setup
-author:
+{++{"author":"AI","timestamp":1774006963104}@@published: 2025-09-16
+++}author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:
