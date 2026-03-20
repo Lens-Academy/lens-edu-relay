@@ -13,8 +13,8 @@ This Q&A explains why the timeline question misses the deeper problem. The autho
 
 #### Article
 source:: [[../articles/iabied-ch10-faq-how-long]]
-to:: "Humanity has a tendency to converge on that wrong sort of answer, even in far simpler domains, when we haven't yet had a chance to run a decisive test."
-
+{--{"author":"AI","timestamp":1774009251245}@@to:: "Humanity has a tendency to converge on that wrong sort of answer, even in far simpler domains, when we haven't yet had a chance to run a decisive test."
+--}
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?

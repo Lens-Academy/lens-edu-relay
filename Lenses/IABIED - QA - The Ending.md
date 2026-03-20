@@ -14,8 +14,8 @@ This Q&A explains the ending's depiction of a superintelligence pushing technolo
 
 #### Article
 source:: [[../articles/iabied-ptii-faq-ending]]
-to:: "illustrating how 'many paths lead to the same destination' rather than claiming predictive accuracy about exact technological developments"
-
+{--{"author":"AI","timestamp":1774009246546}@@to:: "illustrating how 'many paths lead to the same destination' rather than claiming predictive accuracy about exact technological developments"
+--}
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?
