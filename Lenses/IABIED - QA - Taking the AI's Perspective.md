@@ -13,8 +13,8 @@ This extended discussion emphasizes the critical importance of reasoning from th
 
 #### Article
 source:: [[../articles/iabied-ch5-ext-ai-perspective]]
-to:: "non-human optimizers don't seek human-palatable answers. They find what works without our filters for nice solutions."
-
+{--{"author":"AI","timestamp":1774009238177}@@to:: "non-human optimizers don't seek human-palatable answers. They find what works without our filters for nice solutions."
+--}
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?
