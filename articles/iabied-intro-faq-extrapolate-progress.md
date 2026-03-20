@@ -1,7 +1,8 @@
 ---
 title: "Can we use past progress to extrapolate when we'll build smarter-than-human AI?"
 source_url: https://ifanyonebuildsit.com/intro/can-we-use-past-progress-to-extrapolate-when-well-build-smarter-than-human-ai
-author:
+{++{"author":"AI","timestamp":1774006936924}@@published: 2025-09-16
+++}author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:

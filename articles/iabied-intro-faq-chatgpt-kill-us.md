@@ -1,7 +1,8 @@
 ---
 title: "Are you suggesting that ChatGPT could kill us all?"
 source_url: https://ifanyonebuildsit.com/intro/are-you-suggesting-that-chatgpt-could-kill-us-all
-author:
+{++{"author":"AI","timestamp":1774006935875}@@published: 2025-09-16
+++}author:
   - "Eliezer Yudkowsky"
   - "Nate Soares"
 tags:
