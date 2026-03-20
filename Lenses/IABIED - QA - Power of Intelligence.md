@@ -1,6 +1,7 @@
 ---
 id: 85666bdb-67ba-49b1-a880-5cd3f07f5d85
-tags:
+{++{"author":"AI","timestamp":1773998637699}@@title: Appreciating the Power of Intelligence
+++}tags:
   - lens
   - IABIED
   - supplementary

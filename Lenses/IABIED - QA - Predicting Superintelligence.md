@@ -1,6 +1,7 @@
 ---
 id: 9faaf0d6-779f-455d-9fb0-b92735e0b4c4
-tags:
+{++{"author":"AI","timestamp":1773998639507}@@title: "Isn't it impossible to predict the behavior of a superintelligence?"
+++}tags:
   - lens
   - IABIED
   - supplementary
