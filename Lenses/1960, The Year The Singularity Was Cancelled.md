@@ -1,6 +1,7 @@
 ---
 id: b24e0198-8fa8-49cd-b7c6-396bc5f847be
-tags:
+{++{"author":"AI","timestamp":1773996923532}@@title: "1960, The Year The Singularity Was Cancelled"
+++}tags:
   - lens
 ---
 {--{"author":"AI","timestamp":1773946552477}@@### Article: 1960, The Year The Singularity Was Cancelled
