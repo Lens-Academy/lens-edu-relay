@@ -13,8 +13,8 @@ This extended discussion explores the technological capabilities a superintellig
 
 #### Article
 source:: [[../articles/iabied-ch6-ext-nanotech]]
-to:: "A superintelligence with a small bit of lead time could probably find technological solutions for taking over the planet."
-
+{--{"author":"AI","timestamp":1774009158666}@@to:: "A superintelligence with a small bit of lead time could probably find technological solutions for taking over the planet."
+--}
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?
