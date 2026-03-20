@@ -1,6 +1,7 @@
 ---
 id: 8dd221f8-d94e-4809-8798-46296ed6ab31
-tags:
+{++{"author":"AI","timestamp":1773997823558}@@title: "Won't AI want to keep us happy and healthy for ecological preservation or similar drive?"
+++}tags:
   - lens
   - IABIED
   - supplementary
