@@ -1,6 +1,7 @@
 ---
 id: 7bca2049-a575-4c9c-a598-b5dcc6f5757b
-tags:
+{++{"author":"AI","timestamp":1773998787154}@@title: Terminal Goals and Instrumental Goals
+++}tags:
   - lens
   - IABIED
   - supplementary
