@@ -14,8 +14,8 @@ This Q&A argues that general intelligence is a meaningful concept by showing it 
 
 #### Article
 source:: [[../articles/iabied-ch1-faq-general-intelligence]]
-to:: "forest fires burn regardless of chemistry knowledge"
-
+{--{"author":"AI","timestamp":1774008924551}@@to:: "forest fires burn regardless of chemistry knowledge"
+--}
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?
