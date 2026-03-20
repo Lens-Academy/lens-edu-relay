@@ -14,8 +14,8 @@ This Q&A addresses the dismissal that AI risk is "just science fiction." The aut
 
 #### Article
 source:: [[../articles/iabied-intro-faq-science-fiction]]
-to:: "vastly outstripping biological speeds"
-
+{--{"author":"AI","timestamp":1774008978207}@@to:: "vastly outstripping biological speeds"
+--}
 #### Text
 content::
 What do you think? Does this address a concern you had, or raise new questions?
