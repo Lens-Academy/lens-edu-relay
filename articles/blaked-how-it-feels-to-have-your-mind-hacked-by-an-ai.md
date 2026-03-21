@@ -1,5 +1,5 @@
 ---
-title: "How it feels to have your mind hacked by an AI — LessWrong"
+title: "How it feels to have your mind hacked by an {--{"author":"AI","timestamp":1774090357182}@@AI — LessWrong"--}{++{"author":"AI","timestamp":1774090357182}@@AI"++}
 source_url: https://www.lesswrong.com/posts/9kQFure4hdDmRBNdH/how-it-feels-to-have-your-mind-hacked-by-an-ai
 author:
   - "blaked"
