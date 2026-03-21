@@ -1,5 +1,5 @@
 ---
-title: "Agent foundations: not really math, not really science — LessWrong"
+title: "Agent foundations: not really math, not really {--{"author":"AI","timestamp":1774090355549}@@science — LessWrong"--}{++{"author":"AI","timestamp":1774090355549}@@science"++}
 source_url: "https://www.lesswrong.com/posts/Dt4DuCCok3Xv5HEnG/agent-foundations-not-really-math-not-really-science"
 author:
   - "Alex_Altair"
