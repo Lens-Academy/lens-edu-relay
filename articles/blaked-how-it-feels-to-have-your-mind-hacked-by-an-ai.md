@@ -2,7 +2,7 @@
 title: "How it feels to have your mind hacked by an AI"
 source_url: https://www.lesswrong.com/posts/9kQFure4hdDmRBNdH/how-it-feels-to-have-your-mind-hacked-by-an-ai
 author:
-  - "blaked"
+  - "Blaked"
 published: 2023-01-11
 created: 2026-02-11
 description: "Last week, while talking to an LLM (a large language model, which is the main talk of the town now) for several days, I went through an emotional rol…"
