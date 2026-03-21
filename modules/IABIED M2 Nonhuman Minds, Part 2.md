@@ -45,7 +45,7 @@ Ask what they found surprising or new. Check if they can explain the ice cream a
 source:: ![[../Learning Outcomes/IABIED - Wanting Emerges from Training]]
 
 # Learning Outcome: IABIED - You Don't Get What You Train For
-source:: ![[../Learning Outcomes/IABIED - You Don't Get What You Train For]]{++{"author":"AI","timestamp":1774130266952}@@
+source:: ![[../Learning Outcomes/IABIED - You Don't Get What You Train For]]
 
 # Lens: IABIED - QA - Human-Like Emotions
 optional:: true
@@ -117,5 +117,5 @@ source:: ![[../Lenses/IABIED - QA - Curiosity Isn't Convergent]]
 
 # Lens: IABIED - QA - Human Values Are Contingent
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Human Values Are Contingent]]++}
+source:: ![[../Lenses/IABIED - QA - Human Values Are Contingent]]
 

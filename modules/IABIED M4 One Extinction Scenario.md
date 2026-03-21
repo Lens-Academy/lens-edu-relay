@@ -49,7 +49,7 @@ Ask what they found surprising or new. Check if they can explain why the endpoin
 source:: ![[../Learning Outcomes/IABIED - Trace the Sable Scenario]]
 
 # Learning Outcome: IABIED - Distinguish Scenario from Prediction
-source:: ![[../Learning Outcomes/IABIED - Distinguish Scenario from Prediction]]{++{"author":"AI","timestamp":1774130297106}@@
+source:: ![[../Learning Outcomes/IABIED - Distinguish Scenario from Prediction]]
 
 # Lens: IABIED - QA - Why This Setup
 optional:: true
@@ -89,4 +89,4 @@ source:: ![[../Lenses/IABIED - QA - Why Write a Fictional Scenario]]
 
 # Lens: IABIED - QA - Isn't This Just Science Fiction
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Isn't This Just Science Fiction]]++}
+source:: ![[../Lenses/IABIED - QA - Isn't This Just Science Fiction]]

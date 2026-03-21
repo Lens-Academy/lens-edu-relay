@@ -52,7 +52,7 @@ Ask what they found surprising or new. Check if they can enumerate the five curs
 source:: ![[../Learning Outcomes/IABIED - The Five Engineering Curses]]
 
 # Learning Outcome: IABIED - Alchemy, Not Science
-source:: ![[../Learning Outcomes/IABIED - Alchemy, Not Science]]{++{"author":"AI","timestamp":1774130306507}@@
+source:: ![[../Learning Outcomes/IABIED - Alchemy, Not Science]]
 
 # Lens: IABIED - QA - AI Differs from Precedents
 optional:: true
@@ -116,4 +116,4 @@ source:: ![[../Lenses/IABIED - QA - Non-Dangerous Deployment]]
 
 # Lens: IABIED - QA - Can Interpretability Solve This
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Can Interpretability Solve This]]++}
+source:: ![[../Lenses/IABIED - QA - Can Interpretability Solve This]]
