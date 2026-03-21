@@ -8,9 +8,9 @@ title: AI Safety Course
 
 # Meeting: Introduction
 
-# Module: [[../modules/feedback-loops]]
 
-# Meeting: Feedback Loops
+
+
 
 # Module: [[../modules/what-even-is-ai]]
 
