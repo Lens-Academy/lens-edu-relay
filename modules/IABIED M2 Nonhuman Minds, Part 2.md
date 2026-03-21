@@ -45,5 +45,77 @@ Ask what they found surprising or new. Check if they can explain the ice cream a
 source:: ![[../Learning Outcomes/IABIED - Wanting Emerges from Training]]
 
 # Learning Outcome: IABIED - You Don't Get What You Train For
-source:: ![[../Learning Outcomes/IABIED - You Don't Get What You Train For]]
+source:: ![[../Learning Outcomes/IABIED - You Don't Get What You Train For]]{++{"author":"AI","timestamp":1774130266952}@@
+
+# Lens: IABIED - QA - Human-Like Emotions
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Human-Like Emotions]]
+
+# Lens: IABIED - QA - Machine Own Priorities
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Machine Own Priorities]]
+
+# Lens: IABIED - QA - AIs Just Tools
+optional:: true
+source:: ![[../Lenses/IABIED - QA - AIs Just Tools]]
+
+# Lens: IABIED - QA - Passive and Docile
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Passive and Docile]]
+
+# Lens: IABIED - QA - Anthropomorphism and Mechanomorphism
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Anthropomorphism and Mechanomorphism]]
+
+# Lens: IABIED - QA - AI Steering Beyond Training
+optional:: true
+source:: ![[../Lenses/IABIED - QA - AI Steering Beyond Training]]
+
+# Lens: IABIED - QA - Making AIs Nice and Safe
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Making AIs Nice and Safe]]
+
+# Lens: IABIED - QA - Claude Shows Alignment
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Claude Shows Alignment]]
+
+# Lens: IABIED - QA - Weird in Extreme Cases
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Weird in Extreme Cases]]
+
+# Lens: IABIED - QA - Fix Own Flaws
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Fix Own Flaws]]
+
+# Lens: IABIED - QA - Train Like a Human
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Train Like a Human]]
+
+# Lens: IABIED - QA - Avoid Talking About Dangers
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Avoid Talking About Dangers]]
+
+# Lens: IABIED - QA - Aligned with Natural Selection
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Aligned with Natural Selection]]
+
+# Lens: IABIED - QA - Kindness from Any Goal
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Kindness from Any Goal]]
+
+# Lens: IABIED - QA - Good Behaviors Correlate
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Good Behaviors Correlate]]
+
+# Lens: IABIED - QA - Terminal and Instrumental Goals
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Terminal and Instrumental Goals]]
+
+# Lens: IABIED - QA - Curiosity Isn't Convergent
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Curiosity Isn't Convergent]]
+
+# Lens: IABIED - QA - Human Values Are Contingent
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Human Values Are Contingent]]++}
 
