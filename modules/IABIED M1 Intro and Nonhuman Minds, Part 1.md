@@ -51,7 +51,7 @@ source:: ![[../Learning Outcomes/IABIED - If It's Valuable and Can Be Done...]]
 source:: ![[../Learning Outcomes/IABIED - Define Intelligence]]
 
 # Learning Outcome: IABIED - AI Is Grown, Not Crafted
-source:: ![[../Learning Outcomes/IABIED - AI Is Grown, Not Crafted]]{++{"author":"AI","timestamp":1774130251756}@@
+source:: ![[../Learning Outcomes/IABIED - AI Is Grown, Not Crafted]]
 
 # Lens: IABIED - QA - Why Write This Book
 optional:: true
@@ -235,5 +235,5 @@ source:: ![[../Lenses/IABIED - QA - Obvious Insights Take Time]]
 
 # Lens: IABIED - QA - Full Description of an LLM
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Full Description of an LLM]]++}
+source:: ![[../Lenses/IABIED - QA - Full Description of an LLM]]
 

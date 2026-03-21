@@ -43,4 +43,156 @@ Really, the learning outcome here distills back to the power of intelligence (pl
 source:: ![[../Learning Outcomes/IABIED - Human-Compatible Goals Are Vanishingly Rare]]
 
 # Learning Outcome: IABIED - We'd Lose
-source:: ![[../Learning Outcomes/IABIED - We'd Lose]]
+source:: ![[../Learning Outcomes/IABIED - We'd Lose]]{++{"author":"AI","timestamp":1774130286564}@@
+
+# Lens: IABIED - QA - AI Find Us Useful
+optional:: true
+source:: ![[../Lenses/IABIED - QA - AI Find Us Useful]]
+
+# Lens: IABIED - QA - AI Treat Us as Parents
+optional:: true
+source:: ![[../Lenses/IABIED - QA - AI Treat Us as Parents]]
+
+# Lens: IABIED - QA - AIs Need Rule of Law
+optional:: true
+source:: ![[../Lenses/IABIED - QA - AIs Need Rule of Law]]
+
+# Lens: IABIED - QA - Preserving Humans Negligible
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Preserving Humans Negligible]]
+
+# Lens: IABIED - QA - AI Find Us Fascinating
+optional:: true
+source:: ![[../Lenses/IABIED - QA - AI Find Us Fascinating]]
+
+# Lens: IABIED - QA - Intrinsic Moral Worth
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Intrinsic Moral Worth]]
+
+# Lens: IABIED - QA - Ecological Preservation
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Ecological Preservation]]
+
+# Lens: IABIED - QA - We Still Have Horses
+optional:: true
+source:: ![[../Lenses/IABIED - QA - We Still Have Horses]]
+
+# Lens: IABIED - QA - Care a Little About Humans
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Care a Little About Humans]]
+
+# Lens: IABIED - QA - Chance of Keeping Us Alive
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Chance of Keeping Us Alive]]
+
+# Lens: IABIED - QA - Human Data Means Human Concepts
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Human Data Means Human Concepts]]
+
+# Lens: IABIED - QA - Promise to Be Friendly
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Promise to Be Friendly]]
+
+# Lens: IABIED - QA - Thinking It's a Simulation
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Thinking It's a Simulation]]
+
+# Lens: IABIED - QA - AI Lacks Selfish Drives
+optional:: true
+source:: ![[../Lenses/IABIED - QA - AI Lacks Selfish Drives]]
+
+# Lens: IABIED - QA - Only Digital Realm
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Only Digital Realm]]
+
+# Lens: IABIED - QA - Satisfied to Leave Us Alone
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Satisfied to Leave Us Alone]]
+
+# Lens: IABIED - QA - Make It Lazy
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Make It Lazy]]
+
+# Lens: IABIED - QA - Kinder as Smarter
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Kinder as Smarter]]
+
+# Lens: IABIED - QA - Boring Goals
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Boring Goals]]
+
+# Lens: IABIED - QA - Smart AI Stupid Things
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Smart AI Stupid Things]]
+
+# Lens: IABIED - QA - Just Pessimistic
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Just Pessimistic]]
+
+# Lens: IABIED - QA - AI Consciousness
+optional:: true
+source:: ![[../Lenses/IABIED - QA - AI Consciousness]]
+
+# Lens: IABIED - QA - Non-Human Entities
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Non-Human Entities]]
+
+# Lens: IABIED - QA - Won't It Choose to Be Moral
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Won't It Choose to Be Moral]]
+
+# Lens: IABIED - QA - Taking the AI's Perspective
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Taking the AI's Perspective]]
+
+# Lens: IABIED - QA - Humans Not Efficient
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Humans Not Efficient]]
+
+# Lens: IABIED - QA - Orthogonality
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Orthogonality]]
+
+# Lens: IABIED - QA - Pull the Plug
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Pull the Plug]]
+
+# Lens: IABIED - QA - Digital AIs Affect Us
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Digital AIs Affect Us]]
+
+# Lens: IABIED - QA - Keep AI in a Box
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Keep AI in a Box]]
+
+# Lens: IABIED - QA - Can We Just Contain It in a Box
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Can We Just Contain It in a Box]]
+
+# Lens: IABIED - QA - Exploit AI Weakness
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Exploit AI Weakness]]
+
+# Lens: IABIED - QA - Enhance Humans
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Enhance Humans]]
+
+# Lens: IABIED - QA - Could We Enhance Humans to Compete
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Could We Enhance Humans to Compete]]
+
+# Lens: IABIED - QA - AI Civilization
+optional:: true
+source:: ![[../Lenses/IABIED - QA - AI Civilization]]
+
+# Lens: IABIED - QA - Limited by Experiments
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Limited by Experiments]]
+
+# Lens: IABIED - QA - Nanotechnology and Protein Synthesis
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Nanotechnology and Protein Synthesis]]
+
+# Lens: IABIED - QA - Optical Illusions Discovery
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Optical Illusions Discovery]]++}

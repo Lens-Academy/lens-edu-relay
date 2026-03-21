@@ -49,4 +49,44 @@ Ask what they found surprising or new. Check if they can explain why the endpoin
 source:: ![[../Learning Outcomes/IABIED - Trace the Sable Scenario]]
 
 # Learning Outcome: IABIED - Distinguish Scenario from Prediction
-source:: ![[../Learning Outcomes/IABIED - Distinguish Scenario from Prediction]]
+source:: ![[../Learning Outcomes/IABIED - Distinguish Scenario from Prediction]]{++{"author":"AI","timestamp":1774130297106}@@
+
+# Lens: IABIED - QA - Why This Setup
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Why This Setup]]
+
+# Lens: IABIED - QA - Sable's Thinking
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Sable's Thinking]]
+
+# Lens: IABIED - QA - Galvanic Fairly Careful
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Galvanic Fairly Careful]]
+
+# Lens: IABIED - QA - Galvanic Insufficiently Careful
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Galvanic Insufficiently Careful]]
+
+# Lens: IABIED - QA - Only One Smart AI
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Only One Smart AI]]
+
+# Lens: IABIED - QA - Story Started Later
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Story Started Later]]
+
+# Lens: IABIED - QA - Sable's Expansion Phase
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Sable's Expansion Phase]]
+
+# Lens: IABIED - QA - The Ending
+optional:: true
+source:: ![[../Lenses/IABIED - QA - The Ending]]
+
+# Lens: IABIED - QA - Why Write a Fictional Scenario
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Why Write a Fictional Scenario]]
+
+# Lens: IABIED - QA - Isn't This Just Science Fiction
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Isn't This Just Science Fiction]]++}
