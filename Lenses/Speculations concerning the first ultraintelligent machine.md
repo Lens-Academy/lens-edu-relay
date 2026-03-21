@@ -6,6 +6,7 @@ tldr: I.J. Good recognized that the first machine smarter than any human would b
 #### Text
 content::
 The issue with self amplifying loops is that plans become obsolete very quickly. The system a few steps down the line will be dominated by effects that are almost impossible to foresee from the starting line. I.J. Good recognised this when he wrote the following:
+
 #### Article
 source:: [[../articles/good-speculations-concerning-first-ultraintelligent-machine]]
 from:: "The survival of man depends"
