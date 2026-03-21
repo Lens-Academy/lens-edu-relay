@@ -1,5 +1,5 @@
 ---
-title: "A central AI alignment problem: capabilities generalization, and the sharp left turn — LessWrong"
+title: "A central AI alignment problem: capabilities generalization, and the sharp left {--{"author":"AI","timestamp":1774090375069}@@turn — LessWrong"--}{++{"author":"AI","timestamp":1774090375069}@@turn"++}
 source_url: "https://www.lesswrong.com/posts/GNhMPAWcfBCASy8e6/a-central-ai-alignment-problem-capabilities-generalization"
 author:
   - "So8res"

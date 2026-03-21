@@ -1,5 +1,5 @@
 ---
-title: "Carefully Bootstrapped Alignment is organizationally hard — LessWrong"
+title: "Carefully Bootstrapped Alignment is organizationally {--{"author":"AI","timestamp":1774090371061}@@hard — LessWrong"--}{++{"author":"AI","timestamp":1774090371061}@@hard"++}
 source_url: "https://www.lesswrong.com/posts/thkAtqoQwN6DtaiGT/carefully-bootstrapped-alignment-is-organizationally-hard"
 author:
   - "Raemon"

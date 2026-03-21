@@ -1,5 +1,5 @@
 ---
-title: "Simulators by Janus — LessWrong"
+title: {--{"author":"AI","timestamp":1774090368422}@@"Simulators by Janus — LessWrong"--}{++{"author":"AI","timestamp":1774090368422}@@"Simulators"++}
 source_url: https://www.lesswrong.com/s/N7nDePaNabJdnbXeE/p/vJFdjigzmcXMhNTsx
 author: "janus"
 published: 2022-09-02
