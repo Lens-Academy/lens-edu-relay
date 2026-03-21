@@ -14,7 +14,7 @@ title: AI Safety Course
 
 # Module: [[../modules/what-even-is-ai]]
 
-# Meeting: What even is AI?
+# Meeting: Unit 2
 
 # Module: [[../modules/Cognitive Superpowers]]
 
