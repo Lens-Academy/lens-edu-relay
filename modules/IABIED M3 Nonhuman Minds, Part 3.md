@@ -43,7 +43,7 @@ Really, the learning outcome here distills back to the power of intelligence (pl
 source:: ![[../Learning Outcomes/IABIED - Human-Compatible Goals Are Vanishingly Rare]]
 
 # Learning Outcome: IABIED - We'd Lose
-source:: ![[../Learning Outcomes/IABIED - We'd Lose]]{++{"author":"AI","timestamp":1774130286564}@@
+source:: ![[../Learning Outcomes/IABIED - We'd Lose]]
 
 # Lens: IABIED - QA - AI Find Us Useful
 optional:: true
@@ -195,4 +195,4 @@ source:: ![[../Lenses/IABIED - QA - Nanotechnology and Protein Synthesis]]
 
 # Lens: IABIED - QA - Optical Illusions Discovery
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Optical Illusions Discovery]]++}
+source:: ![[../Lenses/IABIED - QA - Optical Illusions Discovery]]

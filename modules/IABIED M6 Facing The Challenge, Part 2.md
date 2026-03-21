@@ -61,7 +61,7 @@ source:: ![[../Learning Outcomes/IABIED - Perverse Incentives and Institutional 
 source:: ![[../Learning Outcomes/IABIED - The Case for Shutting It Down]]
 
 # Learning Outcome: IABIED - Where There's Life, There's Hope
-source:: ![[../Learning Outcomes/IABIED - Where There's Life, There's Hope]]{++{"author":"AI","timestamp":1774130309854}@@
+source:: ![[../Learning Outcomes/IABIED - Where There's Life, There's Hope]]
 
 # Lens: IABIED - QA - What About the Benefits of AI
 optional:: true
@@ -73,4 +73,4 @@ source:: ![[../Lenses/IABIED - QA - Can International Cooperation Really Work]]
 
 # Lens: IABIED - QA - The Draft Treaty
 optional:: true
-source:: ![[../Lenses/IABIED - QA - The Draft Treaty]]++}
+source:: ![[../Lenses/IABIED - QA - The Draft Treaty]]
