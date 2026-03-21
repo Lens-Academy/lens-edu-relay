@@ -1,5 +1,5 @@
 ---
-title: "Interpretability Will Not Reliably Find Deceptive {--{"author":"AI","timestamp":1774090385146}@@AI — AI Alignment Forum"--}{++{"author":"AI","timestamp":1774090385146}@@AI"++}
+title: "Interpretability Will Not Reliably Find Deceptive AI"
 source_url: "https://www.alignmentforum.org/posts/PwnadG4BFjaER3MGf/interpretability-will-not-reliably-find-deceptive-ai"
 author:
   - "Neel Nanda"

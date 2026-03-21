@@ -1,5 +1,5 @@
 ---
-title: "...Recursion, {--{"author":"AI","timestamp":1774090374519}@@Magic — LessWrong"--}{++{"author":"AI","timestamp":1774090374519}@@Magic"++}
+title: "...Recursion, Magic"
 author: Eliezer Yudkowsky
 published: 2008-11-25
 source_url: https://www.lesswrong.com/posts/rJLviHqJMTy8WQkow/recursion-magic

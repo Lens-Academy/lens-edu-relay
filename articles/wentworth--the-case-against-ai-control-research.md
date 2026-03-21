@@ -1,5 +1,5 @@
 ---
-title: "The Case Against AI Control {--{"author":"AI","timestamp":1774090376326}@@Research — LessWrong"--}{++{"author":"AI","timestamp":1774090376326}@@Research"++}
+title: "The Case Against AI Control Research"
 source_url: "https://www.lesswrong.com/posts/8wBN8cdNAv3c7vt6p/the-case-against-ai-control-research"
 author:
   - "johnswentworth"
