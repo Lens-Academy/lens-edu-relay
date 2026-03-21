@@ -1,5 +1,5 @@
 ---
-title: "Janus' Simulators by Scott Alexander"
+title: "Janus' {--{"author":"AI","timestamp":1774090387764}@@Simulators by Scott Alexander"--}{++{"author":"AI","timestamp":1774090387764}@@Simulators"++}
 source_url: https://www.astralcodexten.com/p/janus-simulators
 author:
   - "Scott Alexander"

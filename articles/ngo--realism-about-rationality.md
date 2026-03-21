@@ -1,5 +1,5 @@
 ---
-title: "Realism about rationality — AI Alignment Forum"
+title: "Realism about {--{"author":"AI","timestamp":1774090386738}@@rationality — AI Alignment Forum"--}{++{"author":"AI","timestamp":1774090386738}@@rationality"++}
 source_url: "https://www.alignmentforum.org/posts/suxvE2ddnYMPJN9HD/realism-about-rationality"
 author:
   - "Richard_Ngo"

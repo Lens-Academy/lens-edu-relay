@@ -1,5 +1,5 @@
 ---
-title: "AI for AI safety — AI Alignment Forum"
+title: "AI for AI {--{"author":"AI","timestamp":1774090379907}@@safety — AI Alignment Forum"--}{++{"author":"AI","timestamp":1774090379907}@@safety"++}
 source_url: "https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/ai-for-ai-safety"
 author:
   - "Joe Carlsmith"

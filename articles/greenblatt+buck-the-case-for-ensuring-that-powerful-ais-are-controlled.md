@@ -1,5 +1,5 @@
 ---
-title: "The case for ensuring that powerful AIs are controlled — AI Alignment Forum"
+title: "The case for ensuring that powerful AIs are {--{"author":"AI","timestamp":1774090381486}@@controlled — AI Alignment Forum"--}{++{"author":"AI","timestamp":1774090381486}@@controlled"++}
 source_url: "https://www.alignmentforum.org/posts/kcKrE9mzEHrdqtDpE/the-case-for-ensuring-that-powerful-ais-are-controlled"
 author:
   - "ryan_greenblatt"

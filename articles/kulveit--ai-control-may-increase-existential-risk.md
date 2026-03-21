@@ -1,5 +1,5 @@
 ---
-title: "AI Control May Increase Existential Risk — AI Alignment Forum"
+title: "AI Control May Increase Existential {--{"author":"AI","timestamp":1774090383197}@@Risk — AI Alignment Forum"--}{++{"author":"AI","timestamp":1774090383197}@@Risk"++}
 source_url: "https://www.alignmentforum.org/posts/rZcyemEpBHgb2hqLP/ai-control-may-increase-existential-risk"
 author:
   - "Jan_Kulveit"
