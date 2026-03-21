@@ -12,7 +12,7 @@ title: AI Safety Course
 
 # Module: [[../modules/feedback-loops]]
 
-# Meeting: AI
+# Meeting: AI and Feedback Loops
 
 # Module: [[../modules/Cognitive Superpowers]]
 
