@@ -1,22 +1,21 @@
 ---
 id: c549ae1c-9bab-4c11-ae9b-2c8876265a24
+title: Security Mindset and Ordinary Paranoia
 tldr: Standard engineering asks "does this work?" The security mindset asks "how does this fail when something is actively trying to break it?" This article argues that building safe AI requires thinking borrowed from cryptography — not piling up defenses, but designing systems where safety doesn't depend on outsmarting what you're containing.
 ---
-### Article: Security Mindset and Ordinary Paranoia
-source:: [[../articles/yudkowsky-security-mindset-and-ordinary-paranoia|yudkowsky-security-mindset-and-ordinary-paranoia]]
-
 #### Text
 content::
 The next piece focuses on just how hard it is to get systems we build to do the things we want and how those systems break down under adversarial pressure, which is akin to optimization pressure.  
 Effective alignment research requires more than mathematical proficiency: it demands a specific cognitive orientation known as the "security mindset." While standard engineering focuses on making a system work under normal conditions, the security mindset focuses on how a system might fail when its environment — or its own internal optimization — pushes it to its limits.
 
-#### Article-excerpt
+#### Article
+source:: [[../articles/yudkowsky-security-mindset-and-ordinary-paranoia|yudkowsky-security-mindset-and-ordinary-paranoia]]
 to:: "and some fairly mysterious innate talents."
 
 #### Text
 content::
 Imagine you've developed an AI system for automated code writing, and it achieves 99% accuracy on all tests. Instead of celebrating your success, apply a 'security mindset' to this situation. What question should you ask yourself to detect the hidden threat in this 99% success rate? 
-#### Chat: Discussion on X-Risk
+#### Chat
 instructions::
 TLDR of what the user just read:
 Summary: Security Mindset and AI Safety a

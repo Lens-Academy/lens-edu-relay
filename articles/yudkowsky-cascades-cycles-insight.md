@@ -1,5 +1,5 @@
 ---
-title: "Cascades, Cycles, Insight... — LessWrong"
+title: "Cascades, Cycles, Insight..."
 author: Eliezer Yudkowsky
 published: 2008-11-24
 source_url: https://www.lesswrong.com/posts/dq3KsCsqNotWc8nAK/cascades-cycles-insight

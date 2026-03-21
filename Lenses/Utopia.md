@@ -1,24 +1,23 @@
 ---
 id: c1cba6fe-1661-458e-83e6-eaebe2b2046b
+title: Utopia
 tags:
   - lens
   - work-in-progress
   - validator-ignore
 ---
-### Article: Utopia
-source:: [[../articles/bostrom-utopia]]
-
 #### Text
 content::
 `<introductory text>`
 
-#### Article-excerpt
+#### Article
+source:: [[../articles/bostrom-utopia]]
 to:: "`<an exact quote from the article where the exerpt should stop>`"
 
 #### Text
 content::
 `<prompt the user on how they should interact with the chatbot>`
-#### Chat: Discussion on X-Risk
+#### Chat
 instructions::
 TLDR of what the user just read:
 `<TLDR text (optional, the bot can see all the text on the page)>`

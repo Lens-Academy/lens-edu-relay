@@ -1,11 +1,10 @@
 ---
 id: 63342128-7725-43dc-9ad3-b040f7b0e118
+title: AI Control
 tldr: If we can't guarantee an AI's goals align with ours, maybe we can build a cage strong enough that it doesn't matter. AI Control focuses on containment and monitoring rather than fixing the model's internal motivations — buying time while deeper alignment work continues.
 tags:
   - lens
 ---
-
-### Page: AI Control
 
 #### Text
 content::
@@ -19,7 +18,7 @@ This module examines methods for the safe operation of systems that we cannot ye
 content::
 **How does learning how to secure an AI potentially assist that same AI in discovering escape routes?**
 
-#### Chat: Discussion on X-Risk
+#### Chat
 instructions::
 The user is answering this question:
 How does learning how to secure an AI potentially assist that same AI in discovering escape routes?

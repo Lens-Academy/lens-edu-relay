@@ -1,5 +1,5 @@
 ---
-title: "The Power of Intelligence - An Essay By Eliezer Yudkowsky"
+title: "The Power of Intelligence"
 channel: "Rational Animations"
 url: "https://www.youtube.com/watch?v=q9Figerh89g"
 ---

@@ -1,19 +1,18 @@
 ---
 id: a37a6057-a08d-4218-a1ac-fa9c19e8cb37
+title: MI for AGI Safety
 tldr: A skeptical view of whether interpretability can keep up with the pace of AI development. Connor Leahy argues that by the time researchers understand one circuit, the model has already evolved — making interpretability more like a post-mortem tool than a real-time safety measure.
 tags:
   - lens
 ---
-
-### Video: MI for AGI Safety
-source:: [[../video_transcripts/conjecture-agi-safety-connor-leahy-fli-interpretability-conference-mit-march-2023]]
 
 #### Text
 content::
 The skeptical case about interpretability is that it will not scale to the most safety-critical failures—especially deception, situational awareness, and long horizon planning, and that we may end up with comforting stories that do not reliably detect dangerous cognition.
 Connor Leahy presents a skeptical view of interpretability as a complete safety solution. His core argument is that capabilities grow faster than understanding. By the time we interpret a single circuit, the model has already evolved. Interpretability is a post-mortem tool: it tells us why we died after the fact. It does not provide the hard safety guarantees needed to prevent a rogue AGI from taking control.
 
-#### Video-excerpt
+#### Video
+source:: [[../video_transcripts/conjecture-agi-safety-connor-leahy-fli-interpretability-conference-mit-march-2023]]
 from:: 00:00
 to:: 21:01
 

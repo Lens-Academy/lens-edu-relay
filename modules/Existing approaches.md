@@ -8,7 +8,7 @@ tags:
 ---
 
 # Submodule: Welcome
-## Page: Welcome
+## Lens: Welcome
 id:: dc56fe14-2c41-4057-b112-a84c0b2ef303
 
 ### Text

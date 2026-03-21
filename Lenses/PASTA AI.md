@@ -1,24 +1,23 @@
 ---
 id: 6c5deedc-44d5-434c-a5c4-77a5a2a1a6ac
+title: "Forecasting transformative AI: what kind of AI?"
 tags :
   - lens
   - work-in-progress
   - validator-ignore
 ---
-### Article: Forecasting Transformative AI, Part 1: What Kind of AI?
-source:: [[../articles/karnofsky-forecasting-transformative-ai-part-1-what-kind-of-ai|karnofsky-forecasting-transformative-ai-part-1-what-kind-of-ai]]
-
 #### Text
 content::
 `<introductory text>`
 
-#### Article-excerpt
+#### Article
+source:: [[../articles/karnofsky-forecasting-transformative-ai-part-1-what-kind-of-ai|karnofsky-forecasting-transformative-ai-part-1-what-kind-of-ai]]
 to:: "`<an exact quote from the article where the exerpt should stop>`"
 
 #### Text
 content::
 `<prompt the user on how they should interact with the chatbot>`
-#### Chat: Discussion on X-Risk
+#### Chat
 instructions::
 TLDR of what the user just read:
 `<TLDR text (optional, the bot can see all the text on the page)>`

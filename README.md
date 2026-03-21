@@ -42,23 +42,25 @@ e.g. `Lens Educational Content/Modules/module.md`
 Required frontmatter: `slug`, `title`, `id`
 
 Any number of
-\# Text Page:
+\# Lens: (inline with `id::` + segments, or referenced with `source::`)
 \# Learning Outcome:
 
 Wiki-links must use relative paths (e.g. `[[../video_transcripts/...]]`) and targets must exist.
 
 Example:
 ```md
-# Text Page:
-id::
+# Lens: Welcome
+id:: <uuid>
+#### Text
 content::
 Lorum Ipsum
 
 # Learning Outcome:
 [[link to Learning Outcome note]]
 
-# Learning Outcome:
-[[link to 2nd learning outcome note]]
+# Lens:
+optional:: true
+source:: [[link to Lens note]]
 ```
 
 #### Learning Outcomes
@@ -85,28 +87,21 @@ Example:
 e.g. `Lens Educational Content/Lenses/lens.md`
 Required frontmatter: `id`
 
-Valid section types: `Video`, `Article`, `Text`, `Chat`
+Lenses are flat: frontmatter + H4 segments. No H3 section headers.
 
-Any number of
-\### Video: or Article:
-\#### Text:
-\#### Video-excerpt or Article-excerpt:
-\#### Chat:
+Valid segment types: `Text`, `Chat`, `Article`, `Video`, `Question`, `Roleplay`
 
-Each section type has required fields (see example below).
+Article/Video segments carry a `source::` field (inherited from prior segment of same type).
 
 Example:
 ```md
-### Video: or Article:
-source:: [[link to video_transcript or article note]]
-
 #### Text
 content::
 Lorum Ipsum
 
-#### Video-excerpt or Article-excerpt
-(optional) from:: 1:18
-(optional) to:: 15:38
+#### Article
+source:: [[../articles/article-name]]
+to:: "exact quote where excerpt stops"
 
 #### Text
 content::
@@ -115,5 +110,13 @@ Lorum Ipsum
 #### Chat
 instructions::
 You're an AI tutor
+```
+
+Video example:
+```md
+#### Video
+source:: [[../video_transcripts/video-name]]
+from:: 1:18
+to:: 15:38
 ```
 

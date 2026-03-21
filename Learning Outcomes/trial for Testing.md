@@ -43,12 +43,4 @@ enforce-voice:: true
 optional:: false
 source:: [[../Lenses/AI Evaluations]]
 
-## New-Submodule
 
-## Lens:
-optional:: false
-source:: [[../Lenses/Lens Template|Lens Template]]
-
-## Lens:
-optional:: true
-source:: [[../Lenses/Lens Template|Lens Template]]

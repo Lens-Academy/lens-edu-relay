@@ -1,0 +1,18 @@
+---
+id: a5cd2dd6-6351-4af7-9781-4b235dcbfa66
+learning-outcome: "Articulate at least one concrete action the student will take"
+tags:
+  - learning-outcome
+  - IABIED
+  - work-in-progress
+---
+
+## Test:
+
+## Lens:
+optional:: true
+source:: ![[../Lenses/IABIED - AI Safety Career Paths]]
+
+## Lens:
+optional:: true
+source:: ![[../Lenses/IABIED - Next Steps with Lens Academy]]

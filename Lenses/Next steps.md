@@ -1,12 +1,10 @@
 ---
 id: f5e812a2-04d7-40a4-9492-c59d7273f7f8
+title: Next steps
 tldr: 
 tags:
   - lens
 ---
-### Page: Next steps
-id:: ae10d3aa-9adb-47f6-a8f8-3c85da98f88e
-
 #### Text
 content::
 At this point, the question is not only what AI might do to the world. It is also whether I am ready to treat this as a field in which my own actions could matter.
@@ -53,5 +51,5 @@ If your interests lean toward governance, policy, or institutional design, a rea
 If you are not ready to switch your time, you can still contribute resources. [Manifund](https://manifund.org/) hosts AI safety regranting and a range of AI-related projects, so it can serve as one entry point for giving. 
 
 
-#### Chat: Discussion on X-Risk
+#### Chat
 instructions::

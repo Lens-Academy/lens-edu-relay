@@ -1,21 +1,20 @@
 ---
 id: cc0b8328-78dd-408e-a5c3-35fe2ec45568
+title: "AI Is Grown, Not Built"
 tldr: Nobody sat down and programmed ChatGPT to have conversations. Instead, engineers set up a training process and let billions of parameters arrange themselves. The result can talk, reason, and surprise its creators — but nobody can fully explain how. This article asks what it means to deploy something powerful when you can't explain how it works.
 ---
-### Article: AI Is Grown, Not Built
-source:: [[../articles/yudkowsky-soares-ai-is-grown-not-built|yudkowsky-soares-ai-is-grown-not-built]]
-
 #### Text
 content::
 We don’t "build" intelligence brick by brick; instead, we create conditions for it to develop using massive datasets. This "growth" leads to emergent properties, skills that the system wasn't explicitly taught and that often surprise the creators themselves. The first material in this module examines these features of the current AI development paradigm and explores the consequences of such an approach.
 
-#### Article-excerpt
+#### Article
+source:: [[../articles/yudkowsky-soares-ai-is-grown-not-built|yudkowsky-soares-ai-is-grown-not-built]]
 to:: "and we’re already seeing the warning signs."
 
 #### Text
 content::
 After reading this article, if you had to explain to a friend the main difference between how ChatGPT was created versus how a typical smartphone app was created, what would you say?
-#### Chat: Discussion on X-Risk
+#### Chat
 instructions::
 TLDR of what the user just read:
 The authors argue that modern AI poses a fundamental control problem: AI systems are "grown" through gradient descent rather than designed, meaning engineers understand the training process but not the resulting system. This creates a dangerous gap between capability and control.

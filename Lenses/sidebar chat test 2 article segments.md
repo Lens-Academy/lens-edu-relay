@@ -1,13 +1,11 @@
 ---
 id: a86e3069-4757-4037-963a-631c2faad280
+title: Sidebar Chat Test (2 Article Segments)
 tags:
   - lens
   - work-in-progress
 ---
 
-
-### Article
-source:: [[../articles/wikipedia-existential-risk-from-ai]]
 
 #### Text
 content::
@@ -23,7 +21,8 @@ This is not the behavior of people who are carefully creating traditional softwa
 
 Engineers aren’t about to start understanding AIs, not anytime soon. In the mid-1950s, humanity embarked on a great project to understand intelligence well enough to produce it inside of a machine. That research progress stalled out in a series of “AI winters,” where money invested into AI research never paid off and funding repeatedly collapsed. Humanity never learned to understand intelligence; we never learned to build minds by hand.
 
-#### Article-excerpt
+#### Article
+source:: [[../articles/wikipedia-existential-risk-from-ai]]
 to:: architecture.<sup>[[27]](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence#cite_note-28)</sup>
 
 #### Text:
@@ -52,7 +51,7 @@ This all adds up to a worrying picture, where companies are racing to build a ki
 
 Before you continue, please chat with the tutor for a bit:
 
-#### Chat: Discussion on X-Risk
+#### Chat
 instructions::
 Hello
 
@@ -69,7 +68,7 @@ But even people who know the tricks can’t use them to make AIs behave as they�
 
 This is not the behavior of people who are carefully creating traditional software. This is the behavior of people who are growing a whole new sort of creature and then taking whatever they get.
 
-#### Article-excerpt
+#### Article
 from:: ## Potential AI capabilities
 to:: <sup>[[69]](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence#cite_note-70)</sup>
 

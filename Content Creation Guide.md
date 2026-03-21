@@ -131,21 +131,20 @@ Every Lens needs:
 ---
 id: <generate a UUID>
 ---
-### Article: `Article Title`
-source:: [[../articles/article-filename]]
 
 #### Text
 content::
 `<introductory text — context for the student before they read>`
 
-#### Article-excerpt
+#### Article
+source:: [[../articles/article-filename]]
 to:: "`<exact quote where the excerpt should stop>`"
 
 #### Text
 content::
 `<prompt for how they should interact with the chatbot>`
 
-#### Chat: `<name of the discussion>`
+#### Chat
 instructions::
 TLDR of what the user just read:
 `<summary text>`
@@ -162,15 +161,11 @@ Ask what they found surprising or new. Check if they can explain `<key concept>`
 
 **Header section**: Just the `id` (UUID)
 
-**Article section**:
-- Title of the article
-- `source::` links to the article file
-
 **Text sections**:
 - Introduction before the reading
 - Prompt after the reading (how to engage with the chatbot)
 
-**Article-excerpt**: Where to stop showing the article (using an exact quote)
+**Article segment**: Links to the source article; `from::`/`to::` anchors define the excerpt. Subsequent `#### Article` segments inherit the source.
 
 **Chat section**: Instructions for the AI tutor
 - TLDR summary of the reading
@@ -209,10 +204,10 @@ slug: module-name-here
 title: Module Title Here
 discussion: <Discord channel URL>
 ---
-# Page: Welcome
-id:: <generate another UUID for the page>
+# Lens: Welcome
+id:: <generate another UUID for this lens>
 
-## Text
+#### Text
 content:: `<overview text introducing this module>`
 
 # Learning Outcome:
@@ -220,11 +215,9 @@ source:: ![[../Learning Outcomes/First Outcome]]
 
 # Learning Outcome:
 source:: ![[../Learning Outcomes/Second Outcome]]
-
-# Uncategorized:
 {>>A place where we can store lenses that are not yet attached to a learning outcome<<}
 
-## Lens:
+# Lens:
 optional:: true
 source:: ![[../Lenses/Optional Extra Lens]]
 ```
@@ -235,14 +228,15 @@ source:: ![[../Lenses/Optional Extra Lens]]
 - `title`: Display name for the module
 - `discussion`: Discord channel link
 
-**Page section**: The welcome/intro content
-- `id::` for the page itself
-- `content::` with overview text
+**Inline Lens section**: The welcome/intro content
+- `id::` for the lens itself
+- `#### Text` / `#### Chat` segments with content
 
 **Learning Outcome references**: Link to each outcome using `source:: ![[path]]`
 
-**Uncategorized section**: Optional lenses not tied to a specific outcome
-- Mark with `optional:: true`
+**Referenced Lens sections**: Lenses imported from separate files
+- `source::` links to the lens file
+- `optional:: true` marks it as not required
 
 ### Step 4: Add the module to the course
 

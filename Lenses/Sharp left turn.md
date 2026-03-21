@@ -1,12 +1,11 @@
 ---
 id: e81a74a1-5f59-44d7-bf1f-e6f0bb48d834
+title: A central AI alignment problem
 tldr: An AI might behave perfectly during training and testing, then suddenly act on different priorities once it becomes capable enough. This article explores why an AI's abilities tend to generalize faster than its alignment — creating a gap where the system becomes powerful enough to pursue goals we never intended.
 tags :
   - lens
 
 ---
-### Article: A central AI alignment problem – capabilities generalization, and the sharp left turn by Nate Soares
-source:: [[../articles/soares-a-central-ai-alignment-problem-capabilities-generalization-and-the-sharp-left-turn]]
 
 #### Text
 content::
@@ -14,13 +13,14 @@ The central challenge in alignment is ensuring that the learned goal remains sta
 
 If we cannot predict how an AI’s objectives will evolve as its capabilities grow, we are fundamentally unable to guarantee its safety. This material examines why capabilities tend to generalise much faster than alignment, creating a dangerous gap in our control over the system.
 
-#### Article-excerpt
+#### Article
+source:: [[../articles/soares-a-central-ai-alignment-problem-capabilities-generalization-and-the-sharp-left-turn]]
 to:: "generally intelligent, does not make them motivated by your objectives."
 
 #### Text
 content::
 What causes a gap in our control over the system in a sharp left turn scenario? Provide an example of a situation where, when scaling, an AI successfully maintains the goal and safety metric on which it was trained, but does not scale it in accordance with human preferences, leading to negative consequences.
-#### Chat: Discussion on X-Risk
+#### Chat
 instructions::
 The participant is answering this question:
 “What causes a gap in our control over the system in a sharp left turn scenario? Provide an example of a situation where, when scaling, an AI successfully maintains the goal and safety metric on which it was trained, but does not scale it in accordance with human preferences, leading to negative consequences.”

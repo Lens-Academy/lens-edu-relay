@@ -1,5 +1,5 @@
 ---
-title: "Carefully Bootstrapped Alignment is organizationally hard — LessWrong"
+title: "Carefully Bootstrapped Alignment is organizationally hard"
 source_url: "https://www.lesswrong.com/posts/thkAtqoQwN6DtaiGT/carefully-bootstrapped-alignment-is-organizationally-hard"
 author:
   - "Raemon"
@@ -74,7 +74,7 @@ If your team doesn't have this property... I think your plan is, in effect "buil
 
 Whatever you think of the technical challenges, here are some organizational challenges that make this difficult, especially for larger orgs:
 
-**Moving slowly and carefully is** ***annoying*****.** There's a constant tradeoff about getting more done, and elevated risk. Employees who don't believe in the risk will likely try to circumvent or goodhart the security procedures. Filtering for for employees willing to take the risk seriously (or training them to) is difficult.
+**Moving slowly and carefully is *annoying*.** There's a constant tradeoff about getting more done, and elevated risk. Employees who don't believe in the risk will likely try to circumvent or goodhart the security procedures. Filtering for for employees willing to take the risk seriously (or training them to) is difficult.
 
 There's also the fact that many security procedures *are* just security theater. Engineers have sometimes been burned on overzealous testing practices. Figuring out a set of practices that are actually helpful, that your engineers and researchers have good reason to believe in, is a nontrivial task.
 

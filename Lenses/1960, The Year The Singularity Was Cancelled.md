@@ -1,11 +1,9 @@
 ---
 id: b24e0198-8fa8-49cd-b7c6-396bc5f847be
+title: "1960, The Year The Singularity Was Cancelled"
 tags:
   - lens
 ---
-### Article: 1960, The Year The Singularity Was Cancelled
-source:: [[../articles/1960, The Year The Singularity Was Cancelled]]
-
 #### Text
 content::
 There is no consensus in the field regarding exactly when AGI will emerge or which specific changes compared to today's systems will prove decisive. No one knows it. However, this does not mean that we cannot think about the future systematically.
@@ -16,14 +14,15 @@ We begin this module with an article demonstrating that history does not have to
 
 The module opens with a question: how, exactly, do people attempt to predict major historical shifts?
 
-#### Article-excerpt
+#### Article
+source:: [[../articles/1960, The Year The Singularity Was Cancelled]]
 from:: "***Epis"
 
 #### Text
 content::
 Do you agree that AI could trigger a return to hyperbolic growth? Explain your opinion.
 
-#### Chat:
+#### Chat
 instructions::
 The user is answering this question:
 Do you agree that AI could trigger a return to hyperbolic growth? Explain your opinion.

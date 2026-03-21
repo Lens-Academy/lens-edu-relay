@@ -1,0 +1,33 @@
+---
+id: 6ff6313a-418d-4094-811f-10555a49efc9
+title: AI Safety Career Paths
+tags:
+  - lens
+  - IABIED
+  - work-in-progress
+---
+
+#### Text
+content::
+Now that you've completed the book, you may be wondering how to get more involved in AI safety. There are several paths depending on your background and interests:
+
+**Technical AI Safety Research** — Working directly on alignment, interpretability, or evaluation of AI systems. Organizations include MIRI, Redwood Research, ARC, and academic labs at universities like Oxford, Cambridge, and Berkeley.
+
+**AI Governance and Policy** — Working on the regulatory and international coordination challenges discussed in Chapters 13-14. Organizations include the Centre for AI Safety, the Future of Life Institute, and various government bodies.
+
+**Advocacy and Community Building** — Helping more people understand the issues covered in this book. This includes writing, organizing, and supporting the broader AI safety community.
+
+**Field Building** — Supporting the growth of the AI safety ecosystem through funding, mentorship, or creating educational resources (like this course!).
+
+For a more comprehensive guide, visit 80000hours.org/problem-profiles/artificial-intelligence/
+
+#### Chat
+instructions::
+The student is exploring AI safety career paths after completing the IABIED book club.
+
+Discussion topics:
+- Based on your background and interests, which path appeals to you most?
+- What's one concrete step you could take this week to explore that path further?
+- Do you know anyone in your network who might be interested in AI safety? How would you start that conversation?
+
+Ask what specific skills or experience they bring that might be relevant to AI safety work.

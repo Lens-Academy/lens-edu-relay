@@ -10,9 +10,9 @@ tags:
   - validator-ignore
 ---
 
-# Page: Welcome
+# Lens: Welcome
 id::
-## Text
+#### Text
 content::
 
 

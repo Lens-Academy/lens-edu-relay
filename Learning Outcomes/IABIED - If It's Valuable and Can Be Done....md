@@ -1,20 +1,14 @@
 ---
-id: <uuid, generate at https://www.uuidgenerator.net/version4>
-discussion: <discord url>
-learning-outcome: "Students can explain why ASI is relatively easy to predict, whereas timelines remain very difficult. Bonus: They begin to get a feel for how forecasting works."
+id: ed5fab41-b9a2-466f-89bd-825af3944c1c
+learning-outcome: "Explain why ASI development is relatively easy to predict while timelines remain hard, using the easy calls vs hard calls framework"
 tags:
   - work-in-progress
-  - learning outcome
+  - learning-outcome
   - IABIED
 ---
-## Lens:
-optional:: false
-source:: [[../Lenses/AIBIED - Introduction]]
+
+## Test:
 
 ## Lens:
 optional:: true
-source:: [[../Lenses/AIBIED - Humanitys Special Power]]
-
-## Lens:
-optional:: true
-source:: [[../Lenses/AIBIED - Grown, Not Crafted]]
+source:: ![[../Lenses/IABIED - QA - Is Intelligence a Meaningful Concept]]

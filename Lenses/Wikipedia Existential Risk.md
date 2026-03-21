@@ -1,21 +1,20 @@
 ---
 id: 01f6df31-099f-48ed-adef-773cc4f947e4
+title: Existential Risk from AI
 tldr: The concern isn't that AI will "turn evil." It's that a system pursuing perfectly reasonable goals might find that humans are in the way — and be capable enough to act on it. This overview covers the core ideas behind AI as a source of large-scale risk, from misaligned goals to the difficulty of staying in control.
 ---
-### Article: Existential Risk from AI
-source:: [[../articles/wikipedia-existential-risk-from-ai]]
-
 #### Text
 content::
 We continue with an overview of the main concepts regarding AI as a source of existential threat: what capabilities of this technology are considered first and foremost, and why the task of eliminating AI risks differs from similar tasks for other impressive technologies created by humanity.
 
-#### Article-excerpt
+#### Article
+source:: [[../articles/wikipedia-existential-risk-from-ai]]
 to:: "the "evasion of human control"."
 
 #### Text
 content::
 In your own words, what is instrumental convergence?
-#### Chat: Discussion on X-Risk
+#### Chat
 instructions::
 TLDR of what the user just read:
 AI x-risk is the hypothesis that AGI/superintelligence could cause human extinction

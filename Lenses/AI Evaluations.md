@@ -1,12 +1,10 @@
 ---
 id: 2d930d96-1658-4143-b29c-52e3b9259396
+title: AI Evaluations
 tldr: How do you know if an AI system is safe? Evaluations are structured tests designed to measure what models can do — especially the dangerous things. But passing a test and being safe aren't the same thing, and understanding why is the first step to better measurement.
 tags:
   - lens
 ---
-
-### Page: AI Evaluations
-id:: eaf174f0-0e6b-401c-9bba-f6d325beb262
 
 #### Text
 content::
@@ -20,7 +18,7 @@ This module focuses on the empirical testing of what AI systems can do and ident
 content::
 **Why does high accuracy on a benchmark not guarantee that a system is safe to deploy?**
 
-#### Chat: Discussion on X-Risk
+#### Chat
 instructions::
 The user is answering this question:
 Why does high accuracy on a benchmark not guarantee that a system is safe to deploy?

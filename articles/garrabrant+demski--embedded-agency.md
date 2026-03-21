@@ -1,5 +1,5 @@
 ---
-title: "Embedded Agency (full-text version) — LessWrong"
+title: "Embedded Agency (full-text version)"
 source_url: "https://www.lesswrong.com/posts/i3BTagvt3HbPMx6PN/embedded-agency-full-text-version"
 author:
   - "Scott Garrabrant"

@@ -1,23 +1,22 @@
 ---
 id: bc7f7e53-0125-4e5b-af01-88c1fbcdb276
+title: Meditations on Moloch
 tldr: Even if every AI researcher wants a safe outcome, competitive pressure can push everyone toward outcomes nobody wants. This essay explores "Moloch" — a name for the traps and perverse incentives that drive groups to collectively destroy what they individually value.
 tags :
   - lens
 ---
-### Article: Meditations on Moloch - Scott Alexander
-source:: [[../articles/alexander-meditations-on-moloch]]
-
 #### Text
 content::
 The failure of alignment is not always a result of technical incompetence: often, it is a consequence of coordination failure. This essay explores the concept of "Moloch," a personification of multipolar traps and perverse incentives that drive agents toward outcomes no one desires. In the context of AI, Moloch represents the competitive pressure that forces companies and nations to accelerate development while cutting corners on safety. Even if every individual researcher wants a safe outcome, the system as a whole can be optimised for destruction. This material examines why technical safety alone is insufficient if we cannot solve the game-theoretic forces that govern our world. 
 
-#### Article-excerpt
+#### Article
+source:: [[../articles/alexander-meditations-on-moloch]]
 to:: "! Down to the river! into the street!*"
 
 #### Text
 content::
 Consider the structure of the "traps" described by Scott Alexander. Try to find parallels between "Moloch" in human society and "instrumental convergence" in AI. What differences do you see?
-#### Chat: Discussion on X-Risk
+#### Chat
 instructions::
 The participant is answering this question:
 Consider the structure of the "traps" described by Scott Alexander. Try to find parallels between "Moloch" in human society and "instrumental convergence" in AI. What differences do you see?

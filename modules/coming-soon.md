@@ -4,9 +4,9 @@ slug: coming-soon
 title: Coming soon!
 ---
 
-# Page: Coming Soon
+# Lens: Coming Soon
 id:: b2c3d4e5-6789-01bc-def2-3456789012cd
-## Text
+#### Text
 content:: 
 Coming soon!
 

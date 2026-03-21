@@ -1,5 +1,6 @@
 ---
 id: b2525f8a-9290-4900-bd03-44cc512287a2
+title: What do I do next?
 tags:
   - lens
   - work-in-progress
@@ -10,7 +11,7 @@ tags:
 #### Text
 content::
 `<introductory text>`
-#### Chat: Discussion on X-Risk
+#### Chat
 instructions::
 TLDR of what the user just read:
 `<TLDR text (optional, the bot can see all the text on the page)>`

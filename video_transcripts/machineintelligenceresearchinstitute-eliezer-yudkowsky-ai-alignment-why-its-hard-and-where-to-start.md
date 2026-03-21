@@ -1,5 +1,5 @@
 ---
-title: "Eliezer Yudkowsky – AI Alignment: Why It's Hard, and Where to Start"
+title: "AI Alignment: Why It's Hard, and Where to Start"
 channel: "Machine Intelligence Research Institute"
 url: "https://www.youtube.com/watch?v=EUjc1WuyPT8"
 ---

@@ -1,5 +1,6 @@
 ---
 id: 8a1e320a-bf57-4ddf-88fa-074408716157
+title: Sidebar Chat Test (1 Article Segment)
 tags:
   - lens
   - work-in-progress
@@ -7,9 +8,6 @@ tags:
 
 %% hello world %%
 
-### Article {>>{"author":"Luc","timestamp":1772447436480}@@And here<<}
-source:: [[../articles/karnofsky-most-important-century]]
-%% hi there %%
 #### Text
 content:: %% and here? %%
 %% Here is an Obsidian comment %%
@@ -35,7 +33,8 @@ This is not the behavior of people who are carefully creating traditional softwa
 
 Engineers aren’t about to start understanding AIs, not anytime soon. In the mid-1950s, humanity embarked on a great project to understand intelligence well enough to produce it inside of a machine. That research progress stalled out in a series of “AI winters,” where money invested into AI research never paid off and funding repeatedly collapsed. Humanity never learned to understand intelligence; we never learned to build minds by hand.
 
-#### Article-excerpt {>>{"author":"Luc","timestamp":1772448871818}@@Let's add a little comment here too<<}
+#### Article
+source:: [[../articles/karnofsky-most-important-century]]
 to:: like putting safety first when driving. But today, such possibilities get little attention.
 
 #### Text:
@@ -64,7 +63,7 @@ This all adds up to a worrying picture, where companies are racing to build a ki
 
 Before you continue, please chat with the tutor for a bit:
 
-#### Chat: Discussion on X-Risk
+#### Chat
 instructions::
 Hello
 

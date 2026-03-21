@@ -1,11 +1,10 @@
 ---
 id: 9e925489-937b-4317-9bd1-f3d59807ab3a
+title: Agent Foundations
 tldr: What if current neural networks are too messy to reason about safely? Agent Foundations treats AI safety as a formal mathematical problem, seeking universal laws that govern any intelligent system — building safety from first principles rather than patching current systems.
 tags:
   - lens
 ---
-
-### Page: Agent Foundations
 
 #### Text
 content::
@@ -19,7 +18,7 @@ This module approaches safety through the lens of mathematical theory, formal lo
 content::
 **What would make Agent Foundations feel “real” to you: predictive theorems, better threat models etc?**
 
-#### Chat: Discussion on X-Risk
+#### Chat
 instructions::
 The user is answering this question:
 What would make Agent Foundations feel “real” to you: predictive theorems, better threat models etc?

@@ -1,25 +1,23 @@
 ---
 id: 11f0d83f-f8ec-4549-b82c-460c22288a9b
+title: "6 reasons why alignment is hard"
 tldr: Why do arguments about AI risk often feel off, even to people who take technology seriously? This article identifies six ways our evolved intuitions lead us astray — from assuming smart things will share our common sense to underestimating how different an optimizer's reasoning can be from our own.
 tags :
   - lens
 
 ---
-### Article: 6 reasons why alignment-is-hard discourse seems alien to human intuitions by Steven Byrnes
-
-source:: [[../articles/byrnes-6-reasons-why-alignment-is-hard-discourse-seems-alien]]
-
 #### Text
 content::
 The difficulty of AI alignment is often underestimated because the risks do not fit neatly into human cognitive biases. This article explores why the arguments for alignment danger often feel counter-intuitive or even "alien" to our natural reasoning. We tend to anthropomorphise AI, assuming it will possess human-like common sense or social constraints. However, artificial agents operate on fundamentally different principles of optimization. Researchers identify specific reasons why our evolutionary heritage makes it difficult to grasp the scale of the challenge: from our reliance on social feedback to our misunderstanding of how complex goals emerge from simple code. If we rely solely on our intuition, we will likely miss the point where the system becomes uncontrollable. This material examines the psychological barriers that prevent us from taking the alignment problem as seriously as the mathematics suggest we should.
 
-#### Article-excerpt
+#### Article
+source:: [[../articles/byrnes-6-reasons-why-alignment-is-hard-discourse-seems-alien]]
 to:: "invoking a misleading mental image if they lean on §5.1 intuitions."
 
 #### Text
 content::
 Many people intuitively assume that a truly superintelligent AI will possess a kind of "common sense" and understand that destroying resources for a petty goal is foolish. Why does the author of this article consider this expectation a dangerous misconception?
-#### Chat: Discussion on X-Risk
+#### Chat
 instructions::
 **The participant is answering this question:
 Many people intuitively assume that a truly superintelligent AI will possess a kind of ‘common sense’ and understand that destroying resources for a petty goal is foolish. Why does the author consider this expectation a dangerous misconception?**

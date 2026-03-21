@@ -1,5 +1,5 @@
 ---
-title: Security Mindset and Ordinary Paranoia — LessWrong
+title: "Security Mindset and Ordinary Paranoia"
 source_url: https://www.lesswrong.com/posts/8gqrbnW758qjHFTrH/security-mindset-and-ordinary-paranoia
 author:
   - "Eliezer Yudkowsky"

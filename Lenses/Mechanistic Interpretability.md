@@ -1,12 +1,11 @@
 ---
 id: 6a8d7401-4177-4cb6-8ec8-ff7f6e52c230
+title: Mechanistic Interpretability
 tldr: We have full access to every number inside a neural network. So why can't we just read off what it believes or wants? Mechanistic interpretability tries to bridge that gap — reverse-engineering how models represent and process information, one circuit at a time.
+discussion: https://discord.com/channels/1440725236843806762/1483418591482347723
 tags:
   - lens
 ---
-### Page: Mechanistic Interpretability
-id:: ae10d3aa-9adb-47f6-a8f8-3c85da98f88e
-
 #### Text
 content::
 **Mechanistic Interpretability** is the study of the internal workings of AI models. It seeks to reverse-engineer neural networks into human-understandable algorithms. Researchers analyze individual neurons and connections to see how they represent concepts.
@@ -19,7 +18,7 @@ The field gained momentum through the work of Chris Olah and his teams at OpenAI
 content::
 **We have full access to every parameter and activation in the model, why isn’t that enough to just read off what it believes, wants, or will do?**
 
-#### Chat: Discussion on X-Risk
+#### Chat
 instructions::
 The user is answering this question:
 We have full access to every parameter and activation in the model, why isn’t that enough to just read off what it believes, wants, or will do?

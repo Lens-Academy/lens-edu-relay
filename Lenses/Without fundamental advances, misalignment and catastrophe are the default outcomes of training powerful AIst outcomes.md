@@ -1,24 +1,24 @@
 ---
 id: 0142f30d-e2a6-47b3-8125-33f6fede737e
+title: Without fundamental advances
 tldr: Many alignment proposals assume that iterating on current training with enough safety patches will probably work out. This article argues the opposite — given how we currently build AI, misalignment isn't the exception. It's what we should expect by default without fundamentally new approaches.
 tags :
   - lens
 ---
-### Article: Without fundamental advances, misalignment and catastrophe are the default outcomes of training powerful AIs
-source:: [[../articles/gillen+barnett-without-fundamental-advances,-misalignment-and-catastrophe-are-the-default-outcomes-of-training-powerful-ai]]
 
 #### Text
 content::
 Many alignment proposals assume that if we just iterate on current training and add enough safety patches, things will probably work out. This material argues the opposite: given how we currently build powerful AI systems, misalignment and catastrophe are the default outcomes
 
-#### Article-excerpt
+#### Article
+source:: [[../articles/gillen+barnett-without-fundamental-advances,-misalignment-and-catastrophe-are-the-default-outcomes-of-training-powerful-ai]]
 to:: "research task every 8 minutes."
 
 #### Text
 content::
 The author argues that we are in a situation where the "blueprints" of our AI fundamentally prevent us from predicting its behavior at a superhuman level. If so, what specific "fundamental advances" in security theory could convince you that the system can be safely deployed? Or do you believe we can get by without complete theoretical clarity?
 
-#### Chat: Discussion on X-Risk
+#### Chat
 instructions::
 The participant is answering this question:
 The author argues that we are in a situation where the "blueprints" of our AI fundamentally prevent us from predicting its behavior at a superhuman level. If so, what specific "fundamental advances" in security theory could convince you that the system can be safely deployed? Or do you believe we can get by without complete theoretical clarity?

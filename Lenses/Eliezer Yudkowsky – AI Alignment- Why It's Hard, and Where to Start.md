@@ -1,17 +1,16 @@
 ---
 id: 85271748-4494-43ad-9c02-35319dacc9bd
+title: "AI Alignment: Why It's Hard, and Where to Start"
 tldr: To guide a missile, we first had to invent calculus. AI alignment may require a similar leap — a mathematical framework for how powerful optimizers behave. This talk explains why intuition alone won't cut it, and why the field needs something closer to a science of alignment before we can trust the trajectory.
 tags :
   - lens
 ---
-### Video: Eliezer Yudkowsky – AI Alignment: Why It's Hard, and Where to Start
-source:: [[../video_transcripts/machineintelligenceresearchinstitute-eliezer-yudkowsky-ai-alignment-why-its-hard-and-where-to-start]]
-
 #### Text
 content::
 The problem of AI alignment requires a rigorous theoretical foundation. To successfully guide a missile, humanity first had to develop differential calculus, which allowed it to describe the laws of gravity and the motion of bodies. Without this mathematical apparatus, the launch of a powerful missile would result in a series of catastrophic explosions. Like rocket science, AI safety is a high-level engineering challenge. This video explains: an intuitive understanding of goals is insufficient for controlling superhuman systems. We need formal laws describing the behavior of powerful optimizers. Only with a reliable "mathematics of alignment" will we be able to guarantee the stability of an AI's trajectory.
 
-#### Video-excerpt
+#### Video
+source:: [[../video_transcripts/machineintelligenceresearchinstitute-eliezer-yudkowsky-ai-alignment-why-its-hard-and-where-to-start]]
 from:: 42:53
 to:: 60:01
 
@@ -22,7 +21,7 @@ Choose the question you prefer and discuss it with AI tutor:
 * How do you understand the metaphor between AI and rocket science and cryptography used in this video? Which similarities do you think are accurately identified? And what differences should be considered to prevent this analogy from going too far?  
 * When you encounter a proposal at the level of "just aim for the moon and then steer," what two clarifying requirements from the article would you apply to distinguish a viable idea from "0% success," and what exactly would you ask the author of the idea to describe in a simplified model?
 
-#### Chat: Discussion on X-Risk
+#### Chat
 instructions::
 **The participant will answer ONE of these prompts: 
 A) How do you understand the metaphor between AI and rocket science and cryptography? Which similarities are accurate, and what differences matter so the analogy does not go too far? 

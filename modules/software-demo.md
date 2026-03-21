@@ -5,28 +5,24 @@ title: Introduction to AI Safety
 tags:
   - work-in-progress
 ---
-# Uncategorized:
+# Lens:
+source:: [[../Lenses/sidebar chat test 1 article segment|sidebar chat test 1 article segment]]
 
-## Lens:
-source::
-[[../Lenses/sidebar chat test 1 article segment|sidebar chat test 1 article segment]]
+# Lens:
+source:: [[../Lenses/sidebar chat test 2 article segments|sidebar chat test 2 article segments]]
 
-## Lens:
-source::
-[[../Lenses/sidebar chat test 2 article segments|sidebar chat test 2 article segments]]
-
-# Page: Welcome to AI Safety
+# Lens: Welcome to AI Safety
 id:: d1e2f3a4-b5c6-7890-d1e2-f3a4b5c67890
-## Text
+#### Text
 content::
 We begin by examining the potential of AI and the risks and opportunities
 that the characteristics of this technology present to humanity. Hello
 
-## Chat
+#### Chat
 instructions::
 You're a tutor.
 
-## Text
+#### Text
 content::
 hello again
 
@@ -34,18 +30,14 @@ hello again
 source::
 [[../Learning Outcomes/trial for Testing|trial for Testing]]
 
-# Uncategorized:
-## Lens:
-source::
-[[../Lenses/collapsed article text test]]
+# Lens:
+source:: [[../Lenses/collapsed article text test]]
 
-## Lens:
-source::
-[[../Lenses/Trial question and roleplay]]
+# Lens:
+source:: [[../Lenses/Trial question and roleplay]]
 
-## Lens:
-source::
-[[../Lenses/Kurzgesagt software demo]]
+# Lens:
+source:: [[../Lenses/Kurzgesagt software demo]]
 
 # Learning Outcome:
 source:: [[../Learning Outcomes/Demo LO]]
