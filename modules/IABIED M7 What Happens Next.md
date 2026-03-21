@@ -50,4 +50,12 @@ Start by asking the student to present the complete argument. Listen carefully, 
 source:: ![[../Learning Outcomes/IABIED - Synthesize the Core Argument]]
 
 # Learning Outcome: IABIED - Identify Your Path Forward
-source:: ![[../Learning Outcomes/IABIED - Identify Your Path Forward]]
+source:: ![[../Learning Outcomes/IABIED - Identify Your Path Forward]]{++{"author":"AI","timestamp":1774130312202}@@
+
+# Lens: IABIED - AI Safety Career Paths
+optional:: true
+source:: ![[../Lenses/IABIED - AI Safety Career Paths]]
+
+# Lens: IABIED - Next Steps with Lens Academy
+optional:: true
+source:: ![[../Lenses/IABIED - Next Steps with Lens Academy]]++}

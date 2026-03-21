@@ -52,4 +52,68 @@ Ask what they found surprising or new. Check if they can enumerate the five curs
 source:: ![[../Learning Outcomes/IABIED - The Five Engineering Curses]]
 
 # Learning Outcome: IABIED - Alchemy, Not Science
-source:: ![[../Learning Outcomes/IABIED - Alchemy, Not Science]]
+source:: ![[../Learning Outcomes/IABIED - Alchemy, Not Science]]{++{"author":"AI","timestamp":1774130306507}@@
+
+# Lens: IABIED - QA - AI Differs from Precedents
+optional:: true
+source:: ![[../Lenses/IABIED - QA - AI Differs from Precedents]]
+
+# Lens: IABIED - QA - Isn't AI Different from Nuclear Reactors
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Isn't AI Different from Nuclear Reactors]]
+
+# Lens: IABIED - QA - Time to Solve Alignment
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Time to Solve Alignment]]
+
+# Lens: IABIED - QA - Lots of Different AIs
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Lots of Different AIs]]
+
+# Lens: IABIED - QA - Slow AI Integration
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Slow AI Integration]]
+
+# Lens: IABIED - QA - Before and After
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Before and After]]
+
+# Lens: IABIED - QA - Chicago Pile-1
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Chicago Pile-1]]
+
+# Lens: IABIED - QA - Chicago Pile-1 Historical Analysis
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Chicago Pile-1 Historical Analysis]]
+
+# Lens: IABIED - QA - Muddle Through
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Muddle Through]]
+
+# Lens: IABIED - QA - Alignment All or Nothing
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Alignment All or Nothing]]
+
+# Lens: IABIED - QA - Governments Get Involved
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Governments Get Involved]]
+
+# Lens: IABIED - QA - Reckless Means Incompetent
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Reckless Means Incompetent]]
+
+# Lens: IABIED - QA - Hardware Overhang
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Hardware Overhang]]
+
+# Lens: IABIED - QA - Race for Alignment Research
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Race for Alignment Research]]
+
+# Lens: IABIED - QA - Non-Dangerous Deployment
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Non-Dangerous Deployment]]
+
+# Lens: IABIED - QA - Can Interpretability Solve This
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Can Interpretability Solve This]]++}
