@@ -117,5 +117,13 @@ source:: ![[../Lenses/IABIED - QA - Curiosity Isn't Convergent]]
 
 # Lens: IABIED - QA - Human Values Are Contingent
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Human Values Are Contingent]]
+source:: ![[../Lenses/IABIED - QA - Human Values Are Contingent]]{++{"author":"AI","timestamp":1774188191845}@@
+
+# Lens: IABIED - QA - The Road to Wanting
+optional:: true
+source:: ![[../Lenses/IABIED - QA - The Road to Wanting]]
+
+# Lens: IABIED - QA - Smart AIs Spot Lies
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Smart AIs Spot Lies]]++}
 
