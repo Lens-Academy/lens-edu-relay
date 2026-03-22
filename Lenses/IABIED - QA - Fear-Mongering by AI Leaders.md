@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774189550247}@@---
+---
 id: fbf978ff-f7f6-4653-8de7-198f7b414cdb
 title: "Isn't this all just fear-mongering by AI leaders?"
 tags:
@@ -26,4 +26,4 @@ TLDR: The authors argue that CEO incentives don't tell us whether AI is dangerou
 Discussion topics:
 - Does separating "who's saying it" from "what they're saying" change how you evaluate AI risk claims?
 - Sam Altman wrote in 2015 that AI is "probably the greatest threat to humanity" but didn't mention this when testifying to Congress. What do you make of that?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

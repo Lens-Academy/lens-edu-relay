@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774188168135}@@---
+---
 id: a7c3e1f2-4b89-4d6a-9e15-8c2f0a3d7b61
 title: "The Road to Wanting"
 tags:
@@ -25,4 +25,4 @@ TLDR: Wantlike behavior is a spectrum from simple thermostats to complex agents.
 Discussion topics:
 - The authors describe a spectrum from thermostats to beavers. Where on this spectrum do you think current AI systems fall? Where might future systems fall?
 - Can you think of an example where you've committed anthropomorphism or mechanomorphism when thinking about AI?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774188815243}@@---
+---
 title: "But experts don't all agree about the risks!"
 source_url: https://ifanyonebuildsit.com/12/but-experts-dont-all-agree-about-the-risks
 published: 2025-09-16
@@ -42,4 +42,4 @@ How do you figure out whether those worries are real? How do you figure out who'
 
 [\*](#ftnt281_ref) More examples, including surveys showing that these examples are widely shared in the field, can be found in our discussion of what [AI Experts say about catastrophe scenarios](/intro/ai-experts-on-catastrophe-scenarios).
 
-[†](#ftnt282_ref) Considered the highest honor in the field.++}
+[†](#ftnt282_ref) Considered the highest honor in the field.

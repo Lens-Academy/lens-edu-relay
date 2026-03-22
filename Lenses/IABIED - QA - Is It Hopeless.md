@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774189735564}@@---
+---
 id: 38e41e7a-a68e-4065-9a5d-7b58c891135a
 title: "Is the situation hopeless?"
 tags:
@@ -26,4 +26,4 @@ TLDR: The authors say no -- this is a fight we can win. The world is worth fight
 Discussion topics:
 - After reading the book's arguments about the severity of the threat, does this brief note of hope feel earned?
 - What gives you the most hope or concern about humanity's ability to respond?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

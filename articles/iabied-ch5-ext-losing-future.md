@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774189157117}@@---
+---
 title: "Losing the Future"
 source_url: https://ifanyonebuildsit.com/5/losing-the-future
 published: 2025-09-16
@@ -60,4 +60,4 @@ We think that *that* will be lost to the future, if humanity does not change cou
 
 [\*](#ftnt218_ref) One might ask whether AI would avoid these dystopias. "Wouldn't the AI get bored eventually, and want to do something else?"
 
-These outcomes may seem boring *to us*, but it's unlikely that most superintelligences are bored by the same things as humans — indeed, it's unlikely that they experience "boredom" at all, if they don't have a certain kind of detailed inheritance from humanity or something like humanity. See also the Chapter 5 extended discussion touching on [boredom and delight in novelty](/4/curiosity-isnt-convergent#as-with-curiosity-so-too-with-various-other-drives).++}
+These outcomes may seem boring *to us*, but it's unlikely that most superintelligences are bored by the same things as humans — indeed, it's unlikely that they experience "boredom" at all, if they don't have a certain kind of detailed inheritance from humanity or something like humanity. See also the Chapter 5 extended discussion touching on [boredom and delight in novelty](/4/curiosity-isnt-convergent#as-with-curiosity-so-too-with-various-other-drives).

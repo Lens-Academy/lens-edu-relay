@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774188918001}@@---
+---
 title: "Workable Plans Will Involve Telling AI Companies "No""
 source_url: https://ifanyonebuildsit.com/12/workable-plans-will-involve-telling-ai-companies-no
 published: 2025-09-16
@@ -36,4 +36,4 @@ That said, this is a low-confidence recommendation, and a purely relative one. I
 
 Our headline recommendation to policymakers on this count is therefore: If you're convinced of the danger, don't give lab heads any sway.
 
-Talk to independent researchers, or business leaders with no horse in the race, or external scientists with a track record of saying and doing reasonable things in this space. Don't put yourself in a position to be burned by people whose main distinguishing feature is that they lie to the public and put people in danger.++}
+Talk to independent researchers, or business leaders with no horse in the race, or external scientists with a track record of saying and doing reasonable things in this space. Don't put yourself in a position to be burned by people whose main distinguishing feature is that they lie to the public and put people in danger.

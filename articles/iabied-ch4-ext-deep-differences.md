@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774188529463}@@---
+---
 title: "Deep Differences Between AIs and Evolved Species"
 source_url: https://ifanyonebuildsit.com/4/deep-differences-between-ais-and-evolved-species
 published: 2025-09-16
@@ -92,4 +92,4 @@ But sooner or later, if the international community does nothing, the gap *will*
 
 [1] *not like humans:* [Lions](https://africageographic.com/stories/understanding-lion-infanticide/), for instance, routinely kill others' cubs so they can have more cubs themselves. Many other animals, including mammals and some primates, do the same.
 
-[2] *mathematical bounds:* Bounds on the complexity of organisms are discussed in [Adaptation and Natural Selection](https://brandvainlab.wordpress.com/wp-content/uploads/2014/11/williams-1966.pdf) (Williams 1966).++}
+[2] *mathematical bounds:* Bounds on the complexity of organisms are discussed in [Adaptation and Natural Selection](https://brandvainlab.wordpress.com/wp-content/uploads/2014/11/williams-1966.pdf) (Williams 1966).

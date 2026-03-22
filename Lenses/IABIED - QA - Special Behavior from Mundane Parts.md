@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774188689894}@@---
+---
 id: a7e3c1d4-8f29-4b6a-9e52-1d3f07b8a2c6
 title: "Special Behavior is Built out of Mundane Parts"
 tags:
@@ -25,4 +25,4 @@ TLDR: The article traces a pattern from vitalism through Lord Kelvin's mystifica
 Discussion topics:
 - Do you find the vitalism analogy convincing? Is there something about intelligence that might make it genuinely different from previous "mysteries" science has solved?
 - The article mentions the shifting goalposts around AI art -- first chess was "cold logic," now art is "just pretty pictures." Have you noticed this pattern in your own thinking or others'?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.
