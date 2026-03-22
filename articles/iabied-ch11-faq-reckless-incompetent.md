@@ -10,11 +10,11 @@ tags:
   - IABIED
   - work-in-progress
 ---
-# Won't the most reckless companies naturally be the most incompetent, and thus not a threat?
+{--{"author":"AI","timestamp":1774206113594}@@# Won't the most reckless companies naturally be the most incompetent, and thus not a threat?
 
 ## Not in general. Corner-cutting is often competitive.
 
-Volkswagen's efforts to cheat on emissions tests from 2008 to 2015 were audacious — and apparently effective. The 2018–2019 crashes of Boeing's 737 MAX, attributed to flaws in a flight control system that management knew about and downplayed, killed 346 people. But automobile and aircraft manufacturing are highly competitive industries in which Volkswagen and Boeing were, and remain, giants.
+Volkswagen's efforts to cheat on emissions tests--}{++{"author":"AI","timestamp":1774206113594}@@TODO: Re-scrape++} from{--{"author":"AI","timestamp":1774206113594}@@ 2008 to 2015 were audacious — and apparently effective. The 2018–2019 crashes of Boeing's 737 MAX, attributed to flaws in a flight control system that management knew about and downplayed, killed 346 people. But automobile and aircraft manufacturing are highly competitive industries in which Volkswagen and Boeing were, and remain, giants.
 
 It doesn't seem to us a great mystery that the corner-cutters are competitive. In both cases, the behavior seems to have been driven by pressure to get high-performance products to market cheaper and sooner than the competition. Even now, after massive settlements and brand damage, it's not obvious that the companies are less competitive for having corporate cultures that encourage the clever cutting of corners, even if this occasionally means getting caught.
 
@@ -26,4 +26,4 @@ The AI company Anthropic is considered by a reasonable number of people to be a 
 
 Anthropic benefits heavily from the fact that observers are grading on a curve — in a normal industry, a company that chooses to endanger the lives of billions of people (as admitted by the CEO), while routinely downplaying their activities to the public and to lawmakers, wouldn't garner praise for their restraint.
 
-Cutting corners is common in AI, as it is in many competitive industries. Recklessness is common. And the less reckless companies are very visibly not on top of the challenges.
+Cutting corners is common in AI, as it is in many competitive industries. Recklessness is common. And the less reckless companies are very visibly not on top of the challenges.--}{++{"author":"AI","timestamp":1774206113594}@@ website++}

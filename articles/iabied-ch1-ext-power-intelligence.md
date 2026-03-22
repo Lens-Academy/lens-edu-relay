@@ -9,7 +9,7 @@ tags:
   - clippings
   - IABIED
   - work-in-progress
----
+---{--{"author":"AI","timestamp":1774206107438}@@
 
 ## Appreciating the Power of Intelligence
 
@@ -17,7 +17,8 @@ tags:
 
 Popular cinema consistently misrepresents intelligence. Screenwriters depict "smart" characters through nerd stereotypes—memorized facts, awkward social skills, British accents—rather than demonstrating actual problem-solving dominance.
 
-A meaningful intelligence comparison emerges from chess: Magnus Carlsen defeating opponents even when spotting them a rook. His cognitive advantage translates to resource advantages. The greater the intelligence disparity, the more handicapping required for competitive play.
+A meaningful intelligence comparison emerges --}{++{"author":"AI","timestamp":1774206107438}@@
+TODO: Re-scrape ++}from{--{"author":"AI","timestamp":1774206107438}@@ chess: Magnus Carlsen defeating opponents even when spotting them a rook. His cognitive advantage translates to resource advantages. The greater the intelligence disparity, the more handicapping required for competitive play.
 
 This creates a specific respect relationship: when Carlsen makes an apparently bad move, observers check their own analysis rather than celebrating a blunder. This mutual respect between vastly different intelligence levels rarely occurs between humans except among certified experts in narrow domains.
 
@@ -35,4 +36,4 @@ Generalizing this concept: an entity is epistemically efficient relative to anot
 
 Magnus Carlsen exhibits instrumental efficiency relative to most players—even when losing to stronger AIs like Stockfish, casual players shouldn't assume they could find better moves.
 
-This concept remains absent from popular AI discussions, where people propose outsmarting superintelligences using strategies visible to human adversaries. The authors stress: "If you can't respect the power of intelligence, you'll badly misunderstand what it means for humanity to build a superintelligence."
+This concept remains absent from popular AI discussions, where people propose outsmarting superintelligences using strategies visible to human adversaries. The authors stress: "If you can't respect the power of intelligence, you'll badly misunderstand what it means for humanity to build a superintelligence."--}{++{"author":"AI","timestamp":1774206107438}@@ website++}
