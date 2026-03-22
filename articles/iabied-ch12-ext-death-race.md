@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774189169572}@@---
+{++{"author":"AI","timestamp":1774190024662}@@---
 title: "Making Sense of the Death Race"
 source_url: https://ifanyonebuildsit.com/12/making-sense-of-the-death-race
 published: 2025-09-16
@@ -20,7 +20,7 @@ A cynical, game-theoretic rejoinder might go like this:
 
 Maybe that answer is enough, for a cynic.
 
-Simple game-theoretic explanations like this often misunderstand or oversimplify real human psychology, but this explanation may also contain a grain of truth. An engineer may think that *probably* everyone will die from ASI, but that their own actions don't affect that probability much.*Meanwhile*, they get to have insane amounts of money, cool toys, and powwows with big, important people looking at them respectfully. Maybe they'll become the god-kings of Earth if ASI *doesn't* kill everyone, but *only if their company wins the race to build ASI...*
+Simple game-theoretic explanations like this often misunderstand or oversimplify real human psychology, but this explanation may also contain a grain of truth. An engineer may think that *probably* everyone will die from ASI, but that their own actions don't affect that probability much.*Meanwhile*, they get to have insane amounts of money, cool toys, and powwows with big, important people looking at them respectfully. Maybe they'll become the god-kings of Earth if ASI *doesn't* kill everyone, but *only if their company wins the race to build ASI…*
 
 From the perspective of an OpenAI researcher who recognizes the danger: If they *don't* work for OpenAI, probably OpenAI destroys the world anyway. (Even if OpenAI shut down, Google would destroy the world anyway.) But if they *do* work for OpenAI, they get six-to-seven-figure salaries, and if they *don't* die, perhaps they'll accrue extra power and fame by being on the winning team. So each individual's personal game-theoretic incentives push them toward collectively destroying the world.
 
@@ -28,7 +28,7 @@ Our view is that this sort of explanation is somewhat overdoing things, and we m
 
 After previously [warning](https://www.cnbc.com/2018/03/13/elon-musk-at-sxsw-a-i-is-more-dangerous-than-nuclear-weapons.html) that AI "is far more dangerous than nukes," Elon Musk decided to start an AI company and enter the race himself, [stating](https://www.youtube.com/watch?v=cFIlta1GkiE&t=2126s) in June of 2025:
 
-> Part of what I've been fighting -- and what has slowed me down a little -- is that I don't want to make Terminator real. Until recent years, I've been dragging my feet on AI and humanoid robotics.
+> Part of what I've been fighting — and what has slowed me down a little — is that I don't want to make Terminator real. Until recent years, I've been dragging my feet on AI and humanoid robotics.
 >
 > Then I sort of came to the realization that it's happening whether I do it or not. So you can either be a spectator or a participant. I'd rather be a participant.
 
@@ -60,7 +60,7 @@ And poor Thomas Midgley, Jr., discussed in the parable for Chapter 12, certainly
 
 Fisher, Newton, and Midgley deluded themselves into thinking that something dangerous was safe. That's a perfectly normal way for scientists to end up doing something self-destructive. Unfortunately, the story with AI labs isn't quite so simple.
 
-Not all AI company CEOs deny that smarter-than-human AI is a threat. Many explicitly acknowledge the danger and talk about reconciling themselves to it. Corporate executives at many of the frontier AI labs are on the record saying the technology they're developing has a substantial chance of killing every human alive.
+Not all AI company CEOs deny that smarter-than-human AI is a threat. Many explicitly acknowledge the danger and talk about reconciling themselves to it. Corporate executives at many of the frontier AI labs are on the record saying the technology they're developinghas a substantial chance of killing every human alive.
 
 Shortly before co-founding OpenAI, Sam Altman [wrote](https://web.archive.org/web/20150312004255/https://blog.samaltman.com/machine-intelligence-part-1): "Development of superhuman machine intelligence is probably the greatest threat to the continued existence of humanity."
 
@@ -82,7 +82,7 @@ In a few cases, scientists and CEOs have explicitly said that creating AI is a m
 
 And Richard Sutton, a pioneer of reinforcement learning in AI, has said:
 
-> What if everything fails? The AIs do not cooperate with us, and they take over, they kill us all. [...] I just want you to think for a moment about this. I mean, is it so bad? Is it so bad that humans are not the final form of intelligent life in the universe? You know, there have been many predecessors to us, when we succeeded them. And it's really kind of arrogant to think that our form should be the form that lives ever after.
+> What if everything fails? The AIs do not cooperate with us, and they take over, they kill us all. […] I just want you to think for a moment about this. I mean, is it so bad? Is it so bad that humans are not the final form of intelligent life in the universe? You know, there have been many predecessors to us, when we succeeded them. And it's really kind of arrogant to think that our form should be the form that lives ever after.[\*](#ftnt288)
 
 Even more common, however, are scientists and CEOs who *don't* think it would be a good thing for AI to destroy humanity, but who seem to treat it as shrug-worthy, as *something other than an incredible emergency*, that AI poses this extraordinary threat.
 
