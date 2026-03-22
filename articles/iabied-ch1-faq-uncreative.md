@@ -9,7 +9,7 @@ tags:
   - clippings
   - IABIED
   - work-in-progress
----
+---{--{"author":"AI","timestamp":1774206250380}@@
 
 ## Won't machines be fundamentally uncreative, or otherwise fatally flawed?
 
@@ -25,4 +25,5 @@ The page argues that machines do not need fatal flaws to balance against their a
 
 **Exceptions are rare.** The authors note that people enjoy recounting exceptional cases where disadvantaged forces triumph, but such outcomes occur "much less often than they occur in stories."
 
-The section emphasizes there will be no "amazing plot twist" offering humans a compensating advantage—intelligence is a substantial practical advantage without built-in limitations to balance the equation.
+The section emphasizes there will be no "amazing plot twist" offering humans a compensating advantage—intelligence is a substantial practical advantage without built-in limitations to balance the equation.--}{++{"author":"AI","timestamp":1774206250380}@@
+TODO: Re-scrape from website++}

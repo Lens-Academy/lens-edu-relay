@@ -11,9 +11,9 @@ tags:
   - work-in-progress
 ---
 
-## Isn't this AI stuff just science fiction?
+{--{"author":"AI","timestamp":1774206250708}@@## Isn't this AI stuff just science fiction?
 
-**We can't learn much from a topic's prevalence in fiction.**
+**We can't learn much --}{++{"author":"AI","timestamp":1774206250708}@@TODO: Re-scrape ++}from{--{"author":"AI","timestamp":1774206250708}@@ a topic's prevalence in fiction.**
 
 Smarter-than-human AI hasn't been built but appears in fiction. However, anchoring on fictional depictions risks distortion. Real AI probably won't resemble fictional versions substantially, as discussed in Chapter 4.
 
@@ -45,4 +45,4 @@ These developments seemingly cannot occur without upending the existing world or
 
 Technologies like AI mean the future may arrive soon with hard-hitting effects. The Industrial Revolution transformed the world very quickly by pre-modern standards. New world-changing processes reshape things very quickly measured by old standards.
 
-Humanity approaches another radical transformation where machines reshape the world at machine speeds, vastly outstripping biological speeds.
+Humanity approaches another radical transformation where machines reshape the world at machine speeds, vastly outstripping biological speeds.--}{++{"author":"AI","timestamp":1774206250708}@@ website++}

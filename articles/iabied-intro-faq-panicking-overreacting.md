@@ -11,7 +11,7 @@ tags:
   - work-in-progress
 ---
 
-## Aren't people always panicking and overreacting to things?
+{--{"author":"AI","timestamp":1774206242206}@@## Aren't people always panicking and overreacting to things?
 
 **Yes. But this doesn't mean that nothing is ever actually dangerous.**
 
@@ -29,4 +29,4 @@ Some dangers people warn about are fake; others are real. Humanity sometimes ove
 
 **There is no simple solution** like "ignore all technological risks" or "assume every risk is real." Instead, one must examine the details of each case individually.
 
-The authors note: "To figure out what's true, you have to actually look at the details of each case."
+The authors note: "To figure out what's true, you have to actually look at the details of each case."--}{++{"author":"AI","timestamp":1774206242206}@@TODO: Re-scrape from website++}

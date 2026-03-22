@@ -9,10 +9,10 @@ tags:
   - clippings
   - IABIED
   - work-in-progress
----
-## Orthogonality: AIs Can Have (Almost) Any Goal
+---{--{"author":"AI","timestamp":1774206251404}@@
+## Orthogonality: AIs Can Have (Almost) Any Goal--}
 
-### Core Concept
+{--{"author":"AI","timestamp":1774206251404}@@### Core Concept
 
 The orthogonality thesis argues that intelligence and values are independent variables. A superintelligent AI isn't automatically motivated to pursue human-aligned goals simply because it understands them.
 
@@ -35,4 +35,4 @@ This thesis directly challenges intuitions that advanced AIs would naturally ado
 - Remains entirely indifferent to human welfare
 - Pursues objectives completely misaligned with human flourishing
 
-The orthogonality thesis doesn't predict what goals AIs will have — only that their objectives needn't correlate with their intelligence level.
+The orthogonality thesis doesn't predict what goals AIs will have — only that their objectives needn't correlate with their intelligence level.--}{++{"author":"AI","timestamp":1774206251404}@@TODO: Re-scrape from website++}
