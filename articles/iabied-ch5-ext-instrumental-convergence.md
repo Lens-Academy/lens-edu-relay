@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774188546210}@@---
+---
 title: "Instrumental Convergence"
 source_url: https://ifanyonebuildsit.com/5/instrumental-convergence
 published: 2025-09-16
@@ -83,4 +83,4 @@ For more on howan ASI could actually *achieve* these instrumental targets, see C
 
 But an ASI would much prefer a plan that does not take a hundred years, all else equal. It doesn't have an overwhelming literary taste for slow deaths.
 
-[†](#ftnt197_ref) Some people argue that the world should attempt to create a balance of superintelligences, such that no one AI could become dominant. But the reasoning we've provided here would also apply to a coalition of superintelligences at the moment it became a coalition. Having already agreed to divide reachable resources among themselves, existing members of the coalition would not want to be forced to negotiate with new coalition members and divide resources still further with those newcomers.++}
+[†](#ftnt197_ref) Some people argue that the world should attempt to create a balance of superintelligences, such that no one AI could become dominant. But the reasoning we've provided here would also apply to a coalition of superintelligences at the moment it became a coalition. Having already agreed to divide reachable resources among themselves, existing members of the coalition would not want to be forced to negotiate with new coalition members and divide resources still further with those newcomers.

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774188641411}@@---
+---
 title: "It's Hard to Get Robust Laziness"
 source_url: https://ifanyonebuildsit.com/5/its-hard-to-get-robust-laziness
 published: 2025-09-16
@@ -44,4 +44,4 @@ We predict this behavior wouldn't hold up at superintelligence. Our central reas
 
 All of the analogies about that one lazy guy you know, and even the [reasoning](/5/can-the-ai-be-satisfied-to-the-point-where-it-just-leaves-us-alone) about "the sum of an unsatisfied preference and a satisfied preference is unsatisfied," are our attempts at valid simplifications of the harder-to-convey underlying reason that this doesn't work: "The deep structure doesn't want to look like that." See also the discussion of [the deep machinery of prediction and steering](/3/smart-ais-spot-lies-and-opportunities) in the Chapter 3 online resources.
 
-[\*](#ftnt199_ref) For more on the difficulties that an international collaboration would face, see Chapter 12, and see also our answer to "[Why not use international cooperation to build AI safely, rather than to shut it all down?](/12/why-not-use-international-cooperation-to-build-ai-safely-rather-than-to-shut-it-all-down)". For solutions that we have more hope in, see Chapter 13.++}
+[\*](#ftnt199_ref) For more on the difficulties that an international collaboration would face, see Chapter 12, and see also our answer to "[Why not use international cooperation to build AI safely, rather than to shut it all down?](/12/why-not-use-international-cooperation-to-build-ai-safely-rather-than-to-shut-it-all-down)". For solutions that we have more hope in, see Chapter 13.

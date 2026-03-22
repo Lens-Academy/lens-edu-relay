@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774188854091}@@---
+---
 title: "But what about the benefits of smarter-than-human AI?"
 source_url: https://ifanyonebuildsit.com/12/but-what-about-the-benefits-of-smarter-than-human-ai
 published: 2025-09-16
@@ -42,4 +42,4 @@ We don't have to gamble all of our lives on this option, when many other options
 
 We implore anyone concerned for the welfare of people today to accelerate the above methods instead, while steering as wide a berth as possible around anything that could move us even incrementally closer to artificial superintelligence.
 
-If you simply don't believe that a rogue superintelligence would kill us, that's one thing. But to accept that it would likely kill us all and saying we have to take the gamble anyway is madness. There are other options for resolving the problems of the modern world. By analogy: If living in a high-altitude environment makes you uncomfortable, that's no excuse for jumping off a cliff. Find a different pathway to the bottom of the mountain.++}
+If you simply don't believe that a rogue superintelligence would kill us, that's one thing. But to accept that it would likely kill us all and saying we have to take the gamble anyway is madness. There are other options for resolving the problems of the modern world. By analogy: If living in a high-altitude environment makes you uncomfortable, that's no excuse for jumping off a cliff. Find a different pathway to the bottom of the mountain.

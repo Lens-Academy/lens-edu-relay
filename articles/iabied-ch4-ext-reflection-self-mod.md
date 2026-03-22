@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774188755838}@@---
+---
 title: "Reflection and Self-Modification Make It All Harder"
 source_url: https://ifanyonebuildsit.com/4/reflection-and-self-modification-make-it-all-harder
 published: 2025-09-16
@@ -124,4 +124,4 @@ Which brings us to Chapter 5, and the next topic we'll be turning to: What would
 
 [\*](#ftnt165_ref) For further discussion on this topic, see our discussion on how [Smart AIs Spot Lies and Opportunities.](/3/smart-ais-spot-lies-and-opportunities)
 
-[†](#ftnt166_ref) See also our discussion of how [Human Culture Influenced the Development of Human Values](/4/human-values-are-contingent#human-culture-influenced-the-development-of-human-values).++}
+[†](#ftnt166_ref) See also our discussion of how [Human Culture Influenced the Development of Human Values](/4/human-values-are-contingent#human-culture-influenced-the-development-of-human-values).

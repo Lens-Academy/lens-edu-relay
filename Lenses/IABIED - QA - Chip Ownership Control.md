@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774189637717}@@---
+---
 id: e22088ed-be97-4b97-a619-df6e792dd335
 title: "But you're advocating control of how many AI chips individuals can own."
 tags:
@@ -26,4 +26,4 @@ TLDR: The authors say yes, they advocate chip ownership limits, but argue the co
 Discussion topics:
 - Does the cost asymmetry (inconvenience vs. extinction) make the chip limit seem reasonable?
 - What happens to chip-based enforcement as algorithms become more efficient?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

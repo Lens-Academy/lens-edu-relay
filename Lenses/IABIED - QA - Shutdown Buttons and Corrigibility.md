@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774188958829}@@---
+---
 id: f2j8h6i9-4i7d-4g1j-3f60-7k6i5j3h2g8f
 title: "Shutdown Buttons and Corrigibility"
 tags:
@@ -26,4 +26,4 @@ Discussion topics:
 - The titanium cube example makes the argument intuitive. Can you think of a goal that would NOT resist modification?
 - The authors frame the shutdown problem as really being about preference learning. Does that reframing change how you think about it?
 - Claude 3 Opus was experimentally shown to resist preference modification in 2024. Does that concern you, or does it seem like a solvable engineering problem?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

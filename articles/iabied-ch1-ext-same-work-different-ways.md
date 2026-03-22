@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774188523010}@@---
+---
 title: "The Same Work Can Be Done in Many Different Ways"
 source_url: https://ifanyonebuildsit.com/1/the-same-work-can-be-done-in-many-different-ways
 published: 2025-09-16
@@ -32,4 +32,4 @@ But that's harder to see if you know very little about how modern AIs work. In C
 
 ---
 
-[\*](#ftnt44_ref) Such details don't make *every* fact irrelevant. You can still learn a thing or two about aerodynamics from a bird; you can learn a thing or two about joints and mechanical advantage from a human arm. But the mechanical methods operate under radically different constraints than the biological ones, and they tend to work in radically different ways.++}
+[\*](#ftnt44_ref) Such details don't make *every* fact irrelevant. You can still learn a thing or two about aerodynamics from a bird; you can learn a thing or two about joints and mechanical advantage from a human arm. But the mechanical methods operate under radically different constraints than the biological ones, and they tend to work in radically different ways.

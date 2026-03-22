@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774189453523}@@---
+---
 title: "Keep the Coalition Large"
 source_url: https://ifanyonebuildsit.com/13/keep-the-coalition-large
 published: 2025-09-16
@@ -26,4 +26,4 @@ If you care about other AI-related issues, we urge you to work on addressing the
 
 Too many countries need to coordinate. Too many factions are divided (even internally) for it to be possible to avert catastrophe if only people who agree on everything can act together.
 
-Whoever you are -- whatever you're fighting for, here or elsewhere -- if you want an end to the breakneck development of smarter-than-human AI, we're in this fight together.++}
+Whoever you are -- whatever you're fighting for, here or elsewhere -- if you want an end to the breakneck development of smarter-than-human AI, we're in this fight together.

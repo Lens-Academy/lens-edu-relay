@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774189209270}@@---
+---
 title: "How would stopping everyone be possible without installing spyware on every computer?"
 source_url: https://ifanyonebuildsit.com/13/how-would-stopping-everyone-be-possible-without-installing-spyware-on-every-computer
 published: 2025-09-16
@@ -18,4 +18,4 @@ There are not, as of 2025, a lot of secret hidden chip *factories* that nobody k
 
 Also in 2025, some key technology for core parts of high-end chip fabrication is sold by only a single manufacturer on Earth: ASML, in the Netherlands.
 
-You can, in other words, turn off the supply at the source. But that state of affairs is not permanent -- the sooner an international treaty gets signed, the better. All of this is already harder and more expensive and more dangerous than it would have been to do in 2020, or even in 2023.++}
+You can, in other words, turn off the supply at the source. But that state of affairs is not permanent -- the sooner an international treaty gets signed, the better. All of this is already harder and more expensive and more dangerous than it would have been to do in 2020, or even in 2023.

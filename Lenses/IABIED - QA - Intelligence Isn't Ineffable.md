@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774188708945}@@---
+---
 id: c9g5e3f6-ab41-4d8c-bg74-3f5h29dac4e8
 title: "Intelligence Isn't Ineffable"
 tags:
@@ -25,4 +25,4 @@ TLDR: The authors argue intelligence is intelligible in principle, citing four l
 Discussion topics:
 - The article distinguishes between "intelligence is hard to understand" and "intelligence is impossible to understand." Do you find this distinction important? Which claim do you think most AI skeptics are actually making?
 - The amnesiac joke example is used to argue for regularity in human cognition. Does that example convince you, or do you think there could be simpler explanations?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

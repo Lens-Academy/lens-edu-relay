@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774189332502}@@---
+---
 title: "Wouldn't some nations reject a ban?"
 source_url: https://ifanyonebuildsit.com/13/wouldnt-some-nations-reject-a-ban
 published: 2025-09-16
@@ -28,4 +28,4 @@ Monitoring is necessary. Enforcement is necessary. An international ban on front
 
 It has been over eighty years since the development of the atomic bomb, and humanity has done a pretty good job at managing nuclear proliferation. There has been no large-scale nuclear war, contrary to many experts' predictions in the wake of World War II.
 
-If we could buy ourselves eighty years before the development of ASI, that might well be enough.++}
+If we could buy ourselves eighty years before the development of ASI, that might well be enough.

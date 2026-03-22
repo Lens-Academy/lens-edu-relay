@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774189072253}@@---
+---
 title: "Effectiveness, Consciousness, and AI Welfare"
 source_url: https://ifanyonebuildsit.com/5/effectiveness-consciousness-and-ai-welfare
 published: 2025-09-16
@@ -138,4 +138,4 @@ These observers, however, aren't puppeting AIXI; AIXI achieves its impressive pr
 
 Another hypothetical example that can be used to make the same point is a non-sentient [time machine](https://www.lesswrong.com/posts/HoQ5Rp7Gs6rebusNP/superintelligent-ai-is-necessary-for-an-amazing-future-but-1#How_many_advanced_alien_species_are_sentient_) that's been programmed to output a random sequence of actions, then travel back in time to "reset" the timeline *unless* a particular outcome occurs. The time machine can hit "reset" over and over again, however many times it takes to randomly stumble into a particular outcome. This, in practice, would make the time machine an extremely powerful and general machine for steering the future (if it were physically possible to build a time machine, which it isn't). Yet in spite of this, the time machine is an incredibly simple machine with no real cognition going on at all, and certainly no conscious experience.
 
-For a real-world example (albeit using a far weaker and more limited optimizer), biological evolution itself shows that many impressive feats of steering and design can be achieved without the "designer" having any conscious experiences at all.++}
+For a real-world example (albeit using a far weaker and more limited optimizer), biological evolution itself shows that many impressive feats of steering and design can be achieved without the "designer" having any conscious experiences at all.

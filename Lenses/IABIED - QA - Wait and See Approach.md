@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774189608122}@@---
+---
 id: c1751676-cefb-473d-9a8e-3c2b042fd590
 title: "Can we adopt a wait-and-see approach?"
 tags:
@@ -26,4 +26,4 @@ TLDR: The authors argue we can't wait because nobody knows where the critical th
 Discussion topics:
 - Does the "sprinting toward a cliff in the dark" metaphor capture the situation well?
 - How do you balance the cost of acting too early against the cost of acting too late?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

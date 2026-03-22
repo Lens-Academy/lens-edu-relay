@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774189364496}@@---
+---
 title: "Why would making humans smarter help?"
 source_url: https://ifanyonebuildsit.com/13/why-would-making-humans-smarter-help
 published: 2025-09-16
@@ -32,4 +32,4 @@ If we don't solve that part, everyone is dead. Everyone who doesn't want to die 
 
 Many people who think "augment human intelligence" is a relatively promising plan -- ourselves included -- think the first steps still involve shutting down the AI companies.
 
-Meta AI can't exist, OpenAI can't exist, Anthropic can't exist; they will just kill us. We can agree on this immediate priority, even if we have very different ideas about what to do next.++}
+Meta AI can't exist, OpenAI can't exist, Anthropic can't exist; they will just kill us. We can agree on this immediate priority, even if we have very different ideas about what to do next.

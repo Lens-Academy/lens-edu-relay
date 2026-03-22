@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774189744911}@@---
+---
 id: 107908d8-8ea9-49e0-a7a7-fdc294ae4f2c
 title: "What Would It Take to Shut Down Global AI Development?"
 tags:
@@ -26,4 +26,4 @@ TLDR: The authors outline three enforcement levers: stopping chip production (ex
 Discussion topics:
 - Which of the three enforcement levers (chips, datacenters, research) seems most feasible? Most fragile?
 - Does the "visible from satellites" detail about datacenters change your sense of enforcement feasibility?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.
