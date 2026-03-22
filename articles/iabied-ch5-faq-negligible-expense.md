@@ -9,10 +9,10 @@ tags:
   - clippings
   - IABIED
   - work-in-progress
----
-## To a powerful AI, wouldn't preserving humans be a negligible expense?
+---{--{"author":"AI","timestamp":1774206325206}@@
+## To a powerful AI, wouldn't preserving humans be a negligible expense?--}
 
-There are many negligible expenses, and it would need a reason to pay ours.
+{--{"author":"AI","timestamp":1774206325206}@@There are many negligible expenses, and it would need a reason to pay ours.
 
 ### Cost vs. Motivation Problem
 
@@ -40,4 +40,4 @@ The vast majority of humans don't spare negligible amounts of sugar to keep near
 
 The mere fact that we want preservation doesn't mean the AI will care about it. Additionally, if the AI did have preferences involving humans, outcomes probably wouldn't be favorable.
 
-Human conservation efforts are selective — we protect pandas but let unappealing species die out. An AI with a preservation drive would likely exhibit similarly arbitrary preferences, coloring its conservation efforts through its own alien values.
+Human conservation efforts are selective — we protect pandas but let unappealing species die out. An AI with a preservation drive would likely exhibit similarly arbitrary preferences, coloring its conservation efforts through its own alien values.--}{++{"author":"AI","timestamp":1774206325206}@@TODO: Re-scrape from website++}

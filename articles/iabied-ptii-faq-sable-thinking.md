@@ -11,9 +11,9 @@ tags:
   - work-in-progress
 ---
 
-## Our story showcases how AI is liable to have weird and unintended preferences.
+{--{"author":"AI","timestamp":1774206332629}@@## Our story showcases how AI is liable to have weird and unintended preferences.
 
-In Part I of the book, the authors explore aspects of AI they consider fundamentally misunderstood regarding superintelligence dangers. Chapter 3 examines how greater intelligence correlates with AIs taking their own initiative and pursuing independent objectives. Chapter 4 discusses how those preferences will be "weird" and diverge from human intentions. Chapter 5 explains how such differences suffice for AIs to prefer worlds without humans.
+In Part I of the book, the authors explore aspects of AI they consider fundamentally misunderstood regarding superintelligence dangers. Chapter 3 examines how greater intelligence correlates with AIs taking their own initiative and pursuing independent objectives. Chapter 4 discusses how those preferences will be "weird" and diverge --}{++{"author":"AI","timestamp":1774206332629}@@TODO: Re-scrape ++}from{--{"author":"AI","timestamp":1774206332629}@@ human intentions. Chapter 5 explains how such differences suffice for AIs to prefer worlds without humans.
 
 ### Concrete Example from the Story
 
@@ -31,4 +31,4 @@ The following passage clarifies:
 
 Sable's impulses and inclinations become seeds for strange, profoundly non-human preferences. This embodies Chapter 4's central claims.
 
-Fundamentally, this narrative attempts to animate the Part I theoretical arguments while establishing groundwork for Part III's subsequent discussions about confronting these challenges.
+Fundamentally, this narrative attempts to animate the Part I theoretical arguments while establishing groundwork for Part III's subsequent discussions about confronting these challenges.--}{++{"author":"AI","timestamp":1774206332629}@@ website++}

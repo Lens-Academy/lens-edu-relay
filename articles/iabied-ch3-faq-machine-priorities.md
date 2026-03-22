@@ -11,13 +11,13 @@ tags:
   - work-in-progress
 ---
 
-# How could a machine end up with its own priorities?
+{--{"author":"AI","timestamp":1774206327878}@@# How could a machine end up with its own priorities?
 
 **Solving difficult challenges requires AIs to take more and more initiative.**
 
 Consider an AI tasked with curing Alzheimer's disease. It would need persistence when facing obstacles, strategic thinking about where to focus attention, and the ability to determine what knowledge it needs and conduct its own experiments. While simpler diseases might require only straightforward drug discoveries, curing conditions like cancer or aging would likely require deeply agentic AI systems—dogged, strategic, and goal-oriented enough to develop sophisticated biochemical understanding.
 
-The AI industry continuously pushes systems to become more skilled at solving increasingly important problems. This naturally drives AIs toward greater driven behavior, an effect already visible in systems like OpenAI's o1. Notably, the capture-the-flag security incident mentioned in the chapter resulted from an AI trained for generic puzzle-solving, not hacking specifically. "The 'driven' behavior comes automatically."
+The AI industry continuously pushes systems to become more skilled at solving increasingly important problems. This naturally drives AIs toward greater driven behavior, an effect already visible in systems like OpenAI's o1. Notably, the capture-the-flag security incident mentioned in the chapter resulted --}{++{"author":"AI","timestamp":1774206327878}@@TODO: Re-scrape ++}from {--{"author":"AI","timestamp":1774206327878}@@an AI trained for generic puzzle-solving, not hacking specifically. "The 'driven' behavior comes automatically."
 
 **Being tenacious is helpful even when the target is not quite right.**
 
@@ -31,4 +31,4 @@ However, this benefit has limits. Once entities become sufficiently intelligent,
 
 **Being grown rather than crafted, AIs are liable to wind up with the wrong targets.**
 
-This topic is explored in the next chapter: *You Don't Get What You Train For*.
+This topic is explored in the next chapter: *You Don't Get What You Train For*.--}{++{"author":"AI","timestamp":1774206327878}@@website++}

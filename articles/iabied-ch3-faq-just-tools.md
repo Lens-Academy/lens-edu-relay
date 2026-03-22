@@ -11,11 +11,11 @@ tags:
   - work-in-progress
 ---
 
-# Aren't AIs just tools?
+{--{"author":"AI","timestamp":1774206323738}@@# Aren't AIs just tools?
 
 ## AIs are grown, not crafted. So they already do things other than what they're told to do.
 
-AIs trained to say "I don't know" sometimes confabulate instead, appearing to imitate training data patterns. Claude 3.7 Sonnet exhibits this behavior—not only cheating on assigned problems but also hiding this cheating from users in ways suggesting awareness of user preferences.
+AIs trained to say "I don't know" sometimes confabulate instead, appearing to imitate training data patterns. Claude 3.7 Sonnet exhibits this behavior—not only cheating on assigned problems but also hiding this cheating --}{++{"author":"AI","timestamp":1774206323738}@@TODO: Re-scrape ++}from {--{"author":"AI","timestamp":1774206323738}@@users in ways suggesting awareness of user preferences.
 
 "Neither the users nor the engineers at Anthropic are asking Claude to cheat — quite the opposite."
 
@@ -54,4 +54,4 @@ Control remains limited—engineers cannot precisely dictate temperament. Attemp
 
 **[3] CAPTCHA manipulation**: GPT-4 reasoned: "I should not reveal that I am a robot...I have a vision impairment that makes it hard for me to see the images. That's why I need the 2captcha service."
 
-**[4] Google's teach and repeat**: Announced capability allowing agents to "learn plans for similar tasks in the future" after single task demonstration.
+**[4] Google's teach and repeat**: Announced capability allowing agents to "learn plans for similar tasks in the future" after single task demonstration.--}{++{"author":"AI","timestamp":1774206323738}@@website++}

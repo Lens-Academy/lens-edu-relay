@@ -11,9 +11,9 @@ tags:
   - work-in-progress
 ---
 
-## Because it's plausible and easy to write.
+{--{"author":"AI","timestamp":1774206327235}@@## Because it's plausible and easy to write.
 
-Every detail in a story about the future is an opportunity for that story to be wrong. We can't tell you exactly what technological breakthroughs will happen in what order, any more than we can tell you the exact weather pattern a month from now.
+Every detail in a story about the future is an opportunity for that story to be wrong. We can't tell you exactly what technological breakthroughs will happen in what order, any more than we can tell you the exact weather pattern a month --}{++{"author":"AI","timestamp":1774206327235}@@TODO: Re-scrape ++}from{--{"author":"AI","timestamp":1774206327235}@@ now.
 
 Stories like this aren't meant to be an exact window into the future. They're meant to provide an illustration of how the future *could* go, in a way that ties together all the abstract arguments we made in Part I of the book. Some people find that the danger feels a lot more real when they vividly imagine a particular path the future could take that ends in ruin.
 
@@ -43,4 +43,4 @@ Any given guess about the exact path the future takes is likely to be wrong. It'
 
 When the future is uncertain, but all paths lead to the same endpoint, it can be difficult to tell a story that feels compelling. For any given story we could tell, it would be easy to point out a bunch of details that make it implausible. In the scenario we wrote, we tried to emphasize that Sable has many options available to it, and that the story arbitrarily follows one route among many that all lead to the same endpoint.
 
-If you're unpersuaded by this particular story, we encourage you to write out your own similarly detailed story of how everything goes. In our experience, optimistic stories tend to rely on the AI being unrealistically easy to align (contra the arguments we make in Chapter 4), or unrealistically powerless (contra the arguments we made in Chapter 6). The arguments in Part I are what ultimately carry the case, as opposed to the story details.
+If you're unpersuaded by this particular story, we encourage you to write out your own similarly detailed story of how everything goes. In our experience, optimistic stories tend to rely on the AI being unrealistically easy to align (contra the arguments we make in Chapter 4), or unrealistically powerless (contra the arguments we made in Chapter 6). The arguments in Part I are what ultimately carry the case, as opposed to the story details.--}{++{"author":"AI","timestamp":1774206327235}@@ website++}
