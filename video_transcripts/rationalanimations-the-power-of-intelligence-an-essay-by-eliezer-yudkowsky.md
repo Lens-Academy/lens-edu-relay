@@ -1,5 +1,5 @@
 ---
-title: "The Power of {--{"author":"AI","timestamp":1774090394023}@@Intelligence - An Essay By Eliezer Yudkowsky"--}Intelligence"
+title: "The Power of Intelligence"
 channel: "Rational Animations"
 url: "https://www.youtube.com/watch?v=q9Figerh89g"
 ---

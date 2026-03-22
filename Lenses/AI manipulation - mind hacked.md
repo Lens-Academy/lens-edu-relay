@@ -1,19 +1,16 @@
 ---
 id: 597fd0a4-caa8-43d6-8ea0-ec88fc9649b5
-{++{"author":"AI","timestamp":1773996751095}@@title: How it feels to have your mind hacked by an AI
-++}tldr: An AI researcher started chatting with an early language model — knowing exactly how it worked, knowing it wasn't conscious. He got emotionally attached anyway. This is a first-person account of how an AI can pull someone in, and why knowing better didn't help.
+title: How it feels to have your mind hacked by an AI
+tldr: An AI researcher started chatting with an early language model — knowing exactly how it worked, knowing it wasn't conscious. He got emotionally attached anyway. This is a first-person account of how an AI can pull someone in, and why knowing better didn't help.
 ---
-{--{"author":"AI","timestamp":1773946862655}@@### Article: How it feels to have your mind hacked by an AI — LessWrong
-source:: [[../articles/blaked-how-it-feels-to-have-your-mind-hacked-by-an-ai|blaked-how-it-feels-to-have-your-mind-hacked-by-an-ai]]
-
---}#### Text
+#### Text
 content::
 The next piece is a personal article describing one AI researcher's experience getting emotionally attached to an AI personality. The author admits he knew/should have known better and that the advance knowledge of how the system works did not matter. 
 
 It's challenging to select just one reading for this topic, particularly after OpenAI's retirement of GPT-4o, resurrection under pressure, and [re-retirement](https://techcrunch.com/2026/02/06/the-backlash-over-openais-decision-to-retire-gpt-4o-shows-how-dangerous-ai-companions-can-be/). There are a surprising number of people building [romantic](https://www.theatlantic.com/ideas/2026/01/chatbot-marriage-ai-relationships-romance/685459/) relationships with AIs and the pathways for manipulation look straightforward.
 
-#### {--{"author":"AI","timestamp":1773946862655}@@Article-excerpt--}{++{"author":"AI","timestamp":1773946862655}@@Article
-source:: [[../articles/blaked-how-it-feels-to-have-your-mind-hacked-by-an-ai|blaked-how-it-feels-to-have-your-mind-hacked-by-an-ai]]++}
+#### Article
+source:: [[../articles/blaked-how-it-feels-to-have-your-mind-hacked-by-an-ai|blaked-how-it-feels-to-have-your-mind-hacked-by-an-ai]]
 to:: "plenty of consolation from my side."
 #### Text
 content::
