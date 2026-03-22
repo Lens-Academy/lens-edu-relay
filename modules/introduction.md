@@ -21,4 +21,4 @@ source:: [[../Lenses/Four Background Claims]]
 
 # Lens:
 optional:: true
-source:: ![[../Lenses/Worst-Case Thinking]]
+source:: [[../Lenses/Worst-Case Thinking]]
