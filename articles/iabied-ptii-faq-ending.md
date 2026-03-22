@@ -11,7 +11,7 @@ tags:
   - work-in-progress
 ---
 
-## Main Answer
+{--{"author":"AI","timestamp":1774206280674}@@## Main Answer
 
 The authors wrote the ending by depicting a superintelligence pushing technology to physical limits. They explain: "The exact technologies we name are all speculative, in a sense — but...the fact that it would run close to the physical limits is an easier call."
 
@@ -19,7 +19,7 @@ The authors wrote the ending by depicting a superintelligence pushing technology
 
 **Neo-ribosomes**: Synthetic protein factories that researchers are actively developing.
 
-**Star lifting**: Extracting hydrogen from stars for fusion energy in specialized reactors.
+**Star lifting**: Extracting hydrogen --}{++{"author":"AI","timestamp":1774206280674}@@TODO: Re-scrape ++}from{--{"author":"AI","timestamp":1774206280674}@@ stars for fusion energy in specialized reactors.
 
 **Botulinum toxin**: Among the deadliest biological substances known, potentially delivered via insect-sized drones.
 
@@ -33,4 +33,4 @@ The authors wrote the ending by depicting a superintelligence pushing technology
 
 The chapter aims to convey stakes and scope. The authors note that consequences of rogue superintelligence would "extend beyond the planetary scale," and they reference Robin Hanson's work on the Fermi Paradox regarding potential distant alien civilizations.
 
-The scenario depicts one plausible pathway among many leading to catastrophic outcomes, illustrating how "many paths lead to the same destination" rather than claiming predictive accuracy about exact technological developments.
+The scenario depicts one plausible pathway among many leading to catastrophic outcomes, illustrating how "many paths lead to the same destination" rather than claiming predictive accuracy about exact technological developments.--}{++{"author":"AI","timestamp":1774206280674}@@ website++}

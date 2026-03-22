@@ -9,10 +9,10 @@ tags:
   - clippings
   - IABIED
   - work-in-progress
----
-## Won't AI want to keep us happy and healthy for ecological preservation?
+---{--{"author":"AI","timestamp":1774206278646}@@
+## Won't AI want to keep us happy and healthy for ecological preservation?--}
 
-### Human Conservation Isn't Pure
+{--{"author":"AI","timestamp":1774206278646}@@### Human Conservation Isn't Pure
 
 Human ecological preferences are "colored by all our other values." We protect cute pandas while letting unappealing species disappear. We'd eliminate malaria mosquitoes despite their ecological role. Our preservation drive contains "internal conflicts and tensions tied to all of our other values and drives."
 
@@ -24,4 +24,4 @@ Any preservation instinct an AI develops would "also be liable to be impure, com
 
 "To make an AI that actually lets people lead flourishing lives, we'd probably need to make one that actually cares about that in particular." An AI with conservation values isn't the same as one that values human flourishing specifically.
 
-"Any preservation drive that makes it into the AI" won't necessarily result in beneficial outcomes for humanity, since the AI's values would remain fundamentally alien and unpredictable.
+"Any preservation drive that makes it into the AI" won't necessarily result in beneficial outcomes for humanity, since the AI's values would remain fundamentally alien and unpredictable.--}{++{"author":"AI","timestamp":1774206278646}@@TODO: Re-scrape from website++}

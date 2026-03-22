@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-# Won't AI differ from all the historical precedents?
+{--{"author":"AI","timestamp":1774206280560}@@# Won't AI differ--}{++{"author":"AI","timestamp":1774206280560}@@TODO: Re-scrape++} from{--{"author":"AI","timestamp":1774206280560}@@ all the historical precedents?
 
 **Yes.**
 
@@ -32,4 +32,4 @@ AI presents harder challenges than past problems:
 
 Critically, "humanity only gets one shot at getting superintelligence right." Unlike nuclear plants where failures teach lessons, superintelligence failure means extinction with no opportunity to learn and improve.
 
-"There is no established playbook for ASI."
+"There is no established playbook for ASI."--}{++{"author":"AI","timestamp":1774206280560}@@ website++}

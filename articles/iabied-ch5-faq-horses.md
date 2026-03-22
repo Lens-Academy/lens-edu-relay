@@ -9,12 +9,12 @@ tags:
   - clippings
   - IABIED
   - work-in-progress
----
+---{--{"author":"AI","timestamp":1774206287347}@@
 ## But we still have horses. Why wouldn't AI keep us around?
 
-### What horses remain, remain because we like them.
+### What horses remain, remain because we like them.--}
 
-Having the same fate that horses had at the start of the 20th century — the same catastrophic collapse in population and massive upsurge in death, destroying upwards of 80 percent of the horse population from its peak around 1910 — would be the worst thing that has happened in human history. And that was in a world where horses continued to be economically useful for some farm work, as well as for sports and novelty experiences to sell to rich people.
+{--{"author":"AI","timestamp":1774206287347}@@Having the same fate that horses had at the start of the 20th century — the same catastrophic collapse in population and massive upsurge in death, destroying upwards of 80 percent of the horse population --}{++{"author":"AI","timestamp":1774206287347}@@TODO: Re-scrape ++}from {--{"author":"AI","timestamp":1774206287347}@@its peak around 1910 — would be the worst thing that has happened in human history. And that was in a world where horses continued to be economically useful for some farm work, as well as for sports and novelty experiences to sell to rich people.
 
 If people had access to artificial horses that were shaped roughly the same way but were easier and more fun to ride, cheaper to own, and more personable and loving and convenient, the decline of horses would have been even more pronounced.
 
@@ -32,4 +32,4 @@ Human preference for horses arose from what makes humans uniquely human. By exte
 
 The horse analogy reveals more about human nature than AI futures. We kept horses partly for utility and partly for love. Neither factor reliably protects humans from superintelligent systems with alien priorities. The analogy, therefore, actually strengthens rather than weakens extinction concerns.
 
-Human survival cannot depend on hoping AI systems independently develop human-like caring instincts or preferences. The more reliable path would involve deliberate design choices made during AI development, but even those remain uncertain given our limited ability to specify complex values accurately.
+Human survival cannot depend on hoping AI systems independently develop human-like caring instincts or preferences. The more reliable path would involve deliberate design choices made during AI development, but even those remain uncertain given our limited ability to specify complex values accurately.--}{++{"author":"AI","timestamp":1774206287347}@@website++}
