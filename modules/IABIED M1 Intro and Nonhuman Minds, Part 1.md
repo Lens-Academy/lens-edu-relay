@@ -235,5 +235,17 @@ source:: ![[../Lenses/IABIED - QA - Obvious Insights Take Time]]
 
 # Lens: IABIED - QA - Full Description of an LLM
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Full Description of an LLM]]
+source:: ![[../Lenses/IABIED - QA - Full Description of an LLM]]{++{"author":"AI","timestamp":1774188716848}@@
+
+# Lens: IABIED - QA - Special Behavior from Mundane Parts
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Special Behavior from Mundane Parts]]
+
+# Lens: IABIED - QA - Same Work Different Ways
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Same Work Different Ways]]
+
+# Lens: IABIED - QA - Intelligence Isn't Ineffable
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Intelligence Isn't Ineffable]]++}
 
