@@ -11,9 +11,9 @@ tags:
   - work-in-progress
 ---
 
-## AI Experts on Catastrophe Scenarios
+{--{"author":"AI","timestamp":1774206195686}@@## AI Experts on Catastrophe Scenarios
 
-This page compiles statements from prominent AI researchers about existential risks from advanced artificial intelligence.
+This page compiles statements--}{++{"author":"AI","timestamp":1774206195686}@@TODO: Re-scrape++} from {--{"author":"AI","timestamp":1774206195686}@@prominent AI researchers about existential risks from advanced artificial intelligence.
 
 ### Survey Data
 
@@ -37,4 +37,4 @@ A 2022 survey of 738 NeurIPS and ICML conference attendees found that **48% thou
 
 ### Editorial Note on "p(doom)"
 
-The authors express concerns about assigning single probability estimates, noting this approach could become self-fulfilling if people misinterpret the reasons behind high probability assignments. They emphasize that even 5% extinction risk justifies urgent action.
+The authors express concerns about assigning single probability estimates, noting this approach could become self-fulfilling if people misinterpret the reasons behind high probability assignments. They emphasize that even 5% extinction risk justifies urgent action.--}{++{"author":"AI","timestamp":1774206195686}@@website++}

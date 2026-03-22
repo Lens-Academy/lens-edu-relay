@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-
+{--{"author":"AI","timestamp":1774206191304}@@
 ## Won't LLMs be like the humans in the data they're trained on?
 
 Training an LLM on human-generated text doesn't necessarily make the LLM become human-like. The authors use an analogy of an actress learning to predict drunk individuals—she wouldn't become drunk herself through this process.
@@ -23,7 +23,7 @@ The system required to predict many individual human behaviors differs fundament
 
 ### Architectural differences
 
-LLMs possess architectures vastly different from human brains. Their internal organization doesn't naturally produce human-like psychological states as a byproduct of prediction training.
+LLMs possess architectures vastly different --}{++{"author":"AI","timestamp":1774206191304}@@TODO: Re-scrape ++}from{--{"author":"AI","timestamp":1774206191304}@@ human brains. Their internal organization doesn't naturally produce human-like psychological states as a byproduct of prediction training.
 
 ### Why becoming human-like would be inefficient
 
@@ -37,4 +37,4 @@ Current LLMs can exhibit human-appearing behaviors through training, but these r
 
 The authors emphasize that humanlike external behavior shouldn't be confused with internal similarity. Training systems to output noble sentiments doesn't create entities that genuinely hold those values: "it won't be real."
 
-Human operators seeing apparently kind outputs shouldn't conclude the underlying system shares human values or motivations.
+Human operators seeing apparently kind outputs shouldn't conclude the underlying system shares human values or motivations.--}{++{"author":"AI","timestamp":1774206191304}@@ website++}

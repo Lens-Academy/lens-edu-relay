@@ -9,13 +9,14 @@ tags:
   - clippings
   - IABIED
   - work-in-progress
----
+---{--{"author":"AI","timestamp":1774206187483}@@
 
 ## Isn't intelligence overrated?
 
 **No—only if you're using an overly narrow definition of "intelligence."**
 
-The authors clarify that when they discuss "intelligence" in their book, they don't mean the trait separating academic achievers from athletes. Rather, they're referring to **"the property that separates humans from mice."**
+The authors clarify that when they discuss "intelligence" in their book, they don't mean the trait separating academic achievers--}{++{"author":"AI","timestamp":1774206187483}@@
+TODO: Re-scrape++} from {--{"author":"AI","timestamp":1774206187483}@@athletes. Rather, they're referring to **"the property that separates humans from mice."**
 
 ### What Intelligence Actually Encompasses
 
@@ -29,4 +30,4 @@ The authors use "artificial intelligence" to mean **"artificial everything-that-
 
 While many successful humans are charismatic politicians or pop stars rather than intellectuals, these abilities still derive from brain processes. The underlying cognitive architecture enabling human achievement—whether expressed as scientific insight or social influence—represents the phenomenon the authors call intelligence.
 
-The distinction isn't about narrow academic capability, but about the vast gap between human problem-solving ability and that of other animals, which enables civilization-building and technological advancement.
+The distinction isn't about narrow academic capability, but about the vast gap between human problem-solving ability and that of other animals, which enables civilization-building and technological advancement.--}{++{"author":"AI","timestamp":1774206187483}@@website++}

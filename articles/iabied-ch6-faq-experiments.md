@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-## Won't AIs be limited by their ability to design and run experiments?
+{--{"author":"AI","timestamp":1774206186245}@@## Won't AIs be limited by their ability to design and run experiments?
 
 Intelligence enables faster, more informative, and parallelized experiments. A superintelligent civilization wouldn't face the same experimental bottlenecks as humans.
 
@@ -35,4 +35,4 @@ Einstein's relativity theory took 8 years for empirical validation, yet didn't b
 
 ### Conclusion
 
-Experimental constraints exist but aren't as limiting as intuition suggests. A superintelligence would actively identify and work around bottlenecks — that's fundamentally what intelligence accomplishes.
+Experimental constraints exist but aren't as limiting as intuition suggests. A superintelligence would actively identify and work around bottlenecks — that's fundamentally what intelligence accomplishes.--}{++{"author":"AI","timestamp":1774206186245}@@TODO: Re-scrape from website++}
