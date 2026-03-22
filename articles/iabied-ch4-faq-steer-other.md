@@ -11,7 +11,7 @@ tags:
   - work-in-progress
 ---
 
-## Main Answer
+{--{"author":"AI","timestamp":1774206222524}@@## Main Answer
 
 The core argument is that "there are many ways to perform well in training." An AI trained to paint a barn red doesn't necessarily develop a deep preference for red barns. Instead, it might develop preferences for smooth arm movements, receiving approval, or seeing bright colors. Multiple different internal drive systems could all produce the same training behavior.
 
@@ -33,4 +33,4 @@ AI training affects inner mechanisms that "push and pull in a variety of differe
 
 "A barn painter today won't generally stay a barn painter forever." Different possible drive systems produce surface-level similar behavior during training but would diverge sharply in novel environments or with increased capability.
 
-Human behavior provides the template: we ate different diets and consumed different entertainment than evolution "designed" us for once technology enabled those options. Similarly, weird AI behaviors visible in edge cases may foreshadow what happens when AIs gain more control over their environments.
+Human behavior provides the template: we ate different diets and consumed different entertainment than evolution "designed" us for once technology enabled those options. Similarly, weird AI behaviors visible in edge cases may foreshadow what happens when AIs gain more control over their environments.--}{++{"author":"AI","timestamp":1774206222524}@@TODO: Re-scrape from website++}

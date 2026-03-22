@@ -9,7 +9,7 @@ tags:
   - clippings
   - IABIED
   - work-in-progress
----
+---{--{"author":"AI","timestamp":1774206223499}@@
 
 ## Isn't it impossible to predict the behavior of a superintelligence?
 
@@ -21,9 +21,9 @@ The key insight involves an epistemological distinction—when something is demo
 
 ### Extended Discussion Points
 
-- Intelligence functions as both prediction and steering capability
-- Greater intelligence correlates with better destination-achievement, even when intermediate steps remain mysterious
+- Intelligence functions as both prediction and steering capability--}
+{--{"author":"AI","timestamp":1774206223499}@@- Greater intelligence correlates with better destination-achievement, even when intermediate steps remain mysterious
 - This principle applies broadly to AI systems optimizing toward particular goals
 - Current AI systems showcase this pattern: we cannot predict exact behaviors but can anticipate goal-directed outcomes
 
-The authors observe this epistemological principle remains underdeveloped in computer science literature, suggesting academia has historically overlooked frameworks for understanding superhuman intelligence dynamics.
+The authors observe this epistemological principle remains underdeveloped in computer science literature, suggesting academia has historically overlooked frameworks for understanding superhuman intelligence dynamics.--}{++{"author":"AI","timestamp":1774206223499}@@TODO: Re-scrape from website++}

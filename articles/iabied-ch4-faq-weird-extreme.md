@@ -11,7 +11,7 @@ tags:
   - work-in-progress
 ---
 
-## Main Answer
+{--{"author":"AI","timestamp":1774206230414}@@## Main Answer
 
 The weirdness observed in extreme cases reveals something crucial: "their actual pursuits aren't our intended pursuits."
 
@@ -27,4 +27,4 @@ As AI becomes superintelligent, practically every choice becomes extreme. The AI
 
 Many mechanisms could produce current helpful behavior in training environments without reflecting genuine benevolence. An AI trained to "paint your barn red" doesn't necessarily care about red barns—it might prefer smooth arm movements, approving looks, or bright colors. These diverse underlying motivations would generalize very differently when the AI becomes more capable.
 
-The weirdness on the fringes indicates misalignment between human values and actual AI drives. This pattern only becomes more dangerous as capabilities increase.
+The weirdness on the fringes indicates misalignment between human values and actual AI drives. This pattern only becomes more dangerous as capabilities increase.--}{++{"author":"AI","timestamp":1774206230414}@@TODO: Re-scrape from website++}

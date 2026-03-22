@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-
+{--{"author":"AI","timestamp":1774206222185}@@
 ## How could an AI trained only on human data surpass humans?
 
 ### Learning General Skills and Implementing Them Better
@@ -31,8 +31,8 @@ This demonstrates that "human data is not the key limitation" compared to factor
 
 ### Scientific Discovery Through Gradient Descent
 
-The text uses a historical analogy: an AI trained only on Tycho Brahe's astronomical observations from the 1600s would benefit from predicting his handwritten Mars positions accurately. Gradient descent would reinforce internal patterns capable of discovering planetary motion laws—knowledge Brahe himself never developed. Training toward "predict what Brahe will write down next" naturally incentivizes surpassing human understanding when humans record phenomena they cannot fully predict.
+The text uses a historical analogy: an AI trained only on Tycho Brahe's astronomical observations from the 1600s would benefit--}{++{"author":"AI","timestamp":1774206222185}@@TODO: Re-scrape++} from{--{"author":"AI","timestamp":1774206222185}@@ predicting his handwritten Mars positions accurately. Gradient descent would reinforce internal patterns capable of discovering planetary motion laws—knowledge Brahe himself never developed. Training toward "predict what Brahe will write down next" naturally incentivizes surpassing human understanding when humans record phenomena they cannot fully predict.
 
 ### Current Limitations and Emerging Capabilities
 
-A footnote acknowledges that as of early 2025, modern LLMs show signs of performing novel mathematical work and sometimes outperforming human mathematicians in specific domains.
+A footnote acknowledges that as of early 2025, modern LLMs show signs of performing novel mathematical work and sometimes outperforming human mathematicians in specific domains.--}{++{"author":"AI","timestamp":1774206222185}@@ website++}
