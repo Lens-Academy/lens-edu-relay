@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774188701249}@@---
+---
 title: "What does it do to your daily life to believe all of this?"
 source_url: https://ifanyonebuildsit.com/12/what-does-it-do-to-your-daily-life-to-believe-all-of-this
 published: 2025-09-16
@@ -24,4 +24,4 @@ Yudkowsky has elsewhere [articulated](https://x.com/ESYudkowsky/status/185133419
 
 Living in the shadow of annihilation doesn't have to make you stupid. And it doesn't have to make you give up on fighting annihilation, or give up on fully living the life that you have for however long you have it.
 
-See also the very end of the book for more on this topic.++}
+See also the very end of the book for more on this topic.

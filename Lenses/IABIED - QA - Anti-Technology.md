@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774189491524}@@---
+---
 id: 307c1f85-08f7-46f1-bc90-39e1e681c644
 title: "Are you anti-technology?"
 tags:
@@ -26,4 +26,4 @@ TLDR: The authors are pro-technology in general -- they champion nuclear energy,
 Discussion topics:
 - Does learning the authors' stance on other technologies affect how you read their AI arguments?
 - Is the "scope" argument convincing as a way to draw a line between acceptable and unacceptable technological risks?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

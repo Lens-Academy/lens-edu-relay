@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774189621071}@@---
+---
 id: 27b0be33-0b86-496a-8be5-c1c91952fbf0
 title: "How would stopping everyone be possible without spyware?"
 tags:
@@ -26,4 +26,4 @@ TLDR: The authors argue it's feasible because advanced AI requires specialized c
 Discussion topics:
 - Does learning about the concentration of the chip supply chain change how you view the feasibility of a ban?
 - What happens to this argument if chip manufacturing becomes more distributed?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

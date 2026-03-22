@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774189687432}@@---
+---
 id: df1d08f5-8ff9-48e3-8c57-c9f7cf5dc178
 title: "Can a monitoring regime last forever?"
 tags:
@@ -26,4 +26,4 @@ TLDR: The authors say no, and it shouldn't -- but it doesn't need to. The goal i
 Discussion topics:
 - Does the "buy time for human augmentation" strategy seem more or less realistic than other proposals you've encountered?
 - How do you feel about the authors' optimistic vision alongside their dire warnings?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

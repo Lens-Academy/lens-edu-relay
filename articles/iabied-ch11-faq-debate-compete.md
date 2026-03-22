@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774188488350}@@---
+---
 title: "What if we made AIs debate, compete with, or oversee each other?"
 source_url: https://ifanyonebuildsit.com/11/what-if-we-made-ais-debate-compete-with-or-oversee-each-other
 published: 2025-09-16
@@ -34,4 +34,4 @@ Stepping back even further:
 
 The proposed plan here is that we don't know how to make smart AIs that want good things for us, so we're going to make a bunch of AIs and pit them against each other in a clever arrangement where we're supposed to benefit anyway. Structurally, we believe that this plan just sounds pretty crazy on its face, and that it doesn't actuallyget better if you look at the details. It doesn't seem at all like the sort of thing humanity can pull off properly [on the first try](/10/a-closer-look-at-before-and-after), in a situation where we don't have the luxury of learning from trial and error.
 
-[*](#ftnt265_ref) For more on how AIs would have no trouble colluding with AIs that betray humans, see our answer to [Won't AIs need the rule of law?](/5/wont-ais-need-the-rule-of-law)++}
+[*](#ftnt265_ref) For more on how AIs would have no trouble colluding with AIs that betray humans, see our answer to [Won't AIs need the rule of law?](/5/wont-ais-need-the-rule-of-law)

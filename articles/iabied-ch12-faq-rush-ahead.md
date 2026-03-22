@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774188624096}@@---
+---
 title: "Isn't it smarter to rush ahead and make sure good guys have the lead?"
 source_url: https://ifanyonebuildsit.com/12/isnt-it-smarter-to-rush-ahead-and-make-sure-good-guys-have-the-lead
 published: 2025-09-16
@@ -26,4 +26,4 @@ It doesn't matter how well-intentioned they are, and how careful they say they'r
 
 We'll turn to this point in the final chapter of the book.
 
-Things change. They especially change when there is a desperate, urgent, recognized need. The main impediment to stopping is world leaders failing to realize the danger. And that process has [already begun](/13/will-elected-officials-recognize-this-as-a-real-threat).++}
+Things change. They especially change when there is a desperate, urgent, recognized need. The main impediment to stopping is world leaders failing to realize the danger. And that process has [already begun](/13/will-elected-officials-recognize-this-as-a-real-threat).

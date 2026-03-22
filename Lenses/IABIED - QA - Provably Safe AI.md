@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774189516855}@@---
+---
 id: 49ba7dcf-3ccc-4b5c-9adc-4c36895df754
 title: "Are you saying we need provably safe AI?"
 tags:
@@ -26,4 +26,4 @@ TLDR: The authors say no -- mathematical proofs of AI safety are probably imposs
 Discussion topics:
 - Does the rowhammer attack example change how you think about formal verification?
 - Is the "careening toward a cliff" vs "faulty seatbelts" distinction an important one?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

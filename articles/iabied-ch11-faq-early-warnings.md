@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774188579437}@@---
+---
 title: "Won't there be early warnings researchers can use to identify problems?"
 source_url: https://ifanyonebuildsit.com/11/wont-there-be-early-warnings-researchers-can-use-to-identify-problems
 published: 2025-09-16
@@ -86,4 +86,4 @@ And that does not bode well for humanity, in a situation where we do not have th
 
 It's also not clear how long this sort of warning sign will keep happening. Modern AIs are still dumb enough to occasionally mistake tests for reality, but this regime won't last forever and is already [starting to end](https://arxiv.org/html/2505.23836). An AI that knows it's being tested might stop exhibiting the worrying behavior in places overseers can see it, even if the underlying tendency remains.
 
-[†](#ftnt267_ref) Delamination due to pressure cycling. In layman's terms: The stresses from many dives pulled the layers of the hull apart, weakening it until it imploded.++}
+[†](#ftnt267_ref) Delamination due to pressure cycling. In layman's terms: The stresses from many dives pulled the layers of the hull apart, weakening it until it imploded.

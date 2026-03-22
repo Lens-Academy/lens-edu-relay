@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774189484015}@@---
+---
 id: b614a390-a260-4790-9bbc-2cceb5930eea
 title: "Isn't the danger from smarter-than-human AI a distraction from other issues?"
 tags:
@@ -26,4 +26,4 @@ TLDR: The authors argue the world is big enough for multiple threats, but AI is 
 Discussion topics:
 - Do you find the comparison between AI investment and bioweapons/nuclear weapons investment compelling?
 - Does the "unknown threshold" framing change how you think about the urgency?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.
