@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774189645660}@@---
+---
 id: bafb42cd-f9b2-43d1-aec4-bd6ed36b10e0
 title: "Why a research ban? That seems extreme."
 tags:
@@ -26,4 +26,4 @@ TLDR: The authors argue algorithmic breakthroughs are as dangerous as hardware a
 Discussion topics:
 - Is the comparison between AI algorithm research and uranium enrichment apt?
 - How do you balance academic freedom against existential risk?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774188882547}@@---
+---
 title: "Shutdown Buttons and Corrigibility"
 source_url: https://ifanyonebuildsit.com/11/shutdown-buttons-and-corrigibility
 published: 2025-09-16
@@ -102,4 +102,4 @@ Instead, studying the case with utility functions is a bit more like proposing t
 
 [‡](#ftnt271_ref) Or, at least, that's a failure mode that we've seen in some clever ideas proposed. We've seen a bunch of clever ideas proposed; this little toy puzzle turns out to be tricky.
 
-[§](#ftnt272_ref) We have long taken issue with the term "AI control" because it sounds like trying to make an AI that wants bad stuff and then forcing it to do good stuff anyway, whereas we see the problem as being more about creating an AI that is friendly from the start. See also the book's Chapter 4 endnote 8 for a little more history of the term "AI alignment."++}
+[§](#ftnt272_ref) We have long taken issue with the term "AI control" because it sounds like trying to make an AI that wants bad stuff and then forcing it to do good stuff anyway, whereas we see the problem as being more about creating an AI that is friendly from the start. See also the book's Chapter 4 endnote 8 for a little more history of the term "AI alignment."

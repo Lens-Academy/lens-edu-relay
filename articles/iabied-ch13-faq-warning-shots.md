@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774189299040}@@---
+---
 title: "Will there be warning shots?"
 source_url: https://ifanyonebuildsit.com/13/will-there-be-warning-shots
 published: 2025-09-16
@@ -32,4 +32,4 @@ It may *in fact* turn out that humanity gets more and stronger warning signs abo
 
 But we advise against the strategy of doing nothing and praying for a minor catastrophe that wakes people up. A clear warning shot may never come, and it may not have the effect you're hoping for.
 
-The human race, and the nations of the world, are not helpless. We don't *need* to wait. We can take action now, because the case for halting frontier AI development is strong.++}
+The human race, and the nations of the world, are not helpless. We don't *need* to wait. We can take action now, because the case for halting frontier AI development is strong.

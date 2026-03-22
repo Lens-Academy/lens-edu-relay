@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774189343475}@@---
+---
 title: "Can a monitoring regime last forever?"
 source_url: https://ifanyonebuildsit.com/13/can-a-monitoring-regime-last-forever
 published: 2025-09-16
@@ -26,4 +26,4 @@ The basic problem that humanity faces is that of safely crossing the gap from hu
 
 We, personally, think that humanity's descendants deserve to become whatever they wish to be, explore the stars, and build a flourishing and beautiful civilization there. We advocate for a ban on frontier AI development because we think superintelligence is dangerous enough to make this necessary -- not because we hate AI, or technology, or scientific progress.
 
-The real question is *how* we get to a wonderful future, and how we manage the transition from here to there.++}
+The real question is *how* we get to a wonderful future, and how we manage the transition from here to there.

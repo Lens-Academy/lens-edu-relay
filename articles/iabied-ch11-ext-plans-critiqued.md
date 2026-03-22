@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774188700849}@@---
+---
 title: "More on Some of the Plans We Critiqued in the Book"
 source_url: https://ifanyonebuildsit.com/11/more-on-some-of-the-plans-we-critiqued-in-the-book
 published: 2025-09-16
@@ -86,4 +86,4 @@ When we look at the AI ecosystem, we see companies that have yet to show the wor
 
 (Indeed, when it comes to computer security, the AI companies are visibly incompetent. E.g., in 2025 OpenAI released tools that allow ChatGPT "agents" to interact with the user's email. Others [quickly found ways](https://x.com/Eito_Miyamura/status/1966541235306237985) to cause ChatGPT to leak the private contents of other people's email accounts.)
 
-When companies *look* like they're acting incompetent in some domain that's not core to their profitability, it's often because they actually are just incompetent in that domain.++}
+When companies *look* like they're acting incompetent in some domain that's not core to their profitability, it's often because they actually are just incompetent in that domain.
