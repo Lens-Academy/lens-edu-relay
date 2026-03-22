@@ -1,5 +1,5 @@
 ---
-title: "A starter guide for evals"
+title: "A starter guide for {--{"author":"AI","timestamp":1774090367106}@@evals — LessWrong"--}evals"
 source_url: "https://www.lesswrong.com/posts/2PiawPFJeyCQGcwXG/a-starter-guide-for-evals"
 author:
   - "Marius Hobbhahn"

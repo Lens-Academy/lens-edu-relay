@@ -1,5 +1,5 @@
 ---
-title: "6 reasons why “alignment-is-hard” discourse seems alien to human intuitions, and vice-versa"
+title: "6 reasons why “alignment-is-hard” discourse seems alien to human intuitions, and {--{"author":"AI","timestamp":1774090423104}@@vice-versa — LessWrong"--}vice-versa"
 source_url: "https://www.lesswrong.com/posts/d4HNRdw6z7Xqbnu5E/6-reasons-why-alignment-is-hard-discourse-seems-alien-to"
 author:
   - "Steven Byrnes"

@@ -1,7 +1,7 @@
 ---
 id: 0979db63-4c67-4cd2-892c-c653c170729a
-title: The Artificial Intelligence That Deleted A Century
-tags:
+{++{"author":"AI","timestamp":1773996891619}@@title: The Artificial Intelligence That Deleted A Century
+++}tags:
   - lens
 ---
 #### Text

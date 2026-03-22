@@ -1,7 +1,7 @@
 ---
 id: 8a1e320a-bf57-4ddf-88fa-074408716157
-title: Sidebar Chat Test (1 Article Segment)
-tags:
+{++{"author":"AI","timestamp":1773998875592}@@title: Sidebar Chat Test (1 Article Segment)
+++}tags:
   - lens
   - work-in-progress
 ---

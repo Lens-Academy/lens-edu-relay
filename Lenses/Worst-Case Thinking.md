@@ -1,7 +1,7 @@
 ---
 id: 2e4f6a8b-0c2d-4e6f-8a0b-2c4d6e8f0a2b
-title: Worst-Case Thinking
-tldr: In AI safety discussions, people often assume the worst. But different people do this for different reasons — some as a precaution, some because they think worst cases are likely, some because the stakes are too high to gamble on. This essay unpacks what's actually going on when someone reasons from the worst case.
+{++{"author":"AI","timestamp":1773996881504}@@title: Worst-Case Thinking
+++}tldr: In AI safety discussions, people often assume the worst. But different people do this for different reasons — some as a precaution, some because they think worst cases are likely, some because the stakes are too high to gamble on. This essay unpacks what's actually going on when someone reasons from the worst case.
 ---
 #### Text
 content::

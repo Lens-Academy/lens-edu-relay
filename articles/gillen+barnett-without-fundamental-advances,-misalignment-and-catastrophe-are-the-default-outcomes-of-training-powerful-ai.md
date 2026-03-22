@@ -1,5 +1,5 @@
 ---
-title: "Without fundamental advances, misalignment and catastrophe are the default outcomes of training powerful AI"
+title: "Without fundamental advances, misalignment and catastrophe are the default outcomes of training powerful {--{"author":"AI","timestamp":1774090365729}@@AI — LessWrong"--}AI"
 source_url: "https://www.lesswrong.com/posts/GfZfDHZHCuYwrHGCd/without-fundamental-advances-misalignment-and-catastrophe"
 author:
   - "Jeremy Gillen"

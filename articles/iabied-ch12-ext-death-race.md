@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774190024662}@@---
+{++{"author":"AI","timestamp":1774190032141}@@---
 title: "Making Sense of the Death Race"
 source_url: https://ifanyonebuildsit.com/12/making-sense-of-the-death-race
 published: 2025-09-16
@@ -88,7 +88,7 @@ Even more common, however, are scientists and CEOs who *don't* think it would be
 
 In a recent interview, Anthropic CEO Dario Amodei [commented](https://youtu.be/gAaCqj6j5sQ?feature=shared&t=5883):
 
-> My chance that something goes quite catastrophically wrong on the scale of human civilization might be somewhere between 10 and 25 percent. [...] What that means is that there's a 75 to 90 percent chance that this technology is developed and everything goes fine!
+> My chance that something goes quite catastrophically wrong on the scale of human civilization might be somewhere between 10 and 25 percent. […] What that means is that there's a 75 to 90 percent chance that this technology is developed and everything goes fine!
 
 This looks to us like a radical case of [scope neglect](https://en.wikipedia.org/wiki/Scope_neglect), with all the hallmarks of a dysfunctional engineering culture. We can compare this way of thinking to, e.g., the standards structural engineers hold themselves to.
 
@@ -96,7 +96,7 @@ Bridge engineers generally aim at building bridges in such a way that the probab
 
 If a bridge's chance of killing *a single person* were forecasted to be 10 to 25 percent, any sane structural engineer in the world would consider that beyond unacceptable, closer to a homicide than to normal engineering practice. Governments would shut the bridge down to traffic *immediately.*
 
-AI researchers, in contrast, are accustomed to gathering around water coolers and trading "p(doom)" numbers -- their subjective guess at how likely AI is to cause a catastrophe as serious as human extinction. These probabilities tend to be in the double digits. The former head of OpenAI's superintelligence alignment team, for example, said that his "p(doom)" falls in the "[more than 10 percent and less than 90 percent](https://80000hours.org/podcast/episodes/jan-leike-superalignment/)" range.
+AI researchers, in contrast, are accustomed to gathering around water coolers and trading "p(doom)" numbers — their subjective guess at how likely AI is to cause a catastrophe as serious as human extinction. These probabilities tend to be in the double digits. The former head of OpenAI's superintelligence alignment team, for example, said that his "p(doom)" falls in the "[more than 10 percent and less than 90 percent](https://80000hours.org/podcast/episodes/jan-leike-superalignment/)" range.
 
 These numbers are ultimately just researchers' guesses. Maybe they're nonsense, maybe they're not. Regardless, it's remarkable how culturally *normal* it is, in the field of AI, to expect your work to have a substantial chance of causing the deaths of enormous numbers of people.
 

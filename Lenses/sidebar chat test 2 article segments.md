@@ -1,13 +1,16 @@
 ---
 id: a86e3069-4757-4037-963a-631c2faad280
-title: Sidebar Chat Test (2 Article Segments)
-tags:
+{++{"author":"AI","timestamp":1773998873506}@@title: Sidebar Chat Test (2 Article Segments)
+++}tags:
   - lens
   - work-in-progress
 ---
 
 
-#### Text
+{--{"author":"AI","timestamp":1773947347375}@@### Article
+source:: [[../articles/wikipedia-existential-risk-from-ai]]
+
+--}#### Text
 content::
 The relationship that biologists have with DNA is pretty much the relationship that AI engineers have with the numbers inside an AI. Indeed, biologists know far more about how DNA turns into biochemistry and adult traits than engineers understand about how the numbers inside an AI yield cogent conversation and useful behavior. Biologists have been at the job for decades longer.
 
@@ -21,8 +24,8 @@ This is not the behavior of people who are carefully creating traditional softwa
 
 Engineers aren’t about to start understanding AIs, not anytime soon. In the mid-1950s, humanity embarked on a great project to understand intelligence well enough to produce it inside of a machine. That research progress stalled out in a series of “AI winters,” where money invested into AI research never paid off and funding repeatedly collapsed. Humanity never learned to understand intelligence; we never learned to build minds by hand.
 
-#### Article
-source:: [[../articles/wikipedia-existential-risk-from-ai]]
+#### {--{"author":"AI","timestamp":1773947499777}@@Article-excerpt--}{++{"author":"AI","timestamp":1773947499777}@@Article
+source:: [[../articles/wikipedia-existential-risk-from-ai]]++}
 to:: architecture.<sup>[[27]](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence#cite_note-28)</sup>
 
 #### Text:

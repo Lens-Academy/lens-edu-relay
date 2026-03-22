@@ -1,24 +1,27 @@
 ---
 id: 694776ec-44b7-44c2-bf63-3e1fde1d59ea
-title: The case for ensuring that powerful AIs are controlled
-tldr: We might not solve deep alignment before building very capable AI. This article argues that control — monitoring, containment, and rigorous testing — can let us safely use powerful models while alignment research catches up. Think of it as building a prison stronger than the prisoner.
+{++{"author":"AI","timestamp":1773996791611}@@title: The case for ensuring that powerful AIs are controlled
+++}tldr: We might not solve deep alignment before building very capable AI. This article argues that control — monitoring, containment, and rigorous testing — can let us safely use powerful models while alignment research catches up. Think of it as building a prison stronger than the prisoner.
 tags:
   - lens
 ---
-#### Text
+{--{"author":"AI","timestamp":1773947236429}@@### Article: The case for ensuring that powerful AIs are controlled
+source:: [[../articles/greenblatt+buck-the-case-for-ensuring-that-powerful-ais-are-controlled]]
+
+--}#### Text
 content::
 This perspective argues that control is our best short-term defense. We might not solve the "Hard Alignment Problem" before we build AGI. Control gives us a way to benefit from powerful AI while we are still working on deep alignment. The core theory of change is that if we can build a "prison" that is stronger than the "prisoner," we can put the prisoner to work safely.
 
-#### Article
-source:: [[../articles/greenblatt+buck-the-case-for-ensuring-that-powerful-ais-are-controlled]]
+#### {--{"author":"AI","timestamp":1773947248155}@@Article-excerpt--}{++{"author":"AI","timestamp":1773947248155}@@Article
+source:: [[../articles/greenblatt+buck-the-case-for-ensuring-that-powerful-ais-are-controlled]]++}
 from:: "There are two main lines of defense you could employ"
 to:: "it might be tractable to use control to substantially reduce risk."
 
-#### Article
+#### {--{"author":"AI","timestamp":1773947249051}@@Article-excerpt--}{++{"author":"AI","timestamp":1773947249051}@@Article++}
 from:: "# The control property"
 to:: "to some employees intentionally subverting security measures."
 
-#### Article
+#### {--{"author":"AI","timestamp":1773947250335}@@Article-excerpt--}Article
 from:: "# Evaluating whether you have control is doable"
 to:: "to use for the training, evaluation, and deployment of the model."
 

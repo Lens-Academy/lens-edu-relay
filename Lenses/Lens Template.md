@@ -5,11 +5,14 @@ tags:
   - work-in-progress
   - validator-ignore
 ---
-#### Text
+{--{"author":"AI","timestamp":1773947345412}@@### Article: `article title`
+source:: [[]]
+
+--}#### Text
 content::
 `<introductory text>`
 
-#### Article
+#### {--{"author":"AI","timestamp":1773947345412}@@Article-excerpt--}Article
 source:: [[]]
 to:: "`<an exact quote from the article where the exerpt should stop>`"
 
