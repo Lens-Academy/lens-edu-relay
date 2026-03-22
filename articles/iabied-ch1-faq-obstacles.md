@@ -9,7 +9,7 @@ tags:
   - clippings
   - IABIED
   - work-in-progress
----
+---{--{"author":"AI","timestamp":1774206215598}@@
 
 ## But aren't there big obstacles to reaching superintelligence?
 
@@ -19,8 +19,8 @@ The field lacks complete understanding of what barriers remain. Progress could c
 
 The AI field has consistently surmounted major obstacles:
 
-- **Image recognition**: AIs struggled for decades until 2012, when AlexNet enabled modern deep learning
-- **Complex games**: Go seemed insurmountable until AlphaGo combined neural networks with tree search in 2016
+- **Image recognition**: AIs struggled for decades until 2012, when AlexNet enabled modern deep learning--}
+{--{"author":"AI","timestamp":1774206215598}@@- **Complex games**: Go seemed insurmountable until AlphaGo combined neural networks with tree search in 2016
 - **Natural language**: Early chatbots had severe limitations until transformer architecture maturation produced GPT-3 and ChatGPT
 
 ### Current Bottlenecks
@@ -35,4 +35,4 @@ Private AI investment has increased over twentyfold since 2012. Major conference
 
 Without understanding intelligence's fundamental nature, predicting when major breakthroughs occur remains impossible. The next architectural insight could arrive soon or require years of development.
 
-**Conclusion**: Obstacles likely exist, but the field's track record suggests researchers will probably overcome them unless humanity intervenes through policy.
+**Conclusion**: Obstacles likely exist, but the field's track record suggests researchers will probably overcome them unless humanity intervenes through policy.--}{++{"author":"AI","timestamp":1774206215598}@@TODO: Re-scrape from website++}

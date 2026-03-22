@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-
+{--{"author":"AI","timestamp":1774206217785}@@
 ## But won't we run out of data before AI goes all the way? Or electrical power? Or funding?
 
 **Probably not.**
@@ -45,4 +45,4 @@ Earlier AI funding cycles collapsed when public backers lost patience with lack 
 - The platform generated $3.7 billion in 2024 revenue with projections of $12.7 billion in 2025
 - Private investment sustains the field independent of public funders who might withdraw support
 
-**Conclusion**: While theoretical constraints could emerge, current evidence suggests talent, resources, and technical innovation will overcome anticipated bottlenecks.
+**Conclusion**: While theoretical constraints could emerge, current evidence suggests talent, resources, and technical innovation will overcome anticipated bottlenecks.--}{++{"author":"AI","timestamp":1774206217785}@@TODO: Re-scrape from website++}
