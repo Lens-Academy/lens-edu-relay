@@ -117,7 +117,7 @@ source:: ![[../Lenses/IABIED - QA - Curiosity Isn't Convergent]]
 
 # Lens: IABIED - QA - Human Values Are Contingent
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Human Values Are Contingent]]{++{"author":"AI","timestamp":1774188191845}@@
+source:: ![[../Lenses/IABIED - QA - Human Values Are Contingent]]
 
 # Lens: IABIED - QA - The Road to Wanting
 optional:: true
@@ -125,7 +125,7 @@ source:: ![[../Lenses/IABIED - QA - The Road to Wanting]]
 
 # Lens: IABIED - QA - Smart AIs Spot Lies
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Smart AIs Spot Lies]]++}{++{"author":"AI","timestamp":1774188985966}@@
+source:: ![[../Lenses/IABIED - QA - Smart AIs Spot Lies]]
 
 # Lens: IABIED - QA - Deep Differences AIs and Evolved Species
 optional:: true
@@ -141,5 +141,5 @@ source:: ![[../Lenses/IABIED - QA - Reflection and Self-Modification]]
 
 # Lens: IABIED - QA - AI-Induced Psychosis
 optional:: true
-source:: ![[../Lenses/IABIED - QA - AI-Induced Psychosis]]++}
+source:: ![[../Lenses/IABIED - QA - AI-Induced Psychosis]]
 
