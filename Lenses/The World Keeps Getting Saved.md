@@ -1,13 +1,10 @@
 ---
 id: 9a7675b9-5a20-4104-98dd-68c28926e7a4
-{++{"author":"AI","timestamp":1773996724386}@@title: The World Keeps Getting Saved
-++}tags:
+title: The World Keeps Getting Saved
+tags:
   - lens
 ---
-{--{"author":"AI","timestamp":1773947222322}@@### Article: The World Keeps Getting Saved
-source:: [[../articles/Bogoed-the-world-keeps-getting-saved]]
-
---}#### Text
+#### Text
 content::
 If the consequences are this large and this unpredictable, then what can any one person actually do? This text reminds us of something important: catastrophes are often prevented in ways that remain invisible to most people.
 

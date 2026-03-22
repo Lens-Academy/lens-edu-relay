@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774189612582}@@---
+---
 id: 4bb117ef-efdd-453c-b921-1e9a7e0bb666
 title: "Will there be warning shots?"
 tags:
@@ -26,4 +26,4 @@ TLDR: The authors argue warning shots are unlikely to be clear and humanity is b
 Discussion topics:
 - Does the COVID/gain-of-function analogy worry you about society's ability to respond to AI warnings?
 - What would it take for a warning shot to actually change policy on superintelligence?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

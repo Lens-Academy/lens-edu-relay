@@ -1,20 +1,17 @@
 ---
 id: 4126ce24-1fb5-4f2c-8cdf-2f8c798d1996
-{++{"author":"AI","timestamp":1773996921790}@@title: Pythia by plex
-++}tldr: A system that perfectly predicts the world might seem harmless — it just answers questions. But if it knows how its answers change your behavior, choosing which answer to give becomes an act of influence. This article explores the thin line between passive prediction and active manipulation.
+title: Pythia by plex
+tldr: A system that perfectly predicts the world might seem harmless — it just answers questions. But if it knows how its answers change your behavior, choosing which answer to give becomes an act of influence. This article explores the thin line between passive prediction and active manipulation.
 tags :
   - lens
 ---
-{--{"author":"AI","timestamp":1773947169280}@@### Article: Pythia by plex
-source:: [[../articles/plex-pythia]]
-
---}#### Text
+#### Text
 content::
 The boundary between a passive predictor and an active agent is thinner than it appears. This article introduces the concept of "Pythia": a perspective on how advanced world-modeling can lead to the emergence of agency.
 The article deconstructs the concepts of "predictor" and "agent." It views knowledge of the structure of reality as what enables manipulation. In this paradigm, agency is a byproduct of a deep understanding of cause-and-effect relationships. If a system knows how its response will change your behavior, choosing a response becomes an act of control.
 
 
-#### {--{"author":"AI","timestamp":1773947177072}@@Article-excerpt--}Article
+#### Article
 source:: [[../articles/plex-pythia]]
 to:: "than most people trying stuff like this!"
 

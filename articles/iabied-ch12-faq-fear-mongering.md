@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774188779636}@@---
+---
 title: "Isn't this all just fear-mongering by AI leaders to increase status and raise investment?"
 source_url: https://ifanyonebuildsit.com/12/isnt-this-all-just-fear-mongering-by-ai-leaders-to-increase-status-and-raise-investment
 published: 2025-09-16
@@ -42,4 +42,4 @@ If you want to figure out whether the dangers are real, you have to ask question
 
 > Development of superhuman machine intelligence (SMI) is probably the greatest threat to the continued existence of humanity.  There are other threats that I think are more certain to happen (for example, an engineered virus with a long incubation period and a high mortality rate) but are unlikely to destroy every human in the universe in the way that SMI could.  
 
-When [addressing Congress](https://www.judiciary.senate.gov/imo/media/doc/2023-05-16%20-%20Bio%20&%20Testimony%20-%20Altman.pdf) in 2023, however, Altman made no mention of this threat, instead listing Privacy, Children's Safety, Accuracy, Disinformation, Cybersecurity, and Economic Impacts as possible areas of concern.++}
+When [addressing Congress](https://www.judiciary.senate.gov/imo/media/doc/2023-05-16%20-%20Bio%20&%20Testimony%20-%20Altman.pdf) in 2023, however, Altman made no mention of this threat, instead listing Privacy, Children's Safety, Accuracy, Disinformation, Cybersecurity, and Economic Impacts as possible areas of concern.

@@ -10,8 +10,4 @@ tags:
   - IABIED
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1774206351684}@@# Won't we just muddle through, like always?
-
-The world usually muddles through by trial and error. In this case, early errors wouldn't leave survivors.
-
-See Chapter 10 and the associated extended discussion about the difference between Before and After.--}{++{"author":"AI","timestamp":1774206351684}@@TODO: Re-scrape from website++}
+TODO: Re-scrape from website

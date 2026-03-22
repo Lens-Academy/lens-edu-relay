@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774189270791}@@---
+---
 title: "Can a technology really be stopped?"
 source_url: https://ifanyonebuildsit.com/13/can-a-technology-really-be-stopped
 published: 2025-09-16
@@ -34,4 +34,4 @@ And we would get to live. We would get to see our children live.
 
 In our experience, the people arguing that humanity can't stop the race to superintelligence are simply failing to understand the point that, if anyone builds it, everyone dies.
 
-Hence this book. As we discuss in the final chapter, humanity is capable of quite a lot when enough people understand the nature of the problem.++}
+Hence this book. As we discuss in the final chapter, humanity is capable of quite a lot when enough people understand the nature of the problem.

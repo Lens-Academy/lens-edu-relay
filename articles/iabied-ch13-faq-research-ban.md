@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774189241673}@@---
+---
 title: "Why a research ban? That seems extreme."
 source_url: https://ifanyonebuildsit.com/13/why-a-research-ban-that-seems-extreme
 published: 2025-09-16
@@ -28,4 +28,4 @@ But AI research would slow down a *lot* if it were illegal, and all the more so 
 
 It would be a very different world from the current world, where it's totally legal to run the most dangerous mad science experiments in history and giant corporations put billions of dollars into the endeavor.
 
-We don't know how many more breakthroughs it will take before the AIs are smart enough to do AI research and build even smarter AIs. It could be one breakthrough. It could be five. But better algorithms are just as deadly as better hardware. They are two horses drawing the same cart off a cliff.++}
+We don't know how many more breakthroughs it will take before the AIs are smart enough to do AI research and build even smarter AIs. It could be one breakthrough. It could be five. But better algorithms are just as deadly as better hardware. They are two horses drawing the same cart off a cliff.

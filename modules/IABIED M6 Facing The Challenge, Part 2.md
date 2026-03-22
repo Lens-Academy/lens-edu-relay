@@ -73,7 +73,7 @@ source:: ![[../Lenses/IABIED - QA - Can International Cooperation Really Work]]
 
 # Lens: IABIED - QA - The Draft Treaty
 optional:: true
-source:: ![[../Lenses/IABIED - QA - The Draft Treaty]]{++{"author":"AI","timestamp":1774189779017}@@
+source:: ![[../Lenses/IABIED - QA - The Draft Treaty]]
 
 # Lens: IABIED - QA - Distraction from Other Issues
 optional:: true
@@ -185,4 +185,4 @@ source:: ![[../Lenses/IABIED - QA - Shut Down Global AI Development]]
 
 # Lens: IABIED - QA - Keep the Coalition Large
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Keep the Coalition Large]]++}
+source:: ![[../Lenses/IABIED - QA - Keep the Coalition Large]]

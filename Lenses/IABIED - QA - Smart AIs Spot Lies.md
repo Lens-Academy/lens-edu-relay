@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774188178261}@@---
+---
 id: b4d8f2a1-6c73-4e9b-a120-9d3e5f7c8a42
 title: "Smart AIs Spot Lies and Opportunities"
 tags:
@@ -25,4 +25,4 @@ TLDR: A sufficiently intelligent AI can't sustainably hold false beliefs because
 Discussion topics:
 - The authors argue that the very thing that makes AI useful is exactly what makes it dangerous. Can you think of a way to break this connection, or is it fundamental?
 - The "flat Earth" thought experiment shows why false beliefs are unstable in smart systems. What other beliefs might we want to instill in AI that would face similar instability?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

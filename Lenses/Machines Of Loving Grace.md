@@ -1,14 +1,11 @@
 ---
 id: 52e8bb23-8bfe-480d-ab16-5783eebc9341
-{++{"author":"AI","timestamp":1773996848095}@@title: Machines Of Loving Grace
-++}tags:
+title: Machines Of Loving Grace
+tags:
   - lens
 
 ---
-{--{"author":"AI","timestamp":1773947087223}@@### Article: Machines Of Loving Grace
-source:: [[../articles/Amodei-machines-of-loving-grace]]
-
---}#### Text
+#### Text
 content::
 Yes, the risks are real. But what exactly are we trying to protect?The following materials ask a different question: what good could powerful AI bring if we manage to solve the safety problem?
 
@@ -36,7 +33,7 @@ Nick Bostrom, author of Superintelligence, spoke not only about risks. In his "L
 
 In this essay, Dario Amodei invites us to imagine a world in which safety problems have been solved and powerful AI systems are used for the benefit of humanity. In his view, many people underestimate the scale of AI’s potential benefits, just as they underestimate its risks.
 
-#### {--{"author":"AI","timestamp":1773947127694}@@Article-excerpt--}Article
+#### Article
 source:: [[../articles/Amodei-machines-of-loving-grace]]
 from:: "I think and talk a lot about"
 to:: "and abstract one."

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774188757155}@@---
+---
 title: "We Know What It Looks Like When a Problem Is Being Treated with Respect, And This Isn't It"
 source_url: https://ifanyonebuildsit.com/11/we-know-what-it-looks-like-when-a-problem-is-being-treated-with-respect-and-this-isnt-it
 published: 2025-09-16
@@ -60,4 +60,4 @@ In anything like the current technical environment — where AIs are grown rathe
 
 But it certainly simplifies matters to see that none of the developers of this technology are being even mildly cautious or rigorous in their safety plans or practices.
 
-[*](#ftnt268_ref) Numerically, air travel is *so* safe that society as a whole might benefit from air traffic control relaxing requirements for things like pilot training and contingency fuel, thereby reducing the cost of flights and inducing more people to fly rather than drive, thereby saving more lives on net.++}
+[*](#ftnt268_ref) Numerically, air travel is *so* safe that society as a whole might benefit from air traffic control relaxing requirements for things like pilot training and contingency fuel, thereby reducing the cost of flights and inducing more people to fly rather than drive, thereby saving more lives on net.

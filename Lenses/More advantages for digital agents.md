@@ -1,17 +1,13 @@
 ---
 id: e11c9013-82d7-4048-a0aa-be15533e4350
-{++{"author":"AI","timestamp":1773996716271}@@title: Sources of advantage for digital agents over biological agents
-++}tldr: Speed is the obvious advantage, but it's only the beginning. Digital agents could share memories, coordinate perfectly with copies of themselves, swap in specialized modules, and never lose information. This reading catalogues the ways artificial minds could differ from biological ones — not just in degree, but in kind.
+title: Sources of advantage for digital agents over biological agents
+tldr: Speed is the obvious advantage, but it's only the beginning. Digital agents could share memories, coordinate perfectly with copies of themselves, swap in specialized modules, and never lose information. This reading catalogues the ways artificial minds could differ from biological ones — not just in degree, but in kind.
 ---
-{--{"author":"AI","timestamp":1773947090004}@@### Article: Sources of advantage for digital agents over biological agents
-source:: [[../articles/bostrom-sources-of-advantage-for-digital-agents-over-biological-agents]]
-
-
---}#### Text
+#### Text
 content::
 And still we are only scratching the tip of the iceberg. Perhaps you'll want to sit down and think of a few more advantages you could imagine an artificial mind having over us yourself, before you read the following non-exhaustive list.
 
-#### {--{"author":"AI","timestamp":1773947100798}@@Article-excerpt--}Article
+#### Article
 source:: [[../articles/bostrom-sources-of-advantage-for-digital-agents-over-biological-agents]]
 
 #### Text

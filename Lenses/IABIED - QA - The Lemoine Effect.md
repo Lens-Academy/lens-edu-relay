@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774189569060}@@---
+---
 id: 96963c09-381d-419a-9245-012157347d66
 title: "The Lemoine Effect"
 tags:
@@ -26,4 +26,4 @@ TLDR: Named after Blake Lemoine who was ridiculed for claiming Google's AI was s
 Discussion topics:
 - Can you think of other examples of the Lemoine effect in technology or society?
 - If there won't be a clear "warning shot," how should society decide when to act?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

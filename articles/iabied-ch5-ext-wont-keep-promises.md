@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774188920225}@@---
+---
 title: "AIs Won't Keep Their Promises"
 source_url: https://ifanyonebuildsit.com/5/ais-wont-keep-their-promises
 published: 2025-09-16
@@ -199,4 +199,4 @@ But classical game theory also suggested that superintelligences would helplessl
 
 #### Notes
 
-[1] *death over dishonor:* For instance, in the historical practice of ritual suicide known as *[seppuku](https://en.wikipedia.org/wiki/Seppuku)*, often overdramatized in fiction but nevertheless [historical](https://ejmas.com/jalt/jaltart_hurst_0501.htm), which continued well into the [second world war](https://time.com/3918248/okinawa-ended-1945-history/).++}
+[1] *death over dishonor:* For instance, in the historical practice of ritual suicide known as *[seppuku](https://en.wikipedia.org/wiki/Seppuku)*, often overdramatized in fiction but nevertheless [historical](https://ejmas.com/jalt/jaltart_hurst_0501.htm), which continued well into the [second world war](https://time.com/3918248/okinawa-ended-1945-history/).

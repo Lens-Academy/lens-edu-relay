@@ -1,19 +1,16 @@
 ---
 id: 6c5deedc-44d5-434c-a5c4-77a5a2a1a6ac
-{++{"author":"AI","timestamp":1773996849847}@@title: "Forecasting transformative AI: what kind of AI?"
-++}tags :
+title: "Forecasting transformative AI: what kind of AI?"
+tags :
   - lens
   - work-in-progress
   - validator-ignore
 ---
-{--{"author":"AI","timestamp":1773947090980}@@### Article: Forecasting Transformative AI, Part 1: What Kind of AI?
-source:: [[../articles/karnofsky-forecasting-transformative-ai-part-1-what-kind-of-ai|karnofsky-forecasting-transformative-ai-part-1-what-kind-of-ai]]
-
---}#### Text
+#### Text
 content::
 `<introductory text>`
 
-#### {--{"author":"AI","timestamp":1773947102647}@@Article-excerpt--}Article
+#### Article
 source:: [[../articles/karnofsky-forecasting-transformative-ai-part-1-what-kind-of-ai|karnofsky-forecasting-transformative-ai-part-1-what-kind-of-ai]]
 to:: "`<an exact quote from the article where the exerpt should stop>`"
 

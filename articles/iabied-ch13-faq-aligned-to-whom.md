@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774189388477}@@---
+---
 title: ""Aligned to whom?""
 source_url: https://ifanyonebuildsit.com/13/aligned-to-whom
 published: 2025-09-16
@@ -20,4 +20,4 @@ The problem of which values *exactly* should be loaded into an AI seems like a t
 
 We don't need to agree *at all* about "aligned to whom?" in order to coordinate on an international ban, on the brutally simple grounds that we're going to die otherwise. There are an endless number of interesting philosophical questions occasioned by AI, but if we let ourselves get unduly distracted by these, we're liable to get our kids killed in the process.
 
-Even when it comes to issues that are of enormous long-term importance, nothing should be packaged with the survival of humanity except the survival of humanity.++}
+Even when it comes to issues that are of enormous long-term importance, nothing should be packaged with the survival of humanity except the survival of humanity.

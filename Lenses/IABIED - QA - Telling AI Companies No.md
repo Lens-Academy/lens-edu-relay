@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774189587262}@@---
+---
 id: 9229186a-fa0d-456e-860a-9559953f553a
 title: "Workable Plans Will Involve Telling AI Companies No"
 tags:
@@ -26,4 +26,4 @@ TLDR: The authors argue that plans requiring AI CEO cooperation are doomed becau
 Discussion topics:
 - Does the argument that no single CEO can stop the race change how you think about corporate AI safety pledges?
 - What's the right role for AI companies in policy discussions about their own industry?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

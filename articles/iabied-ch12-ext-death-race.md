@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774190032141}@@---
+---
 title: "Making Sense of the Death Race"
 source_url: https://ifanyonebuildsit.com/12/making-sense-of-the-death-race
 published: 2025-09-16
@@ -182,4 +182,4 @@ How could people possibly do a self-destructive thing that is hugely profitable 
 
 At the end of the day, it doesn't matter how the AI executives or researchers excuse their actions, and it isn't necessary to understand which exact twists and turns each of them took to arrive at their current beliefs. It is not extraordinary for people with wealth or ambition to engage in reckless pursuits, and it is not extraordinary for subordinates to follow orders. The harms are hidden in the future, which feels abstract and easy to ignore.
 
-This is all normal human behavior. If it carries on this way, it'll end in the way these things often do, but with no one left behind this time to learn and try again.++}
+This is all normal human behavior. If it carries on this way, it'll end in the way these things often do, but with no one left behind this time to learn and try again.

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774188652004}@@---
+---
 title: "Why not use international cooperation to build AI safely, rather than to shut it all down?"
 source_url: https://ifanyonebuildsit.com/12/why-not-use-international-cooperation-to-build-ai-safely-rather-than-to-shut-it-all-down
 published: 2025-09-16
@@ -40,4 +40,4 @@ Given humanity's dismal state of knowledge and competence on this topic, it does
 
 [1] *three times already:* The INSAG-7 [safety report](https://www-pub.iaea.org/MTCD/publications/PDF/Pub913e_web.pdf) (p. 51) records that rundown tests were attempted at Chernobyl in 1982, 1984, and 1985 before the disastrous 1986 test, which was itself embarrassingly delayed to the point where operators [expected to be fired](https://chernobylcritical.blogspot.com/p/prelude-25-april-1986.html) if they failed to run the test.
 
-[2] *delayed three times:* Technically "postponed three times and scrubbed once" according to the [Rogers Commission Report](https://sma.nasa.gov/SignificantIncidents/assets/rogers_commission_report.pdf) (p. 17). But one of the postponements occurred a month beforehand in response to delays in a different mission, whereas the other three happened in quick succession in the days leading up to the launch; it's the latter three that we expect were putting pressure on the NASA managers who thought their job was to launch space shuttles.++}
+[2] *delayed three times:* Technically "postponed three times and scrubbed once" according to the [Rogers Commission Report](https://sma.nasa.gov/SignificantIncidents/assets/rogers_commission_report.pdf) (p. 17). But one of the postponements occurred a month beforehand in response to delays in a different mission, whereas the other three happened in quick succession in the days leading up to the launch; it's the latter three that we expect were putting pressure on the NASA managers who thought their job was to launch space shuttles.

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774188583616}@@---
+---
 title: "Isn't the danger from smarter-than-human AI a distraction from other issues?"
 source_url: https://ifanyonebuildsit.com/12/isnt-the-danger-from-smarter-than-human-ai-a-distraction-from-other-issues
 published: 2025-09-16
@@ -28,4 +28,4 @@ We aren't saying that other issues should be ignored. We're saying that this iss
 
 [\*](#ftnt273_ref) See also our extended discussion (following Chapter 13) on [making an inclusive coalition](/13/keep-the-coalition-large).
 
-[†](#ftnt274_ref) See also a [list of comparisons between AI alignment and nuclear weapons](/10/wont-ai-differ-from-all-the-historical-precedents).++}
+[†](#ftnt274_ref) See also a [list of comparisons between AI alignment and nuclear weapons](/10/wont-ai-differ-from-all-the-historical-precedents).

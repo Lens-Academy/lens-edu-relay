@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774189695581}@@---
+---
 id: 4963082e-ea37-4d7a-8366-6cf7b8135c52
 title: "Why would making humans smarter help?"
 tags:
@@ -26,4 +26,4 @@ TLDR: The authors argue alignment isn't unsolvable, just beyond current human ca
 Discussion topics:
 - Does the distinction between "can't be solved" and "can't be solved by current humans" change your view of the alignment problem?
 - What ethical concerns arise from human intelligence augmentation?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

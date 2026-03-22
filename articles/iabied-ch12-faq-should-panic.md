@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774188732757}@@---
+---
 title: "Are you saying we should panic?"
 source_url: https://ifanyonebuildsit.com/12/are-you-saying-we-should-panic
 published: 2025-09-16
@@ -32,4 +32,4 @@ You can still shred your soul with acts of hatred or violence, but all you'll ge
 
 #### Notes
 
-[1] *argued before:* See, e.g., Yudkowsky's answer to Q3 in his LessWrong post about how to [inch humanity closer to survival even when the situation looks grim](https://www.lesswrong.com/posts/j9Q8bRmwCgXRYAgcJ/miri-announces-new-death-with-dignity-strategy#Q5___Then_isn_t_it_unwise_to_speak_plainly_of_these_matters__when_fools_may_be_driven_to_desperation_by_them___What_if_people_believe_you_about_the_hopeless_situation__but_refuse_to_accept_that_conducting_themselves_with_dignity_is_the_appropriate_response_).++}
+[1] *argued before:* See, e.g., Yudkowsky's answer to Q3 in his LessWrong post about how to [inch humanity closer to survival even when the situation looks grim](https://www.lesswrong.com/posts/j9Q8bRmwCgXRYAgcJ/miri-announces-new-death-with-dignity-strategy#Q5___Then_isn_t_it_unwise_to_speak_plainly_of_these_matters__when_fools_may_be_driven_to_desperation_by_them___What_if_people_believe_you_about_the_hopeless_situation__but_refuse_to_accept_that_conducting_themselves_with_dignity_is_the_appropriate_response_).

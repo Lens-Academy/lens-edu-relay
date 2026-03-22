@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774189228119}@@---
+---
 id: f2b6d8c9-0e7d-4ae6-d31f-7c4e5b2a8f60
 title: "Losing the Future"
 tags:
@@ -25,4 +25,4 @@ TLDR: The risk isn't just human extinction — it's that consciousness, joy, and
 Discussion topics:
 - The image of Dyson shells harvesting starlight with no one happy about it is vivid. Does the distinction between "humanity dies" and "all meaning dies" change how you think about the stakes?
 - Even if an AI did value happiness, the authors worry about "max pleasure forever" dystopias. What does this say about the difficulty of specifying what we actually want?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

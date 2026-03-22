@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774189399333}@@---
+---
 title: "Isn't it smarter to avoid talking about extinction?"
 source_url: https://ifanyonebuildsit.com/13/isnt-it-smarter-to-avoid-talking-about-extinction
 published: 2025-09-16
@@ -23,4 +23,4 @@ The four main problems we see with this approach are:
 
 This is not to say that job loss, bioterrorism, etc., aren't real issues in their own right. It's just that society isn't going to *actually* put a stop to the reckless suicide race if it doesn't *know* that there's a reckless suicide race happening.
 
-At some point, as human beings, we have to start talking about the looming threat. Policy needs to be grounded in the actual realities of the situation, not in safe-seeming messaging.++}
+At some point, as human beings, we have to start talking about the looming threat. Policy needs to be grounded in the actual realities of the situation, not in safe-seeming messaging.

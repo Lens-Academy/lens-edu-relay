@@ -10,9 +10,9 @@ tags:
   - validator-ignore
 ---
 
-# {--{"author":"AI","timestamp":1773948097861}@@Page:--}{++{"author":"AI","timestamp":1773948097861}@@Lens:++} Welcome
+# Lens: Welcome
 id::
-{--{"author":"AI","timestamp":1773948097861}@@##--}#### Text
+#### Text
 content::
 
 

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774188880665}@@---
+---
 title: "The Lemoine Effect"
 source_url: https://ifanyonebuildsit.com/12/the-lemoine-effect
 published: 2025-09-16
@@ -66,4 +66,4 @@ We'll return to this topic in the [online supplement to Chapter 13](/13/will-the
 
 #### Notes
 
-[1] *bright red line:* For an example of this bright red line appearing in science fiction, see H. Beam Piper's *Little Fuzzy:* "Anything that talks and builds a fire is a sapient being, yes. That's the law. But that doesn't mean that anything that doesn't isn't." Or see the *Star Trek: The Next Generation* episode *The Measure of a Man*, in which the demonstrated intelligence and self-awareness of Data, an android, suffices to give him the legal right to refuse disassembly.++}
+[1] *bright red line:* For an example of this bright red line appearing in science fiction, see H. Beam Piper's *Little Fuzzy:* "Anything that talks and builds a fire is a sapient being, yes. That's the law. But that doesn't mean that anything that doesn't isn't." Or see the *Star Trek: The Next Generation* episode *The Measure of a Man*, in which the demonstrated intelligence and self-awareness of Data, an android, suffices to give him the legal right to refuse disassembly.

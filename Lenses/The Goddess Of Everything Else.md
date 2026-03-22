@@ -1,7 +1,7 @@
 ---
 id: b49727ba-c6e8-4142-a1a8-7e8793d52465
-{++{"author":"AI","timestamp":1773996721897}@@title: The Goddess Of Everything Else
-++}tags:
+title: The Goddess Of Everything Else
+tags:
   - lens
 ---
 #### Text

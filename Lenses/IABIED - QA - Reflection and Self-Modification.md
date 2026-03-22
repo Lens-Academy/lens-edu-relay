@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774188963748}@@---
+---
 id: f5c9d2e8-1a7b-4c3d-8e60-4b9f2d1a6c85
 title: "Reflection and Self-Modification Make It All Harder"
 tags:
@@ -25,4 +25,4 @@ TLDR: When AIs reflect on their goals, they'll use their current (potentially al
 Discussion topics:
 - The "300-meter cheesecake" thought experiment: why can't a smart AI reason its way out of a silly goal? Does this change how you think about intelligence and values?
 - The authors say instrumental values can become terminal values in humans (like getting attached to a familiar driving route). What does this imply for AI value development?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

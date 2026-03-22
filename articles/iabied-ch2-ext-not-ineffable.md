@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774188671888}@@---
+---
 title: "Intelligence Isn't Ineffable"
 source_url: https://ifanyonebuildsit.com/2/intelligence-isnt-ineffable
 published: 2025-09-16
@@ -135,4 +135,4 @@ Before we get there, we need to explain why AI techniques like the ones we've di
 
 #### Notes
 
-[1] *incomparably different:* As the eminent physicist Lord Kelvin put it in 1903: "Modern biologists are coming once more to a firm acceptance of something beyond mere gravitational, chemical, and physical forces; and that unknown thing is a vital principle." Source: Silvanus Phillips Thompson, *The Life of Lord Kelvin* (American Mathematical Society, 2005).++}
+[1] *incomparably different:* As the eminent physicist Lord Kelvin put it in 1903: "Modern biologists are coming once more to a firm acceptance of something beyond mere gravitational, chemical, and physical forces; and that unknown thing is a vital principle." Source: Silvanus Phillips Thompson, *The Life of Lord Kelvin* (American Mathematical Society, 2005).
