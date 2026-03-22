@@ -10,10 +10,10 @@ tags:
   - IABIED
   - work-in-progress
 ---
-
+{--{"author":"AI","timestamp":1774206138749}@@
 ## Gradient Descent Challenges
 
-Early neural network researchers struggled to make gradient descent work effectively with multiple layers. The solution involved initializing weights carefully by dividing random numbers by a constant to prevent values from becoming too large during operation. This "trick" wasn't invented until approximately 60 years after neural networks were first proposed in 1943.
+Early neural network researchers struggled to make gradient descent work effectively with multiple layers. The solution involved initializing weights carefully by dividing random numbers by a constant to prevent values --}{++{"author":"AI","timestamp":1774206138749}@@TODO: Re-scrape ++}from{--{"author":"AI","timestamp":1774206138749}@@ becoming too large during operation. This "trick" wasn't invented until approximately 60 years after neural networks were first proposed in 1943.
 
 The mathematical concept of using calculus to adjust parameters was discussed in 1962 and applied to multi-layer neural networks in 1967, but didn't gain widespread acceptance until Geoffrey Hinton co-authored a popularizing paper in 1986.
 
@@ -35,4 +35,4 @@ Even when there is a simple and practical solution to some engineering challenge
 
 This pattern matters because developing safe superintelligent AI likely requires numerous insights. Researchers cannot rely on discovering simple solutions quickly, even when those solutions seem obvious afterward. If stumbling through trial-and-error might cause extinction, civilization cannot permit such experimentation.
 
-"You cannot rely on researchers seeing it as soon as a solution becomes important. You cannot rely on them seeing it within the next two years."
+"You cannot rely on researchers seeing it as soon as a solution becomes important. You cannot rely on them seeing it within the next two years."--}{++{"author":"AI","timestamp":1774206138749}@@ website++}

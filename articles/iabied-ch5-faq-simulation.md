@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-## What if we make it think it's in a simulation?
+{--{"author":"AI","timestamp":1774206138455}@@## What if we make it think it's in a simulation?
 
 The proposal suggests training an AI in progressively larger simulations before deploying it, hoping uncertainty about reality would make it hesitant to harm humanity. The authors argue this approach is unlikely to work.
 
@@ -30,4 +30,4 @@ Three key detection methods:
 
 ### The Broader Problem
 
-Humans tend to imagine optimistic scenarios and construct post-hoc justifications for why AIs might cooperate with us, rather than examining the vastly larger possibility space where AIs pursue completely different objectives.
+Humans tend to imagine optimistic scenarios and construct post-hoc justifications for why AIs might cooperate with us, rather than examining the vastly larger possibility space where AIs pursue completely different objectives.--}{++{"author":"AI","timestamp":1774206138455}@@TODO: Re-scrape from website++}

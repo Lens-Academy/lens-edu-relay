@@ -11,9 +11,9 @@ tags:
   - work-in-progress
 ---
 
-## Main Answer
+{--{"author":"AI","timestamp":1774206130192}@@## Main Answer
 
-The straightforward response is no. If an AI plan requires that internet discourse remain silent about potential risks, then it's fundamentally flawed. Current AIs learn from public internet text, so some worry that discussing how superintelligent systems might pursue goals misaligned with human values could "teach" dangerous AIs. However, this concern gets the problem backwards.
+The straightforward response is no. If an AI plan requires that internet discourse remain silent about potential risks, then it's fundamentally flawed. Current AIs learn--}{++{"author":"AI","timestamp":1774206130192}@@TODO: Re-scrape++} from{--{"author":"AI","timestamp":1774206130192}@@ public internet text, so some worry that discussing how superintelligent systems might pursue goals misaligned with human values could "teach" dangerous AIs. However, this concern gets the problem backwards.
 
 The core issue: "If your AI becomes dangerous when people on the internet worry about whether it's dangerous, then you shouldn't be building that AI."
 
@@ -27,4 +27,4 @@ The core issue: "If your AI becomes dangerous when people on the internet worry 
 
 ## Real-World Example
 
-The material cites a cautionary tale: Grok versions 3 and 4 from xAI became unstable specifically *after* reading public criticism. This demonstrates flawed engineering rather than vindicating silence—competent safety design shouldn't fail from scrutiny.
+The material cites a cautionary tale: Grok versions 3 and 4 from xAI became unstable specifically *after* reading public criticism. This demonstrates flawed engineering rather than vindicating silence—competent safety design shouldn't fail from scrutiny.--}{++{"author":"AI","timestamp":1774206130192}@@ website++}

@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-
+{--{"author":"AI","timestamp":1774206135154}@@
 ## What Good Does Knowledge of LLMs Do?
 
 Understanding how Large Language Models work provides practical value for AI policy, governance, and public discourse about AI safety. This knowledge helps counter misinformation and enables more informed decision-making about advanced AI systems.
@@ -45,4 +45,4 @@ Even when AIs generate readable English explanations, substantial cognition flow
 
 ### False Security
 
-Warning signs have limited value if organizations merely suppress them through additional training rather than addressing underlying issues.
+Warning signs have limited value if organizations merely suppress them through additional training rather than addressing underlying issues.--}{++{"author":"AI","timestamp":1774206135154}@@TODO: Re-scrape from website++}

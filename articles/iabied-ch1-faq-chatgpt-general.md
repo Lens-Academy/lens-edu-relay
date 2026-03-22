@@ -9,7 +9,7 @@ tags:
   - clippings
   - IABIED
   - work-in-progress
----
+---{--{"author":"AI","timestamp":1774206135785}@@
 
 ## Isn't ChatGPT already a general intelligence?
 
@@ -23,7 +23,8 @@ The authors suggest ChatGPT appears fundamentally less capable in some profound 
 
 The current state occupies a midpoint between "AI is plainly less capable than humans" and "results depend on what you ask the AI to do."
 
-Perhaps crossing the remaining gap requires modest scale increases, similar to how human brains exceed chimpanzee brains by three to four times. Alternatively, ChatGPT's architecture may lack sufficient depth for genuine generality. Possibly some core intelligence component eludes modern algorithms, compensated through massive practice and memorization. A single brilliant algorithmic breakthrough might enable AI to comprehend what humans understand and learn from experience with human-like efficiency—while retaining internet-scale memory capacity.
+Perhaps crossing the remaining gap requires modest scale increases, similar to how human brains exceed chimpanzee brains by three to four times. Alternatively, ChatGPT's architecture may lack sufficient depth for genuine generality. Possibly some core intelligence component eludes modern algorithms, compensated through massive practice and memorization. A single brilliant algorithmic breakthrough might enable AI to comprehend what humans understand and learn--}{++{"author":"AI","timestamp":1774206135785}@@
+TODO: Re-scrape++} from{--{"author":"AI","timestamp":1774206135785}@@ experience with human-like efficiency—while retaining internet-scale memory capacity.
 
 ### There are many different things one might mean by "general intelligence."
 
@@ -37,4 +38,4 @@ The authors employ "smarter-than-human AI," "superhuman AI," or "superintelligen
 
 **Superintelligent AI / Artificial Superintelligence (ASI):** Superhuman AI vastly surpassing human intelligence. Individual humans and real-world human groups cannot compete with superintelligent AI in practically important domains.
 
-The book largely treats "superhuman" and "superintelligent" interchangeably, though Part II distinguishes them when describing AI takeover scenarios where systems begin weakly smarter-than-human without being superintelligent.
+The book largely treats "superhuman" and "superintelligent" interchangeably, though Part II distinguishes them when describing AI takeover scenarios where systems begin weakly smarter-than-human without being superintelligent.--}{++{"author":"AI","timestamp":1774206135785}@@ website++}

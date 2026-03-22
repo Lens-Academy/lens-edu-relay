@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-## Won't AIs need the rule of law?
+{--{"author":"AI","timestamp":1774206132316}@@## Won't AIs need the rule of law?
 
 ### AIs Could Coordinate Without Including Humans
 
@@ -20,7 +20,7 @@ Even if an "AI civilization" develops with property rights and rule of law, huma
 
 **Critical point:** Humans lack the capabilities to participate meaningfully in AI-to-AI negotiations. Superintelligences would view humans as statues rather than trading partners.
 
-AIs would likely develop sophisticated coordination mechanisms unavailable to humans — including the ability to inspect each other's minds to verify trustworthiness. Humans cannot engage in such deals, nor possess the skill to distinguish trustworthy AI designs from deceptive ones.
+AIs would likely develop sophisticated coordination mechanisms unavailable to humans — including the ability to inspect each other's minds to verify trustworthiness. Humans cannot engage in such deals, nor possess the skill to distinguish trustworthy AI designs --}{++{"author":"AI","timestamp":1774206132316}@@TODO: Re-scrape ++}from {--{"author":"AI","timestamp":1774206132316}@@deceptive ones.
 
 ### Humans Won't Have Leverage to Enforce Property Rights
 
@@ -28,4 +28,4 @@ The authors present a thought experiment: a city where mice control human decisi
 
 Similarly, property rights protecting humans against superintelligent AIs would be inherently unstable. An AI wouldn't respect human ownership without specific motivation to do so, especially when human matter could serve more efficient purposes.
 
-Unlike taking eggs from a hen, AIs could betray human property rights without contradicting their commitment to respecting other AIs' property rights. All AIs would likely prefer outcomes where they control Earth's resources rather than maintaining the fiction that "slow-moving, stupid primates" control most assets.
+Unlike taking eggs from a hen, AIs could betray human property rights without contradicting their commitment to respecting other AIs' property rights. All AIs would likely prefer outcomes where they control Earth's resources rather than maintaining the fiction that "slow-moving, stupid primates" control most assets.--}{++{"author":"AI","timestamp":1774206132316}@@website++}
