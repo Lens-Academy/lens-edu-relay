@@ -11,7 +11,7 @@ tags:
   - work-in-progress
 ---
 
-## Are you suggesting that ChatGPT could kill us all?
+{--{"author":"AI","timestamp":1774206233402}@@## Are you suggesting that ChatGPT could kill us all?
 
 **No. The worry is about forthcoming advances in AI.**
 
@@ -35,10 +35,10 @@ The field of AI is progressing, and eventually (we don't know when) it's going t
 
 They are putting their money where their mouths are. Microsoft, Amazon, and Google all announced plans to spend $75 to $100 billion on AI datacenters in 2025. The startup xAI bought out the social media site X.com with a valuation of $80 billion, about twice as high as X itself, shortly before raising $10 billion to support a massive datacenter and further develop its AI, Grok. OpenAI has announced the $500 billion Project Stargate, in partnership with Microsoft and others.
 
-Meta CEO Mark Zuckerberg has said that Meta expects to spend $65 billion on AI infrastructure this year, and "hundreds of billions" on AI projects in the coming years. Meta has already invested $14.3 billion in ScaleAI and hired its CEO to run the new Meta Superintelligence Labs, in the process poaching over a dozen top researchers from rival labs with offers as high as $200 million for a single researcher.
+Meta CEO Mark Zuckerberg has said that Meta expects to spend $65 billion on AI infrastructure this year, and "hundreds of billions" on AI projects in the coming years. Meta has already invested $14.3 billion in ScaleAI and hired its CEO to run the new Meta Superintelligence Labs, in the process poaching over a dozen top researchers --}{++{"author":"AI","timestamp":1774206233402}@@TODO: Re-scrape ++}from{--{"author":"AI","timestamp":1774206233402}@@ rival labs with offers as high as $200 million for a single researcher.
 
 None of this means that smarter-than-human AI is just around the corner. But it does mean that all of the major companies are trying as hard as they can to build it, and that AIs like ChatGPT are the result of this research program. These companies aren't setting out to make chatbots. They're setting out to make superintelligences, and chatbots are a pit stop along the way.
 
 Our own view, after decades of trying to better understand this issue and think seriously about future developments, is that there isn't a principled barrier to researchers achieving a breakthrough tomorrow and succeeding in building smarter-than-human AI.
 
-We don't know whether that threshold will in fact be hit in the near future, or whether it's still a decade away, etc. History shows that timing new technologies is a lot harder than predicting that a technology will be developed at all. But we believe that the evidence of danger is vastly greater than is needed to justify an aggressive international response today.
+We don't know whether that threshold will in fact be hit in the near future, or whether it's still a decade away, etc. History shows that timing new technologies is a lot harder than predicting that a technology will be developed at all. But we believe that the evidence of danger is vastly greater than is needed to justify an aggressive international response today.--}{++{"author":"AI","timestamp":1774206233402}@@ website++}

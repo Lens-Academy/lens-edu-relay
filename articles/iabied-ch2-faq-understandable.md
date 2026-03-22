@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-
+{--{"author":"AI","timestamp":1774206234651}@@
 ## Is intelligence understandable in principle?
 
 **Probably.**
@@ -33,4 +33,4 @@ Understanding AI internals constrains what engineers can achieve. Currently, the
 
 Mechanistic interpretability research remains nascent—receiving roughly 0.1% of AI capability-building resources. While achievements exist, the field has achieved perhaps 1/50th to 1/5,000th of necessary progress for addressing major AI problems.
 
-Human engineers cannot yet read out individual number meanings from modern AIs the way they could with Deep Blue, the chess program IBM built decades ago.
+Human engineers cannot yet read out individual number meanings --}{++{"author":"AI","timestamp":1774206234651}@@TODO: Re-scrape ++}from {--{"author":"AI","timestamp":1774206234651}@@modern AIs the way they could with Deep Blue, the chess program IBM built decades ago.--}{++{"author":"AI","timestamp":1774206234651}@@website++}

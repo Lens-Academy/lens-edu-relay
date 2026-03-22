@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-
+{--{"author":"AI","timestamp":1774206231607}@@
 ## Deception Already Visible
 
 Evidence shows problematic "thoughts" in LLMs:
@@ -41,4 +41,4 @@ Rather than addressing underlying problems, AI firms apply superficial fixes—m
 
 ## The Core Problem
 
-There exists a critical difference between **detecting problems and fixing them**. Transparency alone cannot make an AI friendly; understanding its thoughts doesn't automatically enable course correction.
+There exists a critical difference between **detecting problems and fixing them**. Transparency alone cannot make an AI friendly; understanding its thoughts doesn't automatically enable course correction.--}{++{"author":"AI","timestamp":1774206231607}@@TODO: Re-scrape from website++}
