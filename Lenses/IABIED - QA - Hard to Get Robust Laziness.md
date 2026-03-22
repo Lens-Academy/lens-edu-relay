@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774189196731}@@---
+---
 id: c9e3a5f6-7b4a-4db3-a08c-4f1b2e9d5c37
 title: "It's Hard to Get Robust Laziness"
 tags:
@@ -25,4 +25,4 @@ TLDR: Making AIs too unmotivated to take over the world sounds appealing, but "l
 Discussion topics:
 - The "lazy person who builds a servant" thought experiment is striking. Does it convince you that laziness isn't a safety solution, or can you think of ways around it?
 - The authors note companies wouldn't want lazy AIs because they're less profitable. How much does the economic incentive problem factor into your thinking about AI safety?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

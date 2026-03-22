@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774189602130}@@---
+---
 id: 373144d9-cfc6-401c-b945-b55427cc2b67
 title: "Making Sense of the Death Race"
 tags:
@@ -26,4 +26,4 @@ TLDR: The authors explore multiple psychological explanations: game-theoretic in
 Discussion topics:
 - The comparison between bridge engineering standards (1 in 100,000 failure rate) and AI researchers' casual "p(doom)" numbers -- does this framing land?
 - Which explanation for the death race do you find most convincing: incentives, delusion, or the "missing mood"?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

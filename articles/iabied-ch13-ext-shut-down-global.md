@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774189432235}@@---
+---
 title: "What Would It Take to Shut Down Global AI Development?"
 source_url: https://ifanyonebuildsit.com/13/what-would-it-take-to-shut-down-global-ai-development
 published: 2025-09-16
@@ -34,4 +34,4 @@ The current largest AI datacenters house hundreds of thousands of AI chips, whic
 
 #### The Longer We Wait, the Harder It Gets
 
-If researchers are allowed to continue advancing the state of AI algorithms, smaller and smaller numbers of AI chips are likely to pose a serious threat. Eventually, it may be impossible for the world's governments to stop the development of superintelligent AI systems. We're not there, but it gets harder every month.++}
+If researchers are allowed to continue advancing the state of AI algorithms, smaller and smaller numbers of AI chips are likely to pose a serious threat. Eventually, it may be impossible for the world's governments to stop the development of superintelligent AI systems. We're not there, but it gets harder every month.
