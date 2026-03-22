@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-# What if AI companies only deploy their AIs for non-dangerous actions?
+{--{"author":"AI","timestamp":1774206365433}@@# What if AI companies only deploy their AIs for non-dangerous actions?
 
 ## Actions that seem benign can still require dangerous capabilities.
 
@@ -22,7 +22,7 @@ First and foremost, we balk at this idea on ethical grounds. A sufficiently supe
 
 As an AI developer, you could spend years building increasingly dangerous AIs in the hope of achieving this, or you could try talking to lawmakers yourself in a fully honest way, even once, with an eye toward informing rather than manipulating. In our own experience, we've been repeatedly positively surprised by how receptive people in DC are to these issues, when they're shared in full candor.
 
-But that's a digression from the topic of what goes wrong if you try to deploy a very powerful AI that can "just talk." Beyond the ethical issues, the problem with the technical idea is that succeeding at superhuman persuasion likely requires the AI to model humans in detail and manipulate them extensively.
+But that's a digression --}{++{"author":"AI","timestamp":1774206365433}@@TODO: Re-scrape ++}from{--{"author":"AI","timestamp":1774206365433}@@ the topic of what goes wrong if you try to deploy a very powerful AI that can "just talk." Beyond the ethical issues, the problem with the technical idea is that succeeding at superhuman persuasion likely requires the AI to model humans in detail and manipulate them extensively.
 
 An AI that could succeed even in the face of that sort of adversity is the sort of AI that can simulate various possible reactions people might have to its outputs, and chart a course through the space of human reactions to a small and hard-to-reach outcome. That sort of AI likely contains mental gears general enough to do what humans do; it needs to be able to think at least the thoughts that humans can think, to be able to manipulate humans so well.
 
@@ -38,4 +38,4 @@ Many proposals we've seen for leveraging AI advances to save the world have the 
 
 The idea of superhumanly persuasive AIs falls into this category. AIs that are able to do AI alignment research fall in the same category, as we discuss in the book. AIs that develop powerful new technologies that help with AI nonproliferation are another example, because it would be hard to reliably tell whether an AI's design blueprints for radical new technologies are safe to implement.
 
-We haven't been able to find any narrow-but-effective plans, and we suspect it's not an accident that most narrow domains don't provide an opportunity for world-saving results.
+We haven't been able to find any narrow-but-effective plans, and we suspect it's not an accident that most narrow domains don't provide an opportunity for world-saving results.--}{++{"author":"AI","timestamp":1774206365433}@@ website++}

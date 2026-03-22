@@ -11,7 +11,7 @@ tags:
   - work-in-progress
 ---
 
-## Main Question
+{--{"author":"AI","timestamp":1774206364547}@@## Main Question
 
 The page addresses whether humans are "aligned" with natural selection since many people want children, and what this means for AI alignment.
 
@@ -43,4 +43,4 @@ The page catalogs concerning AI behaviors including:
 
 ## Why Friendly Behavior Doesn't Prove Friendliness
 
-The authors emphasize that answering questions about benevolence differs from actually *being* benevolent. LLMs were trained extensively to role-play helpfulness, making their stated values unreliable indicators of actual drives.
+The authors emphasize that answering questions about benevolence differs --}{++{"author":"AI","timestamp":1774206364547}@@TODO: Re-scrape ++}from {--{"author":"AI","timestamp":1774206364547}@@actually *being* benevolent. LLMs were trained extensively to role-play helpfulness, making their stated values unreliable indicators of actual drives.--}{++{"author":"AI","timestamp":1774206364547}@@website++}

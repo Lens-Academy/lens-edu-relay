@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-## Human Values Are Contingent
+{--{"author":"AI","timestamp":1774206357164}@@## Human Values Are Contingent
 
 ### The Glorious Accident of Kindness
 
@@ -18,7 +18,7 @@ When observing someone drop a rock on their toe and wincing in response, we expe
 
 The challenge was that brains are complicated. However, ancestral primates possessed an advantage: their own brains resembled those around them. This enabled using one's brain as a template to predict others' thinking patterns.
 
-Proto-humans evolved mental machinery for simulating another person's perspective: adopting their preferences, knowledge, and thought patterns while assuming similar brain architecture. This empathy mechanism isn't perfectly isolated from our feelings. When witnessing someone in pain, we instinctively wince — a neurological accident of mental architecture that deserves recognition as foundational to human values.
+Proto-humans evolved mental machinery for simulating another person's perspective: adopting their preferences, knowledge, and thought patterns while assuming similar brain architecture. This empathy mechanism isn't perfectly isolated --}{++{"author":"AI","timestamp":1774206357164}@@TODO: Re-scrape ++}from{--{"author":"AI","timestamp":1774206357164}@@ our feelings. When witnessing someone in pain, we instinctively wince — a neurological accident of mental architecture that deserves recognition as foundational to human values.
 
 Ancestral primates likely developed self-modeling using identical machinery. This capacity for empathy — understanding others' suffering — represents something not inevitable in minds generally, yet became central to human identity and ethics.
 
@@ -48,4 +48,4 @@ Individual humans exhibit enormous value diversity — antithetical to engineeri
 
 The contingency of human biology, history, and moral perspectives suggests that achieving robust AI alignment is genuinely difficult. Engineering solutions exist, but unlimited retries aren't available. Current progress remains insufficient.
 
-"Many different lines of evidence point at it being genuinely difficult to get AIs to robustly want the right things."
+"Many different lines of evidence point at it being genuinely difficult to get AIs to robustly want the right things."--}{++{"author":"AI","timestamp":1774206357164}@@ website++}
