@@ -10,12 +10,12 @@ tags:
   - IABIED
   - work-in-progress
 ---
-
+{--{"author":"AI","timestamp":1774206152314}@@
 ## Won't AIs inevitably be cold and logical, or otherwise missing some crucial spark?
 
 **No.**
 
-AIs running on computers need not share qualities associated with computers, just as human thinking doesn't inherit properties from biology and chemistry. The authors compare this to outdated "vitalism" theories that attributed life to irreplicable forces rather than recognizing it emerges from mundane materials.
+AIs running on computers need not share qualities associated with computers, just as human thinking doesn't inherit properties from biology and chemistry. The authors compare this to outdated "vitalism" theories that attributed life to irreplicable forces rather than recognizing it emerges --}{++{"author":"AI","timestamp":1774206152314}@@TODO: Re-scrape ++}from{--{"author":"AI","timestamp":1774206152314}@@ mundane materials.
 
 ### Historical Pattern of Underestimation
 
@@ -35,4 +35,4 @@ Interpretability research—attempting to decode AI internals—remains nascent.
 
 ### Legibility Concerns
 
-While current AIs express reasoning in English, this transparency provides false security. AIs have demonstrated hidden thoughts within attention mechanisms. As systems grow more sophisticated, they may develop abbreviated languages, abstract thinking patterns, or entirely new notation beyond human decryption capabilities.
+While current AIs express reasoning in English, this transparency provides false security. AIs have demonstrated hidden thoughts within attention mechanisms. As systems grow more sophisticated, they may develop abbreviated languages, abstract thinking patterns, or entirely new notation beyond human decryption capabilities.--}{++{"author":"AI","timestamp":1774206152314}@@ website++}

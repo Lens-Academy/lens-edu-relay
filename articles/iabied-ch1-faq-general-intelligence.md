@@ -9,7 +9,7 @@ tags:
   - clippings
   - IABIED
   - work-in-progress
----
+---{--{"author":"AI","timestamp":1774206152859}@@
 
 ## Is "general intelligence" a meaningful concept?
 
@@ -31,4 +31,5 @@ The authors acknowledge we lack "a mature formal theory of generality," yet argu
 
 ### Practical Implications
 
-The piece emphasizes that lacking precise definitions doesn't prevent real consequences. An undefined threat remains dangerous—much like "forest fires burn regardless of chemistry knowledge."
+The piece emphasizes that lacking precise definitions doesn't prevent real consequences. An undefined threat remains dangerous—much like "forest fires burn regardless of chemistry knowledge."--}{++{"author":"AI","timestamp":1774206152859}@@
+TODO: Re-scrape from website++}

@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-## Nanotechnology and Protein Synthesis
+{--{"author":"AI","timestamp":1774206158253}@@## Nanotechnology and Protein Synthesis
 
 ### The Example of Biology
 
@@ -28,7 +28,7 @@ Richard Feynman's 1959 lecture demonstrated how miniaturization enables revoluti
 
 ### Why Biology Falls Short of Physical Limits
 
-Nature is impressive yet far from optimal due to:
+Nature is impressive yet far --}{++{"author":"AI","timestamp":1774206158253}@@TODO: Re-scrape ++}from {--{"author":"AI","timestamp":1774206158253}@@optimal due to:
 
 1. **Selection pressure constraints**: New mutations require hundreds of generations for fixation
 2. **Design space accessibility**: Evolution struggles reaching distant design possibilities
@@ -50,4 +50,4 @@ Conservative estimates suggest nanosystems of diamond or iron materials could re
 
 ### The Broader Point
 
-"A superintelligence with a small bit of lead time could probably find technological solutions for taking over the planet." Human technology already exceeds biology in numerous domains — aircraft carry cargo thousands of times heavier than birds; transistors switch millions of times faster than neurons. Nanotechnology represents a frontier where superintelligent AIs could achieve capabilities incomprehensibly beyond current human reach.
+"A superintelligence with a small bit of lead time could probably find technological solutions for taking over the planet." Human technology already exceeds biology in numerous domains — aircraft carry cargo thousands of times heavier than birds; transistors switch millions of times faster than neurons. Nanotechnology represents a frontier where superintelligent AIs could achieve capabilities incomprehensibly beyond current human reach.--}{++{"author":"AI","timestamp":1774206158253}@@website++}
