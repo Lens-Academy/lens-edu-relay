@@ -9,7 +9,7 @@ tags:
   - clippings
   - IABIED
   - work-in-progress
----
+---{--{"author":"AI","timestamp":1774206116602}@@
 
 ## More on Intelligence as Prediction and Steering
 
@@ -17,7 +17,8 @@ The text uses an analogy comparing intelligence to engines: just as various mech
 
 ### Prediction: The Objective Component
 
-"It's relatively straightforward to check how good someone is at prediction" when outcomes can be measured against reality. The authors explain that prediction quality can be scored objectively using logarithmic probability measures. When multiple minds work from identical information and improve their predictive abilities, they converge toward similar conclusions—there's "only one really good way to evaluate how well they're doing."
+"It's relatively straightforward to check how good someone is at prediction" when outcomes can be measured against reality. The authors explain that prediction quality can be scored objectively using logarithmic probability measures. When multiple minds work --}{++{"author":"AI","timestamp":1774206116602}@@
+TODO: Re-scrape ++}from{--{"author":"AI","timestamp":1774206116602}@@ identical information and improve their predictive abilities, they converge toward similar conclusions—there's "only one really good way to evaluate how well they're doing."
 
 This mathematical foundation means that accurate predictions don't vary arbitrarily between capable systems.
 
@@ -35,4 +36,4 @@ The authors illustrate how even "superhumanly good prediction" requires steering
 
 ### Intelligence Across Different Domains
 
-Stock markets perform prediction in narrow domains; chess AI (Stockfish) performs steering toward checkmate. These disparate systems share no common internal architecture yet both accomplish intelligence's essential work. The distinction matters: there is no universally "correct" steering destination, only correct predictions about reality.
+Stock markets perform prediction in narrow domains; chess AI (Stockfish) performs steering toward checkmate. These disparate systems share no common internal architecture yet both accomplish intelligence's essential work. The distinction matters: there is no universally "correct" steering destination, only correct predictions about reality.--}{++{"author":"AI","timestamp":1774206116602}@@ website++}
