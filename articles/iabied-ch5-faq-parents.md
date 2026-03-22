@@ -9,16 +9,16 @@ tags:
   - clippings
   - IABIED
   - work-in-progress
----
+---{--{"author":"AI","timestamp":1774206333464}@@
 ## Will AI treat us as its "parents"?
 
 ### It seems quite unlikely.
 
 One hope about AI is that it might treat humanity well because it views us as its "parents." However, this hope appears unfounded.
 
-**Why filial responsibility won't apply to AI:**
+**Why filial responsibility won't apply to AI:**--}
 
-Filial love and responsibility are highly contingent on evolutionary history. While most mammals care for their young, only a few species — including humans — have children who care for their parents. This trait isn't universal even among primates.
+{--{"author":"AI","timestamp":1774206333464}@@Filial love and responsibility are highly contingent on evolutionary history. While most mammals care for their young, only a few species — including humans — have children who care for their parents. This trait isn't universal even among primates.
 
 Several factors contributed to humans developing filial responsibility:
 
@@ -44,4 +44,4 @@ Humans were shaped by natural selection to maximize reproductive fitness, yet we
 
 This could manifest as: freezing humans in amber, keeping people alive against their will, preventing reproduction while providing minimal comfort, or something far stranger.
 
-The outcome would be unpredictable but almost certainly undesirable.
+The outcome would be unpredictable but almost certainly undesirable.--}{++{"author":"AI","timestamp":1774206333464}@@TODO: Re-scrape from website++}

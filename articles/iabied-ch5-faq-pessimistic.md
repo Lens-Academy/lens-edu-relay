@@ -9,10 +9,10 @@ tags:
   - clippings
   - IABIED
   - work-in-progress
----
-## Are you just pessimistic?
+---{--{"author":"AI","timestamp":1774206335487}@@
+## Are you just pessimistic?--}
 
-The authors clarify they are optimistic about many technologies — nuclear power, genetic engineering, biotech, nanotech, and others — and expect humanity is on a positive trajectory. However, "smarter-than-human AI is different from other technologies that came before it."
+{--{"author":"AI","timestamp":1774206335487}@@The authors clarify they are optimistic about many technologies — nuclear power, genetic engineering, biotech, nanotech, and others — and expect humanity is on a positive trajectory. However, "smarter-than-human AI is different --}{++{"author":"AI","timestamp":1774206335487}@@TODO: Re-scrape ++}from{--{"author":"AI","timestamp":1774206335487}@@ other technologies that came before it."
 
 Their concern about superintelligence isn't driven by generic pessimism. Rather, the dangerous nature of AI that can "think for themselves, or plot ways to escape, or build even more powerful technology" makes it a unique case.
 
@@ -30,4 +30,4 @@ Instead, they emphasize examining actual arguments. Their core argument states t
 
 **On practical limitations:** Even assuming negligible costs to preserve humanity, "the AI would still need to care at least a little" to do so — which they consider unlikely.
 
-Understanding the problem matters for developing effective policy responses.
+Understanding the problem matters for developing effective policy responses.--}{++{"author":"AI","timestamp":1774206335487}@@ website++}

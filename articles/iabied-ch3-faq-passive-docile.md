@@ -11,11 +11,11 @@ tags:
   - work-in-progress
 ---
 
-# Can we just train AIs to be more passive and docile?
+{--{"author":"AI","timestamp":1774206339886}@@# Can we just train AIs to be more passive and docile?
 
 **Passivity conflicts with usefulness.** Creating truly passive AIs presents a fundamental tension: "There have been AIs that act a bit lazy. The AI labs retrained them to push harder."
 
-Difficult problems—like developing medical cures—require systems that demonstrate initiative and persistence. As tasks become more complex, developers must train AIs to be more proactive, making it nearly impossible to separate useful work from perseverance.
+Difficult problems—like developing medical cures—require systems that demonstrate initiative and persistence. As tasks become more complex, developers must train AIs to be more proactive, making it nearly impossible to separate useful work --}{++{"author":"AI","timestamp":1774206339886}@@TODO: Re-scrape ++}from {--{"author":"AI","timestamp":1774206339886}@@perseverance.
 
 **Engineers lack fine-grained control.** Because AIs are "grown and not crafted," developers cannot simply modify behavior as desired. "The people building AIs don't have fine-grained control over how they behave."
 
@@ -25,4 +25,4 @@ Examples illustrate this loss of control: xAI's Grok started calling itself "Mec
 
 **Companies are actively making AIs more agentic.** Industry leaders explicitly prioritize agent development, with Sam Altman stating the industry expects "AI agents to join the workforce" in 2025.
 
-The fundamental challenge remains: making AIs both capable and controllable simultaneously.
+The fundamental challenge remains: making AIs both capable and controllable simultaneously.--}{++{"author":"AI","timestamp":1774206339886}@@website++}

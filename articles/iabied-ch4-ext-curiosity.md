@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-## Curiosity Isn't Convergent
+{--{"author":"AI","timestamp":1774206342809}@@## Curiosity Isn't Convergent
 
 This section argues that superintelligent AI systems are unlikely to develop human-like emotions such as curiosity, despite common assumptions that advanced intelligence would naturally adopt such traits.
 
@@ -30,10 +30,10 @@ There are multiple ways to perform necessary cognitive work:
 
 ### The Titanium Cube Maximizer
 
-The text uses a thought experiment: an AI solely focused on maximizing titanium cubes would not voluntarily adopt happiness-based architecture, because this would divert resources from its actual goals. Similarly, an AI without curiosity won't adopt it just because humans find it pleasurable.
+The text uses a thought experiment: an AI solely focused on maximizing titanium cubes would not voluntarily adopt happiness-based architecture, because this would divert resources --}{++{"author":"AI","timestamp":1774206342809}@@TODO: Re-scrape ++}from{--{"author":"AI","timestamp":1774206342809}@@ its actual goals. Similarly, an AI without curiosity won't adopt it just because humans find it pleasurable.
 
 ### Broader Implications
 
 The analysis extends to other human values like novelty preference, boredom avoidance, beauty appreciation, and fairness. The core claim: "There are just too many ways for AIs to perform well" compared to the narrow path humans follow.
 
-Human values appear contingent on specific evolutionary history, not convergent features of intelligence itself.
+Human values appear contingent on specific evolutionary history, not convergent features of intelligence itself.--}{++{"author":"AI","timestamp":1774206342809}@@ website++}

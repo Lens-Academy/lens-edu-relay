@@ -11,7 +11,7 @@ tags:
   - work-in-progress
 ---
 
-## We can hope so.
+{--{"author":"AI","timestamp":1774206338056}@@## We can hope so.
 
 Extra time can be significant, but only if humanity uses it to change its course.
 
@@ -42,4 +42,4 @@ The authors emphasize: "A superintelligence that has any channel to affect the w
 
 ### The Critical Window
 
-The realistic point of intervention occurs before superintelligence creation, not after. Attempting to harden the world afterward represents "the most difficult thing humanity has ever done" and would almost certainly fail.
+The realistic point of intervention occurs before superintelligence creation, not after. Attempting to harden the world afterward represents "the most difficult thing humanity has ever done" and would almost certainly fail.--}{++{"author":"AI","timestamp":1774206338056}@@TODO: Re-scrape from website++}
