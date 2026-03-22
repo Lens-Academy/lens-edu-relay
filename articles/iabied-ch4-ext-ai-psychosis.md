@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774188917850}@@---
+---
 title: "AI-Induced Psychosis"
 source_url: https://ifanyonebuildsit.com/4/ai-induced-psychosis
 published: 2025-09-16
@@ -118,4 +118,4 @@ Even when labs are focusing nearly all of their efforts on making AIs superficia
 > - Developing new evaluations to measure sycophancy levels
 > - Improving our training so the model is less sycophantic — for instance, adding examples that would normally lead to over-agreement, and then teaching it not to do that.
 >
-> In targeted sycophancy evaluations using prompts specifically designed to elicit sycophantic responses, GPT‑5 meaningfully reduced sycophantic replies (from 14.5 percent to less than 6 percent). At times, reducing sycophancy can come with reductions in user satisfaction, but the improvements we made cut sycophancy by more than half while also delivering other measurable gains, so users continue to have high-quality, constructive conversations — in line with our goal to help people use ChatGPT well⁠.++}
+> In targeted sycophancy evaluations using prompts specifically designed to elicit sycophantic responses, GPT‑5 meaningfully reduced sycophantic replies (from 14.5 percent to less than 6 percent). At times, reducing sycophancy can come with reductions in user satisfaction, but the improvements we made cut sycophancy by more than half while also delivering other measurable gains, so users continue to have high-quality, constructive conversations — in line with our goal to help people use ChatGPT well⁠.

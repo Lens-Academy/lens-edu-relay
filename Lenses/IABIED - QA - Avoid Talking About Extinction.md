@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774189713383}@@---
+---
 id: db2ffbfe-6eb7-44c0-b5d0-b2c3825f0da3
 title: "Isn't it smarter to avoid talking about extinction?"
 tags:
@@ -26,4 +26,4 @@ TLDR: The authors argue against strategic misdirection, giving four reasons: dis
 Discussion topics:
 - Does the revelation that elected officials are receptive to extinction-risk discussions surprise you?
 - When is strategic messaging helpful vs. counterproductive in advocacy?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

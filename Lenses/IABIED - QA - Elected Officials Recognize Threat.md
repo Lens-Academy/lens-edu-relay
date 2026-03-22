@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774189721554}@@---
+---
 id: 45b0200a-45ab-4db9-a754-54e7bd96fa66
 title: "Will elected officials recognize this as a real threat?"
 tags:
@@ -26,4 +26,4 @@ TLDR: An increasing number of officials on both sides of the U.S. political aisl
 Discussion topics:
 - Were you surprised by the bipartisan nature of the concern about AI?
 - What would it take for official recognition to translate into actual policy action?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

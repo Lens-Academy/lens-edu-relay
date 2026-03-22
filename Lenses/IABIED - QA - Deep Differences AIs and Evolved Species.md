@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774188938887}@@---
+---
 id: d7e3a1f2-8b4c-4e9a-bf61-3c2d5f8e7a90
 title: "Deep Differences Between AIs and Evolved Species"
 tags:
@@ -25,4 +25,4 @@ TLDR: Natural selection's narrow genomic bottleneck forced it to build genuinely
 Discussion topics:
 - Does the "information bottleneck" argument change how you think about attempts to make AI more human-like?
 - The authors say you don't have to become drunk to predict what drunk people say. What does this imply about AI "understanding" human values?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

@@ -1,12 +1,9 @@
 ---
 id: d53b7baa-a45d-483b-bc16-3fa5bee59ab2
-{++{"author":"AI","timestamp":1773996720635}@@title: Commitment and endogenous threats
-++}tldr: Sometimes the most powerful move isn't to fight — it's to make the other side believe you will. Cortés burned his own ships so his army had no choice but to advance. This reading explores how threats work as tools of negotiation, and what changes when an AI can commit to any threat instantly by rewriting its own code.
+title: Commitment and endogenous threats
+tldr: Sometimes the most powerful move isn't to fight — it's to make the other side believe you will. Cortés burned his own ships so his army had no choice but to advance. This reading explores how threats work as tools of negotiation, and what changes when an AI can commit to any threat instantly by rewriting its own code.
 ---
-{--{"author":"AI","timestamp":1773946865273}@@### Article: Commitment and endogenous threats
-source:: [[../articles/houba+bolt-credible-threats-in-negotiations|houba+bolt-credible-threats-in-negotiations]]
-
---}#### Text
+#### Text
 content::
 To merely be more powerful is only half the battle however. Even if you would win an interaction with certainty, fighting it out takes resources that might be better used elsewhere. A powerful AI is not just better at winning the hard way, it is also better at making credible threats and getting what it wants that way.
 

@@ -195,7 +195,7 @@ source:: ![[../Lenses/IABIED - QA - Nanotechnology and Protein Synthesis]]
 
 # Lens: IABIED - QA - Optical Illusions Discovery
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Optical Illusions Discovery]]{++{"author":"AI","timestamp":1774189243547}@@
+source:: ![[../Lenses/IABIED - QA - Optical Illusions Discovery]]
 
 # Lens: IABIED - QA - Instrumental Convergence
 optional:: true
@@ -219,4 +219,4 @@ source:: ![[../Lenses/IABIED - QA - Effectiveness Consciousness AI Welfare]]
 
 # Lens: IABIED - QA - Losing the Future
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Losing the Future]]++}
+source:: ![[../Lenses/IABIED - QA - Losing the Future]]

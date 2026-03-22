@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774189559488}@@---
+---
 id: 3f013fc3-d92d-4cf1-9ce0-9d8a41a7edec
 title: "But experts don't all agree about the risks!"
 tags:
@@ -26,4 +26,4 @@ TLDR: The authors argue expert disagreement isn't reassuring -- it's a sign of t
 Discussion topics:
 - Does the "growing nuclear bombs without understanding them" analogy change how you view expert disagreement?
 - How should policymakers act when experts are deeply divided on a potentially catastrophic technology?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

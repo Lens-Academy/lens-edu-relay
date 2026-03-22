@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774189198568}@@---
+---
 title: "Can we adopt a wait-and-see approach?"
 source_url: https://ifanyonebuildsit.com/13/can-we-adopt-a-wait-and-see-approach
 published: 2025-09-16
@@ -18,4 +18,4 @@ As we [discussed previously](/1/will-ai-cross-critical-thresholds-and-take-off),
 
 If humanity understood exactly how intelligence worked, and exactly how the behavior of AIs would change as their capabilities grow, it might be feasible to dance along the edge of the cliff. But right now, humanity is like someone sprinting toward a cliff-edge in the dark and fog, with the final fall some unknown distance away. We can't just wait until we stumble over the edge to decide that we should have acted differently.
 
-We'll never be certain. This means that we're forced to act before we're certain, or die.++}
+We'll never be certain. This means that we're forced to act before we're certain, or die.

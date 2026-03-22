@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774189704464}@@---
+---
 id: 845bd004-c499-441a-bd36-c5b79f12920b
 title: "Aligned to whom?"
 tags:
@@ -26,4 +26,4 @@ TLDR: The authors argue this question is currently moot because we can't reliabl
 Discussion topics:
 - Is the authors' strategy of deferring the "aligned to whom" question wise, or does it duck an important issue?
 - Does the framing "ASI is a suicide button, not a genie in a lamp" change how you think about the alignment question?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

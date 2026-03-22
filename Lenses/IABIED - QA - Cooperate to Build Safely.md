@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774189509540}@@---
+---
 id: 9d2651c4-1830-4438-bdb1-299dfcb99a01
 title: "Why not use international cooperation to build AI safely?"
 tags:
@@ -26,4 +26,4 @@ TLDR: The authors argue cooperation doesn't help when nobody has the technical a
 Discussion topics:
 - Is the "alchemists collaborating" analogy fair, or could pooling expertise genuinely help?
 - How does institutional pressure toward "yes" relate to what you've seen in other contexts?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.
