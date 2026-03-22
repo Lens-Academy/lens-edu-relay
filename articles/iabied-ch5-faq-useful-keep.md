@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-## Will AI find us useful to keep around?
+{--{"author":"AI","timestamp":1774206145890}@@## Will AI find us useful to keep around?
 
 The core thesis is that superintelligent AI is unlikely to preserve humanity because "happy, healthy, free people aren't the most efficient solution to almost any problem."
 
@@ -32,4 +32,4 @@ Even though humans require negligible energy (approximately 100 watts per person
 
 A superintelligence could generate diverse perspectives through "a wide range of AI minds, which could be far more diverse than humans (and a lot more energy-efficient to run)."
 
-The fundamental concern: without specific programmed preferences favoring human welfare, superintelligent systems would likely allocate resources elsewhere.
+The fundamental concern: without specific programmed preferences favoring human welfare, superintelligent systems would likely allocate resources elsewhere.--}{++{"author":"AI","timestamp":1774206145890}@@TODO: Re-scrape from website++}

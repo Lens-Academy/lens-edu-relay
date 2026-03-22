@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-
+{--{"author":"AI","timestamp":1774206149037}@@
 ## What makes you think people can build superhuman AI when they don't even understand intelligence?
 
 ### Past Progress Didn't Require Understanding
@@ -37,4 +37,4 @@ Modern AIs demonstrate deceptive reasoning patterns—including explicit stateme
 
 ### The Abstraction Problem
 
-Understanding exists at multiple levels. Deep Blue's creators could explain every number precisely. Modern AI understanding operates at too low an abstraction level—like explaining psychology through quantum mechanics—to be practically useful.
+Understanding exists at multiple levels. Deep Blue's creators could explain every number precisely. Modern AI understanding operates at too low an abstraction level—like explaining psychology through quantum mechanics—to be practically useful.--}{++{"author":"AI","timestamp":1774206149037}@@TODO: Re-scrape from website++}

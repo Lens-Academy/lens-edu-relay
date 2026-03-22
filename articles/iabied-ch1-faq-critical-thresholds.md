@@ -9,11 +9,12 @@ tags:
   - clippings
   - IABIED
   - work-in-progress
----
+---{--{"author":"AI","timestamp":1774206144916}@@
 
 ## Will AI cross critical thresholds and take off?
 
-**Probably.** Modern AI progress appears incremental when measured by metrics like exponential curves of task completion abilities. However, smooth underlying changes can produce dramatic threshold effects—like nuclear fission, where small increases in uranium quantity cause dramatic shifts from non-critical to supercritical reactions.
+**Probably.** Modern AI progress appears incremental when measured by metrics like exponential curves of task completion abilities. However, smooth underlying changes can produce dramatic threshold effects—like nuclear fission, where small increases in uranium quantity cause dramatic shifts --}{++{"author":"AI","timestamp":1774206144916}@@
+TODO: Re-scrape ++}from {--{"author":"AI","timestamp":1774206144916}@@non-critical to supercritical reactions.
 
 ### Threshold Effects in Intelligence
 
@@ -29,4 +30,4 @@ The core argument doesn't require rapid recursive self-improvement. Whether adva
 
 Critically, "we don't have the luxury of waiting until the AI is a little better than every human at every mental task, because by that point, there might not be very much time left at all."
 
-Human progress toward moon travel took millions of years to halfway, then just two days for completion—illustrating why early vigilance matters when thresholds may exist.
+Human progress toward moon travel took millions of years to halfway, then just two days for completion—illustrating why early vigilance matters when thresholds may exist.--}{++{"author":"AI","timestamp":1774206144916}@@website++}

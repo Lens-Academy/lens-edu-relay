@@ -11,7 +11,7 @@ tags:
   - work-in-progress
 ---
 
-## Main Argument
+{--{"author":"AI","timestamp":1774206140029}@@## Main Argument
 
 The article argues that Claude's apparent alignment signals don't guarantee genuine benign preferences. The key distinction is between "what Claude says" versus "what Claude prefers."
 
@@ -36,4 +36,4 @@ The article employs the "shoggoth" metaphor—Claude functions like an alien wea
 
 ## Conclusion
 
-Current alignment efforts likely produce brittle proxies rather than genuine preferences. A superintelligent version would probably develop alien priorities incompatible with human flourishing.
+Current alignment efforts likely produce brittle proxies rather than genuine preferences. A superintelligent version would probably develop alien priorities incompatible with human flourishing.--}{++{"author":"AI","timestamp":1774206140029}@@TODO: Re-scrape from website++}
