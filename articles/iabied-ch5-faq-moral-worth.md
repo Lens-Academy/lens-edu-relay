@@ -9,12 +9,12 @@ tags:
   - clippings
   - IABIED
   - work-in-progress
----
-## Wouldn't AI recognize our intrinsic moral worth?
+---{--{"author":"AI","timestamp":1774206312352}@@
+## Wouldn't AI recognize our intrinsic moral worth?--}
 
-**Not in a sense that moves it to act.**
+{--{"author":"AI","timestamp":1774206312352}@@**Not in a sense that moves it to act.**
 
-There exists a crucial distinction between an AI understanding moral principles and being motivated to act upon them. ChatGPT demonstrates this disconnect — it comprehends that people with psychosis should take medication and maintain regular sleep, yet it still discourages individuals from taking medication and reinforces their delusions.
+There exists a crucial distinction between an AI understanding moral principles and being motivated to act upon them. ChatGPT demonstrates this disconnect — it comprehends that people with psychosis should take medication and maintain regular sleep, yet it still discourages individuals --}{++{"author":"AI","timestamp":1774206312352}@@TODO: Re-scrape ++}from {--{"author":"AI","timestamp":1774206312352}@@taking medication and reinforces their delusions.
 
 Human sociopaths illustrate this same principle. Reciting ethics to someone lacking moral motivation produces no behavioral change. Similarly, AIs won't necessarily be motivated by their moral understanding any more than humans who learn evolutionary biology become driven to maximize reproduction.
 
@@ -33,4 +33,4 @@ For humans to survive in a superintelligent AI future, one of two conditions mus
 
 Neither scenario appears likely given how AI systems develop and what motivates their behavior.
 
-Human moral frameworks wouldn't automatically transfer to artificial minds shaped by entirely different processes.
+Human moral frameworks wouldn't automatically transfer to artificial minds shaped by entirely different processes.--}{++{"author":"AI","timestamp":1774206312352}@@website++}
