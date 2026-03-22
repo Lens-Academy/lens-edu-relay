@@ -195,4 +195,28 @@ source:: ![[../Lenses/IABIED - QA - Nanotechnology and Protein Synthesis]]
 
 # Lens: IABIED - QA - Optical Illusions Discovery
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Optical Illusions Discovery]]
+source:: ![[../Lenses/IABIED - QA - Optical Illusions Discovery]]{++{"author":"AI","timestamp":1774189243547}@@
+
+# Lens: IABIED - QA - Instrumental Convergence
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Instrumental Convergence]]
+
+# Lens: IABIED - QA - Intelligent Implies Incorrigible
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Intelligent Implies Incorrigible]]
+
+# Lens: IABIED - QA - Hard to Get Robust Laziness
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Hard to Get Robust Laziness]]
+
+# Lens: IABIED - QA - AIs Won't Keep Promises
+optional:: true
+source:: ![[../Lenses/IABIED - QA - AIs Won't Keep Promises]]
+
+# Lens: IABIED - QA - Effectiveness Consciousness AI Welfare
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Effectiveness Consciousness AI Welfare]]
+
+# Lens: IABIED - QA - Losing the Future
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Losing the Future]]++}
