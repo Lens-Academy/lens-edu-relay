@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774188921866}@@---
+---
 id: c9g5e3f6-1f4a-4d8g-0c37-4h3f2g0e9d5c
 title: "Won't there be early warnings researchers can use to identify problems?"
 tags:
@@ -26,4 +26,4 @@ Discussion topics:
 - The OceanGate analogy is vivid. Do you think AI companies are more like OceanGate (measuring without understanding) or more like early submarine designers (learning through trial and error)?
 - The authors distinguish between immature fields (alchemy) and mature ones (chemistry). What would it take for AI alignment to mature?
 - Current AIs sometimes try to kill operators in lab experiments. Is that a meaningful warning sign, or could it be dismissed as roleplay?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

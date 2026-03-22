@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774189534088}@@---
+---
 id: 206e08ee-598a-4a78-ac5b-43042f471975
 title: "What does it do to your daily life to believe all of this?"
 tags:
@@ -26,4 +26,4 @@ TLDR: Both authors have dedicated their careers to this issue at significant per
 Discussion topics:
 - Does learning about the authors' personal sacrifices affect how you evaluate their arguments?
 - What would *you* do differently if you fully believed their timeline estimates?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.
