@@ -6,10 +6,12 @@ tags:
   - work-in-progress
 ---
 # Lens:
-source:: [[../Lenses/sidebar chat test 1 article segment|sidebar chat test 1 article segment]]
+source::{--{"author":"AI","timestamp":1774007731633}@@
+--}{++{"author":"AI","timestamp":1774007731633}@@ ++}[[../Lenses/sidebar chat test 1 article segment|sidebar chat test 1 article segment]]
 
 # Lens:
-source:: [[../Lenses/sidebar chat test 2 article segments|sidebar chat test 2 article segments]]
+source::{--{"author":"AI","timestamp":1774007731633}@@
+--}{++{"author":"AI","timestamp":1774007731633}@@ ++}[[../Lenses/sidebar chat test 2 article segments|sidebar chat test 2 article segments]]
 
 # Lens: Welcome to AI Safety
 id:: d1e2f3a4-b5c6-7890-d1e2-f3a4b5c67890
@@ -31,13 +33,16 @@ source::
 [[../Learning Outcomes/trial for Testing|trial for Testing]]
 
 # Lens:
-source:: [[../Lenses/collapsed article text test]]
+source::{--{"author":"AI","timestamp":1774007736704}@@
+--}{++{"author":"AI","timestamp":1774007736704}@@ ++}[[../Lenses/collapsed article text test]]
 
 # Lens:
-source:: [[../Lenses/Trial question and roleplay]]
+source::{--{"author":"AI","timestamp":1774007736704}@@
+--} [[../Lenses/Trial question and roleplay]]
 
 # Lens:
-source:: [[../Lenses/Kurzgesagt software demo]]
+source::{--{"author":"AI","timestamp":1774007736704}@@
+--}{++{"author":"AI","timestamp":1774007736704}@@ ++}[[../Lenses/Kurzgesagt software demo]]
 
 # Learning Outcome:
 source:: [[../Learning Outcomes/Demo LO]]

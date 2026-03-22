@@ -1,5 +1,5 @@
 ---
-title: "Pythia"
+title: {--{"author":"AI","timestamp":1774090369471}@@"Pythia — LessWrong"--}"Pythia"
 source_url: "https://www.lesswrong.com/posts/qqEndN5Cuzbat9fyx/pythia"
 author:
   - "plex"
