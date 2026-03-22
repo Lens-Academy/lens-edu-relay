@@ -73,4 +73,116 @@ source:: ![[../Lenses/IABIED - QA - Can International Cooperation Really Work]]
 
 # Lens: IABIED - QA - The Draft Treaty
 optional:: true
-source:: ![[../Lenses/IABIED - QA - The Draft Treaty]]
+source:: ![[../Lenses/IABIED - QA - The Draft Treaty]]{++{"author":"AI","timestamp":1774189779017}@@
+
+# Lens: IABIED - QA - Distraction from Other Issues
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Distraction from Other Issues]]
+
+# Lens: IABIED - QA - Anti-Technology
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Anti-Technology]]
+
+# Lens: IABIED - QA - Rush Ahead Good Guys
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Rush Ahead Good Guys]]
+
+# Lens: IABIED - QA - Cooperate to Build Safely
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Cooperate to Build Safely]]
+
+# Lens: IABIED - QA - Provably Safe AI
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Provably Safe AI]]
+
+# Lens: IABIED - QA - Daily Life Believing This
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Daily Life Believing This]]
+
+# Lens: IABIED - QA - Should We Panic
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Should We Panic]]
+
+# Lens: IABIED - QA - Fear-Mongering by AI Leaders
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Fear-Mongering by AI Leaders]]
+
+# Lens: IABIED - QA - Experts Don't All Agree
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Experts Don't All Agree]]
+
+# Lens: IABIED - QA - The Lemoine Effect
+optional:: true
+source:: ![[../Lenses/IABIED - QA - The Lemoine Effect]]
+
+# Lens: IABIED - QA - Telling AI Companies No
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Telling AI Companies No]]
+
+# Lens: IABIED - QA - Making Sense of the Death Race
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Making Sense of the Death Race]]
+
+# Lens: IABIED - QA - Wait and See Approach
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Wait and See Approach]]
+
+# Lens: IABIED - QA - Warning Shots
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Warning Shots]]
+
+# Lens: IABIED - QA - Stopping Without Spyware
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Stopping Without Spyware]]
+
+# Lens: IABIED - QA - Chip Ownership Control
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Chip Ownership Control]]
+
+# Lens: IABIED - QA - Research Ban Extreme
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Research Ban Extreme]]
+
+# Lens: IABIED - QA - Can Technology Be Stopped
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Can Technology Be Stopped]]
+
+# Lens: IABIED - QA - Too Much Power to Governments
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Too Much Power to Governments]]
+
+# Lens: IABIED - QA - Nations Reject Ban
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Nations Reject Ban]]
+
+# Lens: IABIED - QA - Monitoring Regime Forever
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Monitoring Regime Forever]]
+
+# Lens: IABIED - QA - Making Humans Smarter
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Making Humans Smarter]]
+
+# Lens: IABIED - QA - Aligned to Whom
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Aligned to Whom]]
+
+# Lens: IABIED - QA - Avoid Talking About Extinction
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Avoid Talking About Extinction]]
+
+# Lens: IABIED - QA - Elected Officials Recognize Threat
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Elected Officials Recognize Threat]]
+
+# Lens: IABIED - QA - Is It Hopeless
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Is It Hopeless]]
+
+# Lens: IABIED - QA - Shut Down Global AI Development
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Shut Down Global AI Development]]
+
+# Lens: IABIED - QA - Keep the Coalition Large
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Keep the Coalition Large]]++}
