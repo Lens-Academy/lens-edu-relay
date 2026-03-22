@@ -9,10 +9,10 @@ tags:
   - clippings
   - IABIED
   - work-in-progress
----
-## So there's at least a chance of AI keeping us alive?
+---{--{"author":"AI","timestamp":1774206260366}@@
+## So there's at least a chance of AI keeping us alive?--}
 
-The authors acknowledge a technical possibility but emphasize it's overwhelmingly unlikely. "It's overwhelmingly more likely that AI kills everyone."
+{--{"author":"AI","timestamp":1774206260366}@@The authors acknowledge a technical possibility but emphasize it's overwhelmingly unlikely. "It's overwhelmingly more likely that AI kills everyone."
 
 ### Why AI Probably Won't Preserve Humanity
 
@@ -26,4 +26,4 @@ The authors acknowledge a technical possibility but emphasize it's overwhelmingl
 
 The authors clarify their provocative title isn't expressing absolute certainty. They compare it to warning someone about to drink poison — acknowledging miraculous medical interventions are theoretically possible, but the fundamental point remains: "we shouldn't drink the poison."
 
-Rather than playing philosophical games about unlikely scenarios, the authors urge focusing on preventing the obviously dangerous outcome of uncontrolled AI development.
+Rather than playing philosophical games about unlikely scenarios, the authors urge focusing on preventing the obviously dangerous outcome of uncontrolled AI development.--}{++{"author":"AI","timestamp":1774206260366}@@TODO: Re-scrape from website++}

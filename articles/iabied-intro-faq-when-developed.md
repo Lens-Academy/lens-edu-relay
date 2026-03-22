@@ -11,7 +11,7 @@ tags:
   - work-in-progress
 ---
 
-## When is this worrisome sort of AI going to be developed?
+{--{"author":"AI","timestamp":1774206255515}@@## When is this worrisome sort of AI going to be developed?
 
 **Knowing that a technology is coming doesn't grant knowledge of exactly when it's coming.**
 
@@ -34,6 +34,6 @@ ChatGPT-level AI appeared to require decades in 2021, then suddenly materialized
 
 Historical precedent shows unreliable predictions about technological timelines. Two years after Wilbur Wright's dismissive prediction that powered flight would take a thousand years, the New York Times asserted it would take a million years. The Wright brothers flew two months and eight days later.
 
-Contemporary skeptics continue making confident claims that AI could never match humans in specific capabilities, even as progress demonstrates otherwise. For example, AIs have demonstrated ability to identify sarcasm and irony from text and nonverbal cues since 2024, yet the New York Times reported in May 2025 that "scientists have no hard evidence that today's technologies are capable of performing even some of the simpler things the brain can do, like recognizing irony."
+Contemporary skeptics continue making confident claims that AI could never match humans in specific capabilities, even as progress demonstrates otherwise. For example, AIs have demonstrated ability to identify sarcasm and irony --}{++{"author":"AI","timestamp":1774206255515}@@TODO: Re-scrape ++}from{--{"author":"AI","timestamp":1774206255515}@@ text and nonverbal cues since 2024, yet the New York Times reported in May 2025 that "scientists have no hard evidence that today's technologies are capable of performing even some of the simpler things the brain can do, like recognizing irony."
 
-The uncomfortable reality: nobody currently knows when superhuman AI will arrive. Worse, nobody may ever know until it's too late for international action. Timing breakthroughs is incredibly difficult. Without acting from uncertainty, humanity won't act at all.
+The uncomfortable reality: nobody currently knows when superhuman AI will arrive. Worse, nobody may ever know until it's too late for international action. Timing breakthroughs is incredibly difficult. Without acting from uncertainty, humanity won't act at all.--}{++{"author":"AI","timestamp":1774206255515}@@ website++}

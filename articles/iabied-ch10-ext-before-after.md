@@ -10,13 +10,13 @@ tags:
   - IABIED
   - work-in-progress
 ---
-# A Closer Look at Before and After
+{--{"author":"AI","timestamp":1774206259849}@@# A Closer Look at Before and After
 
 You need to align an AI **Before** it is powerful enough to kill you. That alignment must then carry over **After** a superintelligence could kill you if it preferred to.
 
 The fundamental challenge: "you need to align it without ever being able to thoroughly test your alignment techniques in the real conditions that matter" because the testable AI operates under different conditions than the dangerous AI.
 
-This differs from standard engineering. Consider space probes — engineers succeeded by possessing "a solid understanding of what they're doing — robust tools, strong predictive theories." AI alignment lacks this foundation.
+This differs --}{++{"author":"AI","timestamp":1774206259849}@@TODO: Re-scrape ++}from {--{"author":"AI","timestamp":1774206259849}@@standard engineering. Consider space probes — engineers succeeded by possessing "a solid understanding of what they're doing — robust tools, strong predictive theories." AI alignment lacks this foundation.
 
 The problem's core: "the AI you can safely test, without any failed tests ever killing you, is operating under a different regime than the AI (or the AI ecosystem) that needs to have already been tested."
 
@@ -28,4 +28,4 @@ As AIs develop into superintelligences, their internals change dramatically. "An
 
 The historical lesson from Newtonian mechanics: it made excellent predictions but failed at relativistic speeds. Scientists had "heaps and heaps of empirical evidence" yet remained wrong about unmeasured domains.
 
-Getting theories right on the first critical attempt proves extraordinarily difficult — yet superintelligence alignment permits no failed experiments.
+Getting theories right on the first critical attempt proves extraordinarily difficult — yet superintelligence alignment permits no failed experiments.--}{++{"author":"AI","timestamp":1774206259849}@@website++}
