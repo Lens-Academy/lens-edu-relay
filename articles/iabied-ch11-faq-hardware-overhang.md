@@ -10,9 +10,9 @@ tags:
   - IABIED
   - work-in-progress
 ---
-# Isn't it important to race ahead because of "hardware overhang"?
+{--{"author":"AI","timestamp":1774206344986}@@# Isn't it important to race ahead because of "hardware overhang"?
 
-## That would be suicidal, because we're too far from an alignment solution.
+## That would be suicidal, because we're too far--}{++{"author":"AI","timestamp":1774206344986}@@TODO: Re-scrape++} from{--{"author":"AI","timestamp":1774206344986}@@ an alignment solution.
 
 Over the past decade or so, some people concerned about the dangers of AI argued that it might be good to advance AI as quickly as possible. The idea was that the smartest AIs would then require nearly all of the world's computing hardware to run. No individual breakthrough would unleash thousands of powerful AIs thinking thousands of times faster than any human suddenly.
 
@@ -34,4 +34,4 @@ That problem is not solved by growing more AIs at the earliest moment it's possi
 
 The non sequitur was, nevertheless, picked up by OpenAI CEO Sam Altman, who gave it as his excuse in 2023 for OpenAI to rush ahead as fast as possible. This excuse was then revealed to be hollow when that same Sam Altman rushed to build dramatically more computing hardware.
 
-We think this is a decent case study in how executives at AI companies will latch onto whatever argument they think might fly to excuse racing ahead.
+We think this is a decent case study in how executives at AI companies will latch onto whatever argument they think might fly to excuse racing ahead.--}{++{"author":"AI","timestamp":1774206344986}@@ website++}
