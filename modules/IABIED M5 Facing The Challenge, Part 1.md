@@ -116,4 +116,28 @@ source:: ![[../Lenses/IABIED - QA - Non-Dangerous Deployment]]
 
 # Lens: IABIED - QA - Can Interpretability Solve This
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Can Interpretability Solve This]]
+source:: ![[../Lenses/IABIED - QA - Can Interpretability Solve This]]{++{"author":"AI","timestamp":1774188971020}@@
+
+# Lens: IABIED - QA - AIs Debate Compete Oversee
+optional:: true
+source:: ![[../Lenses/IABIED - QA - AIs Debate Compete Oversee]]
+
+# Lens: IABIED - QA - Various Other Alignment Plans
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Various Other Alignment Plans]]
+
+# Lens: IABIED - QA - Early Warnings
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Early Warnings]]
+
+# Lens: IABIED - QA - More on Plans Critiqued
+optional:: true
+source:: ![[../Lenses/IABIED - QA - More on Plans Critiqued]]
+
+# Lens: IABIED - QA - Problem Not Treated with Respect
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Problem Not Treated with Respect]]
+
+# Lens: IABIED - QA - Shutdown Buttons and Corrigibility
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Shutdown Buttons and Corrigibility]]++}

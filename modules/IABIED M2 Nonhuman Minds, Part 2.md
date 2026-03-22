@@ -125,5 +125,21 @@ source:: ![[../Lenses/IABIED - QA - The Road to Wanting]]
 
 # Lens: IABIED - QA - Smart AIs Spot Lies
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Smart AIs Spot Lies]]++}
+source:: ![[../Lenses/IABIED - QA - Smart AIs Spot Lies]]++}{++{"author":"AI","timestamp":1774188985966}@@
+
+# Lens: IABIED - QA - Deep Differences AIs and Evolved Species
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Deep Differences AIs and Evolved Species]]
+
+# Lens: IABIED - QA - Brittle Unpredictable Proxies
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Brittle Unpredictable Proxies]]
+
+# Lens: IABIED - QA - Reflection and Self-Modification
+optional:: true
+source:: ![[../Lenses/IABIED - QA - Reflection and Self-Modification]]
+
+# Lens: IABIED - QA - AI-Induced Psychosis
+optional:: true
+source:: ![[../Lenses/IABIED - QA - AI-Induced Psychosis]]++}
 
