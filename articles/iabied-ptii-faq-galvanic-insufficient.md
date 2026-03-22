@@ -11,7 +11,7 @@ tags:
   - work-in-progress
 ---
 
-## Four Key Reasons
+{--{"author":"AI","timestamp":1774206307364}@@## Four Key Reasons
 
 ### 1. Realism
 
@@ -27,4 +27,4 @@ Even hypothetical extended caution wouldn't prevent catastrophic outcomes long-t
 
 ### 4. The Critical Intervention Point
 
-The authors emphasize this carelessness represents "the weakest point in the story" and simultaneously the proper intervention window. Sufficiently paranoid companies would shut down warning signs immediately rather than iteratively developing "cleverer and cleverer ideas." The moment corporations proceed despite red flags marks "the point of no return."
+The authors emphasize this carelessness represents "the weakest point in the story" and simultaneously the proper intervention window. Sufficiently paranoid companies would shut down warning signs immediately rather than iteratively developing "cleverer and cleverer ideas." The moment corporations proceed despite red flags marks "the point of no return."--}{++{"author":"AI","timestamp":1774206307364}@@TODO: Re-scrape from website++}

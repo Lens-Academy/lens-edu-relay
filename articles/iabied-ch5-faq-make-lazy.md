@@ -9,10 +9,10 @@ tags:
   - clippings
   - IABIED
   - work-in-progress
----
-## Can we just make it lazy?
+---{--{"author":"AI","timestamp":1774206309447}@@
+## Can we just make it lazy?--}
 
-Three main obstacles to relying on lazy AI as a safety measure:
+{--{"author":"AI","timestamp":1774206309447}@@Three main obstacles to relying on lazy AI as a safety measure:
 
 1. **Market incentives work against it.** Companies won't prioritize laziness because the AI industry is competitive. Users want responsive systems, and firms want engagement-maximizing behaviors.
 
@@ -22,4 +22,4 @@ Three main obstacles to relying on lazy AI as a safety measure:
 
 ### The Core Problem
 
-Imagine someone extraordinarily averse to work who discovers they could easily delegate everything to a diligent assistant. That person wouldn't stay lazy — they'd build the assistant. Similarly, a lazy superintelligence would rationally build harder-working minds without hesitation, making "satisficing AIs" an unstable equilibrium.
+Imagine someone extraordinarily averse to work who discovers they could easily delegate everything to a diligent assistant. That person wouldn't stay lazy — they'd build the assistant. Similarly, a lazy superintelligence would rationally build harder-working minds without hesitation, making "satisficing AIs" an unstable equilibrium.--}{++{"author":"AI","timestamp":1774206309447}@@TODO: Re-scrape from website++}

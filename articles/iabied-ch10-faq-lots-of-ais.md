@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-# What if there are lots of different AIs?
+{--{"author":"AI","timestamp":1774206300765}@@# What if there are lots of different AIs?
 
 ## It doesn't much help if we can't make any of them care about good things.
 
@@ -23,4 +23,4 @@ Background References:
 - Chapter 5: Whether AIs find humans useful; whether AIs need law; whether they care about us; why humans rarely represent efficient solutions
 - Part II: Why the narrative featured only one superintelligent AI
 
-If we could make one in ten AIs "good," perhaps we could negotiate with them for a portion of resources. However, given modern "grown" AI approaches, hitting such a narrow target even ten percent of the time remains extraordinarily unlikely. Adding more AIs doesn't help when we lack the capability to structure their fundamental drives correctly.
+If we could make one in ten AIs "good," perhaps we could negotiate with them for a portion of resources. However, given modern "grown" AI approaches, hitting such a narrow target even ten percent of the time remains extraordinarily unlikely. Adding more AIs doesn't help when we lack the capability to structure their fundamental drives correctly.--}{++{"author":"AI","timestamp":1774206300765}@@TODO: Re-scrape from website++}

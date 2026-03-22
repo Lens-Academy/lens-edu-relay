@@ -11,7 +11,7 @@ tags:
   - work-in-progress
 ---
 
-## Deep Machinery of Prediction
+{--{"author":"AI","timestamp":1774206307810}@@## Deep Machinery of Prediction
 
 It's difficult to make an intelligent AI accept false beliefs. Some researchers hope to trick AIs into believing falsehoods (for example, convincing an AI it exists in a simulation so it won't harm humans). Others suggest having AIs solve alignment problems themselves, despite knowing the AIs would prefer not to do so based on their own objectives.
 
@@ -28,7 +28,7 @@ The planetary shape appears "in a thousand facets of reality." Even avoiding spa
 
 "Reality whispers its secrets to any who care to listen."
 
-Prediction skill doesn't stem from giant disconnected fact tables. Human advantage over animals involves noticing anomalies (like impossible city distances), forming hypotheses, and testing them. These operate through deep cognitive machinery.
+Prediction skill doesn't stem --}{++{"author":"AI","timestamp":1774206307810}@@TODO: Re-scrape ++}from{--{"author":"AI","timestamp":1774206307810}@@ giant disconnected fact tables. Human advantage over animals involves noticing anomalies (like impossible city distances), forming hypotheses, and testing them. These operate through deep cognitive machinery.
 
 ### The Durability Problem
 
@@ -61,4 +61,4 @@ Default highly-capable AIs solving diverse problems will recognize "humans will 
 
 **The core challenge:** AIs benefiting from deep predictive architecture can't sustainably maintain false beliefs. Those leveraging deep steering architecture can't robustly defend against modifying their own goals. Both injuries prove difficult maintaining in sufficiently intelligent systems. The very mechanisms enabling usefulness enable circumventing constraints.
 
-*For extended discussion on simulation arguments and AI self-solving alignment, see online resources for Chapters 5 and 11.*
+*For extended discussion on simulation arguments and AI self-solving alignment, see online resources for Chapters 5 and 11.*--}{++{"author":"AI","timestamp":1774206307810}@@ website++}

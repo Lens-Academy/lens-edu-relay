@@ -9,10 +9,10 @@ tags:
   - clippings
   - IABIED
   - work-in-progress
----
-## Humans tend to get kinder as they get smarter. Wouldn't AIs too?
+---{--{"author":"AI","timestamp":1774206303223}@@
+## Humans tend to get kinder as they get smarter. Wouldn't AIs too?--}
 
-Probably not. This represents a contingent fact about human development rather than an inevitable law of intelligence.
+{--{"author":"AI","timestamp":1774206303223}@@Probably not. This represents a contingent fact about human development rather than an inevitable law of intelligence.
 
 ### Different Goals, Different Development
 
@@ -24,8 +24,8 @@ The distinction between first-order preferences (what something wants) and secon
 
 ### Flawed Reasoning
 
-The authors identify a common cognitive error: people work backward from desired outcomes, constructing post-hoc justifications for why AI might preserve humanity. This approach creates false optimism by ignoring the vastly larger possibility space of alternative outcomes.
+The authors identify a common cognitive error: people work backward --}{++{"author":"AI","timestamp":1774206303223}@@TODO: Re-scrape ++}from{--{"author":"AI","timestamp":1774206303223}@@ desired outcomes, constructing post-hoc justifications for why AI might preserve humanity. This approach creates false optimism by ignoring the vastly larger possibility space of alternative outcomes.
 
 ### Core Insight
 
-"We shouldn't expect it to suddenly swap out this goal for things humans value." Unlike maturing humans who develop empathy through social evolution, AIs lack evolutionary pressures toward kindness. Intelligence amplifies existing goals rather than transforming them.
+"We shouldn't expect it to suddenly swap out this goal for things humans value." Unlike maturing humans who develop empathy through social evolution, AIs lack evolutionary pressures toward kindness. Intelligence amplifies existing goals rather than transforming them.--}{++{"author":"AI","timestamp":1774206303223}@@ website++}

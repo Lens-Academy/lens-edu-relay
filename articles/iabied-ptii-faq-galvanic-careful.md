@@ -11,7 +11,7 @@ tags:
   - work-in-progress
 ---
 
-## Main Answer
+{--{"author":"AI","timestamp":1774206302028}@@## Main Answer
 
 Galvanic is shown exercising significant caution "to provide a challenge to Sable" and demonstrate how an intelligent agent can circumvent constraints. The authors portray the company as relatively paranoid—implementing safeguards like AI supervisors and honeypots—yet this still proves insufficient.
 
@@ -23,4 +23,4 @@ However, the authors note this portrayal may actually be *more* cautious than cu
 
 ## Important Caveat
 
-The authors emphasize that "if three responsible companies avoid building superintelligence but a fourth irresponsible company rushes ahead, then superintelligence gets built in that fourth lab." The most reckless actors determine outcomes—not the most responsible ones. This fictional company's relative prudence serves narrative purposes while remaining grounded in plausible corporate behavior patterns.
+The authors emphasize that "if three responsible companies avoid building superintelligence but a fourth irresponsible company rushes ahead, then superintelligence gets built in that fourth lab." The most reckless actors determine outcomes—not the most responsible ones. This fictional company's relative prudence serves narrative purposes while remaining grounded in plausible corporate behavior patterns.--}{++{"author":"AI","timestamp":1774206302028}@@TODO: Re-scrape from website++}

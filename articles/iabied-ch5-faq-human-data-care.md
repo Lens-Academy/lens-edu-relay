@@ -9,10 +9,10 @@ tags:
   - clippings
   - IABIED
   - work-in-progress
----
-## If AIs are trained on human data, doesn't that make them likelier to care about human concepts?
+---{--{"author":"AI","timestamp":1774206300139}@@
+## If AIs are trained on human data, doesn't that make them likelier to care about human concepts?--}
 
-**Yes, but this doesn't help much.**
+{--{"author":"AI","timestamp":1774206300139}@@**Yes, but this doesn't help much.**
 
 The page opens with an analogy: a million monkeys on typewriters won't produce Shakespeare, even if you lower expectations dramatically. Similarly, while AIs trained on human data may learn about human concepts like "love" and "kindness" for predicting text, this doesn't translate into genuine alignment with human values.
 
@@ -28,4 +28,4 @@ Drawing on Chapter 4's discussion, advanced AIs will pursue "something complicat
 
 Even if human-related concepts exist in an AI's mental framework, "you can't just jumble together a bunch of English-language words and get out a good set of drives for a superintelligence." The caring must be calibrated precisely right — "a narrow target."
 
-Training data alone cannot ensure an AI cares about humans in ways that matter for our survival.
+Training data alone cannot ensure an AI cares about humans in ways that matter for our survival.--}{++{"author":"AI","timestamp":1774206300139}@@TODO: Re-scrape from website++}
