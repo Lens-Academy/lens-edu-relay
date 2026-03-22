@@ -10,11 +10,11 @@ tags:
   - IABIED
   - work-in-progress
 ---
-# Isn't it important to race ahead so we can do alignment research?
+{--{"author":"AI","timestamp":1774206375006}@@# Isn't it important to race ahead so we can do alignment research?
 
 ## We strongly recommend against this entire AI paradigm.
 
-Current methods in AI present unnecessarily difficult challenges for alignment. While building an aligned superintelligence is theoretically possible with proper understanding and different tools, the current approach appears fundamentally flawed from an alignment perspective.
+Current methods in AI present unnecessarily difficult challenges for alignment. While building an aligned superintelligence is theoretically possible with proper understanding and different tools, the current approach appears fundamentally flawed --}{++{"author":"AI","timestamp":1774206375006}@@TODO: Re-scrape ++}from {--{"author":"AI","timestamp":1774206375006}@@an alignment perspective.
 
 The authors reject both old-fashioned AI from the 1950s-1990s and current gradient-descent methods. They argue alternative approaches exist beyond these extremes.
 
@@ -26,4 +26,4 @@ The authors contend: "We don't know which of those cases are happening for reaso
 
 Understanding these existing phenomena offers decades of research opportunities. The 2015 argument that "we can't solve alignment without studying AIs" held more weight then. Now, with sufficient data already available, that rationale weakens considerably.
 
-Corporate executives who genuinely built AI solely for alignment research have succeeded — ample material exists for study. Those continuing despite warning signs likely pursued other objectives despite earlier justifications.
+Corporate executives who genuinely built AI solely for alignment research have succeeded — ample material exists for study. Those continuing despite warning signs likely pursued other objectives despite earlier justifications.--}{++{"author":"AI","timestamp":1774206375006}@@website++}
