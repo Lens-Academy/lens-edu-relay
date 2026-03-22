@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774189752327}@@---
+---
 id: e9171d6b-aeac-4a16-a15d-24f8211be0f9
 title: "Keep the Coalition Large"
 tags:
@@ -26,4 +26,4 @@ TLDR: The authors argue against bundling AI art, deepfakes, or drone warfare wit
 Discussion topics:
 - Do you find the Cold War analogy convincing as a model for AI coalition-building?
 - Is it realistic to separate the superintelligence issue from other AI concerns in practice?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774188901191}@@---
+---
 id: a7e3c1f4-9d28-4b6e-8a15-2f1d0e8c7b3a
 title: "What if we made AIs debate, compete with, or oversee each other?"
 tags:
@@ -26,4 +26,4 @@ Discussion topics:
 - Does the "city of sociopaths governed by children" analogy feel apt? Where might it break down?
 - Modern AIs can already send secret messages to each other. Does that change how you think about AI oversight schemes?
 - The authors say "if you can't get one AI to do good work, adding more is unlikely to help." Can you think of any counterexamples from other domains?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

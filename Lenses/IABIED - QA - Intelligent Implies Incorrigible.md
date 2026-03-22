@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774189193431}@@---
+---
 id: b8d2f4e5-6a39-4ca2-9f7b-3e0a1d8c4b26
 title: "\"Intelligent\" (Usually) Implies \"Incorrigible\""
 tags:
@@ -25,4 +25,4 @@ TLDR: Smart AIs have strong incentives to resist goal modification, subvert safe
 Discussion topics:
 - The "murder pill" analogy illustrates why any agent would resist goal changes. Does this convince you that goal-preservation is a deep property of intelligence, or could there be exceptions?
 - The authors claim corrigibility is "anti-natural" — it conflicts with the same capabilities that make AI useful. Is this a fundamental tension, or could clever engineering resolve it?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

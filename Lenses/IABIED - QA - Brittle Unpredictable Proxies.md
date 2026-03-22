@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774188949600}@@---
+---
 id: a4b2c8d1-6e3f-4a7b-9d52-1f8e0c3b5a74
 title: "Brittle Unpredictable Proxies"
 tags:
@@ -25,4 +25,4 @@ TLDR: Just as evolution gave squirrels a nut-hoarding instinct (a proxy for wint
 Discussion topics:
 - Can you think of other examples of "brittle proxies" in your own life or in technology?
 - The authors say human desires like love and friendship are also brittle proxies of evolution's goals, but that this doesn't make them less precious. How does this framing sit with you?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

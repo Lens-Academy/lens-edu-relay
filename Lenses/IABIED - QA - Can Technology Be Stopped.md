@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774189654796}@@---
+---
 id: f59dbfb6-ef70-4629-b18e-9a641efab8df
 title: "Can a technology really be stopped?"
 tags:
@@ -26,4 +26,4 @@ TLDR: The authors argue that humanity regulates technology all the time -- from 
 Discussion topics:
 - Does the comparison to nuclear regulation, FDA, and hair styling licensing land for you?
 - The authors say "we would get to live. We would get to see our children live." Does emotional language like this strengthen or weaken a technical argument?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

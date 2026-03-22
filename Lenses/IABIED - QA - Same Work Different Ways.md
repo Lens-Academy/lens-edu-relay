@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774188699423}@@---
+---
 id: b8f4d2e5-9a30-4c7b-af63-2e4g18c9b3d7
 title: "The Same Work Can Be Done in Many Different Ways"
 tags:
@@ -25,4 +25,4 @@ TLDR: Using examples of birds vs. planes, arms vs. robotic arms, and neurons vs.
 Discussion topics:
 - Can you think of other examples where a biological mechanism was replicated artificially in a completely different way?
 - The article warns against anthropomorphizing AI. What assumptions about AI do you think people commonly make based on their experience with human minds?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

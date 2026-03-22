@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774189409086}@@---
+---
 title: "Will elected officials recognize this as a real threat?"
 source_url: https://ifanyonebuildsit.com/13/will-elected-officials-recognize-this-as-a-real-threat
 published: 2025-09-16
@@ -18,4 +18,4 @@ We think that the major impediment to people recognizing the threat is getting t
 
 Politicians on both sides of the aisle have expressed concerns ranging from "the race to be the first in AI is the race to be the first to lose control" to "artificial superintelligence is one of the largest existential threats that we face right now."
 
-A lot more progress is needed, but the world is beginning to take notice. The time is ripe for alerting officials to the need for rapid action at the federal and international levels.++}
+A lot more progress is needed, but the world is beginning to take notice. The time is ripe for alerting officials to the need for rapid action at the federal and international levels.

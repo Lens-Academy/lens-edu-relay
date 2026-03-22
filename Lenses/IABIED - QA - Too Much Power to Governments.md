@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774189662798}@@---
+---
 id: 9f8920ab-46a7-4cd7-a739-1c43322a8055
 title: "Isn't this handing too much power to governments?"
 tags:
@@ -26,4 +26,4 @@ TLDR: The authors argue that adding one more regulated technology is a drop in t
 Discussion topics:
 - Does the "governments regulate everything already" argument adequately address the concern about state power?
 - How important is it that the proposed ban applies to governments as well as corporations?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

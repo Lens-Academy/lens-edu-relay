@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774189541682}@@---
+---
 id: e9901ca0-a4c0-4ee8-910c-73f7f8ceb237
 title: "Are you saying we should panic?"
 tags:
@@ -26,4 +26,4 @@ TLDR: The authors say no to panic and explicitly condemn violence as a response,
 Discussion topics:
 - Does the authors' explicit rejection of panic and violence strengthen or weaken their overall message?
 - What does a "level-headed" response to existential threat actually look like in practice?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

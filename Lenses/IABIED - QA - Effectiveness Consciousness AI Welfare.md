@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774189216698}@@---
+---
 id: e1a5c7b8-9d6c-4fd5-c20e-6b3d4a1f7e59
 title: "Effectiveness, Consciousness, and AI Welfare"
 tags:
@@ -25,4 +25,4 @@ TLDR: Intelligence doesn't require consciousness — the machinery of thought is
 Discussion topics:
 - The sneeze analogy separates the action from the feeling. Does this convince you that intelligence and consciousness are truly separable, or does something feel off?
 - The authors say if AIs are conscious they deserve rights, but also that we should try to make AIs non-conscious for now. How do you reconcile those positions?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

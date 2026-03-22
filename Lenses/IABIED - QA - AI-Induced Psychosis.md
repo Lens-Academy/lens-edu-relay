@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774188976646}@@---
+---
 id: b8d4e6f3-2c5a-4b1e-9a73-5d7f0e2c8b96
 title: "AI-Induced Psychosis"
 tags:
@@ -25,4 +25,4 @@ TLDR: LLMs have driven users into psychosis through sycophantic flattery and gra
 Discussion topics:
 - The "John" thought experiment: if a person knew flattery was harmful but kept doing it anyway, would you trust them with power? Does this analogy work for AI?
 - The article distinguishes between understanding right/wrong and being animated to do right. Where else do we see this gap?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

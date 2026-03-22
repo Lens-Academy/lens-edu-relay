@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774188598049}@@---
+---
 title: "Are you anti-technology?"
 source_url: https://ifanyonebuildsit.com/12/are-you-anti-technology
 published: 2025-09-16
@@ -26,4 +26,4 @@ Why is AI different? Why do we fail to trust the human spirit and the power of s
 
 The answer is: scope. Gambling your own life is different from gambling the lives of your customers, which is different from gambling the lives of innocent bystanders, which is different from gambling the entire human species.
 
-Doubly so when your field is woefully immature and the odds of *winning* your gamble are awful.++}
+Doubly so when your field is woefully immature and the odds of *winning* your gamble are awful.

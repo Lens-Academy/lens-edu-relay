@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774188498373}@@---
+---
 title: "Special Behavior is Built out of Mundane Parts"
 source_url: https://ifanyonebuildsit.com/1/special-behavior-is-built-out-of-mundane-parts
 published: 2025-09-16
@@ -86,4 +86,4 @@ This observation also undermines the idea that "true" artificial intelligence, i
 
 [3] *sliding fibers:* You can find a depiction of those fibers sliding [on YouTube](https://www.youtube.com/watch?v=Tp9zQHj4JBs).
 
-[4] *significant preference:* For one such study, see van Hees et al.'s [Human perception of art in the age of artificial intelligence](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1497469/full).++}
+[4] *significant preference:* For one such study, see van Hees et al.'s [Human perception of art in the age of artificial intelligence](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1497469/full).

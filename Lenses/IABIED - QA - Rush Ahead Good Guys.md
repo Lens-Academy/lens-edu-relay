@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774189500707}@@---
+---
 id: abbd74df-b0e2-42ab-97d2-d8039b96b68d
 title: "Isn't it smarter to rush ahead and make sure good guys have the lead?"
 tags:
@@ -26,4 +26,4 @@ TLDR: The authors argue it doesn't matter who builds superintelligence first bec
 Discussion topics:
 - Does the Chernobyl comparison land for you? What are its strengths and limits?
 - If intentions don't determine AI behavior, what does that imply for the "race" framing?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

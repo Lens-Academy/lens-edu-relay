@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774188625445}@@---
+---
 title: "Brittle Unpredictable Proxies"
 source_url: https://ifanyonebuildsit.com/4/brittle-unpredictable-proxies
 published: 2025-09-16
@@ -90,4 +90,4 @@ We should not make the error of evolution, and thereby lose all that we hold dea
 
 [‡](#ftnt163_ref) There's more to the story, of course, because natural selection is not a particularly simple or unified process. Our full knowledge of nutrition does sometimes affect our eating habits, even when it conflicts with our taste buds and our food cravings.
 
-[§](#ftnt164_ref) Evolution was "trying" to build pure fitness maximizers, and accidentally built creatures that appreciate love and wonder and beauty. But this fact does not in the slightest mean that we have an obligation to sacrifice our feelings of love, and turn ourselves into pure fitness maximizers. On the contrary: We should celebrate that beings who cherish love managed to enter this universe at all, through the clumsiness of evolution.++}
+[§](#ftnt164_ref) Evolution was "trying" to build pure fitness maximizers, and accidentally built creatures that appreciate love and wonder and beauty. But this fact does not in the slightest mean that we have an obligation to sacrifice our feelings of love, and turn ourselves into pure fitness maximizers. On the contrary: We should celebrate that beings who cherish love managed to enter this universe at all, through the clumsiness of evolution.

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774188588354}@@---
+---
 title: ""Intelligent" (Usually) Implies "Incorrigible""
 source_url: https://ifanyonebuildsit.com/5/intelligent-usually-implies-incorrigible
 published: 2025-09-16
@@ -48,4 +48,4 @@ The upshot of this is that corrigibility seems like an important concept to keep
 
 #### Notes
 
-[1] *we proposed:* The linked paper is dated to its appearance in a 2015 workshop, but it was previously published as a [whitepaper](https://intelligence.org/2014/10/18/new-report-corrigibility/) in 2014.++}
+[1] *we proposed:* The linked paper is dated to its appearance in a 2015 workshop, but it was previously published as a [whitepaper](https://intelligence.org/2014/10/18/new-report-corrigibility/) in 2014.

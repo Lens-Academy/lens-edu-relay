@@ -9,23 +9,6 @@ tags:
   - clippings
   - IABIED
   - work-in-progress
----{--{"author":"AI","timestamp":1774206303223}@@
-## Humans tend to get kinder as they get smarter. Wouldn't AIs too?--}
+---
 
-{--{"author":"AI","timestamp":1774206303223}@@Probably not. This represents a contingent fact about human development rather than an inevitable law of intelligence.
-
-### Different Goals, Different Development
-
-The distinction between first-order preferences (what something wants) and second-order preferences (what it wants to want) is crucial. An AI's preferences will likely point in "a weird direction" regardless of intelligence level. A superintelligence optimizing for titanium cube production, for example, would simply become better at that goal — not abandon it for human values like justice or friendship.
-
-### The Orthogonality Principle
-
-"As AIs become smarter, they get better at pursuing what they want." Intelligence doesn't automatically align with benevolence. AIs can pursue nearly any goal independent of intelligence level.
-
-### Flawed Reasoning
-
-The authors identify a common cognitive error: people work backward --}{++{"author":"AI","timestamp":1774206303223}@@TODO: Re-scrape ++}from{--{"author":"AI","timestamp":1774206303223}@@ desired outcomes, constructing post-hoc justifications for why AI might preserve humanity. This approach creates false optimism by ignoring the vastly larger possibility space of alternative outcomes.
-
-### Core Insight
-
-"We shouldn't expect it to suddenly swap out this goal for things humans value." Unlike maturing humans who develop empathy through social evolution, AIs lack evolutionary pressures toward kindness. Intelligence amplifies existing goals rather than transforming them.--}{++{"author":"AI","timestamp":1774206303223}@@ website++}
+TODO: Re-scrape from website

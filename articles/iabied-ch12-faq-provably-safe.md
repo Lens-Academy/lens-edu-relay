@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774188673167}@@---
+---
 title: "Are you saying we need provably safe AI?"
 source_url: https://ifanyonebuildsit.com/12/are-you-saying-we-need-provably-safe-ai
 published: 2025-09-16
@@ -26,4 +26,4 @@ If AI were analogous to automobiles, we wouldn't be saying, "This car has faulty
 
 We'd be saying, "This car is *careening toward a cliff*. *Stop.*"
 
-It's not about "safety proofs." It's not a "tail risk." Scientists are not ready to face this challenge. We'd just die.++}
+It's not about "safety proofs." It's not a "tail risk." Scientists are not ready to face this challenge. We'd just die.

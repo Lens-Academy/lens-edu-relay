@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774189670987}@@---
+---
 id: e680f1c6-bfa8-41d6-b84d-8198fbd01b98
 title: "Wouldn't some nations reject a ban?"
 tags:
@@ -26,4 +26,4 @@ TLDR: The authors argue that nations defect from treaties when they see strategi
 Discussion topics:
 - Is the "suicide, not strategic advantage" framing convincing for every nation-state?
 - How well does the nuclear non-proliferation analogy hold up?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

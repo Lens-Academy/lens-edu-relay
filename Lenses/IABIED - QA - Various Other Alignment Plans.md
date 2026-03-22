@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774188910311}@@---
+---
 id: b8f4d2e5-0e39-4c7f-9b26-3g2e1f9d8c4b
 title: "What about various other AI alignment plans?"
 tags:
@@ -25,4 +25,4 @@ TLDR: The authors note that beyond what's in the main book, they have extended d
 Discussion topics:
 - Before reading the extended critiques, which of these three plans (truth-seeking, submissive, AI-solves-alignment) sounds most promising to you? Why?
 - Can you think of an alignment approach that doesn't fall into one of these categories?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

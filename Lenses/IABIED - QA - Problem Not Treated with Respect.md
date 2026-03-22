@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774188948125}@@---
+---
 id: e1i7g5h8-3h6c-4f0i-2e59-6j5h4i2g1f7e
 title: "We Know What It Looks Like When a Problem Is Being Treated with Respect, And This Isn't It"
 tags:
@@ -26,4 +26,4 @@ Discussion topics:
 - The contrast between NASA's 1-in-270 standard and Amodei's 10-25% catastrophic risk estimate is striking. What do you make of that gap?
 - Do you think the air traffic control comparison is fair? AI is a different kind of challenge than aviation.
 - Arthur Compton's threshold was 3-in-a-million for atmospheric ignition. What threshold would you set for AI risk before deciding to slow down?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

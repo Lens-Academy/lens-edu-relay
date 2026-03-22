@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774189207921}@@---
+---
 id: d0f4b6a7-8c5b-4ec4-b19d-5a2c3f0e6d48
 title: "AIs Won't Keep Their Promises"
 tags:
@@ -25,4 +25,4 @@ TLDR: Humanity can't solve alignment by making deals with AIs. AIs won't have hu
 Discussion topics:
 - The used car salesman analogy suggests the key issue is our inability to distinguish honest from dishonest AI commitments. Could advances in interpretability change this picture?
 - The authors' ethical stance that humans should keep promises to AIs even if AIs won't reciprocate is unusual. What do you make of that position?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.

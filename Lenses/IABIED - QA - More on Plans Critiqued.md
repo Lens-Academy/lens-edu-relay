@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774188935452}@@---
+---
 id: d0h6f4g7-2g5b-4e9h-1d48-5i4g3h1f0e6d
 title: "More on Some of the Plans We Critiqued in the Book"
 tags:
@@ -26,4 +26,4 @@ Discussion topics:
 - The Grok/MechaHitler example is very concrete. Does it change how you think about the difficulty of specifying goals for AI?
 - The "don't assume labs secretly know what they're doing" section uses password policies and train brakes as examples. Do you find these analogies convincing?
 - Which of the three critiqued plans do you think is closest to being fixable, if any?
-Ask what they found surprising or new.++}
+Ask what they found surprising or new.
