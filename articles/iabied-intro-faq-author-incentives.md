@@ -11,9 +11,9 @@ tags:
   - work-in-progress
 ---
 
-## What are your incentives and conflicts of interest, as authors?
+{--{"author":"AI","timestamp":1774206203196}@@## What are your incentives and conflicts of interest, as authors?
 
-**We don't expect to make any money from the book in the average case. Separately, we would love to be wrong about the book's thesis.**
+**We don't expect to make any money --}{++{"author":"AI","timestamp":1774206203196}@@TODO: Re-scrape ++}from{--{"author":"AI","timestamp":1774206203196}@@ the book in the average case. Separately, we would love to be wrong about the book's thesis.**
 
 The authors (Soares and Yudkowsky) draw salaries from the Machine Intelligence Research Institute (MIRI), funded by donations from those concerned about these issues. While the book might drive donations, they have other income opportunities and aren't pursuing this for financial reasons.
 
@@ -23,4 +23,4 @@ Both would genuinely prefer being wrong. They'd be "ecstatic to conclude that ou
 
 They would pivot again if evidence merited it. However, they believe current evidence doesn't support such a pivot.
 
-Importantly, they note that dismissing arguments based on speaker incentives is unreliable. Rather than focusing on who raises concerns, evaluation should focus on arguments themselves. The book opens by discussing AI rather than corporate incentives, and discusses developers' actual plans and their merits rather than dismissing speakers based on affiliation. This approach allows evidence to potentially change minds.
+Importantly, they note that dismissing arguments based on speaker incentives is unreliable. Rather than focusing on who raises concerns, evaluation should focus on arguments themselves. The book opens by discussing AI rather than corporate incentives, and discusses developers' actual plans and their merits rather than dismissing speakers based on affiliation. This approach allows evidence to potentially change minds.--}{++{"author":"AI","timestamp":1774206203196}@@ website++}

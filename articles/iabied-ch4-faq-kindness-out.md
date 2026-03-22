@@ -9,14 +9,14 @@ tags:
   - clippings
   - IABIED
   - work-in-progress
----
+---{--{"author":"AI","timestamp":1774206201910}@@
 ## Maybe no matter what goal you train on, you get kindness out?
 
 Kindness looks contingent on the particulars of our biology and ancestry.
 
-Kindness does not look like the sort of property that every mind ends up with, for a variety of reasons. Here's four, which we cover in more depth in the extended discussions:
+Kindness does not look like the sort of property that every mind ends up with, for a variety of reasons. Here's four, which we cover in more depth in the extended discussions:--}
 
-1. **Curiosity Isn't Convergent**: Traits like curiosity and boredom help humans solve specific mental challenges, like the challenge of understanding the environment. But there are other ways to solve those challenges, and AIs are likely to solve them in different ways. Submarines move through the water just fine, but they don't quite "swim." Many other traits, including kindness, can be understood analogously.
+{--{"author":"AI","timestamp":1774206201910}@@1. **Curiosity Isn't Convergent**: Traits like curiosity and boredom help humans solve specific mental challenges, like the challenge of understanding the environment. But there are other ways to solve those challenges, and AIs are likely to solve them in different ways. Submarines move through the water just fine, but they don't quite "swim." Many other traits, including kindness, can be understood analogously.
 
 2. **Human Values Are Contingent**: Humans evolved traits like kindness and empathy due to the details of our biology and ancestry. It was plausibly important, for example, that humans evolved in tribal groups where we had limited ability to deceive others and limited ability to track how related different tribe members were.
 
@@ -30,7 +30,7 @@ Kindness does not look like the sort of property that every mind ends up with, f
 
 **Because there are many ways to perform well in training.**
 
-If you've trained an AI to paint your barn red, that AI doesn't necessarily care deeply about red barns. Perhaps the AI winds up with some preference for moving its arm in smooth, regular patterns. Perhaps it develops some preference for getting approving looks from you. Perhaps it develops some preference for seeing bright colors. Most likely, it winds up with a whole plethora of preferences. There are many motivations that could wind up inside the AI, and that would result in it painting your barn red in this context.
+If you've trained an AI to paint your barn red, that AI doesn't necessarily care deeply about red barns. Perhaps the AI winds up with some preference for moving its arm in smooth, regular patterns. Perhaps it develops some preference for getting approving looks --}{++{"author":"AI","timestamp":1774206201910}@@TODO: Re-scrape ++}from{--{"author":"AI","timestamp":1774206201910}@@ you. Perhaps it develops some preference for seeing bright colors. Most likely, it winds up with a whole plethora of preferences. There are many motivations that could wind up inside the AI, and that would result in it painting your barn red in this context.
 
 If that AI got a lot smarter, what ends would it pursue? Who knows! Many different collections of drives can add up to "paint the barn red" in training, and the behavior of the AI in other environments depends on what specific drives turn out to animate it. See the end of Chapter 4 for more exploration of this point.
 
@@ -102,4 +102,4 @@ The paradox dissolves when we consider:
 
 - An AI can know a fact ("this behavior causes harm") without caring about that fact, without being motivated to action by that fact. You can quiz the AI about what "the right thing to do" is, but that doesn't mean it's going to do that thing.
 
-- Insofar as the programmers didn't successfully make Claude honest, Claude can think one thing inside its giant matrices, and say another thing entirely in English text.
+- Insofar as the programmers didn't successfully make Claude honest, Claude can think one thing inside its giant matrices, and say another thing entirely in English text.--}{++{"author":"AI","timestamp":1774206201910}@@ website++}

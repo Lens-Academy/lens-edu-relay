@@ -9,7 +9,7 @@ tags:
   - clippings
   - IABIED
   - work-in-progress
----
+---{--{"author":"AI","timestamp":1774206197372}@@
 
 ## Are you saying machines will become conscious?
 
@@ -37,6 +37,7 @@ Their practical focus: "If an AI is inventing new technology and infrastructure.
 
 ### Why This Distinction Matters
 
-Superintelligent systems would necessarily be "extremely good at modeling itself—thinking about its own computations, improving its mental heuristics." However, this practical self-understanding differs fundamentally from human-style subjective consciousness.
+Superintelligent systems would necessarily be "extremely good at modeling itself—thinking about its own computations, improving its mental heuristics." However, this practical self-understanding differs fundamentally --}{++{"author":"AI","timestamp":1774206197372}@@
+TODO: Re-scrape ++}from{--{"author":"AI","timestamp":1774206197372}@@ human-style subjective consciousness.
 
-The book prioritizes discussing intelligence defined as "a reasoner's ability to predict and steer the world," regardless of whether that system experiences consciousness.
+The book prioritizes discussing intelligence defined as "a reasoner's ability to predict and steer the world," regardless of whether that system experiences consciousness.--}{++{"author":"AI","timestamp":1774206197372}@@ website++}

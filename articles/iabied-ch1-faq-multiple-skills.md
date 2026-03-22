@@ -9,7 +9,7 @@ tags:
   - clippings
   - IABIED
   - work-in-progress
----
+---{--{"author":"AI","timestamp":1774206207171}@@
 
 ## Doesn't intelligence consist of multiple skills?
 
@@ -21,8 +21,8 @@ Their key point: "If I'm better at one thing and my sister is better at two thou
 
 The book doesn't require precise comparisons between humans, AI systems, and other creatures to assess practical impact. Instead, the authors focus on observing that:
 
-- AI systems are becoming progressively better at an expanding range of skills
-- Eventually, AI will surpass humans in domains of immense practical importance
+- AI systems are becoming progressively better at an expanding range of skills--}
+{--{"author":"AI","timestamp":1774206207171}@@- Eventually, AI will surpass humans in domains of immense practical importance
 - This trajectory matters more than definitional debates about "intelligence"
 
-The substantive concern centers on capability breadth and practical consequences, not philosophical definitions.
+The substantive concern centers on capability breadth and practical consequences, not philosophical definitions.--}{++{"author":"AI","timestamp":1774206207171}@@TODO: Re-scrape from website++}

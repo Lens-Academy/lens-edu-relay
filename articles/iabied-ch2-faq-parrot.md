@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-
+{--{"author":"AI","timestamp":1774206207539}@@
 ## Aren't AIs only able to parrot back what humans say?
 
 **No.** Large language models do far more than simply repeat patterns from training data. The core claim: "To predict the next token well, LLMs need to learn how the world works."
@@ -34,7 +34,7 @@ The authors contrast modern LLMs with basic n-gram systems (which only track wor
 The authors note significant caveats:
 - We still don't fully understand how these systems work internally
 - Larger models handle complexity better than small ones
-- Understanding *that* something works differs fundamentally from understanding *why*
+- Understanding *that* something works differs fundamentally --}{++{"author":"AI","timestamp":1774206207539}@@TODO: Re-scrape ++}from{--{"author":"AI","timestamp":1774206207539}@@ understanding *why*
 - Real-world complexity exceeds Go's relatively constrained environment
 
-**Bottom line:** Dismissing modern AI as mere parroting ignores the sophisticated pattern-learning and generalization these systems demonstrably perform.
+**Bottom line:** Dismissing modern AI as mere parroting ignores the sophisticated pattern-learning and generalization these systems demonstrably perform.--}{++{"author":"AI","timestamp":1774206207539}@@ website++}
