@@ -9,7 +9,7 @@ tags:
   - clippings
   - IABIED
   - work-in-progress
----
+---{--{"author":"AI","timestamp":1774206179127}@@
 
 ## Is intelligence a meaningful concept?
 
@@ -33,4 +33,5 @@ Humans created fire before grasping combustion chemistry. Similarly, AI developm
 
 The authors focus on what intelligence *does* rather than internal mechanisms. Humans perform diverse feats: particle physics, medicine, agriculture, military strategy. The label "intelligence" describes this enabling capacity itself.
 
-Human and AI intelligence needn't be identical processes to produce comparable real-world impacts.
+Human and AI intelligence needn't be identical processes to produce comparable real-world impacts.--}{++{"author":"AI","timestamp":1774206179127}@@
+TODO: Re-scrape from website++}

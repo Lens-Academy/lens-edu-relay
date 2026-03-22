@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-## Can we enhance humans so they keep pace with AI?
+{--{"author":"AI","timestamp":1774206174702}@@## Can we enhance humans so they keep pace with AI?
 
 Human enhancement cannot realistically help humans compete with advanced AI systems. While the authors support intelligence augmentation research, such technology faces fundamental limitations.
 
@@ -24,8 +24,8 @@ Current BCIs don't solve the core challenge. "Screens" already effectively pump 
 
 ### The Fundamental Problem
 
-Even if humans achieved significant augmentation, the speed differential remains insurmountable. "What does it matter if a human can download experiences from the internet and control ten computers at once with their mind, if an AI can do the same thing — but ten thousand times faster?"
+Even if humans achieved significant augmentation, the speed differential remains insurmountable. "What does it matter if a human can download experiences --}{++{"author":"AI","timestamp":1774206174702}@@TODO: Re-scrape ++}from{--{"author":"AI","timestamp":1774206174702}@@ the internet and control ten computers at once with their mind, if an AI can do the same thing — but ten thousand times faster?"
 
 ### A Qualified Exception
 
-Despite this pessimistic assessment, "smarter humans might nevertheless be able to help humanity find a way out of this mess" through policy and governance approaches discussed in Chapter 13.
+Despite this pessimistic assessment, "smarter humans might nevertheless be able to help humanity find a way out of this mess" through policy and governance approaches discussed in Chapter 13.--}{++{"author":"AI","timestamp":1774206174702}@@ website++}

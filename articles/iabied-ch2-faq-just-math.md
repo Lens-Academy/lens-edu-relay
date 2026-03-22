@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-
+{--{"author":"AI","timestamp":1774206180702}@@
 ## Aren't AIs "just math"?
 
 **Saying AIs are "just math" is like saying humans are "just biochemistry."**
@@ -27,10 +27,10 @@ It would be a fallacy of composition to say that encoding a picture into 1s and 
 
 ### Understanding vs. Building
 
-We don't fully understand how modern AI behavior emerges from simple components the way we understand binary image formats or LEGO construction. However, lack of complete understanding hasn't prevented us from building AIs that write poetry, play chess, drive cars, and discover drugs.
+We don't fully understand how modern AI behavior emerges--}{++{"author":"AI","timestamp":1774206180702}@@TODO: Re-scrape++} from {--{"author":"AI","timestamp":1774206180702}@@simple components the way we understand binary image formats or LEGO construction. However, lack of complete understanding hasn't prevented us from building AIs that write poetry, play chess, drive cars, and discover drugs.
 
 "Mere chemistry landed on the moon. It invented nuclear weapons. It built the world as we know it today."
 
 ### The Key Point
 
-Mathematical sufficiency for complex tasks shouldn't be doubted. If mathematical operations are enough for AIs to accomplish what they already do, why assume they're insufficient for more complex future tasks? Where should such a line be drawn?
+Mathematical sufficiency for complex tasks shouldn't be doubted. If mathematical operations are enough for AIs to accomplish what they already do, why assume they're insufficient for more complex future tasks? Where should such a line be drawn?--}{++{"author":"AI","timestamp":1774206180702}@@website++}
