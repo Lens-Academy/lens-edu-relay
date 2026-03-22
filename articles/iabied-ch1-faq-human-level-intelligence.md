@@ -9,7 +9,7 @@ tags:
   - clippings
   - IABIED
   - work-in-progress
----
+---{--{"author":"AI","timestamp":1774206170543}@@
 
 ## Is "human-level intelligence" a meaningful concept?
 
@@ -33,4 +33,5 @@ The authors argue precision definitions aren't prerequisite for meaningful discu
 
 Rather than debating exact definitions, the concept captures "whatever quality makes humans capable of building and maintaining a technological civilization" versus what chimpanzees cannot achieve.
 
-The framework distinguishes between "superhuman AI" (exceeding top human performance across wide task ranges) and "superintelligent AI" (vastly outstripping human capability entirely). These distinctions matter more than semantic arguments about "general intelligence."
+The framework distinguishes between "superhuman AI" (exceeding top human performance across wide task ranges) and "superintelligent AI" (vastly outstripping human capability entirely). These distinctions matter more than semantic arguments about "general intelligence."--}{++{"author":"AI","timestamp":1774206170543}@@
+TODO: Re-scrape from website++}

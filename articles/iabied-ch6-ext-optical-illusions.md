@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-## A New Way to Discover Optical Illusions
+{--{"author":"AI","timestamp":1774206161863}@@## A New Way to Discover Optical Illusions
 
 This resource discusses how modern understanding of human visual processing has enabled researchers to systematically construct new optical illusions — a capability unavailable fifty years ago.
 
@@ -20,7 +20,7 @@ This resource discusses how modern understanding of human visual processing has 
 
 **Expanding Black Hole Illusion (2022)**: Researchers demonstrated this illusion caused participants' pupils to expand as if anticipating darkness — "noticeably larger than the effect of merely focusing on a darker visual target."
 
-**Scintillating Starburst (2021)**: Built systematically upon research spanning from the late 1970s concerning luminance and illusory contours.
+**Scintillating Starburst (2021)**: Built systematically upon research spanning --}{++{"author":"AI","timestamp":1774206161863}@@TODO: Re-scrape ++}from{--{"author":"AI","timestamp":1774206161863}@@ the late 1970s concerning luminance and illusory contours.
 
 **Pinna-Brelstaff Illusion (circa 2000)**: Represents an illusion enabled by modern computing technology rather than biological understanding alone.
 
@@ -32,4 +32,4 @@ Early 2000s cone-activation research produced "impossible" color sensations — 
 
 ### Brain Wave Timing Studies
 
-Recent experiments reveal "rhythmic waves of brain activity cause us to see or not see complex images" that flash before eyes, demonstrating how perception alters through stimulus timing rather than sensory input modification alone.
+Recent experiments reveal "rhythmic waves of brain activity cause us to see or not see complex images" that flash before eyes, demonstrating how perception alters through stimulus timing rather than sensory input modification alone.--}{++{"author":"AI","timestamp":1774206161863}@@ website++}

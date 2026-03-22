@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-## Can developers just keep the AI in a box?
+{--{"author":"AI","timestamp":1774206168668}@@## Can developers just keep the AI in a box?
 
 ### They Won't
 
@@ -30,4 +30,4 @@ A superintelligent system could manipulate gatekeepers or exploit multiple influ
 
 ### Intelligence Advantages
 
-Superintelligent systems could coordinate vast resources rapidly. Unlike humans requiring decades to train, "a whole (small) civilization's worth of AI minds" emerges instantly through copying trained models across datacenters.
+Superintelligent systems could coordinate vast resources rapidly. Unlike humans requiring decades to train, "a whole (small) civilization's worth of AI minds" emerges instantly through copying trained models across datacenters.--}{++{"author":"AI","timestamp":1774206168668}@@TODO: Re-scrape from website++}

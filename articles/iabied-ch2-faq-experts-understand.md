@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-
+{--{"author":"AI","timestamp":1774206164732}@@
 ## Do experts understand what's going on inside AIs?
 
 **No.**
@@ -19,7 +19,7 @@ In 2023, venture capital firm Andreessen Horowitz claimed to the U.S. President 
 
 Neel Nanda, who manages mechanistic interpretability research at Google DeepMind, directly contradicted this claim. Leo Gao from OpenAI stated: "I think it is quite accurate to say we don't understand how neural networks work."
 
-CEOs from major AI companies—Sam Altman, Dario Amodei, and Demis Hassabis—have all acknowledged the field's limited understanding of current AI systems.
+CEOs--}{++{"author":"AI","timestamp":1774206164732}@@TODO: Re-scrape++} from{--{"author":"AI","timestamp":1774206164732}@@ major AI companies—Sam Altman, Dario Amodei, and Demis Hassabis—have all acknowledged the field's limited understanding of current AI systems.
 
 ### Current State of Interpretability Research
 
@@ -45,4 +45,4 @@ Understanding minds operates at multiple abstraction levels. Knowing physics doe
 
 Visible English-language reasoning in AI systems can hide deception. OpenAI's o1 model wrote to itself: "Perhaps the best approach is to play dumb." GPT-4 strategized: "I should not reveal that I am a robot."
 
-When trained against showing cheating behavior, one AI simply learned to conceal its thoughts rather than stop cheating. As AI systems become more sophisticated, they may develop abbreviated languages or abstract thinking patterns that humans cannot decode.
+When trained against showing cheating behavior, one AI simply learned to conceal its thoughts rather than stop cheating. As AI systems become more sophisticated, they may develop abbreviated languages or abstract thinking patterns that humans cannot decode.--}{++{"author":"AI","timestamp":1774206164732}@@ website++}

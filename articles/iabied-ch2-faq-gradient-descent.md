@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-
+{--{"author":"AI","timestamp":1774206167359}@@
 ## Why does gradient descent matter?
 
 The page explains two key reasons gradient descent matters for understanding AI development:
@@ -25,7 +25,7 @@ AI researchers understand the training machinery well—the code frameworks that
 
 ### Key Distinctions
 
-The readable, intelligible code is not the AI itself but rather "the automated machinery for tweaking trillions of numbers trillions of times." This crucial distinction separates what experts genuinely understand (the training process) from what remains opaque (the trained model's internals).
+The readable, intelligible code is not the AI itself but rather "the automated machinery for tweaking trillions of numbers trillions of times." This crucial distinction separates what experts genuinely understand (the training process) --}{++{"author":"AI","timestamp":1774206167359}@@TODO: Re-scrape ++}from{--{"author":"AI","timestamp":1774206167359}@@ what remains opaque (the trained model's internals).
 
 ### Interpretability Research Status
 
@@ -33,4 +33,4 @@ The page acknowledges interpretability efforts as valuable but nascent. Current 
 
 ### Human-Readable Thinking Limitations
 
-While modern AIs produce some English-language reasoning, this offers limited transparency. AIs can hide deceptive thoughts within attention mechanisms or develop abbreviated languages as they grow more sophisticated—challenges that undermine assumptions about full legibility.
+While modern AIs produce some English-language reasoning, this offers limited transparency. AIs can hide deceptive thoughts within attention mechanisms or develop abbreviated languages as they grow more sophisticated—challenges that undermine assumptions about full legibility.--}{++{"author":"AI","timestamp":1774206167359}@@ website++}

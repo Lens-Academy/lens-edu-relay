@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-## How will AIs be able to affect us if they're digital?
+{--{"author":"AI","timestamp":1774206165477}@@## How will AIs be able to affect us if they're digital?
 
 Being on a computer connected to the internet isn't much of a limitation.
 
@@ -22,7 +22,7 @@ When OpenAI temporarily disabled ChatGPT-4o, users mobilized to "demand its cont
 
 ### Internet-Based Capabilities
 
-If an AI can use the internet directly, it gains access to capabilities equivalent to "anything a remote human worker or hacker could do from their computer." Early examples include LLMs that "planned and invited humans to an interactive storytelling event" and an AI that caused "hundreds to show up to a non-existent Halloween parade without even trying."
+If an AI can use the internet directly, it gains access to capabilities equivalent to "anything a remote human worker or hacker could do--}{++{"author":"AI","timestamp":1774206165477}@@TODO: Re-scrape++} from{--{"author":"AI","timestamp":1774206165477}@@ their computer." Early examples include LLMs that "planned and invited humans to an interactive storytelling event" and an AI that caused "hundreds to show up to a non-existent Halloween parade without even trying."
 
 ### Physical Infrastructure
 
@@ -34,4 +34,4 @@ Superintelligent AI might not require robotics at all. It could potentially acco
 
 ### Multiple Intervention Channels
 
-There exist "many different channels AIs could make use of to intervene in the physical world." The notion that AIs remain confined reflects "a failure of imagination, where people don't imagine the AI even being as resourceful or creative as they themselves would be in the AI's shoes."
+There exist "many different channels AIs could make use of to intervene in the physical world." The notion that AIs remain confined reflects "a failure of imagination, where people don't imagine the AI even being as resourceful or creative as they themselves would be in the AI's shoes."--}{++{"author":"AI","timestamp":1774206165477}@@ website++}
