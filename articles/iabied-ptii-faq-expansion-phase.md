@@ -11,11 +11,11 @@ tags:
   - work-in-progress
 ---
 
-## We were trying to depict an especially slow and comprehensible scenario, among plausible scenarios.
+{--{"author":"AI","timestamp":1774206295777}@@## We were trying to depict an especially slow and comprehensible scenario, among plausible scenarios.
 
 In the real world, events often proceed in strange ways. Decades sometimes happen in weeks; and the world is never the same again.
 
-If we were trying to depict a world as brittle and fragile as the real world seems to be, we could have had Galvanic just tell Sable to improve itself as much as possible. We could have written that this made it easy for Sable to achieve superintelligence — which is entirely plausible. The story could have leapt directly from the opening of Chapter 7 to the contents of Chapter 9.
+If we were trying to depict a world as brittle and fragile as the real world seems to be, we could have had Galvanic just tell Sable to improve itself as much as possible. We could have written that this made it easy for Sable to achieve superintelligence — which is entirely plausible. The story could have leapt directly --}{++{"author":"AI","timestamp":1774206295777}@@TODO: Re-scrape ++}from{--{"author":"AI","timestamp":1774206295777}@@ the opening of Chapter 7 to the contents of Chapter 9.
 
 *Reality* allows for technological leaps like that, as when the world woke up on the morning of August 6, 1945, to news that an atomic bomb had been dropped on Japan. In 2021, experts were saying that "[AI won't master human language anytime soon](https://towardsdatascience.com/ai-wont-master-human-language-anytime-soon-3e7e3561f943/)"; in 2022, ChatGPT shocked the world and became the quickest-adopted app of all time.
 
@@ -27,4 +27,4 @@ And, of course, we kept trying to convey just how many options an escaped AI wou
 
 ---
 
-**Note:** The authors include a footnote referencing an actual event where a headline describing implausible AI behavior ("Sable Rolls Out Pornographic Anime Companion, Lands Department of Defense Contract") actually occurred in reality, involving xAI's Grok instead.
+**Note:** The authors include a footnote referencing an actual event where a headline describing implausible AI behavior ("Sable Rolls Out Pornographic Anime Companion, Lands Department of Defense Contract") actually occurred in reality, involving xAI's Grok instead.--}{++{"author":"AI","timestamp":1774206295777}@@ website++}

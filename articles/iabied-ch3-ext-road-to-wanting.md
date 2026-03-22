@@ -11,7 +11,7 @@ tags:
   - work-in-progress
 ---
 
-## Why Wanting Works
+{--{"author":"AI","timestamp":1774206292154}@@## Why Wanting Works
 
 Why is wanting an effective steering mechanism? Why does it succeed? Evolution discovered this trick repeatedly through natural selection.
 
@@ -69,7 +69,7 @@ Beavers can likely perceive dam leaks as disharmonies to avoid, visualizing effe
 
 If initial twigs break, beavers probably update observations, generalize about similar-looking materials, expect future failures, and select different twigs instead.
 
-This description likely understates beaver capabilities. Ethologists might identify insects accomplishing comparable tasks with million neurons. The larger point: systems gain substantial task-performance benefits transitioning from reflex-like behavior to cognition updating world-models from real-time experience, predicting action consequences, imagining preferred states, and searching strategies for achieving imagined outcomes.
+This description likely understates beaver capabilities. Ethologists might identify insects accomplishing comparable tasks with million neurons. The larger point: systems gain substantial task-performance benefits transitioning --}{++{"author":"AI","timestamp":1774206292154}@@TODO: Re-scrape ++}from{--{"author":"AI","timestamp":1774206292154}@@ reflex-like behavior to cognition updating world-models from real-time experience, predicting action consequences, imagining preferred states, and searching strategies for achieving imagined outcomes.
 
 ## From Policy Memorization to Strategic Planning
 
@@ -177,4 +177,4 @@ This leads to Chapter 4: *You Don't Get What You Train For.*
 
 ### Footnotes
 
-**[1] Skipping the investigation:** The anecdote spread among computer scientists before the internet derived from later retellings omitting Fabre's caveat about wasp colony behavioral variation differences.
+**[1] Skipping the investigation:** The anecdote spread among computer scientists before the internet derived from later retellings omitting Fabre's caveat about wasp colony behavioral variation differences.--}{++{"author":"AI","timestamp":1774206292154}@@ website++}
