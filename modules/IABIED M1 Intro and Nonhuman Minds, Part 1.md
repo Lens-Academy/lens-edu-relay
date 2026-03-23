@@ -89,11 +89,7 @@ source:: ![[../Lenses/IABIED - QA - AI Experts on Catastrophe]]
 optional:: true
 source:: ![[../Lenses/IABIED - QA - Leo Szilard Saw the Future]]
 
-{--{"author":"AI","timestamp":1774268893006}@@# Lens: IABIED - QA - Is Intelligence a Meaningful Concept
-optional:: true
-source:: ![[../Lenses/IABIED - QA - Is Intelligence a Meaningful Concept]]
-
---}# Lens: IABIED - QA - Is Intelligence Meaningful
+# Lens: IABIED - QA - Is Intelligence Meaningful
 optional:: true
 source:: ![[../Lenses/IABIED - QA - Is Intelligence Meaningful]]
 
@@ -117,11 +113,7 @@ source:: ![[../Lenses/IABIED - QA - General Intelligence]]
 optional:: true
 source:: ![[../Lenses/IABIED - QA - Intelligence as Scalar]]
 
-{--{"author":"AI","timestamp":1774268896173}@@# Lens: IABIED - QA - Will AI Cross Critical Thresholds
-optional:: true
-source:: ![[../Lenses/IABIED - QA - Will AI Cross Critical Thresholds]]
-
---}# Lens: IABIED - QA - AI Critical Thresholds
+# Lens: IABIED - QA - AI Critical Thresholds
 optional:: true
 source:: ![[../Lenses/IABIED - QA - AI Critical Thresholds]]
 
@@ -129,11 +121,7 @@ source:: ![[../Lenses/IABIED - QA - AI Critical Thresholds]]
 optional:: true
 source:: ![[../Lenses/IABIED - QA - ChatGPT as General Intelligence]]
 
-{--{"author":"AI","timestamp":1774268894397}@@# Lens: IABIED - QA - How Smart Could a Superintelligence Get
-optional:: true
-source:: ![[../Lenses/IABIED - QA - How Smart Could a Superintelligence Get]]
-
---}# Lens: IABIED - QA - How Smart Could Superintelligence Get
+# Lens: IABIED - QA - How Smart Could Superintelligence Get
 optional:: true
 source:: ![[../Lenses/IABIED - QA - How Smart Could Superintelligence Get]]
 

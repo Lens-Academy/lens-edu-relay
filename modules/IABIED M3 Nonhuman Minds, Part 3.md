@@ -137,11 +137,7 @@ source:: ![[../Lenses/IABIED - QA - AI Consciousness]]
 optional:: true
 source:: ![[../Lenses/IABIED - QA - Non-Human Entities]]
 
-# Lens: IABIED - QA - {--{"author":"AI","timestamp":1774269036731}@@Won't It Choose to Be Moral
-optional:: true
-source:: ![[../Lenses/IABIED - QA - Won't It Choose to Be Moral]]
-
-# Lens: IABIED - QA - --}Taking the AI's Perspective
+# Lens: IABIED - QA - Taking the AI's Perspective
 optional:: true
 source:: ![[../Lenses/IABIED - QA - Taking the AI's Perspective]]
 
@@ -165,11 +161,7 @@ source:: ![[../Lenses/IABIED - QA - Digital AIs Affect Us]]
 optional:: true
 source:: ![[../Lenses/IABIED - QA - Keep AI in a Box]]
 
-{--{"author":"AI","timestamp":1774268897493}@@# Lens: IABIED - QA - Can We Just Contain It in a Box
-optional:: true
-source:: ![[../Lenses/IABIED - QA - Can We Just Contain It in a Box]]
-
---}# Lens: IABIED - QA - Exploit AI Weakness
+# Lens: IABIED - QA - Exploit AI Weakness
 optional:: true
 source:: ![[../Lenses/IABIED - QA - Exploit AI Weakness]]
 
@@ -177,11 +169,7 @@ source:: ![[../Lenses/IABIED - QA - Exploit AI Weakness]]
 optional:: true
 source:: ![[../Lenses/IABIED - QA - Enhance Humans]]
 
-{--{"author":"AI","timestamp":1774268898843}@@# Lens: IABIED - QA - Could We Enhance Humans to Compete
-optional:: true
-source:: ![[../Lenses/IABIED - QA - Could We Enhance Humans to Compete]]
-
---}# Lens: IABIED - QA - AI Civilization
+# Lens: IABIED - QA - AI Civilization
 optional:: true
 source:: ![[../Lenses/IABIED - QA - AI Civilization]]
 

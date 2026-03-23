@@ -67,11 +67,7 @@ source:: ![[../Learning Outcomes/IABIED - Where There's Life, There's Hope]]
 optional:: true
 source:: ![[../Lenses/IABIED - QA - What About the Benefits of AI]]
 
-# Lens: IABIED - QA - {--{"author":"AI","timestamp":1774269039572}@@Can International Cooperation Really Work
-optional:: true
-source:: ![[../Lenses/IABIED - QA - Can International Cooperation Really Work]]
-
-# Lens: IABIED - QA - --}The Draft Treaty
+# Lens: IABIED - QA - The Draft Treaty
 optional:: true
 source:: ![[../Lenses/IABIED - QA - The Draft Treaty]]
 
