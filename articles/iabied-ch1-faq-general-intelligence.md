@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1774265434932}@@TODO: Re-scrape --}{++{"author":"AI","timestamp":1774265434932}@@#### Yes.
+#### Yes.
 
 The peregrine falcon can dive through the air at 240 miles per hour. A sperm whale can dive miles below the ocean's surface. A falcon would drown in the sea, and a whale would splat if it tried to fly; but somehow humans have managed to both fly faster and dive deeper than either creature while inside metal shells of our own design.
 
@@ -38,7 +38,7 @@ Does this sound unsatisfying? We're unsatisfied too. We very much wish humanity 
 
 While we don't have a formal description of the phenomenon, we can nevertheless deduce a few facts about generality by observing the world around us.
 
-We know that humans are not born with the innate knowledge and skill to build skyscrapers and moon rockets, because our distant ancestors never had to work with skyscrapers and moon rockets in a way that could encode that knowledge into our genes. Rather, those abilities come ++}from {--{"author":"AI","timestamp":1774265434932}@@website--}{++{"author":"AI","timestamp":1774265434932}@@our power to learn about domains that we weren't born understanding.
+We know that humans are not born with the innate knowledge and skill to build skyscrapers and moon rockets, because our distant ancestors never had to work with skyscrapers and moon rockets in a way that could encode that knowledge into our genes. Rather, those abilities come from our power to learn about domains that we weren't born understanding.
 
 To assess generality, don't ask how much something *knows*. Ask how much it *learns*.
 
@@ -62,4 +62,4 @@ We'll have more to say about this topic in Chapter 3.
 
 #### Notes
 
-[1] *not universal:* A formal definition of "universal intelligence" was put forth by [Legg and Hutter](https://arxiv.org/abs/0712.3329) in 2007.++}
+[1] *not universal:* A formal definition of "universal intelligence" was put forth by [Legg and Hutter](https://arxiv.org/abs/0712.3329) in 2007.

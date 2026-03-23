@@ -11,7 +11,7 @@ tags:
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1774265658994}@@TODO: Re-scrape--}{++{"author":"AI","timestamp":1774265658994}@@We noted the [example](/5/taking-the-ais-perspective) of Jürgen Schmidhuber, a pioneering AI researcher who believed that an AI with preferences for *making things as simple as possible* would end up loving humans, because humans are such good simplifiers.
+We noted the [example](/5/taking-the-ais-perspective) of Jürgen Schmidhuber, a pioneering AI researcher who believed that an AI with preferences for *making things as simple as possible* would end up loving humans, because humans are such good simplifiers.
 
 In our experience, this is a remarkably common kind of mistake. "Well, the AI will probably end up with aesthetic preferences. And humans make art! So the AI will want to keep us around to make art."
 
@@ -35,7 +35,7 @@ By comparison: Humanity at present has no more efficient way to make eggs than h
 
 Similarly, the chickens that existed one thousand years ago weren't the most efficient possible egg-layers, so farmers bred faster-laying chickens. The chickens of one thousand years ago didn't grow as much meat as possible, as fast as possible. So now, some modern chickens grow breasts so huge that they cannot walk.
 
-Some humans dislike that we treat chickens this way, and those people bring pressure to bear on factory farms to be less like that — because those humans have *additional* preferences, beyond a preference for cheap eggs. For that pressure to exist, it is necessary that *someone* with some power care directly about the wellbeing of chickens at least a little, because taking good care of chickens is not motivated by a preference that is *solely* about extracting eggs. An AI could, in theory, have *other* preferences about humans that make it treat us well, but it wouldn't come++} from {--{"author":"AI","timestamp":1774265658994}@@website--}{++{"author":"AI","timestamp":1774265658994}@@a preference for symmetry (or truth, or simple explanations, or any other preference that's not actually about us).
+Some humans dislike that we treat chickens this way, and those people bring pressure to bear on factory farms to be less like that — because those humans have *additional* preferences, beyond a preference for cheap eggs. For that pressure to exist, it is necessary that *someone* with some power care directly about the wellbeing of chickens at least a little, because taking good care of chickens is not motivated by a preference that is *solely* about extracting eggs. An AI could, in theory, have *other* preferences about humans that make it treat us well, but it wouldn't come from a preference for symmetry (or truth, or simple explanations, or any other preference that's not actually about us).
 
 Even farmers who have less impersonal relationships with their cattle will prohibit their livestock from mating however they choose. Cattle breeding is serious business, and impinges too much on the future profitability of the farm to let the bulls and cows just go at it.
 
@@ -57,4 +57,4 @@ Even in the unlikely event that the AI gravitated *specifically* to the kinds of
 
 And either way, the actual present-day human population — the actual human beings alive today, your friends, your family, you — wouldn't be among the cheapest-to-feed, tastiest-to-milk domesticated "truth" producers.
 
-Happy, healthy, free people leading flourishing lives are not the most efficient solution to almost any problem. For an AI to keep us alive and well, it has to care about us at least a little.++}
+Happy, healthy, free people leading flourishing lives are not the most efficient solution to almost any problem. For an AI to keep us alive and well, it has to care about us at least a little.

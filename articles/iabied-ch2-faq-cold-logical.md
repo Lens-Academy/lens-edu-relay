@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1774265684915}@@TODO: Re-scrape --}{++{"author":"AI","timestamp":1774265684915}@@#### No.
+#### No.
 
 Just because AIs run on computers doesn't mean their thinking must share the qualities we associate with computers, any more than your thinking must share the qualities associated with biology and chemistry and neurotransmitters.
 
@@ -24,8 +24,8 @@ We'll expand on this point in one of the online supplements to Chapter 3: [Anthr
 
 #### AIs are new, interesting, weird entities.
 
-Airplanes fly, but they don't flap their wings. Robot arms function without soft skin or red blood. Transistors work very differently ++}from {--{"author":"AI","timestamp":1774265684915}@@website--}{++{"author":"AI","timestamp":1774265684915}@@neurons, and DeepBlue played world-beating chess without the kinds of thoughts that went on inside of Garry Kasparov. This is the usual course of technology.
+Airplanes fly, but they don't flap their wings. Robot arms function without soft skin or red blood. Transistors work very differently from neurons, and DeepBlue played world-beating chess without the kinds of thoughts that went on inside of Garry Kasparov. This is the usual course of technology.
 
 When we don't understand flight or game-playing well, we sometimes imagine that the approach used by biology is the only possible approach that can work. Once we understand a field a little better, this turns out to be very wrong.
 
-The work of steering a chessboard was done quite differently by DeepBlue than by Kasparov, and the work of steering the world at large will almost surely follow a similar pattern. As discussed in Chapter 2, AI looks like it's already doing the work that it's doing in a very different way than humans would — though this may be a bit harder to see when it uses its intelligence to imitate humans! In Chapter 4, we'll explore how these differences are likely to lead to weird places, with serious consequences.++}
+The work of steering a chessboard was done quite differently by DeepBlue than by Kasparov, and the work of steering the world at large will almost surely follow a similar pattern. As discussed in Chapter 2, AI looks like it's already doing the work that it's doing in a very different way than humans would — though this may be a bit harder to see when it uses its intelligence to imitate humans! In Chapter 4, we'll explore how these differences are likely to lead to weird places, with serious consequences.

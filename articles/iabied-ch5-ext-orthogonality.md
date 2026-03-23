@@ -11,7 +11,7 @@ tags:
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1774265686580}@@TODO: Re-scrape --}{++{"author":"AI","timestamp":1774265686580}@@#### A Dialogue on Correct Nests, Continued
+#### A Dialogue on Correct Nests, Continued
 
 In Chapter 5, we told the story of the Correct-Nest aliens, who evolved to find it deeply and intuitively "correct" to have a prime number of stones in one's nest. We might imagine a branch of their conversation that continues as follows:
 
@@ -49,7 +49,7 @@ In Chapter 5, we told the story of the Correct-Nest aliens, who evolved to find 
 
 **BOY-BIRD:** Well, if not the aliens, what about the mechanical creature they might accidentally create? Will *those* listen to reason?
 
-**GIRL-BIRD:** Hmm. Actually, I fear the situation may be even worse there. Thinking about how different the process of creating an intelligent machine would be ++}from {--{"author":"AI","timestamp":1774265686580}@@website--}{++{"author":"AI","timestamp":1774265686580}@@the process of biological evolution, I'm feeling a bit less optimistic that it'd yield love or friendship, in that exotic case.
+**GIRL-BIRD:** Hmm. Actually, I fear the situation may be even worse there. Thinking about how different the process of creating an intelligent machine would be from the process of biological evolution, I'm feeling a bit less optimistic that it'd yield love or friendship, in that exotic case.
 
 #### Good Drivers Can Steer to Different Destinations
 
@@ -83,4 +83,4 @@ All the same, none of that is going to feel compelling to a superintelligent cub
 
 It's not that it doesn't know what humor is. It can predict exactly what you'll find funny. It just doesn't consider that classification an interesting one.
 
-In the same way, it isn't moved by how you compute what should or shouldn't be done; nor by which preferences you consider more or less meta-preferable. If something doesn't care about happiness, nor meta-care about your arguments for why it should care about happiness, then you cannot talk it into adopting [a happiness-based decision framework](/4/curiosity-isnt-convergent).++}
+In the same way, it isn't moved by how you compute what should or shouldn't be done; nor by which preferences you consider more or less meta-preferable. If something doesn't care about happiness, nor meta-care about your arguments for why it should care about happiness, then you cannot talk it into adopting [a happiness-based decision framework](/4/curiosity-isnt-convergent).

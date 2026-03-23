@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1774265892438}@@TODO: Re-scrape from website--}{++{"author":"AI","timestamp":1774265892438}@@#### Probably not.
+#### Probably not.
 
 Humans use data much more efficiently than AIs do, so we know it's possible *in principle* for intelligent minds to be much more data-efficient than modern AIs are. If AI labs "run out" of data when it comes to making LLMs better, that will slow them down for only as long as it takes to invent new methods that are more data-efficient.
 
@@ -30,4 +30,4 @@ It's still *possible* that AI techniques will hit some sort of wall, and that hu
 
 #### Notes
 
-[1] *large light bulb:*As mentioned in a previous endnote:  McMurray et al.'s [paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC4535334/) gives an average basal metabolic rate (the minimum resting energy consumption) of about 0.863 kilocalories per hour per kilogram, which works out to about 1 watt per kg or about 60-80 watts for a human. That's only [60-80% of total energy expenditure](https://pmc.ncbi.nlm.nih.gov/articles/PMC2818133/), which — including physical activity — is about 100 watts.++}
+[1] *large light bulb:*As mentioned in a previous endnote:  McMurray et al.'s [paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC4535334/) gives an average basal metabolic rate (the minimum resting energy consumption) of about 0.863 kilocalories per hour per kilogram, which works out to about 1 watt per kg or about 60-80 watts for a human. That's only [60-80% of total energy expenditure](https://pmc.ncbi.nlm.nih.gov/articles/PMC2818133/), which — including physical activity — is about 100 watts.

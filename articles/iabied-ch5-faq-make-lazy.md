@@ -11,7 +11,7 @@ tags:
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1774265853345}@@TODO: Re-scrape from website--}{++{"author":"AI","timestamp":1774265853345}@@#### Even laziness isn't safe.
+#### Even laziness isn't safe.
 
 Companies aren't likely to make "lazy" AIs, because AI is a competitive industry, and that's not the best way to make a profit. Users won't want the AI to be lazy about meeting their requests, and the company won't want the AI to be lazy about maximizing user engagement and attachment, or about thinking better and more clearly.
 
@@ -27,4 +27,4 @@ Now imagine what would happen if this lazy person saw an easy way to create a mu
 
 Even if a lazy superintelligence didn't *hate* work all that much — even if it just did whatever got the job done, then stopped, without *going hard* on minimizing work — it would still likely find it just as easy to get the job done by building a harder-working mind to do the task, once it was smart enough.
 
-In a technical context, we might phrase the point as: "Satisficing AIs aren't a stable equilibrium." Even if the AI doesn't want to exert much effort, it would have no compunctions about building a new AI that does exert effort. It wouldn't even mind modifying itself to "cure" itself of its laziness — as long as there's a sufficiently lazy way to do so.++}
+In a technical context, we might phrase the point as: "Satisficing AIs aren't a stable equilibrium." Even if the AI doesn't want to exert much effort, it would have no compunctions about building a new AI that does exert effort. It wouldn't even mind modifying itself to "cure" itself of its laziness — as long as there's a sufficiently lazy way to do so.

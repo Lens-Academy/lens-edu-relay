@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1774265417066}@@TODO: Re-scrape--}{++{"author":"AI","timestamp":1774265417066}@@#### Probably.
+#### Probably.
 
 Modern AI progress looks incremental, from some points of view.[\*](#ftnt15) For instance, an organization called [METR](https://metr.org/) has been tracking [the ability of AIs to complete long tasks](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/), and it has been roughly following an exponential curve over the last few years. One could argue that this is comfortingly incremental.[†](#ftnt16) Does that mean that AI progress will be nice and slow and predictable?
 
@@ -46,7 +46,7 @@ Maybe deficits in long-term memory and continuous learning are holding AIs back 
 
 Or (as discussed in the book) consider the point where AIs can build smarter AIs, which themselves build even smarter AIs, in a feedback loop. Feedback loops are a common cause of threshold effects.
 
-For all we know, there are a dozen different factors that could serve as the "missing piece," such that, once an AI lab figures out that last puzzle piece, their AI really starts to take off and separate++} from {--{"author":"AI","timestamp":1774265417066}@@website--}{++{"author":"AI","timestamp":1774265417066}@@the pack, like how humanity separated from the rest of the animals. The critical moments might come at us fast. We don't necessarily have all that much time to prepare.
+For all we know, there are a dozen different factors that could serve as the "missing piece," such that, once an AI lab figures out that last puzzle piece, their AI really starts to take off and separate from the pack, like how humanity separated from the rest of the animals. The critical moments might come at us fast. We don't necessarily have all that much time to prepare.
 
 #### Takeoff speed doesn't affect the outcome, but the possibility of fast takeoff means we must act soon.
 
@@ -64,4 +64,4 @@ It took hominids millions of years to travel halfway to the moon, and two days t
 
 #### Notes
 
-[1] *three or four times larger:* It doesn't take all that long for AIs to grow by a factor of three or four. On its full official release, GPT-2 had about [1.5 billion parameters](https://openai.com/index/gpt-2-1-5b-release/). GPT-3 had [175 billion parameters](https://arxiv.org/pdf/2005.14165). The official parameter count for GPT-4 has not to our knowledge been released, but it's unlikely to be *smaller* than its predecessor; an unofficial estimate placed it at about [1.8 trillion parameters](https://the-decoder.com/gpt-4-architecture-datasets-costs-and-more-leaked/). Or in other words: AI got a thousand times larger over a span of four years.++}
+[1] *three or four times larger:* It doesn't take all that long for AIs to grow by a factor of three or four. On its full official release, GPT-2 had about [1.5 billion parameters](https://openai.com/index/gpt-2-1-5b-release/). GPT-3 had [175 billion parameters](https://arxiv.org/pdf/2005.14165). The official parameter count for GPT-4 has not to our knowledge been released, but it's unlikely to be *smaller* than its predecessor; an unofficial estimate placed it at about [1.8 trillion parameters](https://the-decoder.com/gpt-4-architecture-datasets-costs-and-more-leaked/). Or in other words: AI got a thousand times larger over a span of four years.

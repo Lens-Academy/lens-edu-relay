@@ -11,7 +11,7 @@ tags:
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1774266505033}@@TODO: Re-scrape --}{++{"author":"AI","timestamp":1774266505033}@@#### We can't learn much from a topic's prevalence in fiction.
+#### We can't learn much from a topic's prevalence in fiction.
 
 Smarter-than-human AI hasn't been built yet, but it has been depicted in fiction. We recommend against anchoring on these depictions, however. Real AI probably won't be much like fictional AI, for reasons we'll dive into in Chapter 4.
 
@@ -58,7 +58,7 @@ At present, most of the matter in the universe, like stars, is arranged by happe
 
 Even if nothing on Earth ever spreads through the cosmos, and even if most intelligent life that arises in distant galaxies never leaves its home planet, it only takes *one* spacefaring intelligence anywhere in the universe to light the spark and start spreading through the universe, traveling to new star systems and using the resources there to build more probes to expand outwards to yet more star systems — just as it only took one self-replicating microorganism (and a bit of exponential growth) to turn a lifeless planet into a world teeming, on every island, with life.
 
-So the future will look different ++}from {--{"author":"AI","timestamp":1774266505033}@@website--}{++{"author":"AI","timestamp":1774266505033}@@the present. Indeed, we can expect it to look radically different. The stars themselves will predictably be transformed, in the long run, by whatever biological species or AIs are looking for more resources — even if we can't say much today about what that species might look like, or about what ends the universe's resources might be put toward.
+So the future will look different from the present. Indeed, we can expect it to look radically different. The stars themselves will predictably be transformed, in the long run, by whatever biological species or AIs are looking for more resources — even if we can't say much today about what that species might look like, or about what ends the universe's resources might be put toward.
 
 Predicting the *details* seems difficult, verging on impossible. That's a hard call. But predicting the transformation of the universe into a place where most matter is harvested and put toward *some* purpose, whatever that may be? That is an easier call, even if it's counterintuitive and weird to a civilization that has barely begun to extract resources from stars at all.
 
@@ -82,4 +82,4 @@ Humanity looks to be on the brink of another radical transformation, where machi
 
 [1] *nothing ever happens:* The phrase "nothing ever happens" appears to be common among people who participate in prediction markets. The heuristic itself is discussed by, e.g., the blogger Scott Alexander in his essay [Heuristics That Almost Always Work](https://www.astralcodexten.com/p/heuristics-that-almost-always-work).
 
-[2] *no limitations:* See, for example, the paper [Eternity in six hours](https://www.sciencedirect.com/science/article/abs/pii/S0094576513001148?via%3Dihub), which discusses the limits on intergalactic colonization given the constraints of known physical law.++}
+[2] *no limitations:* See, for example, the paper [Eternity in six hours](https://www.sciencedirect.com/science/article/abs/pii/S0094576513001148?via%3Dihub), which discusses the limits on intergalactic colonization given the constraints of known physical law.

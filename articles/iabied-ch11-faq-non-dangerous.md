@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1774265879846}@@TODO: Re-scrape --}{++{"author":"AI","timestamp":1774265879846}@@#### Actions that seem benign can still require dangerous capabilities.
+#### Actions that seem benign can still require dangerous capabilities.
 
 An example of a proposal we've heard is for AI companies to continue to advance the capabilities frontier, but commit to using their AIs only in ways that don't seem immediately dangerous. E.g., in conversation with senior figures in AI (years ago), we've heard the idea floated that powerful AI with strong rhetorical skills could be used to convince politicians worldwide to pass an effective ban on dangerous AI development.
 
@@ -52,7 +52,7 @@ One common sort of proposal is AIs that just output proofs (or disproofs) of mat
 
 But what statement could we have the AI prove that would let us prevent the next AI down the line from acquiring a biolab and ruining the future?
 
-We've received various responses to this question, when we ask it. One class of responses is that there ought to be a worldwide regime to prevent anyone ++}from {--{"author":"AI","timestamp":1774265879846}@@website--}{++{"author":"AI","timestamp":1774265879846}@@building AIs that do things other than output proofs into proof-checkers. This could perhaps work, but insofar as it did, it would work because of the enforced worldwide regime controlling the creation and usage of AI. The proof-searching AI wouldn't be doing any of the work.
+We've received various responses to this question, when we ask it. One class of responses is that there ought to be a worldwide regime to prevent anyone from building AIs that do things other than output proofs into proof-checkers. This could perhaps work, but insofar as it did, it would work because of the enforced worldwide regime controlling the creation and usage of AI. The proof-searching AI wouldn't be doing any of the work.
 
 Another class of responses is: "Someone else is bound to think of some important mathematical statement whose proof would matter." But all the hard work is in figuring out *what we could possibly prove* such that we'd be in a significantly better position. We can't just have the AI try to prove the English-language sentence "I am safe to use," because that's not a mathematical statement subject to proof. If we knew with mathematically precise clarity what it would mean for a giant mess of computations to be "safe," we would know so much about intelligence that we could probably skip the proof and just design a safe AI.
 
@@ -70,4 +70,4 @@ We haven't been able to find any narrow-but-effective plans, and we suspect it's
 
 #### Notes
 
-[1] *just output proofs:* For an example of someone making a proposal like this (while also discussing some of the issues), see Nick Bostrom's writing on [Oracle AIs](https://nickbostrom.com/papers/oracle.pdf).++}
+[1] *just output proofs:* For an example of someone making a proposal like this (while also discussing some of the issues), see Nick Bostrom's writing on [Oracle AIs](https://nickbostrom.com/papers/oracle.pdf).

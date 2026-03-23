@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1774265675858}@@TODO: Re-scrape --}{++{"author":"AI","timestamp":1774265675858}@@#### With computers, the hard part is getting them to solve a certain problem at all. High volume and speed come soon after.
+#### With computers, the hard part is getting them to solve a certain problem at all. High volume and speed come soon after.
 
 "To take over the world, you need a civilization" is an intuition that makes sense for humans. It's a lot less obvious how well this idea generalizes to AI. AIs don't work like humans — they can be dramatically more capable than any human, and an AI instance isn't necessarily comparable to a single person.
 
@@ -30,8 +30,8 @@ This all means that there likely won't be all that much time between when AIs be
 
 When it comes to the physical infrastructure of civilization, we would guess that AI can productively piggyback on human infrastructure for however long it takes to develop a more advanced means of rearranging matter to its preferences. It doesn't need to figure out how to manufacture its own supply chain and computing infrastructure from scratch when it can use our computers. It doesn't need to invent industrial machines from scratch when it can just take control of industrial machines that we've already helpfully built. And it can use our infrastructure to build the next phase of its own infrastructure, using existing robots to build new and more efficient robot factories, or using existing DNA synthesis laboratories to make its own biotech, until it's completely self-sufficient.
 
-A handful of humans started out naked on the savannah, and we bootstrapped our way up to a technological civilization. And we're not *that* smart. It wouldn't be especially hard for a superintelligence to do its own form of bootstrapping, particularly if it gets to start ++}from {--{"author":"AI","timestamp":1774265675858}@@website--}{++{"author":"AI","timestamp":1774265675858}@@humanity's existing industrial base as a leaping-off point.
+A handful of humans started out naked on the savannah, and we bootstrapped our way up to a technological civilization. And we're not *that* smart. It wouldn't be especially hard for a superintelligence to do its own form of bootstrapping, particularly if it gets to start from humanity's existing industrial base as a leaping-off point.
 
 #### Notes
 
-[1] *as many instances as needed:*There are probably on the order of 200,000 instances of GPT-5 running at any given time (as of August 2025, shortly after GPT-5's release), which is maybe smaller than modern "civilization" and is closer to a small nation. Ultimately, we don't put much weight on this analogy, as we don't think individual AI instances are ever likely to be very similar to individual humans. The important point here is that large numbers of instances aren't likely to be especially hard to come by, if (contrary to our best guess) that turns out to be important for some reason.++}
+[1] *as many instances as needed:*There are probably on the order of 200,000 instances of GPT-5 running at any given time (as of August 2025, shortly after GPT-5's release), which is maybe smaller than modern "civilization" and is closer to a small nation. Ultimately, we don't put much weight on this analogy, as we don't think individual AI instances are ever likely to be very similar to individual humans. The important point here is that large numbers of instances aren't likely to be especially hard to come by, if (contrary to our best guess) that turns out to be important for some reason.

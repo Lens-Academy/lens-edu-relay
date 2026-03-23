@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1774265598466}@@TODO: Re-scrape from website--}{++{"author":"AI","timestamp":1774265598466}@@#### No. But there are levels AI hasn't reached.
+#### No. But there are levels AI hasn't reached.
 
 We've sometimes heard it suggested that the idea of superintelligence assumes that "intelligence" is a simple, one-dimensional quantity. Pour more AI research in, get more "intelligence" out — as though intelligence were less like a machine, and more like a fluid that you can just keep pumping out of the ground.
 
@@ -24,4 +24,4 @@ Artificial superintelligences could have limitations and complications as well, 
 
 #### Notes
 
-[1] *heard it suggested:* See, for example, Ernest Davis's "[Ethical Guidelines for a Superintelligence](https://cs.nyu.edu/~davise/papers/Bostrom.pdf)."++}
+[1] *heard it suggested:* See, for example, Ernest Davis's "[Ethical Guidelines for a Superintelligence](https://cs.nyu.edu/~davise/papers/Bostrom.pdf)."

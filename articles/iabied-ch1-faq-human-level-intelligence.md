@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1774265464242}@@TODO: Re-scrape --}{++{"author":"AI","timestamp":1774265464242}@@#### Yes, in many cases.
+#### Yes, in many cases.
 
 Humans have built an advanced technological civilization, and chimpanzees haven't. There seems to be *some* sense in which chimpanzees aren't "on our level," even though chimpanzees communicate with each other and use tools and have many impressive skills. So there's use in pointing at humans and saying "*that* level," even if there are some issues with using human intelligence as a yardstick.
 
@@ -26,4 +26,4 @@ To the naked eye, leaving aside all theory, it looks like some kind of dam broke
 
 There are people who will cleverly object to this idea, but they have to do it by throwing around quibbles and definitions rather than by saying, "Actually, I have uncovered evidence of *Homo erectus* trying to build nuclear reactors two million years ago; they were just very bad at it."
 
-Intelligence powerful and general enough to create a civilization seems to have hit the world fast and hard, cleanly separating *Homo sapiens* ++}from {--{"author":"AI","timestamp":1774265464242}@@website--}{++{"author":"AI","timestamp":1774265464242}@@the other animals. We're certainly not attached to the specific label "human-level intelligence," which has plenty of issues. But whatever we call it, it's useful to have *some* kind of concept for "things that are on the other side of whatever that threshold was."++}
+Intelligence powerful and general enough to create a civilization seems to have hit the world fast and hard, cleanly separating *Homo sapiens* from the other animals. We're certainly not attached to the specific label "human-level intelligence," which has plenty of issues. But whatever we call it, it's useful to have *some* kind of concept for "things that are on the other side of whatever that threshold was."

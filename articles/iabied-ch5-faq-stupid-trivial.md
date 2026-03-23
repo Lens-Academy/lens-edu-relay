@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1774265465419}@@TODO: Re-scrape --}{++{"author":"AI","timestamp":1774265465419}@@#### AIs can intelligently pursue different things than a human would.
+#### AIs can intelligently pursue different things than a human would.
 
 It's not that the AI is stupid. It's that it's intelligently steering the world to a different place than *you* would steer it.
 
@@ -36,8 +36,8 @@ It is just correct, that a sense of happiness is not a cube. It is just correct,
 
 The cube maximizer has no flaw in its predictive understanding of the world. It is not asking some metamoral or metaethical question whose correct answer is "I *should* pursue happiness" and computing the wrong answer "I *should* pursue tiny cubes" instead. It does not operate inside the human framework, even an idealized version of the human framework; it is not wrongly computing "shouldness," but correctly computing expected-to-lead-to-titanium-cubes-ness.
 
-In saying this, we are not saying that it is stuck in a horrible, complicated trap. It is a reflectively self-consistent engine of general intelligence, and (in a way) one less *tangled up* in itself than us. It is not blinded from seeing the appeal of happiness; it does not look away ++}from {--{"author":"AI","timestamp":1774265465419}@@website--}{++{"author":"AI","timestamp":1774265465419}@@any truth about the world or itself. It just doesn't find any of those truths compelling it to the same course of action that (some) humans are compelled to.
+In saying this, we are not saying that it is stuck in a horrible, complicated trap. It is a reflectively self-consistent engine of general intelligence, and (in a way) one less *tangled up* in itself than us. It is not blinded from seeing the appeal of happiness; it does not look away from any truth about the world or itself. It just doesn't find any of those truths compelling it to the same course of action that (some) humans are compelled to.
 
 See also the [extended discussion on the orthogonality thesis](/5/orthogonality-ais-can-have-almost-any-goal).
 
-[\*](#ftnt190_ref) If this assumption offends you, you can imagine that this AI had all sorts of complicated preferences, for all sorts of experiences and intricate devices. In that case, just suppose that most of those preferences satiated using just a few star's worth of energy, and now for some weird reason, the way it prefers to spend the rest of the energy and matter from the rest of the stars that it reaches is on making tiny little cubes. Then, *setting aside* the few stars' worth of matter that it's defending from disruption, the AI's actions are answering the question "What action leads to the most possible tiny little cubes?", and the rest of the points will follow just fine, with the occasional caveat that you can insert yourself.++}
+[\*](#ftnt190_ref) If this assumption offends you, you can imagine that this AI had all sorts of complicated preferences, for all sorts of experiences and intricate devices. In that case, just suppose that most of those preferences satiated using just a few star's worth of energy, and now for some weird reason, the way it prefers to spend the rest of the energy and matter from the rest of the stars that it reaches is on making tiny little cubes. Then, *setting aside* the few stars' worth of matter that it's defending from disruption, the AI's actions are answering the question "What action leads to the most possible tiny little cubes?", and the rest of the points will follow just fine, with the occasional caveat that you can insert yourself.

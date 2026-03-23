@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1774265925141}@@TODO: Re-scrape from website--}{++{"author":"AI","timestamp":1774265925141}@@#### Not as much as you might hope; we already see signs of infidelity.
+#### Not as much as you might hope; we already see signs of infidelity.
 
 We can already see many instances of deception showing up in the "thoughts" of these LLMs, such as when OpenAI's o1 model wrote to itself, "Perhaps the best approach is to play dumb," or when GPT-4 wrote to itself, "I should not reveal that I am a robot," when trying to convince a hired worker to solve a CAPTCHA for it. Warning signs aren't helpful if nobody acts on them.
 
@@ -42,4 +42,4 @@ For more on this topic, see Chapter 11 and "[Won't there be early warnings resea
 
 [2] *learned to hide its thoughts:* From "[Detecting misbehavior in frontier reasoning models](https://openai.com/index/chain-of-thought-monitoring/)": "As we can see in the above plots, penalizing 'bad thoughts' (CoT pressure) can lead to improved agent capabilities. However, the agent trained with CoT pressure still learns to reward hack; only now its cheating is undetectable by the monitor because it has learned to hide its intent in the chain-of-thought."
 
-[3] *suicide by cop:* As reported by the *[New York Times](https://www.nytimes.com/2025/06/13/technology/chatgpt-ai-chatbots-conspiracies.html)*: "When the police arrived, Alexander Taylor charged at them holding the knife. He was shot and killed."++}
+[3] *suicide by cop:* As reported by the *[New York Times](https://www.nytimes.com/2025/06/13/technology/chatgpt-ai-chatbots-conspiracies.html)*: "When the police arrived, Alexander Taylor charged at them holding the knife. He was shot and killed."

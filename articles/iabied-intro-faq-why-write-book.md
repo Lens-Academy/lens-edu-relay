@@ -11,13 +11,13 @@ tags:
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1774266572400}@@TODO: Re-scrape--}{++{"author":"AI","timestamp":1774266572400}@@#### Because the situation seems genuinely serious and urgent.
+#### Because the situation seems genuinely serious and urgent.
 
 If you carefully consider a topic, you can sometimes see one of history's zigs or zags coming.
 
 In 1933, a physicist named Leo Szilard was the first person to realize that nuclear chain reactions are possible.[\*](#ftnt1) He thereby gained the ability to predict one of history's zigs earlier than anyone else.
 
-We think that if you look at AI++} from {--{"author":"AI","timestamp":1774266572400}@@website--}{++{"author":"AI","timestamp":1774266572400}@@the right vantage point today, you can see one of history's zags coming. And we think that events are set to go poorly if humanity does not change course.
+We think that if you look at AI from the right vantage point today, you can see one of history's zags coming. And we think that events are set to go poorly if humanity does not change course.
 
 AI labs are racing to build machines that are smarter than any human, and they're making what appears to be significant progress in advancing the frontier. As we'll discuss in the coming chapters, modern AIs are more *grown* than crafted. They exhibit behavior that nobody asked for and nobody wanted, and they're on track to become more capable than any human. This looks like an extremely dangerous situation to us.
 
@@ -29,4 +29,4 @@ We do not think the situation is hopeless. We wrote this book with the hope of c
 
 The first step toward solving a problem is to understand it.
 
-[\*](#ftnt1_ref) We tell part of Leo Szilard's tale in an [extended discussion](/intro/when-leo-szilard-saw-the-future).++}
+[\*](#ftnt1_ref) We tell part of Leo Szilard's tale in an [extended discussion](/intro/when-leo-szilard-saw-the-future).

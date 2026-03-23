@@ -10,11 +10,11 @@ tags:
   - IABIED
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1774265891111}@@TODO: Re-scrape--}{++{"author":"AI","timestamp":1774265891111}@@#### We strongly recommend against this entire AI paradigm.
+#### We strongly recommend against this entire AI paradigm.
 
 Current methods in AI present needlessly difficult challenges for alignment, for the reasons we've discussed in earlier chapters. We don't see a reason in principle why humanity couldn't build an aligned superintelligence, with a sufficiently strong understanding of what we were doing and a different array of formal tools. But the entire current approach to AI seems like a dead end from an alignment and robustness perspective, even if it's perfectly good from a capabilities perspective.
 
-We're not advocating for the "good old-fashioned" AI that reigned++} from {--{"author":"AI","timestamp":1774265891111}@@website--}{++{"author":"AI","timestamp":1774265891111}@@the 1950s to the 1990s. Those techniques were misguided and failed, for reasons that we consider fairly obvious. There are *other options* besides the extremely shallow attempts of the 1980s, and AIs that are grown with almost zero understanding of their internals.
+We're not advocating for the "good old-fashioned" AI that reigned from the 1950s to the 1990s. Those techniques were misguided and failed, for reasons that we consider fairly obvious. There are *other options* besides the extremely shallow attempts of the 1980s, and AIs that are grown with almost zero understanding of their internals.
 
 #### There's plenty of meaningful work that could be done now.
 
@@ -30,4 +30,4 @@ As for those who have kept pushing even past all the warning signs? The obvious 
 
 #### Notes
 
-[1] *fairly obvious:* Yudkowsky has been criticising the flaws in old designs since [at least 2008](https://www.lesswrong.com/posts/p7ftQ6acRkgo6hqHb/dreams-of-ai-design).++}
+[1] *fairly obvious:* Yudkowsky has been criticising the flaws in old designs since [at least 2008](https://www.lesswrong.com/posts/p7ftQ6acRkgo6hqHb/dreams-of-ai-design).

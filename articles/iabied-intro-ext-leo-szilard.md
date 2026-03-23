@@ -11,7 +11,7 @@ tags:
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1774266314025}@@TODO: Re-scrape --}{++{"author":"AI","timestamp":1774266314025}@@In September of 1933, a physicist named Leo Szilard was crossing the intersection where Southampton Row passes Russell Square when he had the idea of a nuclear chain reaction — the key idea behind atomic bombs.
+In September of 1933, a physicist named Leo Szilard was crossing the intersection where Southampton Row passes Russell Square when he had the idea of a nuclear chain reaction — the key idea behind atomic bombs.
 
 There was, from there, a whole adventure as Szilard tried to figure out what to do with this momentous idea. He went to the more prestigious physicist Isidor Rabi, and Rabi went to the even more prestigious Enrico Fermi. Rabi asked Fermi whether he thought nuclear chain reactions were the real deal, and Fermi sent back a reply:
 
@@ -51,8 +51,8 @@ A very large number of awful things have happened over the course of human histo
 
 [\*](#ftnt12_ref) Faced with this criticism of Fermi, we've seen people defend him by inventing reasons why it's totally plausible that Fermi did a lot of thinking before saying, "Nuts!" For example, they argue, Fermi knew that the Earth hadn't previously exploded in a cascade of induced radioactivity — which someone might think the Earth ought to have already done if those sorts of cascades were physically possible.
 
-These sorts of arguments, of course, are pointing toward a false conclusion. Fermi was *wrong* about nuclear chain reactions. Given that, we'd say the lesson to learn ++}from {--{"author":"AI","timestamp":1774266314025}@@website--}{++{"author":"AI","timestamp":1774266314025}@@the existence of arguments like that is: "You can always come up with arguments that sound at least that plausible against the truth of things that are in fact true." That the Earth hasn't exploded yet is not strong evidence that nuclear reactors are impossible; human engineers can carefully arrange atoms to split on purpose. So such arguments do not support a conclusion as wrong as saying, "Nuts!"
+These sorts of arguments, of course, are pointing toward a false conclusion. Fermi was *wrong* about nuclear chain reactions. Given that, we'd say the lesson to learn from the existence of arguments like that is: "You can always come up with arguments that sound at least that plausible against the truth of things that are in fact true." That the Earth hasn't exploded yet is not strong evidence that nuclear reactors are impossible; human engineers can carefully arrange atoms to split on purpose. So such arguments do not support a conclusion as wrong as saying, "Nuts!"
 
 #### Notes
 
-[1] *crossing the intersection:* A fuller profile and timeline is maintained by the [Atomic Heritage Foundation](https://ahf.nuclearmuseum.org/ahf/profile/leo-szilard/).++}
+[1] *crossing the intersection:* A fuller profile and timeline is maintained by the [Atomic Heritage Foundation](https://ahf.nuclearmuseum.org/ahf/profile/leo-szilard/).
