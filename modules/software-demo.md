@@ -37,7 +37,9 @@ content::
 Let's see if we can now link to another article: [[../Lenses/collapsed article text test]]. That should show a nice link.
 
 And this should show a card:
-[[trial ]]
+::card[[../Lenses/Trial question and roleplay]]
+
+
 
 # Lens:
 source:: [[../Lenses/collapsed article text test]]
