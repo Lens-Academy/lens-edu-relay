@@ -14,6 +14,7 @@ tags:
 #### If AI values "fascination," it probably has better options.
 
 The story here is similar to the story for [filial love](/5/will-ai-treat-us-as-its-parents):
+
 - By default, a superintelligence probably wouldn't value "fascination" or "interestingness." Chess AIs don't win at chess by feeling emotions like "dedication" or "drive to win." These emotions are important in *human* chess players, but AIs can do the same work in different ways. By the same token, a superintelligence would probably do the *useful work* of learning about the world, testing hypotheses, etc., without using "[curiosity](/4/curiosity-isnt-convergent)" or "fascination" to do it.
 
   An AI wouldn't necessarily be [cold and logical](/2/wont-ais-inevitably-be-cold-and-logical-or-otherwise-missing-some-crucial-spark), but if it has its own messy pile of urges and instincts, these probably look radically different from the human pile.
