@@ -58,11 +58,11 @@ source:: ![[../Learning Outcomes/IABIED - Alchemy, Not Science]]
 optional:: true
 source:: ![[../Lenses/IABIED - QA - AI Differs from Precedents]]
 
-# Lens: IABIED - QA - Isn't AI Different from Nuclear Reactors
+# Lens: IABIED - QA - {--{"author":"AI","timestamp":1774269833652}@@Isn't AI Different from Nuclear Reactors
 optional:: true
 source:: ![[../Lenses/IABIED - QA - Isn't AI Different from Nuclear Reactors]]
 
-# Lens: IABIED - QA - Time to Solve Alignment
+# Lens: IABIED - QA - --}Time to Solve Alignment
 optional:: true
 source:: ![[../Lenses/IABIED - QA - Time to Solve Alignment]]
 
