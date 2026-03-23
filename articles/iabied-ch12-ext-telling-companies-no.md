@@ -1,5 +1,5 @@
 ---
-title: "Workable Plans Will Involve Telling AI Companies "No""
+title: Workable Plans Will Involve Telling AI Companies "No"
 source_url: https://ifanyonebuildsit.com/12/workable-plans-will-involve-telling-ai-companies-no
 published: 2025-09-16
 author:
