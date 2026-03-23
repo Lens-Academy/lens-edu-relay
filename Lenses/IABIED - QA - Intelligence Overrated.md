@@ -1,7 +1,7 @@
 ---
 id: 842dbf1d-8971-4619-a978-3432e169519c
-title: "Isn't intelligence overrated?"{++{"author":"AI","timestamp":1774297826452}@@
-tldr: "Only if you're using an overly narrow definition of 'intelligence.'"++}
+title: "Isn't intelligence overrated?"
+tldr: "Only if you're using an overly narrow definition of 'intelligence.'"
 tags:
   - lens
   - IABIED

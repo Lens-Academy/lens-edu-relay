@@ -1,7 +1,7 @@
 ---
 id: 8d9445ee-2905-4d66-8230-6b88cd16af6a
-title: "Won't the most reckless companies naturally be the most incompetent, and thus not a threat?"{++{"author":"AI","timestamp":1774297692037}@@
-tldr: "Not in general. Corner-cutting is often competitive."++}
+title: "Won't the most reckless companies naturally be the most incompetent, and thus not a threat?"
+tldr: "Not in general. Corner-cutting is often competitive."
 tags:
   - lens
   - IABIED

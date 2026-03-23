@@ -1,7 +1,7 @@
 ---
 id: 6e22366e-0068-4412-8f3a-acc72a244beb
-title: Human Values Are Contingent{++{"author":"AI","timestamp":1774297785708}@@
-tldr: "The Glorious Accident of Kindness"++}
+title: Human Values Are Contingent
+tldr: "The Glorious Accident of Kindness"
 tags:
   - lens
   - IABIED

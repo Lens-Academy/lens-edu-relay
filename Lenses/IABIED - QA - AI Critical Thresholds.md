@@ -1,8 +1,8 @@
 ---
 id: 25e691f5-d5d3-4c33-aed8-ee382058db89
 title: "Will AI cross critical thresholds and take off?"
-{++{"author":"AI","timestamp":1774297685436}@@tldr: "Probably."
-++}tags:
+tldr: "Probably."
+tags:
   - lens
   - IABIED
   - supplementary

@@ -1,7 +1,7 @@
 ---
 id: b614a390-a260-4790-9bbc-2cceb5930eea
-title: "Isn't the danger from smarter-than-human AI a distraction from other issues?"{++{"author":"AI","timestamp":1774297672617}@@
-tldr: "The world is, unfortunately, big enough for multiple issues."++}
+title: "Isn't the danger from smarter-than-human AI a distraction from other issues?"
+tldr: "The world is, unfortunately, big enough for multiple issues."
 tags:
   - lens
   - IABIED

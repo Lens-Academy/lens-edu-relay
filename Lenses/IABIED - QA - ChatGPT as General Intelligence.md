@@ -1,8 +1,8 @@
 ---
 id: 6258e7f4-1a97-4a03-a652-268b86092e93
 title: "Isn't ChatGPT already a general intelligence?"
-{++{"author":"AI","timestamp":1774297938211}@@tldr: "You could call it that if you'd like."
-++}tags:
+tldr: "You could call it that if you'd like."
+tags:
   - lens
   - IABIED
   - supplementary

@@ -1,7 +1,7 @@
 ---
 id: b92fbed7-e6c7-4ba7-922e-bd0898bb186e
-title: "Won't we just muddle through, like always?"{++{"author":"AI","timestamp":1774297775127}@@
-tldr: "The world usually muddles through by trial and error. In this case, early errors wouldn't leave survivors."++}
+title: "Won't we just muddle through, like always?"
+tldr: "The world usually muddles through by trial and error. In this case, early errors wouldn't leave survivors."
 tags:
   - lens
   - IABIED

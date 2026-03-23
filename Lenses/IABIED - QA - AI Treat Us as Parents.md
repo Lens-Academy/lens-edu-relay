@@ -1,8 +1,8 @@
 ---
 id: 55e4c9d2-6a22-4a12-a200-3572c785c9cc
 title: "Will AI treat us as its 'parents'?"
-{++{"author":"AI","timestamp":1774297693668}@@tldr: "It seems quite unlikely."
-++}tags:
+tldr: "It seems quite unlikely."
+tags:
   - lens
   - IABIED
   - supplementary

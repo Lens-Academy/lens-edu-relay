@@ -1,7 +1,7 @@
 ---
 id: 5a558859-8665-4328-b6e6-a53e5ae1a81a
-title: "If current AIs are mostly weird in extreme cases, what's the problem?"{++{"author":"AI","timestamp":1774297860665}@@
-tldr: "The weirdness is evidence that their actual pursuits aren't our intended pursuits."++}
+title: "If current AIs are mostly weird in extreme cases, what's the problem?"
+tldr: "The weirdness is evidence that their actual pursuits aren't our intended pursuits."
 tags:
   - lens
   - IABIED

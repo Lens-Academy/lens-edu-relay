@@ -1,7 +1,7 @@
 ---
 id: 9b407edb-4d70-4eab-8393-a1b58ac31e6b
-title: "Are you just pessimistic?"{++{"author":"AI","timestamp":1774297674618}@@
-tldr: "We're optimistic about many things, but superintelligence isn't like most things."++}
+title: "Are you just pessimistic?"
+tldr: "We're optimistic about many things, but superintelligence isn't like most things."
 tags:
   - lens
   - IABIED

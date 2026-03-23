@@ -1,7 +1,7 @@
 ---
 id: 79dd5970-4a5c-4da4-a5e4-6cc99b167f56
-title: "Don't hallucinations show that modern AIs are weak?"{++{"author":"AI","timestamp":1774297779758}@@
-tldr: "Hallucinations reveal both a limitation and a misalignment."++}
+title: "Don't hallucinations show that modern AIs are weak?"
+tldr: "Hallucinations reveal both a limitation and a misalignment."
 tags:
   - lens
   - IABIED

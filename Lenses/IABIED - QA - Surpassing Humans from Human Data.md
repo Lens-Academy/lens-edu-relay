@@ -1,7 +1,7 @@
 ---
 id: 7629014a-214f-4273-817c-378496558cca
-title: "How could an AI trained only on human data surpass humans?"{++{"author":"AI","timestamp":1774297785585}@@
-tldr: "Perhaps by learning general skills and implementing them better."++}
+title: "How could an AI trained only on human data surpass humans?"
+tldr: "Perhaps by learning general skills and implementing them better."
 tags:
   - lens
   - IABIED

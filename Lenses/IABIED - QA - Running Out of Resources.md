@@ -1,7 +1,7 @@
 ---
 id: cf3f37ce-3fc3-46ab-b693-7f83807b2b1e
-title: "But won't we run out of data before AI goes all the way? Or electrical power? Or funding?"{++{"author":"AI","timestamp":1774297696915}@@
-tldr: "Probably not."++}
+title: "But won't we run out of data before AI goes all the way? Or electrical power? Or funding?"
+tldr: "Probably not."
 tags:
   - lens
   - IABIED

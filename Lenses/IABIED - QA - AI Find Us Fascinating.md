@@ -1,8 +1,8 @@
 ---
 id: 299b31d0-c5bf-4db1-9897-2fe568a5d861
 title: "Won't AI find us historically important?"
-{++{"author":"AI","timestamp":1774297688114}@@tldr: "If AI values \"fascination,\" it probably has better options."
-++}tags:
+tldr: "If AI values \"fascination,\" it probably has better options."
+tags:
   - lens
   - IABIED
   - supplementary

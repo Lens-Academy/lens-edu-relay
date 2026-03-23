@@ -1,7 +1,7 @@
 ---
 id: e6f955ed-32dd-4e03-91e1-048f87c611b4
-title: "Why does Sable end up thinking the way it does?"{++{"author":"AI","timestamp":1774297700885}@@
-tldr: "Our story showcases how AI is liable to have weird and unintended preferences."++}
+title: "Why does Sable end up thinking the way it does?"
+tldr: "Our story showcases how AI is liable to have weird and unintended preferences."
 tags:
   - lens
   - IABIED

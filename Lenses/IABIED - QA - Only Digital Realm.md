@@ -1,7 +1,7 @@
 ---
 id: 6766121a-d208-42ad-a9cf-0c71797c065e
-title: "Wouldn't AI only care about the digital realm?"{++{"author":"AI","timestamp":1774297826992}@@
-tldr: 'There is no "digital realm" independent of physical infrastructure.'++}
+title: "Wouldn't AI only care about the digital realm?"
+tldr: 'There is no "digital realm" independent of physical infrastructure.'
 tags:
   - lens
   - IABIED
