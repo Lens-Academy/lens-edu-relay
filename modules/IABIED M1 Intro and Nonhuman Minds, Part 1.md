@@ -44,7 +44,7 @@ Discussion topics to explore:
 
 Ask what they found surprising or new. Check if they can explain why "grown, not crafted" matters for safety in their own words — it's a key concept.
 
-{++{"author":"AI","timestamp":1774279176986}@@<!--
+{++{"author":"AI","timestamp":1774279291318}@@%%
 ++}# Learning Outcome: IABIED - If It's Valuable and Can Be Done...
 source:: ![[../Learning Outcomes/IABIED - If It's Valuable and Can Be Done...]]
 
@@ -52,8 +52,8 @@ source:: ![[../Learning Outcomes/IABIED - If It's Valuable and Can Be Done...]]
 source:: ![[../Learning Outcomes/IABIED - Define Intelligence]]
 
 # Learning Outcome: IABIED - AI Is Grown, Not Crafted
-source:: ![[../Learning Outcomes/IABIED - AI Is Grown, Not Crafted]]{++{"author":"AI","timestamp":1774279176986}@@
--->++}
+source:: ![[../Learning Outcomes/IABIED - AI Is Grown, Not Crafted]]{++{"author":"AI","timestamp":1774279291318}@@
+%%++}
 
 # Lens: IABIED - QA - Why Write This Book
 optional:: true
