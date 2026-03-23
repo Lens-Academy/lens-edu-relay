@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1774265553555}@@TODO: Re-scrape --}{++{"author":"AI","timestamp":1774265553555}@@#### Not necessarily, and this seems like a separate topic.
+#### Not necessarily, and this seems like a separate topic.
 
 *If Anyone Builds It, Everyone Dies* doesn't discuss machine consciousness at all, focusing instead on machine *intelligence*. As a first step in talking about consciousness, we should first clarify what kind of "consciousness" we have in mind.
 
@@ -50,4 +50,4 @@ We'll go into more detail on why we think prediction and steering probably don't
 
 #### Notes
 
-[1] *threaten to kill themselves:* Users report that Google's Gemini AI [threatens to uninstall itself](https://x.com/venturetwins/status/1936483773035798906) ++}from projects, or to [delete all its code](https://x.com/DuncanHaldane/status/1937204975035384028), when it's having trouble completing some task.
+[1] *threaten to kill themselves:* Users report that Google's Gemini AI [threatens to uninstall itself](https://x.com/venturetwins/status/1936483773035798906) from projects, or to [delete all its code](https://x.com/DuncanHaldane/status/1937204975035384028), when it's having trouble completing some task.

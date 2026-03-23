@@ -11,7 +11,7 @@ tags:
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1774266318344}@@TODO: Re-scrape --}{++{"author":"AI","timestamp":1774266318344}@@#### Solving difficult challenges requires AIs to take more and more initiative.
+#### Solving difficult challenges requires AIs to take more and more initiative.
 
 Imagine an AI tasked with curing Alzheimer's disease. Can it succeed without a strong tendency to persist when it runs into roadblocks?
 
@@ -49,7 +49,7 @@ Human wants were evolutionarily useful, even when those wants weren't *for* evol
 
 Having drives and purposes is useful. It's so useful that it can be helpful for a task (like "genetic fitness") even when the desire does not exactly match the task.
 
-Or rather, it can be helpful for a while. It can be helpful until the entities with drives and purposes start getting really smart — at which point their behavior might sharply diverge ++}from {--{"author":"AI","timestamp":1774266318344}@@website--}the "training" target. Millions of years of evolution, only for humanity to build a rich technological civilization and invent…birth control.
+Or rather, it can be helpful for a while. It can be helpful until the entities with drives and purposes start getting really smart — at which point their behavior might sharply diverge from the "training" target. Millions of years of evolution, only for humanity to build a rich technological civilization and invent…birth control.
 
 #### Being grown rather than crafted, AIs are liable to wind up with the wrong targets.
 

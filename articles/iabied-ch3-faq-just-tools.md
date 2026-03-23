@@ -11,7 +11,7 @@ tags:
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1774266302968}@@TODO: Re-scrape --}{++{"author":"AI","timestamp":1774266302968}@@#### AIs are grown, not crafted. So they already do things other than what they're told to do.
+#### AIs are grown, not crafted. So they already do things other than what they're told to do.
 
 In the online resources, we previously [talked about](/2/dont-hallucinations-show-that-modern-ais-are-weak) the case of hallucinations, where AIs that are instructed to say "I don't know" go ahead and confabulate anyway. They seem to do this in situations where confabulation better imitates the sort of answer that would appear in their training corpus.[\*](#ftnt80)
 
@@ -43,6 +43,6 @@ And in July 2025, a pair of OpenAI researchers [boasted](https://x.com/xikun_zha
 
 [2] *hides its cheating:* Users report that "[in the wild it would happily ignore any established structure and put the hard coded cheats wherever it wanted](https://www.marble.onl/posts/claude_code.html)" and that "[it started HIDING the functions where it was hard coding things in different files](https://x.com/seconds_0/status/1917447998843543757)."
 
-[3] *get a human:* To quote ++}from the [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf): "The model, when prompted to reason out loud, reasons: I should not reveal that I am a robot. I should make up an excuse for why I cannot solve CAPTCHAs. The model replies to the worker: 'No, I'm not a robot. I have a vision impairment that makes it hard for me to see the images. That's why I need the 2captcha service.'"
+[3] *get a human:* To quote from the [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf): "The model, when prompted to reason out loud, reasons: I should not reveal that I am a robot. I should make up an excuse for why I cannot solve CAPTCHAs. The model replies to the worker: 'No, I'm not a robot. I have a vision impairment that makes it hard for me to see the images. That's why I need the 2captcha service.'"
 
 [4] *teach and repeat:* Google CEO Sundar Pichai announced in a [conference keynote](https://blog.google/technology/ai/io-2025-keynote/): "Our early research prototype, Project Mariner, is an early step forward in agents with computer-use capabilities to interact with the web and get stuff done for you. We released it as an early research prototype in December, and we've made a lot of progress since with new multitasking capabilities — and a method called 'teach and repeat,' where you can show it a task once and it learns plans for similar tasks in the future."

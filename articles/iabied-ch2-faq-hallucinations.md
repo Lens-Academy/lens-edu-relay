@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1774265791554}@@TODO: Re-scrape --}{++{"author":"AI","timestamp":1774265791554}@@#### Hallucinations reveal both a limitation and a misalignment.
+#### Hallucinations reveal both a limitation and a misalignment.
 
 Modern LLMs (as we write this in mid-2025) are prone to "hallucinations" where they make up answers to questions in a confident-sounding tone. If you ask them to draft a legal briefing, for example, sometimes they'll make up fake court cases as precedent.
 
@@ -44,6 +44,6 @@ See also our discussion of how [the field is good at overcoming obstacles](/1/bu
 
 [\*](#ftnt62_ref) We are not suggesting that the AI necessarily hallucinates because it is *internally motivated* to output text that's as close as possible to what a real lawyer would say. Rather, we observe that an AI trained on text prediction is reinforced much more for text paragraphs that are closer to what a real lawyer would say, and thus that the reinforcement is stronger for paragraphs with hallucinated citations than paragraphs that say "I don't know." The specific machinery inside of the AI that was shaped by those reinforcements is anyone's guess.
 
-Perhaps the AI has a literal motivation to imitate people closely; perhaps it has sixteen motivations that happen to add up to imitation-like behavior *in this context*; or perhaps the behavior stems ++}from internal machinery that isn't best thought of as "motivations" at all. And this is without even getting into the question of whether the AI has multiple imitation-related drives that sometimes come into conflict. Those details are all subject to speculation and debate; what seems clearer is that *somehow*, the AI ended up with this unintended behavioral disposition, as a result of being trained on text prediction.
+Perhaps the AI has a literal motivation to imitate people closely; perhaps it has sixteen motivations that happen to add up to imitation-like behavior *in this context*; or perhaps the behavior stems from internal machinery that isn't best thought of as "motivations" at all. And this is without even getting into the question of whether the AI has multiple imitation-related drives that sometimes come into conflict. Those details are all subject to speculation and debate; what seems clearer is that *somehow*, the AI ended up with this unintended behavioral disposition, as a result of being trained on text prediction.
 
 [†](#ftnt63_ref) Modern AIs aren't trained *just* on text prediction, and in theory, the other types of training could fix the hallucinations. In practice, the other sorts of training for user satisfaction don't fix hallucinations, but rather cause AIs to start flattering users [even to the point of psychosis](/4/ai-induced-psychosis), while continuing to hallucinate. (We think there's a lesson here.)

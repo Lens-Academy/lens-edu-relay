@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1774265645306}@@TODO: Re-scrape --}{++{"author":"AI","timestamp":1774265645306}@@#### They won't.
+#### They won't.
 
 Fifteen years ago, skeptics used to object that nobody would be dumb enough to give an AI much freedom of action. Surely anyone building an advanced machine intelligence would keep it in a physical and digital box, only allowing it to affect the world by interacting with highly trained (and suitably paranoid) gatekeepers.
 
@@ -58,4 +58,4 @@ That's how we used to answer, anyway — in the days when AI was the stuff of th
 
 Later that year, [another paper](https://arxiv.org/html/2309.02926v3) "uncovered a total of 20 vulnerabilities in 11 LLM-integrated frameworks, comprising 19 [remote code execution] vulnerabilities and 1 arbitrary file read/write vulnerability."
 
-[4] *sees your email:* As reported by [CNN](https://www.cnn.com/2024/06/13/tech/apple-ai-data-openai-artificial-intelligence): "Apple Intelligence will have access to a wide range of your personal data, ++}from your written communications to photos and videos you've taken to a record of your calendar events. There doesn't seem to be a way to prevent Apple Intelligence from accessing this information, short of not using its features…"
+[4] *sees your email:* As reported by [CNN](https://www.cnn.com/2024/06/13/tech/apple-ai-data-openai-artificial-intelligence): "Apple Intelligence will have access to a wide range of your personal data, from your written communications to photos and videos you've taken to a record of your calendar events. There doesn't seem to be a way to prevent Apple Intelligence from accessing this information, short of not using its features…"

@@ -11,7 +11,7 @@ tags:
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1774266331976}@@TODO: Re-scrape--}{++{"author":"AI","timestamp":1774266331976}@@#### Passivity is in tension with usefulness.
+#### Passivity is in tension with usefulness.
 
 Could developers make their AIs *passive*? A screwdriver doesn't go on turning screws when you put it down. Similarly, we could imagine developers trying to make AIs that do exactly what you ask for and no more — that take no extra initiative and do no extra work.
 
@@ -25,7 +25,7 @@ Even if it were possible to make AIs that are both smart and passive, passivity 
 
 Because AIs are grown and not crafted, engineers can't just change an AI's behavior to make it more obedient or more tool-like. Nobody has that sort of control.
 
-Corporations certainly *try*. AI companies' attempts to improve their products' behavior have caused some embarrassing incidents. xAI's AI Grok started calling itself "[MechaHitler](https://www.npr.org/2025/07/09/nx-s1-5462609/grok-elon-musk-antisemitic-racist-content)" after its system prompt was adjusted with new instructions to "not shy away++} from {--{"author":"AI","timestamp":1774266331976}@@website--}making claims which are politically incorrect, as long as they are well substantiated." Google's Gemini AI started [producing pictures of racially diverse Nazis](https://www.theverge.com/2024/2/21/24079371/google-ai-gemini-generative-inaccurate-historical), likely in response to instructions to portray diversity.
+Corporations certainly *try*. AI companies' attempts to improve their products' behavior have caused some embarrassing incidents. xAI's AI Grok started calling itself "[MechaHitler](https://www.npr.org/2025/07/09/nx-s1-5462609/grok-elon-musk-antisemitic-racist-content)" after its system prompt was adjusted with new instructions to "not shy away from making claims which are politically incorrect, as long as they are well substantiated." Google's Gemini AI started [producing pictures of racially diverse Nazis](https://www.theverge.com/2024/2/21/24079371/google-ai-gemini-generative-inaccurate-historical), likely in response to instructions to portray diversity.
 
 The people building AIs don't have fine-grained control over how they behave. All they have is the ability to point AIs in directions like "Don't shy away from politically incorrect claims" or "Portray diversity" and hope that the result lands in the neighborhood they had in mind. These instructions have all sorts of tangled effects, often unintended.
 

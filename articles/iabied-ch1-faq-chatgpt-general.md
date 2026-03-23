@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1774265393107}@@TODO: Re-scrape--}{++{"author":"AI","timestamp":1774265393107}@@#### You could call it that if you'd like.
+#### You could call it that if you'd like.
 
 ChatGPT and its ilk are more general than the AIs that came before them. They can do a little math, and write some poetry and some code. ChatGPT can't always do these things *well* (as of August 2025), but it can do a whole lot of things.
 
@@ -44,7 +44,7 @@ Since there are several different things "human-level intelligence" could reason
 
 We *will* use terms like "smarter-than-human AI," "superhuman AI," or "superintelligence," which assume some kind of human reference point:
 
-- By "**smarter-than-human AI**" or "**superhuman AI**" (here and in the book), we mean AI that has whatever "spark of generality" separates humans++} from chimps *and* that is clearly overall better than the smartest individual humans at solving problems and figuring out what's true.
+- By "**smarter-than-human AI**" or "**superhuman AI**" (here and in the book), we mean AI that has whatever "spark of generality" separates humans from chimps *and* that is clearly overall better than the smartest individual humans at solving problems and figuring out what's true.
 
   Superhuman AI might only be *mildly* smarter than top humans, and there may be a few tasks where top humans still do better. But we'll assume, here and in the book, that "smarter-than-human AI" *at least* means that a fair comparison across a wide range of tricky tasks would have the AI do better than the most competent humans, across all sorts of difficult tasks.
 - By "**superintelligent AI**" or "**artificial superintelligence**" (ASI), meanwhile, we mean superhuman AI that *vastly* outstrips human intelligence. We'll assume that individual humans and real-world groups of humans are completely unable to compete with superintelligent AI in any practically important domain, for reasons discussed in Chapter 6.

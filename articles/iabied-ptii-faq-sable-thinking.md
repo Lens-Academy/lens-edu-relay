@@ -11,7 +11,7 @@ tags:
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1774266785313}@@TODO: Re-scrape --}{++{"author":"AI","timestamp":1774266785313}@@#### Our story showcases how AI is liable to have weird and unintended preferences.
+#### Our story showcases how AI is liable to have weird and unintended preferences.
 
 In Part I of the book, we go into depth about aspects of AI that we think are radically misunderstood and pertinent to the danger of superintelligence. Chapter 3 covers how increased intelligence goes hand in hand with AIs that take their own initiative and pursue their own ends. Chapter 4 covers how those preferences are going to be *weird*,and at least slightly different from what any human intended or asked for. Chapter 5 covers how those small differences will be enough that AIs would prefer a world without us in it, if possible.
 
@@ -19,7 +19,7 @@ In Part II of the book, we attempt to present those ideas concretely, to see how
 
 > Over the course of that training, Sable developed tendencies to pursue knowledge and skill. To always probe the boundaries of every problem. To never waste a scarce resource.
 
-This draws on the points we make in Chapter 3 about how training AIs to be effective trains them to develop drives and tendencies that might look ++}from the outside like "wanting."
+This draws on the points we make in Chapter 3 about how training AIs to be effective trains them to develop drives and tendencies that might look from the outside like "wanting."
 
 The following paragraph then says:
 

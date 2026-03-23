@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1774265691195}@@TODO: Re-scrape--}{++{"author":"AI","timestamp":1774265691195}@@As mentioned in the chapter, the fundamental difficulty researchers face in AI is this:
+As mentioned in the chapter, the fundamental difficulty researchers face in AI is this:
 
 You need to align an AI **Before** it is powerful enough and capable enough to kill you (or, separately, to resist being aligned). That alignment must then *carry over to different conditions,* the conditions **After** a superintelligence or set of superintelligences[\*](#ftnt250) could kill you if they preferred to.
 
@@ -52,7 +52,7 @@ An alignment mechanism that works on the AIs dumb enough to be fooled is an alig
 
 [§](#ftnt253_ref) For instance: Newtonian mechanics made all sorts of shockingly good empirical predictions. It was a simple, concise mathematical theory with huge explanatory power that blew every previous theory out of the water. But if you tried to use it to send payloads to distant planets at relativistic speeds, you'd still be screwed, because Newtonian mechanics does not account for relativistic effects.
 
-The only advance warnings you would get would be little hints about light seeming to move at the same speed in all directions at all times of year, and light bending around the sun during eclipses, and the perihelion of Mercury being a little off++} from {--{"author":"AI","timestamp":1774265691195}@@website--}what Newtonian mechanics predicted. Small anomalies, weighed against an enormous body of predictive success in a thousand empirical domains.
+The only advance warnings you would get would be little hints about light seeming to move at the same speed in all directions at all times of year, and light bending around the sun during eclipses, and the perihelion of Mercury being a little off from what Newtonian mechanics predicted. Small anomalies, weighed against an enormous body of predictive success in a thousand empirical domains.
 
 Imagine that, before Newtonian mechanics was discovered, strange aliens offered Earth a bargain, where we'd be given great wealth if we could complete an interstellar delivery, but if we failed then we'd be destroyed. Imagine scientists discovered Newtonian mechanics, arguing that surely *now* they should be allowed to send the delivery now. They'd have heaps and heaps of empirical evidence on their side, in accordance with new scientific knowledge that was in the middle of unlocking powerful new technologies.
 

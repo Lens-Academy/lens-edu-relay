@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1774265745956}@@TODO: Re-scrape --}{++{"author":"AI","timestamp":1774265745956}@@#### No.
+#### No.
 
 In a 2023 [briefing](https://x.com/martin_casado/status/1720517026538778657) to the U.S. President and in a later [advisory statement](https://committees.parliament.uk/writtenevidence/127070/html/) to the U.K. Parliament, the venture capital firm Andreessen Horowitz claimed that some unspecified "recent advancements" had "resolved" the problem of AIs' internal reasoning being opaque to researchers:
 
@@ -116,4 +116,4 @@ Similarly, in the case of AI, understanding the mechanics of transistors won't m
 
 [2] *spend a billion dollars:* We'd hoped that major philanthropic foundations would fund interpretability research because interpretability research could be done well by researchers with bureaucratically legible credentials. Funding interpretability wouldn't require the foundation to solve the impossibly hard bureaucratic problem of figuring out how to give money to weirdos.
 
-"Giving money to weirdos" is widely understood among the wise to be the fundamental challenge in bureaucratic funding of basic scientific research. Any time some well-meaning philanthropist tries to build a bureaucracy to fund daring scientific research, the real scientists by default lose the battle to new entrants. Somebody who has spent their life learning to grapple with weird problems can hardly compete with somebody who has spent their skill points on appearing exactly unusual enough for a bureaucrat to feel *courageous* about funding them without feeling *uncomfortable*. (Or such is our theory ++}from the outside, having engaged in the process and having been awarded more philanthropic funding than many — but far less than those same philanthropic funders spent helping create AI labs like OpenAI.)
+"Giving money to weirdos" is widely understood among the wise to be the fundamental challenge in bureaucratic funding of basic scientific research. Any time some well-meaning philanthropist tries to build a bureaucracy to fund daring scientific research, the real scientists by default lose the battle to new entrants. Somebody who has spent their life learning to grapple with weird problems can hardly compete with somebody who has spent their skill points on appearing exactly unusual enough for a bureaucrat to feel *courageous* about funding them without feeling *uncomfortable*. (Or such is our theory from the outside, having engaged in the process and having been awarded more philanthropic funding than many — but far less than those same philanthropic funders spent helping create AI labs like OpenAI.)

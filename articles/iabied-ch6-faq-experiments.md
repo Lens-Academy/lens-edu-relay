@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1774266179711}@@TODO: Re-scrape --}{++{"author":"AI","timestamp":1774266179711}@@#### Intelligence lets you learn more from experiments and run faster, more informative, more parallelized experiments.
+#### Intelligence lets you learn more from experiments and run faster, more informative, more parallelized experiments.
 
 A civilization of motivated minds that think a thousand times faster than humanity wouldn't necessarily be able to produce technological outputs a thousand times faster than humans do.
 
@@ -49,6 +49,6 @@ Additionally, there were faster methods of testing the theory — such as buildi
 
 When humanity finally got around to building GPS satellites, the satellites were programmed with two different clocks — one that used Einstein's theory, and one that didn't. This was a strange choice, given how well-confirmed Einstein's theory was at this point. But this choice underscores the point that in many cases, a civilization can just *take both branches* when it's uncertain about a theory. And it underscores that when experiments and failures are expensive (as in the case of satellites), it's often much cheaper to just build things in ways that don't rely too much on any particular theory.
 
-And as we point out in the book, Einstein (when compared to Newton and Kepler and Brahe before him) is also an example of how smart people can deduce much more than you might expect ++}from very limited observations. Einstein is impressive not just for figuring out the theory of relativity, but for doing it from*so little data.*
+And as we point out in the book, Einstein (when compared to Newton and Kepler and Brahe before him) is also an example of how smart people can deduce much more than you might expect from very limited observations. Einstein is impressive not just for figuring out the theory of relativity, but for doing it from*so little data.*
 
 So while the need for experimental data may indeed constrain how quickly AI can take various actions, this constraint is likely to be a lot weaker than it may intuitively seem.

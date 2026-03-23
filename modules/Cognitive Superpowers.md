@@ -6,7 +6,7 @@ discussion:
 tags:
   - module
 ---
-# {--{"author":"AI","timestamp":1773948193454}@@Page:--}Lens: Welcome
+# Lens: Welcome
 id:: 1e8bd017-944e-442f-b12c-5a168b0244f0
 #### Text
 content::

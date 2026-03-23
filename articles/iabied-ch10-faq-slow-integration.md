@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1774265796106}@@TODO: Re-scrape --}#### That scenario still ends in catastrophe.
+#### That scenario still ends in catastrophe.
 
 If AI passes some unknown [critical threshold](/1/will-ai-cross-critical-thresholds-and-take-off) and shoots up in intelligence very quickly, that makes alignment especially hard. But speed is not where the central difficulty comes from. The central difficulty lies in the difference between [Before and After](/10/a-closer-look-at-before-and-after).
 
