@@ -1,14 +1,11 @@
 ---
 id: bc7f7e53-0125-4e5b-af01-88c1fbcdb276
-{++{"author":"AI","timestamp":1773996678499}@@title: Meditations on Moloch
-++}tldr: Even if every AI researcher wants a safe outcome, competitive pressure can push everyone toward outcomes nobody wants. This essay explores "Moloch" — a name for the traps and perverse incentives that drive groups to collectively destroy what they individually value.
+title: Meditations on Moloch
+tldr: Even if every AI researcher wants a safe outcome, competitive pressure can push everyone toward outcomes nobody wants. This essay explores "Moloch" — a name for the traps and perverse incentives that drive groups to collectively destroy what they individually value.
 tags :
   - lens
 ---
-{--{"author":"AI","timestamp":1773947088630}@@### Article: Meditations on Moloch - Scott Alexander
-source:: [[../articles/alexander-meditations-on-moloch]]
-
---}#### Text
+#### Text
 content::
 The failure of alignment is not always a result of technical incompetence: often, it is a consequence of coordination failure. This essay explores the concept of "Moloch," a personification of multipolar traps and perverse incentives that drive agents toward outcomes no one desires. In the context of AI, Moloch represents the competitive pressure that forces companies and nations to accelerate development while cutting corners on safety. Even if every individual researcher wants a safe outcome, the system as a whole can be optimised for destruction. This material examines why technical safety alone is insufficient if we cannot solve the game-theoretic forces that govern our world. 
 

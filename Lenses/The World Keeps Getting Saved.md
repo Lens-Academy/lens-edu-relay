@@ -1,7 +1,7 @@
 ---
 id: 9a7675b9-5a20-4104-98dd-68c28926e7a4
-{++{"author":"AI","timestamp":1773996724386}@@title: The World Keeps Getting Saved
-++}tags:
+title: The World Keeps Getting Saved
+tags:
   - lens
 ---
 #### Text
