@@ -71,6 +71,7 @@ Let's see how that looks!
 
 # Lens: IABIED - QA - Why Write This Book
 optional:: true
+hide:: true
 source:: ![[../Lenses/IABIED - QA - Why Write This Book]]
 
 # Lens: IABIED - QA - Could ChatGPT Kill Us
