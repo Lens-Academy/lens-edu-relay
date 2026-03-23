@@ -1,6 +1,7 @@
 ---
 id: b5559f42-dbf6-4385-8117-69783eee35e1
-title: "Isn't it important to race ahead because of 'hardware overhang'?"
+title: "Isn't it important to race ahead because of 'hardware overhang'?"{++{"author":"AI","timestamp":1774297781637}@@
+tldr: "That would be suicidal, because we're too far from an alignment solution."++}
 tags:
   - lens
   - IABIED

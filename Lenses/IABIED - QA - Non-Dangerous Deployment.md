@@ -1,6 +1,7 @@
 ---
 id: 7fe9ef5e-4f19-4cee-afe9-8856d317d46e
-title: "What if AI companies only deploy their AIs for non-dangerous actions?"
+title: "What if AI companies only deploy their AIs for non-dangerous actions?"{++{"author":"AI","timestamp":1774297777743}@@
+tldr: "Actions that seem benign can still require dangerous capabilities."++}
 tags:
   - lens
   - IABIED

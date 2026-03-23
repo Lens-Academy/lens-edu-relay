@@ -1,6 +1,7 @@
 ---
 id: 27b0be33-0b86-496a-8be5-c1c91952fbf0
-title: "How would stopping everyone be possible without spyware?"
+title: "How would stopping everyone be possible without spyware?"{++{"author":"AI","timestamp":1774297782914}@@
+tldr: "By acting soon."++}
 tags:
   - lens
   - IABIED

@@ -1,6 +1,7 @@
 ---
 id: 94abec2a-ae2f-4482-b575-e6c2a32737cf
-title: "Why does gradient descent matter?"
+title: "Why does gradient descent matter?"{++{"author":"AI","timestamp":1774297778066}@@
+tldr: "It's important for understanding how engineers can and cannot shape modern AIs."++}
 tags:
   - lens
   - IABIED
