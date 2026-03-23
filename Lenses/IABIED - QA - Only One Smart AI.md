@@ -1,6 +1,7 @@
 ---
 id: c296d8fd-45ef-47b2-94c7-7996a59f4ad7
-title: "Why did you tell a story with only one AI as smart as Sable?"
+title: "Why did you tell a story with only one AI as smart as Sable?"{++{"author":"AI","timestamp":1774297829281}@@
+tldr: "In part because it's realistic."++}
 tags:
   - lens
   - IABIED

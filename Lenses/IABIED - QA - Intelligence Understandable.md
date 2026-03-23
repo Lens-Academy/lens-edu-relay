@@ -1,6 +1,7 @@
 ---
 id: c4afa01d-727e-49d4-b714-d0295ec2fc71
-title: "Is intelligence understandable in principle?"
+title: "Is intelligence understandable in principle?"{++{"author":"AI","timestamp":1774297827434}@@
+tldr: "Probably."++}
 tags:
   - lens
   - IABIED

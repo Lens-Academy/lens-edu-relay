@@ -1,6 +1,7 @@
 ---
 id: 7baab38c-d1b4-4a88-85eb-dd7952de417e
-title: "Is 'human-level intelligence' a meaningful concept?"
+title: "Is 'human-level intelligence' a meaningful concept?"{++{"author":"AI","timestamp":1774297821484}@@
+tldr: "Yes, in many cases."++}
 tags:
   - lens
   - IABIED
