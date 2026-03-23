@@ -1,6 +1,7 @@
 ---
 id: 85666bdb-67ba-49b1-a880-5cd3f07f5d85
-title: Appreciating the Power of Intelligence
+title: Appreciating the Power of Intelligence{++{"author":"AI","timestamp":1774297834686}@@
+tldr: 'Hollywood "Intelligence"'++}
 tags:
   - lens
   - IABIED

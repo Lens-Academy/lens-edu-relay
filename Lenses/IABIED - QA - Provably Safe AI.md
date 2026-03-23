@@ -1,6 +1,7 @@
 ---
 id: 49ba7dcf-3ccc-4b5c-9adc-4c36895df754
-title: "Are you saying we need provably safe AI?"
+title: "Are you saying we need provably safe AI?"{++{"author":"AI","timestamp":1774297839323}@@
+tldr: "No."++}
 tags:
   - lens
   - IABIED

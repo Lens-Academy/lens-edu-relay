@@ -1,6 +1,7 @@
 ---
 id: 0a5f01f5-5739-4fa7-aa2a-318bdc7841f1
-title: "Orthogonality: AIs Can Have (Almost) Any Goal"
+title: "Orthogonality: AIs Can Have (Almost) Any Goal"{++{"author":"AI","timestamp":1774297832388}@@
+tldr: "A Dialogue on Correct Nests, Continued"++}
 tags:
   - lens
   - IABIED

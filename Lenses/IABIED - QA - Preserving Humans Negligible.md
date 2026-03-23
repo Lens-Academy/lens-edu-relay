@@ -1,6 +1,7 @@
 ---
 id: ab851733-57a3-4956-8ffe-0401ab6edc62
-title: "To a powerful AI, wouldn't preserving humans be a negligible expense?"
+title: "To a powerful AI, wouldn't preserving humans be a negligible expense?"{++{"author":"AI","timestamp":1774297837321}@@
+tldr: "There are many negligible expenses, and it would need a reason to pay ours."++}
 tags:
   - lens
   - IABIED
