@@ -1,6 +1,7 @@
 ---
 id: d7e3a1f2-8b4c-4e9a-bf61-3c2d5f8e7a90
-title: "Deep Differences Between AIs and Evolved Species"
+title: "Deep Differences Between AIs and Evolved Species"{++{"author":"AI","timestamp":1774297669065}@@
+tldr: "Comparing Natural Selection and Gradient Descent"++}
 tags:
   - lens
   - IABIED
