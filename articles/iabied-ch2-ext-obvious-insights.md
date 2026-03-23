@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1774265645969}@@TODO: Re-scrape --}{++{"author":"AI","timestamp":1774265645969}@@It's hard to come across insights in AI, even when they look simple and obvious in retrospect.
+It's hard to come across insights in AI, even when they look simple and obvious in retrospect.
 
 This is important to understand because doing AI *right* will probably require a lot of insights. No matter how simple they might sound in retrospect, such insights can sometimes take decades of toil to find.
 
@@ -32,7 +32,7 @@ This list of operations is no mistake. Multiplication, addition, and "replace it
 
 The formula for "replace it with zero if it's negative" is  and is called a rectified linear unit (ReLU).[\*](#ftnt67) The formula that people originally tried to use was the "sigmoid" formula:
 
-There were good reasons for guessing that the more complicated "sigmoid" formula would work! From a shallow perspective, it makes the outputs range sensibly ++}from {--{"author":"AI","timestamp":1774265645969}@@website--}{++{"author":"AI","timestamp":1774265645969}@@0 to 1 in a smooth way; and from a deeper perspective, it has some useful connections to probability theory. Even some modern deep neural networks use something like a sigmoid on some steps. But if you are just going to use one nonlinearity, a ReLU works much better.
+There were good reasons for guessing that the more complicated "sigmoid" formula would work! From a shallow perspective, it makes the outputs range sensibly from 0 to 1 in a smooth way; and from a deeper perspective, it has some useful connections to probability theory. Even some modern deep neural networks use something like a sigmoid on some steps. But if you are just going to use one nonlinearity, a ReLU works much better.
 
 The problem with the sigmoid formula is that it tends to make a lot of the outputs have very tiny gradients. And if most of the gradients are very small, gradient descent stops working…at least, unless you know the modern trick of taking larger gradient steps when tiny gradients always point in the same direction. (To our knowledge, this trick first appeared in the literature in 2012, when it was proposed by Geoffrey Hinton.)
 
@@ -48,4 +48,4 @@ It is hopefully obvious to everyone who is not a mad inventor that, if these cla
 
 But that's a topic we'll take up again in Part III of the book, after we complete the argument that artificial superintelligence would have the means, motive, and opportunity to extinguish humanity. For now, we turn to the topic of how "obvious" ideas like the ones we've been discussing — and a few ideas that are quite a bit less obvious — come together to make an actual working AI model.
 
-[\*](#ftnt67_ref) Newer architectures will use more sophisticated functions. For instance, the Llama 3.1 architecture [described below](/2/a-full-description-of-an-llm) uses the ["SwiGLU" function](https://arxiv.org/pdf/2002.05202), which has a complicated formula that we won't reproduce here.++}
+[\*](#ftnt67_ref) Newer architectures will use more sophisticated functions. For instance, the Llama 3.1 architecture [described below](/2/a-full-description-of-an-llm) uses the ["SwiGLU" function](https://arxiv.org/pdf/2002.05202), which has a complicated formula that we won't reproduce here.

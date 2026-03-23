@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1774265956131}@@TODO: Re-scrape from website--}{++{"author":"AI","timestamp":1774265956131}@@#### Probably.
+#### Probably.
 
 Back before the days of biochemistry, you could have asked, "Is it even possible to understand this vital force that animates flesh? Even if it *is* made of comprehensible parts, why would you believe that our tiny little minds could comprehend what's really going on in there?"
 
@@ -22,4 +22,4 @@ But we can't answer questions much more complex than that. Nobody knows exactly 
 
 For more on this topic, see the extended discussion titled "[Intelligence Isn't Ineffable](/2/intelligence-isnt-ineffable)."
 
-[\*](#ftnt49_ref) For that matter, when small neural networks malfunctioned in the 1980s, researchers would sometimes print out the entire model's weights on paper and study them until they figured out that (for example) the model was [getting stuck in a local equilibrium](https://x.com/layer07_yuxi/status/1956374217517088842?t=97elAlXBwpSG-fQirRcn4Q). Back when AIs were small enough to be understood, nobody argued that there was nothing there to understand.++}
+[\*](#ftnt49_ref) For that matter, when small neural networks malfunctioned in the 1980s, researchers would sometimes print out the entire model's weights on paper and study them until they figured out that (for example) the model was [getting stuck in a local equilibrium](https://x.com/layer07_yuxi/status/1956374217517088842?t=97elAlXBwpSG-fQirRcn4Q). Back when AIs were small enough to be understood, nobody argued that there was nothing there to understand.

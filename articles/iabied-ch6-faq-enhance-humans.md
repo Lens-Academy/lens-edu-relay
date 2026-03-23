@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1774265705744}@@TODO: Re-scrape--}{++{"author":"AI","timestamp":1774265705744}@@#### No.
+#### No.
 
 While we are in favor of human intelligence augmentation, we don't think this technology offers a realistic chance of keeping up with unrestrained AI progress. Human augmentation technology is still in its infancy, and is much more constrained than AI as a method to produce ever-greater intelligence. Likewise, brain-computer interfaces won't realistically let humans keep pace with AIs.
 
@@ -24,10 +24,10 @@ We're not saying that this can't be done;we're saying that brain-computer interf
 
 Similar issues arise when it comes to outputs. It's hard to beat keyboards and mice and joysticks and steering wheels. It's not *impossible.* It's just that technology today (e.g., hooking wires into a paralyzed person's head in order to let them type and use a mouse), wonderful as it is, isn't very far along the pathway that would allow humans to go toe to toe with (even relatively weak) superintelligences. It's a good path to pursue, but it's not a *competitive* path to pursue.
 
-Indeed, it's not clear that brain-computer interfaces allow *any* hope of humans competing with superintelligences. What does it matter if a human can download experiences++} from {--{"author":"AI","timestamp":1774265705744}@@website--}{++{"author":"AI","timestamp":1774265705744}@@the internet and control ten computers at once with their mind, if an AI can do the same thing — but ten thousand times faster, while controlling a million computers at once? We think the whole project of trying to get humans to keep up with AIs is doomed.
+Indeed, it's not clear that brain-computer interfaces allow *any* hope of humans competing with superintelligences. What does it matter if a human can download experiences from the internet and control ten computers at once with their mind, if an AI can do the same thing — but ten thousand times faster, while controlling a million computers at once? We think the whole project of trying to get humans to keep up with AIs is doomed.
 
 #### That said, humanity should be augmenting humans.
 
 We don't think augmented humans would ever be able to go toe to toe with superintelligences, but smarter humans might nevertheless be able to help humanity find a way out of this mess! We mention this possibility in Chapter 13 and discuss it [further](/13/why-would-making-humans-smarter-help) in the associated online resources.
 
-[\*](#ftnt224_ref) And even if scientists *did* start to decode the human data formats, would half-understood versions of those data formats inspire AI researchers before the biology researchers could finish the job? If so, that would be an issue. Human augmentation seems to us like a wonderful area of research, but it is no substitute for putting a halt to AI R&D, as we'll discuss in Part III of the book.++}
+[\*](#ftnt224_ref) And even if scientists *did* start to decode the human data formats, would half-understood versions of those data formats inspire AI researchers before the biology researchers could finish the job? If so, that would be an issue. Human augmentation seems to us like a wonderful area of research, but it is no substitute for putting a halt to AI R&D, as we'll discuss in Part III of the book.

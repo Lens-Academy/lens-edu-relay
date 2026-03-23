@@ -11,7 +11,7 @@ tags:
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1774265637614}@@TODO: Re-scrape--}{++{"author":"AI","timestamp":1774265637614}@@Seeing the world from a truly alien perspective is genuinely difficult. As a case study in the difficulty, we can cite Jürgen Schmidhuber, a prominent machine learning scientist. Schmidhuber has played an important role in the history of the field, helping invent recurrent neural networks and laying some of the groundwork for the deep learning revolution.
+Seeing the world from a truly alien perspective is genuinely difficult. As a case study in the difficulty, we can cite Jürgen Schmidhuber, a prominent machine learning scientist. Schmidhuber has played an important role in the history of the field, helping invent recurrent neural networks and laying some of the groundwork for the deep learning revolution.
 
 In various [papers](https://arxiv.org/abs/0812.4360) and [interviews](https://www.youtube.com/watch?v=fZYUqICYCAk), Schmidhuber made the case that AI will be, by default, fascinated by humanity and protective of humans.
 
@@ -57,7 +57,7 @@ Evolutionary biologists solved this riddle theoretically, but that didn't stop t
 
 Can you guess how those beetles managed to keep their population growth down? Was it by finding a way to live in beautiful harmony with nature? Was it by learning to abstain from greedily grabbing up too much food?
 
-No. There was high variance, but no beetles abstained++} from {--{"author":"AI","timestamp":1774265637614}@@website--}{++{"author":"AI","timestamp":1774265637614}@@food. Some beetles got worse at laying eggs. Some beetles spent a longer time in childhood. And some beetles became cannibals with a special preference for feasting on larvae (insect infants).
+No. There was high variance, but no beetles abstained from food. Some beetles got worse at laying eggs. Some beetles spent a longer time in childhood. And some beetles became cannibals with a special preference for feasting on larvae (insect infants).
 
 "Create cannibals with a sweet tooth for infants" is, thankfully, not the way a *human* would solve the problem of overpopulation, if we needed to solve it.
 
@@ -73,4 +73,4 @@ The hypothesis that non-human optimizers produce humane results has been tested,
 
 [1] *reveal that seed:* I (Yudkowsky) presented this counterargument to Schmidhuber in a live Q&A after Schmidhuber's [talk on the subject](https://vimeo.com/7441291) at the 2009 Singularity Summit, a conference hosted by MIRI (which was then called the Singularity Institute).
 
-[2] *genetic selection pressures:* The topic of individual selection versus group selection used to be a fierce debate. A consensus eventually emerged that substantial group selection pressures occur rarely at best. George C. Williams's book *[Adaptation and Natural Selection](https://books.google.com/books?hl=en&lr=&id=gkBhDwAAQBAJ&oi=fnd&pg=PP1&ots=Ch8ulE8NzS&sig=mxIwoqfSWZ0ScvIRh7dzzrJatJ4#v=onepage&q&f=false)*was widely considered clarifying, on this issue.++}
+[2] *genetic selection pressures:* The topic of individual selection versus group selection used to be a fierce debate. A consensus eventually emerged that substantial group selection pressures occur rarely at best. George C. Williams's book *[Adaptation and Natural Selection](https://books.google.com/books?hl=en&lr=&id=gkBhDwAAQBAJ&oi=fnd&pg=PP1&ots=Ch8ulE8NzS&sig=mxIwoqfSWZ0ScvIRh7dzzrJatJ4#v=onepage&q&f=false)*was widely considered clarifying, on this issue.

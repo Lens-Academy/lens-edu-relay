@@ -11,7 +11,7 @@ tags:
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1774266811961}@@TODO: Re-scrape from website--}{++{"author":"AI","timestamp":1774266811961}@@#### We can hope so.
+#### We can hope so.
 
 Extra time can be significant, but only if humanity uses it to change its course.
 
@@ -33,4 +33,4 @@ Hardening the entire world against the most obvious and foreseeable AI attack ve
 
 The window of time when we can stop a rogue superintelligence, realistically, is before it gets created.
 
-[\*](#ftnt247_ref) Some such regulations exist, but as of mid-2025, they are not comprehensive and are still in their infancy. For some discussion, see [the PennState framework](https://researchsupport.psu.edu/orp/ibc/framework-for-nucleic-acid-synthesis/).++}
+[\*](#ftnt247_ref) Some such regulations exist, but as of mid-2025, they are not comprehensive and are still in their infancy. For some discussion, see [the PennState framework](https://researchsupport.psu.edu/orp/ibc/framework-for-nucleic-acid-synthesis/).

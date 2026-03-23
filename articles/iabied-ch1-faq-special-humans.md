@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1774265603527}@@TODO: Re-scrape from website--}{++{"author":"AI","timestamp":1774265603527}@@#### It seems unlikely, and not especially relevant.
+#### It seems unlikely, and not especially relevant.
 
 Human brains and bodies are made of parts, which we can study and come to understand. There is a lot we don't understand about the brain, but that doesn't mean the parts we don't understand run on magic, and that humans could never build anything similar. It just means that brains are enormously *complicated* machines. The human brain has hundreds of trillions of synapses, and we have a long way to go in understanding all of the important high-level principles at work.
 
@@ -26,4 +26,4 @@ See also, in the online resources to come:
 - Chapter 3: "[Anthropomorphism and Mechanomorphism](/3/anthropomorphism-and-mechanomorphism)"
 - Chapter 5: "[Effectiveness, Consciousness, and AI Welfare](/5/effectiveness-consciousness-and-ai-welfare)"
 
-[\*](#ftnt24_ref) For more on this idea, see the extended discussion titled "[The Same Work Can Be Done in Many Different Ways](/1/the-same-work-can-be-done-in-many-different-ways)."++}
+[\*](#ftnt24_ref) For more on this idea, see the extended discussion titled "[The Same Work Can Be Done in Many Different Ways](/1/the-same-work-can-be-done-in-many-different-ways)."

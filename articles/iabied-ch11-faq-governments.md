@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1774265822214}@@TODO: Re-scrape from website--}{++{"author":"AI","timestamp":1774265822214}@@#### It depends on how (and how soon) they get involved.
+#### It depends on how (and how soon) they get involved.
 
 When we visit Washington, DC, we often meet policymakers who think that the AI companies have their AIs under control. At the same time, we regularly see folks in the AI industry who say that regulation will fix the problem. A particularly egregious example we observed was the CEO of Google [saying](https://youtu.be/9V6tWC4CdFQ?feature=shared&t=2685) that the "underlying risk [of humanity being wiped out] is actually pretty high," but arguing that the higher the risk gets, the more likely that humanity will rally to prevent catastrophe.
 
@@ -22,4 +22,4 @@ Just about everyone in power seems to imagine that somebody else is going to sol
 
 For more discussion of how the world at large is reacting (and how decisionmakers often fail to react appropriately before disasters), see Chapter 12. As of August 2025, governments have yet to muster anything approaching a serious response to this issue. And there's always a risk that government officials will fail to understand the challenge entirely, and (e.g.) treat AI as a normal technology that should not be strangled by overregulation.
 
-For more on what government interventions have a real hope of averting an AI catastrophe, read on to Chapter 12. The online resources for Chapter 12 also include a [discussion](/12/why-not-use-international-cooperation-to-build-ai-safely-rather-than-to-shut-it-all-down) on why an international collaboration probably wouldn't cut it.++}
+For more on what government interventions have a real hope of averting an AI catastrophe, read on to Chapter 12. The online resources for Chapter 12 also include a [discussion](/12/why-not-use-international-cooperation-to-build-ai-safely-rather-than-to-shut-it-all-down) on why an international collaboration probably wouldn't cut it.

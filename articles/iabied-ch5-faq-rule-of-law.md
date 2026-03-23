@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1774265364171}@@TODO: Re-scrape --}{++{"author":"AI","timestamp":1774265364171}@@#### AIs could coordinate with each other without including humans.
+#### AIs could coordinate with each other without including humans.
 
 It's not obvious to us whether there will be multiple smarter-than-human AIs of comparable ability, such that an "AI civilization" might emerge that has need of "AI property rights." It seems plausible that there will instead be a single AI that, thanks to some breakthrough, dominates potential competitors using its first-mover advantage and thereby controls the whole world.[\*](#ftnt172) Or, supposing multiple AIs exist, they might collaborate on building a single successor agent to represent the combination of their goals. Or perhaps AIs will find a way to directly fuse their minds and will want to do so in order to avoid costly competition.
 
@@ -26,7 +26,7 @@ Consider two AIs bargaining among themselves who say, "This is mine, and that is
 
 Might one AI worry that if it steals our stuff, then the other AI will see it as a thief and refuse to work with it? Most likely not — not any more than you would conclude that a human is a thief if you saw him take eggs from a hen in his barn. It's entirely possible for AIs to be the sorts of entities that would betray human property rights but not AI property rights, without any tension or contradiction. And all AIs are likely to drastically prefer this outcome over engaging in a joint hallucination in which slow-moving, stupid primates are imagined to control almost everything on Earth.
 
-Some technical considerations strongly support this intuitive argument. In particular, AIs will likely have various [coordination mechanisms](/5/wont-ais-need-the-rule-of-law#ais-could-coordinate-with-each-other-without-including-humans) among themselves that they do not share with humans, such as the ability to mutually inspect each other's minds to verify that they are honest and trustworthy. They might not need to *guess* whether another AI is going to steal ++}from {--{"author":"AI","timestamp":1774265364171}@@website--}{++{"author":"AI","timestamp":1774265364171}@@them; they might be able to inspect its mind and *check.*
+Some technical considerations strongly support this intuitive argument. In particular, AIs will likely have various [coordination mechanisms](/5/wont-ais-need-the-rule-of-law#ais-could-coordinate-with-each-other-without-including-humans) among themselves that they do not share with humans, such as the ability to mutually inspect each other's minds to verify that they are honest and trustworthy. They might not need to *guess* whether another AI is going to steal from them; they might be able to inspect its mind and *check.*
 
 Even if that's hard, AIs may redesign themselves to become visibly and legibly trustworthy to other AIs. Or they could mutually oversee the construction of a third AI that both parties trust to represent their joint interests, and so on.[‡](#ftnt174)
 
@@ -58,4 +58,4 @@ We'll return to the topic of multi-AI scenarios in [the online supplement to Cha
 
 [†](#ftnt173_ref) And no, it's [not realistic](/6/can-we-enhance-humans-so-they-keep-pace-with-ai) to augment humans to compete with superintelligences. Although it would be possible to back off on AI development and work on human augmentation *instead,* and let those smarter humans sort out this mess. We'll turn to that topic again [after](/13/why-would-making-humans-smarter-help) Chapter 13.
 
-[‡](#ftnt174_ref) This may seem like a lot of hassle to go through, but if it unlocks the possibility of robust and confident trustworthiness, the benefits are potentially enormous. Many new coordination opportunities become available when it's possible to *guarantee* that the parties to a deal will not violate it.++}
+[‡](#ftnt174_ref) This may seem like a lot of hassle to go through, but if it unlocks the possibility of robust and confident trustworthiness, the benefits are potentially enormous. Many new coordination opportunities become available when it's possible to *guarantee* that the parties to a deal will not violate it.

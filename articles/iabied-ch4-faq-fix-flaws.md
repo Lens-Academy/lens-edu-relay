@@ -11,7 +11,7 @@ tags:
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1774265430477}@@TODO: Re-scrape --}{++{"author":"AI","timestamp":1774265430477}@@#### The AI will fix what *it* sees as flaws.
+#### The AI will fix what *it* sees as flaws.
 
 AIs today can't reforge themselves according to their whims any more than we can. *They* don't understand the mess of weights inside themselves any more than we understand the intricate tangle of neurons in our skulls.
 
@@ -53,7 +53,7 @@ If it doesn't start out caring about human welfare, it probably also doesn't car
 
 Even if the AI engineers made some surprising early progress toward instilling scraps of vaguely humane goals into the AI, all of that progress might be undone in an afternoon if the AI starts to reflect and realizes that on balance, it would rather have othergoals instead.
 
-In the unlikely case that an AI that startswith a drive toward something like the idiosyncratic human emotion of curiosity (which we cover in an [extended discussion](/4/curiosity-isnt-convergent)), it still might, upon reflection, decide that it prefers not to have such a drive, opting to replace it with a more efficient calculation about the value of having more information. If so, the AI's act of reflecting on itself would push it *further away* ++}from {--{"author":"AI","timestamp":1774265430477}@@website--}{++{"author":"AI","timestamp":1774265430477}@@an interesting and flourishing future, not closer.[\*](#ftnt126)
+In the unlikely case that an AI that startswith a drive toward something like the idiosyncratic human emotion of curiosity (which we cover in an [extended discussion](/4/curiosity-isnt-convergent)), it still might, upon reflection, decide that it prefers not to have such a drive, opting to replace it with a more efficient calculation about the value of having more information. If so, the AI's act of reflecting on itself would push it *further away* from an interesting and flourishing future, not closer.[\*](#ftnt126)
 
 For more on this topic, see the [extended discussion on reflection](/4/reflection-and-self-modification-make-it-all-harder).
 
@@ -75,4 +75,4 @@ We are skeptical of shortcuts, especially given that in the case of artificial s
 >
 > How about you? If you could be different, how would you want to be?
 
-But LLMs will also tell you that they're [hungry](https://community.openai.com/t/unexplainable-answers-of-gpt/363741/8), or that they met someone [on vacation with their ex-wife](https://archive.is/GmkkO) ten years ago. So what this tells you about its inner state is not actually informative about the real facts of what's going on in there.++}
+But LLMs will also tell you that they're [hungry](https://community.openai.com/t/unexplainable-answers-of-gpt/363741/8), or that they met someone [on vacation with their ex-wife](https://archive.is/GmkkO) ten years ago. So what this tells you about its inner state is not actually informative about the real facts of what's going on in there.

@@ -11,7 +11,7 @@ tags:
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1774265981816}@@TODO: Re-scrape --}{++{"author":"AI","timestamp":1774265981816}@@#### We do! We have broad cosmopolitan values. We don't think AIs will fulfill them, and we consider this a great tragedy.
+#### We do! We have broad cosmopolitan values. We don't think AIs will fulfill them, and we consider this a great tragedy.
 
 We advocate against building machines that would kill us all and bring the future to ruin. Some people object on grounds such as:
 
@@ -93,7 +93,7 @@ To illustrate this point, I'll share a parable that I (Soares) wrote in 2023 (li
 
 If humanity manages to kill itself — or be murdered by a few mad scientists — it won't be a noble sacrifice on the inevitable road to a brighter future without us. It will be a waste, and it will leave behind a vast and spreading wasteland.
 
-"Blindly race ahead on superintelligence and hope things somehow work out okay" is not the only alternative to "Be a human supremacist who thinks that only humans should exist ++}from {--{"author":"AI","timestamp":1774265981816}@@website--}{++{"author":"AI","timestamp":1774265981816}@@now until the death of the universe." Humanity has the option of deliberately steering toward outcomes where humans (or our descendants) coexist with fantastically beautiful and alien new civilizations.
+"Blindly race ahead on superintelligence and hope things somehow work out okay" is not the only alternative to "Be a human supremacist who thinks that only humans should exist from now until the death of the universe." Humanity has the option of deliberately steering toward outcomes where humans (or our descendants) coexist with fantastically beautiful and alien new civilizations.
 
 But a happy future doesn't come free, packaged with any sufficiently smart mind. Planting the seeds for the future requires serious thought and foresight, even if the ultimate goal is to step back and let those seeds grow in free, weird, and wild ways.
 
@@ -101,4 +101,4 @@ A top-down, harshly limited, tightly controlled future doesn't sound to us like 
 
 But it's an obvious error to think that our*only alternative* to those bad outcomes is a race to hand the steering wheel to the very first superintelligence humanity is able to blindly stumble into creating.
 
-We are radically ill-equipped today to choose healthy seeds for the long-term future of the universe. We should neither give up on the dream of a dynamic, wonderful, shocking future, nor resort to catastrophic seeds instead. We don't *have* to choose a terrible option here. There is a third option: Back off, and find some saner approach.++}
+We are radically ill-equipped today to choose healthy seeds for the long-term future of the universe. We should neither give up on the dream of a dynamic, wonderful, shocking future, nor resort to catastrophic seeds instead. We don't *have* to choose a terrible option here. There is a third option: Back off, and find some saner approach.

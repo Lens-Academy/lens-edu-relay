@@ -11,9 +11,9 @@ tags:
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1774265788695}@@TODO: Re-scrape--}{++{"author":"AI","timestamp":1774265788695}@@#### The human preference for ecological preservation looks like another weird contingent drive.
+#### The human preference for ecological preservation looks like another weird contingent drive.
 
-One hope we've heard is that AIs might keep humans around in much the way humans try to preserve nature. Conservationists fight to keep species++} from {--{"author":"AI","timestamp":1774265788695}@@website--}{++{"author":"AI","timestamp":1774265788695}@@going extinct. Being smarter and more capable, AIs should have an easy time protecting humans — that is, assuming AIs *want* to keep humans around.
+One hope we've heard is that AIs might keep humans around in much the way humans try to preserve nature. Conservationists fight to keep species from going extinct. Being smarter and more capable, AIs should have an easy time protecting humans — that is, assuming AIs *want* to keep humans around.
 
 We expect this to fail primarily because we expect the AI to wind up with its own strange, complicated desires, rather than with recognizably humanlike desires. For more on this point, refer back to Chapter 4 (and some of the associated [extended](/4/curiosity-isnt-convergent) [discussions](/4/human-values-are-contingent)). For some early empirical evidence on this point, see the discussion on [AI psychosis](/4/ai-induced-psychosis).
 
@@ -41,4 +41,4 @@ Perhaps, just as according to humanity's preferences some animal habits are abho
 
 To make an AI that actually lets people lead flourishing lives, we'd probably need to make one that actually cares about that *in particular.* We'd have to figure out how to make AIs care about us at least a little, and that [doesn't come free](/5/wont-ais-care-at-least-a-little-about-humans).
 
-[\*](#ftnt180_ref) For what seem to us to be realistic hopes, see the last two chapters of the book.++}
+[\*](#ftnt180_ref) For what seem to us to be realistic hopes, see the last two chapters of the book.

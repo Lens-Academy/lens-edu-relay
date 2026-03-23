@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1774265829777}@@TODO: Re-scrape --}{++{"author":"AI","timestamp":1774265829777}@@#### There's a difference between the machinery it takes to be one person and the machinery it takes to predict many individuals.
+#### There's a difference between the machinery it takes to be one person and the machinery it takes to predict many individuals.
 
 AIs like ChatGPT are trained to accurately predict their training data. And their training data is made mostly from human text, such as Wikipedia pages and chat room conversations. (This part of the training process is called "pre-training," which is what the "P" in "GPT" stands for.) Early LLMs like GPT-2 were trained *exclusively* for prediction in this way, while more recent AIs are also trained on things like accuracy when solving (computer-generated) math problems, and giving good responses according to another AI model, and various other goals.
 
@@ -52,7 +52,7 @@ To some extent, that's how humans would solve the problem. Part of why humans ar
 
 But the whole reason this works for humans, when we try to predict one another, is that we all share the same basic brain structure. This gives humans the shortcut of using their brain as a template for the other person's brain.
 
-LLMs are in a vastly different position. Their trillions of tokens of training try to get them to predict, ++}from {--{"author":"AI","timestamp":1774265829777}@@website--}{++{"author":"AI","timestamp":1774265829777}@@scratch, a wide variety of human minds that are nothing like the LLM at the outset. The most effective way to solve this other-prediction problem will not look like the AI *becoming angry first* in order to figure out what anger is and figure out how angry humans behave.
+LLMs are in a vastly different position. Their trillions of tokens of training try to get them to predict, from scratch, a wide variety of human minds that are nothing like the LLM at the outset. The most effective way to solve this other-prediction problem will not look like the AI *becoming angry first* in order to figure out what anger is and figure out how angry humans behave.
 
 More generally: Efficient, complicated, uncertain reasoning about some complex event doesn't *usually* resemble a detailed internal forward simulation of that event. For instance, the uncertain reasoning will often track many different live possibilities. Even when forward simulation *is* the most effective practical prediction method, the simulation doesn't usually leak out and turn the predictor into the thing it's predicting.
 
@@ -72,4 +72,4 @@ That is not how you would go about building an artificial intelligence that actu
 
 The AI companies (or hobbyists) may gesture at the actress they grew, and say, "How can you possibly doubt this poor creature? Look at how you're hurting her feelings." They may even manage to convince themselves it's the truth. But tweaking black boxes until something inside them learns to predict noble words is not how beautiful minds would be made, if human minds ever learned to make them.
 
-Stated more plainly: Anthropomorphic behavior shouldn't be expected to pop up *spontaneously*. Additional arguments must be made that when AI companies force humanlike behavior deliberately, the inner "actress" ends up resembling the outer human face that she has been grown and trained to predict.++}
+Stated more plainly: Anthropomorphic behavior shouldn't be expected to pop up *spontaneously*. Additional arguments must be made that when AI companies force humanlike behavior deliberately, the inner "actress" ends up resembling the outer human face that she has been grown and trained to predict.

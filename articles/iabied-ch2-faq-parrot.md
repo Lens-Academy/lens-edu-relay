@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1774265875433}@@TODO: Re-scrape--}{++{"author":"AI","timestamp":1774265875433}@@#### To predict the next token well, LLMs need to learn how the world works.
+#### To predict the next token well, LLMs need to learn how the world works.
 
 Suppose that a doctor is writing up a report of what happened to a medical patient. A segment of the medical report reads:
 
@@ -46,7 +46,7 @@ Also, while we cannot tell a *lot* about what happens inside an AI's mind, the A
 
 #### AIs can already surpass their training data, or forego human data.
 
-In 2016, an AI called AlphaGo created by Google DeepMind beat the human world champion at the board game Go. It was trained on a huge library of human Go games, and also learned++} from {--{"author":"AI","timestamp":1774265875433}@@website--}{++{"author":"AI","timestamp":1774265875433}@@playing many games against itself.
+In 2016, an AI called AlphaGo created by Google DeepMind beat the human world champion at the board game Go. It was trained on a huge library of human Go games, and also learned from playing many games against itself.
 
 The fact that it was able to beat humans suggests that it was able to learn general strategies from its training, and that it successfully modeled deep patterns in its training data, including (perhaps) deep patterns that humans had not yet noticed. Gradient descent reinforces whatever works, regardless of its provenance.
 
@@ -76,4 +76,4 @@ We'll have more to say, in Chapter 3, about how an AI might generalize from a na
 
 [4] *only three days:* Figure 1, p. 4 of the [AlphaZero preprint](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphazero-shedding-new-light-on-chess-shogi-and-go/alphazero_preprint.pdf): "20 blocks over 3 days."
 
-[5] *a hundred years:* One such prediction was made by George Johnson [in the](https://www.nytimes.com/1997/07/29/science/to-test-a-powerful-computer-play-an-ancient-game.html) *[New York Times](https://www.nytimes.com/1997/07/29/science/to-test-a-powerful-computer-play-an-ancient-game.html)*.++}
+[5] *a hundred years:* One such prediction was made by George Johnson [in the](https://www.nytimes.com/1997/07/29/science/to-test-a-powerful-computer-play-an-ancient-game.html) *[New York Times](https://www.nytimes.com/1997/07/29/science/to-test-a-powerful-computer-play-an-ancient-game.html)*.

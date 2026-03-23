@@ -11,7 +11,7 @@ tags:
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1774266224854}@@TODO: Re-scrape --}{++{"author":"AI","timestamp":1774266224854}@@#### Deep Machinery of Prediction
+#### Deep Machinery of Prediction
 
 It's hard to make a smart AI believe falsehoods.
 
@@ -47,7 +47,7 @@ What we're saying is that it's not likely to be a viable option if we build supe
 
 The more that an AI's beliefs come from deep mechanisms rather than shallow memorization, the more that a "flat earth" error would become a fragile state of affairs, an error that's liable to be eliminated by the normal operation of the AI's error-correcting gears.
 
-In the late nineteenth century, scientists began to get increasingly concerned about what seemed like an extremely small divergence ++}from {--{"author":"AI","timestamp":1774266224854}@@website--}{++{"author":"AI","timestamp":1774266224854}@@Newton's model of physics — a tiny anomaly in Mercury's observed orbit. Newtonian physics seemed to work *almost* everywhere, *almost* all the time. But that small wrinkle helped Einstein figure out that the theory was wrong.
+In the late nineteenth century, scientists began to get increasingly concerned about what seemed like an extremely small divergence from Newton's model of physics — a tiny anomaly in Mercury's observed orbit. Newtonian physics seemed to work *almost* everywhere, *almost* all the time. But that small wrinkle helped Einstein figure out that the theory was wrong.
 
 And the inconsistencies in the theory "the world is flat" are rather larger than the inconsistencies scientists could observe in Newton's theory.
 
@@ -81,4 +81,4 @@ We're getting a bit ahead of ourselves, though. This idea that AIs will wind up 
 
 [†](#ftnt94_ref) We have [more to say](/11/more-on-some-of-the-plans-we-critiqued-in-the-book#more-on-making-ais-solve-the-problem) about why *that's* a bad idea in the online resources for Chapter 11.
 
-[‡](#ftnt95_ref) This might sound obvious, but also, the "giant human-written table of facts" approach was actually tried in 1984 by Douglas Lenat and the Microelectronics and Computer Technology Corporation, in the AI project known as [Cyc](https://outsiderart.substack.com/p/cyc-historys-forgotten-ai-project), which received [support](https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/2299) from the U.S. Department of Defense.++}
+[‡](#ftnt95_ref) This might sound obvious, but also, the "giant human-written table of facts" approach was actually tried in 1984 by Douglas Lenat and the Microelectronics and Computer Technology Corporation, in the AI project known as [Cyc](https://outsiderart.substack.com/p/cyc-historys-forgotten-ai-project), which received [support](https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/2299) from the U.S. Department of Defense.

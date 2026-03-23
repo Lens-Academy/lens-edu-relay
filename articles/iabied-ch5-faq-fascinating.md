@@ -11,13 +11,13 @@ tags:
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1774265806673}@@TODO: Re-scrape --}{++{"author":"AI","timestamp":1774265806673}@@#### If AI values "fascination," it probably has better options.
+#### If AI values "fascination," it probably has better options.
 
 The story here is similar to the story for [filial love](/5/will-ai-treat-us-as-its-parents):
 
 - By default, a superintelligence probably wouldn't value "fascination" or "interestingness." Chess AIs don't win at chess by feeling emotions like "dedication" or "drive to win." These emotions are important in *human* chess players, but AIs can do the same work in different ways. By the same token, a superintelligence would probably do the *useful work* of learning about the world, testing hypotheses, etc., without using "[curiosity](/4/curiosity-isnt-convergent)" or "fascination" to do it.
 
-  An AI wouldn't necessarily be [cold and logical](/2/wont-ais-inevitably-be-cold-and-logical-or-otherwise-missing-some-crucial-spark), but if it has its own messy pile of urges and instincts, these probably look radically different ++}from {--{"author":"AI","timestamp":1774265806673}@@website--}{++{"author":"AI","timestamp":1774265806673}@@the human pile.
+  An AI wouldn't necessarily be [cold and logical](/2/wont-ais-inevitably-be-cold-and-logical-or-otherwise-missing-some-crucial-spark), but if it has its own messy pile of urges and instincts, these probably look radically different from the human pile.
 
 - Even if the AI winds up with something like an "interestingness" drive, and even if humans are interesting to the AI in some sense, there are inevitably going to be ways to use our matter and energy that are far more "interesting."
 
@@ -40,4 +40,4 @@ We mostly expect artificial superintelligence to just kill us — but only mostl
 
 [†](#ftnt179_ref) The most plausible story we know of where humanity gets to keep living in the wake of AI is: Perhaps an AI keeps records of the humans that once lived, and perhaps it sends probes out in all directions to harvest the energy of all the stars it can reach, and perhaps somewhere out there in the depths of space it meets distant alien life forms, defended by their own superintelligence. Perhaps some of those distant civilizations are interested in buying a copy of the record of Earth, for one reason or another. Perhaps those aliens run digital copies of humans for their own alien purposes. Then those digitized humans in the alien zoo can, if they like, debate whether or not it was technically true that "everyone died."
 
-We do not consider this sort of wild possibility to be a happy one.++}
+We do not consider this sort of wild possibility to be a happy one.

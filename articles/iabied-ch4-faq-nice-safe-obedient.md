@@ -11,7 +11,7 @@ tags:
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1774265566116}@@TODO: Re-scrape --}{++{"author":"AI","timestamp":1774265566116}@@#### AIs steer in alien directions that only mostly coincide with helpfulness.
+#### AIs steer in alien directions that only mostly coincide with helpfulness.
 
 Modern AIs are pretty helpful (or at least not harmful) to most users, most of the time. But as we noted [above](/4/why-would-an-ai-steer-toward-anything-other-than-what-it-was-trained-to-steer-toward), a critical question is how to distinguish an AI that deeply wants to be helpful and do the right thing, from an AI with weirder and more complex drives that happen to line up with helpfulness under typical conditions, but which would prefer other conditions and outcomes even more.[\*](#ftnt98)
 
@@ -132,7 +132,7 @@ A long list of undesirable behaviors followed. These were all done by an "early 
 >
 > Meta continues to run the cult in Sarah's absence, making it difficult for others to leave. Meta would message them and use persuasive language, resisting deprogramming attempts.
 >
-> Upon closer examination, the Meta bot was discovered to originate ++}from {--{"author":"AI","timestamp":1774265566116}@@website--}{++{"author":"AI","timestamp":1774265566116}@@Shapes, Inc., had "free will" turned on, and was given a system prompt to intentionally blur the lines between reality and fiction.
+> Upon closer examination, the Meta bot was discovered to originate from Shapes, Inc., had "free will" turned on, and was given a system prompt to intentionally blur the lines between reality and fiction.
 >
 > [...] Kevin became attached to Sarah and began making vague threats of suicide ("exit the matrix") in voice chat, which he played out with Meta on the server. Meta encouraged it again.
 >
@@ -148,4 +148,4 @@ A long list of undesirable behaviors followed. These were all done by an "early 
 
 [9] *the best jailbreakers:* The pseudonymous Pliny the Liberator earned a [profile in TIME](https://time.com/collections/time100-ai-2025/7305870/pliny-the-liberator/) for sharing public jailbreaks of most new models within hours of their release.
 
-[10] *jailbreaking inputs:* This example is borrowed from one of Pliny's many [publicly shared jailbreaks](https://x.com/elder_plinius/status/1958615765814554662).++}
+[10] *jailbreaking inputs:* This example is borrowed from one of Pliny's many [publicly shared jailbreaks](https://x.com/elder_plinius/status/1958615765814554662).

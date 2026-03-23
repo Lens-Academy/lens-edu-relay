@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1774265451920}@@TODO: Re-scrape from website--}{++{"author":"AI","timestamp":1774265451920}@@#### Very smart.
+#### Very smart.
 
 For every bullet in Chapter 1's list of reasons why human brains aren't near the limits of physical possibility, machines *could* get near those limits.
 
@@ -38,4 +38,4 @@ These assumptions seem very generous. They're effectively saying, "Suppose that 
 
 This analogy is only talking about the serial fidelity needed to encode the information passed by a neural spike in biological brains; we aren't talking about the computation required to decide whether or not to spike in the first place. As far as we know, there's no consensus among human scientists about how many transistors it takes to simulate a neuron choosing whether to fire, but we would be surprised if the minimum possible serial depth of that graph (with as much circuitry hard-coded as possible) required well over a thousand transistor flips in series. (As a general rule of biological computation, it tends to be much more parallel than serial.)
 
-All of which adds up to the intuitive result that computers can generally perform calculations much, much faster than humans, not too long after humans figure out how to get the computers to do the right sort of computations at all. Which is why, e.g., common calculators are so useful.++}
+All of which adds up to the intuitive result that computers can generally perform calculations much, much faster than humans, not too long after humans figure out how to get the computers to do the right sort of computations at all. Which is why, e.g., common calculators are so useful.

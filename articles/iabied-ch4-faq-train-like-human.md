@@ -11,7 +11,7 @@ tags:
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1774265601497}@@TODO: Re-scrape from website--}{++{"author":"AI","timestamp":1774265601497}@@#### Brains aren't blank slates.
+#### Brains aren't blank slates.
 
 An AI is *really* unlike a human infant. And neither AIs nor humans start off as interchangeable blank slates. Enterprising parents can't freely program babies (or AIs) to exhibit just any old behavior they want; and the lessons that *do* work on humans aren't universal. A little kindness and a few lectures about the golden rule will not instill human morality into an AI.
 
@@ -33,4 +33,4 @@ An AI, with its radically different architecture and origin, wouldn't respond in
 
 See also the extended discussion on the [glorious accident](/4/human-values-are-contingent#the-glorious-accident-of-kindness) that led to humans feeling empathy for other humans — which might make it clearer why this accident is unlikely to be replicated in AIs.
 
-[\*](#ftnt127_ref) Even if you train the AI to imitate humans (like how ChatGPT, Claude, and other LLMs are trained), the AI's ability to imitate these traits doesn't mean that the AI will *[actually possess](/4/doesnt-the-claude-chatbot-show-signs-of-being-aligned)* those traits. An AI that imitates a drunk person doesn't thereby become drunk.++}
+[\*](#ftnt127_ref) Even if you train the AI to imitate humans (like how ChatGPT, Claude, and other LLMs are trained), the AI's ability to imitate these traits doesn't mean that the AI will *[actually possess](/4/doesnt-the-claude-chatbot-show-signs-of-being-aligned)* those traits. An AI that imitates a drunk person doesn't thereby become drunk.

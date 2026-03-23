@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1774265830020}@@TODO: Re-scrape --}{++{"author":"AI","timestamp":1774265830020}@@#### That would be suicidal, because we're too far ++}from {--{"author":"AI","timestamp":1774265830020}@@website--}{++{"author":"AI","timestamp":1774265830020}@@an alignment solution.
+#### That would be suicidal, because we're too far from an alignment solution.
 
 Over the past decade or so, some people concerned about the dangers of AI argued that it might be good to advance AI as quickly as possible. The idea was that the smartest AIs would then require nearly all of the world's computing hardware to run. No individual breakthrough would unleash thousands of powerful AIs thinking thousands of times faster than any human *suddenly.*
 
@@ -38,4 +38,4 @@ We think this is a decent case study in how executives at AI companies will latc
 
 #### Notes
 
-[1] *large light bulb:* McMurray et al.'s [paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC4535334/) gives an average basal metabolic rate (the minimum resting energy consumption) of about 0.863 kilocalories per hour per kilogram, which works out to about 1 watt per kg or about 60-80 watts for a human. That's only [60-80% of total energy expenditure](https://pmc.ncbi.nlm.nih.gov/articles/PMC2818133/), which — including physical activity — is about 100 watts.++}
+[1] *large light bulb:* McMurray et al.'s [paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC4535334/) gives an average basal metabolic rate (the minimum resting energy consumption) of about 0.863 kilocalories per hour per kilogram, which works out to about 1 watt per kg or about 60-80 watts for a human. That's only [60-80% of total energy expenditure](https://pmc.ncbi.nlm.nih.gov/articles/PMC2818133/), which — including physical activity — is about 100 watts.

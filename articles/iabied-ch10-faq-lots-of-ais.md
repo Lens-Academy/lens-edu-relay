@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1774265787779}@@TODO: Re-scrape from website--}{++{"author":"AI","timestamp":1774265787779}@@#### It doesn't much help if we can't make any of them care about good things.
+#### It doesn't much help if we can't make any of them care about good things.
 
 As we noted in Chapter 4, there are numerous ways for AIs to wind up caring about strange ends that are not what anyone actually wanted. It doesn't matter if humanity makes a thousand AIs, if those thousand AIs all care about slightly different weird ends.
 
@@ -24,4 +24,4 @@ For more background on this problem, see:
 
 If we knew how to make one in ten AIs good, then perhaps we could get a tenth of the universe by making a great many different AIs and hoping that the good ones strike a deal for us.
 
-But, as we argued in Chapters 2 through 4, getting an AI that cares about people in just the right way is exceedingly unlikely, in the modern regime where AIs are "grown." Humanity is *nowhere near* the level of being able to hit such an exceptionally narrow target 10 percent of the time. Adding more AIs doesn't help, when the problem is that there is a complicated structure that we aren't even close to being able to hook into the AI's drives.++}
+But, as we argued in Chapters 2 through 4, getting an AI that cares about people in just the right way is exceedingly unlikely, in the modern regime where AIs are "grown." Humanity is *nowhere near* the level of being able to hit such an exceptionally narrow target 10 percent of the time. Adding more AIs doesn't help, when the problem is that there is a complicated structure that we aren't even close to being able to hook into the AI's drives.
