@@ -10,7 +10,7 @@ discussion:  https://discord.com/channels/1440725236843806762/148125975137432792
 
 # Module: [[../modules/IABIED M1 Intro and Nonhuman Minds, Part 1]]
 
-# Meeting: Introductions
+# Meeting: Introduction
 
 # Module: [[../modules/IABIED M2 Nonhuman Minds, Part 2]]
 
