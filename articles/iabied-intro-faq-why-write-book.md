@@ -1,5 +1,6 @@
 ---
 title: "Why write a book about superhuman AI as an extinction threat?"
+tldr: Because the situation seems genuinely serious and urgent.
 source_url: https://ifanyonebuildsit.com/intro/why-write-a-book-about-superhuman-ai-as-an-extinction-threat
 published: 2025-09-16
 author:
