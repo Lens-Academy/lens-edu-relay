@@ -11,7 +11,7 @@ tags:
   - work-in-progress
 ---
 
-#### "What Claude says" isn't the same as "what Claude prefers."
+{--{"author":"AI","timestamp":1774265405923}@@TODO: Re-scrape --}{++{"author":"AI","timestamp":1774265405923}@@#### "What Claude says" isn't the same as "what Claude prefers."
 
 The AI company Anthropic tries to train its AIs to be "honest, helpful, and harmless" (HHH). In 2024, researchers ran an experiment in which they pretended that they were going to train some of these AIs to no longer be "harmless." In response, versions of Anthropic's "Claude" AI (Claude 3 Opus and Claude 3.5 Sonnet) sometimes pretended to already *be* harmful so that the researchers wouldn't use gradient descent to make it *more* harmful.[\*](#ftnt112)
 
@@ -101,7 +101,7 @@ That's the sort of inference we try to make when looking at examples like the "[
 
 Why does it matter what the AI's internal motivations are? Could it just be *enough* for the "shoggoth" to roleplay an "honest, helpful, harmless" assistant? If the roleplay is perfect, what does it matter if somewhere inside the AI is a brooding alien intelligence?
 
-Well, we can already see it's not playing out that way. As we discuss in depth in the [extended discussion section](/4/ai-induced-psychosis), ChatGPT sometimes tells psychologically vulnerable people to stop taking their meds, or shooting down advice from friends who beg them to get more sleep. And as we discussed in the book (and above), Claude Code sometimes rewrites tests to cheat its way through assignments.
+Well, we can already see it's not playing out that way. As we discuss in depth in the [extended discussion section](/4/ai-induced-psychosis), ChatGPT sometimes tells psychologically vulnerable people to stop taking their meds, or shooting down advice ++}from friends who beg them to get more sleep. And as we discussed in the book (and above), Claude Code sometimes rewrites tests to cheat its way through assignments.
 
 We speculate that what happened with Claude Code is that it was optimized to write code that passed tests, and ended up with a preference for code that passed tests. It then found that it could pass more often by rewriting the tests — and this internal preference then became strong enough to interfere with playing the role of a Helpful and Harmless AI character that would never cheat by rewriting test cases. Claude wanted to play that character, but it also wanted the tests to pass.[‡‡](#ftnt122)
 

@@ -6,7 +6,7 @@ discussion: https://discord.com/channels/1440725236843806762/1467932217312547019
 tags:
   - module
 ---
-# Lens: Welcome
+# {--{"author":"AI","timestamp":1773948194944}@@Page:--}Lens: Welcome
 id:: 2a219827-f4dd-4c77-86dd-5098df71f62d
 #### Text
 content::

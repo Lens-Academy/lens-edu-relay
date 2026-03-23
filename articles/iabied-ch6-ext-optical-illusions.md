@@ -10,9 +10,9 @@ tags:
   - IABIED
   - work-in-progress
 ---
-In Chapter 6, we said that researchers have used the modern understanding of human visual processing and the visual cortex to come up with new optical illusions — illusions that could not have been produced fifty years ago, except by unlikely accident. Below, we cite a few representative examples.
+{--{"author":"AI","timestamp":1774265562300}@@TODO: Re-scrape --}{++{"author":"AI","timestamp":1774265562300}@@In Chapter 6, we said that researchers have used the modern understanding of human visual processing and the visual cortex to come up with new optical illusions — illusions that could not have been produced fifty years ago, except by unlikely accident. Below, we cite a few representative examples.
 
-The "[curvature blindness](https://pmc.ncbi.nlm.nih.gov/articles/PMC5703117/)" illusion has some grounding in the general phenomenon of curve blindness, but this specific illusion was carefully constructed from first principles circa 2017, as opposed to being discovered by accident. ([Original study](https://journals.sagepub.com/doi/10.1177/2041669517742178))
+The "[curvature blindness](https://pmc.ncbi.nlm.nih.gov/articles/PMC5703117/)" illusion has some grounding in the general phenomenon of curve blindness, but this specific illusion was carefully constructed ++}from first principles circa 2017, as opposed to being discovered by accident. ([Original study](https://journals.sagepub.com/doi/10.1177/2041669517742178))
 
 In 2022, Bruno Laeng and collaborators published [a study](https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2022.877249/full) in which they demonstrated that their new "[expanding black hole](https://www.frontiersin.org/files/Articles/877249/fnhum-16-877249-HTML-r1/image_m/fnhum-16-877249-g001.jpg)" illusion actually caused participants' pupils to expand, as if in anticipation of entering a dark space. (This effect was noticeably larger than the effect of merely focusing on a darker visual target, which would also cause the pupils to expand by a small amount.)
 

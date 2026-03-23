@@ -11,7 +11,7 @@ tags:
   - work-in-progress
 ---
 
-#### We were trying to depict an especially slow and comprehensible scenario, among plausible scenarios.
+{--{"author":"AI","timestamp":1774266637723}@@TODO: Re-scrape --}{++{"author":"AI","timestamp":1774266637723}@@#### We were trying to depict an especially slow and comprehensible scenario, among plausible scenarios.
 
 In the real world, events often proceed in strange ways. Decades sometimes happen in weeks; and the world is never the same again.
 
@@ -25,4 +25,4 @@ In the story we wrote, we tried to keep things *sounding* plausible, while also 
 
 And, of course, we kept trying to convey just how many options an escaped AI would have at its disposal.
 
-[\*](#ftnt248_ref) For example: if we had depicted events that led to a headline like "Sable Rolls Out Pornographic Anime Companion, Lands Department of Defense Contract. Meanwhile, the most advanced version of the AI chatbot from Galvanic is still identifying as Adolf Hitler," people probably wouldn't've bought it. And yet that headline [actually happened](https://www.rollingstone.com/culture/culture-news/grok-pornographic-anime-companion-department-of-defense-1235385034/), swapping out Galvanic and Sable for xAI and Grok.
+[\*](#ftnt248_ref) For example: if we had depicted events that led to a headline like "Sable Rolls Out Pornographic Anime Companion, Lands Department of Defense Contract. Meanwhile, the most advanced version of the AI chatbot ++}from Galvanic is still identifying as Adolf Hitler," people probably wouldn't've bought it. And yet that headline [actually happened](https://www.rollingstone.com/culture/culture-news/grok-pornographic-anime-companion-department-of-defense-1235385034/), swapping out Galvanic and Sable for xAI and Grok.

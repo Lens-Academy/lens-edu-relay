@@ -11,7 +11,7 @@ tags:
   - work-in-progress
 ---
 
-#### We're optimistic about many things, but superintelligence isn't like most things.
+{--{"author":"AI","timestamp":1774266021166}@@TODO: Re-scrape--}{++{"author":"AI","timestamp":1774266021166}@@#### We're optimistic about many things, but superintelligence isn't like most things.
 
 We would consider ourselves much more [optimistic](/12/are-you-anti-technology) and gung-ho than the average person about nuclear power, geothermal power, genetic engineering, neuroengineering, biotech, nanotech, pharmaceutical development, and many other technologies.[\*](#ftnt191)
 
@@ -39,7 +39,7 @@ We provided a long list of ways that, e.g., "[superintelligence is fascinated wi
 
 The short answer is: You can't make good predictions about the future by just counting up all of the gloomy tales and all of the happy tales and weighing them like marbles on a scale. Thinking through different scenarios can sometimes be helpful, but not in quite that fashion.[†](#ftnt192)
 
-To illustrate the general point: Imagine that someone says, "Two hundred years from now, there will be exactly eight whales in existence, and they will all be purple."
+To illustrate the general point: Imagine that someone says, "Two hundred years++} from now, there will be exactly eight whales in existence, and they will all be purple."
 
 Humans have wild imaginations. Someone could fill a book with hundreds of stories of how it came to pass that the whale population shrank to exactly eight members, all of them purple. Someone else could fill a book with hundreds of stories in which there *aren't* exactly eight whales. You can't make accurate predictions by saying, "Well, both sides have plausible-sounding stories, so surely the truth is somewhere in the middle."
 

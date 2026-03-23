@@ -11,7 +11,7 @@ tags:
   - work-in-progress
 ---
 
-Seeing the world from a truly alien perspective is genuinely difficult. As a case study in the difficulty, we can cite Jürgen Schmidhuber, a prominent machine learning scientist. Schmidhuber has played an important role in the history of the field, helping invent recurrent neural networks and laying some of the groundwork for the deep learning revolution.
+{--{"author":"AI","timestamp":1774265637614}@@TODO: Re-scrape--}{++{"author":"AI","timestamp":1774265637614}@@Seeing the world from a truly alien perspective is genuinely difficult. As a case study in the difficulty, we can cite Jürgen Schmidhuber, a prominent machine learning scientist. Schmidhuber has played an important role in the history of the field, helping invent recurrent neural networks and laying some of the groundwork for the deep learning revolution.
 
 In various [papers](https://arxiv.org/abs/0812.4360) and [interviews](https://www.youtube.com/watch?v=fZYUqICYCAk), Schmidhuber made the case that AI will be, by default, fascinated by humanity and protective of humans.
 
@@ -57,7 +57,7 @@ Evolutionary biologists solved this riddle theoretically, but that didn't stop t
 
 Can you guess how those beetles managed to keep their population growth down? Was it by finding a way to live in beautiful harmony with nature? Was it by learning to abstain from greedily grabbing up too much food?
 
-No. There was high variance, but no beetles abstained from food. Some beetles got worse at laying eggs. Some beetles spent a longer time in childhood. And some beetles became cannibals with a special preference for feasting on larvae (insect infants).
+No. There was high variance, but no beetles abstained++} from food. Some beetles got worse at laying eggs. Some beetles spent a longer time in childhood. And some beetles became cannibals with a special preference for feasting on larvae (insect infants).
 
 "Create cannibals with a sweet tooth for infants" is, thankfully, not the way a *human* would solve the problem of overpopulation, if we needed to solve it.
 

@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-#### Not in general. Corner-cutting is often competitive.
+{--{"author":"AI","timestamp":1774265248189}@@TODO: Re-scrape --}{++{"author":"AI","timestamp":1774265248189}@@#### Not in general. Corner-cutting is often competitive.
 
 Volkswagen's efforts to [cheat on emissions tests](https://www.bbc.com/news/business-34324772) from 2008 to 2015 were audacious — and apparently effective. The 2018–2019 crashes of Boeing's 737 MAX, attributed to flaws in a flight control system that management knew about and downplayed, [killed 346 people](https://apnews.com/article/boeing-plea-737-max-crashes-b34daa014406657e720bec4a990dccf6). But automobile and aircraft manufacturing are highly competitive industries in which Volkswagen and Boeing were, *and remain*, giants.
 
@@ -40,4 +40,4 @@ We appreciate Amodei for being clear that he thinks there are dangers that need 
 
 > Basic human intuitions of fairness, cooperation, curiosity, and autonomy are hard to argue with, and are cumulative in a way that our more destructive impulses often aren't. [...] These simple intuitions, if taken to their logical conclusion, lead eventually to rule of law, democracy, and Enlightenment values. If not inevitably, then at least as a statistical tendency, this is where humanity was already headed. AI simply offers an opportunity to get us there more quickly—to make the logic starker and the destination clearer.
 
-That's a strange way to present the belief that you're building a technology that you think has a 10 to 25 percent chance of being catastrophic for civilization, *even given* the huge potential benefits in the case of success. Even if the danger levels are as low as Amodei believes, we should be scrambling to find a third alternative aside from "never proceed" and "charge ahead." And if the company thinks it's *forced* to charge ahead (because other people are already charging), it should be begging world leaders to put an end to the suicide race, so that a third alternative can be found. Painting a rosy picture just seems like throwing up a distraction, when it's in the context of gambling with everyone's life.
+That's a strange way to present the belief that you're building a technology that you think has a 10 to 25 percent chance of being catastrophic for civilization, *even given* the huge potential benefits in the case of success. Even if the danger levels are as low as Amodei believes, we should be scrambling to find a third alternative aside ++}from "never proceed" and "charge ahead." And if the company thinks it's *forced* to charge ahead (because other people are already charging), it should be begging world leaders to put an end to the suicide race, so that a third alternative can be found. Painting a rosy picture just seems like throwing up a distraction, when it's in the context of gambling with everyone's life.

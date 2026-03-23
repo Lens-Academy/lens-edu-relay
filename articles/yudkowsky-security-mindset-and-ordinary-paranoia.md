@@ -1,5 +1,5 @@
 ---
-title: "Security Mindset and Ordinary Paranoia"
+title: {--{"author":"AI","timestamp":1774090378612}@@Security--}"Security Mindset and Ordinary Paranoia"
 source_url: https://www.lesswrong.com/posts/8gqrbnW758qjHFTrH/security-mindset-and-ordinary-paranoia
 author:
   - "Eliezer Yudkowsky"

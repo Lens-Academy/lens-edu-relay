@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-Over the years, we've seen many arguments for rushing ahead to build superintelligence. One of the most common is that a superintelligent AI would surely have human-like emotions and desires. These sorts of arguments come in many forms, such as:
+{--{"author":"AI","timestamp":1774266600789}@@TODO: Re-scrape --}{++{"author":"AI","timestamp":1774266600789}@@Over the years, we've seen many arguments for rushing ahead to build superintelligence. One of the most common is that a superintelligent AI would surely have human-like emotions and desires. These sorts of arguments come in many forms, such as:
 
 - Sufficiently smart AIs would surely be *conscious*, like humans are.
   - And, being conscious, they would surely care about pain and pleasure, joy and sorrow.
@@ -186,7 +186,7 @@ But if AIs are messy, they won't be messy in the same ways that a human is messy
 
 [††](#ftnt141_ref) Even if the AI *was* the sort that pursued happiness, it probably wouldn't be persuaded to delight in curiosity. If it already had a perfectly fine value-of-information calculator it used to investigate phenomena it didn't understand, why should it tie its happiness to some event that you say should trigger pleasure? To an AI that valued investigation-of-novel-phenomena only instrumentally, this argument would sound to it like the argument that you should self-modify to feel extra happy whenever you open a car door — because you'd feel so happy after opening so many car doors! If you can be at all tempted in that way, you'll pick some event that's more to your current tastes. Or perhaps just set all your happiness dials to maximum, if that sounds more appealing. There's no need to adopt the particular bespoke human implementation of curiosity.
 
-[‡‡](#ftnt142_ref) Some AI architectures of old do look a *little* like this, in the subfield of "reinforcement learning." And reinforcement learning is used to train modern "reasoning" LLMs, that think long chains of thought in attempt to solve some puzzle, and get reinforced for success. But the underlying architecture is quite different from the human one, and we doubt it converges to the same sort of centralized pleasure/pain architecture, and even if it did then we doubt that that's the most effective architecture, which means things would get complicated once the AI started reflecting, as we'll discuss [below](/4/reflection-and-self-modification-make-it-all-harder).
+[‡‡](#ftnt142_ref) Some AI architectures of old do look a *little* like this, in the subfield of "reinforcement learning." And reinforcement learning is used to train modern "reasoning" LLMs, that think long chains of thought in attempt to solve some puzzle, and get reinforced for success. But the underlying architecture is quite different ++}from the human one, and we doubt it converges to the same sort of centralized pleasure/pain architecture, and even if it did then we doubt that that's the most effective architecture, which means things would get complicated once the AI started reflecting, as we'll discuss [below](/4/reflection-and-self-modification-make-it-all-harder).
 
 [§§](#ftnt143_ref) That kind of consistency — that all the different preferences can be added up to a score — tends to get imposed by any method that trains or hones the AI to be efficient in its use of scarce resources. Which is another facet of those [deeper mathematical ideas](/1/more-on-intelligence-as-prediction-and-steering) we mentioned back in Chapter 1.
 

@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-#### The Glorious Accident of Kindness
+{--{"author":"AI","timestamp":1774266751820}@@TODO: Re-scrape --}{++{"author":"AI","timestamp":1774266751820}@@#### The Glorious Accident of Kindness
 
 When you watch someone drop a rock on their toe, you might wince, and feel (or imagine) a spike of phantom pain in your own toe. Why?
 
@@ -84,7 +84,7 @@ Many different lines of evidence point at it being *genuinely difficult* to get 
 
 [†](#ftnt150_ref) We take this idea further below, in the discussion of [Squirrelly Algorithms](/4/brittle-unpredictable-proxies#squirrelly-algorithms).
 
-[‡](#ftnt151_ref) It's one of the things that would make us nervous about meeting aliens, someday, if we cross paths in the void of space a billion years from now — that maybe some strange twist like that, in humanity's history and psychology, would turn out to have been vital to the invention of universalist kindness, and aliens wouldn't have gone down that particular complicated road.
+[‡](#ftnt151_ref) It's one of the things that would make us nervous about meeting aliens, someday, if we cross paths in the void of space a billion years ++}from now — that maybe some strange twist like that, in humanity's history and psychology, would turn out to have been vital to the invention of universalist kindness, and aliens wouldn't have gone down that particular complicated road.
 
 Universalist kindness *does* seem to go at least a little against the surface-level straightforward direction of natural selection. There's a story for how some humans arrived at that place, after ending up with particular genes driven by hunter-gatherer selection pressures that directly pushed on internal motivations and not just on direct behavioral outcomes. There's a story about how humans then had moral arguments among themselves, which differentially propagated through their societies as ideas.
 

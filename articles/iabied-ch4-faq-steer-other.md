@@ -11,7 +11,7 @@ tags:
   - work-in-progress
 ---
 
-#### Because there are many ways to perform well in training.
+{--{"author":"AI","timestamp":1774265587738}@@TODO: Re-scrape --}#### Because there are many ways to perform well in training.
 
 If you've trained an AI to paint your barn red, that AI doesn't necessarily care deeply about red barns. Perhaps the AI winds up with some preference for moving its arm in smooth, regular patterns. Perhaps it develops some preference for getting approving looks from you. Perhaps it develops some preference for seeing bright colors. Most likely, it winds up with a whole plethora of preferences. There are many motivations that could wind up inside the AI, and that would result in it painting your barn red in this context.
 

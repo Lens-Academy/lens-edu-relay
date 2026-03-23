@@ -11,7 +11,7 @@ tags:
   - work-in-progress
 ---
 
-There are two modes of thinking that have been historically proven over and over *not* to work, modes that history has shown to give bad advice for making predictions about AI.
+{--{"author":"AI","timestamp":1774266066572}@@TODO: Re-scrape --}{++{"author":"AI","timestamp":1774266066572}@@There are two modes of thinking that have been historically proven over and over *not* to work, modes that history has shown to give bad advice for making predictions about AI.
 
 These two traps are (1) thinking about AI as if it were human and (2) thinking about AI as if it were a "mere machine."
 
@@ -143,7 +143,7 @@ Many human beings over the course of history have guessed, "This other person wo
 
 But what else is a humanlike mind to do when faced with the problem of predicting another brain? We can't write new code to run inside our own brain to predict that Other Mind by exhaustively simulating its neural firings.
 
-We need to tell our own brain to *be* that brain, to act out the other person's mental state ourselves, and see what follows from it.
+We need to tell our own brain to *be* that brain, to act out the other person's mental state ourselves, and see what follows ++}from it.
 
 This is why pulp magazine covers show bug-eyed alien monsters carrying off beautiful women.[†](#ftnt88)
 

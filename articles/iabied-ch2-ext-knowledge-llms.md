@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-What follows from understanding LLMs? How does it help us understand smarter-than-human AI and how to prevent everyone from dying?
+{--{"author":"AI","timestamp":1774265625712}@@TODO: Re-scrape --}{++{"author":"AI","timestamp":1774265625712}@@What follows from understanding LLMs? How does it help us understand smarter-than-human AI and how to prevent everyone from dying?
 
 One advantage it offers is that knowing concretely what goes on in there — at least the part we can see, the inscrutable numbers — can potentially feel more grounding, more solid, than if all you know is, "I woke up one day and the computers started talking for some reason."
 
@@ -52,7 +52,7 @@ Do you actually need to be able to sketch out the QKV matrices?
 
 Probably not. We can, and in a group of dozens of people working on AI policy, we would feel more optimistic if at least one had the background required to do the same. It doesn't hurt to be sure; you never know what sort of important fact can end up lurking in a detail like that.
 
-I (Yudkowsky) cannot sketch out from memory alone the details of a SwiGLU gate and how it differs from a GLU, because when I did look it up, the exact details there seemed to have no relevance to larger matters at all, so I didn't memorize them. But it might be informative to the novice that SwiGLU was found by a kind of blind testing, and that the paper authors said outright they have no idea why these techniques work in practice. We already knew about many cases like that, but if you *didn't* know that the people who come up with architectural improvements often say that they have no idea why it works, that's a relevant piece of information.
+I (Yudkowsky) cannot sketch out from memory alone the details of a SwiGLU gate and how it differs ++}from a GLU, because when I did look it up, the exact details there seemed to have no relevance to larger matters at all, so I didn't memorize them. But it might be informative to the novice that SwiGLU was found by a kind of blind testing, and that the paper authors said outright they have no idea why these techniques work in practice. We already knew about many cases like that, but if you *didn't* know that the people who come up with architectural improvements often say that they have no idea why it works, that's a relevant piece of information.
 
 All of which adds up to: Knowing at least a little about how LLMs work is important so that you can see how little*anybody* knowsabout modern AI.
 

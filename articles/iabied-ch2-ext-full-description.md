@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-#### How Llama 3.1 405B Works
+{--{"author":"AI","timestamp":1774265546930}@@TODO: Re-scrape --}{++{"author":"AI","timestamp":1774265546930}@@#### How Llama 3.1 405B Works
 
 In the book, we promised a fuller description of an LLM called Llama 3.1 405B. We present that description below. It's here for the curious, and for the purpose of really understanding the degree to which modern AIs are grown rather than crafted. (See also: [What good does knowledge of LLMs do?](/2/what-good-does-knowledge-of-llms-do))
 
@@ -209,7 +209,7 @@ So now the answer to the query is  of value #a1 plus  of value #b:
 
 This allows a query to say, "Hey, I'd like to look at the word that's right next to me," or, "Hey, I'd like to look for words about birds within just the last ten words," in the language of numbers that get multiplied by other numbers and summed. Llama 3.1 405B in particular uses Rotary Positional Embeddings, which are slightly complicated and clever. So, sorry; if you want to know how RoPEs work, you're going to have to look it up.)
 
-[¶](#ftnt72_ref) As another aside about the attention layer, Llama uses "causal masking," meaning that each token's queries can only look at the keys from *before* it. Basically, that's because each token is trying to ultimately predict what token comes next; looking ahead would be cheating!
+[¶](#ftnt72_ref) As another aside about the attention layer, Llama uses "causal masking," meaning that each token's queries can only look at the keys ++}from {--{"author":"AI","timestamp":1774265546930}@@website--}*before* it. Basically, that's because each token is trying to ultimately predict what token comes next; looking ahead would be cheating!
 
 [‖](#ftnt73_ref) The choice of how much randomness to use when picking a token is, roughly speaking, called the "temperature" at which the tokens are produced.
 

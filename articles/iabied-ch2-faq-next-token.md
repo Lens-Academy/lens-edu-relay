@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-#### Predicting tokens requires understanding the world.
+{--{"author":"AI","timestamp":1774265852436}@@TODO: Re-scrape --}{++{"author":"AI","timestamp":1774265852436}@@#### Predicting tokens requires understanding the world.
 
 Imagining that an AI that predicts the next token can't do real thinking is like imagining that a picture encoded using binary 1s and 0s can't portray a red flower. The AI is producing tokens, yes, but you can encode important things into tokens! Predicting what comes next is a core aspect of intelligence into which processes like "science" and "learning" readily fit.
 
@@ -24,7 +24,7 @@ When predicting text that is a reflection of a complicated and messy world, rote
 
 #### Modern AIs don't just predict tokens.
 
-It's true that early LLMs, like GPT-2 and the first GPT-3, were trained exclusively for the task of prediction. Their "only job," so to speak, was matching the exact distribution of their training data — text scraped from various websites.
+It's true that early LLMs, like GPT-2 and the first GPT-3, were trained exclusively for the task of prediction. Their "only job," so to speak, was matching the exact distribution of their training data — text scraped ++}from various websites.
 
 But those days are over. Modern LLMs are trained to respond in various ways that their builders consider more helpful. This is typically done using "reinforcement learning."
 

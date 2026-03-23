@@ -11,7 +11,7 @@ tags:
   - work-in-progress
 ---
 
-#### In part because it's realistic.
+{--{"author":"AI","timestamp":1774266720489}@@TODO: Re-scrape--}{++{"author":"AI","timestamp":1774266720489}@@#### In part because it's realistic.
 
 AlphaGo (the first AI to beat a human at Go) was basically alone in its class when it was released. ChatGPT was basically alone in its class when it was released.
 
@@ -35,4 +35,4 @@ See also our discussion of how [coordinating AIs won't leave anything behind for
 
 [\*](#ftnt245_ref) For one such analysis, see "[How Far Behind Are Open Models?](https://epoch.ai/blog/open-models-report)", a report by Cottier et al. of Epoch AI.
 
-[†](#ftnt246_ref) We're not saying there was a sharp *discontinuity* in the evolution of primates; human society differed from chimpanzee society slowly at first, and then quickly. We're saying that there's a large and extremely important gap between the kinds of things humans can do today and the kinds of things chimpanzees can do, regardless of how gradual or smooth the transition was at the time. See also our discussion about cognitive [thresholds](/1/will-ai-cross-critical-thresholds-and-take-off) in the supplement to Chapter 1.
+[†](#ftnt246_ref) We're not saying there was a sharp *discontinuity* in the evolution of primates; human society differed++} from {--{"author":"AI","timestamp":1774266720489}@@website--}chimpanzee society slowly at first, and then quickly. We're saying that there's a large and extremely important gap between the kinds of things humans can do today and the kinds of things chimpanzees can do, regardless of how gradual or smooth the transition was at the time. See also our discussion about cognitive [thresholds](/1/will-ai-cross-critical-thresholds-and-take-off) in the supplement to Chapter 1.

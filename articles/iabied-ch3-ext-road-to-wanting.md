@@ -11,7 +11,7 @@ tags:
   - work-in-progress
 ---
 
-*Why* is wanting an effective way of doing? Why does it *win*? Why does black-box optimization by natural selection stumble across this trick, over and over?
+{--{"author":"AI","timestamp":1774266196843}@@TODO: Re-scrape--}{++{"author":"AI","timestamp":1774266196843}@@*Why* is wanting an effective way of doing? Why does it *win*? Why does black-box optimization by natural selection stumble across this trick, over and over?
 
 We see "wantlike" behavior as integral to steering the world successfully. That applies not just to intelligent entities like humans or AIs, but also to much dumber entities like amoebas and thermostats. To more thoroughly explore this view, let's investigate some of the simplest possible mechanisms that exhibit the simplest possible form of "wantlike behavior."
 
@@ -79,7 +79,7 @@ If the first twigs the beaver grabs are all rotten and break, a beaver's brain p
 
 And this *—* we expect any actual ethologist with expertise in beavers would jump up and scream at us *—* is vastly understating the most intelligent things a beaver can do. Maybe some entomologist will jump up, too, and say that what we just described is something their favorite insect can do when building a burrow. We needed to give an example straightforward enough to be depicted in a paragraph; maybe nothing that straightforward is beyond the reach of one million neurons.
 
-The larger idea is simply that a system gains *strong real benefits to task performance* as it passes from more reflex-like behavior to cognitions that look more like updating a world-model from real-time experiences, predicting the consequences of actions using that world-model, imagining helpful states the world might be brought into, and searching out high-level and low-level strategies predicted to bring about those imagined states.
+The larger idea is simply that a system gains *strong real benefits to task performance* as it passes from more reflex-like behavior to cognitions that look more like updating a world-model++} from real-time experiences, predicting the consequences of actions using that world-model, imagining helpful states the world might be brought into, and searching out high-level and low-level strategies predicted to bring about those imagined states.
 
 We touched on this point in Chapter 3. If a driver just memorizes patterns of right and left turns for getting from point A to point B using if-then rules like "sharp left at the gas station," they will generalize much less quickly than a driver who learns a street map and can plot their own paths between new points. *Memorizing policies* generalizes much more slowly than starting to distill them into a *learnable world-model* plusa *plan-searching engine* embodying an *outcome evaluator.*
 

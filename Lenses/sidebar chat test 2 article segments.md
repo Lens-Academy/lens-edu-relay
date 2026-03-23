@@ -1,13 +1,16 @@
 ---
 id: a86e3069-4757-4037-963a-631c2faad280
-title: Sidebar Chat Test (2 Article Segments)
-tags:
+{++{"author":"AI","timestamp":1773998873506}@@title: Sidebar Chat Test (2 Article Segments)
+++}tags:
   - lens
   - work-in-progress
 ---
 
 
-#### Text
+{--{"author":"AI","timestamp":1773947347375}@@### Article
+source:: [[../articles/wikipedia-existential-risk-from-ai]]
+
+--}#### Text
 content::
 The relationship that biologists have with DNA is pretty much the relationship that AI engineers have with the numbers inside an AI. Indeed, biologists know far more about how DNA turns into biochemistry and adult traits than engineers understand about how the numbers inside an AI yield cogent conversation and useful behavior. Biologists have been at the job for decades longer.
 

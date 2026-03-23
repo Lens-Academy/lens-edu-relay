@@ -11,7 +11,7 @@ tags:
   - work-in-progress
 ---
 
-#### Probably not.
+{--{"author":"AI","timestamp":1774265849499}@@TODO: Re-scrape --}{++{"author":"AI","timestamp":1774265849499}@@#### Probably not.
 
 Your preference for oxygen is satiable — you'll fight to reach the surface if your scuba gear malfunctions during a dive, but when there is enough, you stop worrying about it, and you probably aren't maintaining an ever-growing stockpile of oxygen canisters.
 
@@ -45,7 +45,7 @@ Why would we go off and destroy chimp habitat when we have plenty of space for o
 
 Well, because we don't need to choose between keeping the territory we already have and encroaching on the chimps' territory. Humanity can do *both at once.*
 
-So too with AIs. An AI doesn't need to pick between the resources of Earth and the resources of elsewhere; it can have both, as we discuss in the book. It wouldn't be thatexpensive, from the AI's perspective, to leave us alone; but it [wouldn't be free](/5/to-a-powerful-ai-wouldnt-preserving-humans-be-a-negligible-expense) either, and the AI would need to have a reason to let us use resources it could instead use for its own goals.
+So too with AIs. An AI doesn't need to pick between the resources of Earth and the resources of elsewhere; it can have both, as we discuss in the book. It wouldn't be thatexpensive, ++}from the AI's perspective, to leave us alone; but it [wouldn't be free](/5/to-a-powerful-ai-wouldnt-preserving-humans-be-a-negligible-expense) either, and the AI would need to have a reason to let us use resources it could instead use for its own goals.
 
 Moreover, even if the AI *can* be fully satisfied, the outcome for humans is still likely to be pretty grim. There are multiple reasons for this:
 

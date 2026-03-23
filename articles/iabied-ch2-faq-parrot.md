@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-#### To predict the next token well, LLMs need to learn how the world works.
+{--{"author":"AI","timestamp":1774265875433}@@TODO: Re-scrape--}{++{"author":"AI","timestamp":1774265875433}@@#### To predict the next token well, LLMs need to learn how the world works.
 
 Suppose that a doctor is writing up a report of what happened to a medical patient. A segment of the medical report reads:
 
@@ -46,7 +46,7 @@ Also, while we cannot tell a *lot* about what happens inside an AI's mind, the A
 
 #### AIs can already surpass their training data, or forego human data.
 
-In 2016, an AI called AlphaGo created by Google DeepMind beat the human world champion at the board game Go. It was trained on a huge library of human Go games, and also learned from playing many games against itself.
+In 2016, an AI called AlphaGo created by Google DeepMind beat the human world champion at the board game Go. It was trained on a huge library of human Go games, and also learned++} from playing many games against itself.
 
 The fact that it was able to beat humans suggests that it was able to learn general strategies from its training, and that it successfully modeled deep patterns in its training data, including (perhaps) deep patterns that humans had not yet noticed. Gradient descent reinforces whatever works, regardless of its provenance.
 

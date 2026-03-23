@@ -11,7 +11,7 @@ tags:
   - work-in-progress
 ---
 
-#### A Dialogue on Correct Nests, Continued
+{--{"author":"AI","timestamp":1774265686580}@@TODO: Re-scrape --}{++{"author":"AI","timestamp":1774265686580}@@#### A Dialogue on Correct Nests, Continued
 
 In Chapter 5, we told the story of the Correct-Nest aliens, who evolved to find it deeply and intuitively "correct" to have a prime number of stones in one's nest. We might imagine a branch of their conversation that continues as follows:
 
@@ -49,7 +49,7 @@ In Chapter 5, we told the story of the Correct-Nest aliens, who evolved to find 
 
 **BOY-BIRD:** Well, if not the aliens, what about the mechanical creature they might accidentally create? Will *those* listen to reason?
 
-**GIRL-BIRD:** Hmm. Actually, I fear the situation may be even worse there. Thinking about how different the process of creating an intelligent machine would be from the process of biological evolution, I'm feeling a bit less optimistic that it'd yield love or friendship, in that exotic case.
+**GIRL-BIRD:** Hmm. Actually, I fear the situation may be even worse there. Thinking about how different the process of creating an intelligent machine would be ++}from the process of biological evolution, I'm feeling a bit less optimistic that it'd yield love or friendship, in that exotic case.
 
 #### Good Drivers Can Steer to Different Destinations
 

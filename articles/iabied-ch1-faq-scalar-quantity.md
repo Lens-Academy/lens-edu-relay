@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-#### No. But there are levels AI hasn't reached.
+{--{"author":"AI","timestamp":1774265598466}@@TODO: Re-scrape from website--}#### No. But there are levels AI hasn't reached.
 
 We've sometimes heard it suggested that the idea of superintelligence assumes that "intelligence" is a simple, one-dimensional quantity. Pour more AI research in, get more "intelligence" out — as though intelligence were less like a machine, and more like a fluid that you can just keep pumping out of the ground.
 
