@@ -1,5 +1,5 @@
 ---
-title: ""Aligned to whom?""
+title: "Aligned to whom?"
 source_url: https://ifanyonebuildsit.com/13/aligned-to-whom
 published: 2025-09-16
 author:
