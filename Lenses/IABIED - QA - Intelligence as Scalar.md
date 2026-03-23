@@ -1,7 +1,7 @@
 ---
 id: a8fd7f0e-f120-4695-bdb2-69fdda698bae
-title: "Is 'intelligence' a simple scalar quantity?"{++{"author":"AI","timestamp":1774297869580}@@
-tldr: "No. But there are levels AI hasn't reached."++}
+title: "Is 'intelligence' a simple scalar quantity?"
+tldr: "No. But there are levels AI hasn't reached."
 tags:
   - lens
   - IABIED
