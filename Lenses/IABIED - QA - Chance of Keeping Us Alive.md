@@ -1,7 +1,8 @@
 ---
 id: 61065d0e-458f-4523-afbc-ccfd48375a9c
 title: "So there's at least a chance of AI keeping us alive?"
-tags:
+{++{"author":"AI","timestamp":1774297936911}@@tldr: "It's overwhelmingly more likely that AI kills everyone."
+++}tags:
   - lens
   - IABIED
   - supplementary

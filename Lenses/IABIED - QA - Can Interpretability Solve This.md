@@ -1,7 +1,8 @@
 ---
 id: e2182435-3994-4f05-82d4-6d79aa94c47b
 title: "Can interpretability solve this?"
-tags:
+{++{"author":"AI","timestamp":1774297932467}@@tldr: "Their thoughts are hard to read."
+++}tags:
   - lens
   - IABIED
   - supplementary

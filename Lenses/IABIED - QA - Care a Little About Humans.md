@@ -1,7 +1,8 @@
 ---
 id: 2ed51bc1-28d3-4db9-93fb-69e968d2beca
 title: "Won't AIs care at least a little about humans?"
-tags:
+{++{"author":"AI","timestamp":1774297935142}@@tldr: "Not in the way that matters."
+++}tags:
   - lens
   - IABIED
   - supplementary
