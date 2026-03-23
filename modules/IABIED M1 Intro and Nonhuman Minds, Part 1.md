@@ -91,6 +91,7 @@ source:: ![[../Lenses/IABIED - QA - When Will Worrisome AI Arrive]]
 
 # Lens: IABIED - QA - Extrapolating AI Progress
 optional:: true
+hide:: true
 source:: ![[../Lenses/IABIED - QA - Extrapolating AI Progress]]
 
 # Lens: IABIED - QA - Author Incentives and Conflicts
