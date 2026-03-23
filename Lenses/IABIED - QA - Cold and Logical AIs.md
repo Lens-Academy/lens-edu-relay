@@ -1,7 +1,8 @@
 ---
 id: c900a677-6a2b-4ac0-a192-c6a7927d4c22
 title: "Won't AIs inevitably be cold and logical, or otherwise missing some crucial spark?"
-tags:
+{++{"author":"AI","timestamp":1774297943138}@@tldr: "No."
+++}tags:
   - lens
   - IABIED
   - supplementary

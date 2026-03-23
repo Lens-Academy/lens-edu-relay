@@ -1,7 +1,8 @@
 ---
 id: 16398b2f-7a5b-4335-8d5d-24e190960c4e
 title: "Doesn't the Claude chatbot show signs of being aligned?"
-tags:
+{++{"author":"AI","timestamp":1774297941355}@@tldr: "\"What Claude says\" isn't the same as \"what Claude prefers.\""
+++}tags:
   - lens
   - IABIED
   - supplementary

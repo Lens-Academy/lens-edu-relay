@@ -1,7 +1,8 @@
 ---
 id: 77ae7904-9a9d-4c33-92f1-a2b229f91f8d
 title: "Curiosity Isn't Convergent"
-tags:
+{++{"author":"AI","timestamp":1774297947115}@@tldr: "Why Curiosity?"
+++}tags:
   - lens
   - IABIED
   - supplementary

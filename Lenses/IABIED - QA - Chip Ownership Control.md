@@ -1,7 +1,8 @@
 ---
 id: e22088ed-be97-4b97-a619-df6e792dd335
 title: "But you're advocating control of how many AI chips individuals can own."
-tags:
+{++{"author":"AI","timestamp":1774297940054}@@tldr: "Yes. We also advocate a research ban."
+++}tags:
   - lens
   - IABIED
   - supplementary
