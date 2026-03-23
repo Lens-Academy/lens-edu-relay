@@ -1,7 +1,7 @@
 ---
 id: beb387a7-0868-44aa-903d-79a26b445171
-title: "Why is Galvanic depicted as being fairly careful?"{++{"author":"AI","timestamp":1774297732067}@@
-tldr: "To provide a challenge to Sable."++}
+title: "Why is Galvanic depicted as being fairly careful?"
+tldr: "To provide a challenge to Sable."
 tags:
   - lens
   - IABIED

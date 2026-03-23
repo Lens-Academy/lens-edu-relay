@@ -1,8 +1,8 @@
 ---
 id: 6aba9b76-3637-4002-bb08-fbcf83802f82
 title: "Won't AIs need the rule of law?"
-{++{"author":"AI","timestamp":1774297750896}@@tldr: "AIs could coordinate with each other without including humans."
-++}tags:
+tldr: "AIs could coordinate with each other without including humans."
+tags:
   - lens
   - IABIED
   - supplementary

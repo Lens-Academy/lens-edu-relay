@@ -1,7 +1,7 @@
 ---
 id: ed98cb7a-2bd5-42f5-909d-a5220052033a
-title: "If the story started later, would the world be better prepared?"{++{"author":"AI","timestamp":1774297784146}@@
-tldr: "We can hope so."++}
+title: "If the story started later, would the world be better prepared?"
+tldr: "We can hope so."
 tags:
   - lens
   - IABIED
