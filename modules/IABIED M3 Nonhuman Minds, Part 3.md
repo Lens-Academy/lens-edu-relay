@@ -11,7 +11,7 @@ tags:
   - module
   - work-in-progress
 ---
-
+%% hello $
 # Lens: Welcome
 id:: caf48b0b-f27a-4c09-9336-b443ac7843f4
 
