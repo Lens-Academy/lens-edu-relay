@@ -1,6 +1,7 @@
 ---
 id: a9bf8d9f-cad8-4a86-9cfe-6c9bd4f33e5f
-title: "Why write a book about superhuman AI as an extinction threat?"
+title: "Why write a book about superhuman AI as an extinction threat?"{++{"author":"AI","timestamp":1774297869728}@@
+tldr: "Because the situation seems genuinely serious and urgent."++}
 tags:
   - lens
   - IABIED

@@ -1,6 +1,7 @@
 ---
 id: 550d735c-5f7a-4d2e-b95d-1d0859ffa4ee
-title: More on Intelligence as Prediction and Steering
+title: More on Intelligence as Prediction and Steering{++{"author":"AI","timestamp":1774297868238}@@
+tldr: "Same Predictions"++}
 tags:
   - lens
   - IABIED

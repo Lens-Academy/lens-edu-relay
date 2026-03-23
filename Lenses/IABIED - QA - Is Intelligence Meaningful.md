@@ -1,6 +1,7 @@
 ---
 id: a48d0490-027e-421f-b064-943425076a39
-title: "Is intelligence a meaningful concept?"
+title: "Is intelligence a meaningful concept?"{++{"author":"AI","timestamp":1774297872245}@@
+tldr: "Yes. There's a real phenomenon to describe, even if it's difficult to pin down."++}
 tags:
   - lens
   - IABIED

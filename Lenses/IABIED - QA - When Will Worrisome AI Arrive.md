@@ -1,6 +1,7 @@
 ---
 id: 9f2acee2-c3a8-4b6a-bb3d-f8d9e5deeff5
-title: "When is this worrisome sort of AI going to be developed?"
+title: "When is this worrisome sort of AI going to be developed?"{++{"author":"AI","timestamp":1774297867385}@@
+tldr: "Knowing that a technology is coming doesn't grant knowledge of exactly when it's coming."++}
 tags:
   - lens
   - IABIED

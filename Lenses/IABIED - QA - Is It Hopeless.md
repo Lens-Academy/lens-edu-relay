@@ -1,6 +1,7 @@
 ---
 id: 38e41e7a-a68e-4065-9a5d-7b58c891135a
-title: "Is the situation hopeless?"
+title: "Is the situation hopeless?"{++{"author":"AI","timestamp":1774297873262}@@
+tldr: "No."++}
 tags:
   - lens
   - IABIED

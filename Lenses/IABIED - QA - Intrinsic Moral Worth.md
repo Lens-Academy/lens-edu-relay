@@ -1,6 +1,7 @@
 ---
 id: a3e672c0-0889-45f7-ad90-cf6f902e1b99
-title: "Wouldn't AI recognize our intrinsic moral worth?"
+title: "Wouldn't AI recognize our intrinsic moral worth?"{++{"author":"AI","timestamp":1774297871260}@@
+tldr: "Not in a sense that moves it to act."++}
 tags:
   - lens
   - IABIED

@@ -1,7 +1,8 @@
 ---
 id: c958fdba-a5e4-437f-81f4-f5ea69c6053b
 title: "Do you see alignment as all-or-nothing?"
-tags:
+{++{"author":"AI","timestamp":1774297874468}@@tldr: "No. But \"partial alignment\" is still likely to be catastrophic."
+++}tags:
   - lens
   - IABIED
   - supplementary
