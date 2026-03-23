@@ -1,6 +1,7 @@
 ---
 id: ab553a4a-66b9-4191-bfe5-9178ebb5fec1
-title: "Won't the situation get better once governments get more involved?"
+title: "Won't the situation get better once governments get more involved?"{++{"author":"AI","timestamp":1774297736943}@@
+tldr: "It depends on how (and how soon) they get involved."++}
 tags:
   - lens
   - IABIED

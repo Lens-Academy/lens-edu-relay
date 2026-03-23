@@ -1,6 +1,7 @@
 ---
 id: 5f3a58d3-6e56-4226-a6e2-dd6e1b8cbafd
-title: "Aren't developers regularly making their AIs nice and safe and obedient?"
+title: "Aren't developers regularly making their AIs nice and safe and obedient?"{++{"author":"AI","timestamp":1774297736510}@@
+tldr: "AIs steer in alien directions that only mostly coincide with helpfulness."++}
 tags:
   - lens
   - IABIED

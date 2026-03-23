@@ -1,6 +1,7 @@
 ---
 id: aa4ced0d-1111-4085-9f62-49bab9b1a8a3
-title: "What if AI is developed only slowly, and it slowly integrates with society?"
+title: "What if AI is developed only slowly, and it slowly integrates with society?"{++{"author":"AI","timestamp":1774297742821}@@
+tldr: "That scenario still ends in catastrophe."++}
 tags:
   - lens
   - IABIED

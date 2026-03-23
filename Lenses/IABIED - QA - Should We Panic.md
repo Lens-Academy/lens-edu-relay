@@ -1,6 +1,7 @@
 ---
 id: e9901ca0-a4c0-4ee8-910c-73f7f8ceb237
-title: "Are you saying we should panic?"
+title: "Are you saying we should panic?"{++{"author":"AI","timestamp":1774297739324}@@
+tldr: "We're saying government officials should take the problem seriously."++}
 tags:
   - lens
   - IABIED
