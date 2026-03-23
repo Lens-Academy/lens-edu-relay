@@ -1,6 +1,7 @@
 ---
 id: a928c44c-8397-4653-ba88-391f16042c52
-title: "How long would it take to solve the ASI alignment problem?"
+title: "How long would it take to solve the ASI alignment problem?"{++{"author":"AI","timestamp":1774297850806}@@
+tldr: "The difficulty isn't just the lack of time; it's the lethality of mistakes."++}
 tags:
   - lens
   - IABIED

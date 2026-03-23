@@ -1,6 +1,7 @@
 ---
 id: 9f8920ab-46a7-4cd7-a739-1c43322a8055
-title: "Isn't this handing too much power to governments?"
+title: "Isn't this handing too much power to governments?"{++{"author":"AI","timestamp":1774297852098}@@
+tldr: "The power to ban dangerous technology is already vested in governments."++}
 tags:
   - lens
   - IABIED
