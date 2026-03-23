@@ -45,11 +45,13 @@ Discussion topics to explore:
 
 Ask what they found surprising or new. Check if they can explain why the endpoint is predictable even though the pathway is fiction — it's a key concept.
 
-# Learning Outcome: IABIED - Trace the Sable Scenario
+{++{"author":"AI","timestamp":1774279183123}@@<!--
+++}# Learning Outcome: IABIED - Trace the Sable Scenario
 source:: ![[../Learning Outcomes/IABIED - Trace the Sable Scenario]]
 
 # Learning Outcome: IABIED - Distinguish Scenario from Prediction
-source:: ![[../Learning Outcomes/IABIED - Distinguish Scenario from Prediction]]
+source:: ![[../Learning Outcomes/IABIED - Distinguish Scenario from Prediction]]{++{"author":"AI","timestamp":1774279183123}@@
+-->++}
 
 # Lens: IABIED - QA - Why This Setup
 optional:: true

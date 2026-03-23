@@ -39,11 +39,13 @@ Editorially, this chapter feels feels like a weird collection of oddities. It's 
 
 Really, the learning outcome here distills back to the power of intelligence (plus technology). 
 
-# Learning Outcome: IABIED - Human-Compatible Goals Are Vanishingly Rare
+{++{"author":"AI","timestamp":1774279180904}@@<!--
+++}# Learning Outcome: IABIED - Human-Compatible Goals Are Vanishingly Rare
 source:: ![[../Learning Outcomes/IABIED - Human-Compatible Goals Are Vanishingly Rare]]
 
 # Learning Outcome: IABIED - We'd Lose
-source:: ![[../Learning Outcomes/IABIED - We'd Lose]]
+source:: ![[../Learning Outcomes/IABIED - We'd Lose]]{++{"author":"AI","timestamp":1774279180904}@@
+-->++}
 
 # Lens: IABIED - QA - AI Find Us Useful
 optional:: true

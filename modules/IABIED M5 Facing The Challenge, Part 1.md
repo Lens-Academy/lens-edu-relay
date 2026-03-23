@@ -48,11 +48,13 @@ Discussion topics to explore:
 
 Ask what they found surprising or new. Check if they can enumerate the five curses and explain how at least two apply to AI alignment — it's a key concept.
 
-# Learning Outcome: IABIED - The Five Engineering Curses
+{++{"author":"AI","timestamp":1774279185339}@@<!--
+++}# Learning Outcome: IABIED - The Five Engineering Curses
 source:: ![[../Learning Outcomes/IABIED - The Five Engineering Curses]]
 
 # Learning Outcome: IABIED - Alchemy, Not Science
-source:: ![[../Learning Outcomes/IABIED - Alchemy, Not Science]]
+source:: ![[../Learning Outcomes/IABIED - Alchemy, Not Science]]{++{"author":"AI","timestamp":1774279185339}@@
+-->++}
 
 # Lens: IABIED - QA - AI Differs from Precedents
 optional:: true

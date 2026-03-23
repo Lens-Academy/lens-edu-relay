@@ -41,11 +41,13 @@ Discussion topics to explore:
 
 Ask what they found surprising or new. Check if they can explain the ice cream analogy in their own words — it's a key concept.
 
-# Learning Outcome: IABIED - Wanting Emerges from Training
+{++{"author":"AI","timestamp":1774279179064}@@<!--
+++}# Learning Outcome: IABIED - Wanting Emerges from Training
 source:: ![[../Learning Outcomes/IABIED - Wanting Emerges from Training]]
 
 # Learning Outcome: IABIED - You Don't Get What You Train For
-source:: ![[../Learning Outcomes/IABIED - You Don't Get What You Train For]]
+source:: ![[../Learning Outcomes/IABIED - You Don't Get What You Train For]]{++{"author":"AI","timestamp":1774279179064}@@
+-->++}
 
 # Lens: IABIED - QA - Human-Like Emotions
 optional:: true
