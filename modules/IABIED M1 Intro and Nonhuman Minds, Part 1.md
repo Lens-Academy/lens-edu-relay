@@ -55,6 +55,8 @@ source:: ![[../Learning Outcomes/IABIED - Define Intelligence]]
 source:: ![[../Learning Outcomes/IABIED - AI Is Grown, Not Crafted]]{++{"author":"AI","timestamp":1774279291318}@@
 %%++}
 
+# Lens
+
 # Lens: IABIED - QA - Why Write This Book
 optional:: true
 source:: ![[../Lenses/IABIED - QA - Why Write This Book]]
