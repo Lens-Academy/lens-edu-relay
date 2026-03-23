@@ -1,7 +1,8 @@
 ---
 id: d0f4b6a7-8c5b-4ec4-b19d-5a2c3f0e6d48
 title: "AIs Won't Keep Their Promises"
-tags:
+{++{"author":"AI","timestamp":1774297753558}@@tldr: "AIs Are Unlikely To Be Honorable"
+++}tags:
   - lens
   - IABIED
   - supplementary

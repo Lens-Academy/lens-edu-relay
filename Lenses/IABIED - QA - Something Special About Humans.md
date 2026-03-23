@@ -1,6 +1,7 @@
 ---
 id: 568cb83e-08e2-47ec-8993-38384de56124
-title: "Isn't there something special about humans that mere machines could never emulate?"
+title: "Isn't there something special about humans that mere machines could never emulate?"{++{"author":"AI","timestamp":1774297746530}@@
+tldr: "It seems unlikely, and not especially relevant."++}
 tags:
   - lens
   - IABIED

@@ -1,7 +1,8 @@
 ---
 id: 845bd004-c499-441a-bd36-c5b79f12920b
 title: "Aligned to whom?"
-tags:
+{++{"author":"AI","timestamp":1774297754410}@@tldr: "This is a thorny question. Regardless of the answer, we need to halt development."
+++}tags:
   - lens
   - IABIED
   - supplementary

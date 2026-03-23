@@ -1,7 +1,8 @@
 ---
 id: dda20895-9416-4a5f-93b5-14a92ef3fc84
 title: "Aren't AIs 'just math'?"
-tags:
+{++{"author":"AI","timestamp":1774297746448}@@tldr: "Saying AIs are \"just math\" is like saying humans are \"just biochemistry.\""
+++}tags:
   - lens
   - IABIED
   - supplementary

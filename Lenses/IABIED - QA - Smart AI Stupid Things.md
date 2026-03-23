@@ -1,6 +1,7 @@
 ---
 id: 90381b34-294e-4e2a-b884-555996939080
-title: "Why are you imagining a smart AI doing such stupid, trivial things?"
+title: "Why are you imagining a smart AI doing such stupid, trivial things?"{++{"author":"AI","timestamp":1774297744171}@@
+tldr: "AIs can intelligently pursue different things than a human would."++}
 tags:
   - lens
   - IABIED

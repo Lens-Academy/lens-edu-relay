@@ -1,7 +1,8 @@
 ---
 id: 57fb3bd9-cdbf-4304-bb1f-8c101489be3e
 title: "Aren't AIs only able to parrot back what humans say?"
-tags:
+{++{"author":"AI","timestamp":1774297748180}@@tldr: "To predict the next token well, LLMs need to learn how the world works."
+++}tags:
   - lens
   - IABIED
   - supplementary
