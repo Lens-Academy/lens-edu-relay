@@ -44,32 +44,30 @@ Discussion topics to explore:
 
 Ask what they found surprising or new. Check if they can explain why "grown, not crafted" matters for safety in their own words — it's a key concept.
 
-{++{"author":"AI","timestamp":1774279291318}@@%%
-++}# Learning Outcome: IABIED - If It's Valuable and Can Be Done...
+%%
+# Learning Outcome: IABIED - If It's Valuable and Can Be Done...
 source:: ![[../Learning Outcomes/IABIED - If It's Valuable and Can Be Done...]]
 
 # Learning Outcome: IABIED - Define Intelligence
 source:: ![[../Learning Outcomes/IABIED - Define Intelligence]]
 
 # Learning Outcome: IABIED - AI Is Grown, Not Crafted
-source:: ![[../Learning Outcomes/IABIED - AI Is Grown, Not Crafted]]{++{"author":"AI","timestamp":1774279291318}@@
-%%++}
+source:: ![[../Learning Outcomes/IABIED - AI Is Grown, Not Crafted]]
+%%
 
 # Lens: Overview of Optional Resources
 id:: 77b913b7-0462-4a87-bce0-5bb3419b34fc
 
 #### Text:
 content::
-{--{"author":"AI","timestamp":1774296873611}@@We can do some inline links like [[../Lenses/IABIED --}{++{"author":"AI","timestamp":1774296873611}@@The book's website includes supplementary Q&As and extended discussions for each chapter. Browse the ones relevant to this week's reading below.
+The book's website includes supplementary Q&As and extended discussions for each chapter. Browse the ones relevant to this week's reading below.
 
 **Introduction: Hard Calls and Easy Calls**
-::card[[../Lenses/IABIED ++}- QA - Why Write This Book]]{--{"author":"AI","timestamp":1774296873611}@@ and [[../Lenses/IABIED--}{++{"author":"AI","timestamp":1774296873611}@@
-::card[[../Lenses/IABIED++} - QA - Could ChatGPT Kill {--{"author":"AI","timestamp":1774296873611}@@Us]].
-
-And some card links like:--}{++{"author":"AI","timestamp":1774296873611}@@Us]]++}
+::card[[../Lenses/IABIED - QA - Why Write This Book]]
+::card[[../Lenses/IABIED - QA - Could ChatGPT Kill Us]]
 ::card[[../Lenses/IABIED - QA - Panicking and Overreacting]]
 ::card[[../Lenses/IABIED - QA - When Will Worrisome AI Arrive]]
-::card[[../Lenses/IABIED - QA - Extrapolating AI Progress]]{++{"author":"AI","timestamp":1774296873611}@@
+::card[[../Lenses/IABIED - QA - Extrapolating AI Progress]]
 ::card[[../Lenses/IABIED - QA - Author Incentives and Conflicts]]
 ::card[[../Lenses/IABIED - QA - Just Science Fiction]]
 ::card[[../Lenses/IABIED - QA - AI Experts on Catastrophe]]
@@ -94,9 +92,9 @@ And some card links like:--}{++{"author":"AI","timestamp":1774296873611}@@Us]]++
 ::card[[../Lenses/IABIED - QA - Shallowness of Current AIs]]
 ::card[[../Lenses/IABIED - QA - Power of Intelligence]]
 ::card[[../Lenses/IABIED - QA - Special Behavior from Mundane Parts]]
-::card[[../Lenses/IABIED - QA - Same Work Different Ways]]++}
+::card[[../Lenses/IABIED - QA - Same Work Different Ways]]
 
-{--{"author":"AI","timestamp":1774296873611}@@Let's see how that looks!--}{++{"author":"AI","timestamp":1774296873611}@@**Chapter 2: Grown, Not Crafted**
+**Chapter 2: Grown, Not Crafted**
 ::card[[../Lenses/IABIED - QA - Gradient Descent Matters]]
 ::card[[../Lenses/IABIED - QA - Do Experts Understand AIs]]
 ::card[[../Lenses/IABIED - QA - Intelligence Understandable]]
@@ -114,7 +112,7 @@ And some card links like:--}{++{"author":"AI","timestamp":1774296873611}@@Us]]++
 ::card[[../Lenses/IABIED - QA - Knowledge of LLMs]]
 ::card[[../Lenses/IABIED - QA - Obvious Insights Take Time]]
 ::card[[../Lenses/IABIED - QA - Full Description of an LLM]]
-::card[[../Lenses/IABIED - QA - Intelligence Isn't Ineffable]]++}
+::card[[../Lenses/IABIED - QA - Intelligence Isn't Ineffable]]
 
 # Lens: IABIED - QA - Why Write This Book
 optional:: true
@@ -143,206 +141,206 @@ source:: ![[../Lenses/IABIED - QA - Extrapolating AI Progress]]
 
 # Lens: IABIED - QA - Author Incentives and Conflicts
 optional:: true
-{++{"author":"AI","timestamp":1774296826514}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Author Incentives and Conflicts]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Author Incentives and Conflicts]]
 
 # Lens: IABIED - QA - Just Science Fiction
 optional:: true
-{++{"author":"AI","timestamp":1774296826514}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Just Science Fiction]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Just Science Fiction]]
 
 # Lens: IABIED - QA - AI Experts on Catastrophe
 optional:: true
-{++{"author":"AI","timestamp":1774296826514}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - AI Experts on Catastrophe]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - AI Experts on Catastrophe]]
 
 # Lens: IABIED - QA - Leo Szilard Saw the Future
 optional:: true
-{++{"author":"AI","timestamp":1774296826514}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Leo Szilard Saw the Future]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Leo Szilard Saw the Future]]
 
 # Lens: IABIED - QA - Is Intelligence Meaningful
 optional:: true
-{++{"author":"AI","timestamp":1774296826514}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Is Intelligence Meaningful]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Is Intelligence Meaningful]]
 
 # Lens: IABIED - QA - Human-Level Intelligence
 optional:: true
-{++{"author":"AI","timestamp":1774296826514}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Human-Level Intelligence]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Human-Level Intelligence]]
 
 # Lens: IABIED - QA - Intelligence as Multiple Skills
 optional:: true
-{++{"author":"AI","timestamp":1774296826514}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Intelligence as Multiple Skills]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Intelligence as Multiple Skills]]
 
 # Lens: IABIED - QA - Intelligence Overrated
 optional:: true
-{++{"author":"AI","timestamp":1774296826514}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Intelligence Overrated]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Intelligence Overrated]]
 
 # Lens: IABIED - QA - General Intelligence
 optional:: true
-{++{"author":"AI","timestamp":1774296826514}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - General Intelligence]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - General Intelligence]]
 
 # Lens: IABIED - QA - Intelligence as Scalar
 optional:: true
-{++{"author":"AI","timestamp":1774296826514}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Intelligence as Scalar]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Intelligence as Scalar]]
 
 # Lens: IABIED - QA - AI Critical Thresholds
 optional:: true
-{++{"author":"AI","timestamp":1774296826514}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - AI Critical Thresholds]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - AI Critical Thresholds]]
 
 # Lens: IABIED - QA - ChatGPT as General Intelligence
 optional:: true
-{++{"author":"AI","timestamp":1774296826514}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - ChatGPT as General Intelligence]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - ChatGPT as General Intelligence]]
 
 # Lens: IABIED - QA - How Smart Could Superintelligence Get
 optional:: true
-{++{"author":"AI","timestamp":1774296826514}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - How Smart Could Superintelligence Get]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - How Smart Could Superintelligence Get]]
 
 # Lens: IABIED - QA - Obstacles to Superintelligence
 optional:: true
-{++{"author":"AI","timestamp":1774296826514}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Obstacles to Superintelligence]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Obstacles to Superintelligence]]
 
 # Lens: IABIED - QA - Predicting Superintelligence
 optional:: true
-{++{"author":"AI","timestamp":1774296826514}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Predicting Superintelligence]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Predicting Superintelligence]]
 
 # Lens: IABIED - QA - Machines Fundamentally Uncreative
 optional:: true
-{++{"author":"AI","timestamp":1774296826514}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Machines Fundamentally Uncreative]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Machines Fundamentally Uncreative]]
 
 # Lens: IABIED - QA - Something Special About Humans
 optional:: true
-{++{"author":"AI","timestamp":1774296826514}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Something Special About Humans]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Something Special About Humans]]
 
 # Lens: IABIED - QA - Machines Becoming Conscious
 optional:: true
-{++{"author":"AI","timestamp":1774296826514}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Machines Becoming Conscious]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Machines Becoming Conscious]]
 
 # Lens: IABIED - QA - Intelligence as Prediction and Steering
 optional:: true
-{++{"author":"AI","timestamp":1774296826514}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Intelligence as Prediction and Steering]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Intelligence as Prediction and Steering]]
 
 # Lens: IABIED - QA - Shallowness of Current AIs
 optional:: true
-{++{"author":"AI","timestamp":1774296826514}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Shallowness of Current AIs]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Shallowness of Current AIs]]
 
 # Lens: IABIED - QA - Power of Intelligence
 optional:: true
-{++{"author":"AI","timestamp":1774296826514}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Power of Intelligence]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Power of Intelligence]]
 
 # Lens: IABIED - QA - Gradient Descent Matters
 optional:: true
-{++{"author":"AI","timestamp":1774296826514}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Gradient Descent Matters]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Gradient Descent Matters]]
 
 # Lens: IABIED - QA - Do Experts Understand AIs
 optional:: true
-{++{"author":"AI","timestamp":1774296826514}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Do Experts Understand AIs]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Do Experts Understand AIs]]
 
 # Lens: IABIED - QA - Intelligence Understandable
 optional:: true
-{++{"author":"AI","timestamp":1774296826514}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Intelligence Understandable]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Intelligence Understandable]]
 
 # Lens: IABIED - QA - AIs Think in English
 optional:: true
-{++{"author":"AI","timestamp":1774296826514}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - AIs Think in English]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - AIs Think in English]]
 
 # Lens: IABIED - QA - AIs Just Math
 optional:: true
-{++{"author":"AI","timestamp":1774296826514}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - AIs Just Math]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - AIs Just Math]]
 
 # Lens: IABIED - QA - Just Predicting Next Token
 optional:: true
-{++{"author":"AI","timestamp":1774296826514}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Just Predicting Next Token]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Just Predicting Next Token]]
 
 # Lens: IABIED - QA - AIs Just Parroting
 optional:: true
-{++{"author":"AI","timestamp":1774296826514}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - AIs Just Parroting]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - AIs Just Parroting]]
 
 # Lens: IABIED - QA - Cold and Logical AIs
 optional:: true
-{++{"author":"AI","timestamp":1774296826514}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Cold and Logical AIs]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Cold and Logical AIs]]
 
 # Lens: IABIED - QA - LLMs Like Their Training Data
 optional:: true
-{++{"author":"AI","timestamp":1774296826514}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - LLMs Like Their Training Data]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - LLMs Like Their Training Data]]
 
 # Lens: IABIED - QA - Surpassing Humans from Human Data
 optional:: true
-{++{"author":"AI","timestamp":1774296826514}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Surpassing Humans from Human Data]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Surpassing Humans from Human Data]]
 
 # Lens: IABIED - QA - Building Without Understanding
 optional:: true
-{++{"author":"AI","timestamp":1774296826514}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Building Without Understanding]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Building Without Understanding]]
 
 # Lens: IABIED - QA - Hallucinations Show Weakness
 optional:: true
-{++{"author":"AI","timestamp":1774296826514}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Hallucinations Show Weakness]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Hallucinations Show Weakness]]
 
 # Lens: IABIED - QA - Running Out of Resources
 optional:: true
-{++{"author":"AI","timestamp":1774296826514}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Running Out of Resources]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Running Out of Resources]]
 
 # Lens: IABIED - QA - LLMs to Superintelligence
 optional:: true
-{++{"author":"AI","timestamp":1774296826514}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - LLMs to Superintelligence]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - LLMs to Superintelligence]]
 
 # Lens: IABIED - QA - Knowledge of LLMs
 optional:: true
-{++{"author":"AI","timestamp":1774296826514}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Knowledge of LLMs]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Knowledge of LLMs]]
 
 # Lens: IABIED - QA - Obvious Insights Take Time
 optional:: true
-{++{"author":"AI","timestamp":1774296826514}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Obvious Insights Take Time]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Obvious Insights Take Time]]
 
 # Lens: IABIED - QA - Full Description of an LLM
 optional:: true
-{++{"author":"AI","timestamp":1774296826514}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Full Description of an LLM]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Full Description of an LLM]]
 
 # Lens: IABIED - QA - Special Behavior from Mundane Parts
 optional:: true
-{++{"author":"AI","timestamp":1774296826514}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Special Behavior from Mundane Parts]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Special Behavior from Mundane Parts]]
 
 # Lens: IABIED - QA - Same Work Different Ways
 optional:: true
-{++{"author":"AI","timestamp":1774296826514}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Same Work Different Ways]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Same Work Different Ways]]
 
 # Lens: IABIED - QA - Intelligence Isn't Ineffable
 optional:: true
-{++{"author":"AI","timestamp":1774296826514}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Intelligence Isn't Ineffable]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Intelligence Isn't Ineffable]]
 
