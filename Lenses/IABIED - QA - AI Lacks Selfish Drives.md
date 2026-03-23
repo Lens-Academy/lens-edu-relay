@@ -1,7 +1,8 @@
 ---
 id: 34c52200-f6b8-4fa8-88c7-2b3a46849231
 title: "Humans are dangerous because of selfish, greedy drives. AI won't have those drives?"
-tags:
+{++{"author":"AI","timestamp":1774297691167}@@tldr: "Those drives aren't necessary to motivate resource acquisition."
+++}tags:
   - lens
   - IABIED
   - supplementary

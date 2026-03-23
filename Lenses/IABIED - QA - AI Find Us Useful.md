@@ -1,7 +1,8 @@
 ---
 id: 8cb088a9-a296-4403-95a5-278c13ec3983
 title: "Will AI find us useful enough to keep around?"
-tags:
+{++{"author":"AI","timestamp":1774297689481}@@tldr: "Happy, healthy, free people aren't the most efficient solution to almost any problem."
+++}tags:
   - lens
   - IABIED
   - supplementary

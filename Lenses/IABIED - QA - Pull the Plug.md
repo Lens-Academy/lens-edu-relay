@@ -1,6 +1,7 @@
 ---
 id: 8402298b-c7d7-47f9-8038-6ed621dc98cd
-title: "Can we just pull the plug?"
+title: "Can we just pull the plug?"{++{"author":"AI","timestamp":1774297688467}@@
+tldr: "It's hard to just unplug a datacenter."++}
 tags:
   - lens
   - IABIED
