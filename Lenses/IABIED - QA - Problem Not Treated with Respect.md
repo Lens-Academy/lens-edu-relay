@@ -1,5 +1,5 @@
 ---
-id: e1i7g5h8-3h6c-4f0i-2e59-6j5h4i2g1f7e
+id: {--{"author":"AI","timestamp":1774277430095}@@e1i7g5h8-3h6c-4f0i-2e59-6j5h4i2g1f7e--}{++{"author":"AI","timestamp":1774277430095}@@6f5ddfc2-1f05-4bbe-8cb5-7abb7df67cfc++}
 title: "We Know What It Looks Like When a Problem Is Being Treated with Respect, And This Isn't It"
 tags:
   - lens
