@@ -1,6 +1,7 @@
 ---
 id: 01eaea0b-9f02-4b76-aef4-e5617addddf6
-title: "What if there are lots of different AIs?"
+title: "What if there are lots of different AIs?"{++{"author":"AI","timestamp":1774297728374}@@
+tldr: "It doesn't much help if we can't make any of them care about good things."++}
 tags:
   - lens
   - IABIED

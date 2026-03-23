@@ -1,6 +1,7 @@
 ---
 id: a5091f40-86bb-4e7a-ad1d-1d17b501a608
-title: "Won't AIs fix their own flaws as they get smarter?"
+title: "Won't AIs fix their own flaws as they get smarter?"{++{"author":"AI","timestamp":1774297729356}@@
+tldr: "The AI will fix what *it* sees as flaws."++}
 tags:
   - lens
   - IABIED

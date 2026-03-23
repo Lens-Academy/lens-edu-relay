@@ -1,6 +1,7 @@
 ---
 id: 36dea16d-1c96-4d1c-aec0-7c3f6ef25f32
-title: "Won't AIs be limited by their ability to design and run experiments?"
+title: "Won't AIs be limited by their ability to design and run experiments?"{++{"author":"AI","timestamp":1774297726168}@@
+tldr: "Intelligence lets you learn more from experiments and run faster, more informative, more parallelized experiments."++}
 tags:
   - lens
   - IABIED

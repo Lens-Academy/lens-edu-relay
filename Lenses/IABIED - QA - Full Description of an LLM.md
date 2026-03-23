@@ -1,6 +1,7 @@
 ---
 id: 2b7687df-d219-4247-bdcf-7a2a1b0b3181
-title: A Full Description of an LLM
+title: A Full Description of an LLM{++{"author":"AI","timestamp":1774297730696}@@
+tldr: "How Llama 3.1 405B Works"++}
 tags:
   - lens
   - IABIED

@@ -1,6 +1,7 @@
 ---
 id: 3ea8ff34-a795-4e7b-8aae-052c69fda14b
-title: "How could a machine end up with its own priorities?"
+title: "How could a machine end up with its own priorities?"{++{"author":"AI","timestamp":1774297730759}@@
+tldr: "Solving difficult challenges requires AIs to take more and more initiative."++}
 tags:
   - lens
   - IABIED
