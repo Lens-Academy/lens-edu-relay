@@ -165,11 +165,11 @@ source:: ![[../Lenses/IABIED - QA - Digital AIs Affect Us]]
 optional:: true
 source:: ![[../Lenses/IABIED - QA - Keep AI in a Box]]
 
-# Lens: IABIED - QA - Can We Just Contain It in a Box
+{--{"author":"AI","timestamp":1774268897493}@@# Lens: IABIED - QA - Can We Just Contain It in a Box
 optional:: true
 source:: ![[../Lenses/IABIED - QA - Can We Just Contain It in a Box]]
 
-# Lens: IABIED - QA - Exploit AI Weakness
+--}# Lens: IABIED - QA - Exploit AI Weakness
 optional:: true
 source:: ![[../Lenses/IABIED - QA - Exploit AI Weakness]]
 
@@ -177,11 +177,11 @@ source:: ![[../Lenses/IABIED - QA - Exploit AI Weakness]]
 optional:: true
 source:: ![[../Lenses/IABIED - QA - Enhance Humans]]
 
-# Lens: IABIED - QA - Could We Enhance Humans to Compete
+{--{"author":"AI","timestamp":1774268898843}@@# Lens: IABIED - QA - Could We Enhance Humans to Compete
 optional:: true
 source:: ![[../Lenses/IABIED - QA - Could We Enhance Humans to Compete]]
 
-# Lens: IABIED - QA - AI Civilization
+--}# Lens: IABIED - QA - AI Civilization
 optional:: true
 source:: ![[../Lenses/IABIED - QA - AI Civilization]]
 

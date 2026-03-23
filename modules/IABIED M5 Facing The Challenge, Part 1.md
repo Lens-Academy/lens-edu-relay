@@ -82,11 +82,11 @@ source:: ![[../Lenses/IABIED - QA - Before and After]]
 optional:: true
 source:: ![[../Lenses/IABIED - QA - Chicago Pile-1]]
 
-# Lens: IABIED - QA - Chicago Pile-1 Historical Analysis
+{--{"author":"AI","timestamp":1774268899840}@@# Lens: IABIED - QA - Chicago Pile-1 Historical Analysis
 optional:: true
 source:: ![[../Lenses/IABIED - QA - Chicago Pile-1 Historical Analysis]]
 
-# Lens: IABIED - QA - Muddle Through
+--}# Lens: IABIED - QA - Muddle Through
 optional:: true
 source:: ![[../Lenses/IABIED - QA - Muddle Through]]
 
