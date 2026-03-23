@@ -30,17 +30,16 @@ hello again
 source::
 [[../Learning Outcomes/trial for Testing|trial for Testing]]
 
-# Lens:
-source::{--{"author":"AI","timestamp":1774007736704}@@
---}{++{"author":"AI","timestamp":1774007736704}@@ ++}[[../Lenses/collapsed article text test]]
+# Lens: 
 
 # Lens:
-source::{--{"author":"AI","timestamp":1774007736704}@@
---} [[../Lenses/Trial question and roleplay]]
+source:: [[../Lenses/collapsed article text test]]
 
 # Lens:
-source::{--{"author":"AI","timestamp":1774007736704}@@
---} [[../Lenses/Kurzgesagt software demo]]
+source:: [[../Lenses/Trial question and roleplay]]
+
+# Lens:
+source:: [[../Lenses/Kurzgesagt software demo]]
 
 # Learning Outcome:
 source:: [[../Learning Outcomes/Demo LO]]
