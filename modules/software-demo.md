@@ -34,7 +34,7 @@ source::
 id:: 83fac088-1e23-4249-98ce-604b3f7c65d8
 #### Text
 content::
-Let's see if we can now 
+Let's see if we can now link to another article: [[../Lenses/collapsed article text test]]. That should show 
 
 # Lens:
 source:: [[../Lenses/collapsed article text test]]
