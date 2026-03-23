@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1774269766803}@@---
+---
 title: "Why not just read the AI's thoughts?"
 source_url: https://ifanyonebuildsit.com/11/why-not-just-read-the-ais-thoughts
 published: 2025-09-16
@@ -56,4 +56,4 @@ Reading the AI's thoughts is not a solution to the challenge. It's helpful, but 
 
 See also: [Warning signs don't help if you don't know what to do with them.](/11/wont-there-be-early-warnings-researchers-can-use-to-identify-problems#warning-signs-dont-help-if-you-dont-know-what-to-do-with-them)
 
-[*](#ftnt264_ref) We discuss this more in the final chapters of the book.++}
+[*](#ftnt264_ref) We discuss this more in the final chapters of the book.
