@@ -83,10 +83,10 @@ source:: ![[../Lenses/IABIED - QA - Sable's Expansion Phase]]
 optional:: true
 source:: ![[../Lenses/IABIED - QA - The Ending]]
 
-# Lens: IABIED - QA - Why Write a Fictional Scenario
+{--{"author":"AI","timestamp":1774269038572}@@# Lens: IABIED - QA - Why Write a Fictional Scenario
 optional:: true
 source:: ![[../Lenses/IABIED - QA - Why Write a Fictional Scenario]]
 
 # Lens: IABIED - QA - Isn't This Just Science Fiction
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Isn't This Just Science Fiction]]
+source:: ![[../Lenses/IABIED - QA - Isn't This Just Science Fiction]]--}

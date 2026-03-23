@@ -137,11 +137,11 @@ source:: ![[../Lenses/IABIED - QA - AI Consciousness]]
 optional:: true
 source:: ![[../Lenses/IABIED - QA - Non-Human Entities]]
 
-# Lens: IABIED - QA - Won't It Choose to Be Moral
+# Lens: IABIED - QA - {--{"author":"AI","timestamp":1774269036731}@@Won't It Choose to Be Moral
 optional:: true
 source:: ![[../Lenses/IABIED - QA - Won't It Choose to Be Moral]]
 
-# Lens: IABIED - QA - Taking the AI's Perspective
+# Lens: IABIED - QA - --}Taking the AI's Perspective
 optional:: true
 source:: ![[../Lenses/IABIED - QA - Taking the AI's Perspective]]
 
