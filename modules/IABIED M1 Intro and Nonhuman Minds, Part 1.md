@@ -62,7 +62,7 @@ id:: 77b913b7-0462-4a87-bce0-5bb3419b34fc
 content::
 The book's website includes supplementary Q&As and extended discussions for each chapter. Browse the ones relevant to this week's reading below.
 
-**Introduction: Hard Calls and Easy Calls**
+{--{"author":"AI","timestamp":1774296983009}@@**Introduction:--}{++{"author":"AI","timestamp":1774296983009}@@\## Introduction:++} Hard Calls and Easy {--{"author":"AI","timestamp":1774296983009}@@Calls**--}{++{"author":"AI","timestamp":1774296983009}@@Calls++}
 ::card[[../Lenses/IABIED - QA - Why Write This Book]]
 ::card[[../Lenses/IABIED - QA - Could ChatGPT Kill Us]]
 ::card[[../Lenses/IABIED - QA - Panicking and Overreacting]]
