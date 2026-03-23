@@ -1,6 +1,7 @@
 ---
 id: 188139f0-0677-4588-9ec7-52a70cd098d7
-title: "More on Some of the Plans We Critiqued in the Book"
+title: "More on Some of the Plans We Critiqued in the Book"{++{"author":"AI","timestamp":1774297773877}@@
+tldr: 'More on Making AI That Is "Truth-Seeking"'++}
 tags:
   - lens
   - IABIED

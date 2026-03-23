@@ -1,7 +1,8 @@
 ---
 id: df52321c-fa73-430f-b3a6-2782f8f4020e
 title: "A lot of people want kids. So aren't humans 'aligned' with natural selection after all?"
-tags:
+{++{"author":"AI","timestamp":1774297755841}@@tldr: "With more technology, we'd likely make even fewer copies of our genes."
+++}tags:
   - lens
   - IABIED
   - supplementary
