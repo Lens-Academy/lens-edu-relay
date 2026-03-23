@@ -1,6 +1,7 @@
 ---
 id: 39b965c6-1a8d-43f7-9229-121e0ea8d517
-title: "Can we enhance humans so they keep pace with AI?"
+title: "Can we enhance humans so they keep pace with AI?"{++{"author":"AI","timestamp":1774297702471}@@
+tldr: "No."++}
 tags:
   - lens
   - IABIED

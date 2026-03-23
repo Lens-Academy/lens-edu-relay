@@ -1,6 +1,7 @@
 ---
 id: e1a5c7b8-9d6c-4fd5-c20e-6b3d4a1f7e59
-title: "Effectiveness, Consciousness, and AI Welfare"
+title: "Effectiveness, Consciousness, and AI Welfare"{++{"author":"AI","timestamp":1774297700523}@@
+tldr: "Conscious Experience is Separate from the Referents of Those Experiences"++}
 tags:
   - lens
   - IABIED

@@ -1,6 +1,7 @@
 ---
 id: fbf978ff-f7f6-4653-8de7-198f7b414cdb
-title: "Isn't this all just fear-mongering by AI leaders?"
+title: "Isn't this all just fear-mongering by AI leaders?"{++{"author":"AI","timestamp":1774297707821}@@
+tldr: "No."++}
 tags:
   - lens
   - IABIED

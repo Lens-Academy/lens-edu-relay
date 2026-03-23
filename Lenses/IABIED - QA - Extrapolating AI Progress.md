@@ -1,6 +1,7 @@
 ---
 id: 59da6629-4a48-4296-a2e4-52fa6af3febc
-title: "Can we use past progress to extrapolate when we'll build smarter-than-human AI?"
+title: "Can we use past progress to extrapolate when we'll build smarter-than-human AI?"{++{"author":"AI","timestamp":1774297706506}@@
+tldr: "We don't have a good enough understanding of intelligence for that."++}
 tags:
   - lens
   - IABIED
