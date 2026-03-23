@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1774265579363}@@TODO: Re-scrape --}{++{"author":"AI","timestamp":1774265579363}@@#### It isn't clear.
+#### It isn't clear.
 
 To a large extent, the field is flying blind. It could be that there are no real obstacles remaining, and that minor adjustments to current techniques scale to superintelligence, or scale to AIs that are smart enough to build slightly smarter AIs that build slightly smarter AIs that build superintelligent AIs.
 
@@ -20,7 +20,7 @@ What we do know is that leading AI labs are explicitly pushing in that direction
 
 #### The field is good at overcoming obstacles.
 
-For decades, AIs struggled to even tell a picture of a cat apart ++}from {--{"author":"AI","timestamp":1774265579363}@@website--}{++{"author":"AI","timestamp":1774265579363}@@a picture of a car. A turning point came in 2012, when University of Toronto researchers Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton designed [AlexNet](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf), a convolutional neural network that dramatically outperformed the state of the art. This event is widely credited with kicking off the modern AI revolution, where artificial neural networks are used to power almost every modern AI.
+For decades, AIs struggled to even tell a picture of a cat apart from a picture of a car. A turning point came in 2012, when University of Toronto researchers Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton designed [AlexNet](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf), a convolutional neural network that dramatically outperformed the state of the art. This event is widely credited with kicking off the modern AI revolution, where artificial neural networks are used to power almost every modern AI.
 
 AI used to be bad at board games. Even after the chess AI [Deep Blue](https://www.ibm.com/history/deep-blue) defeated grandmaster Garry Kasparov in 1997, computers struggled with the much larger number of possible moves in the game of Go. That is, until 2016, when [AlphaGo](https://deepmind.google/research/projects/alphago/) defeated world champion Lee Sedol after training on thousands of human games, using a new architecture that combined deep neural networks with tree search. Once they'd beaten Go, the team at DeepMind used that same algorithm in a more general way, called [AlphaZero](https://deepmind.google/discover/blog/alphazero-shedding-new-light-on-chess-shogi-and-go/), and found that it dominated not just at Go but also at other games like chess and shogi.
 
@@ -46,4 +46,4 @@ If that next phase isn't enough for the AIs to start automating scientific and t
 
 [3] *far more researchers:* Private investment in artificial intelligence is [over twenty times higher](https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence) in 2025 than 2012, and the number of research teams has [increased sixfold](https://ourworldindata.org/grapher/affiliation-researchers-building-artificial-intelligence-systems-all), with the vast majority of the increase being AI industry teams. Major AI conferences are [nine to ten times larger](https://ourworldindata.org/grapher/attendance-major-artificial-intelligence-conferences) than in 2012.
 
-[4] *Pokémon:* For an analysis of how well one particular AI was doing at playing the video game as of March 2025, and where it was getting stuck, there is a [blog post on LessWrong.com](https://www.lesswrong.com/posts/HyD3khBjnBhvsp8Gb/so-how-well-is-claude-playing-pokemon).++}
+[4] *Pokémon:* For an analysis of how well one particular AI was doing at playing the video game as of March 2025, and where it was getting stuck, there is a [blog post on LessWrong.com](https://www.lesswrong.com/posts/HyD3khBjnBhvsp8Gb/so-how-well-is-claude-playing-pokemon).

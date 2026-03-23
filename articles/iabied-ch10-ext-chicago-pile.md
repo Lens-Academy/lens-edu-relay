@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1774265753466}@@TODO: Re-scrape --}{++{"author":"AI","timestamp":1774265753466}@@In 1942, Chicago Pile-1 was built under the direction of Enrico Fermi. It comprised 45,000 graphite blocks weighing 330 tonnes, 4.9 tonnes of uranium metal, and 41 tonnes of uranium dioxide, placed underneath the stands at the Stagg Field rackets court at the University of Chicago. Depending on how you define terms, you could call it the first nuclear reactor; it wasn't meant to produce power for industrial use, but it was the first engine for a sustained critical reaction.
+In 1942, Chicago Pile-1 was built under the direction of Enrico Fermi. It comprised 45,000 graphite blocks weighing 330 tonnes, 4.9 tonnes of uranium metal, and 41 tonnes of uranium dioxide, placed underneath the stands at the Stagg Field rackets court at the University of Chicago. Depending on how you define terms, you could call it the first nuclear reactor; it wasn't meant to produce power for industrial use, but it was the first engine for a sustained critical reaction.
 
 By modern standards, some safety corners were cut. For example, the part where it was built underneath the stands in a rackets court at a university inside a major city.
 
@@ -88,7 +88,7 @@ In such a world, perhaps another scientist still could have seen the lethal dang
 
 **Salviati:** When many of the [leading](https://youtu.be/KcbTbTxPMLc?feature=shared&t=1580) [scientists](https://www.youtube.com/watch?v=PTF5Up1hMhw&t=2283s) [warn](https://aistatement.com/) that there's a serious possibility of a lethal explosion, the fact that they can't calculate exactly when the explosion starts should make you *more* worried, not less. Maybe if we knew precisely how the bricks worked, we'd see that there was some narrow band where we can safely extract energy, below which the bricks are useless and above which the bricks are lethal. But the fact that the scientists are still bickering means that we *don't* know what we're doing yet! Which means that it's not the time to be playing around with whatever chain reaction is making those bricks warm today, lest it make them explode and kill us tomorrow! *Figure out the science first.*
 
-We are very, very far ++}from {--{"author":"AI","timestamp":1774265753466}@@website--}{++{"author":"AI","timestamp":1774265753466}@@being able to model AI even a fraction as well as Fermi understood nuclear chain reactions.
+We are very, very far from being able to model AI even a fraction as well as Fermi understood nuclear chain reactions.
 
 At some unknown point, if we continue down this path, we will run at breakneck speed into an outcome far more serious than irradiating Chicago.
 
@@ -98,4 +98,4 @@ At some unknown point, if we continue down this path, we will run at breakneck s
 
 #### Notes
 
-[1] *first thermonuclear weapon:* Castle Bravo was not the first detonation of a thermonuclear (hydrogen) *device;* that distinction belongs to the building-sized "Mike" of the [Ivy Mike test](https://en.wikipedia.org/wiki/Ivy_Mike), which did not rely on lithium.++}
+[1] *first thermonuclear weapon:* Castle Bravo was not the first detonation of a thermonuclear (hydrogen) *device;* that distinction belongs to the building-sized "Mike" of the [Ivy Mike test](https://en.wikipedia.org/wiki/Ivy_Mike), which did not rely on lithium.

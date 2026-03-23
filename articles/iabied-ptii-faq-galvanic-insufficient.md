@@ -11,7 +11,7 @@ tags:
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1774266695726}@@TODO: Re-scrape from website--}{++{"author":"AI","timestamp":1774266695726}@@#### In part because it's realistic.
+#### In part because it's realistic.
 
 We expect real companies to make even more blunders than Galvanic. That would fit with the trend of modern AI companies, as spelled out in the endnotes for Part II of the book.
 
@@ -59,4 +59,4 @@ The moment in the story where Galvanic keeps going despite the warning signs is,
 
 #### Notes
 
-[1] *warning signs:* For an enumeration of warning signs, see our answer to "[Aren't developers regularly making their AIs nice and safe and obedient?](/4/arent-developers-regularly-making-their-ais-nice-and-safe-and-obedient)"++}
+[1] *warning signs:* For an enumeration of warning signs, see our answer to "[Aren't developers regularly making their AIs nice and safe and obedient?](/4/arent-developers-regularly-making-their-ais-nice-and-safe-and-obedient)"

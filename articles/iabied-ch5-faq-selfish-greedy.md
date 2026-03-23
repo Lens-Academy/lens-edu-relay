@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1774265377620}@@TODO: Re-scrape--}{++{"author":"AI","timestamp":1774265377620}@@#### Those drives aren't necessary to motivate resource acquisition.
+#### Those drives aren't necessary to motivate resource acquisition.
 
 Imagine an AI that's piloting a robot to fetch some coffee. In order to fetch the coffee, it has to cross the street. Does the AI drive the robot recklessly into the street, where it gets smashed by a truck? No.
 
@@ -20,10 +20,10 @@ The AI doesn't need to have a human-style survival instinct in order to do its b
 
 Matter and energy are useful for almost every goal. No matter what the AI is steering toward, it can probably get it more effectively with more matter and more energy.[†](#ftnt189) The AI doesn't need to be selfish, aggressive, or greedy in the manner of a human in order to *do the work* of securing resources to achieve its goals.
 
-And the danger arises from the work, not++} from {--{"author":"AI","timestamp":1774265377620}@@website--}{++{"author":"AI","timestamp":1774265377620}@@the reason the work is done.
+And the danger arises from the work, not from the reason the work is done.
 
 An AI that doesn't hate you can still take actions that are lethally dangerous to you, just as a chess AI can crush you at chess [without feeling](/3/anthropomorphism-and-mechanomorphism) [competitive](/3/anthropomorphism-and-mechanomorphism) or driven to win.
 
 [\*](#ftnt188_ref) Related: The [extended discussion on curiosity](/4/curiosity-isnt-convergent).
 
-[†](#ftnt189_ref) See also the question of whether [the AI can be satisfied and then leave us alone](/5/can-the-ai-be-satisfied-to-the-point-where-it-just-leaves-us-alone).++}
+[†](#ftnt189_ref) See also the question of whether [the AI can be satisfied and then leave us alone](/5/can-the-ai-be-satisfied-to-the-point-where-it-just-leaves-us-alone).

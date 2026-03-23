@@ -11,7 +11,7 @@ tags:
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1774266021166}@@TODO: Re-scrape--}{++{"author":"AI","timestamp":1774266021166}@@#### We're optimistic about many things, but superintelligence isn't like most things.
+#### We're optimistic about many things, but superintelligence isn't like most things.
 
 We would consider ourselves much more [optimistic](/12/are-you-anti-technology) and gung-ho than the average person about nuclear power, geothermal power, genetic engineering, neuroengineering, biotech, nanotech, pharmaceutical development, and many other technologies.[\*](#ftnt191)
 
@@ -39,7 +39,7 @@ We provided a long list of ways that, e.g., "[superintelligence is fascinated wi
 
 The short answer is: You can't make good predictions about the future by just counting up all of the gloomy tales and all of the happy tales and weighing them like marbles on a scale. Thinking through different scenarios can sometimes be helpful, but not in quite that fashion.[†](#ftnt192)
 
-To illustrate the general point: Imagine that someone says, "Two hundred years++} from {--{"author":"AI","timestamp":1774266021166}@@website--}{++{"author":"AI","timestamp":1774266021166}@@now, there will be exactly eight whales in existence, and they will all be purple."
+To illustrate the general point: Imagine that someone says, "Two hundred years from now, there will be exactly eight whales in existence, and they will all be purple."
 
 Humans have wild imaginations. Someone could fill a book with hundreds of stories of how it came to pass that the whale population shrank to exactly eight members, all of them purple. Someone else could fill a book with hundreds of stories in which there *aren't* exactly eight whales. You can't make accurate predictions by saying, "Well, both sides have plausible-sounding stories, so surely the truth is somewhere in the middle."
 
@@ -57,4 +57,4 @@ What matters is the arguments themselves, not someone's bias toward optimism or 
 
 [\*](#ftnt191_ref) When we say we are more optimistic than average (about one technology or another), we mean that we *actually believe* the technology is more promising than the average person believes. *Dispositionally,* we see ourselves neither as optimists nor as pessimists, but as realists trying to navigate a complicated world. We are not trying to find a rosy picture to put our faith in, and we are not trying to find a dour picture to fuel our cynicism; we are simply trying to believe the truth. We believe this is the correct disposition when faced with high-stakes decisions.
 
-[†](#ftnt192_ref) To be clear: If the best you can do is say "I don't know, there are some happy tales and some gloomy tales, maybe it's fifty-fifty as to whether superintelligence would kill us or not," that's *way* more than sufficient to justify an aggressive international response, even if you weren't quite as worried as we personally are. But it also matters that people *understand the problem,* because otherwise the policy response is unlikely to be well-targeted and effective. And if you're just roughly comparing the number of good-sounding stories to the number of bad-sounding stories, then you aren't engaging with the arguments on either side, which is what would help build understanding.++}
+[†](#ftnt192_ref) To be clear: If the best you can do is say "I don't know, there are some happy tales and some gloomy tales, maybe it's fifty-fifty as to whether superintelligence would kill us or not," that's *way* more than sufficient to justify an aggressive international response, even if you weren't quite as worried as we personally are. But it also matters that people *understand the problem,* because otherwise the policy response is unlikely to be well-targeted and effective. And if you're just roughly comparing the number of good-sounding stories to the number of bad-sounding stories, then you aren't engaging with the arguments on either side, which is what would help build understanding.

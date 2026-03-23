@@ -11,7 +11,7 @@ tags:
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1774266824130}@@TODO: Re-scrape--}{++{"author":"AI","timestamp":1774266824130}@@#### With more technology, we'd likely make even fewer copies of our genes.
+#### With more technology, we'd likely make even fewer copies of our genes.
 
 Humans jockey for prestigious promotions and Ivy League admissions far more than they jockey for opportunities to donate to sperm or egg banks.
 
@@ -23,7 +23,7 @@ Many humans prize having children, but many others don't, and it's extremely rar
 
 Nevertheless, one might look at this picture and say: Well, humans wound up caring a *little* about having children, even if that care is less than maximal. Maybe AIs will have a *little* care about us, and toss us some sort of bone, rather than killing us all.
 
-One trouble with this hope is that the proxies we care about have recently (on evolutionary timescales) become untethered++} from {--{"author":"AI","timestamp":1774266824130}@@website--}{++{"author":"AI","timestamp":1774266824130}@@actual reproductive fitness, and they'll likely grow ever further apart in the future, as humans continue to find new technological avenues to satisfying their desires.
+One trouble with this hope is that the proxies we care about have recently (on evolutionary timescales) become untethered from actual reproductive fitness, and they'll likely grow ever further apart in the future, as humans continue to find new technological avenues to satisfying their desires.
 
 For instance: Our drive for children is not *quite* a drive for genetic propagation. Suppose that in the future, a technology is created that replaces all of the DNA in a person's cells with different molecular machinery that makes the person immune to all illnesses and extends their healthy lifespan.
 
@@ -49,4 +49,4 @@ But before we get there, let's take a step back for a moment. Imagine that the s
 
 If humanity rushes ahead and rolls the dice with superintelligence, then we expect a far, far worse outcome. But this still seems like a very bad plan to us, *even if* we had reason to think AIs would care about us some tiny amount. So this line of speculation seems not only mistaken but moot.
 
-[\*](#ftnt129_ref) For a related discussion, see the [extended discussion in the Chapter 6 resources](/6/nanotechnology-and-protein-synthesis), about how it's possible to go beyond the limits set by biology.++}
+[\*](#ftnt129_ref) For a related discussion, see the [extended discussion in the Chapter 6 resources](/6/nanotechnology-and-protein-synthesis), about how it's possible to go beyond the limits set by biology.

@@ -11,7 +11,7 @@ tags:
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1774266554793}@@TODO: Re-scrape --}{++{"author":"AI","timestamp":1774266554793}@@#### Knowing that a technology is coming doesn't grant knowledge of exactly when it's coming.
+#### Knowing that a technology is coming doesn't grant knowledge of exactly when it's coming.
 
 Many of the things people ask us to try to predict for them, we in fact have no way of knowing. When Leo Szilard wrote a letter warning the USA about nuclear weaponry in 1939, he did not and could not include any note along the lines of, "The first atomic weapon will be ready to detonate for testing in six years."
 
@@ -49,4 +49,4 @@ Timing the next technological breakthrough is incredibly difficult. We know that
 
 [1] *confidently asserted:* Quoting the 1903 article "[Flying Machines Which Do Not Fly](https://www.nytimes.com/1903/10/09/archives/flying-machines-which-do-not-fly.html)":
 
-> The machine does only what it must do in obedience to natural laws acting on passive matter. Hence, if it requires, say, a thousand years to fit for easy flight a bird which started with rudimentary wings, or ten thousand for one which started with no wings at all and had to sprout them ab initio, it might be assumed that the flying machine which will really fly might be evolved by the combined and continuous efforts of mathematicians and mechanicians in ++}from {--{"author":"AI","timestamp":1774266554793}@@website--}{++{"author":"AI","timestamp":1774266554793}@@one million to ten million years — provided, of course, we can meanwhile eliminate such little drawbacks and embarrassments as the existing relation between weight and strength in inorganic materials. No doubt the problem has attractions for those it interests, but to the ordinary man it would seem as if effort might be employed more profitably.++}
+> The machine does only what it must do in obedience to natural laws acting on passive matter. Hence, if it requires, say, a thousand years to fit for easy flight a bird which started with rudimentary wings, or ten thousand for one which started with no wings at all and had to sprout them ab initio, it might be assumed that the flying machine which will really fly might be evolved by the combined and continuous efforts of mathematicians and mechanicians in from one million to ten million years — provided, of course, we can meanwhile eliminate such little drawbacks and embarrassments as the existing relation between weight and strength in inorganic materials. No doubt the problem has attractions for those it interests, but to the ordinary man it would seem as if effort might be employed more profitably.

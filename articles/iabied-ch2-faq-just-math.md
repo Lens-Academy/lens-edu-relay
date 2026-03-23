@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1774265808751}@@TODO: Re-scrape--}{++{"author":"AI","timestamp":1774265808751}@@#### Saying AIs are "just math" is like saying humans are "just biochemistry."
+#### Saying AIs are "just math" is like saying humans are "just biochemistry."
 
 Strictly speaking, an AI isn't "just" math. It's a physical machine whose operations can be described mathematically. If that machine has outputs that can be read by humans, or if it has outputs that are connected to robot bodies, then it is just as capable of affecting the world as you are (using "only" bioelectrical signals inside your brain).
 
@@ -32,7 +32,7 @@ And while it's *cool* that an endless variety of things can be built out of extr
 
 Sometimes, yes, we don't know all the rules for how something adds up, and then the step from simpler things to complicated things can feel very mysterious, and can in fact surprise us. But when we *do* understand how a complicated thing is made out of simpler parts, it ends up feeling as straightforward as building a model racecar out of LEGOs. When you can see how it works, it's all there in the blocks.
 
-The same is true for neural networks. We don't understand how the complex behavior of modern AIs arises++} from {--{"author":"AI","timestamp":1774265808751}@@website--}{++{"author":"AI","timestamp":1774265808751}@@such simple parts the way we understand binary image formats and LEGOs. We don't even understand the "psychology" and "neuroscience" of AIs as well as we understand how the molecules and chemicals in a human neuron add up to human thought. That doesn't mean the knowledge *isn't there* or *can't exist*;it just means that we don't have it yet.
+The same is true for neural networks. We don't understand how the complex behavior of modern AIs arises from such simple parts the way we understand binary image formats and LEGOs. We don't even understand the "psychology" and "neuroscience" of AIs as well as we understand how the molecules and chemicals in a human neuron add up to human thought. That doesn't mean the knowledge *isn't there* or *can't exist*;it just means that we don't have it yet.
 
 Even without understanding why AIs work, humans can train them to play good chess. With enough parameters and arithmetic operations, we can train AIs to the point where they start talking like a person. You could say that the complicated patterns animating an AI to talk are "just math." But it's not "math" like questions on a high school math quiz. It's "just math" in the same way that a complete human brain is "just chemistry."
 
@@ -40,4 +40,4 @@ Mere chemistry landed on the moon. It invented nuclear weapons. It built the wor
 
 AI is no different. Somehow, even though we don't fully understand how AIs work internally, we were able to "grow" AIs that can write poetry, compose music, play chess, drive cars, fold laundry, do literature reviews, and discover new drugs.
 
-Being "made of math" didn't stop AIs from doing those things. So why should it stop AIs from doing another, more complex set of things tomorrow? Where do you draw the line, and how do you know to draw it there? Mathematical operations, it turns out, are sufficient for doing quite a lot more than many people expect.++}
+Being "made of math" didn't stop AIs from doing those things. So why should it stop AIs from doing another, more complex set of things tomorrow? Where do you draw the line, and how do you know to draw it there? Mathematical operations, it turns out, are sufficient for doing quite a lot more than many people expect.

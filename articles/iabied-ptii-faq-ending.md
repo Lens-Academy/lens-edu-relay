@@ -11,7 +11,7 @@ tags:
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1774266620543}@@TODO: Re-scrape --}{++{"author":"AI","timestamp":1774266620543}@@#### Because it constitutes our actual best guess according to what's physically possible.
+#### Because it constitutes our actual best guess according to what's physically possible.
 
 Chapter 9 depicts a superintelligence pushing its technology all the way to the limits of physical possibility. The exact technologies we name are all speculative, in a sense — but even though the *exact* technology that a superintelligence would unlock is difficult to call, the fact that it would run close to the physical limits is an easier call. So we made our best guesses about how technology would look if it were pushed close to the physical limits of what's possible.
 
@@ -24,8 +24,8 @@ For the curious, here's a list of the speculative technologies we mention in Cha
 - **Star-sized minds**: In principle, computers can be scaled in size enormously. At the upper end of scale is a concept sometimes called a [Matrioshka brain](https://gwern.net/doc/ai/scaling/hardware/1999-bradbury-matrioshkabrains.pdf), or "Jupiter brain" — a vast computer powered by the output of a star.
 - **Quantum computers:** A quantum computer exploits a feature of quantum mechanics called "superposition" to perform many calculations in parallel. Quantum computers require extreme precision to build, and one design requires superconductors that must be kept extremely cold. See [NIST's explainer](https://www.nist.gov/quantum-information-science/quantum-computing-explained) for more.
 
-The grim ending of the story also discusses the possibility of AI one day encountering aliens, hundreds of millions of years into the future, as it expands into the far reaches of the universe. The universe is big, and simple models suggest that it might house more than one species capable of one day forming civilizations, though perhaps very far away ++}from {--{"author":"AI","timestamp":1774266620543}@@website--}{++{"author":"AI","timestamp":1774266620543}@@Earth. See also Robin Hanson's 2021 paper attempting to resolve the Fermi Paradox, "[If Loud Aliens Explain Human Earliness, Quiet Aliens Are Also Rare](https://arxiv.org/abs/2102.01522)."
+The grim ending of the story also discusses the possibility of AI one day encountering aliens, hundreds of millions of years into the future, as it expands into the far reaches of the universe. The universe is big, and simple models suggest that it might house more than one species capable of one day forming civilizations, though perhaps very far away from Earth. See also Robin Hanson's 2021 paper attempting to resolve the Fermi Paradox, "[If Loud Aliens Explain Human Earliness, Quiet Aliens Are Also Rare](https://arxiv.org/abs/2102.01522)."
 
 The purpose of Chapter 9 is, in part, to give a sense of scope, and a sense of what the stakes are. It doesn't actually matter how close a superintelligence can push its technology to the limits of physical possibility. But it is very likely that the consequences of a rogue superintelligence would extend beyond the planetary scale. And that, too, is worth remembering, for everyone who wishes that one day the stars would be filled with love and wonder and joy.
 
-[\*](#ftnt249_ref) For more information, see [a technical paper about the toxin](https://pmc.ncbi.nlm.nih.gov/articles/PMC2856357/)*,* the broad overview [on Wikipedia](https://en.wikipedia.org/wiki/Botulinum_toxin)*,* or the Chapter 6 extended discussion on [nanosystems](/6/nanotechnology-and-protein-synthesis#nanosystems).++}
+[\*](#ftnt249_ref) For more information, see [a technical paper about the toxin](https://pmc.ncbi.nlm.nih.gov/articles/PMC2856357/)*,* the broad overview [on Wikipedia](https://en.wikipedia.org/wiki/Botulinum_toxin)*,* or the Chapter 6 extended discussion on [nanosystems](/6/nanotechnology-and-protein-synthesis#nanosystems).

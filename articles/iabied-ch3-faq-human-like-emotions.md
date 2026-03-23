@@ -11,7 +11,7 @@ tags:
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1774266263836}@@TODO: Re-scrape from website--}{++{"author":"AI","timestamp":1774266263836}@@#### Probably not.
+#### Probably not.
 
 AIs don't need to be human-like in order to be great at solving problems. They don't even need to be human-like to be great at solving the problem "imitate humans."
 
@@ -35,4 +35,4 @@ AI researchers' aspiration is to create an AI that's like the best chess program
 
 And the reason such AIs will act like they want things isn't that they're just like humans, and *humans* want things.
 
-It's that want-like behavior helps with winning.++}
+It's that want-like behavior helps with winning.

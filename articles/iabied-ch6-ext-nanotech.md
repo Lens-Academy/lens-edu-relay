@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1774266099992}@@TODO: Re-scrape--}{++{"author":"AI","timestamp":1774266099992}@@Human intelligence has given us many advantages over other species. One of the most consequential, however, has been our ability to invent new technologies. If developers race ahead and build smarter-than-human AI, then we can similarly expect a great deal of AI's power to come from its ability to advance scientific and technological frontiers. But what, concretely, does this look like? What not-yet-invented technologies are waiting for discovery?
+Human intelligence has given us many advantages over other species. One of the most consequential, however, has been our ability to invent new technologies. If developers race ahead and build smarter-than-human AI, then we can similarly expect a great deal of AI's power to come from its ability to advance scientific and technological frontiers. But what, concretely, does this look like? What not-yet-invented technologies are waiting for discovery?
 
 This is a hard question to answer in any generality. A scientist in 1850 would have a very hard time guessing many of the inventions of the next hundred years.
 
@@ -313,7 +313,7 @@ The three known cases of wheel invention are at the molecular level, and so bypa
 
 Similarly, you can read arguments online about how animals developing wheels for locomotion wouldn't be that useful anyways, without paved roads. But the three known cases of molecular wheels are incredibly thermodynamically efficient and in extraordinarily vital positions to their organisms — you cannot make much of a case that ATP synthase is not a useful wheel to possess. Freely rotating wheels would have more potential uses in bodies (and in biochemistry) than just using them to replace feet.
 
-For that matter: Some of the [most dextrous modern robots](https://www.youtube.com/watch?v=iL833P0Vino), which can climb over rocks or snow or balance on one limb and do backflips, also have wheels added to the ends of their feet. Why wouldn't they? It's easy enough for a human engineer to stick wheels at the ends of legs. The main thing getting in the way isn't that wheels are useless; it's that it turns out to be hard to find an evolutionary pathway to achieve wheels, even though wheels are trivial++} from {--{"author":"AI","timestamp":1774266099992}@@website--}{++{"author":"AI","timestamp":1774266099992}@@the perspective of a human designer.
+For that matter: Some of the [most dextrous modern robots](https://www.youtube.com/watch?v=iL833P0Vino), which can climb over rocks or snow or balance on one limb and do backflips, also have wheels added to the ends of their feet. Why wouldn't they? It's easy enough for a human engineer to stick wheels at the ends of legs. The main thing getting in the way isn't that wheels are useless; it's that it turns out to be hard to find an evolutionary pathway to achieve wheels, even though wheels are trivial from the perspective of a human designer.
 
 [††](#ftnt239_ref) At the time, Freitas interpreted his numbers as an *upper* bound on how quickly this process could occur, but this turned out to be wrong. Freitas's analysis had assumed that the nanosystems' mass would be dominated by radiation shielding, but this relied on a (false) assumption in *Nanosystems*: that a single radiation strike would knock out a nanosystem.
 
@@ -331,4 +331,4 @@ Because Freitas's analysis combines numbers that are conservative in different d
 
 [4] *probability of spreading:* If a mutation's fitness advantage is *s* << 1, and the population size is *N*, then the probability of the mutation spreading through the whole population (called "fixation") is [about](https://pmc.ncbi.nlm.nih.gov/articles/PMC2607448/) 2*s*, and the time it takes the mutation to fully spread is [about](https://www.zoology.ubc.ca/~otto/Reprints/OttoWhitlock2003.pdf) 2 ln(*N*) / *s*.
 
-[5] *artificial cell:* Freitas's works include [diagrams of molecular sorting rotors](https://web.archive.org/web/20060107015404/http://www.foresight.org/Nanomedicine/Respirocytes1.html#Sec222) that could pump specific molecules in and out of a diamond-sheathed artificial blood cell.++}
+[5] *artificial cell:* Freitas's works include [diagrams of molecular sorting rotors](https://web.archive.org/web/20060107015404/http://www.foresight.org/Nanomedicine/Respirocytes1.html#Sec222) that could pump specific molecules in and out of a diamond-sheathed artificial blood cell.
