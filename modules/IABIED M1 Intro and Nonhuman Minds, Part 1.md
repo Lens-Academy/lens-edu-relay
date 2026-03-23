@@ -76,14 +76,17 @@ source:: ![[../Lenses/IABIED - QA - Why Write This Book]]
 
 # Lens: IABIED - QA - Could ChatGPT Kill Us
 optional:: true
+hide:: true
 source:: ![[../Lenses/IABIED - QA - Could ChatGPT Kill Us]]
 
 # Lens: IABIED - QA - Panicking and Overreacting
 optional:: true
+hide:: true
 source:: ![[../Lenses/IABIED - QA - Panicking and Overreacting]]
 
 # Lens: IABIED - QA - When Will Worrisome AI Arrive
 optional:: true
+hide:: true
 source:: ![[../Lenses/IABIED - QA - When Will Worrisome AI Arrive]]
 
 # Lens: IABIED - QA - Extrapolating AI Progress
