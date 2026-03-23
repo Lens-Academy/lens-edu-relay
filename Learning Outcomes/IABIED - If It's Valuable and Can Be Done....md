@@ -1,17 +1,14 @@
 ---
 id: ed5fab41-b9a2-466f-89bd-825af3944c1c
-learning-outcome: {++{"author":"AI","timestamp":1773780798110}@@"Explain++} why ASI {++{"author":"AI","timestamp":1773780798110}@@development ++}is relatively easy to {--{"author":"AI","timestamp":1773780798110}@@predict, whereas--}{++{"author":"AI","timestamp":1773780798110}@@predict while++} timelines remain{--{"author":"AI","timestamp":1773780798110}@@ very difficult. Bonus: They begin to get a feel for how forecasting works."--}{++{"author":"AI","timestamp":1773780798110}@@ hard, using the easy calls vs hard calls framework"++}
+learning-outcome: "Explain why ASI development is relatively easy to predict while timelines remain hard, using the easy calls vs hard calls framework"
 tags:
   - work-in-progress
-  -{--{"author":"AI","timestamp":1773780798110}@@ learning outcome--}{++{"author":"AI","timestamp":1773780798110}@@ learning-outcome++}
+  - learning-outcome
   - IABIED
----{--{"author":"AI","timestamp":1773780798110}@@
---}{++{"author":"AI","timestamp":1773780798110}@@
+---
 
-++}##{--{"author":"AI","timestamp":1773780798110}@@ Lens:
-optional:: false
-source:: [[../Lenses/AIBIED - Introduction]]--}{++{"author":"AI","timestamp":1773780798110}@@ Test:++}
+## Test:
 
 ## Lens:
 optional:: true
-source:: {--{"author":"AI","timestamp":1773780798110}@@[[../Lenses/AIBIED--}![[../Lenses/IABIED - QA - Is Intelligence a Meaningful Concept]]
+source:: ![[../Lenses/IABIED - QA - Is Intelligence a Meaningful Concept]]

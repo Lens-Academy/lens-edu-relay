@@ -1,5 +1,5 @@
 ---
-id: {--{"author":"AI","timestamp":1774277431672}@@b8f4d2e5-0e39-4c7f-9b26-3g2e1f9d8c4b--}{++{"author":"AI","timestamp":1774277431672}@@bac5f63b-add8-4553-808e-8146f934ea4b++}
+id: bac5f63b-add8-4553-808e-8146f934ea4b
 title: "What about various other AI alignment plans?"
 tags:
   - lens

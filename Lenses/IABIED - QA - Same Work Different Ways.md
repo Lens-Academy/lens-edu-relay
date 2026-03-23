@@ -1,5 +1,5 @@
 ---
-id: {--{"author":"AI","timestamp":1774277436607}@@b8f4d2e5-9a30-4c7b-af63-2e4g18c9b3d7--}{++{"author":"AI","timestamp":1774277436607}@@08fca4a1-6634-4747-8c90-3eb966f129f4++}
+id: 08fca4a1-6634-4747-8c90-3eb966f129f4
 title: "The Same Work Can Be Done in Many Different Ways"
 tags:
   - lens

@@ -130,16 +130,14 @@ Every Lens needs:
 ```markdown
 ---
 id: <generate a UUID>
----{--{"author":"AI","timestamp":1773948598852}@@
-### Article: `Article Title`
-source:: [[../articles/article-filename]]--}
+---
 
 #### Text
 content::
 `<introductory text — context for the student before they read>`
 
-#### {--{"author":"AI","timestamp":1773948598852}@@Article-excerpt--}{++{"author":"AI","timestamp":1773948598852}@@Article
-source:: [[../articles/article-filename]]++}
+#### Article
+source:: [[../articles/article-filename]]
 to:: "`<exact quote where the excerpt should stop>`"
 
 #### Text
@@ -161,17 +159,13 @@ Ask what they found surprising or new. Check if they can explain `<key concept>`
 `<context for the chatbot about what prompt the user is responding to>`
 ```
 
-**Header section**: Just the `id` (UUID){--{"author":"AI","timestamp":1773948598852}@@
-
-**Article section**:
-- Title of the article
-- `source::` links to the article file--}
+**Header section**: Just the `id` (UUID)
 
 **Text sections**:
 - Introduction before the reading
 - Prompt after the reading (how to engage with the chatbot)
 
-{--{"author":"AI","timestamp":1773948598852}@@**Article-excerpt**: Where--}{++{"author":"AI","timestamp":1773948598852}@@**Article segment**: Links++} to {--{"author":"AI","timestamp":1773948598852}@@stop showing--}{++{"author":"AI","timestamp":1773948598852}@@the source article; `from::`/`to::` anchors define++} the {--{"author":"AI","timestamp":1773948598852}@@article (using an exact quote)--}{++{"author":"AI","timestamp":1773948598852}@@excerpt. Subsequent `#### Article` segments inherit the source.++}
+**Article segment**: Links to the source article; `from::`/`to::` anchors define the excerpt. Subsequent `#### Article` segments inherit the source.
 
 **Chat section**: Instructions for the AI tutor
 - TLDR summary of the reading
@@ -210,22 +204,20 @@ slug: module-name-here
 title: Module Title Here
 discussion: <Discord channel URL>
 ---
-# {--{"author":"AI","timestamp":1773948619923}@@Page:--}{++{"author":"AI","timestamp":1773948619923}@@Lens:++} Welcome
-id:: <generate another UUID for {--{"author":"AI","timestamp":1773948619923}@@the page>--}{++{"author":"AI","timestamp":1773948619923}@@this lens>++}
+# Lens: Welcome
+id:: <generate another UUID for this lens>
 
-{--{"author":"AI","timestamp":1773948619923}@@##--}{++{"author":"AI","timestamp":1773948619923}@@####++} Text
+#### Text
 content:: `<overview text introducing this module>`
 
 # Learning Outcome:
 source:: ![[../Learning Outcomes/First Outcome]]
 
 # Learning Outcome:
-source:: ![[../Learning Outcomes/Second Outcome]]{--{"author":"AI","timestamp":1773948619923}@@
-
-# Uncategorized:--}
+source:: ![[../Learning Outcomes/Second Outcome]]
 {>>A place where we can store lenses that are not yet attached to a learning outcome<<}
 
-{--{"author":"AI","timestamp":1773948639437}@@##--}{++{"author":"AI","timestamp":1773948639437}@@#++} Lens:
+# Lens:
 optional:: true
 source:: ![[../Lenses/Optional Extra Lens]]
 ```
@@ -236,14 +228,14 @@ source:: ![[../Lenses/Optional Extra Lens]]
 - `title`: Display name for the module
 - `discussion`: Discord channel link
 
-{--{"author":"AI","timestamp":1773948646989}@@**Page--}{++{"author":"AI","timestamp":1773948646989}@@**Inline Lens++} section**: The welcome/intro content
-- `id::` for the {--{"author":"AI","timestamp":1773948646989}@@page--}{++{"author":"AI","timestamp":1773948646989}@@lens++} itself
-- {--{"author":"AI","timestamp":1773948646989}@@`content::`--}{++{"author":"AI","timestamp":1773948646989}@@`#### Text` / `#### Chat` segments++} with {--{"author":"AI","timestamp":1773948646989}@@overview text--}{++{"author":"AI","timestamp":1773948646989}@@content++}
+**Inline Lens section**: The welcome/intro content
+- `id::` for the lens itself
+- `#### Text` / `#### Chat` segments with content
 
 **Learning Outcome references**: Link to each outcome using `source:: ![[path]]`
 
-{--{"author":"AI","timestamp":1773948646989}@@**Uncategorized section**: Optional lenses not tied--}{++{"author":"AI","timestamp":1773948646989}@@**Referenced Lens sections**: Lenses imported from separate files
-- `source::` links++} to {--{"author":"AI","timestamp":1773948646989}@@a specific outcome--}{++{"author":"AI","timestamp":1773948646989}@@the lens file++}
+**Referenced Lens sections**: Lenses imported from separate files
+- `source::` links to the lens file
 - `optional:: true` marks it as not required
 
 ### Step 4: Add the module to the course
