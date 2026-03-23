@@ -39,7 +39,7 @@ Let's see if we can now link to another article: [[../Lenses/collapsed article t
 And this should show a card:
 ::card[[../Lenses/Trial question and roleplay]]
 
-
+Let's see if that works!
 # Lens:
 source:: [[../Lenses/collapsed article text test]]
 
