@@ -1,7 +1,8 @@
 ---
 id: f9e787b3-476e-436e-9967-5428976c79e7
 title: "Won't AI differ from all the historical precedents?"
-tags:
+{++{"author":"AI","timestamp":1774297686775}@@tldr: "Yes."
+++}tags:
   - lens
   - IABIED
   - supplementary

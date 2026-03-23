@@ -1,6 +1,7 @@
 ---
 id: 72bca5c6-5bcc-4bb7-bbf0-18b3e149bae2
-title: "Isn't this AI stuff just science fiction?"
+title: "Isn't this AI stuff just science fiction?"{++{"author":"AI","timestamp":1774297677758}@@
+tldr: "We can't learn much from a topic's prevalence in fiction."++}
 tags:
   - lens
   - IABIED

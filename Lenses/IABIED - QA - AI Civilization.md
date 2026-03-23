@@ -1,6 +1,7 @@
 ---
 id: 8b6e9cea-afb4-4ece-a8c0-3b90dad20623
-tags:
+{++{"author":"AI","timestamp":1774297681426}@@tldr: "With computers, the hard part is getting them to solve a certain problem at all. High volume and speed come soon after."
+++}tags:
   - lens
   - IABIED
   - supplementary
