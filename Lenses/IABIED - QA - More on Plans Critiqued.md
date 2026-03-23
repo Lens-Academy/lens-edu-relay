@@ -1,5 +1,5 @@
 ---
-id: {--{"author":"AI","timestamp":1774277434095}@@d0h6f4g7-2g5b-4e9h-1d48-5i4g3h1f0e6d--}{++{"author":"AI","timestamp":1774277434095}@@188139f0-0677-4588-9ec7-52a70cd098d7++}
+id: 188139f0-0677-4588-9ec7-52a70cd098d7
 title: "More on Some of the Plans We Critiqued in the Book"
 tags:
   - lens

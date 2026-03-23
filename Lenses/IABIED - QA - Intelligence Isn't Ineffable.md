@@ -1,5 +1,5 @@
 ---
-id: {--{"author":"AI","timestamp":1774277435436}@@c9g5e3f6-ab41-4d8c-bg74-3f5h29dac4e8--}{++{"author":"AI","timestamp":1774277435436}@@480dd23f-538a-4a27-a19b-946caf38f92e++}
+id: 480dd23f-538a-4a27-a19b-946caf38f92e
 title: "Intelligence Isn't Ineffable"
 tags:
   - lens
