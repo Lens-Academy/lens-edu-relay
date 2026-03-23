@@ -60,7 +60,9 @@ source:: ![[../Learning Outcomes/IABIED - AI Is Grown, Not Crafted]]{++{"author"
 content::
 We can do some inline links like [[../Lenses/IABIED - QA - Why Write This Book]] and [[../Lenses/IABIED - QA - Could ChatGPT Kill Us]].
 
-And
+And some card links like:
+::card[[../Lenses/IABIED - QA - Panicking and Overreacting]]
+
 
 # Lens: IABIED - QA - Why Write This Book
 optional:: true
