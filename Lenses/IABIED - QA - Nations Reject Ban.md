@@ -1,7 +1,7 @@
 ---
 id: e680f1c6-bfa8-41d6-b84d-8198fbd01b98
-title: "Wouldn't some nations reject a ban?"{++{"author":"AI","timestamp":1774297776420}@@
-tldr: "Not if they understand the threat."++}
+title: "Wouldn't some nations reject a ban?"
+tldr: "Not if they understand the threat."
 tags:
   - lens
   - IABIED

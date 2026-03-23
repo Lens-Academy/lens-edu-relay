@@ -1,7 +1,7 @@
 ---
 id: 50b3cceb-4afc-48f3-9f10-539a3fe2eab0
-title: "Why did you write the ending in the way that you did?"{++{"author":"AI","timestamp":1774297786372}@@
-tldr: "Because it constitutes our actual best guess according to what's physically possible."++}
+title: "Why did you write the ending in the way that you did?"
+tldr: "Because it constitutes our actual best guess according to what's physically possible."
 tags:
   - lens
   - IABIED

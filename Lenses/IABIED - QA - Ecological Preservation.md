@@ -1,7 +1,7 @@
 ---
 id: 8dd221f8-d94e-4809-8798-46296ed6ab31
-title: "Won't AI want to keep us happy and healthy for ecological preservation or similar drive?"{++{"author":"AI","timestamp":1774297677192}@@
-tldr: "The human preference for ecological preservation looks like another weird contingent drive."++}
+title: "Won't AI want to keep us happy and healthy for ecological preservation or similar drive?"
+tldr: "The human preference for ecological preservation looks like another weird contingent drive."
 tags:
   - lens
   - IABIED

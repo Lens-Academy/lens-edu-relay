@@ -1,8 +1,8 @@
 ---
 id: db2ffbfe-6eb7-44c0-b5d0-b2c3825f0da3
 title: "Isn't it smarter to avoid talking about extinction?"
-{++{"author":"AI","timestamp":1774297882449}@@tldr: "The time has passed for playing political games."
-++}tags:
+tldr: "The time has passed for playing political games."
+tags:
   - lens
   - IABIED
   - supplementary

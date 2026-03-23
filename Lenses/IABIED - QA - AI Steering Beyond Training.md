@@ -1,8 +1,8 @@
 ---
 id: 66a11607-f9f4-4dc4-9c27-1e657e2ab50b
 title: "Why would an AI steer toward anything other than what it was trained to steer toward?"
-{++{"author":"AI","timestamp":1774297692581}@@tldr: "Because there are many ways to perform well in training."
-++}tags:
+tldr: "Because there are many ways to perform well in training."
+tags:
   - lens
   - IABIED
   - supplementary

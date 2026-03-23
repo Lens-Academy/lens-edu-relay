@@ -1,7 +1,7 @@
 ---
 id: 05662215-d019-4114-96b2-d8dbcd3ffc72
-title: "Doesn't intelligence consist of multiple skills?"{++{"author":"AI","timestamp":1774297866903}@@
-tldr: "Yes, but there's substantial overlap."++}
+title: "Doesn't intelligence consist of multiple skills?"
+tldr: "Yes, but there's substantial overlap."
 tags:
   - lens
   - IABIED

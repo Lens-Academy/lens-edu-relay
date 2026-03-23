@@ -1,8 +1,8 @@
 ---
 id: 2aa2c8b3-dc6f-4978-978b-10c4dbef8b7f
 title: "But some AIs partly think in English — doesn't that help?"
-{++{"author":"AI","timestamp":1774297752206}@@tldr: "Not as much as you might hope; we already see signs of infidelity."
-++}tags:
+tldr: "Not as much as you might hope; we already see signs of infidelity."
+tags:
   - lens
   - IABIED
   - supplementary

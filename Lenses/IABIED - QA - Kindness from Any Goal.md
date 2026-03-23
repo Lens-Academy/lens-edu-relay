@@ -1,7 +1,7 @@
 ---
 id: d1625486-918b-457d-9adf-2fcbc67bd595
-title: "Maybe no matter what goal you train on, you get kindness out?"{++{"author":"AI","timestamp":1774297683291}@@
-tldr: "Kindness looks contingent on the particulars of our biology and ancestry."++}
+title: "Maybe no matter what goal you train on, you get kindness out?"
+tldr: "Kindness looks contingent on the particulars of our biology and ancestry."
 tags:
   - lens
   - IABIED

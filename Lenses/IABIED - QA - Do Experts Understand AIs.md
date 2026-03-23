@@ -1,7 +1,7 @@
 ---
 id: 2d9b51c6-fc81-43f7-a678-7a6164825857
-title: "Do experts understand what's going on inside AIs?"{++{"author":"AI","timestamp":1774297673947}@@
-tldr: "No."++}
+title: "Do experts understand what's going on inside AIs?"
+tldr: "No."
 tags:
   - lens
   - IABIED

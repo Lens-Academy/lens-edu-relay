@@ -1,7 +1,7 @@
 ---
 id: bb09a113-affb-4d96-b068-8da243900216
-title: "Why did you have Sable's expansion phase go that way?"{++{"author":"AI","timestamp":1774297699598}@@
-tldr: "We were trying to depict an especially slow and comprehensible scenario, among plausible scenarios."++}
+title: "Why did you have Sable's expansion phase go that way?"
+tldr: "We were trying to depict an especially slow and comprehensible scenario, among plausible scenarios."
 tags:
   - lens
   - IABIED

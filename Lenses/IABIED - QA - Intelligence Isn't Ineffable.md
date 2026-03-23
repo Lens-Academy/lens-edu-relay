@@ -1,7 +1,7 @@
 ---
 id: 480dd23f-538a-4a27-a19b-946caf38f92e
-title: "Intelligence Isn't Ineffable"{++{"author":"AI","timestamp":1774297825111}@@
-tldr: "Claims of Ineffability Have an Extremely Poor Track Record in the Sciences"++}
+title: "Intelligence Isn't Ineffable"
+tldr: "Claims of Ineffability Have an Extremely Poor Track Record in the Sciences"
 tags:
   - lens
   - IABIED

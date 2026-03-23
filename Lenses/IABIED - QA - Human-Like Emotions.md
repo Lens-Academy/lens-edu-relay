@@ -1,7 +1,7 @@
 ---
 id: ae57162c-3ca3-4bbf-b17e-ef747f8b1c4e
-title: "Will AIs have human-like emotions?"{++{"author":"AI","timestamp":1774297823310}@@
-tldr: "Probably not."++}
+title: "Will AIs have human-like emotions?"
+tldr: "Probably not."
 tags:
   - lens
   - IABIED

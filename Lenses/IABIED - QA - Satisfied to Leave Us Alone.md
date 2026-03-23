@@ -1,7 +1,7 @@
 ---
 id: a529f564-5ba0-4aec-909d-5e0021314c74
-title: "Can the AI be satisfied to just leave us alone?"{++{"author":"AI","timestamp":1774297737924}@@
-tldr: "Probably not."++}
+title: "Can the AI be satisfied to just leave us alone?"
+tldr: "Probably not."
 tags:
   - lens
   - IABIED

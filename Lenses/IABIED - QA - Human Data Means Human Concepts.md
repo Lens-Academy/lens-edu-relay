@@ -1,7 +1,7 @@
 ---
 id: f946995b-20dc-4ad7-b9ab-a58a0b5e4787
-title: "If AIs are trained on human data, doesn't that make them likelier to care about human concepts?"{++{"author":"AI","timestamp":1774297784497}@@
-tldr: "Yes, but this doesn't help much."++}
+title: "If AIs are trained on human data, doesn't that make them likelier to care about human concepts?"
+tldr: "Yes, but this doesn't help much."
 tags:
   - lens
   - IABIED

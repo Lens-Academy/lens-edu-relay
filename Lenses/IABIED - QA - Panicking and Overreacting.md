@@ -1,7 +1,7 @@
 ---
 id: eaea6c4f-403f-4b0a-a317-da776bb9cd60
-title: "Aren't people always panicking and overreacting to things?"{++{"author":"AI","timestamp":1774297832837}@@
-tldr: "Yes. But this doesn't mean that nothing is ever actually dangerous."++}
+title: "Aren't people always panicking and overreacting to things?"
+tldr: "Yes. But this doesn't mean that nothing is ever actually dangerous."
 tags:
   - lens
   - IABIED

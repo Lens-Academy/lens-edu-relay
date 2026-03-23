@@ -1,7 +1,7 @@
 ---
 id: 9faaf0d6-779f-455d-9fb0-b92735e0b4c4
-title: "Isn't it impossible to predict the behavior of a superintelligence?"{++{"author":"AI","timestamp":1774297836019}@@
-tldr: "In some respects, but not in every respect."++}
+title: "Isn't it impossible to predict the behavior of a superintelligence?"
+tldr: "In some respects, but not in every respect."
 tags:
   - lens
   - IABIED

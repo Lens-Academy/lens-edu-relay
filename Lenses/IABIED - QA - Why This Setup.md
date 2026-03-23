@@ -1,7 +1,7 @@
 ---
 id: 68e6adce-ff75-46b8-b58d-19f2d3ffbb70
-title: "Why did you pick this setup?"{++{"author":"AI","timestamp":1774297868716}@@
-tldr: "Because it's plausible and easy to write."++}
+title: "Why did you pick this setup?"
+tldr: "Because it's plausible and easy to write."
 tags:
   - lens
   - IABIED

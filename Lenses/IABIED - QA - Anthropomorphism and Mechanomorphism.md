@@ -1,8 +1,8 @@
 ---
 id: 393019e9-7efb-4819-81e6-3c2143b26e80
 title: Anthropomorphism and Mechanomorphism
-{++{"author":"AI","timestamp":1774297875798}@@tldr: "Mechanomorphism and Garry Kasparov"
-++}tags:
+tldr: "Mechanomorphism and Garry Kasparov"
+tags:
   - lens
   - IABIED
   - supplementary

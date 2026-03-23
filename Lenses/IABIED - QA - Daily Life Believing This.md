@@ -1,7 +1,7 @@
 ---
 id: 206e08ee-598a-4a78-ac5b-43042f471975
-title: "What does it do to your daily life to believe all of this?"{++{"author":"AI","timestamp":1774297667932}@@
-tldr: "It dramatically affects our priorities."++}
+title: "What does it do to your daily life to believe all of this?"
+tldr: "It dramatically affects our priorities."
 tags:
   - lens
   - IABIED
