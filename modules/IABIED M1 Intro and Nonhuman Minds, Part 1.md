@@ -56,7 +56,8 @@ source:: ![[../Learning Outcomes/IABIED - AI Is Grown, Not Crafted]]{++{"author"
 %%++}
 
 # Lens: Overview of Optional Resources
-id:
+id:: 77b913b7-0462-4a87-bce0-5bb3419b34fc
+
 #### Text:
 content::
 We can do some inline links like [[../Lenses/IABIED - QA - Why Write This Book]] and [[../Lenses/IABIED - QA - Could ChatGPT Kill Us]].
