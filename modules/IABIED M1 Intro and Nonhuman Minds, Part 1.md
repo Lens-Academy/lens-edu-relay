@@ -60,14 +60,61 @@ id:: 77b913b7-0462-4a87-bce0-5bb3419b34fc
 
 #### Text:
 content::
-We can do some inline links like [[../Lenses/IABIED - QA - Why Write This Book]] and [[../Lenses/IABIED - QA - Could ChatGPT Kill Us]].
+{--{"author":"AI","timestamp":1774296873611}@@We can do some inline links like [[../Lenses/IABIED --}{++{"author":"AI","timestamp":1774296873611}@@The book's website includes supplementary Q&As and extended discussions for each chapter. Browse the ones relevant to this week's reading below.
 
-And some card links like:
+**Introduction: Hard Calls and Easy Calls**
+::card[[../Lenses/IABIED ++}- QA - Why Write This Book]]{--{"author":"AI","timestamp":1774296873611}@@ and [[../Lenses/IABIED--}{++{"author":"AI","timestamp":1774296873611}@@
+::card[[../Lenses/IABIED++} - QA - Could ChatGPT Kill {--{"author":"AI","timestamp":1774296873611}@@Us]].
+
+And some card links like:--}{++{"author":"AI","timestamp":1774296873611}@@Us]]++}
 ::card[[../Lenses/IABIED - QA - Panicking and Overreacting]]
 ::card[[../Lenses/IABIED - QA - When Will Worrisome AI Arrive]]
-::card[[../Lenses/IABIED - QA - Extrapolating AI Progress]]
+::card[[../Lenses/IABIED - QA - Extrapolating AI Progress]]{++{"author":"AI","timestamp":1774296873611}@@
+::card[[../Lenses/IABIED - QA - Author Incentives and Conflicts]]
+::card[[../Lenses/IABIED - QA - Just Science Fiction]]
+::card[[../Lenses/IABIED - QA - AI Experts on Catastrophe]]
+::card[[../Lenses/IABIED - QA - Leo Szilard Saw the Future]]
 
-Let's see how that looks!
+**Chapter 1: Humanity's Special Power**
+::card[[../Lenses/IABIED - QA - Is Intelligence Meaningful]]
+::card[[../Lenses/IABIED - QA - Human-Level Intelligence]]
+::card[[../Lenses/IABIED - QA - Intelligence as Multiple Skills]]
+::card[[../Lenses/IABIED - QA - Intelligence Overrated]]
+::card[[../Lenses/IABIED - QA - General Intelligence]]
+::card[[../Lenses/IABIED - QA - Intelligence as Scalar]]
+::card[[../Lenses/IABIED - QA - AI Critical Thresholds]]
+::card[[../Lenses/IABIED - QA - ChatGPT as General Intelligence]]
+::card[[../Lenses/IABIED - QA - How Smart Could Superintelligence Get]]
+::card[[../Lenses/IABIED - QA - Obstacles to Superintelligence]]
+::card[[../Lenses/IABIED - QA - Predicting Superintelligence]]
+::card[[../Lenses/IABIED - QA - Machines Fundamentally Uncreative]]
+::card[[../Lenses/IABIED - QA - Something Special About Humans]]
+::card[[../Lenses/IABIED - QA - Machines Becoming Conscious]]
+::card[[../Lenses/IABIED - QA - Intelligence as Prediction and Steering]]
+::card[[../Lenses/IABIED - QA - Shallowness of Current AIs]]
+::card[[../Lenses/IABIED - QA - Power of Intelligence]]
+::card[[../Lenses/IABIED - QA - Special Behavior from Mundane Parts]]
+::card[[../Lenses/IABIED - QA - Same Work Different Ways]]++}
+
+{--{"author":"AI","timestamp":1774296873611}@@Let's see how that looks!--}{++{"author":"AI","timestamp":1774296873611}@@**Chapter 2: Grown, Not Crafted**
+::card[[../Lenses/IABIED - QA - Gradient Descent Matters]]
+::card[[../Lenses/IABIED - QA - Do Experts Understand AIs]]
+::card[[../Lenses/IABIED - QA - Intelligence Understandable]]
+::card[[../Lenses/IABIED - QA - AIs Think in English]]
+::card[[../Lenses/IABIED - QA - AIs Just Math]]
+::card[[../Lenses/IABIED - QA - Just Predicting Next Token]]
+::card[[../Lenses/IABIED - QA - AIs Just Parroting]]
+::card[[../Lenses/IABIED - QA - Cold and Logical AIs]]
+::card[[../Lenses/IABIED - QA - LLMs Like Their Training Data]]
+::card[[../Lenses/IABIED - QA - Surpassing Humans from Human Data]]
+::card[[../Lenses/IABIED - QA - Building Without Understanding]]
+::card[[../Lenses/IABIED - QA - Hallucinations Show Weakness]]
+::card[[../Lenses/IABIED - QA - Running Out of Resources]]
+::card[[../Lenses/IABIED - QA - LLMs to Superintelligence]]
+::card[[../Lenses/IABIED - QA - Knowledge of LLMs]]
+::card[[../Lenses/IABIED - QA - Obvious Insights Take Time]]
+::card[[../Lenses/IABIED - QA - Full Description of an LLM]]
+::card[[../Lenses/IABIED - QA - Intelligence Isn't Ineffable]]++}
 
 # Lens: IABIED - QA - Why Write This Book
 optional:: true
