@@ -56,7 +56,10 @@ source:: ![[../Learning Outcomes/IABIED - AI Is Grown, Not Crafted]]{++{"author"
 %%++}
 
 # Lens: Overview of Optional Resources
-#### Text
+#### Text:
+content::
+We can d
+[[../Lenses/IABIED - QA - Why Write This Book]]
 
 # Lens: IABIED - QA - Why Write This Book
 optional:: true
