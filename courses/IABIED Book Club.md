@@ -2,7 +2,7 @@
 id: 9899891d-b7c6-436b-b48a-f691e0994dcf
 slug: iabied-book-club
 title: "An introduction to AI Safety, by the book: *If {--{"author":"AI","timestamp":1774268848195}@@Anybone--}{++{"author":"AI","timestamp":1774268848195}@@Anyone++} Builds It, Everyone Dies*"
-description: "This is an introductory AI safety course that assumes no prior knowledge of AI safety, or even computer science. We hope this course can serve as deep foundation for expanding knowledge into the student's areas of interest: technical AI safety, governance, or direct advocacy. In particular, it provides the base-level intuitions that motivate our main AI safety coursw, which is more ambition in technical terms (for example, by asking the students to assess the various existing AI safety techniques)."
+description: "This is an introductory AI safety course that assumes no prior knowledge of AI safety, or even computer science. We hope this course can serve as deep foundation for expanding knowledge into the student's areas of interest: technical AI safety, governance, or direct advocacy. In particular, it provides the base-level intuitions that motivate our main AI safety {--{"author":"AI","timestamp":1774268854567}@@coursw,--}{++{"author":"AI","timestamp":1774268854567}@@course,++} which is more {--{"author":"AI","timestamp":1774268854567}@@ambition--}{++{"author":"AI","timestamp":1774268854567}@@ambitious++} in technical terms (for example, by asking the students to assess the various existing AI safety techniques)."
 tags:
   - work-in-progress
 discussion:  https://discord.com/channels/1440725236843806762/1481259751374327929
