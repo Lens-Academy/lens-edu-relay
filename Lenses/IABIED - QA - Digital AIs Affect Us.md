@@ -1,7 +1,7 @@
 ---
 id: 02188337-ed24-4043-a42d-d3cc6945d58a
-title: "How will AIs be able to affect us if they're digital?"{++{"author":"AI","timestamp":1774297670822}@@
-tldr: "Being on a computer connected to the internet isn't much of a limitation."++}
+title: "How will AIs be able to affect us if they're digital?"
+tldr: "Being on a computer connected to the internet isn't much of a limitation."
 tags:
   - lens
   - IABIED

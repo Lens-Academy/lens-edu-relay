@@ -1,7 +1,7 @@
 ---
 id: da6dcd93-f3de-4057-ac7b-723a5fc44a8d
-title: "Can't we make the AI promise to be friendly?"{++{"author":"AI","timestamp":1774297838695}@@
-tldr: "You can make it promise whatever you'd like. You can't make it keep its promises."++}
+title: "Can't we make the AI promise to be friendly?"
+tldr: "You can make it promise whatever you'd like. You can't make it keep its promises."
 tags:
   - lens
   - IABIED

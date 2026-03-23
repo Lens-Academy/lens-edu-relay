@@ -1,7 +1,7 @@
 ---
 id: 92fd9aaa-b529-49ff-a11f-60b4f5b1ca57
-{++{"author":"AI","timestamp":1774297684116}@@tldr: "We're not sure. Our best guess is \"probably not.\""
-++}tags:
+tldr: "We're not sure. Our best guess is \"probably not.\""
+tags:
   - lens
   - IABIED
   - supplementary

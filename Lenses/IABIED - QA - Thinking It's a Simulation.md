@@ -1,7 +1,7 @@
 ---
 id: 69e14a86-3fe7-48cf-8d32-f667a9937738
-title: "What if we make it think it's in a simulation?"{++{"author":"AI","timestamp":1774297849412}@@
-tldr: "There are many ways for an AI to figure out that it's not in a simulation."++}
+title: "What if we make it think it's in a simulation?"
+tldr: "There are many ways for an AI to figure out that it's not in a simulation."
 tags:
   - lens
   - IABIED

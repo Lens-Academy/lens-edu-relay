@@ -1,8 +1,8 @@
 ---
 id: 25947894-248a-4b34-a85c-dcef68c76937
 title: "Should we avoid talking about AI dangers, so AIs don't get any bad ideas?"
-{++{"author":"AI","timestamp":1774297880784}@@tldr: "If your AI plan requires that no one on the internet critique the plan, it's a bad plan."
-++}tags:
+tldr: "If your AI plan requires that no one on the internet critique the plan, it's a bad plan."
+tags:
   - lens
   - IABIED
   - supplementary

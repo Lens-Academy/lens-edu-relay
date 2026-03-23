@@ -1,7 +1,7 @@
 ---
 id: c884bd7c-61dd-4fa0-b983-eda1a236485b
-title: "Can we just train AIs to be more passive and docile?"{++{"author":"AI","timestamp":1774297833259}@@
-tldr: "Passivity is in tension with usefulness."++}
+title: "Can we just train AIs to be more passive and docile?"
+tldr: "Passivity is in tension with usefulness."
 tags:
   - lens
   - IABIED

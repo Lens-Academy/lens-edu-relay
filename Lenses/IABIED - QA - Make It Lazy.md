@@ -1,7 +1,7 @@
 ---
 id: 1af9ac9a-8ab1-48cc-a72e-39c2ca9d7027
-title: "Can we just make it lazy?"{++{"author":"AI","timestamp":1774297735115}@@
-tldr: "Even laziness isn't safe."++}
+title: "Can we just make it lazy?"
+tldr: "Even laziness isn't safe."
 tags:
   - lens
   - IABIED

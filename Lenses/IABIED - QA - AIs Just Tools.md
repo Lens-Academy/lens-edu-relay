@@ -1,8 +1,8 @@
 ---
 id: 03b0712b-90a0-4195-8b8e-f5c7d1bf8dcd
 title: "Aren't AIs just tools?"
-{++{"author":"AI","timestamp":1774297749558}@@tldr: "AIs are grown, not crafted. So they already do things other than what they're told to do."
-++}tags:
+tldr: "AIs are grown, not crafted. So they already do things other than what they're told to do."
+tags:
   - lens
   - IABIED
   - supplementary

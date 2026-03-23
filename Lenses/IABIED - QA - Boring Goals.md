@@ -1,8 +1,8 @@
 ---
 id: 267a09e0-2eda-41c6-83a8-1d89e78dc16f
 title: "Won't it realize that its goals are boring?"
-{++{"author":"AI","timestamp":1774297883808}@@tldr: "AIs won't run on a human sense of novelty."
-++}tags:
+tldr: "AIs won't run on a human sense of novelty."
+tags:
   - lens
   - IABIED
   - supplementary

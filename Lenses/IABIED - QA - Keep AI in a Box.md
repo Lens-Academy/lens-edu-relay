@@ -1,7 +1,7 @@
 ---
 id: a9480ae0-d2d4-44ba-a323-d3e247c38ea1
-title: "Can developers just keep the AI in a box?"{++{"author":"AI","timestamp":1774297679123}@@
-tldr: "They won't."++}
+title: "Can developers just keep the AI in a box?"
+tldr: "They won't."
 tags:
   - lens
   - IABIED

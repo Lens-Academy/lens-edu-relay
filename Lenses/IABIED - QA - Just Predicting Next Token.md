@@ -1,7 +1,7 @@
 ---
 id: 71d3ce4e-68ce-401e-9f56-9f28fb8fe880
-title: "Aren't AIs just predicting the next token?"{++{"author":"AI","timestamp":1774297675910}@@
-tldr: "Predicting tokens requires understanding the world."++}
+title: "Aren't AIs just predicting the next token?"
+tldr: "Predicting tokens requires understanding the world."
 tags:
   - lens
   - IABIED

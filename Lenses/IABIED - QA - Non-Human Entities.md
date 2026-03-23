@@ -1,7 +1,7 @@
 ---
 id: 7efc8a65-6260-4a80-9286-6b1732602173
-title: "Why don't you care about non-human entities?"{++{"author":"AI","timestamp":1774297778634}@@
-tldr: "We do! We have broad cosmopolitan values. We don't think AIs will fulfill them, and we consider this a great tragedy."++}
+title: "Why don't you care about non-human entities?"
+tldr: "We do! We have broad cosmopolitan values. We don't think AIs will fulfill them, and we consider this a great tragedy."
 tags:
   - lens
   - IABIED

@@ -1,8 +1,8 @@
 ---
 id: a8935422-f09d-424c-a562-282d3f93e3f1
 title: "Are you suggesting that ChatGPT could kill us all?"
-{++{"author":"AI","timestamp":1774297945708}@@tldr: "No. The worry is about forthcoming advances in AI."
-++}tags:
+tldr: "No. The worry is about forthcoming advances in AI."
+tags:
   - lens
   - IABIED
   - supplementary

@@ -1,8 +1,8 @@
 ---
 id: 0ed0d307-d8dd-45f5-873c-7acaa6b152df
 title: "What makes you think people can build superhuman AI when they don't even understand intelligence?"
-{++{"author":"AI","timestamp":1774297886800}@@tldr: "Past AI progress hasn't required much understanding of intelligence."
-++}tags:
+tldr: "Past AI progress hasn't required much understanding of intelligence."
+tags:
   - lens
   - IABIED
   - supplementary

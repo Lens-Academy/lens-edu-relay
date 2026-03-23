@@ -1,7 +1,7 @@
 ---
 id: ce2d8b4c-03ba-4089-919c-2ab360fc5467
-title: "Shutdown Buttons and Corrigibility"{++{"author":"AI","timestamp":1774297741456}@@
-tldr: "Smart AIs Resist Having Their Goals Overwritten"++}
+title: "Shutdown Buttons and Corrigibility"
+tldr: "Smart AIs Resist Having Their Goals Overwritten"
 tags:
   - lens
   - IABIED

@@ -1,7 +1,7 @@
 ---
 id: 46a8ad84-2685-4afc-8bcd-f22f48ef6cb3
-title: "Could LLMs advance all the way to superintelligence?"{++{"author":"AI","timestamp":1774297685947}@@
-tldr: "It isn't clear, but researchers are finding ways to overcome old LLM limitations."++}
+title: "Could LLMs advance all the way to superintelligence?"
+tldr: "It isn't clear, but researchers are finding ways to overcome old LLM limitations."
 tags:
   - lens
   - IABIED

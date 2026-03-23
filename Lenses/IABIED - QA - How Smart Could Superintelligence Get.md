@@ -1,7 +1,7 @@
 ---
 id: ce0bfb7a-a07c-48a0-a998-f529e368d257
-title: "How smart could a superintelligence get?"{++{"author":"AI","timestamp":1774297782597}@@
-tldr: "Very smart."++}
+title: "How smart could a superintelligence get?"
+tldr: "Very smart."
 tags:
   - lens
   - IABIED

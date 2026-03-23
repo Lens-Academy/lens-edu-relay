@@ -1,8 +1,8 @@
 ---
 id: 696304fd-14e9-4d69-9851-38b8597f4d95
 title: "What are your incentives and conflicts of interest, as authors?"
-{++{"author":"AI","timestamp":1774297878917}@@tldr: "We don't expect to make any money from the book in the average case. Separately, we would love to be wrong about the book's thesis."
-++}tags:
+tldr: "We don't expect to make any money from the book in the average case. Separately, we would love to be wrong about the book's thesis."
+tags:
   - lens
   - IABIED
   - supplementary

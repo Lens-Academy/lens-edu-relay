@@ -1,7 +1,7 @@
 ---
 id: 21b78e2b-d47d-4b8e-84b7-20913d3b9167
-title: "Why is Galvanic depicted as being insufficiently careful?"{++{"author":"AI","timestamp":1774297733352}@@
-tldr: "In part because it's realistic."++}
+title: "Why is Galvanic depicted as being insufficiently careful?"
+tldr: "In part because it's realistic."
 tags:
   - lens
   - IABIED

@@ -1,7 +1,7 @@
 ---
 id: 3f013fc3-d92d-4cf1-9ce0-9d8a41a7edec
-title: "But experts don't all agree about the risks!"{++{"author":"AI","timestamp":1774297703915}@@
-tldr: "Lack of expert consensus is a sign of an immature technical field."++}
+title: "But experts don't all agree about the risks!"
+tldr: "Lack of expert consensus is a sign of an immature technical field."
 tags:
   - lens
   - IABIED

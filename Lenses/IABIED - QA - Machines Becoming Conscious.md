@@ -1,7 +1,7 @@
 ---
 id: e2d3e554-c4ee-46f9-b9a1-96984c80b23f
-title: "Are you saying machines will become conscious?"{++{"author":"AI","timestamp":1774297731922}@@
-tldr: "Not necessarily, and this seems like a separate topic."++}
+title: "Are you saying machines will become conscious?"
+tldr: "Not necessarily, and this seems like a separate topic."
 tags:
   - lens
   - IABIED
