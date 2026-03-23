@@ -1,5 +1,5 @@
 ---
-title: ""Intelligent" (Usually) Implies "Incorrigible""
+title: "Intelligent" (Usually) Implies "Incorrigible"
 source_url: https://ifanyonebuildsit.com/5/intelligent-usually-implies-incorrigible
 published: 2025-09-16
 author:
