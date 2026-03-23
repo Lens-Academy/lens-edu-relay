@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1774266205779}@@TODO: Re-scrape from website--}{++{"author":"AI","timestamp":1774266205779}@@#### It's hard to just unplug a datacenter.
+#### It's hard to just unplug a datacenter.
 
 The most powerful AIs you interact with on your phone or computer don't live on your computer, and you can't shut them down by turning off your phone. Today's AIs run in corporate datacenters, and it's hard to get companies to turn off their revenue streams.
 
@@ -24,4 +24,4 @@ By default, a smarter-than-human AI would have a strong incentive to bide its ti
 
 AI companies might not even *notice* when and if their AI goes over the relevant capability threshold and executes its escape. Humanity is not very good at cybersecurity. (See Chapter 10 for some relevant discussion.) By the time the operators notice that the AI tried to escape, it could have code running elsewhere on the internet. It could have already begged refuge in the datacenter of some rogue state, or figured out how to run much smaller and more efficient copies on stolen computers. It could have executed some other plan for running itself on computers that humanity wouldn't turn off.
 
-A superintelligent adversary would be even more aware of its vulnerabilities (and ours) than we are, and would plan accordingly.++}
+A superintelligent adversary would be even more aware of its vulnerabilities (and ours) than we are, and would plan accordingly.

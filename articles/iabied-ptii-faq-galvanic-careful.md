@@ -11,7 +11,7 @@ tags:
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1774266650730}@@TODO: Re-scrape from website--}{++{"author":"AI","timestamp":1774266650730}@@#### To provide a challenge to Sable.
+#### To provide a challenge to Sable.
 
 If Galvanic, the makers of Sable, stumbled their way into developing a superintelligence without taking *any* precautions to keep it controlled (such as having AI supervisors and honeypots), readers might feel as though the AI succeeded only because we were being cynical about AI companies.
 
@@ -23,4 +23,4 @@ Today, corporate executives at the labs argue, "Better me than them!" Today, exe
 
 #### Notes
 
-[1] *better me than them:* For instance, in a [YouTube clip](https://www.youtube.com/watch?v=cFIlta1GkiE&t=2126s), the CEO of xAI talks about realizing that he could be either a spectator or a participant in the AI race, and deciding that he wants to be a participant.++}
+[1] *better me than them:* For instance, in a [YouTube clip](https://www.youtube.com/watch?v=cFIlta1GkiE&t=2126s), the CEO of xAI talks about realizing that he could be either a spectator or a participant in the AI race, and deciding that he wants to be a participant.

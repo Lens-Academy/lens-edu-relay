@@ -11,7 +11,7 @@ tags:
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1774266419696}@@TODO: Re-scrape from website--}{++{"author":"AI","timestamp":1774266419696}@@#### We don't have a good enough understanding of intelligence for that.
+#### We don't have a good enough understanding of intelligence for that.
 
 One class of successful predictions involves taking a straight line on a graph, one that has been steady for many years, and predicting that the straight line continues for at least another year or two.
 
@@ -23,4 +23,4 @@ And in the case of AI, we just don't know. It's easy enough to pick some measure
 
 Nobody knows where the "now it has the ability to kill everyone" line falls on that graph. All they can do is run the AI and find out. So extrapolating the straight line on the graph doesn't help us. (And that's even before the graph is rendered irrelevant by algorithmic progress.)
 
-For that reason, we don't spend time in the book extrapolating lines on graphs to predict exactly when somebody will throw 1027 floating-point operations at training an AI, or what consequences this would have. That's a hard call. The book focuses on what seem to us to be the easy calls. This is a narrow range of topics, and our ability to make a small number of important predictions in that narrow domain doesn't justify making arbitrary prognostications about the future.++}
+For that reason, we don't spend time in the book extrapolating lines on graphs to predict exactly when somebody will throw 1027 floating-point operations at training an AI, or what consequences this would have. That's a hard call. The book focuses on what seem to us to be the easy calls. This is a narrow range of topics, and our ability to make a small number of important predictions in that narrow domain doesn't justify making arbitrary prognostications about the future.

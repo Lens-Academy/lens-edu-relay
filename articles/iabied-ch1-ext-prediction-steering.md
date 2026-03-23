@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1774265357261}@@TODO: Re-scrape --}{++{"author":"AI","timestamp":1774265357261}@@If you ask a wise physicist what an engine is, they might start by pointing at a rocket engine, a combustion engine, and a hamster wheel, and say, "Those are all engines," and then point at a rock and say, "But that is not."
+If you ask a wise physicist what an engine is, they might start by pointing at a rocket engine, a combustion engine, and a hamster wheel, and say, "Those are all engines," and then point at a rock and say, "But that is not."
 
 That would be a description by pointing out engines in the world, rather than by trying to give a verbal definition. If you pressed them for a verbal definition, they might tell you that an engine is anything that converts non-mechanical energy into mechanical energy, into motion.
 
@@ -90,7 +90,7 @@ We can further shore up this distinction by reviewing the formal literature. Ste
 
 Of course, no finite mind can be perfectly efficient. The lesson we take from this theorem (and other results of its kind) is that, insofar as a mind is doing *any* nontrivial task very effectively, it's in some sense (if only implicitly and unconsciously) doing two separate types of work: belief-like work (prediction), and preference-satisfaction-like work (steering).
 
-For instance, consider Aesop's fable of the fox and the grapes. A fox sees some delicious-looking grapes hanging ++}from {--{"author":"AI","timestamp":1774265357261}@@website--}{++{"author":"AI","timestamp":1774265357261}@@a vine. The fox leaps for the grapes, but cannot leap high enough, and so abandons them, saying, "Well, they were probably sour anyway."
+For instance, consider Aesop's fable of the fox and the grapes. A fox sees some delicious-looking grapes hanging from a vine. The fox leaps for the grapes, but cannot leap high enough, and so abandons them, saying, "Well, they were probably sour anyway."
 
 If we take the fox at his word, the fox's (in)ability to steer to the grapes is *bleeding into* his prediction about whether the grapes are sour. If he sticks with that new prediction, refusing to eat the "sour" grapes out of pride even if he later gets a chance to eat them, then the fox's behavior is *inefficient.*[‡](#ftnt30)He could have done better by keeping a stronger distinction between his predictions (about the sweetness of the grapes) and his steering (his ability to attain the grapes).
 
@@ -160,4 +160,4 @@ But to make sense of the substantive claims we're making about the world in *If 
 
 [1] *how to measure prediction work:* For a technical account of the math and why it works, see Yudkowsky's [Technical Explanation of Technical Explanation](https://www.lesswrong.com/posts/afmj8TKAqH6F2QMfZ/a-technical-explanation-of-technical-explanation).
 
-[2] *twelve billion dollars:* As [recounted](https://www.cbsnews.com/news/warren-buffett-bank-of-america-12-billion/) by Larry Light of CBS News.++}
+[2] *twelve billion dollars:* As [recounted](https://www.cbsnews.com/news/warren-buffett-bank-of-america-12-billion/) by Larry Light of CBS News.

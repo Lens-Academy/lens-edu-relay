@@ -10,9 +10,9 @@ tags:
   - IABIED
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1774265526330}@@TODO: Re-scrape --}{++{"author":"AI","timestamp":1774265526330}@@#### Yes. There's a real phenomenon to describe, even if it's difficult to pin down.
+#### Yes. There's a real phenomenon to describe, even if it's difficult to pin down.
 
-Over the last thirty years, seventy-seven Nobel Prizes in Chemistry have been awarded to humans, and zero to chimpanzees. An alien, on hearing about this fact for the first time, might wonder if the Nobel Committee is biased. But no, there really is *something going on* with humans that sets us apart ++}from {--{"author":"AI","timestamp":1774265526330}@@website--}{++{"author":"AI","timestamp":1774265526330}@@chimpanzees.
+Over the last thirty years, seventy-seven Nobel Prizes in Chemistry have been awarded to humans, and zero to chimpanzees. An alien, on hearing about this fact for the first time, might wonder if the Nobel Committee is biased. But no, there really is *something going on* with humans that sets us apart from chimpanzees.
 
 It's an overly obvious point, but obvious points can sometimes matter. There are abilities we possess that let us walk on the moon, and that put the fate of the planet into our hands rather than into the hands of chimpanzees. Philosophers and scientists can debate the true nature of intelligence, but no matter what they conclude, the underlying phenomenon remains. Something about humans has let us achieve feats never before seen in nature; and that something has to do with our brains, and how we use them to comprehend and affect the world around us.
 
@@ -36,4 +36,4 @@ Similarly, it's useful to be able to talk about intelligence that surpasses our 
 
 If and when AI shows up that can do world-class scientific research thousands of times faster than the best human scientists, we may protest that it's "not truly intelligent," perhaps because it reaches conclusions in a very different way than a human would. That could even be true, depending on what definition of "intelligence" you choose. But the real-world impact of the AI will be enormous, however we choose to label it.
 
-We need some terminology for talking about that sort of impact, and for talking about the sorts of machines that are radically capable at predicting and steering the world. In this book, we take the easy route of assigning the label "intelligence" to the *capabilities,* rather than to specific internal processes that give rise to those capabilities.++}
+We need some terminology for talking about that sort of impact, and for talking about the sorts of machines that are radically capable at predicting and steering the world. In this book, we take the easy route of assigning the label "intelligence" to the *capabilities,* rather than to specific internal processes that give rise to those capabilities.

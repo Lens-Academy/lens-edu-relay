@@ -11,7 +11,7 @@ tags:
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1774265873852}@@TODO: Re-scrape from website--}{++{"author":"AI","timestamp":1774265873852}@@#### There are many negligible expenses, and it would need a reason to pay ours.
+#### There are many negligible expenses, and it would need a reason to pay ours.
 
 Keeping a pile of forty-one stones in your house would be a negligible expense, but you're almost surely not going out of your way to pay that expense.[\*](#ftnt175)
 
@@ -39,4 +39,4 @@ The vast majority of humans do not spare the relatively negligible amounts of su
 
 #### Notes
 
-[1] *go out of its way:* Stationary gaps in the coverage of the solar cells of a [Dyson swarm](https://iopscience.iop.org/article/10.1088/1402-4896/ac9e78) — or rather, gaps that follow Earth around in orbit — are physically possible*,* but they wouldn't be *easy* to set up (because the orbital velocity of a Dyson swarm between the Earth and the Sun would have to be higher than the orbital velocity of the Earth, in order for the solar cells to stay in orbit while closer to the Sun). And the infrared radiation emitted by the solar panels would cook Earth if it weren't carefully aimed, and so on. Preserving the Earth is not free, to a superintelligence running large-scale projects in the solar system and beyond. It's probably possible, but it would require effort.++}
+[1] *go out of its way:* Stationary gaps in the coverage of the solar cells of a [Dyson swarm](https://iopscience.iop.org/article/10.1088/1402-4896/ac9e78) — or rather, gaps that follow Earth around in orbit — are physically possible*,* but they wouldn't be *easy* to set up (because the orbital velocity of a Dyson swarm between the Earth and the Sun would have to be higher than the orbital velocity of the Earth, in order for the solar cells to stay in orbit while closer to the Sun). And the infrared radiation emitted by the solar panels would cook Earth if it weren't carefully aimed, and so on. Preserving the Earth is not free, to a superintelligence running large-scale projects in the solar system and beyond. It's probably possible, but it would require effort.

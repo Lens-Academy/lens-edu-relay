@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1774265782133}@@TODO: Re-scrape from website--}{++{"author":"AI","timestamp":1774265782133}@@#### The difficulty isn't just the lack of time; it's the lethality of mistakes.
+#### The difficulty isn't just the lack of time; it's the lethality of mistakes.
 
 "How long would it take?" is a [hard call](/2/obvious-insights-take-time), in part because it's somewhat missing the point. If researchers are tackling a problem in an unproductive way, they can potentially stay "stuck" indefinitely, even if the problem could in principle be solved quickly. It's hard to say today what it would look like to get "un-stuck" and make reliable progress on the problem, but it looks like it would require a pretty radical change in how science and engineering is usually done.
 
@@ -28,4 +28,4 @@ If humanity had a hundred years *and unlimited retries,* we probably wouldn't ha
 
 But even if we had three hundred years to develop a theory of intelligence, a theory of how AIs change as they get smarter, and a theory of how to stably and robustly aim them at specific goals…well, in lieu of the ability to actually *try and see* what happens when the AI gets radically smarter a few times, we would very likely converge on the wrong answer.
 
-Humanity has a tendency to converge on that wrong sort of answer, even in far simpler domains, when we haven't yet had a chance to run a decisive test.++}
+Humanity has a tendency to converge on that wrong sort of answer, even in far simpler domains, when we haven't yet had a chance to run a decisive test.

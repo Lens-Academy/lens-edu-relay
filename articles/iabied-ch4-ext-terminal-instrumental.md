@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1774266777378}@@TODO: Re-scrape --}{++{"author":"AI","timestamp":1774266777378}@@Decision theorists make a distinction between two different types of goal, "terminal" and "instrumental."
+Decision theorists make a distinction between two different types of goal, "terminal" and "instrumental."
 
 A **terminal goal** is something you care about for its own sake, like fun, or delicious food.
 
@@ -24,7 +24,7 @@ If humanity rushes ahead to build a superintelligence, then it seems hard to pre
 
 These are *very* different goals. But all three goals benefit from at least some of the same instrumental strategies. Filling the world with factories, for example, is useful for building large numbers of computers that can be used to calculate more digits of pi. But building lots of factories is also useful for synthesizing lots of diamonds. And it's useful for building walls, robots, or weapons to guard your reward button. Factories aren't useful for *every* possible goal, but they're useful for an awful lot of goals.
 
-And in a realistic AI that has grown all sorts of strange goals? Well, at least *one* of those is likely to benefit ++}from {--{"author":"AI","timestamp":1774266777378}@@website--}{++{"author":"AI","timestamp":1774266777378}@@making factories or other large-scale physical infrastructure. Thus, the AI will likely want to build a lot of infrastructure. That's an easy call, even if the AI's exact mix of preferences is a hard call.
+And in a realistic AI that has grown all sorts of strange goals? Well, at least *one* of those is likely to benefit from making factories or other large-scale physical infrastructure. Thus, the AI will likely want to build a lot of infrastructure. That's an easy call, even if the AI's exact mix of preferences is a hard call.
 
 Similarly, the instrumental goal of keeping yourself alive is useful for many different terminal goals. Staying alive means that you can keep working to make sure that more digits of pi get calculated (or more diamond is made, or more safeguards are built around your reward button).
 
@@ -36,4 +36,4 @@ But before we get there, we'll turn our focus to *terminal* goals, and the quest
 
 [\*](#ftnt132_ref) This also means that if self-sacrifice *is* somehow the best way to ensure the coffee gets to its destination, then a robot without a survival instinct might die for the cause more readily than a human would.
 
-If an agent is sufficiently smart and knowledgeable, it can adjust its instrumental strategy to match whatever's useful in its current environment. In a well-functioning mind, instrumental goals (unlike terminal goals) only stick around so long as they're useful.++}
+If an agent is sufficiently smart and knowledgeable, it can adjust its instrumental strategy to match whatever's useful in its current environment. In a well-functioning mind, instrumental goals (unlike terminal goals) only stick around so long as they're useful.

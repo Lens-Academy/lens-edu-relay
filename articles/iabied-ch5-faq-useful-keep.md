@@ -10,9 +10,9 @@ tags:
   - IABIED
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1774265486225}@@TODO: Re-scrape--}{++{"author":"AI","timestamp":1774265486225}@@#### Happy, healthy, free people aren't the most efficient solution to almost any problem.
+#### Happy, healthy, free people aren't the most efficient solution to almost any problem.
 
-Once you're a superintelligence, almost no problems benefit++} from {--{"author":"AI","timestamp":1774265486225}@@website--}{++{"author":"AI","timestamp":1774265486225}@@including humans in the mix.
+Once you're a superintelligence, almost no problems benefit from including humans in the mix.
 
 If you're building a power plant or designing an experiment, humans will just slow you down.
 
@@ -34,4 +34,4 @@ There are far more scenarios where AI does *literally anything else* than scenar
 
 For more on these topics, see [the relevant extended discussion](/5/humans-are-almost-never-the-most-efficient-solution) below.
 
-[\*](#ftnt170_ref) For more on this, see the extended discussion on [Taking the AI's Perspective](/5/taking-the-ais-perspective).++}
+[\*](#ftnt170_ref) For more on this, see the extended discussion on [Taking the AI's Perspective](/5/taking-the-ais-perspective).

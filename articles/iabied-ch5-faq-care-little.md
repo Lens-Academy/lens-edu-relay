@@ -11,7 +11,7 @@ tags:
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1774265740182}@@TODO: Re-scrape--}{++{"author":"AI","timestamp":1774265740182}@@#### Not in the way that matters.
+#### Not in the way that matters.
 
 There are many ways that AIs might wind up with preferences that are slightly human-like. Most of those do not result in humanity getting a slightly nice future.
 
@@ -19,7 +19,7 @@ The AI's "alignment" is not a single spectrum with one dimension of variance. Yo
 
 Even if humanity somehow managed to *almost perfectly* load all the diverse human values into the preferences of a superintelligence, the outcome wouldn't necessarily be good. Suppose it lacked only a preference for novelty, for some reason. In that case, it would steer toward a stagnant and boring future, in which the same "best" day was repeated over and over ad infinitum — as illustrated in an essay Yudkowsky wrote [in 2009](https://www.lesswrong.com/posts/GNnHHmm8EzePmKzPk/value-is-fragile).
 
-We don't think this is a *plausible* outcome*,* mind you. If human engineers had the skill to make a superintelligence care about everything good except novelty, they'd almost surely have the skill to prevent the AI++} from {--{"author":"AI","timestamp":1774265740182}@@website--}{++{"author":"AI","timestamp":1774265740182}@@charging off before they finished the job.[\*](#ftnt181) But this thought experiment highlights how creatures that share some of our desires, but are missing at least one crucial desire, would still likely produce catastrophic outcomes once they were technologically adept enough to get exactly what they want — and adept enough to cut humans out of the decision-making process.
+We don't think this is a *plausible* outcome*,* mind you. If human engineers had the skill to make a superintelligence care about everything good except novelty, they'd almost surely have the skill to prevent the AI from charging off before they finished the job.[\*](#ftnt181) But this thought experiment highlights how creatures that share some of our desires, but are missing at least one crucial desire, would still likely produce catastrophic outcomes once they were technologically adept enough to get exactly what they want — and adept enough to cut humans out of the decision-making process.
 
 Which is to say: Even if an AI somehow wound up with many different humanlike preferences, things still aren't particularly likely to go well for us.
 
@@ -95,4 +95,4 @@ But even this idea of figuring out how to build an AI that is actually deeply an
 
 [§](#ftnt184_ref) We additionally think that humanity ruining all but a millionth or a billionth of the universe would be a [cosmic-scale tragedy](/5/losing-the-future). We think it would be a waste of a universe, for humanity to get confined to a terrarium when we could have filled the stars with love and laughter and life.
 
-But set that aside for the moment to consider whether AIs *would* keep some happy humans in a terrarium. Because even that looks like a narrow and unlikely outcome, given how strange AIs are likely to be.++}
+But set that aside for the moment to consider whether AIs *would* keep some happy humans in a terrarium. Because even that looks like a narrow and unlikely outcome, given how strange AIs are likely to be.

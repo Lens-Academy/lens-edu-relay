@@ -11,7 +11,7 @@ tags:
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1774266757943}@@TODO: Re-scrape --}{++{"author":"AI","timestamp":1774266757943}@@#### Because it's plausible and easy to write.
+#### Because it's plausible and easy to write.
 
 Every detail in a story about the future is an opportunity for that story to be wrong. We can't tell you exactly what technological breakthroughs will happen in what order, any more than we can tell you the exact weather pattern a month from now.
 
@@ -33,7 +33,7 @@ For a taste of how it might feel, imagine going back in time 100 years and tryin
 
 Here are just a few alternative possibilities for how a story like this one could start:
 
-- There's some sort of breakthrough in lifelong learning, or long-term memory, or learning more efficiently ++}from {--{"author":"AI","timestamp":1774266757943}@@website--}{++{"author":"AI","timestamp":1774266757943}@@data, that yields AIs qualitatively more generally intelligent than any that came before (in the same way that LLMs are qualitatively more generally intelligent than AlphaZero).
+- There's some sort of breakthrough in lifelong learning, or long-term memory, or learning more efficiently from data, that yields AIs qualitatively more generally intelligent than any that came before (in the same way that LLMs are qualitatively more generally intelligent than AlphaZero).
 - Large language models seem to "hit a wall," AI progress stalls for years, and people say that the hype bubble has popped. But researchers keep tinkering over the following decade, until finally some algorithmic breakthrough is found and the AIs operate qualitatively better than they ever did before.
 - There's never any sort of qualitative breakthrough. Progress accumulates slowly and gradually, and AI gets more and more deeply integrated with more and more of the economy, and can handle longer and longer periods of autonomous operation. The AIs often pursue ends that are not quite what anyone intended or asked for, but humanity develops hacks and patches and workarounds. And it's mostly fine, until on some Tuesday that starts out like any other, the world crosses the threshold past which coordinated AIs would succeed at cutting humanity out of the loop if they tried.
 
@@ -41,4 +41,4 @@ Any given guess about the exact path the future takes is likely to be wrong. It'
 
 When the future is uncertain, but all paths lead to the same endpoint, it can be difficult to tell a story that feels compelling. For any given story we could tell, it would be easy to point out a bunch of details that make it implausible. In the scenario we wrote, we tried to emphasize that Sable has many options available to it, and that the story arbitrarily follows one route among many that all lead to the same endpoint.
 
-If you're unpersuaded by this particular story, we encourage you to write out your own similarly detailed story of how everything goes. In our experience, optimistic stories tend to rely on the AI being unrealistically easy to align (contra the arguments we make in Chapter 4), or unrealistically powerless (contra the arguments we made in Chapter 6). The arguments in Part I are what ultimately carry the case, as opposed to the story details.++}
+If you're unpersuaded by this particular story, we encourage you to write out your own similarly detailed story of how everything goes. In our experience, optimistic stories tend to rely on the AI being unrealistically easy to align (contra the arguments we make in Chapter 4), or unrealistically powerless (contra the arguments we made in Chapter 6). The arguments in Part I are what ultimately carry the case, as opposed to the story details.

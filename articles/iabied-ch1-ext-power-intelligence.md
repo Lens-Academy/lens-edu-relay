@@ -10,7 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-{--{"author":"AI","timestamp":1774265261167}@@TODO: Re-scrape --}{++{"author":"AI","timestamp":1774265261167}@@#### Hollywood "Intelligence"
+#### Hollywood "Intelligence"
 
 The concept we're calling "intelligence" is not well-depicted in popular culture, under that name or any other.
 
@@ -112,10 +112,10 @@ Efficiency doesn't just mean "Someone is a bit more skilled than you." If you ar
 
 This generalization of efficient market prices is an idea that we think should be a standard section in computer science textbooks (or possibly economics ones), but isn't. See also my (Yudkowsky's) online book *[Inadequate Equilibria: Where and How Civilizations Get Stuck](https://equilibriabook.com/)*.
 
-This is the idea that seems to be missing ++}from {--{"author":"AI","timestamp":1774265261167}@@website--}{++{"author":"AI","timestamp":1774265261167}@@the depictions of "superintelligence" in popular culture and Hollywood movies. It's the concept that seems to be absent in conversations about AI when people spin up ideas for outsmarting a superintelligence *that even a human adversary would be able to see coming*.
+This is the idea that seems to be missing from the depictions of "superintelligence" in popular culture and Hollywood movies. It's the concept that seems to be absent in conversations about AI when people spin up ideas for outsmarting a superintelligence *that even a human adversary would be able to see coming*.
 
 Perhaps it's optimism bias, or a sense that AIs must be [coldly logical beings](/2/wont-ais-inevitably-be-cold-and-logical-or-otherwise-missing-some-crucial-spark) with [critical blind spots](/6/wont-we-be-able-to-exploit-the-ais-critical-weakness). Whatever the explanation, this cognitive error has real consequences. If you can't respect the power of intelligence, you'll badly misunderstand what it means for humanity to build a superintelligence. You might find yourself thinking that you'll still be able to find a winning move when facing a superintelligence that would prefer you gone and your resources repurposed. But in reality, the only winning move is not to play.
 
 [\*](#ftnt36_ref) There was a point where we would have called it "unrealistic" to imagine that an AI's inventor would be that naive, but unfortunately, we now know better. Human AI creators will *totally* propose plans where even lay thinkers can see the giant gaping flaw.
 
-[†](#ftnt37_ref) Not impossible! If you think you know something the market doesn't know or hasn't realized yet, you might be able to make money that way. Some of our friends made good money by predicting the stock market effects of the COVID lockdowns before anyone else did. The market is not *so* efficient that you'll never be able to beat it. But it is efficient enough that you can't beat it in most stocks most of the time.++}
+[†](#ftnt37_ref) Not impossible! If you think you know something the market doesn't know or hasn't realized yet, you might be able to make money that way. Some of our friends made good money by predicting the stock market effects of the COVID lockdowns before anyone else did. The market is not *so* efficient that you'll never be able to beat it. But it is efficient enough that you can't beat it in most stocks most of the time.
