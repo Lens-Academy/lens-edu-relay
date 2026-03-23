@@ -1,7 +1,8 @@
 ---
 id: 307c1f85-08f7-46f1-bc90-39e1e681c644
 title: "Are you anti-technology?"
-tags:
+{++{"author":"AI","timestamp":1774297877133}@@tldr: "No. Superintelligent AI is a very unusual case."
+++}tags:
   - lens
   - IABIED
   - supplementary
