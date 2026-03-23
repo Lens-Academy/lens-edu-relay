@@ -1,6 +1,7 @@
 ---
 id: c1751676-cefb-473d-9a8e-3c2b042fd590
-title: "Can we adopt a wait-and-see approach?"
+title: "Can we adopt a wait-and-see approach?"{++{"author":"AI","timestamp":1774297856982}@@
+tldr: "No. We don't know where the critical thresholds are."++}
 tags:
   - lens
   - IABIED

@@ -1,6 +1,7 @@
 ---
 id: 03b6d929-b4d5-4932-8eb8-706756bdd9ca
-title: "But we still have horses. Why wouldn't AI keep us around?"
+title: "But we still have horses. Why wouldn't AI keep us around?"{++{"author":"AI","timestamp":1774297859662}@@
+tldr: "What horses remain, remain because we like them."++}
 tags:
   - lens
   - IABIED

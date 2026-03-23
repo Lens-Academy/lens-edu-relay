@@ -1,6 +1,7 @@
 ---
 id: a435b40c-0122-44c1-94f0-8eb74659af9b
-title: "Can't we just train it to act like a human? Or raise the AI like a child?"
+title: "Can't we just train it to act like a human? Or raise the AI like a child?"{++{"author":"AI","timestamp":1774297854434}@@
+tldr: "Brains aren't blank slates."++}
 tags:
   - lens
   - IABIED

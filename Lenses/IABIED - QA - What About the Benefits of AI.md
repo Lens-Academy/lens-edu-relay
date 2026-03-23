@@ -1,6 +1,7 @@
 ---
 id: 7def2853-26e1-4568-8223-0439095711a8
-title: "What about the benefits of AI?"
+title: "What about the benefits of AI?"{++{"author":"AI","timestamp":1774297861800}@@
+tldr: "Rushing ahead destroys those benefits."++}
 tags:
   - lens
   - IABIED
