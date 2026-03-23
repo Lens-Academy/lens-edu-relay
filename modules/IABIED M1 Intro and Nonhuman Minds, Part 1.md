@@ -62,7 +62,8 @@ We can do some inline links like [[../Lenses/IABIED - QA - Why Write This Book]]
 
 And some card links like:
 ::card[[../Lenses/IABIED - QA - Panicking and Overreacting]]
-
+::card[[../Lenses/IABIED - QA - When Will Worrisome AI Arrive]]
+::card[[]]
 
 # Lens: IABIED - QA - Why Write This Book
 optional:: true
