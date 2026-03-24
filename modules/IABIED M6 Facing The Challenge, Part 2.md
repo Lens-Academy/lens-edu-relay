@@ -193,31 +193,38 @@ optional:: true
 
 # Lens: IABIED - QA - Chip Ownership Control
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Chip Ownership Control]]
+{++{"author":"AI","timestamp":1774345447131}@@hide:: true
+++}source:: ![[../Lenses/IABIED - QA - Chip Ownership Control]]
 
 # Lens: IABIED - QA - Research Ban Extreme
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Research Ban Extreme]]
+{++{"author":"AI","timestamp":1774345448963}@@hide:: true
+++}source:: ![[../Lenses/IABIED - QA - Research Ban Extreme]]
 
 # Lens: IABIED - QA - Can Technology Be Stopped
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Can Technology Be Stopped]]
+{++{"author":"AI","timestamp":1774345450320}@@hide:: true
+++}source:: ![[../Lenses/IABIED - QA - Can Technology Be Stopped]]
 
 # Lens: IABIED - QA - Too Much Power to Governments
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Too Much Power to Governments]]
+{++{"author":"AI","timestamp":1774345456578}@@hide:: true
+++}source:: ![[../Lenses/IABIED - QA - Too Much Power to Governments]]
 
 # Lens: IABIED - QA - Nations Reject Ban
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Nations Reject Ban]]
+{++{"author":"AI","timestamp":1774345458335}@@hide:: true
+++}source:: ![[../Lenses/IABIED - QA - Nations Reject Ban]]
 
 # Lens: IABIED - QA - Monitoring Regime Forever
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Monitoring Regime Forever]]
+{++{"author":"AI","timestamp":1774345460130}@@hide:: true
+++}source:: ![[../Lenses/IABIED - QA - Monitoring Regime Forever]]
 
 # Lens: IABIED - QA - Making Humans Smarter
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Making Humans Smarter]]
+{++{"author":"AI","timestamp":1774345461470}@@hide:: true
+++}source:: ![[../Lenses/IABIED - QA - Making Humans Smarter]]
 
 # Lens: IABIED - QA - Aligned to Whom
 optional:: true
