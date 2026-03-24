@@ -1,5 +1,6 @@
 ---
-id: b49727ba-c6e8-4142-a1a8-7e8793d52465
+id: b49727ba-c6e8-4142-a1a8-7e8793d52465{++{"author":"AI","timestamp":1774381778202}@@
+summary_for_tutor: "Covers Scott Alexander's parable 'The Goddess of Everything Else,' a mythological allegory about the struggle between ruthless competition (the Goddess of Cancer) and the creative, cooperative principle (the Goddess of Everything Else). Frames human civilization as the product of choosing cooperation over pure competitive advantage, and poses the question of whether humanity can extend this capacity to the challenge of AI."++}
 title: The Goddess Of Everything Else
 tags:
   - lens

@@ -1,5 +1,6 @@
 ---
-id: 9a7675b9-5a20-4104-98dd-68c28926e7a4
+id: 9a7675b9-5a20-4104-98dd-68c28926e7a4{++{"author":"AI","timestamp":1774381775993}@@
+summary_for_tutor: "Covers why successful catastrophe prevention is nearly invisible. Argues that when disasters are averted, people conclude the threat was never real, creating a cognitive bias against precautionary action. Applies this to AI safety: the best outcome would look like nothing happening, but requires someone to start working on it now. Notes that only about 1,000 people work directly on existential AI safety."++}
 title: The World Keeps Getting Saved
 tags:
   - lens
