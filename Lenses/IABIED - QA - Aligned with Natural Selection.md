@@ -1,5 +1,6 @@
 ---
-id: df52321c-fa73-430f-b3a6-2782f8f4020e
+id: df52321c-fa73-430f-b3a6-2782f8f4020e{++{"author":"AI","timestamp":1774381462447}@@
+summary_for_tutor: "Covers the proxy problem in alignment using the evolution analogy: humans want children but not genetic fitness itself (most would not pay $1 for a million genetic offspring). Argues that even if AI develops something resembling care for humans, it would be a proxy that diverges from genuine human flourishing once conditions change, analogous to how humans diverged from pure reproductive fitness."++}
 title: "A lot of people want kids. So aren't humans 'aligned' with natural selection after all?"
 tldr: "With more technology, we'd likely make even fewer copies of our genes."
 tags:
