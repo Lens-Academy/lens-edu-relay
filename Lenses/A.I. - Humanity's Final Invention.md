@@ -1,6 +1,6 @@
 ---
-id: 8a701cd5-82b1-46a2-8ebb-e08d10588177{++{"author":"AI","timestamp":1774381818737}@@
-summary_for_tutor: Covers the Kurzgesagt video on artificial superintelligence. Traces intelligence from flatworms to humans, explains why humans dominate through general problem-solving rather than physical advantage, and describes how AI is progressing from narrow tools toward general intelligence. Highlights that digital minds could scale in ways biological ones cannot, through parallel operation and speed advantages.++}
+id: 8a701cd5-82b1-46a2-8ebb-e08d10588177
+summary_for_tutor: Covers the Kurzgesagt video on artificial superintelligence. Traces intelligence from flatworms to humans, explains why humans dominate through general problem-solving rather than physical advantage, and describes how AI is progressing from narrow tools toward general intelligence. Highlights that digital minds could scale in ways biological ones cannot, through parallel operation and speed advantages.
 title: "A.I. - Humanity's Final Invention"
 tldr: Humans dominate Earth not because we're the strongest or fastest, but because we're the best general problem-solvers. Kurzgesagt explores what happens as AI moves from narrow tools toward something more general — and why digital minds could scale in ways biological ones can't.
 ---

@@ -1,6 +1,6 @@
 ---
-id: c4afa01d-727e-49d4-b714-d0295ec2fc71{++{"author":"AI","timestamp":1774381356067}@@
-summary_for_tutor: Argues that intelligence is probably understandable in principle, drawing parallels to pre-biochemistry skepticism about understanding life. Some small neural network components have been decoded, but the field is 1/50th to 1/5,000th of the way toward tackling major problems. Current inability does not prove impossibility.++}
+id: c4afa01d-727e-49d4-b714-d0295ec2fc71
+summary_for_tutor: Argues that intelligence is probably understandable in principle, drawing parallels to pre-biochemistry skepticism about understanding life. Some small neural network components have been decoded, but the field is 1/50th to 1/5,000th of the way toward tackling major problems. Current inability does not prove impossibility.
 title: "Is intelligence understandable in principle?"
 tldr: "Probably."
 tags:

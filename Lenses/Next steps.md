@@ -1,6 +1,6 @@
 ---
-id: f5e812a2-04d7-40a4-9492-c59d7273f7f8{++{"author":"AI","timestamp":1774381779978}@@
-summary_for_tutor: Covers practical next steps for students finishing an introductory AI safety course. Lists resources for further learning (AISafety.info), networking (EA Global events), field-building, and structured programs (SPAR, ML4Good, MATS). Encourages reflection on what contribution the student might make, including non-technical paths like communications and community building.++}
+id: f5e812a2-04d7-40a4-9492-c59d7273f7f8
+summary_for_tutor: Covers practical next steps for students finishing an introductory AI safety course. Lists resources for further learning (AISafety.info), networking (EA Global events), field-building, and structured programs (SPAR, ML4Good, MATS). Encourages reflection on what contribution the student might make, including non-technical paths like communications and community building.
 title: Next steps
 tldr: 
 tags:

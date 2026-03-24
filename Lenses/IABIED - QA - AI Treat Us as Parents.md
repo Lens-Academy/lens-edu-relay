@@ -1,6 +1,6 @@
 ---
-id: 55e4c9d2-6a22-4a12-a200-3572c785c9cc{++{"author":"AI","timestamp":1774381502943}@@
-summary_for_tutor: Addresses whether AI might treat humanity well out of filial responsibility. Argues filial care is a rare evolutionary trait even among animals, and none of the conditions that produced it in humans (costly brain development, tribal group structures, genetic selection) apply to AI. Notes the paradox that even if an AI developed something like filial love, the distorted version would likely produce undesirable outcomes such as freezing humans in amber.++}
+id: 55e4c9d2-6a22-4a12-a200-3572c785c9cc
+summary_for_tutor: Addresses whether AI might treat humanity well out of filial responsibility. Argues filial care is a rare evolutionary trait even among animals, and none of the conditions that produced it in humans (costly brain development, tribal group structures, genetic selection) apply to AI. Notes the paradox that even if an AI developed something like filial love, the distorted version would likely produce undesirable outcomes such as freezing humans in amber.
 title: "Will AI treat us as its 'parents'?"
 tldr: "It seems quite unlikely."
 tags:

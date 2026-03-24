@@ -1,6 +1,6 @@
 ---
-id: dda20895-9416-4a5f-93b5-14a92ef3fc84{++{"author":"AI","timestamp":1774381360089}@@
-summary_for_tutor: "Counters the dismissal that AIs are 'just math.' Just as humans are 'just biochemistry' yet landed on the moon, mathematical operations can encode anything including complex reasoning and strategic planning. The substrate does not limit the capabilities that emerge from it. Argues there is no principled line where mathematical sufficiency stops."++}
+id: dda20895-9416-4a5f-93b5-14a92ef3fc84
+summary_for_tutor: "Counters the dismissal that AIs are 'just math.' Just as humans are 'just biochemistry' yet landed on the moon, mathematical operations can encode anything including complex reasoning and strategic planning. The substrate does not limit the capabilities that emerge from it. Argues there is no principled line where mathematical sufficiency stops."
 title: "Aren't AIs 'just math'?"
 tldr: "Saying AIs are \"just math\" is like saying humans are \"just biochemistry.\""
 tags:

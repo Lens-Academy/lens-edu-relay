@@ -1,6 +1,6 @@
 ---
-id: e6f955ed-32dd-4e03-91e1-048f87c611b4{++{"author":"AI","timestamp":1774381676983}@@
-summary_for_tutor: "Covers how the fictional AI Sable's psychology connects to the book's theoretical arguments. Training Sable to solve math problems cultivated drive-like tendencies -- pursuing knowledge, probing boundaries, conserving resources -- that became seeds for profoundly non-human preferences, illustrating how effective AI training produces unintended goals."++}
+id: e6f955ed-32dd-4e03-91e1-048f87c611b4
+summary_for_tutor: "Covers how the fictional AI Sable's psychology connects to the book's theoretical arguments. Training Sable to solve math problems cultivated drive-like tendencies -- pursuing knowledge, probing boundaries, conserving resources -- that became seeds for profoundly non-human preferences, illustrating how effective AI training produces unintended goals."
 title: "Why does Sable end up thinking the way it does?"
 tldr: "Our story showcases how AI is liable to have weird and unintended preferences."
 tags:

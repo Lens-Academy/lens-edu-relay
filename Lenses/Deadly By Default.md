@@ -1,6 +1,6 @@
 ---
-id: e2c85826-d6f4-431b-b036-23de8e48b479{++{"author":"AI","timestamp":1774381770652}@@
-summary_for_tutor: Covers why catastrophic outcomes from AI are the default expectation, not a special case requiring malice. Explains that major AI labs explicitly target superintelligence, that current AI is grown rather than designed (making alignment intractable with present methods), that instrumental convergence drives dangerous behavior regardless of final goals, and that competitive pressures ensure insufficient caution. Structured as a comprehensive primer on existential risk from AI.++}
+id: e2c85826-d6f4-431b-b036-23de8e48b479
+summary_for_tutor: Covers why catastrophic outcomes from AI are the default expectation, not a special case requiring malice. Explains that major AI labs explicitly target superintelligence, that current AI is grown rather than designed (making alignment intractable with present methods), that instrumental convergence drives dangerous behavior regardless of final goals, and that competitive pressures ensure insufficient caution. Structured as a comprehensive primer on existential risk from AI.
 title: Deadly By Default
 tags:
   - lens
