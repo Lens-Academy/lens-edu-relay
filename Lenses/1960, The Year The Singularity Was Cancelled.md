@@ -1,5 +1,6 @@
 ---
-id: b24e0198-8fa8-49cd-b7c6-396bc5f847be
+id: b24e0198-8fa8-49cd-b7c6-396bc5f847be{++{"author":"AI","timestamp":1774381768424}@@
+summary_for_tutor: "Covers Scott Alexander's analysis of hyperbolic growth models applied to human history. Von Foerster's equations fit past population data with startling accuracy but predicted a singularity around 2026 that never arrived because the demographic transition broke the feedback loop. Introduces the concept that long-running historical trends can break abruptly due to qualitative shifts, with implications for predicting AI trajectories."++}
 title: "1960, The Year The Singularity Was Cancelled"
 tags:
   - lens
