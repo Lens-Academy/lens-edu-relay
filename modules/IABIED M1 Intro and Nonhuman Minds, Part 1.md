@@ -325,8 +325,8 @@ hide:: true
 source:: ![[../Lenses/IABIED - QA - Obvious Insights Take Time]]
 
 # Lens: IABIED - QA - Full Description of an LLM
-optional:: true
-hide:: true
+optional:: false
+hide:: false
 source:: ![[../Lenses/IABIED - QA - Full Description of an LLM]]
 
 # Lens: IABIED - QA - Special Behavior from Mundane Parts
