@@ -42,7 +42,8 @@ And this should show a card:
 Let's see if that works!
 
 # Lens:
-source:: [[kurz]]
+source:: [[../Lenses/A.I. - Humanity's Final Invention]]
+
 # Lens:
 source:: [[../Lenses/collapsed article text test]]
 

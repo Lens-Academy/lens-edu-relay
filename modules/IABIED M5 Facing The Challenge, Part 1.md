@@ -124,31 +124,38 @@ optional:: true
 
 # Lens: IABIED - QA - Alignment All or Nothing
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Alignment All or Nothing]]
+{++{"author":"AI","timestamp":1774345395396}@@hide:: true
+++}source:: ![[../Lenses/IABIED - QA - Alignment All or Nothing]]
 
 # Lens: IABIED - QA - Governments Get Involved
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Governments Get Involved]]
+{++{"author":"AI","timestamp":1774345396836}@@hide:: true
+++}source:: ![[../Lenses/IABIED - QA - Governments Get Involved]]
 
 # Lens: IABIED - QA - Reckless Means Incompetent
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Reckless Means Incompetent]]
+{++{"author":"AI","timestamp":1774345397779}@@hide:: true
+++}source:: ![[../Lenses/IABIED - QA - Reckless Means Incompetent]]
 
 # Lens: IABIED - QA - Hardware Overhang
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Hardware Overhang]]
+{++{"author":"AI","timestamp":1774345399994}@@hide:: true
+++}source:: ![[../Lenses/IABIED - QA - Hardware Overhang]]
 
 # Lens: IABIED - QA - Race for Alignment Research
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Race for Alignment Research]]
+{++{"author":"AI","timestamp":1774345401331}@@hide:: true
+++}source:: ![[../Lenses/IABIED - QA - Race for Alignment Research]]
 
 # Lens: IABIED - QA - Non-Dangerous Deployment
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Non-Dangerous Deployment]]
+{++{"author":"AI","timestamp":1774345402960}@@hide:: true
+++}source:: ![[../Lenses/IABIED - QA - Non-Dangerous Deployment]]
 
 # Lens: IABIED - QA - Can Interpretability Solve This
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Can Interpretability Solve This]]
+{++{"author":"AI","timestamp":1774345404424}@@hide:: true
+++}source:: ![[../Lenses/IABIED - QA - Can Interpretability Solve This]]
 
 # Lens: IABIED - QA - AIs Debate Compete Oversee
 optional:: true
