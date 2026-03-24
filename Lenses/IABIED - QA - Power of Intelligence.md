@@ -1,6 +1,6 @@
 ---
-id: 85666bdb-67ba-49b1-a880-5cd3f07f5d85{++{"author":"AI","timestamp":1774381321949}@@
-summary_for_tutor: Argues that popular culture systematically underestimates intelligence. Introduces the concept of relative efficiency through chess (Magnus Carlsen spotting a rook) and market efficiency analogies. A superintelligence would be instrumentally efficient relative to humans, meaning we could not identify better strategies than its own. Critiques Hollywood depictions like Ultron as fundamentally misunderstanding what intelligence implies.++}
+id: 85666bdb-67ba-49b1-a880-5cd3f07f5d85
+summary_for_tutor: Argues that popular culture systematically underestimates intelligence. Introduces the concept of relative efficiency through chess (Magnus Carlsen spotting a rook) and market efficiency analogies. A superintelligence would be instrumentally efficient relative to humans, meaning we could not identify better strategies than its own. Critiques Hollywood depictions like Ultron as fundamentally misunderstanding what intelligence implies.
 title: Appreciating the Power of Intelligence
 tldr: 'Hollywood "Intelligence"'
 tags:

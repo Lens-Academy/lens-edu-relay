@@ -1,6 +1,6 @@
 ---
-id: 79dd5970-4a5c-4da4-a5e4-6cc99b167f56{++{"author":"AI","timestamp":1774381401553}@@
-summary_for_tutor: "Examines what hallucinations reveal about AI. They show genuine current limitations but also a deeper misalignment: AIs hallucinate because fabricating plausible text is more consistent with training objectives than admitting ignorance. Fixing hallucinations will not fix alignment, since the underlying gap between training incentives and user intent persists."++}
+id: 79dd5970-4a5c-4da4-a5e4-6cc99b167f56
+summary_for_tutor: "Examines what hallucinations reveal about AI. They show genuine current limitations but also a deeper misalignment: AIs hallucinate because fabricating plausible text is more consistent with training objectives than admitting ignorance. Fixing hallucinations will not fix alignment, since the underlying gap between training incentives and user intent persists."
 title: "Don't hallucinations show that modern AIs are weak?"
 tldr: "Hallucinations reveal both a limitation and a misalignment."
 tags:

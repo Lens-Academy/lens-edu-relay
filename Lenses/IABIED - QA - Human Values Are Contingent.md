@@ -1,6 +1,6 @@
 ---
-id: 6e22366e-0068-4412-8f3a-acc72a244beb{++{"author":"AI","timestamp":1774381499590}@@
-summary_for_tutor: "Traces how human empathy and kindness arose from specific accidents of primate evolution: ancestors used their own brains as templates to model others, and this simulation machinery 'leaks' into emotional experience. Extends to cultural contingency (Christianity's role in universalism) and argues that AI, lacking this evolutionary and cultural heritage, has no reason to develop similar values. Emphasizes that engineering alignment requires reliable, predictable outcomes rather than hoping for convergence."++}
+id: 6e22366e-0068-4412-8f3a-acc72a244beb
+summary_for_tutor: "Traces how human empathy and kindness arose from specific accidents of primate evolution: ancestors used their own brains as templates to model others, and this simulation machinery 'leaks' into emotional experience. Extends to cultural contingency (Christianity's role in universalism) and argues that AI, lacking this evolutionary and cultural heritage, has no reason to develop similar values. Emphasizes that engineering alignment requires reliable, predictable outcomes rather than hoping for convergence."
 title: Human Values Are Contingent
 tldr: "The Glorious Accident of Kindness"
 tags:

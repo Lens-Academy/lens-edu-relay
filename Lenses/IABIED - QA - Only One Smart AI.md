@@ -1,6 +1,6 @@
 ---
-id: c296d8fd-45ef-47b2-94c7-7996a59f4ad7{++{"author":"AI","timestamp":1774381682426}@@
-summary_for_tutor: Covers why the story features a single breakthrough AI rather than multiple competing systems. Argues this is historically realistic (AlphaGo and ChatGPT were each essentially unmatched at launch) and that small capability differences can produce dramatically divergent outcomes, as with nuclear chain reactions above and below criticality.++}
+id: c296d8fd-45ef-47b2-94c7-7996a59f4ad7
+summary_for_tutor: Covers why the story features a single breakthrough AI rather than multiple competing systems. Argues this is historically realistic (AlphaGo and ChatGPT were each essentially unmatched at launch) and that small capability differences can produce dramatically divergent outcomes, as with nuclear chain reactions above and below criticality.
 title: "Why did you tell a story with only one AI as smart as Sable?"
 tldr: "In part because it's realistic."
 tags:

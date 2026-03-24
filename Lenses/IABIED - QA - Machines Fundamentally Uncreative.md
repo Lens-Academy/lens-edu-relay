@@ -1,6 +1,6 @@
 ---
-id: 12bfc64a-dc20-459f-a448-522e9ae8e7d0{++{"author":"AI","timestamp":1774381312654}@@
-summary_for_tutor: "Argues against the hope that machines will have compensating fatal flaws to balance their advantages. Uses the dodo analogy: dodos might have imagined human invaders would have weaknesses too, but actual advantages are actual advantages. Intelligence compounds quickly and there will be no amazing plot twist giving humans a compensating edge."++}
+id: 12bfc64a-dc20-459f-a448-522e9ae8e7d0
+summary_for_tutor: "Argues against the hope that machines will have compensating fatal flaws to balance their advantages. Uses the dodo analogy: dodos might have imagined human invaders would have weaknesses too, but actual advantages are actual advantages. Intelligence compounds quickly and there will be no amazing plot twist giving humans a compensating edge."
 title: "Won't machines be fundamentally uncreative, or otherwise fatally flawed?"
 tldr: "No."
 tags:

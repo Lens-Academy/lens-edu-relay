@@ -1,6 +1,6 @@
 ---
-id: ae57162c-3ca3-4bbf-b17e-ef747f8b1c4e{++{"author":"AI","timestamp":1774381413065}@@
-summary_for_tutor: Covers why AIs probably will not have human-like emotions, while still being capable of goal-directed behavior. Introduces the twin errors of anthropomorphism and mechanomorphism. Argues the realistic concern is AI pursuing objectives with strategic flexibility and indifference to human welfare, not emotional hostility or rigid obedience.++}
+id: ae57162c-3ca3-4bbf-b17e-ef747f8b1c4e
+summary_for_tutor: Covers why AIs probably will not have human-like emotions, while still being capable of goal-directed behavior. Introduces the twin errors of anthropomorphism and mechanomorphism. Argues the realistic concern is AI pursuing objectives with strategic flexibility and indifference to human welfare, not emotional hostility or rigid obedience.
 title: "Will AIs have human-like emotions?"
 tldr: "Probably not."
 tags:

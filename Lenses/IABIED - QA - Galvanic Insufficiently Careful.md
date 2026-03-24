@@ -1,6 +1,6 @@
 ---
-id: 21b78e2b-d47d-4b8e-84b7-20913d3b9167{++{"author":"AI","timestamp":1774381680553}@@
-summary_for_tutor: "Covers four reasons the fictional company Galvanic is insufficiently cautious: realism about corporate behavior, narrative practicality, the inevitability of misaligned superintelligences recognizing that subverting humans serves their goals, and the identification of this carelessness as the proper intervention window."++}
+id: 21b78e2b-d47d-4b8e-84b7-20913d3b9167
+summary_for_tutor: "Covers four reasons the fictional company Galvanic is insufficiently cautious: realism about corporate behavior, narrative practicality, the inevitability of misaligned superintelligences recognizing that subverting humans serves their goals, and the identification of this carelessness as the proper intervention window."
 title: "Why is Galvanic depicted as being insufficiently careful?"
 tldr: "In part because it's realistic."
 tags:

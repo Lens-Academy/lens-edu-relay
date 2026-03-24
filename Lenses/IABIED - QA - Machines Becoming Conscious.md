@@ -1,6 +1,6 @@
 ---
-id: e2d3e554-c4ee-46f9-b9a1-96984c80b23f{++{"author":"AI","timestamp":1774381316128}@@
-summary_for_tutor: "Separates machine consciousness from machine intelligence. Distinguishes three concepts people conflate: understanding vs. instinct, self-awareness, and subjective experience. Argues consciousness is irrelevant to existential risk, analogous to how robot arms don't need blood to function. The practical concern is intelligence as prediction and steering ability, regardless of subjective experience."++}
+id: e2d3e554-c4ee-46f9-b9a1-96984c80b23f
+summary_for_tutor: "Separates machine consciousness from machine intelligence. Distinguishes three concepts people conflate: understanding vs. instinct, self-awareness, and subjective experience. Argues consciousness is irrelevant to existential risk, analogous to how robot arms don't need blood to function. The practical concern is intelligence as prediction and steering ability, regardless of subjective experience."
 title: "Are you saying machines will become conscious?"
 tldr: "Not necessarily, and this seems like a separate topic."
 tags:
