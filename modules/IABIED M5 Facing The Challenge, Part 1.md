@@ -94,27 +94,33 @@ optional:: true
 
 # Lens: IABIED - QA - Time to Solve Alignment
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Time to Solve Alignment]]
+{++{"author":"AI","timestamp":1774345385386}@@hide:: true
+++}source:: ![[../Lenses/IABIED - QA - Time to Solve Alignment]]
 
 # Lens: IABIED - QA - Lots of Different AIs
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Lots of Different AIs]]
+{++{"author":"AI","timestamp":1774345386959}@@hide:: true
+++}source:: ![[../Lenses/IABIED - QA - Lots of Different AIs]]
 
 # Lens: IABIED - QA - Slow AI Integration
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Slow AI Integration]]
+{++{"author":"AI","timestamp":1774345388525}@@hide:: true
+++}source:: ![[../Lenses/IABIED - QA - Slow AI Integration]]
 
 # Lens: IABIED - QA - Before and After
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Before and After]]
+{++{"author":"AI","timestamp":1774345389823}@@hide:: true
+++}source:: ![[../Lenses/IABIED - QA - Before and After]]
 
 # Lens: IABIED - QA - Chicago Pile-1
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Chicago Pile-1]]
+{++{"author":"AI","timestamp":1774345391229}@@hide:: true
+++}source:: ![[../Lenses/IABIED - QA - Chicago Pile-1]]
 
 # Lens: IABIED - QA - Muddle Through
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Muddle Through]]
+{++{"author":"AI","timestamp":1774345393210}@@hide:: true
+++}source:: ![[../Lenses/IABIED - QA - Muddle Through]]
 
 # Lens: IABIED - QA - Alignment All or Nothing
 optional:: true

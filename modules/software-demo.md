@@ -40,6 +40,9 @@ And this should show a card:
 ::card[[../Lenses/Trial question and roleplay]]
 
 Let's see if that works!
+
+# Lens:
+source:: [[kurz]]
 # Lens:
 source:: [[../Lenses/collapsed article text test]]
 
