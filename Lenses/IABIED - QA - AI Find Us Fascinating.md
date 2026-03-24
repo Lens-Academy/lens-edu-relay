@@ -1,5 +1,6 @@
 ---
-id: 299b31d0-c5bf-4db1-9897-2fe568a5d861
+id: 299b31d0-c5bf-4db1-9897-2fe568a5d861{++{"author":"AI","timestamp":1774381508712}@@
+summary_for_tutor: "Covers whether superintelligent AI might preserve humanity out of fascination or historical interest. Argues that fascination is a human emotion AI need not share, and an AI could construct alternative minds specifically designed to be interesting rather than preserving biological humans. Even partial valuation of humans as historical artifacts could result in 'preservation' that looks nothing like human flourishing."++}
 title: "Won't AI find us historically important?"
 tldr: "If AI values \"fascination,\" it probably has better options."
 tags:
