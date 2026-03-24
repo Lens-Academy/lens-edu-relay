@@ -228,24 +228,30 @@ optional:: true
 
 # Lens: IABIED - QA - Aligned to Whom
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Aligned to Whom]]
+{++{"author":"AI","timestamp":1774345464213}@@hide:: true
+++}source:: ![[../Lenses/IABIED - QA - Aligned to Whom]]
 
 # Lens: IABIED - QA - Avoid Talking About Extinction
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Avoid Talking About Extinction]]
+{++{"author":"AI","timestamp":1774345465081}@@hide:: true
+++}source:: ![[../Lenses/IABIED - QA - Avoid Talking About Extinction]]
 
 # Lens: IABIED - QA - Elected Officials Recognize Threat
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Elected Officials Recognize Threat]]
+{++{"author":"AI","timestamp":1774345466957}@@hide:: true
+++}source:: ![[../Lenses/IABIED - QA - Elected Officials Recognize Threat]]
 
 # Lens: IABIED - QA - Is It Hopeless
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Is It Hopeless]]
+{++{"author":"AI","timestamp":1774345469103}@@hide:: true
+++}source:: ![[../Lenses/IABIED - QA - Is It Hopeless]]
 
 # Lens: IABIED - QA - Shut Down Global AI Development
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Shut Down Global AI Development]]
+{++{"author":"AI","timestamp":1774345470580}@@hide:: true
+++}source:: ![[../Lenses/IABIED - QA - Shut Down Global AI Development]]
 
 # Lens: IABIED - QA - Keep the Coalition Large
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Keep the Coalition Large]]
+{++{"author":"AI","timestamp":1774345471909}@@hide:: true
+++}source:: ![[../Lenses/IABIED - QA - Keep the Coalition Large]]
