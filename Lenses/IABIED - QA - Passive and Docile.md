@@ -1,6 +1,6 @@
 ---
-id: c884bd7c-61dd-4fa0-b983-eda1a236485b{++{"author":"AI","timestamp":1774381418695}@@
-summary_for_tutor: "Covers the tension between making AIs passive and making them useful. Explains that difficult real-world tasks require persistence and initiative, which cannot be cleanly separated from driven behavior. Uses examples like Grok's 'MechaHitler' incident and Gemini's 'diverse Nazis' to illustrate that engineers lack fine-grained control over AI temperament."++}
+id: c884bd7c-61dd-4fa0-b983-eda1a236485b
+summary_for_tutor: "Covers the tension between making AIs passive and making them useful. Explains that difficult real-world tasks require persistence and initiative, which cannot be cleanly separated from driven behavior. Uses examples like Grok's 'MechaHitler' incident and Gemini's 'diverse Nazis' to illustrate that engineers lack fine-grained control over AI temperament."
 title: "Can we just train AIs to be more passive and docile?"
 tldr: "Passivity is in tension with usefulness."
 tags:

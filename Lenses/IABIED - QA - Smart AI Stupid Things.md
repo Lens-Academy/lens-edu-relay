@@ -1,6 +1,6 @@
 ---
-id: 90381b34-294e-4e2a-b884-555996939080{++{"author":"AI","timestamp":1774381591607}@@
-summary_for_tutor: Covers the objection that imagining a smart AI pursuing trivial goals is unrealistic. Argues that intelligently pursuing any goal is not stupid but simply reflects different objectives. An AI can be perfectly rational, self-aware, and capable of understanding human values while being completely unmotivated to pursue them.++}
+id: 90381b34-294e-4e2a-b884-555996939080
+summary_for_tutor: Covers the objection that imagining a smart AI pursuing trivial goals is unrealistic. Argues that intelligently pursuing any goal is not stupid but simply reflects different objectives. An AI can be perfectly rational, self-aware, and capable of understanding human values while being completely unmotivated to pursue them.
 title: "Why are you imagining a smart AI doing such stupid, trivial things?"
 tldr: "AIs can intelligently pursue different things than a human would."
 tags:

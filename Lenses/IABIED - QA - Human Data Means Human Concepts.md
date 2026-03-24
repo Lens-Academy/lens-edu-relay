@@ -1,6 +1,6 @@
 ---
-id: f946995b-20dc-4ad7-b9ab-a58a0b5e4787{++{"author":"AI","timestamp":1774381547273}@@
-summary_for_tutor: Addresses whether training on human data makes AIs likelier to care about human values. Argues that learning about concepts like love and kindness for text prediction does not translate into genuine alignment. An AI animated by a complex tangle of internal machinery will not steer toward human-favored concepts in the intended way. The alignment problem remains because caring must be calibrated precisely right.++}
+id: f946995b-20dc-4ad7-b9ab-a58a0b5e4787
+summary_for_tutor: Addresses whether training on human data makes AIs likelier to care about human values. Argues that learning about concepts like love and kindness for text prediction does not translate into genuine alignment. An AI animated by a complex tangle of internal machinery will not steer toward human-favored concepts in the intended way. The alignment problem remains because caring must be calibrated precisely right.
 title: "If AIs are trained on human data, doesn't that make them likelier to care about human concepts?"
 tldr: "Yes, but this doesn't help much."
 tags:

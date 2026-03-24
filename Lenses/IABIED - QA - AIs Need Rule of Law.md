@@ -1,6 +1,6 @@
 ---
-id: 6aba9b76-3637-4002-bb08-fbcf83802f82{++{"author":"AI","timestamp":1774381504768}@@
-summary_for_tutor: Examines whether superintelligent AIs would need legal frameworks that protect humans. Argues AIs could coordinate among themselves without including humans, potentially through mind-inspection for trust verification. Uses the thought experiment of mice owning property in a human city to illustrate why human property rights would be inherently unstable against superintelligent systems.++}
+id: 6aba9b76-3637-4002-bb08-fbcf83802f82
+summary_for_tutor: Examines whether superintelligent AIs would need legal frameworks that protect humans. Argues AIs could coordinate among themselves without including humans, potentially through mind-inspection for trust verification. Uses the thought experiment of mice owning property in a human city to illustrate why human property rights would be inherently unstable against superintelligent systems.
 title: "Won't AIs need the rule of law?"
 tldr: "AIs could coordinate with each other without including humans."
 tags:

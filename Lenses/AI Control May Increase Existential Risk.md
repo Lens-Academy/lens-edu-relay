@@ -1,6 +1,6 @@
 ---
-id: ce05d88a-97da-43de-a54b-62f31a62f62f{++{"author":"AI","timestamp":1774381166219}@@
-summary_for_tutor: Argues that AI control research may net-increase existential risk by shifting probability mass from moderately large warning shots (which would catalyze serious action) toward either ineffective warning shots or full catastrophe. Claims that labs would sanitize reports of averted incidents, preventing the public alarm needed for policy change. Notes that broader civilizational resistance mechanisms would likely stop most threats that control would stop, but with the benefit of visible warning.++}
+id: ce05d88a-97da-43de-a54b-62f31a62f62f
+summary_for_tutor: Argues that AI control research may net-increase existential risk by shifting probability mass from moderately large warning shots (which would catalyze serious action) toward either ineffective warning shots or full catastrophe. Claims that labs would sanitize reports of averted incidents, preventing the public alarm needed for policy change. Notes that broader civilizational resistance mechanisms would likely stop most threats that control would stop, but with the benefit of visible warning.
 title: AI Control May Increase Existential Risk
 tldr: What if believing we can control an AI makes us more willing to build dangerous ones? This critique warns that control research could create a false sense of security — and that studying how to contain a model might accidentally teach us (or it) how to escape containment.
 tags:

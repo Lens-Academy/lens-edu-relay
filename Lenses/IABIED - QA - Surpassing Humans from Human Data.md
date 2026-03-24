@@ -1,6 +1,6 @@
 ---
-id: 7629014a-214f-4273-817c-378496558cca{++{"author":"AI","timestamp":1774381368922}@@
-summary_for_tutor: "Explains how AI trained on human data can surpass humans. Deep Blue outplayed its creators; AlphaGo Zero surpassed all humans from self-play alone. The Tycho Brahe analogy shows how predicting a scientist's observations could incentivize discovering laws that scientist never knew. Human data is not the key limitation on AI capability."++}
+id: 7629014a-214f-4273-817c-378496558cca
+summary_for_tutor: "Explains how AI trained on human data can surpass humans. Deep Blue outplayed its creators; AlphaGo Zero surpassed all humans from self-play alone. The Tycho Brahe analogy shows how predicting a scientist's observations could incentivize discovering laws that scientist never knew. Human data is not the key limitation on AI capability."
 title: "How could an AI trained only on human data surpass humans?"
 tldr: "Perhaps by learning general skills and implementing them better."
 tags:

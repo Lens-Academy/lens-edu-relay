@@ -1,6 +1,6 @@
 ---
-id: 568cb83e-08e2-47ec-8993-38384de56124{++{"author":"AI","timestamp":1774381314367}@@
-summary_for_tutor: Argues that human uniqueness is unlikely and not especially relevant to AI risk. Even if some human capabilities are hard to replicate, AI could achieve equivalent results through different methods, as Deep Blue played chess through entirely different mechanisms than Kasparov. What matters is capability for prediction and environmental manipulation, not consciousness or a vital spark.++}
+id: 568cb83e-08e2-47ec-8993-38384de56124
+summary_for_tutor: Argues that human uniqueness is unlikely and not especially relevant to AI risk. Even if some human capabilities are hard to replicate, AI could achieve equivalent results through different methods, as Deep Blue played chess through entirely different mechanisms than Kasparov. What matters is capability for prediction and environmental manipulation, not consciousness or a vital spark.
 title: "Isn't there something special about humans that mere machines could never emulate?"
 tldr: "It seems unlikely, and not especially relevant."
 tags:
