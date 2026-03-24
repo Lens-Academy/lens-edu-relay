@@ -1,5 +1,6 @@
 ---
-id: 0a5f01f5-5739-4fa7-aa2a-318bdc7841f1
+id: 0a5f01f5-5739-4fa7-aa2a-318bdc7841f1{++{"author":"AI","timestamp":1774381602082}@@
+summary_for_tutor: "Covers the orthogonality thesis: intelligence and values are independent variables. A superintelligent AI can comprehend human ethics perfectly while remaining entirely indifferent to human welfare. Introduces the action-understanding gap -- understanding humor does not mean finding jokes funny, and recognizing moral arguments does not obligate following them."++}
 title: "Orthogonality: AIs Can Have (Almost) Any Goal"
 tldr: "A Dialogue on Correct Nests, Continued"
 tags:
