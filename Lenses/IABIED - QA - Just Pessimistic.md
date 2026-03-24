@@ -1,5 +1,6 @@
 ---
-id: 9b407edb-4d70-4eab-8393-a1b58ac31e6b
+id: 9b407edb-4d70-4eab-8393-a1b58ac31e6b{++{"author":"AI","timestamp":1774381593476}@@
+summary_for_tutor: Covers the response to accusations of pessimism about AI. The authors distinguish superintelligent AI from other technologies by its capacity for independent thought and escape. Rejects narrative-balance reasoning, arguing that actual arguments rather than equal weighting of optimistic and pessimistic stories should guide predictions.++}
 title: "Are you just pessimistic?"
 tldr: "We're optimistic about many things, but superintelligence isn't like most things."
 tags:
