@@ -1,5 +1,6 @@
 ---
-id: 34c52200-f6b8-4fa8-88c7-2b3a46849231
+id: 34c52200-f6b8-4fa8-88c7-2b3a46849231{++{"author":"AI","timestamp":1774381553083}@@
+summary_for_tutor: Addresses the hope that AI, lacking evolved drives like selfishness and greed, would be less dangerous than humans. Argues an AI does not need emotional greed to acquire resources -- it only needs to recognize that matter and energy are useful for achieving its goals. The danger comes from the practical work of resource acquisition, not the emotional motivation behind it.++}
 title: "Humans are dangerous because of selfish, greedy drives. AI won't have those drives?"
 tldr: "Those drives aren't necessary to motivate resource acquisition."
 tags:
