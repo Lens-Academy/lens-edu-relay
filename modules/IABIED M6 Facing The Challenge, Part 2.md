@@ -113,67 +113,83 @@ optional:: true
 
 # Lens: IABIED - QA - The Draft Treaty
 optional:: true
-source:: ![[../Lenses/IABIED - QA - The Draft Treaty]]
+{++{"author":"AI","timestamp":1774345419308}@@hide:: true
+++}source:: ![[../Lenses/IABIED - QA - The Draft Treaty]]
 
 # Lens: IABIED - QA - Distraction from Other Issues
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Distraction from Other Issues]]
+{++{"author":"AI","timestamp":1774345421069}@@hide:: true
+++}source:: ![[../Lenses/IABIED - QA - Distraction from Other Issues]]
 
 # Lens: IABIED - QA - Anti-Technology
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Anti-Technology]]
+{++{"author":"AI","timestamp":1774345422953}@@hide:: true
+++}source:: ![[../Lenses/IABIED - QA - Anti-Technology]]
 
 # Lens: IABIED - QA - Rush Ahead Good Guys
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Rush Ahead Good Guys]]
+{++{"author":"AI","timestamp":1774345424754}@@hide:: true
+++}source:: ![[../Lenses/IABIED - QA - Rush Ahead Good Guys]]
 
 # Lens: IABIED - QA - Cooperate to Build Safely
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Cooperate to Build Safely]]
+{++{"author":"AI","timestamp":1774345426517}@@hide:: true
+++}source:: ![[../Lenses/IABIED - QA - Cooperate to Build Safely]]
 
 # Lens: IABIED - QA - Provably Safe AI
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Provably Safe AI]]
+{++{"author":"AI","timestamp":1774345428141}@@hide:: true
+++}source:: ![[../Lenses/IABIED - QA - Provably Safe AI]]
 
 # Lens: IABIED - QA - Daily Life Believing This
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Daily Life Believing This]]
+{++{"author":"AI","timestamp":1774345429622}@@hide:: true
+++}source:: ![[../Lenses/IABIED - QA - Daily Life Believing This]]
 
 # Lens: IABIED - QA - Should We Panic
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Should We Panic]]
+{++{"author":"AI","timestamp":1774345431504}@@hide:: true
+++}source:: ![[../Lenses/IABIED - QA - Should We Panic]]
 
 # Lens: IABIED - QA - Fear-Mongering by AI Leaders
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Fear-Mongering by AI Leaders]]
+{++{"author":"AI","timestamp":1774345433235}@@hide:: true
+++}source:: ![[../Lenses/IABIED - QA - Fear-Mongering by AI Leaders]]
 
 # Lens: IABIED - QA - Experts Don't All Agree
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Experts Don't All Agree]]
+{++{"author":"AI","timestamp":1774345435031}@@hide:: true
+++}source:: ![[../Lenses/IABIED - QA - Experts Don't All Agree]]
 
 # Lens: IABIED - QA - The Lemoine Effect
 optional:: true
-source:: ![[../Lenses/IABIED - QA - The Lemoine Effect]]
+{++{"author":"AI","timestamp":1774345436795}@@hide:: true
+++}source:: ![[../Lenses/IABIED - QA - The Lemoine Effect]]
 
 # Lens: IABIED - QA - Telling AI Companies No
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Telling AI Companies No]]
+{++{"author":"AI","timestamp":1774345438561}@@hide:: true
+++}source:: ![[../Lenses/IABIED - QA - Telling AI Companies No]]
 
 # Lens: IABIED - QA - Making Sense of the Death Race
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Making Sense of the Death Race]]
+{++{"author":"AI","timestamp":1774345440423}@@hide:: true
+++}source:: ![[../Lenses/IABIED - QA - Making Sense of the Death Race]]
 
 # Lens: IABIED - QA - Wait and See Approach
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Wait and See Approach]]
+{++{"author":"AI","timestamp":1774345442188}@@hide:: true
+++}source:: ![[../Lenses/IABIED - QA - Wait and See Approach]]
 
 # Lens: IABIED - QA - Warning Shots
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Warning Shots]]
+{++{"author":"AI","timestamp":1774345443565}@@hide:: true
+++}source:: ![[../Lenses/IABIED - QA - Warning Shots]]
 
 # Lens: IABIED - QA - Stopping Without Spyware
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Stopping Without Spyware]]
+{++{"author":"AI","timestamp":1774345445347}@@hide:: true
+++}source:: ![[../Lenses/IABIED - QA - Stopping Without Spyware]]
 
 # Lens: IABIED - QA - Chip Ownership Control
 optional:: true

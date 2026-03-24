@@ -39,6 +39,8 @@ Let's see if we can now link to another article: [[../Lenses/collapsed article t
 And this should show a card:
 ::card[[../Lenses/Trial question and roleplay]]
 
+::card[[../Lenses/A.I. - Humanity's Final Invention]]
+
 Let's see if that works!
 
 # Lens:
