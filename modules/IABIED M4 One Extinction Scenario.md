@@ -82,25 +82,31 @@ optional:: true
 
 # Lens: IABIED - QA - Galvanic Fairly Careful
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Galvanic Fairly Careful]]
+{++{"author":"AI","timestamp":1774345371540}@@hide:: true
+++}source:: ![[../Lenses/IABIED - QA - Galvanic Fairly Careful]]
 
 # Lens: IABIED - QA - Galvanic Insufficiently Careful
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Galvanic Insufficiently Careful]]
+{++{"author":"AI","timestamp":1774345373300}@@hide:: true
+++}source:: ![[../Lenses/IABIED - QA - Galvanic Insufficiently Careful]]
 
 # Lens: IABIED - QA - Only One Smart AI
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Only One Smart AI]]
+{++{"author":"AI","timestamp":1774345374660}@@hide:: true
+++}source:: ![[../Lenses/IABIED - QA - Only One Smart AI]]
 
 # Lens: IABIED - QA - Story Started Later
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Story Started Later]]
+{++{"author":"AI","timestamp":1774345375965}@@hide:: true
+++}source:: ![[../Lenses/IABIED - QA - Story Started Later]]
 
 # Lens: IABIED - QA - Sable's Expansion Phase
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Sable's Expansion Phase]]
+{++{"author":"AI","timestamp":1774345377747}@@hide:: true
+++}source:: ![[../Lenses/IABIED - QA - Sable's Expansion Phase]]
 
 # Lens: IABIED - QA - The Ending
 optional:: true
-source:: ![[../Lenses/IABIED - QA - The Ending]]
+{++{"author":"AI","timestamp":1774345378912}@@hide:: true
+++}source:: ![[../Lenses/IABIED - QA - The Ending]]
 
