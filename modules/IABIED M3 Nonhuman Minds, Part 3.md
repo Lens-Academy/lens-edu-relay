@@ -47,9 +47,62 @@ source:: ![[../Learning Outcomes/IABIED - Human-Compatible Goals Are Vanishingly
 source:: ![[../Learning Outcomes/IABIED - We'd Lose]]{++{"author":"AI","timestamp":1774279296184}@@
 %%++}
 
-# Lens: IABIED - QA - AI Find Us Useful
+# Lens: {++{"author":"AI","timestamp":1774345322597}@@Overview of Optional Resources
+id:: a1b2c3d4-5e6f-4a7b-8c9d-0e1f2a3b4c5d
+
+#### Text:
+content::
+The book's website includes supplementary Q&As and extended discussions for each chapter. Browse the ones relevant to this week's reading below.
+
+\## Chapter 5: Its Favorite Things
+::card[[../Lenses/IABIED - QA - AI Find Us Useful]]
+::card[[../Lenses/IABIED - QA - AI Treat Us as Parents]]
+::card[[../Lenses/IABIED - QA - AIs Need Rule of Law]]
+::card[[../Lenses/IABIED - QA - Preserving Humans Negligible]]
+::card[[../Lenses/IABIED - QA - AI Find Us Fascinating]]
+::card[[../Lenses/IABIED - QA - Intrinsic Moral Worth]]
+::card[[../Lenses/IABIED - QA - Ecological Preservation]]
+::card[[../Lenses/IABIED - QA - We Still Have Horses]]
+::card[[../Lenses/IABIED - QA - Care a Little About Humans]]
+::card[[../Lenses/IABIED - QA - Chance of Keeping Us Alive]]
+::card[[../Lenses/IABIED - QA - Human Data Means Human Concepts]]
+::card[[../Lenses/IABIED - QA - Promise to Be Friendly]]
+::card[[../Lenses/IABIED - QA - Thinking It's a Simulation]]
+::card[[../Lenses/IABIED - QA - AI Lacks Selfish Drives]]
+::card[[../Lenses/IABIED - QA - Only Digital Realm]]
+::card[[../Lenses/IABIED - QA - Satisfied to Leave Us Alone]]
+::card[[../Lenses/IABIED - QA - Make It Lazy]]
+::card[[../Lenses/IABIED - QA - Kinder as Smarter]]
+::card[[../Lenses/IABIED - QA - Boring Goals]]
+::card[[../Lenses/IABIED - QA - Smart AI Stupid Things]]
+::card[[../Lenses/IABIED - QA - Just Pessimistic]]
+::card[[../Lenses/IABIED - QA - AI Consciousness]]
+::card[[../Lenses/IABIED - QA - Non-Human Entities]]
+::card[[../Lenses/IABIED - QA - Taking the AI's Perspective]]
+::card[[../Lenses/IABIED - QA - Humans Not Efficient]]
+::card[[../Lenses/IABIED - QA - Orthogonality]]
+
+\## Chapter 6: We'd Lose
+::card[[../Lenses/IABIED - QA - Pull the Plug]]
+::card[[../Lenses/IABIED - QA - Digital AIs Affect Us]]
+::card[[../Lenses/IABIED - QA - Keep AI in a Box]]
+::card[[../Lenses/IABIED - QA - Exploit AI Weakness]]
+::card[[../Lenses/IABIED - QA - Enhance Humans]]
+::card[[../Lenses/IABIED - QA - AI Civilization]]
+::card[[../Lenses/IABIED - QA - Limited by Experiments]]
+::card[[../Lenses/IABIED - QA - Nanotechnology and Protein Synthesis]]
+::card[[../Lenses/IABIED - QA - Optical Illusions Discovery]]
+::card[[../Lenses/IABIED - QA - Instrumental Convergence]]
+::card[[../Lenses/IABIED - QA - Intelligent Implies Incorrigible]]
+::card[[../Lenses/IABIED - QA - Hard to Get Robust Laziness]]
+::card[[../Lenses/IABIED - QA - AIs Won't Keep Promises]]
+::card[[../Lenses/IABIED - QA - Effectiveness Consciousness AI Welfare]]
+::card[[../Lenses/IABIED - QA - Losing the Future]]
+
+# Lens: ++}IABIED - QA - AI Find Us Useful
 optional:: true
-source:: ![[../Lenses/IABIED - QA - AI Find Us Useful]]
+{++{"author":"AI","timestamp":1774345322597}@@hide:: true
+++}source:: ![[../Lenses/IABIED - QA - AI Find Us Useful]]
 
 # Lens: IABIED - QA - AI Treat Us as Parents
 optional:: true
