@@ -53,7 +53,7 @@ source:: ![[../Learning Outcomes/IABIED - Trace the Sable Scenario]]
 source:: ![[../Learning Outcomes/IABIED - Distinguish Scenario from Prediction]]{++{"author":"AI","timestamp":1774279297874}@@
 %%++}
 
-# Lens: {++{"author":"AI","timestamp":1774345343119}@@Overview of Optional Resources
+# Lens: Overview of Optional Resources
 id:: b2c3d4e5-6f7a-4b8c-9d0e-1f2a3b4c5d6e
 
 #### Text:
@@ -70,43 +70,43 @@ The book's website includes supplementary Q&As and extended discussions for this
 ::card[[../Lenses/IABIED - QA - Sable's Expansion Phase]]
 ::card[[../Lenses/IABIED - QA - The Ending]]
 
-# Lens: ++}IABIED - QA - Why This Setup
+# Lens: IABIED - QA - Why This Setup
 optional:: true
-{++{"author":"AI","timestamp":1774345343119}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Why This Setup]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Why This Setup]]
 
 # Lens: IABIED - QA - Sable's Thinking
 optional:: true
-{++{"author":"AI","timestamp":1774345369742}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Sable's Thinking]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Sable's Thinking]]
 
 # Lens: IABIED - QA - Galvanic Fairly Careful
 optional:: true
-{++{"author":"AI","timestamp":1774345371540}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Galvanic Fairly Careful]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Galvanic Fairly Careful]]
 
 # Lens: IABIED - QA - Galvanic Insufficiently Careful
 optional:: true
-{++{"author":"AI","timestamp":1774345373300}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Galvanic Insufficiently Careful]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Galvanic Insufficiently Careful]]
 
 # Lens: IABIED - QA - Only One Smart AI
 optional:: true
-{++{"author":"AI","timestamp":1774345374660}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Only One Smart AI]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Only One Smart AI]]
 
 # Lens: IABIED - QA - Story Started Later
 optional:: true
-{++{"author":"AI","timestamp":1774345375965}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Story Started Later]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Story Started Later]]
 
 # Lens: IABIED - QA - Sable's Expansion Phase
 optional:: true
-{++{"author":"AI","timestamp":1774345377747}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Sable's Expansion Phase]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Sable's Expansion Phase]]
 
 # Lens: IABIED - QA - The Ending
 optional:: true
-{++{"author":"AI","timestamp":1774345378912}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - The Ending]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - The Ending]]
 

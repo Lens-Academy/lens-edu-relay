@@ -47,7 +47,7 @@ source:: ![[../Learning Outcomes/IABIED - Human-Compatible Goals Are Vanishingly
 source:: ![[../Learning Outcomes/IABIED - We'd Lose]]{++{"author":"AI","timestamp":1774279296184}@@
 %%++}
 
-# Lens: {++{"author":"AI","timestamp":1774345322597}@@Overview of Optional Resources
+# Lens: Overview of Optional Resources
 id:: a1b2c3d4-5e6f-4a7b-8c9d-0e1f2a3b4c5d
 
 #### Text:
@@ -99,207 +99,207 @@ The book's website includes supplementary Q&As and extended discussions for each
 ::card[[../Lenses/IABIED - QA - Effectiveness Consciousness AI Welfare]]
 ::card[[../Lenses/IABIED - QA - Losing the Future]]
 
-# Lens: ++}IABIED - QA - AI Find Us Useful
+# Lens: IABIED - QA - AI Find Us Useful
 optional:: true
-{++{"author":"AI","timestamp":1774345322597}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - AI Find Us Useful]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - AI Find Us Useful]]
 
 # Lens: IABIED - QA - AI Treat Us as Parents
 optional:: true
-{++{"author":"AI","timestamp":1774345355342}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - AI Treat Us as Parents]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - AI Treat Us as Parents]]
 
 # Lens: IABIED - QA - AIs Need Rule of Law
 optional:: true
-{++{"author":"AI","timestamp":1774345355342}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - AIs Need Rule of Law]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - AIs Need Rule of Law]]
 
 # Lens: IABIED - QA - Preserving Humans Negligible
 optional:: true
-{++{"author":"AI","timestamp":1774345355342}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Preserving Humans Negligible]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Preserving Humans Negligible]]
 
 # Lens: IABIED - QA - AI Find Us Fascinating
 optional:: true
-{++{"author":"AI","timestamp":1774345355342}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - AI Find Us Fascinating]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - AI Find Us Fascinating]]
 
 # Lens: IABIED - QA - Intrinsic Moral Worth
 optional:: true
-{++{"author":"AI","timestamp":1774345355342}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Intrinsic Moral Worth]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Intrinsic Moral Worth]]
 
 # Lens: IABIED - QA - Ecological Preservation
 optional:: true
-{++{"author":"AI","timestamp":1774345355342}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Ecological Preservation]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Ecological Preservation]]
 
 # Lens: IABIED - QA - We Still Have Horses
 optional:: true
-{++{"author":"AI","timestamp":1774345355342}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - We Still Have Horses]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - We Still Have Horses]]
 
 # Lens: IABIED - QA - Care a Little About Humans
 optional:: true
-{++{"author":"AI","timestamp":1774345355342}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Care a Little About Humans]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Care a Little About Humans]]
 
 # Lens: IABIED - QA - Chance of Keeping Us Alive
 optional:: true
-{++{"author":"AI","timestamp":1774345355342}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Chance of Keeping Us Alive]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Chance of Keeping Us Alive]]
 
 # Lens: IABIED - QA - Human Data Means Human Concepts
 optional:: true
-{++{"author":"AI","timestamp":1774345355342}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Human Data Means Human Concepts]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Human Data Means Human Concepts]]
 
 # Lens: IABIED - QA - Promise to Be Friendly
 optional:: true
-{++{"author":"AI","timestamp":1774345355342}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Promise to Be Friendly]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Promise to Be Friendly]]
 
 # Lens: IABIED - QA - Thinking It's a Simulation
 optional:: true
-{++{"author":"AI","timestamp":1774345355342}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Thinking It's a Simulation]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Thinking It's a Simulation]]
 
 # Lens: IABIED - QA - AI Lacks Selfish Drives
 optional:: true
-{++{"author":"AI","timestamp":1774345355342}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - AI Lacks Selfish Drives]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - AI Lacks Selfish Drives]]
 
 # Lens: IABIED - QA - Only Digital Realm
 optional:: true
-{++{"author":"AI","timestamp":1774345355342}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Only Digital Realm]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Only Digital Realm]]
 
 # Lens: IABIED - QA - Satisfied to Leave Us Alone
 optional:: true
-{++{"author":"AI","timestamp":1774345355342}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Satisfied to Leave Us Alone]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Satisfied to Leave Us Alone]]
 
 # Lens: IABIED - QA - Make It Lazy
 optional:: true
-{++{"author":"AI","timestamp":1774345355342}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Make It Lazy]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Make It Lazy]]
 
 # Lens: IABIED - QA - Kinder as Smarter
 optional:: true
-{++{"author":"AI","timestamp":1774345355342}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Kinder as Smarter]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Kinder as Smarter]]
 
 # Lens: IABIED - QA - Boring Goals
 optional:: true
-{++{"author":"AI","timestamp":1774345355342}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Boring Goals]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Boring Goals]]
 
 # Lens: IABIED - QA - Smart AI Stupid Things
 optional:: true
-{++{"author":"AI","timestamp":1774345355342}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Smart AI Stupid Things]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Smart AI Stupid Things]]
 
 # Lens: IABIED - QA - Just Pessimistic
 optional:: true
-{++{"author":"AI","timestamp":1774345355342}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Just Pessimistic]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Just Pessimistic]]
 
 # Lens: IABIED - QA - AI Consciousness
 optional:: true
-{++{"author":"AI","timestamp":1774345355342}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - AI Consciousness]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - AI Consciousness]]
 
 # Lens: IABIED - QA - Non-Human Entities
 optional:: true
-{++{"author":"AI","timestamp":1774345355342}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Non-Human Entities]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Non-Human Entities]]
 
 # Lens: IABIED - QA - Taking the AI's Perspective
 optional:: true
-{++{"author":"AI","timestamp":1774345355342}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Taking the AI's Perspective]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Taking the AI's Perspective]]
 
 # Lens: IABIED - QA - Humans Not Efficient
 optional:: true
-{++{"author":"AI","timestamp":1774345355342}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Humans Not Efficient]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Humans Not Efficient]]
 
 # Lens: IABIED - QA - Orthogonality
 optional:: true
-{++{"author":"AI","timestamp":1774345355342}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Orthogonality]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Orthogonality]]
 
 # Lens: IABIED - QA - Pull the Plug
 optional:: true
-{++{"author":"AI","timestamp":1774345355342}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Pull the Plug]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Pull the Plug]]
 
 # Lens: IABIED - QA - Digital AIs Affect Us
 optional:: true
-{++{"author":"AI","timestamp":1774345355342}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Digital AIs Affect Us]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Digital AIs Affect Us]]
 
 # Lens: IABIED - QA - Keep AI in a Box
 optional:: true
-{++{"author":"AI","timestamp":1774345355342}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Keep AI in a Box]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Keep AI in a Box]]
 
 # Lens: IABIED - QA - Exploit AI Weakness
 optional:: true
-{++{"author":"AI","timestamp":1774345355342}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Exploit AI Weakness]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Exploit AI Weakness]]
 
 # Lens: IABIED - QA - Enhance Humans
 optional:: true
-{++{"author":"AI","timestamp":1774345355342}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Enhance Humans]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Enhance Humans]]
 
 # Lens: IABIED - QA - AI Civilization
 optional:: true
-{++{"author":"AI","timestamp":1774345355342}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - AI Civilization]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - AI Civilization]]
 
 # Lens: IABIED - QA - Limited by Experiments
 optional:: true
-{++{"author":"AI","timestamp":1774345355342}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Limited by Experiments]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Limited by Experiments]]
 
 # Lens: IABIED - QA - Nanotechnology and Protein Synthesis
 optional:: true
-{++{"author":"AI","timestamp":1774345355342}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Nanotechnology and Protein Synthesis]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Nanotechnology and Protein Synthesis]]
 
 # Lens: IABIED - QA - Optical Illusions Discovery
 optional:: true
-{++{"author":"AI","timestamp":1774345355342}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Optical Illusions Discovery]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Optical Illusions Discovery]]
 
 # Lens: IABIED - QA - Instrumental Convergence
 optional:: true
-{++{"author":"AI","timestamp":1774345355342}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Instrumental Convergence]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Instrumental Convergence]]
 
 # Lens: IABIED - QA - Intelligent Implies Incorrigible
 optional:: true
-{++{"author":"AI","timestamp":1774345355342}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Intelligent Implies Incorrigible]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Intelligent Implies Incorrigible]]
 
 # Lens: IABIED - QA - Hard to Get Robust Laziness
 optional:: true
-{++{"author":"AI","timestamp":1774345355342}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Hard to Get Robust Laziness]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Hard to Get Robust Laziness]]
 
 # Lens: IABIED - QA - AIs Won't Keep Promises
 optional:: true
-{++{"author":"AI","timestamp":1774345355342}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - AIs Won't Keep Promises]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - AIs Won't Keep Promises]]
 
 # Lens: IABIED - QA - Effectiveness Consciousness AI Welfare
 optional:: true
-{++{"author":"AI","timestamp":1774345355342}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Effectiveness Consciousness AI Welfare]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Effectiveness Consciousness AI Welfare]]
 
 # Lens: IABIED - QA - Losing the Future
 optional:: true
-{++{"author":"AI","timestamp":1774345355342}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Losing the Future]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Losing the Future]]

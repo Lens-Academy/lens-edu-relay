@@ -65,7 +65,7 @@ source:: ![[../Learning Outcomes/IABIED - The Case for Shutting It Down]]
 source:: ![[../Learning Outcomes/IABIED - Where There's Life, There's Hope]]{++{"author":"AI","timestamp":1774279302827}@@
 %%++}
 
-# Lens: {++{"author":"AI","timestamp":1774345360795}@@Overview of Optional Resources
+# Lens: Overview of Optional Resources
 id:: d4e5f6a7-8b9c-4d0e-1f2a-3b4c5d6e7f8a
 
 #### Text:
@@ -106,152 +106,152 @@ The book's website includes supplementary Q&As and extended discussions for each
 ::card[[../Lenses/IABIED - QA - Shut Down Global AI Development]]
 ::card[[../Lenses/IABIED - QA - Keep the Coalition Large]]
 
-# Lens: ++}IABIED - QA - What About the Benefits of AI
+# Lens: IABIED - QA - What About the Benefits of AI
 optional:: true
-{++{"author":"AI","timestamp":1774345360795}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - What About the Benefits of AI]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - What About the Benefits of AI]]
 
 # Lens: IABIED - QA - The Draft Treaty
 optional:: true
-{++{"author":"AI","timestamp":1774345419308}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - The Draft Treaty]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - The Draft Treaty]]
 
 # Lens: IABIED - QA - Distraction from Other Issues
 optional:: true
-{++{"author":"AI","timestamp":1774345421069}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Distraction from Other Issues]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Distraction from Other Issues]]
 
 # Lens: IABIED - QA - Anti-Technology
 optional:: true
-{++{"author":"AI","timestamp":1774345422953}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Anti-Technology]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Anti-Technology]]
 
 # Lens: IABIED - QA - Rush Ahead Good Guys
 optional:: true
-{++{"author":"AI","timestamp":1774345424754}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Rush Ahead Good Guys]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Rush Ahead Good Guys]]
 
 # Lens: IABIED - QA - Cooperate to Build Safely
 optional:: true
-{++{"author":"AI","timestamp":1774345426517}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Cooperate to Build Safely]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Cooperate to Build Safely]]
 
 # Lens: IABIED - QA - Provably Safe AI
 optional:: true
-{++{"author":"AI","timestamp":1774345428141}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Provably Safe AI]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Provably Safe AI]]
 
 # Lens: IABIED - QA - Daily Life Believing This
 optional:: true
-{++{"author":"AI","timestamp":1774345429622}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Daily Life Believing This]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Daily Life Believing This]]
 
 # Lens: IABIED - QA - Should We Panic
 optional:: true
-{++{"author":"AI","timestamp":1774345431504}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Should We Panic]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Should We Panic]]
 
 # Lens: IABIED - QA - Fear-Mongering by AI Leaders
 optional:: true
-{++{"author":"AI","timestamp":1774345433235}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Fear-Mongering by AI Leaders]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Fear-Mongering by AI Leaders]]
 
 # Lens: IABIED - QA - Experts Don't All Agree
 optional:: true
-{++{"author":"AI","timestamp":1774345435031}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Experts Don't All Agree]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Experts Don't All Agree]]
 
 # Lens: IABIED - QA - The Lemoine Effect
 optional:: true
-{++{"author":"AI","timestamp":1774345436795}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - The Lemoine Effect]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - The Lemoine Effect]]
 
 # Lens: IABIED - QA - Telling AI Companies No
 optional:: true
-{++{"author":"AI","timestamp":1774345438561}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Telling AI Companies No]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Telling AI Companies No]]
 
 # Lens: IABIED - QA - Making Sense of the Death Race
 optional:: true
-{++{"author":"AI","timestamp":1774345440423}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Making Sense of the Death Race]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Making Sense of the Death Race]]
 
 # Lens: IABIED - QA - Wait and See Approach
 optional:: true
-{++{"author":"AI","timestamp":1774345442188}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Wait and See Approach]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Wait and See Approach]]
 
 # Lens: IABIED - QA - Warning Shots
 optional:: true
-{++{"author":"AI","timestamp":1774345443565}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Warning Shots]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Warning Shots]]
 
 # Lens: IABIED - QA - Stopping Without Spyware
 optional:: true
-{++{"author":"AI","timestamp":1774345445347}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Stopping Without Spyware]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Stopping Without Spyware]]
 
 # Lens: IABIED - QA - Chip Ownership Control
 optional:: true
-{++{"author":"AI","timestamp":1774345447131}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Chip Ownership Control]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Chip Ownership Control]]
 
 # Lens: IABIED - QA - Research Ban Extreme
 optional:: true
-{++{"author":"AI","timestamp":1774345448963}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Research Ban Extreme]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Research Ban Extreme]]
 
 # Lens: IABIED - QA - Can Technology Be Stopped
 optional:: true
-{++{"author":"AI","timestamp":1774345450320}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Can Technology Be Stopped]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Can Technology Be Stopped]]
 
 # Lens: IABIED - QA - Too Much Power to Governments
 optional:: true
-{++{"author":"AI","timestamp":1774345456578}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Too Much Power to Governments]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Too Much Power to Governments]]
 
 # Lens: IABIED - QA - Nations Reject Ban
 optional:: true
-{++{"author":"AI","timestamp":1774345458335}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Nations Reject Ban]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Nations Reject Ban]]
 
 # Lens: IABIED - QA - Monitoring Regime Forever
 optional:: true
-{++{"author":"AI","timestamp":1774345460130}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Monitoring Regime Forever]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Monitoring Regime Forever]]
 
 # Lens: IABIED - QA - Making Humans Smarter
 optional:: true
-{++{"author":"AI","timestamp":1774345461470}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Making Humans Smarter]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Making Humans Smarter]]
 
 # Lens: IABIED - QA - Aligned to Whom
 optional:: true
-{++{"author":"AI","timestamp":1774345464213}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Aligned to Whom]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Aligned to Whom]]
 
 # Lens: IABIED - QA - Avoid Talking About Extinction
 optional:: true
-{++{"author":"AI","timestamp":1774345465081}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Avoid Talking About Extinction]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Avoid Talking About Extinction]]
 
 # Lens: IABIED - QA - Elected Officials Recognize Threat
 optional:: true
-{++{"author":"AI","timestamp":1774345466957}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Elected Officials Recognize Threat]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Elected Officials Recognize Threat]]
 
 # Lens: IABIED - QA - Is It Hopeless
 optional:: true
-{++{"author":"AI","timestamp":1774345469103}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Is It Hopeless]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Is It Hopeless]]
 
 # Lens: IABIED - QA - Shut Down Global AI Development
 optional:: true
-{++{"author":"AI","timestamp":1774345470580}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Shut Down Global AI Development]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Shut Down Global AI Development]]
 
 # Lens: IABIED - QA - Keep the Coalition Large
 optional:: true
-{++{"author":"AI","timestamp":1774345471909}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Keep the Coalition Large]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Keep the Coalition Large]]
