@@ -56,9 +56,41 @@ source:: ![[../Learning Outcomes/IABIED - The Five Engineering Curses]]
 source:: ![[../Learning Outcomes/IABIED - Alchemy, Not Science]]{++{"author":"AI","timestamp":1774279300009}@@
 %%++}
 
-# Lens: IABIED - QA - AI Differs from Precedents
+# Lens: {++{"author":"AI","timestamp":1774345353231}@@Overview of Optional Resources
+id:: c3d4e5f6-7a8b-4c9d-0e1f-2a3b4c5d6e7f
+
+#### Text:
+content::
+The book's website includes supplementary Q&As and extended discussions for each chapter. Browse the ones relevant to this week's reading below.
+
+\## Chapter 10: A Cursed Problem
+::card[[../Lenses/IABIED - QA - AI Differs from Precedents]]
+::card[[../Lenses/IABIED - QA - Time to Solve Alignment]]
+::card[[../Lenses/IABIED - QA - Lots of Different AIs]]
+::card[[../Lenses/IABIED - QA - Slow AI Integration]]
+::card[[../Lenses/IABIED - QA - Before and After]]
+::card[[../Lenses/IABIED - QA - Chicago Pile-1]]
+
+\## Chapter 11: An Alchemy, Not a Science
+::card[[../Lenses/IABIED - QA - Muddle Through]]
+::card[[../Lenses/IABIED - QA - Alignment All or Nothing]]
+::card[[../Lenses/IABIED - QA - Governments Get Involved]]
+::card[[../Lenses/IABIED - QA - Reckless Means Incompetent]]
+::card[[../Lenses/IABIED - QA - Hardware Overhang]]
+::card[[../Lenses/IABIED - QA - Race for Alignment Research]]
+::card[[../Lenses/IABIED - QA - Non-Dangerous Deployment]]
+::card[[../Lenses/IABIED - QA - Can Interpretability Solve This]]
+::card[[../Lenses/IABIED - QA - AIs Debate Compete Oversee]]
+::card[[../Lenses/IABIED - QA - Various Other Alignment Plans]]
+::card[[../Lenses/IABIED - QA - Early Warnings]]
+::card[[../Lenses/IABIED - QA - More on Plans Critiqued]]
+::card[[../Lenses/IABIED - QA - Problem Not Treated with Respect]]
+::card[[../Lenses/IABIED - QA - Shutdown Buttons and Corrigibility]]
+
+# Lens: ++}IABIED - QA - AI Differs from Precedents
 optional:: true
-source:: ![[../Lenses/IABIED - QA - AI Differs from Precedents]]
+{++{"author":"AI","timestamp":1774345353231}@@hide:: true
+++}source:: ![[../Lenses/IABIED - QA - AI Differs from Precedents]]
 
 # Lens: IABIED - QA - Time to Solve Alignment
 optional:: true
