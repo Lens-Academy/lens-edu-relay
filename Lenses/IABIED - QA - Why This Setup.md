@@ -1,5 +1,6 @@
 ---
-id: 68e6adce-ff75-46b8-b58d-19f2d3ffbb70
+id: 68e6adce-ff75-46b8-b58d-19f2d3ffbb70{++{"author":"AI","timestamp":1774381645776}@@
+summary_for_tutor: Covers why the authors chose a near-future setting for their fictional extinction scenario. Stories set close to the present require fewer speculative details and feel more plausible. Argues that any single story illustrates just one path among many that converge on the same endpoint, and invites readers to write their own detailed optimistic scenarios as a test.++}
 title: "Why did you pick this setup?"
 tldr: "Because it's plausible and easy to write."
 tags:
