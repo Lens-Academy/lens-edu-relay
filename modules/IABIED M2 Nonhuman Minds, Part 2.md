@@ -49,7 +49,7 @@ source:: ![[../Learning Outcomes/IABIED - Wanting Emerges from Training]]
 source:: ![[../Learning Outcomes/IABIED - You Don't Get What You Train For]]{++{"author":"AI","timestamp":1774279295201}@@
 %%++}
 
-# Lens: {++{"author":"AI","timestamp":1774345319930}@@Overview of Optional Resources
+# Lens: Overview of Optional Resources
 id:: f7a2b8c1-3d4e-4f5a-9b6c-8d7e0f1a2b3c
 
 #### Text:
@@ -84,123 +84,123 @@ The book's website includes supplementary Q&As and extended discussions for each
 ::card[[../Lenses/IABIED - QA - Reflection and Self-Modification]]
 ::card[[../Lenses/IABIED - QA - AI-Induced Psychosis]]
 
-# Lens: ++}IABIED - QA - Human-Like Emotions
+# Lens: IABIED - QA - Human-Like Emotions
 optional:: true
-{++{"author":"AI","timestamp":1774345319930}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Human-Like Emotions]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Human-Like Emotions]]
 
 # Lens: IABIED - QA - Machine Own Priorities
 optional:: true
-{++{"author":"AI","timestamp":1774345319930}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Machine Own Priorities]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Machine Own Priorities]]
 
 # Lens: IABIED - QA - AIs Just Tools
 optional:: true
-{++{"author":"AI","timestamp":1774345319930}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - AIs Just Tools]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - AIs Just Tools]]
 
 # Lens: IABIED - QA - Passive and Docile
 optional:: true
-{++{"author":"AI","timestamp":1774345319930}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Passive and Docile]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Passive and Docile]]
 
 # Lens: IABIED - QA - Anthropomorphism and Mechanomorphism
 optional:: true
-{++{"author":"AI","timestamp":1774345319930}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Anthropomorphism and Mechanomorphism]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Anthropomorphism and Mechanomorphism]]
 
 # Lens: IABIED - QA - AI Steering Beyond Training
 optional:: true
-{++{"author":"AI","timestamp":1774345319930}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - AI Steering Beyond Training]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - AI Steering Beyond Training]]
 
 # Lens: IABIED - QA - Making AIs Nice and Safe
 optional:: true
-{++{"author":"AI","timestamp":1774345319930}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Making AIs Nice and Safe]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Making AIs Nice and Safe]]
 
 # Lens: IABIED - QA - Claude Shows Alignment
 optional:: true
-{++{"author":"AI","timestamp":1774345319930}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Claude Shows Alignment]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Claude Shows Alignment]]
 
 # Lens: IABIED - QA - Weird in Extreme Cases
 optional:: true
-{++{"author":"AI","timestamp":1774345319930}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Weird in Extreme Cases]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Weird in Extreme Cases]]
 
 # Lens: IABIED - QA - Fix Own Flaws
 optional:: true
-{++{"author":"AI","timestamp":1774345319930}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Fix Own Flaws]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Fix Own Flaws]]
 
 # Lens: IABIED - QA - Train Like a Human
 optional:: true
-{++{"author":"AI","timestamp":1774345319930}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Train Like a Human]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Train Like a Human]]
 
 # Lens: IABIED - QA - Avoid Talking About Dangers
 optional:: true
-{++{"author":"AI","timestamp":1774345319930}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Avoid Talking About Dangers]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Avoid Talking About Dangers]]
 
 # Lens: IABIED - QA - Aligned with Natural Selection
 optional:: true
-{++{"author":"AI","timestamp":1774345319930}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Aligned with Natural Selection]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Aligned with Natural Selection]]
 
 # Lens: IABIED - QA - Kindness from Any Goal
 optional:: true
-{++{"author":"AI","timestamp":1774345319930}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Kindness from Any Goal]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Kindness from Any Goal]]
 
 # Lens: IABIED - QA - Good Behaviors Correlate
 optional:: true
-{++{"author":"AI","timestamp":1774345319930}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Good Behaviors Correlate]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Good Behaviors Correlate]]
 
 # Lens: IABIED - QA - Terminal and Instrumental Goals
 optional:: true
-{++{"author":"AI","timestamp":1774345319930}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Terminal and Instrumental Goals]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Terminal and Instrumental Goals]]
 
 # Lens: IABIED - QA - Curiosity Isn't Convergent
 optional:: true
-{++{"author":"AI","timestamp":1774345319930}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Curiosity Isn't Convergent]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Curiosity Isn't Convergent]]
 
 # Lens: IABIED - QA - Human Values Are Contingent
 optional:: true
-{++{"author":"AI","timestamp":1774345319930}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Human Values Are Contingent]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Human Values Are Contingent]]
 
 # Lens: IABIED - QA - The Road to Wanting
 optional:: true
-{++{"author":"AI","timestamp":1774345319930}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - The Road to Wanting]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - The Road to Wanting]]
 
 # Lens: IABIED - QA - Smart AIs Spot Lies
 optional:: true
-{++{"author":"AI","timestamp":1774345319930}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Smart AIs Spot Lies]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Smart AIs Spot Lies]]
 
 # Lens: IABIED - QA - Deep Differences AIs and Evolved Species
 optional:: true
-{++{"author":"AI","timestamp":1774345319930}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Deep Differences AIs and Evolved Species]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Deep Differences AIs and Evolved Species]]
 
 # Lens: IABIED - QA - Brittle Unpredictable Proxies
 optional:: true
-{++{"author":"AI","timestamp":1774345319930}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Brittle Unpredictable Proxies]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Brittle Unpredictable Proxies]]
 
 # Lens: IABIED - QA - Reflection and Self-Modification
 optional:: true
-{++{"author":"AI","timestamp":1774345319930}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Reflection and Self-Modification]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Reflection and Self-Modification]]
 
 # Lens: IABIED - QA - AI-Induced Psychosis
 optional:: true
-{++{"author":"AI","timestamp":1774345319930}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - AI-Induced Psychosis]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - AI-Induced Psychosis]]
 

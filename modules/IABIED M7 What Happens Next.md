@@ -54,7 +54,7 @@ source:: ![[../Learning Outcomes/IABIED - Synthesize the Core Argument]]
 source:: ![[../Learning Outcomes/IABIED - Identify Your Path Forward]]{++{"author":"AI","timestamp":1774279304448}@@
 %%++}
 
-# Lens: {++{"author":"AI","timestamp":1774345363870}@@Overview of Optional Resources
+# Lens: Overview of Optional Resources
 id:: e5f6a7b8-9c0d-4e1f-2a3b-4c5d6e7f8a9b
 
 #### Text:
@@ -65,12 +65,12 @@ Now that you've completed the book, explore these resources for next steps.
 ::card[[../Lenses/IABIED - AI Safety Career Paths]]
 ::card[[../Lenses/IABIED - Next Steps with Lens Academy]]
 
-# Lens: ++}IABIED - AI Safety Career Paths
+# Lens: IABIED - AI Safety Career Paths
 optional:: true
-{++{"author":"AI","timestamp":1774345363870}@@hide:: true
-++}source:: ![[../Lenses/IABIED - AI Safety Career Paths]]
+hide:: true
+source:: ![[../Lenses/IABIED - AI Safety Career Paths]]
 
 # Lens: IABIED - Next Steps with Lens Academy
 optional:: true
-{++{"author":"AI","timestamp":1774345473750}@@hide:: true
-++}source:: ![[../Lenses/IABIED - Next Steps with Lens Academy]]
+hide:: true
+source:: ![[../Lenses/IABIED - Next Steps with Lens Academy]]

@@ -56,7 +56,7 @@ source:: ![[../Learning Outcomes/IABIED - The Five Engineering Curses]]
 source:: ![[../Learning Outcomes/IABIED - Alchemy, Not Science]]{++{"author":"AI","timestamp":1774279300009}@@
 %%++}
 
-# Lens: {++{"author":"AI","timestamp":1774345353231}@@Overview of Optional Resources
+# Lens: Overview of Optional Resources
 id:: c3d4e5f6-7a8b-4c9d-0e1f-2a3b4c5d6e7f
 
 #### Text:
@@ -87,102 +87,102 @@ The book's website includes supplementary Q&As and extended discussions for each
 ::card[[../Lenses/IABIED - QA - Problem Not Treated with Respect]]
 ::card[[../Lenses/IABIED - QA - Shutdown Buttons and Corrigibility]]
 
-# Lens: ++}IABIED - QA - AI Differs from Precedents
+# Lens: IABIED - QA - AI Differs from Precedents
 optional:: true
-{++{"author":"AI","timestamp":1774345353231}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - AI Differs from Precedents]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - AI Differs from Precedents]]
 
 # Lens: IABIED - QA - Time to Solve Alignment
 optional:: true
-{++{"author":"AI","timestamp":1774345385386}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Time to Solve Alignment]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Time to Solve Alignment]]
 
 # Lens: IABIED - QA - Lots of Different AIs
 optional:: true
-{++{"author":"AI","timestamp":1774345386959}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Lots of Different AIs]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Lots of Different AIs]]
 
 # Lens: IABIED - QA - Slow AI Integration
 optional:: true
-{++{"author":"AI","timestamp":1774345388525}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Slow AI Integration]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Slow AI Integration]]
 
 # Lens: IABIED - QA - Before and After
 optional:: true
-{++{"author":"AI","timestamp":1774345389823}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Before and After]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Before and After]]
 
 # Lens: IABIED - QA - Chicago Pile-1
 optional:: true
-{++{"author":"AI","timestamp":1774345391229}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Chicago Pile-1]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Chicago Pile-1]]
 
 # Lens: IABIED - QA - Muddle Through
 optional:: true
-{++{"author":"AI","timestamp":1774345393210}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Muddle Through]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Muddle Through]]
 
 # Lens: IABIED - QA - Alignment All or Nothing
 optional:: true
-{++{"author":"AI","timestamp":1774345395396}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Alignment All or Nothing]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Alignment All or Nothing]]
 
 # Lens: IABIED - QA - Governments Get Involved
 optional:: true
-{++{"author":"AI","timestamp":1774345396836}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Governments Get Involved]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Governments Get Involved]]
 
 # Lens: IABIED - QA - Reckless Means Incompetent
 optional:: true
-{++{"author":"AI","timestamp":1774345397779}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Reckless Means Incompetent]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Reckless Means Incompetent]]
 
 # Lens: IABIED - QA - Hardware Overhang
 optional:: true
-{++{"author":"AI","timestamp":1774345399994}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Hardware Overhang]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Hardware Overhang]]
 
 # Lens: IABIED - QA - Race for Alignment Research
 optional:: true
-{++{"author":"AI","timestamp":1774345401331}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Race for Alignment Research]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Race for Alignment Research]]
 
 # Lens: IABIED - QA - Non-Dangerous Deployment
 optional:: true
-{++{"author":"AI","timestamp":1774345402960}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Non-Dangerous Deployment]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Non-Dangerous Deployment]]
 
 # Lens: IABIED - QA - Can Interpretability Solve This
 optional:: true
-{++{"author":"AI","timestamp":1774345404424}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Can Interpretability Solve This]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Can Interpretability Solve This]]
 
 # Lens: IABIED - QA - AIs Debate Compete Oversee
 optional:: true
-{++{"author":"AI","timestamp":1774345406320}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - AIs Debate Compete Oversee]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - AIs Debate Compete Oversee]]
 
 # Lens: IABIED - QA - Various Other Alignment Plans
 optional:: true
-{++{"author":"AI","timestamp":1774345408117}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Various Other Alignment Plans]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Various Other Alignment Plans]]
 
 # Lens: IABIED - QA - Early Warnings
 optional:: true
-{++{"author":"AI","timestamp":1774345410476}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Early Warnings]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Early Warnings]]
 
 # Lens: IABIED - QA - More on Plans Critiqued
 optional:: true
-{++{"author":"AI","timestamp":1774345410963}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - More on Plans Critiqued]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - More on Plans Critiqued]]
 
 # Lens: IABIED - QA - Problem Not Treated with Respect
 optional:: true
-{++{"author":"AI","timestamp":1774345412488}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Problem Not Treated with Respect]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Problem Not Treated with Respect]]
 
 # Lens: IABIED - QA - Shutdown Buttons and Corrigibility
 optional:: true
-{++{"author":"AI","timestamp":1774345413906}@@hide:: true
-++}source:: ![[../Lenses/IABIED - QA - Shutdown Buttons and Corrigibility]]
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Shutdown Buttons and Corrigibility]]
