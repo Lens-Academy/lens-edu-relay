@@ -65,9 +65,51 @@ source:: ![[../Learning Outcomes/IABIED - The Case for Shutting It Down]]
 source:: ![[../Learning Outcomes/IABIED - Where There's Life, There's Hope]]{++{"author":"AI","timestamp":1774279302827}@@
 %%++}
 
-# Lens: IABIED - QA - What About the Benefits of AI
+# Lens: {++{"author":"AI","timestamp":1774345360795}@@Overview of Optional Resources
+id:: d4e5f6a7-8b9c-4d0e-1f2a-3b4c5d6e7f8a
+
+#### Text:
+content::
+The book's website includes supplementary Q&As and extended discussions for each chapter. Browse the ones relevant to this week's reading below.
+
+\## Chapter 12: "I Don't Want to Be Alarmist"
+::card[[../Lenses/IABIED - QA - What About the Benefits of AI]]
+::card[[../Lenses/IABIED - QA - Distraction from Other Issues]]
+::card[[../Lenses/IABIED - QA - Anti-Technology]]
+::card[[../Lenses/IABIED - QA - Rush Ahead Good Guys]]
+::card[[../Lenses/IABIED - QA - Cooperate to Build Safely]]
+::card[[../Lenses/IABIED - QA - Provably Safe AI]]
+::card[[../Lenses/IABIED - QA - Daily Life Believing This]]
+::card[[../Lenses/IABIED - QA - Should We Panic]]
+::card[[../Lenses/IABIED - QA - Fear-Mongering by AI Leaders]]
+::card[[../Lenses/IABIED - QA - Experts Don't All Agree]]
+::card[[../Lenses/IABIED - QA - The Lemoine Effect]]
+::card[[../Lenses/IABIED - QA - Telling AI Companies No]]
+::card[[../Lenses/IABIED - QA - Making Sense of the Death Race]]
+
+\## Chapter 13: Shut It Down
+::card[[../Lenses/IABIED - QA - The Draft Treaty]]
+::card[[../Lenses/IABIED - QA - Wait and See Approach]]
+::card[[../Lenses/IABIED - QA - Warning Shots]]
+::card[[../Lenses/IABIED - QA - Stopping Without Spyware]]
+::card[[../Lenses/IABIED - QA - Chip Ownership Control]]
+::card[[../Lenses/IABIED - QA - Research Ban Extreme]]
+::card[[../Lenses/IABIED - QA - Can Technology Be Stopped]]
+::card[[../Lenses/IABIED - QA - Too Much Power to Governments]]
+::card[[../Lenses/IABIED - QA - Nations Reject Ban]]
+::card[[../Lenses/IABIED - QA - Monitoring Regime Forever]]
+::card[[../Lenses/IABIED - QA - Making Humans Smarter]]
+::card[[../Lenses/IABIED - QA - Aligned to Whom]]
+::card[[../Lenses/IABIED - QA - Avoid Talking About Extinction]]
+::card[[../Lenses/IABIED - QA - Elected Officials Recognize Threat]]
+::card[[../Lenses/IABIED - QA - Is It Hopeless]]
+::card[[../Lenses/IABIED - QA - Shut Down Global AI Development]]
+::card[[../Lenses/IABIED - QA - Keep the Coalition Large]]
+
+# Lens: ++}IABIED - QA - What About the Benefits of AI
 optional:: true
-source:: ![[../Lenses/IABIED - QA - What About the Benefits of AI]]
+{++{"author":"AI","timestamp":1774345360795}@@hide:: true
+++}source:: ![[../Lenses/IABIED - QA - What About the Benefits of AI]]
 
 # Lens: IABIED - QA - The Draft Treaty
 optional:: true

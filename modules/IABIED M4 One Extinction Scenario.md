@@ -77,7 +77,8 @@ optional:: true
 
 # Lens: IABIED - QA - Sable's Thinking
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Sable's Thinking]]
+{++{"author":"AI","timestamp":1774345369742}@@hide:: true
+++}source:: ![[../Lenses/IABIED - QA - Sable's Thinking]]
 
 # Lens: IABIED - QA - Galvanic Fairly Careful
 optional:: true
