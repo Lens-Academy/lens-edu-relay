@@ -65,6 +65,13 @@ The book's website includes supplementary Q&As and extended discussions for each
 This links to a lens in M2:
 ::card[[../Lenses/IABIED - QA - Human-Like Emotions]]
 
+and inline [[../Lenses/IABIED - QA - Human-Like Emotions]].
+
+And this links to M3 itself:
+::card[[IABIED M3 Nonhuman Minds, Part 3]]
+
+and inline: [[IABIED M3 Nonhuman Minds, Part 3]].
+
 \## Introduction: Hard Calls and Easy Calls
 ::card[[../Lenses/IABIED - QA - Why Write This Book]]
 ::card[[../Lenses/IABIED - QA - Could ChatGPT Kill Us]]
