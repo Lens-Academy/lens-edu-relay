@@ -62,6 +62,8 @@ id:: 77b913b7-0462-4a87-bce0-5bb3419b34fc
 content::
 The book's website includes supplementary Q&As and extended discussions for each chapter. Browse the ones relevant to this week's reading below.
 
+This links to a lens in M
+
 \## Introduction: Hard Calls and Easy Calls
 ::card[[../Lenses/IABIED - QA - Why Write This Book]]
 ::card[[../Lenses/IABIED - QA - Could ChatGPT Kill Us]]
