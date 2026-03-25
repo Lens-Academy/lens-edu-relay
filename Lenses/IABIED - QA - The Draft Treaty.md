@@ -10,17 +10,21 @@ tags:
 
 #### Text
 content::
-This is supplementary material from the book's online resources at ifanyonebuildsit.com/13. It presents a tentative draft international treaty with 15 articles covering the establishment of an International Superintelligence Inspection Authority (ISIA), AI training restrictions, chip consolidation, monitoring and verification mechanisms, dispute resolution, and protective actions.
+This extended discussion presents a tentative draft international treaty for halting frontier AI development, with annotations. It covers the establishment of an International Superintelligence Inspection Authority (ISIA), AI training restrictions, chip consolidation and monitoring, verification mechanisms, dispute resolution, and protective actions across 15 articles.
 
-TODO: Embed draft treaty text with annotations from ifanyonebuildsit.com/13
+#### Article
+source:: [[../articles/iabied-ch13-ext-draft-treaty]]
+
+#### Text
+content::
+What do you think? Does this address a concern you had, or raise new questions?
 
 #### Chat
 instructions::
 The student just read the draft international treaty proposed in the book's online resources.
-
+TLDR: The authors present a concrete 15-article treaty proposal covering an international inspection authority, GPU consolidation, training restrictions, research bans, monitoring, and dispute resolution — modeled partly on nuclear non-proliferation frameworks.
 Discussion topics:
 - Which articles of the proposed treaty seem most feasible? Which seem most challenging to implement?
 - How does this compare to existing international treaties you know about (nuclear non-proliferation, chemical weapons, climate agreements)?
 - What's missing from this treaty that you think would be necessary?
-
 Ask what they found surprising or new.

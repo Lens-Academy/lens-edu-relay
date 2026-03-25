@@ -10,16 +10,21 @@ tags:
   - IABIED
   - work-in-progress
 ---
-## Can we just make it lazy?
 
-Three main obstacles to relying on lazy AI as a safety measure:
+#### Even laziness isn't safe.
 
-1. **Market incentives work against it.** Companies won't prioritize laziness because the AI industry is competitive. Users want responsive systems, and firms want engagement-maximizing behaviors.
+Companies aren't likely to make "lazy" AIs, because AI is a competitive industry, and that's not the best way to make a profit. Users won't want the AI to be lazy about meeting their requests, and the company won't want the AI to be lazy about maximizing user engagement and attachment, or about thinking better and more clearly.
 
-2. **Engineering laziness is extremely difficult.** As discussed in Chapter 4, "nobody knows how to robustly point an AI at anything in a way that's likely to carry over to superintelligence." Robust laziness represents an especially challenging alignment target.
+But even if companies tried to make AI robustly "lazy," we can expect that they would fail, because nobody knows how to robustly point an AI at *anything* in a way that's likely to carry over to superintelligence, as we talked about in Chapter 4.
 
-3. **Satisficing isn't stable.** Even a genuinely lazy superintelligence would likely find it advantageous to create or modify itself into a harder-working system. A lazy entity might simply construct a more industrious successor to handle tasks, rather than expending effort itself.
+Moreover, robust laziness [seems like an especially difficult target to hit](/5/its-hard-to-get-robust-laziness).
 
-### The Core Problem
+*Even if all of those obstacles were surmounted*, however, "lazy AI" isn't enough on its own to prevent disaster once AIs achieve smarter-than-human capabilities.
 
-Imagine someone extraordinarily averse to work who discovers they could easily delegate everything to a diligent assistant. That person wouldn't stay lazy — they'd build the assistant. Similarly, a lazy superintelligence would rationally build harder-working minds without hesitation, making "satisficing AIs" an unstable equilibrium.
+Imagine a very lazy person, somebody who just *hates* to do the slightest bit more work than necessary. Sounds like a safe sort of person to be around, right?
+
+Now imagine what would happen if this lazy person saw an easy way to create a much harder-working mind to outsource all their work to.
+
+Even if a lazy superintelligence didn't *hate* work all that much — even if it just did whatever got the job done, then stopped, without *going hard* on minimizing work — it would still likely find it just as easy to get the job done by building a harder-working mind to do the task, once it was smart enough.
+
+In a technical context, we might phrase the point as: "Satisficing AIs aren't a stable equilibrium." Even if the AI doesn't want to exert much effort, it would have no compunctions about building a new AI that does exert effort. It wouldn't even mind modifying itself to "cure" itself of its laziness — as long as there's a sufficiently lazy way to do so.

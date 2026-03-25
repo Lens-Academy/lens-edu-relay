@@ -1,6 +1,8 @@
 ---
 id: f9e787b3-476e-436e-9967-5428976c79e7
+summary_for_tutor: "Covers why AI alignment is dramatically harder than managing nuclear technology. Lists nine specific ways superintelligent AI poses unique challenges: it is smarter than humans, self-replicates, self-improves, makes independent plans, and permits no learning from failures since the first mistake could be fatal."
 title: "Won't AI differ from all the historical precedents?"
+tldr: "Yes."
 tags:
   - lens
   - IABIED

@@ -10,17 +10,16 @@ tags:
   - IABIED
   - work-in-progress
 ---
+#### It isn't clear, but researchers are finding ways to overcome old LLM limitations.
 
-## Could LLMs advance all the way to superintelligence?
+People used to say: "LLMs only think in a single pass and can't perform long or recursive chains of reasoning." Now LLMs are being used to produce long chains of reasoning that the models then review and extend. This has enhanced the abilities of modern AIs.
 
-The exact path remains unclear, but researchers continue identifying and overcoming previous limitations. What experts once thought impossible—like performing extended reasoning chains—modern LLMs now accomplish through techniques like chain-of-thought processing that models review and extend.
+AI is a moving target. The researchers in this field can see the obstacles, and they're doing their best to surmount them.
 
-### Alternative Approaches May Succeed
+#### Other approaches may achieve superintelligence soon, even if LLMs don't.
 
-Even if LLMs hit fundamental barriers, the field demonstrates consistent capability in developing new architectures and methodologies. The authors emphasize their book targets superintelligence broadly, not LLMs specifically.
+[The field is good at overcoming obstacles](/1/but-arent-there-big-obstacles-to-reaching-superintelligence#the-field-is-good-at-overcoming-obstacles), including coming up with new AI architectures and approaches. We didn't write *If Anyone Builds It, Everyone Dies* to warn people about LLMs in particular. We wrote it to warn people about superintelligence.
 
-### Why Focus on LLMs
+The reason we talk about LLMs isn't that we're sure LLMs are the shortest path from here to superintelligence. We talk about LLMs because they represent the AI approach that is currently working, and because studying them is a fine way to understand just how little anyone knows about these new minds humanity is growing.
 
-The authors discuss LLMs because they represent the currently functional AI approach, offering valuable insights into understanding emerging artificial minds—regardless of whether they represent the ultimate path forward.
-
-The page references extended content on why gradient descent knowledge matters, expert understanding limitations regarding AI internals, intelligence's understandability in principle, AI reasoning transparency and its limitations, mathematical foundations of AI systems, token prediction as genuine reasoning, and AI capacity to exceed training data. All these discussions elaborate on why LLMs warrant serious study despite uncertainty about their superintelligence potential.
+See also the extended discussion on [why gradient descent matters](/2/what-good-does-knowledge-of-llms-do).

@@ -1,6 +1,8 @@
 ---
 id: 43a57463-5daa-4a3f-8455-bffd37011ea3
+summary_for_tutor: Argues that general intelligence exists on a spectrum. Deep Blue could only play chess; AlphaGo could play chess, Go, and Atari; humans build metal shells to fly faster than falcons. Distinguishes between memorizing specific routes versus internalizing a map, framing generality as having mental gears reusable across many scenarios.
 title: "Is 'general intelligence' a meaningful concept?"
+tldr: "Yes."
 tags:
   - lens
   - IABIED

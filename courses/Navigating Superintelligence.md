@@ -1,20 +1,19 @@
 ---
 id: 032413ee-f662-4bc8-bc80-03563e277fd5
-slug: default
-title: AI Safety Course
+slug: navigating-asi
+slug-aliases: default
+title: Navigating Superintelligence
 ---
 
 # Module: [[../modules/introduction]]
 
 # Meeting: Introduction
 
-# Module: [[../modules/feedback-loops]]
-
-# Meeting: Feedback Loops
-
 # Module: [[../modules/what-even-is-ai]]
 
-# Meeting: What even is AI?
+# Module: [[../modules/feedback-loops]]
+
+# Meeting: AI and Feedback Loops
 
 # Module: [[../modules/Cognitive Superpowers]]
 

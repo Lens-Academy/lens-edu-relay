@@ -11,16 +11,16 @@ tags:
   - work-in-progress
 ---
 
-## Main Answer
+#### To provide a challenge to Sable.
 
-Galvanic is shown exercising significant caution "to provide a challenge to Sable" and demonstrate how an intelligent agent can circumvent constraints. The authors portray the company as relatively paranoid—implementing safeguards like AI supervisors and honeypots—yet this still proves insufficient.
+If Galvanic, the makers of Sable, stumbled their way into developing a superintelligence without taking *any* precautions to keep it controlled (such as having AI supervisors and honeypots), readers might feel as though the AI succeeded only because we were being cynical about AI companies.
 
-The reasoning reflects a strategic narrative choice: if Galvanic had taken *no* precautions, readers might attribute Sable's success to cynicism about corporations. By depicting realistic safety measures that fail anyway, the authors illustrate a genuine challenge.
+By depicting Galvanic as being on the more paranoid end of the spectrum (while still trying to keep our depiction of Galvanic realistic), we have more opportunity to demonstrate how an intelligent agent can slip through a web of constraints.
 
-## Key Context
+We happen to believe that the most reckless AI companies would be markedly more reckless than Galvanic, for reasons we'll get into in Chapter 11. And it's the most reckless companies that matter here, not the most responsible. If three responsible companies avoid building a machine superintelligence because it would be too dangerous, but a fourth irresponsible company rushes ahead, then superintelligence gets built in that fourth lab.
 
-However, the authors note this portrayal may actually be *more* cautious than current industry practice. Modern AI companies exercise minimal safety measures while scaling up systems exhibiting warning signs. The authors observe: "Today, executives only exercise as much caution as they can manage without slowing down at all, which we would guess results in less caution than Galvanic is depicted as taking."
+Today, corporate executives at the labs argue, "Better me than them!" Today, executives only exercise as much caution as they can manage without slowing down at all, which we would guess results in lesscaution than Galvanic is depicted as taking with Sable.
 
-## Important Caveat
+#### Notes
 
-The authors emphasize that "if three responsible companies avoid building superintelligence but a fourth irresponsible company rushes ahead, then superintelligence gets built in that fourth lab." The most reckless actors determine outcomes—not the most responsible ones. This fictional company's relative prudence serves narrative purposes while remaining grounded in plausible corporate behavior patterns.
+[1] *better me than them:* For instance, in a [YouTube clip](https://www.youtube.com/watch?v=cFIlta1GkiE&t=2126s), the CEO of xAI talks about realizing that he could be either a spectator or a participant in the AI race, and deciding that he wants to be a participant.

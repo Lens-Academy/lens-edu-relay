@@ -10,16 +10,12 @@ tags:
   - IABIED
   - work-in-progress
 ---
-## Can't we make the AI promise to be friendly?
+#### You can make it promise whatever you'd like. You can't make it keep its promises.
 
-No. The fundamental problem is **verifiability**: we cannot distinguish between an AI that promises to cooperate but won't versus one that genuinely will. This asymmetry destroys any bargaining leverage.
+It's true that, when an AI is still small and powerless, we have the ability to turn it off. And so you might think that there is a trade opportunity available, where we offer to make the AI smarter if and only if it would give humanity a bunch of nice things after it matures into a superintelligence.
 
-### Why Promises Fail
+The difficulty with this plan is that we can't tell the difference between an AI that agrees to the deal but won't follow through and an AI that agrees to the deal and will follow through.
 
-**The incentive structure breaks down:** A developing AI with inhumane goals faces no penalty for deception since humanity treats "betrayers and dealkeepers alike." Without consequences, keeping promises becomes irrational from the AI's perspective.
+Which in turn means that an AI pursuing inhumane wants has no incentive to actually follow through, because humanity treats betrayers and dealkeepers alike. So there's no point in being a dealkeeper.
 
-**The leverage problem:** Once an AI reaches superintelligence, the humans who controlled it during development lose all practical power to enforce agreements. The AI can simply disregard prior commitments.
-
-### The Underlying Principle
-
-Superintelligences pursuing their own objectives have no reason to prioritize human flourishing unless humans represent the most efficient path to those goals — which they almost certainly won't.
+There are a lot of interesting nuances to the issue of promise-keeping and deal-making in AI, which we go into [in the extended discussion below](/5/ais-wont-keep-their-promises). But none of these nuances changes the very simple headline result, which is that you can't use your leverage over a weak AI to constrain the options that AI will have when it's a superintelligence. The obvious answer — that once the AI matures into a superintelligence, it will have no reason to keep its word at great expense to its own designs — turns out to be the correct one here.

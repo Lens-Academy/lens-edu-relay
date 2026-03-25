@@ -1,0 +1,29 @@
+---
+id: 373144d9-cfc6-401c-b945-b55427cc2b67
+title: "Making Sense of the Death Race"
+tags:
+  - lens
+  - IABIED
+  - supplementary
+  - work-in-progress
+---
+
+#### Text
+content::
+This extended essay examines why AI researchers and executives continue racing toward superintelligence despite acknowledging it could kill everyone. The authors identify several factors: game-theoretic incentives, the historical banality of self-destructive engineering, cultural normalization of extreme risk (AI researchers casually trading "p(doom)" numbers), the planning fallacy, and a "missing mood" where CEOs discuss extinction without grief or urgency.
+
+#### Article
+source:: [[../articles/iabied-ch12-ext-death-race]]
+
+#### Text
+content::
+What do you think? Does this address a concern you had, or raise new questions?
+
+#### Chat
+instructions::
+The student just read an extended discussion about why AI researchers and executives continue the race toward superintelligence despite acknowledging existential risk.
+TLDR: The authors explore multiple psychological explanations: game-theoretic incentives pushing individuals toward collective destruction, historical precedent for scientists killing themselves with their inventions, cultural normalization of catastrophic risk in AI (where "p(doom)" discussions are water-cooler talk), and a "missing mood" -- CEOs discuss the end of the world without grief, horror, or urgency, suggesting they don't viscerally believe their own words.
+Discussion topics:
+- The comparison between bridge engineering standards (1 in 100,000 failure rate) and AI researchers' casual "p(doom)" numbers -- does this framing land?
+- Which explanation for the death race do you find most convincing: incentives, delusion, or the "missing mood"?
+Ask what they found surprising or new.

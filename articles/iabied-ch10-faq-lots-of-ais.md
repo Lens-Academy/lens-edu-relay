@@ -10,17 +10,18 @@ tags:
   - IABIED
   - work-in-progress
 ---
-# What if there are lots of different AIs?
+#### It doesn't much help if we can't make any of them care about good things.
 
-## It doesn't much help if we can't make any of them care about good things.
+As we noted in Chapter 4, there are numerous ways for AIs to wind up caring about strange ends that are not what anyone actually wanted. It doesn't matter if humanity makes a thousand AIs, if those thousand AIs all care about slightly different weird ends.
 
-As noted in Chapter 4, numerous ways exist for AIs to develop care for strange ends that nobody wanted. Multiple AIs caring about different weird objectives doesn't solve the problem.
+For a world of diverse AIs to permanently harbor happy, healthy, free people, we need at least some of those AIs to *specifically* wantflourishing people to stick around. Not just in the sense that they assure us that they care about that when they're young, but in the sense that this is *actually* the most efficient answer to whatever questions their actions (or the actions of their descendants) are an answer to, as discussed in Chapter 5.
 
-For diverse AIs to support flourishing humans permanently, at least some must specifically want human flourishing to continue. This isn't just surface-level assurance when they're young—it must reflect what their actions actually optimize for, as discussed in Chapter 5.
+For more background on this problem, see:
 
-Background References:
-- Chapter 4: Why AIs steer toward unintended targets; how reflection complicates alignment
-- Chapter 5: Whether AIs find humans useful; whether AIs need law; whether they care about us; why humans rarely represent efficient solutions
-- Part II: Why the narrative featured only one superintelligent AI
+- Chapter 4: [Why would an AI steer toward anything other than what it was trained to steer toward?](/4/why-would-an-ai-steer-toward-anything-other-than-what-it-was-trained-to-steer-toward) and [Reflection and Self-Modification Make It All Harder](/4/reflection-and-self-modification-make-it-all-harder)
+- Chapter 5: [Will AI find us useful to keep around?](/5/will-ai-find-us-useful-to-keep-around), [Won't AIs need the rule of law?](https://ifanyonebuildsit.com/5/wont-ais-need-the-rule-of-law), [Won't AIs care at least a little about humans?](https://ifanyonebuildsit.com/5/wont-ais-care-at-least-a-little-about-humans), and [Humans Are Almost Never the Most Efficient Solution](/5/humans-are-almost-never-the-most-efficient-solution)
+- Part II: [Why did you tell a story with only one AI as smart as Sable?](/ii/why-did-you-tell-a-story-with-only-one-ai-as-smart-as-sable)
 
-If we could make one in ten AIs "good," perhaps we could negotiate with them for a portion of resources. However, given modern "grown" AI approaches, hitting such a narrow target even ten percent of the time remains extraordinarily unlikely. Adding more AIs doesn't help when we lack the capability to structure their fundamental drives correctly.
+If we knew how to make one in ten AIs good, then perhaps we could get a tenth of the universe by making a great many different AIs and hoping that the good ones strike a deal for us.
+
+But, as we argued in Chapters 2 through 4, getting an AI that cares about people in just the right way is exceedingly unlikely, in the modern regime where AIs are "grown." Humanity is *nowhere near* the level of being able to hit such an exceptionally narrow target 10 percent of the time. Adding more AIs doesn't help, when the problem is that there is a complicated structure that we aren't even close to being able to hook into the AI's drives.

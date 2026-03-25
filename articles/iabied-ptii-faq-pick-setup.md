@@ -11,7 +11,7 @@ tags:
   - work-in-progress
 ---
 
-## Because it's plausible and easy to write.
+#### Because it's plausible and easy to write.
 
 Every detail in a story about the future is an opportunity for that story to be wrong. We can't tell you exactly what technological breakthroughs will happen in what order, any more than we can tell you the exact weather pattern a month from now.
 
@@ -21,7 +21,7 @@ Even more convincing might be ten stories, or a hundred stories, that show how m
 
 That's what it means for an aspect of the future to be an easy call: When almost all pathways have the same endpoint, that endpoint is predictable. But we did not have the time or space to write ten stories, never mind a hundred.
 
-For the story we chose to tell, we stuck to a scenario that starts as soon as possible. This is not because we think a situation like this will definitely arise soon (we are uncertain), but rather because a story set close to the present is much easier to write. If we'd set it even further in the future and made up many more futuristic details about what had happened between now and then, the story would be even *more* implausible. And those details would just be distracting.
+For the story we chose to tell, we stuck to a scenario that starts as soon as possible. This is not because we think a situation like this will definitely arise soon ([we are uncertain](/intro/when-is-this-worrisome-sort-of-ai-going-to-be-developed)), but rather because a story set close to the present is much easier to write. If we'd set it even further in the future and made up many more futuristic details about what had happened between now and then, the story would be even *more* implausible. And those details would just be distracting.
 
 Even if we *were* somehow able to foresee the exact path that the future would take, it might not be the best scenario for understanding the general dynamics at play.
 
@@ -29,15 +29,13 @@ We expect the true future to be deeply strange, full of messy, contingent detail
 
 For a taste of how it might feel, imagine going back in time 100 years and trying to describe the daily lives and big problems of the modern world. Most people in 1925 had never listened to the radio, driven a car, or seen a refrigerator. In order to describe social media, globalization, and obesity, one wouldn't just need to explain a rich web of technologies; one would need to radically change the listener's worldview. No, the story we chose to tell is more plausible, and thus less realistic.
 
-## There are many other ways the future could go.
+#### There are many other ways the future could go.
 
 Here are just a few alternative possibilities for how a story like this one could start:
 
 - There's some sort of breakthrough in lifelong learning, or long-term memory, or learning more efficiently from data, that yields AIs qualitatively more generally intelligent than any that came before (in the same way that LLMs are qualitatively more generally intelligent than AlphaZero).
-
-* Large language models seem to "hit a wall," AI progress stalls for years, and people say that the hype bubble has popped. But researchers keep tinkering over the following decade, until finally some algorithmic breakthrough is found and the AIs operate qualitatively better than they ever did before.
-
-* There's never any sort of qualitative breakthrough. Progress accumulates slowly and gradually, and AI gets more and more deeply integrated with more and more of the economy, and can handle longer and longer periods of autonomous operation. The AIs often pursue ends that are not quite what anyone intended or asked for, but humanity develops hacks and patches and workarounds. And it's mostly fine, until on some Tuesday that starts out like any other, the world crosses the threshold past which coordinated AIs would succeed at cutting humanity out of the loop if they tried.
+- Large language models seem to "hit a wall," AI progress stalls for years, and people say that the hype bubble has popped. But researchers keep tinkering over the following decade, until finally some algorithmic breakthrough is found and the AIs operate qualitatively better than they ever did before.
+- There's never any sort of qualitative breakthrough. Progress accumulates slowly and gradually, and AI gets more and more deeply integrated with more and more of the economy, and can handle longer and longer periods of autonomous operation. The AIs often pursue ends that are not quite what anyone intended or asked for, but humanity develops hacks and patches and workarounds. And it's mostly fine, until on some Tuesday that starts out like any other, the world crosses the threshold past which coordinated AIs would succeed at cutting humanity out of the loop if they tried.
 
 Any given guess about the exact path the future takes is likely to be wrong. It's nevertheless useful to provide stories that show how it all *could* hang together.
 

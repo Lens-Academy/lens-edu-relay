@@ -1,6 +1,8 @@
 ---
 id: 7fe9ef5e-4f19-4cee-afe9-8856d317d46e
+summary_for_tutor: Covers whether AI companies could limit powerful systems to safe uses. Argues that seemingly benign capabilities like superhuman persuasion require general intelligence dangerous in other domains, since an AI must model humans deeply to manipulate them effectively. Concludes there are no narrow-but-effective AI applications that avoid the need for alignment breakthroughs.
 title: "What if AI companies only deploy their AIs for non-dangerous actions?"
+tldr: "Actions that seem benign can still require dangerous capabilities."
 tags:
   - lens
   - IABIED

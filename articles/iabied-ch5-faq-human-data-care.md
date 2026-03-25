@@ -10,22 +10,19 @@ tags:
   - IABIED
   - work-in-progress
 ---
-## If AIs are trained on human data, doesn't that make them likelier to care about human concepts?
 
-**Yes, but this doesn't help much.**
+#### Yes, but this doesn't help much.
 
-The page opens with an analogy: a million monkeys on typewriters won't produce Shakespeare, even if you lower expectations dramatically. Similarly, while AIs trained on human data may learn about human concepts like "love" and "kindness" for predicting text, this doesn't translate into genuine alignment with human values.
+If you put a million monkeys on typewriters, they aren't going to produce the collected works of Shakespeare.
 
-### AIs aren't shaped by human concepts the way humans are
+If you lower your sights dramatically by saying that you'll be satisfied with just the first act of *Hamlet* and that you'll correct typos by taking the closest real word, then you're astronomically more likely to hit your target! And, unfortunately, you're still astronomically out of luck.
 
-AIs aren't "the kinds of entities that learn a large number of human words and then steer toward our favorite words in just the way we really mean them." Instead, they're animated by "a complex tangle of machinery" producing "strange and unintended behaviors."
+It's true that AIs today are trained on reams of human data, and that they get to interact with humans, and that these facts make human-like concepts more salient to AI thinking. AIs like this have learned facts about the words for "love" and "friendship" and "kindness" that are relevant to predicting the next token.
 
-### Previous learning doesn't guarantee future behavior
+But AIs are not the kinds of entities that learn a large number of human words and then steer toward our favorite words in just the way we really mean them. They seem to be animated by a complex tangle of machinery — one that seems to put effort into [keeping](https://www.nytimes.com/2025/06/13/technology/chatgpt-ai-chatbots-conspiracies.html)[psychotic people psychotic](https://www.nytimes.com/2025/06/13/technology/chatgpt-ai-chatbots-conspiracies.html), among many other strange and unintended behaviors.
 
-Drawing on Chapter 4's discussion, advanced AIs will pursue "something complicated — something contingent on where lots of internal forces find their equilibrium" even after becoming superintelligent and encountering entirely different contexts.
+We argued in Chapter 4 that a more advanced AI will steer toward something complicated — something contingent on where lots of internal forces find their equilibrium — even after the AI gets much smarter, even after it finds itself in a very different context from its training environment.
 
-### The alignment problem remains
+Insofar as humanlike concepts have short words in an AI's mental dictionary, those concepts might be somehow tangled up in the forces that animate the AI. Some drives vaguely related to concepts that bear some tenuous relationship to human concepts might even exist in the AI after it crosses the gulf to superintelligence, if we're (un)lucky. But you can't just jumble together a bunch of English-language words and get out a good set of drives for a superintelligence.
 
-Even if human-related concepts exist in an AI's mental framework, "you can't just jumble together a bunch of English-language words and get out a good set of drives for a superintelligence." The caring must be calibrated precisely right — "a narrow target."
-
-Training data alone cannot ensure an AI cares about humans in ways that matter for our survival.
+Additionally, most ways of getting *something* we care about into the AI's preferences still don't end well for us, as we [discussed](/5/will-ai-treat-us-as-its-parents#it-seems-quite-unlikely) in the case of filial regard. [Caring in exactly the right way is a narrow target.](/5/wont-ais-care-at-least-a-little-about-humans)

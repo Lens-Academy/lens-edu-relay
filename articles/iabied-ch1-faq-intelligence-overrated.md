@@ -10,23 +10,16 @@ tags:
   - IABIED
   - work-in-progress
 ---
+#### Only if you're using an overly narrow definition of "intelligence."
 
-## Isn't intelligence overrated?
+We sometimes run into claims like: "Intelligence isn't all there is to success! Many of the most successful humans are charismatic politicians, CEOs, or pop stars! Nerds are better at some things, but they don't run the world."
 
-**No—only if you're using an overly narrow definition of "intelligence."**
+We do not dispute this claim. Rather, what we mean by "intelligence" (in this book) is not the property that separates nerds from jocks. It's the property that separates humans from mice.
 
-The authors clarify that when they discuss "intelligence" in their book, they don't mean the trait separating academic achievers from athletes. Rather, they're referring to **"the property that separates humans from mice."**
+In a Hollywood screenplay, calling a character "intelligent" typically means that they have *book smarts*. Maybe they're a history buff, or a brilliant inventor. Maybe they're good at chess, or at solving mysteries.
 
-### What Intelligence Actually Encompasses
+The "smart one" in a movie has their own strengths, balanced by stereotypical Hollywood-nerd weaknesses — perhaps they lack emotional intelligence, or common sense, or streetwise cunning. Maybe they lack manual dexterity, or charisma.
 
-Intelligence includes far more than book smarts. As the text explains:
+But charisma isn't a substance produced by your kidneys. Charisma, like book smarts, is a result of processes in the brain. This includes *unconscious processes* inside brains — the behaviors that make someone charismatic aren't necessarily under their conscious control. But in the end, charisma and engineering acumen are both part of the neurological inheritance that separates humans from mice, regardless of how the two powers are divvied up between the nerds and the pop stars.
 
-> "Charisma, like book smarts, is a result of processes in the brain...charisma and engineering acumen are both part of the neurological inheritance that separates humans from mice"
-
-The authors use "artificial intelligence" to mean **"artificial everything-that-separates-human-brains-from-mouse-brains"**—encompassing the abilities that let humans walk on the moon, move crowds emotionally, and aim rifles skillfully.
-
-### Why This Matters
-
-While many successful humans are charismatic politicians or pop stars rather than intellectuals, these abilities still derive from brain processes. The underlying cognitive architecture enabling human achievement—whether expressed as scientific insight or social influence—represents the phenomenon the authors call intelligence.
-
-The distinction isn't about narrow academic capability, but about the vast gap between human problem-solving ability and that of other animals, which enables civilization-building and technological advancement.
+By "artificial intelligence," we don't mean "artificial book smarts." We mean "artificial everything-that-separates-human-brains-from-mouse-brains." We mean the power that lets humans walk on the moon, and the power that lets an orator move a crowd to tears, and the power that lets a soldier deftly aim a rifle. We mean the whole package.

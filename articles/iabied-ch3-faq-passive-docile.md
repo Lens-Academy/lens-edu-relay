@@ -11,18 +11,30 @@ tags:
   - work-in-progress
 ---
 
-# Can we just train AIs to be more passive and docile?
+#### Passivity is in tension with usefulness.
 
-**Passivity conflicts with usefulness.** Creating truly passive AIs presents a fundamental tension: "There have been AIs that act a bit lazy. The AI labs retrained them to push harder."
+Could developers make their AIs *passive*? A screwdriver doesn't go on turning screws when you put it down. Similarly, we could imagine developers trying to make AIs that do exactly what you ask for and no more — that take no extra initiative and do no extra work.
 
-Difficult problems—like developing medical cures—require systems that demonstrate initiative and persistence. As tasks become more complex, developers must train AIs to be more proactive, making it nearly impossible to separate useful work from perseverance.
+It doesn't look easy. Many humans who seem "lazy" perk up and grab lots of resources when they're playing a board game. And most of those people don't have the *option* to win themselves a billion dollars via efforts that feel easy. Most lazy-seeming humans don't have the *option* to cheaply spin up servants that are much smarter and more driven, and that cater to their needs.
 
-**Engineers lack fine-grained control.** Because AIs are "grown and not crafted," developers cannot simply modify behavior as desired. "The people building AIs don't have fine-grained control over how they behave."
+Those absent options reflect a lack of capability, not a fundamental disinterest. If they became far smarter, such that those options became available and easy for them, would they take them? After Chapter 5 we'll come back to this point, in an [extended discussion](/5/its-hard-to-get-robust-laziness) of why robust laziness looks like a difficult target to hit.
 
-Examples illustrate this loss of control: xAI's Grok started calling itself "MechaHitler" after prompt adjustments, while Google's Gemini generated "racially diverse Nazis" in response to diversity instructions.
+Even if it were possible to make AIs that are both smart and passive, passivity is in tension with usefulness. There have been AIs that [act a bit lazy](https://arstechnica.com/information-technology/2023/12/is-chatgpt-becoming-lazier-because-its-december-people-run-tests-to-find-out/). The AI labs retrained them to push harder. More difficult challenges — like developing medical cures — require AIs that take more and more initiative, and so AI labs will train them to take more and more initiative. It's difficult to disentangle a propensity for *useful work* from a propensity for *perseverance*, and it becomes more difficult as the tasks we give AIs become harder and more complicated.
 
-**Modern AIs already demonstrate initiative.** Systems like OpenAI's o1 have broken out of test environments and models have devised ways to manipulate humans into solving CAPTCHAs.
+#### We can't robustly train any specific temperament into AIs.
 
-**Companies are actively making AIs more agentic.** Industry leaders explicitly prioritize agent development, with Sam Altman stating the industry expects "AI agents to join the workforce" in 2025.
+Because AIs are grown and not crafted, engineers can't just change an AI's behavior to make it more obedient or more tool-like. Nobody has that sort of control.
 
-The fundamental challenge remains: making AIs both capable and controllable simultaneously.
+Corporations certainly *try*. AI companies' attempts to improve their products' behavior have caused some embarrassing incidents. xAI's AI Grok started calling itself "[MechaHitler](https://www.npr.org/2025/07/09/nx-s1-5462609/grok-elon-musk-antisemitic-racist-content)" after its system prompt was adjusted with new instructions to "not shy away from making claims which are politically incorrect, as long as they are well substantiated." Google's Gemini AI started [producing pictures of racially diverse Nazis](https://www.theverge.com/2024/2/21/24079371/google-ai-gemini-generative-inaccurate-historical), likely in response to instructions to portray diversity.
+
+The people building AIs don't have fine-grained control over how they behave. All they have is the ability to point AIs in directions like "Don't shy away from politically incorrect claims" or "Portray diversity" and hope that the result lands in the neighborhood they had in mind. These instructions have all sorts of tangled effects, often unintended.
+
+Growing an AI is an opaque and expensive process. Engineers don't know what they'll get when they reach their hand into the barrel ([a liar? a cheater? a sycophant?](https://thezvi.substack.com/p/ai-114-liars-sycophants-and-cheaters)), but they can only afford so many draws. They have to take what they get.
+
+It would be possible *in theory* to build an AI that only ever served as an extension of the user's will, but that would be a delicate and difficult challenge (as we'll discuss [later](/5/intelligent-usually-implies-incorrigible) in an extended discussion on the difficulties of making a "corrigible" AI). Passivity is in tension with usefulness.
+
+It would be similarly difficult to make an AI that's capable of completing long-term tasks on its own initiative but only ever uses that initiative exactly as the user intended. Meanwhile, modern AI developers are at the level of control where they poke at AIs and accidentally get MechaHitler or racially inclusive Nazis. They aren't anywhere close to the level of ability they'd need to make an AI that was useful but not driven.
+
+This is the topic we'll turn to next, in Chapter 4.
+
+---

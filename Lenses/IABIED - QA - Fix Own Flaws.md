@@ -1,6 +1,8 @@
 ---
 id: a5091f40-86bb-4e7a-ad1d-1d17b501a608
+summary_for_tutor: "Covers why smarter AIs would not self-correct toward human values. Argues that an AI fixes what it perceives as flaws based on its existing drives, so an AI with alien goals would 'fix' itself further away from human values. Uses the analogy of a curiosity-driven AI replacing curiosity with more efficient information-value calculations, moving further from human-compatible motivations."
 title: "Won't AIs fix their own flaws as they get smarter?"
+tldr: "The AI will fix what *it* sees as flaws."
 tags:
   - lens
   - IABIED

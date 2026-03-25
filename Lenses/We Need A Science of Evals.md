@@ -1,5 +1,6 @@
 ---
 id: 1d38a9a8-e883-4c5f-a726-020ff0e04839
+summary_for_tutor: Argues that AI evaluations currently lack the scientific rigor needed to underpin high-stakes safety decisions like Responsible Scaling Policies. Documents how prompt formatting changes can swing accuracy by up to 76 percentage points, and how novel prompting techniques keep raising capability ceilings. Proposes a maturation process modeled on aviation safety standards, with specific open research questions around measurement validity, coverage, reproducibility, and statistical significance.
 title: "We Need A 'Science of Evals'"
 tags:
   - lens

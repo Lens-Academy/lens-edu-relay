@@ -1,6 +1,8 @@
 ---
 id: 94abec2a-ae2f-4482-b575-e6c2a32737cf
+summary_for_tutor: "Explains why gradient descent matters for AI safety. The readable code is not the AI itself but the machinery for growing it. Experts understand the training process but know almost nothing about the trained model's internals, which are billions of numbers found by an optimizer through trial and error. Interpretability research is valuable but nascent."
 title: "Why does gradient descent matter?"
+tldr: "It's important for understanding how engineers can and cannot shape modern AIs."
 tags:
   - lens
   - IABIED

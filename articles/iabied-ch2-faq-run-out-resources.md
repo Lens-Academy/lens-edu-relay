@@ -10,39 +10,24 @@ tags:
   - IABIED
   - work-in-progress
 ---
+#### Probably not.
 
-## But won't we run out of data before AI goes all the way? Or electrical power? Or funding?
+Humans use data much more efficiently than AIs do, so we know it's possible *in principle* for intelligent minds to be much more data-efficient than modern AIs are. If AI labs "run out" of data when it comes to making LLMs better, that will slow them down for only as long as it takes to invent new methods that are more data-efficient.
 
-**Probably not.**
+Humans also use power much more efficiently than AIs. We run on 100 watts, which is proof that there's no fundamentalobstacle to general intelligences that run on about as much power as a large light bulb. Not only has leading AI hardware been getting [40 percent more energy-efficient each year](https://epoch.ai/data-insights/ml-hardware-energy-efficiency), but algorithmic improvements mean that, by [one 2024 estimate](https://arxiv.org/abs/2403.05812), over the years 2012 to 2023, "the compute required to reach a set performance threshold has halved approximately every 8 months."
 
-### Data Efficiency
+Remember that the field of AI has existed for far longer than the LLM architecture has, and it's pretty good at coming up with new architectures that surmount obstacles. And more generally, when humanity has put its best minds and resources to something known to be possible, it has a [pretty](https://en.wikipedia.org/wiki/Manhattan_Project) [strong](https://en.wikipedia.org/wiki/Apollo_program) [track](https://en.wikipedia.org/wiki/Smallpox#Eradication) [record](https://en.wikipedia.org/wiki/Human_Genome_Project) of success.
 
-Humans demonstrate that intelligent minds can operate with far greater data efficiency than current AIs. If data becomes a bottleneck for improving LLMs, the field will develop more data-efficient methods, as it has historically overcome other obstacles.
+With skilled AI researchers now routinely commanding seven-figure salaries (or [nine figures](https://www.wired.com/story/mark-zuckerberg-meta-offer-top-ai-talent-300-million/), for top leadership roles) and annual private investment in AI now measured in the [hundreds of billions of dollars](https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence), it looks like the talent and resources will be there to overcome anticipated bottlenecks. See also our discussion of [the field's success at overcoming obstacles](/1/but-arent-there-big-obstacles-to-reaching-superintelligence#the-field-is-good-at-overcoming-obstacles).
 
-### Energy Efficiency
+#### Don't expect another "AI winter."
 
-Two factors suggest power won't be a limiting factor:
+People have been wrongly predicting an imminent "AI winter" for the [last](https://eugene.kaspersky.com/2016/09/09/the-artificial-artificial-intelligence-bubble-and-the-future-of-cybersecurity/) [decade](https://medium.com/hackernoon/is-another-ai-winter-coming-ac552669e58c) [now](https://medium.com/ux-management/the-next-ai-winter-a-journey-through-the-twilight-zone-of-technology-db41e71742a6). AI winters used to happen back in the 1970s through the 1990s, when AI funding was public and the public funders got sick of the lack of results. Because the AI of old did not, in fact, *produce* results.
 
-1. **Human baseline proof**: Humans operate on approximately 100 watts, demonstrating that general intelligence doesn't require massive energy consumption.
+Things have changed. ChatGPT was perhaps the fastest-adopted app *in history*, and it's printing money hand over fist. It generated $3.7 billion in revenue in 2024, with projections to generate $12.7 billion in 2025. It's spurred by private investment, and it's making enough money to attract the top talent in the world without any public source that could cut them off.
 
-2. **Rapid hardware and algorithmic improvements**: AI hardware has achieved "40 percent more energy-efficient each year." Between 2012-2023, computing requirements to reach performance targets "halved approximately every 8 months."
+It's still *possible* that AI techniques will hit some sort of wall, and that humanity will have a respite of some sort before superintelligence hits. But the old pattern of "AI winters" — of public funding, no results, and a decline — has been shattered.
 
-### Historical Track Record
+#### Notes
 
-The field has successfully navigated architectural challenges before. Humanity's pattern with major technical goals—from the Manhattan Project to space exploration to disease eradication—shows strong capacity for solving known problems with sufficient resources.
-
-### Funding and Talent
-
-Current investment levels appear sufficient:
-- Top AI researchers command seven-figure salaries (sometimes nine figures for leadership)
-- Annual private AI investment is measured in hundreds of billions
-- The field shows no signs of the "AI winters" that plagued earlier decades when public funding dried up
-
-### Why "AI Winters" Won't Recur
-
-Earlier AI funding cycles collapsed when public backers lost patience with lack of results. Today's landscape differs fundamentally:
-- ChatGPT achieved near-instantaneous mass adoption
-- The platform generated $3.7 billion in 2024 revenue with projections of $12.7 billion in 2025
-- Private investment sustains the field independent of public funders who might withdraw support
-
-**Conclusion**: While theoretical constraints could emerge, current evidence suggests talent, resources, and technical innovation will overcome anticipated bottlenecks.
+[1] *large light bulb:*As mentioned in a previous endnote:  McMurray et al.'s [paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC4535334/) gives an average basal metabolic rate (the minimum resting energy consumption) of about 0.863 kilocalories per hour per kilogram, which works out to about 1 watt per kg or about 60-80 watts for a human. That's only [60-80% of total energy expenditure](https://pmc.ncbi.nlm.nih.gov/articles/PMC2818133/), which — including physical activity — is about 100 watts.

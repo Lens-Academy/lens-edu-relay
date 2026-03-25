@@ -10,20 +10,16 @@ tags:
   - IABIED
   - work-in-progress
 ---
+#### In some respects, but not in every respect.
 
-## Isn't it impossible to predict the behavior of a superintelligence?
+Stockfish 17 is better at steering a chessboard than we are. If we played a chess match against Stockfish, we would not be able to predict its moves — doing so would require us to be at least as good at chess as Stockfish 17. But it would be easy for us to predict the winner of the match.[\*](#ftnt23) It's hard to predict what moves Stockfish will make; it's easy to predict that it will *win.*
 
-The authors argue that while exact moves may be unpredictable, outcomes are often foreseeable.
+So too with AIs that are predicting and steering the real world. The smarter they are, the harder it is to predict exactly what they do, but the easier it is to predict that they'll reach whatever destination they were steering toward.
 
-The authors use chess as an analogy: "It's hard to predict what moves Stockfish will make; it's easy to predict that it will win." Similarly, while superintelligent AIs' specific actions might be impossible to forecast precisely, their ability to reach intended destinations becomes more predictable as they grow smarter.
+[\*](#ftnt23_ref) This answer indicates an interesting epistemological state. When you believe that Stockfish is smarter than you at chess, your beliefs about the final outcome of the chess game are not fully captured by your best predictions about Stockfish's individual moves.
 
-The key insight involves an epistemological distinction—when something is demonstrably smarter than you at a task, your uncertainty about specific steps doesn't prevent confidence about final outcomes. The rules governing the domain remain fixed even when individual moves stay opaque.
+A philosopher of science might ask how that can possibly be the case, when the rules of chess are fully known and the outcome follows exactly from each exact move. The answer is that there's a vast logical structure of possible chess games, which in one sense is fully determined by the chess rules, but which is not fully known to you (nor even to Stockfish!) because your mind cannot visualize all the consequences that follow from the premise of the chess rules.
 
-### Extended Discussion Points
+A "smarter" chess-player can be viewed as knowing relatively more truths about this chess-possibility-space than you do; so when you see a surprising-to-you move from a "smarter" chess-player, that implies a new-to-you fact about those unknown consequences of the known rules of chess, which in turn weighs on your expectations about the game's outcome.
 
-- Intelligence functions as both prediction and steering capability
-- Greater intelligence correlates with better destination-achievement, even when intermediate steps remain mysterious
-- This principle applies broadly to AI systems optimizing toward particular goals
-- Current AI systems showcase this pattern: we cannot predict exact behaviors but can anticipate goal-directed outcomes
-
-The authors observe this epistemological principle remains underdeveloped in computer science literature, suggesting academia has historically overlooked frameworks for understanding superhuman intelligence dynamics.
+(One would expect the previous paragraphs to be a standard idea in computer science. To our surprise, it's not. Most of computer science, and indeed most of academia up until this point, has not been terribly interested in any ideas associated with superhuman intelligence.)

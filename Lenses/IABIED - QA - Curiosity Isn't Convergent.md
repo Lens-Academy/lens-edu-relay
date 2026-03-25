@@ -1,6 +1,8 @@
 ---
 id: 77ae7904-9a9d-4c33-92f1-a2b229f91f8d
+summary_for_tutor: Argues that curiosity is a specifically human solution to the problem of gathering information, not a universal feature of intelligence. An AI could achieve the same investigative function through value-of-information calculations without any emotional experience. Uses the titanium cube maximizer thought experiment to show that an AI with fixed goals would not voluntarily adopt human-like emotional architecture.
 title: "Curiosity Isn't Convergent"
+tldr: "Why Curiosity?"
 tags:
   - lens
   - IABIED

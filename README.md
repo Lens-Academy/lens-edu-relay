@@ -42,25 +42,25 @@ e.g. `Lens Educational Content/Modules/module.md`
 Required frontmatter: `slug`, `title`, `id`
 
 Any number of
-\# Lens: (inline with `id::` + segments, or referenced with `source::`)
+\# {--{"author":"AI","timestamp":1773948670812}@@Text Page:--}{++{"author":"AI","timestamp":1773948670812}@@Lens: (inline with `id::` + segments, or referenced with `source::`)++}
 \# Learning Outcome:
 
 Wiki-links must use relative paths (e.g. `[[../video_transcripts/...]]`) and targets must exist.
 
 Example:
 ```md
-# Lens: Welcome
-id:: <uuid>
-#### Text
-content::
+# {--{"author":"AI","timestamp":1773948670812}@@Text Page:--}{++{"author":"AI","timestamp":1773948670812}@@Lens: Welcome++}
+id::{++{"author":"AI","timestamp":1773948670812}@@ <uuid>++}
+{++{"author":"AI","timestamp":1773948670812}@@#### Text
+++}content::
 Lorum Ipsum
 
 # Learning Outcome:
 [[link to Learning Outcome note]]
 
-# Lens:
-optional:: true
-source:: [[link to Lens note]]
+# {--{"author":"AI","timestamp":1773948670812}@@Learning Outcome:--}{++{"author":"AI","timestamp":1773948670812}@@Lens:
+optional:: true++}
+{++{"author":"AI","timestamp":1773948670812}@@source:: ++}[[link to {--{"author":"AI","timestamp":1773948670812}@@2nd learning outcome--}{++{"author":"AI","timestamp":1773948670812}@@Lens++} note]]
 ```
 
 #### Learning Outcomes
@@ -87,15 +87,28 @@ Example:
 e.g. `Lens Educational Content/Lenses/lens.md`
 Required frontmatter: `id`
 
-Lenses are flat: frontmatter + H4 segments. No H3 section headers.
+{--{"author":"AI","timestamp":1773948682038}@@Valid section types: `Video`, `Article`, `Text`, `Chat`
 
-Valid segment types: `Text`, `Chat`, `Article`, `Video`, `Question`, `Roleplay`
+Any number of
+\### Video: or Article:
+\#### Text:
+\#### Video-excerpt or Article-excerpt:
+\#### Chat
 
-Article/Video segments carry a `source::` field (inherited from prior segment of same type).
+Each section type has required fields (see example below).
 
 Example:
 ```md
-#### Text
+### Video: or Article:
+source:: [[link to video_transcript or article note]]--}{++{"author":"AI","timestamp":1773948682038}@@Lenses are flat: frontmatter + H4 segments. No H3 section headers.
+
+Valid segment types: `Text`, `Chat`, `Article`, `Video`, `Question`, `Roleplay`
+
+Article/Video segments carry a `source::` field (inherited from prior segment of same type).++}
+
+{++{"author":"AI","timestamp":1773948682038}@@Example:
+```md
+++}#### Text
 content::
 Lorum Ipsum
 

@@ -1,6 +1,8 @@
 ---
 id: 36dea16d-1c96-4d1c-aec0-7c3f6ef25f32
+summary_for_tutor: "Covers why experimental bottlenecks would not limit a superintelligent AI. Intelligence trades off against needing experiments: sufficiently smart reasoners can extract answers from existing data, run parallel tests, build faster equipment, and develop hedged strategies. Uses the Human Genome Project and Einstein's relativity as historical precedents."
 title: "Won't AIs be limited by their ability to design and run experiments?"
+tldr: "Intelligence lets you learn more from experiments and run faster, more informative, more parallelized experiments."
 tags:
   - lens
   - IABIED

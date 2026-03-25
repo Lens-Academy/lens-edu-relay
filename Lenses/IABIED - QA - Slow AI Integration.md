@@ -1,6 +1,8 @@
 ---
 id: aa4ced0d-1111-4085-9f62-49bab9b1a8a3
+summary_for_tutor: "Covers why slow AI development would still end in catastrophe. The core difficulty is the Before/After transition: tricks that work on weaker AIs must generalize to ones powerful enough to seize control. Uses the dragon analogy to illustrate why controlling entities far more powerful than you inevitably fails regardless of pace."
 title: "What if AI is developed only slowly, and it slowly integrates with society?"
+tldr: "That scenario still ends in catastrophe."
 tags:
   - lens
   - IABIED

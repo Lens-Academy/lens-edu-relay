@@ -10,27 +10,16 @@ tags:
   - IABIED
   - work-in-progress
 ---
+#### Probably.
 
-## Is intelligence understandable in principle?
+Back before the days of biochemistry, you could have asked, "Is it even possible to understand this vital force that animates flesh? Even if it *is* made of comprehensible parts, why would you believe that our tiny little minds could comprehend what's really going on in there?"
 
-**Probably.**
+But there *was* plenty to understand; human scientists just didn't understand it yet. This story has repeated itself throughout the history of science.
 
-Back before the days of biochemistry, you could have asked, "Is it even possible to understand this vital force that animates flesh?" But scientists discovered plenty to comprehend. This story has repeated itself throughout the history of science.
+Also, various tiny parts of artificial neural networks have already been understood. A small neural network turns out to do addition in [an interesting way](https://cprimozic.net/blog/reverse-engineering-a-small-neural-network/). AIs sometimes say that 9.11 is greater than 9.9, and people have figured out that this is because they're thinking of dates rather than decimals.[\*](#ftnt49)
 
-### Existing Understanding
+But we can't answer questions much more complex than that. Nobody knows exactly why LLMs make the chess moves that they make; nobody knows precisely what causes them to occasionally [threaten and blackmail reporters](https://x.com/sethlazar/status/1626257535178280960). But that doesn't mean there's nothing to be known. When AIs work, they work for reasons; they operate too consistently across too many domains for it to just be chance. Those reasons are waiting to be understood.
 
-Some neural network components have already been decoded. A small neural network turns out to do addition in an interesting way. Researchers discovered why certain AIs incorrectly claim "9.11 > 9.9"—they're interpreting these as dates rather than decimals.
+For more on this topic, see the extended discussion titled "[Intelligence Isn't Ineffable](/2/intelligence-isnt-ineffable)."
 
-### Limitations Don't Negate Possibility
-
-Current inability to answer complex questions about language model decision-making doesn't prove understanding is impossible. "When AIs work, they work for reasons; they operate too consistently across too many domains for it to just be chance."
-
-### Why This Matters
-
-Understanding AI internals constrains what engineers can achieve. Currently, they're "stumbling over" solutions through optimization rather than purposeful design. This distinction between understanding the *training process* versus understanding the *trained system itself* proves crucial.
-
-### The Interpretability Challenge
-
-Mechanistic interpretability research remains nascent—receiving roughly 0.1% of AI capability-building resources. While achievements exist, the field has achieved perhaps 1/50th to 1/5,000th of necessary progress for addressing major AI problems.
-
-Human engineers cannot yet read out individual number meanings from modern AIs the way they could with Deep Blue, the chess program IBM built decades ago.
+[\*](#ftnt49_ref) For that matter, when small neural networks malfunctioned in the 1980s, researchers would sometimes print out the entire model's weights on paper and study them until they figured out that (for example) the model was [getting stuck in a local equilibrium](https://x.com/layer07_yuxi/status/1956374217517088842?t=97elAlXBwpSG-fQirRcn4Q). Back when AIs were small enough to be understood, nobody argued that there was nothing there to understand.

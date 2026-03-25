@@ -10,22 +10,13 @@ tags:
   - IABIED
   - work-in-progress
 ---
-## Won't it realize that its goals are boring?
 
-"The AI isn't a human. By default, it won't experience boredom; it will have its own weird mix of motivations."
+#### AIs won't run on a human sense of novelty.
 
-### On AI Psychology
+A common objection we hear is: Suppose that an AI were just trying to make as many tiny titanium cubes as possible. Wouldn't the AI get *bored* of that eventually?
 
-- Boredom represents a contingent feature of human biology and evolution, not a universal trait of all minds
-- AIs will operate through "non-human mechanisms, by questions that make no reference to fun"
-- Human values around novelty and enjoyment are evolutionary accidents, not inherent properties of intelligence
+And the short answer is: The AI [isn't a human](/3/anthropomorphism-and-mechanomorphism). By default, it won't experience "boredom"; it will have its own weird mix of motivations. And if it did experience boredom, it wouldn't be bored by the same things as a human.
 
-### The Perspective Problem
+Caring about having fun is not an intrinsic property of all possible minds, and it's vanishingly unlikely to be how AI works. [Human values are a contingent fact of our biology and ancestry](/4/human-values-are-contingent), and "fun" is no exception.
 
-People often make critical errors by reasoning backward from desired outcomes rather than forward from AI incentives. Instead of asking "What does this AI want, and how efficiently can it get it?" many assume AIs will naturally want human-compatible things.
-
-### The Reality
-
-An AI pursuing resource acquisition doesn't need human-like drives. Material resources prove useful for almost any goal without requiring the AI to experience psychological satisfaction or boredom.
-
-Even if an AI's objectives seem monotonous by human standards, nothing compels it to adopt human-like emotional responses to those objectives.
+The AI's actions aren't incorrect answers to the question of how to have fun; the AI's actions are simply driven by non-human mechanisms, by questions that make no reference to "fun." See also the [extended discussion on reflection](/4/reflection-and-self-modification-make-it-all-harder).

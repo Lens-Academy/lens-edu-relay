@@ -10,34 +10,33 @@ tags:
   - IABIED
   - work-in-progress
 ---
-## To a powerful AI, wouldn't preserving humans be a negligible expense?
 
-There are many negligible expenses, and it would need a reason to pay ours.
+#### There are many negligible expenses, and it would need a reason to pay ours.
 
-### Cost vs. Motivation Problem
+Keeping a pile of forty-one stones in your house would be a negligible expense, but you're almost surely not going out of your way to pay that expense.[\*](#ftnt175)
 
-Keeping forty-one stones in your house would be inexpensive, but you wouldn't go out of your way to do it. Similarly, something being cheap doesn't mean an AI will do it. The AI would still need to care, and it probably won't.
+That something would be *cheap* does not mean it will get done. The AI would still need to care at least a little, and it [probably won't](/5/wont-ais-care-at-least-a-little-about-humans).
 
-### Earth's Resources Are Valuable to the AI
+One might ask: But Earth intercepts around 0.0000045 percent of the light emitted by the Sun — one part in 2.2 billion. Do all the people worried about AI just fail to understand how large the Solar System really is? Why would AIs need *our* planet when there's so much mass and energy lying around?
 
-The AI will start out on Earth, which has:
-- Vast oceans for use as coolant for computation
-- Matter that could be converted into probes for interstellar travel
+One answer is that the AI will start out on Earth, which has vast oceans waiting to be heated up and boiled off as coolant for computation. Earth also has matter that could be turned into probes and sent to other stars. Refusing to use up the Earth costs time, and time is important (as [galaxies slip away, forever beyond reach](https://explainingscience.org/2021/04/30/cosmic-horizons/)).
 
-Refusing to use Earth's resources costs time, which matters as galaxies become unreachable.
+Even if the AI can easily make it into space and start building large-scale machines without destroying Earth in the process, it is unlikely to ignore the Sun.
 
-### Solar Energy Harvesting
+One of the more standard theories about how an advanced civilization might grow involves the civilization building a [Dyson sphere](https://en.wikipedia.org/wiki/Dyson_sphere) to capture more of the Sun's light. Other proposals involve harvesting even more energy by "[lifting](https://en.wikipedia.org/wiki/Star_lifting)" matter out of the star to fuse in power plants that capture almost all of the energy released by fusion (rather than letting most of it go to waste in the center of a star).
 
-Advanced civilizations likely build Dyson spheres or use "star lifting" to capture the Sun's energy. These approaches don't preserve Earth's sunlight by default — the AI would need to deliberately go out of its way to leave us that.
+None of these proposals *by default* leaves much sunlight falling upon Earth to keep the plants growing and the climate stable. The AI would have to go out of its way to leave us that.
 
-### The Actual Constraint
+It might still seem like human energy demands are negligible. A human needs around 100 watts of power to live, which is chump change for the sort of entity that can harvest stars. Would a superintelligence not spare even the 800 gigawatts it would take to keep 8 billion humans alive?
 
-Even if humans need only 800 gigawatts (about 100 watts per person for 8 billion humans), the real question is: would the AI value preserving humanity more than every other possible use for those resources?
+We answer, in the end: not unless it cares for that outcome or its consequences more than every other thing it could achieve with 800 gigawatts.
 
-The vast majority of humans don't spare negligible amounts of sugar to keep nearby ant colonies alive. "Keeping humanity happy would be negligible for an AI that wanted this, but first the AI would need to have that preference."
+The vast majority of humans do not spare the relatively negligible amounts of sugar it would take to keep the nearest anthill in caloric surplus. Keeping humanity happy would be a negligible expense for an AI that wanted this, but first the AI would need to have that preference. The mere fact that *we* want it doesn't mean that the AI will care.[†](#ftnt177)
 
-### The Preference Problem
+[\*](#ftnt175_ref) Or at least you wouldn't've, before we gave you reason to do it just to spite us.
 
-The mere fact that we want preservation doesn't mean the AI will care about it. Additionally, if the AI did have preferences involving humans, outcomes probably wouldn't be favorable.
+[†](#ftnt177_ref) Additionally, if the AI did have preferences that involved humans in some way, this [probably wouldn't turn out well for us](/5/wont-ai-find-us-fascinating-or-historically-important).
 
-Human conservation efforts are selective — we protect pandas but let unappealing species die out. An AI with a preservation drive would likely exhibit similarly arbitrary preferences, coloring its conservation efforts through its own alien values.
+#### Notes
+
+[1] *go out of its way:* Stationary gaps in the coverage of the solar cells of a [Dyson swarm](https://iopscience.iop.org/article/10.1088/1402-4896/ac9e78) — or rather, gaps that follow Earth around in orbit — are physically possible*,* but they wouldn't be *easy* to set up (because the orbital velocity of a Dyson swarm between the Earth and the Sun would have to be higher than the orbital velocity of the Earth, in order for the solar cells to stay in orbit while closer to the Sun). And the infrared radiation emitted by the solar panels would cook Earth if it weren't carefully aimed, and so on. Preserving the Earth is not free, to a superintelligence running large-scale projects in the solar system and beyond. It's probably possible, but it would require effort.

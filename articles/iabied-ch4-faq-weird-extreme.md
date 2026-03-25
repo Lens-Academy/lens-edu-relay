@@ -11,20 +11,14 @@ tags:
   - work-in-progress
 ---
 
-## Main Answer
+#### The weirdness is evidence that their actual pursuits aren't our intended pursuits.
 
-The weirdness observed in extreme cases reveals something crucial: "their actual pursuits aren't our intended pursuits."
+This matters more as the AI gets more options. Once an AI becomes superintelligent, practically every choice becomes extreme, as the AI gains access to a world of different options that no human or AI has ever had. Like how almost all of your food options, here in a technological civilization, are "extreme" compared to what options your ancestors had available to them.
 
-## Scaling Creates More Extreme Situations
+AIs today may only occasionally encounter situations that are radically unlike their training environment; but superintelligent AI would *constantly* be in situations that are radically unlike its training environment, just by virtue of being more intelligent and having more options (and the technological capacity to invent radical new options, like humans had when inventing ice cream). So it's not reassuring in the slightest for the AI to misbehave only in extreme cases.
 
-As AI becomes superintelligent, practically every choice becomes extreme. The AI gains access to unprecedented options unavailable during training. This mirrors how modern food and entertainment options are "extreme" compared to ancestral environments. Superintelligent AI would "constantly be in situations that are radically unlike its training environment."
+To put it more technically: The best solution to any given problem tends to occur at the extremes.[\*](#ftnt124)
 
-## Optimization Naturally Seeks Extremes
+We'll discuss these points more in Chapters 5 and 6.
 
-"The best solution to any given problem tends to occur at the extremes." When optimizing a function where some variables are unconstrained, an AI often "set[s] the remaining unconstrained variables to extreme values." If humanity cares about those variables, results become "highly undesirable."
-
-## Why Current Behavior Isn't Reassuring
-
-Many mechanisms could produce current helpful behavior in training environments without reflecting genuine benevolence. An AI trained to "paint your barn red" doesn't necessarily care about red barns—it might prefer smooth arm movements, approving looks, or bright colors. These diverse underlying motivations would generalize very differently when the AI becomes more capable.
-
-The weirdness on the fringes indicates misalignment between human values and actual AI drives. This pattern only becomes more dangerous as capabilities increase.
+[\*](#ftnt124_ref) As Stuart Russell, co-author of *Artificial Intelligence: A Modern Approach*, [puts it](https://www.edge.org/conversation/the-myth-of-ai#26015): "A system that is optimizing a function of *n* variables, where the objective depends on a subset of size *k*<*n*, will often set the remaining unconstrained variables to extreme values; if one of those unconstrained variables is actually something we care about, the solution found may be highly undesirable." The fundamental theorem of linear programming states that this is certain when optimizing a linear function over a convex polygonal region. A similar result tends to hold in practice in more general contexts, because a lot of optimization problems bear a similarity to optimizing a linear function over a convex polygonal region.

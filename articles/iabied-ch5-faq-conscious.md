@@ -10,10 +10,7 @@ tags:
   - IABIED
   - work-in-progress
 ---
-## Would smarter-than-human AI be conscious?
 
-"We're not sure. Our best guess is 'probably not.'"
+#### We're not sure. Our best guess is "probably not."
 
-The authors direct readers to Chapter 1 resources for definitions of consciousness and to Chapter 5's extended discussion "Effectiveness, Consciousness, and AI Welfare" for deeper analysis.
-
-The question of AI consciousness is treated as largely separate from the question of AI danger. Whether or not a superintelligent AI is conscious has little bearing on whether it poses an existential threat to humanity. An unconscious optimizer pursuing goals misaligned with human values would be just as dangerous as a conscious one.
+For our short answer to this question, and some disentangling of different definitions of "conscious," see the [answer](/1/are-you-saying-machines-will-become-conscious) in the Chapter 1 resources. For a longer and more in-depth answer, see "[Effectiveness, Consciousness, and AI Welfare](/5/effectiveness-consciousness-and-ai-welfare)" in the Chapter 5 extended discussion.

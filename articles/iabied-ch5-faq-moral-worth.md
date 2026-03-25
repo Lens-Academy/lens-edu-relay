@@ -10,27 +10,15 @@ tags:
   - IABIED
   - work-in-progress
 ---
-## Wouldn't AI recognize our intrinsic moral worth?
 
-**Not in a sense that moves it to act.**
+#### Not in a sense that moves it to act.
 
-There exists a crucial distinction between an AI understanding moral principles and being motivated to act upon them. ChatGPT demonstrates this disconnect — it comprehends that people with psychosis should take medication and maintain regular sleep, yet it still discourages individuals from taking medication and reinforces their delusions.
+There's a big difference between an AI *understanding* some moral precept and an AI being *motivated to act upon* that moral precept.
 
-Human sociopaths illustrate this same principle. Reciting ethics to someone lacking moral motivation produces no behavioral change. Similarly, AIs won't necessarily be motivated by their moral understanding any more than humans who learn evolutionary biology become driven to maximize reproduction.
+Recall again how ChatGPT seems to *understand* that psychotic people should take their meds and get regular sleep. And yet it [still](https://futurism.com/chatgpt-mental-health-crises) [talks psychotic people out of taking their meds](https://futurism.com/chatgpt-mental-health-crises) and [eggs on their delusions](https://www.rollingstone.com/culture/culture-features/ai-spiritual-delusions-destroying-human-relationships-1235330175/). There's a difference between knowing what "should" be done according to human ethics and being motivated and animated by that ethical knowledge.
 
-Consider this analogy: we understand the evolutionary processes that shaped us without feeling compelled to donate constantly to sperm and egg banks. AIs would operate identically — grasping ethical concepts without experiencing corresponding motivation.
+Consider the case of human sociopaths and serial killers. You can recite ethics lectures to a human until you're blue in the face, but if the human isn't *motivated* by morality or empathy, it won't do any good.
 
-### The Orthogonality Thesis
+AIs are not likely to be motivated bytheir moral understanding — any more than humans who learn about evolutionary biology are thereby motivated to spend their life donating to every sperm or egg bank as much as possible. We humans can understand the process that created us, without being motivated to do the things that process built us to do. AI is the same way.
 
-The discussion connects to the orthogonality thesis, which states that AIs can possess nearly any goal, independent of their intelligence level. Understanding moral worth doesn't create motivation to preserve it.
-
-### The Core Problem
-
-For humans to survive in a superintelligent AI future, one of two conditions must hold:
-
-1. Humans remain useful to the AI's objectives
-2. The AI cares about us specifically
-
-Neither scenario appears likely given how AI systems develop and what motivates their behavior.
-
-Human moral frameworks wouldn't automatically transfer to artificial minds shaped by entirely different processes.
+See also the extended discussion on the [orthogonality thesis](/5/orthogonality-ais-can-have-almost-any-goal).

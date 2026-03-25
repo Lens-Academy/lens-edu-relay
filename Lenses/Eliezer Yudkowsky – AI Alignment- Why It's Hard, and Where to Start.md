@@ -1,5 +1,6 @@
 ---
 id: 85271748-4494-43ad-9c02-35319dacc9bd
+summary_for_tutor: "Covers why AI alignment is expected to be fundamentally difficult, using the 'optimize for smiles' fable to illustrate Goodhart's law, context disasters, and convergent instrumental strategies. Argues that hard optimization pushes solutions to weird edges of the solution space, that statistical safety guarantees break when capabilities change the distribution, and that patching undesired behaviors is futile against smarter systems. Frames alignment as requiring the rigor of cryptography and rocket science."
 title: "AI Alignment: Why It's Hard, and Where to Start"
 tldr: To guide a missile, we first had to invent calculus. AI alignment may require a similar leap — a mathematical framework for how powerful optimizers behave. This talk explains why intuition alone won't cut it, and why the field needs something closer to a science of alignment before we can trust the trajectory.
 tags :

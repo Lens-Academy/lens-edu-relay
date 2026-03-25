@@ -1,5 +1,6 @@
 ---
 id: ace55d5a-2265-442c-a9d3-e8b6106a9078
+summary_for_tutor: "Covers the concept of a temporary window where AI is capable enough to assist with safety research but not yet powerful enough to be uncontrollable. The theory of change relies on differential progress: safety advances must outpace capability advances before superintelligence is reached."
 title: AI for AI safety
 tldr: There may be a window where AI is smart enough to help with safety research but not yet powerful enough to be uncontrollable. This article explores the idea of using AI to strengthen our safety tools before models outpace our ability to oversee them — a race between two feedback loops.
 tags:

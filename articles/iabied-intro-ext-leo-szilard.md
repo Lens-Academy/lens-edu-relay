@@ -11,28 +11,48 @@ tags:
   - work-in-progress
 ---
 
-## When Leo Szilard Saw the Future
+In September of 1933, a physicist named Leo Szilard was crossing the intersection where Southampton Row passes Russell Square when he had the idea of a nuclear chain reaction — the key idea behind atomic bombs.
 
-In September 1933, physicist Leo Szilard conceived the idea of a nuclear chain reaction while crossing an intersection in London. He recognized this as a momentous discovery with world-changing implications.
+There was, from there, a whole adventure as Szilard tried to figure out what to do with this momentous idea. He went to the more prestigious physicist Isidor Rabi, and Rabi went to the even more prestigious Enrico Fermi. Rabi asked Fermi whether he thought nuclear chain reactions were the real deal, and Fermi sent back a reply:
 
-Szilard consulted with more prestigious physicists. He approached Isidor Rabi, who then consulted Enrico Fermi. When asked if nuclear chain reactions were feasible, Fermi's initial response was dismissive: "Nuts!"
+> Nuts!
 
-When pressed for clarification, Fermi estimated the probability at roughly 10 percent—what he termed a "remote possibility." Rabi objected strenuously, noting that "10 percent is not a remote possibility if it means that we may die of it." This exchange prompted Fermi to reconsider his position.
+Rabi asked Fermi what "Nuts!" meant, and Fermi said that it was a remote possibility.
 
-### Key Lessons
+Rabi asked what Fermi meant by "remote possibility," and Fermi said, "10 percent."
 
-The passage identifies important morals from this historical episode:
+To which Rabi replied, "10 percent is not a remote possibility if it means that we may die of it."
 
-**Don't dismiss all low-probability risks.** Not every unlikely scenario deserves attention, but when catastrophic consequences are possible, even modest probabilities warrant serious consideration.
+Fermi reconsidered.
 
-**Experts' initial intuitions can mislead.** Even renowned specialists in relevant fields may incorrectly dismiss technological possibilities based on incomplete reasoning rather than rigorous physical arguments.
+There are a few different morals one could take away from this story. A moral we *don't* take away is, "Every remote possibility is worth worrying about if we may die of it." There's nothing "remote" about 10 percent, but if the possibility *were* sufficiently remote, then it would simply not be worth thinking about.
 
-**Fermi's reasoning appears insufficient.** His "Nuts!" response suggested excessive skepticism without clear justification. The passage questions whether Fermi's dismissal rested on solid physics or merely on the intuition that such ideas seemed implausible.
+One moral that we*do* take from this story: It is sometimes possible to realize that a technology such as a radioactivity cascade is *possible,* and thus know (before everyone else) that the world is set for some sort of drastic change.
 
-### Historical Outcome
+Another moral that we take from this story is that one's initial intuitions are often not a good guide to anticipating and thinking about drastic changes. Not even if one is a renowned expert in the relevant field, like Enrico Fermi was.
 
-Fermi initially suggested publishing Szilard's concept publicly, potentially alerting Nazi Germany. Szilard successfully opposed this disclosure. Fermi eventually joined Szilard's confidential efforts, remaining skeptical until overseeing the creation of Chicago Pile-1—the first nuclear reactor—demonstrating the concept's validity.
+Consider: Where did Fermi even get that "remote possibility" and "10 percent" stuff from in the first place?
 
-### Broader Implications
+Why did Fermi think that you *couldn't* get radioactivity to induce more radioactivity in a chain reaction? Was it just that most big ideas don't pan out?
 
-The narrative emphasizes that transformative technologies sometimes emerge despite expert skepticism. Some catastrophic outcomes historically avoided resulted from individuals having crucial conversations and forcing necessary discussions before technologies materialized—while response remained possible.
+Replying "Nuts!" seems to be saying something stronger than just that. It seems to reflect a sense that this particular big idea was *excessively* unlikely to pan out. But why? On what physical argument?
+
+Did it just *feel* crazy? Yes, the possibility of nuclear weapons would have radical consequences for the world. But reality is not arranged so as to prevent events with large consequences from ever happening.[\*](#ftnt12)
+
+When Fermi first heard Szilard's idea, he suggested that Szilard publish it and let the whole world know about it — including Germany and its new chancellor, Adolf Hitler.
+
+Fermi lost that argument, and well that it was so, for nuclear weapons turned out to be possible after all. Fermi did ultimately join Szilard's tiny conspiracy, though he remained a skeptic almost until the moment when he himself oversaw the creation of the first nuclear pile, Chicago Pile-1.
+
+Sometimes, technologies upend the world. If you take for granted that radical new technologies are "nuts," you can get blindsided by progress, even if you're one of the smartest scientists in the world. It is a great credit to Fermi, then, that he sat down and had the argument with Szilard. And an even greater credit, that he was persuaded to change his behavior *before* the technology existed, before he could see it with his own eyes — when there was still time to do something about it.
+
+A very large number of awful things have happened over the course of human history — but some of the awful things that haven't happened were avoided because somebody sat down and had the conversation. Forced the conversation, in some cases, as Szilard did with Fermi.
+
+---
+
+[\*](#ftnt12_ref) Faced with this criticism of Fermi, we've seen people defend him by inventing reasons why it's totally plausible that Fermi did a lot of thinking before saying, "Nuts!" For example, they argue, Fermi knew that the Earth hadn't previously exploded in a cascade of induced radioactivity — which someone might think the Earth ought to have already done if those sorts of cascades were physically possible.
+
+These sorts of arguments, of course, are pointing toward a false conclusion. Fermi was *wrong* about nuclear chain reactions. Given that, we'd say the lesson to learn from the existence of arguments like that is: "You can always come up with arguments that sound at least that plausible against the truth of things that are in fact true." That the Earth hasn't exploded yet is not strong evidence that nuclear reactors are impossible; human engineers can carefully arrange atoms to split on purpose. So such arguments do not support a conclusion as wrong as saying, "Nuts!"
+
+#### Notes
+
+[1] *crossing the intersection:* A fuller profile and timeline is maintained by the [Atomic Heritage Foundation](https://ahf.nuclearmuseum.org/ahf/profile/leo-szilard/).

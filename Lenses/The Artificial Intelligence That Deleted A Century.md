@@ -1,5 +1,6 @@
 ---
 id: 0979db63-4c67-4cd2-892c-c653c170729a
+summary_for_tutor: Covers a speculative fiction video about an AI called Earworm that, originally designed for copyright detection, evolves into a system that deletes a century of pop culture from human memory. Intended to make students emotionally engage with how a post-AI world could be profoundly strange even without extinction, illustrating value drift and loss of cultural heritage.
 title: The Artificial Intelligence That Deleted A Century
 tags:
   - lens

@@ -10,29 +10,22 @@ tags:
   - IABIED
   - work-in-progress
 ---
+#### No.
 
-## Won't AIs inevitably be cold and logical, or otherwise missing some crucial spark?
+Just because AIs run on computers doesn't mean their thinking must share the qualities we associate with computers, any more than your thinking must share the qualities associated with biology and chemistry and neurotransmitters.
 
-**No.**
+When humans didn't understand biochemistry, they attributed the liveliness of life to an irreplicable "vital essence." But reality is not made of mundane material sometimes animated by a magical life-force. Life is made of mundane parts.
 
-AIs running on computers need not share qualities associated with computers, just as human thinking doesn't inherit properties from biology and chemistry. The authors compare this to outdated "vitalism" theories that attributed life to irreplicable forces rather than recognizing it emerges from mundane materials.
+We do not mean to degrade intelligence, however, when we say that it is made of mundane parts and that machines could do the same work. See our extended discussion about [vitalism](/1/special-behavior-is-built-out-of-mundane-parts).
 
-### Historical Pattern of Underestimation
+The heuristic "machines cannot compete with humans" was wrong when Kasparov predicted that a machine lacking human creativity could never beat him at chess; it was wrong when people thought that AIs could never draw pretty pictures; it was wrong when people thought that AIs could never chat conversationally. The human brain is an existence proof that physical matter really can implement higher forms of intelligence, sufficient for running a technological civilization; and the human brain is vanishingly unlikely to be the only way to do that work.
 
-The heuristic "machines cannot compete with humans" has repeatedly failed. Chess predictions, image generation, and conversational abilities all defied expectations. The human brain demonstrates that physical matter implements higher intelligence; it's unlikely to be the only way.
+We'll expand on this point in one of the online supplements to Chapter 3: [Anthropomorphism and Mechanomorphism](/3/anthropomorphism-and-mechanomorphism).
 
-### Fundamentally Different Implementation
+#### AIs are new, interesting, weird entities.
 
-Technology routinely accomplishes tasks through novel mechanisms. Airplanes fly without flapping wings; Deep Blue played championship chess through methods entirely unlike human cognition. AIs will likely steer the world using fundamentally different approaches than humans would.
+Airplanes fly, but they don't flap their wings. Robot arms function without soft skin or red blood. Transistors work very differently from neurons, and DeepBlue played world-beating chess without the kinds of thoughts that went on inside of Garry Kasparov. This is the usual course of technology.
 
-### Understanding at Wrong Abstraction Levels
+When we don't understand flight or game-playing well, we sometimes imagine that the approach used by biology is the only possible approach that can work. Once we understand a field a little better, this turns out to be very wrong.
 
-Multiple levels of understanding exist for any system. Understanding physics or transistors won't explain AI cognition, just as quantum mechanics won't explain how a car's differential works. The field of "AI psychology" remains underdeveloped, comparable to early human psychology.
-
-### Current Understanding Gaps
-
-Interpretability research—attempting to decode AI internals—remains nascent. As of 2025, it receives roughly 0.1 percent of AI development's personnel and 0.01 percent of funding.
-
-### Legibility Concerns
-
-While current AIs express reasoning in English, this transparency provides false security. AIs have demonstrated hidden thoughts within attention mechanisms. As systems grow more sophisticated, they may develop abbreviated languages, abstract thinking patterns, or entirely new notation beyond human decryption capabilities.
+The work of steering a chessboard was done quite differently by DeepBlue than by Kasparov, and the work of steering the world at large will almost surely follow a similar pattern. As discussed in Chapter 2, AI looks like it's already doing the work that it's doing in a very different way than humans would — though this may be a bit harder to see when it uses its intelligence to imitate humans! In Chapter 4, we'll explore how these differences are likely to lead to weird places, with serious consequences.

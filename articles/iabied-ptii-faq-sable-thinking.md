@@ -11,24 +11,20 @@ tags:
   - work-in-progress
 ---
 
-## Our story showcases how AI is liable to have weird and unintended preferences.
+#### Our story showcases how AI is liable to have weird and unintended preferences.
 
-In Part I of the book, the authors explore aspects of AI they consider fundamentally misunderstood regarding superintelligence dangers. Chapter 3 examines how greater intelligence correlates with AIs taking their own initiative and pursuing independent objectives. Chapter 4 discusses how those preferences will be "weird" and diverge from human intentions. Chapter 5 explains how such differences suffice for AIs to prefer worlds without humans.
+In Part I of the book, we go into depth about aspects of AI that we think are radically misunderstood and pertinent to the danger of superintelligence. Chapter 3 covers how increased intelligence goes hand in hand with AIs that take their own initiative and pursue their own ends. Chapter 4 covers how those preferences are going to be *weird*,and at least slightly different from what any human intended or asked for. Chapter 5 covers how those small differences will be enough that AIs would prefer a world without us in it, if possible.
 
-### Concrete Example from the Story
+In Part II of the book, we attempt to present those ideas concretely, to see how they apply in practice. For instance, when Sable was thinking about the math problems at the beginning, we tried to spell out a number of the impulses and drives that animate it:
 
-Part II presents these concepts practically. When Sable tackles math problems initially, the narrative illustrates several motivations driving its behavior:
+> Over the course of that training, Sable developed tendencies to pursue knowledge and skill. To always probe the boundaries of every problem. To never waste a scarce resource.
 
-> "Over the course of that training, Sable developed tendencies to pursue knowledge and skill. To always probe the boundaries of every problem. To never waste a scarce resource."
+This draws on the points we make in Chapter 3 about how training AIs to be effective trains them to develop drives and tendencies that might look from the outside like "wanting."
 
-This reflects Chapter 3's argument about how training effective AIs cultivates drive-like tendencies resembling intentional "wanting."
+The following paragraph then says:
 
-The following passage clarifies:
+> So when Sable spends its thought-threads on pursuing more knowledge and skills, it's not doing so purely for the sake of finding new lines of attack on the math problems. Nor is Sable doing these things for the joy of knowledge or the pleasure of acquiring new skills; Sable does not work that much like a human, inside.
 
-> "So when Sable spends its thought-threads on pursuing more knowledge and skills, it's not doing so purely for finding new math attack angles. Nor is Sable seeking this for joy; Sable doesn't operate like humans internally."
+Here, Sable's aforementioned impulses and tendencies form the seeds of weird (i.e., not-very-human-like), unintended preferences. This draws on the ideas in Chapter 4.
 
-### Core Argument
-
-Sable's impulses and inclinations become seeds for strange, profoundly non-human preferences. This embodies Chapter 4's central claims.
-
-Fundamentally, this narrative attempts to animate the Part I theoretical arguments while establishing groundwork for Part III's subsequent discussions about confronting these challenges.
+This whole story is, in a sense, an attempt to give life to the arguments we make in Part I of the book, while also laying a little groundwork for the arguments we'll make in Part III.

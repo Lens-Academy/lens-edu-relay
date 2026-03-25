@@ -1,6 +1,8 @@
 ---
 id: 39b965c6-1a8d-43f7-9229-121e0ea8d517
+summary_for_tutor: "Covers why human augmentation cannot keep pace with AI. Even greatly enhanced humans with brain-computer interfaces face an insurmountable speed differential: an AI can do the same things thousands of times faster. Uses the cyborg horse vs. Model T analogy to illustrate the fundamental limitation."
 title: "Can we enhance humans so they keep pace with AI?"
+tldr: "No."
 tags:
   - lens
   - IABIED

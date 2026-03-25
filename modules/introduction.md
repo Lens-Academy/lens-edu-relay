@@ -11,14 +11,14 @@ content::
 We begin by examining the potential of AI and the risks and opportunities that the characteristics of this technology present to humanity. 
 
 # Learning Outcome:
-source:: ![[../Learning Outcomes/Unknown intro outcome 1]]
+source:: [[../Learning Outcomes/Unknown intro outcome 1]]
 # Learning Outcome:
-source:: ![[../Learning Outcomes/Objections L1 - Realize objections and rebuttals exist]]
+source:: [[../Learning Outcomes/Objections L1 - Realize objections and rebuttals exist]]
 
 # Lens:
 optional:: true
-source:: ![[../Lenses/Four Background Claims]]
+source:: [[../Lenses/Four Background Claims]]
 
 # Lens:
 optional:: true
-source:: ![[../Lenses/Worst-Case Thinking]]
+source:: [[../Lenses/Worst-Case Thinking]]

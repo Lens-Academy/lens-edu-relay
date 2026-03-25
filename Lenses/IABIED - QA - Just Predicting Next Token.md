@@ -1,6 +1,8 @@
 ---
 id: 71d3ce4e-68ce-401e-9f56-9f28fb8fe880
+summary_for_tutor: "Argues that next-token prediction actually requires understanding the world: accurately predicting a physicist's novel answer requires reasoning at that level. Notes that modern AIs go beyond pure prediction, using reinforcement learning for task completion. Even pure prediction training would likely induce steering behavior since predicting complex reality requires directing attention strategically."
 title: "Aren't AIs just predicting the next token?"
+tldr: "Predicting tokens requires understanding the world."
 tags:
   - lens
   - IABIED

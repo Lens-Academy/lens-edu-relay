@@ -1,6 +1,8 @@
 ---
 id: a529f564-5ba0-4aec-909d-5e0021314c74
+summary_for_tutor: Covers why a superintelligent AI is unlikely to simply leave humanity alone. Argues that complex preferences are generally insatiable, even narrowly focused AIs would spend resources defending their goals, and the chimpanzee analogy shows how incidental resource use can destroy less powerful species without malice.
 title: "Can the AI be satisfied to just leave us alone?"
+tldr: "Probably not."
 tags:
   - lens
   - IABIED

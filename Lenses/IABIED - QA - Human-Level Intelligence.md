@@ -1,6 +1,8 @@
 ---
 id: 7baab38c-d1b4-4a88-85eb-dd7952de417e
+summary_for_tutor: "Defends 'human-level intelligence' as a useful concept by pointing to the civilization threshold: whatever allowed humans to build technological civilization while chimpanzees could not. Introduces the distinction between superhuman AI (exceeding top human performance across wide task ranges) and superintelligent AI (vastly surpassing all human capability)."
 title: "Is 'human-level intelligence' a meaningful concept?"
+tldr: "Yes, in many cases."
 tags:
   - lens
   - IABIED
