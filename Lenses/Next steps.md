@@ -14,7 +14,7 @@ There are many different directions in this field, and many different roles a pe
 
 You have only just encountered this field, so it is too early to expect from yourself a full career plan. But you already know more than you did before. And what stands between you and a better sense of what contribution you might make is usually not immediate commitment, but deeper understanding.
 
-Even the answerI do not want to work on this, can be thoughtful and well-grounded. But to reach that point honestly, it helps to ask: what exactly is missing for me right now to make that decision? Is it information? Is it skills? Is it confidence, motivation, community, or something else?
+Even the answer "I do not want to work on this" can be thoughtful and well-grounded. But to reach that point honestly, it helps to ask: what exactly is missing for me right now to make that decision? Is it information? Is it skills? Is it confidence, motivation, community, or something else?
 
 This final block is meant to help you begin answering that question.
 ***
