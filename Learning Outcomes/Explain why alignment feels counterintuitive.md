@@ -11,4 +11,4 @@ tags:
 
 ## Lens:
 optional:: false
-source:: [[../Lenses/6 reasons why alignment-is-hard]]
+source:: [[../Lenses/6 reasons why it's not intuitive that alignment is hard]]
