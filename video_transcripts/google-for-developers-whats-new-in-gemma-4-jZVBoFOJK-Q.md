@@ -5,6 +5,10 @@ url: "https://www.youtube.com/watch?v=jZVBoFOJK-Q"
 video_id: "jZVBoFOJK-Q"
 ---
 
-*Transcript processing failed.* You can resubmit this video from the Add Video page.
+*This transcript is being processed.*
 
-Failed at: 2026-04-03T19:20:18.016Z
+**418 words** — estimated processing time: **~1 minutes**.
+
+If you submitted multiple videos, they share a pool of 3 concurrent sessions and will be processed as capacity allows.
+
+Queued at: 4/3/2026, 7:31:22 PM
