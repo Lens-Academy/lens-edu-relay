@@ -1,7 +1,7 @@
 ---
 id: 9899891d-b7c6-436b-b48a-f691e0994dcf
 slug: machine-god
-title: "Machine God, by the book: *If Anyone Builds It, Everyone Dies*"
+title: "Machine God"
 description: "This is an introductory AI safety course that assumes no prior knowledge of AI safety, or even computer science. We hope this course can serve as deep foundation for expanding knowledge into the student's areas of interest: technical AI safety, governance, or direct advocacy. In particular, it provides the base-level intuitions that motivate our main AI safety course, which is more ambitious in technical terms (for example, by asking the students to assess the various existing AI safety techniques)."
 tags:
   - work-in-progress
