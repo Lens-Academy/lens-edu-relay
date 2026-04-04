@@ -4,7 +4,6 @@ channel: "Google for Developers"
 url: "https://www.youtube.com/watch?v=jZVBoFOJK-Q"
 video_id: "jZVBoFOJK-Q"
 ---
-:)
 Hi, my name is Olivier, and I'm a group product manager on the Gemma team. Since we launched our first models, the developer community has absolutely blown us away. Over 400 million downloads, over 100,000 variants. You've built a vibrant ecosystem around Gemma and we could not be more grateful.
 
 We've listened very closely to what you wanted next, and today we are thrilled to announce Gemma 4. Built from the same world-class research and technology behind Gemini 3, Gemma 4 is our family of open models, designed to run directly on the hardware you own, phone, laptops and desktop. For the first time ever, we are releasing Gemma under an open source Apache 2.0 license.
