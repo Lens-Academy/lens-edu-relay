@@ -33,6 +33,7 @@ source:: [[../Lenses/collapsed article text test]]
 source:: [[../Lenses/Trial question and roleplay]]
 
 # Lens: AI Chronicles
+id:: 78f01af3-e5cb-4f79-8f00-aed5a26b25bc
 
 #### Embed
 url:: https://chronicle.torchbearer.community/
