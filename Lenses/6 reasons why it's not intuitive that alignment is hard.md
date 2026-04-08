@@ -6,6 +6,8 @@ tldr: Why do arguments about AI risk often feel off, even to people who take tec
 tags: test, lens
 hoi:
   - hello
+  - foo
+  - bar
 ---
 
 #### Text
