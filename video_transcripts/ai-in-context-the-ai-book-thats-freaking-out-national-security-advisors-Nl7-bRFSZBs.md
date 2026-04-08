@@ -2,7 +2,7 @@
 title: "The AI book that's freaking out national security advisors"
 channel: "AI In Context"
 url: "https://www.youtube.com/watch?v=Nl7-bRFSZBs"
-video_id: "Nl7-bRFSZBs"
+
 ---
 
 In the year 2000, a 21-year-old middle school dropout named Eliezer Yudkowsky set out to build machines smarter than any human being who had ever lived. By 2003, he was convinced that if anyone succeeded at doing so, everyone on Earth would die. Recently, he and a colleague Nate Soares wrote a book and it got some attention.
