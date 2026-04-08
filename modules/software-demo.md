@@ -24,8 +24,7 @@ And this should show a card:
 
 Let's see if that works!
 
-# Lens:
-source:: [[../Lenses/A.I. - Humanity's Final Invention]]
+
 
 # Lens:
 source:: [[../Lenses/collapsed article text test]]
@@ -40,9 +39,4 @@ height:: 700px
 
 # Lens:
 source:: [[../Lenses/Kurzgesagt software demo]]
-
-# Learning Outcome:
-source:: [[../Learning Outcomes/Demo LO]]
-
-
 
