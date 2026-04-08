@@ -4,7 +4,7 @@ summary_for_tutor: "Covers why human cognitive biases make AI risk arguments fee
 title: 6 reasons why it's not intuitive that alignment is hard
 tldr: Why do arguments about AI risk often feel off, even to people who take technology seriously? This article identifies six ways our evolved intuitions lead us astray — from assuming smart things will share our common sense to underestimating how different an optimizer's reasoning can be from our own.
 tags     :
-- lens
+ - lens
   - foo
 hoi:
   - hello
