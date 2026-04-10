@@ -11,7 +11,8 @@ tags:
 #### Text
 content::
 
-This is a place to start listing common objections to AI Safety / AIx / ASIx, which can become a full learni
+This is a place to start listing common objections to AI Safety / AIx / ASIx, which can become a full learning module or even a full course over time.
+See some (very brief) 
 
 \### Objection:
 ....
