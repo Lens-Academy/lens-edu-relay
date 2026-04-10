@@ -5,5 +5,7 @@ title: Common Objections to AI Safety and their Responses
 tldr: ...
 tags:
   - lens
-  - work-in
+  - work-in-progress
 ---
+
+
