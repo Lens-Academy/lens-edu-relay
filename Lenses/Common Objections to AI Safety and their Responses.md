@@ -11,7 +11,7 @@ tags:
 #### Text
 content::
 
-This is a place to start listing commen 
+This is a place to start listing common objections to AI Safety / AIx/ 
 
 \### Objection:
 ....
