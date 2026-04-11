@@ -20,14 +20,14 @@ description: A ~10-hour introductory course covering the landscape of superintel
 --}{++{"author":"AI","timestamp":1775909214312}@@ [[../modules/feedback-loops]]
 ++}# {--{"author":"AI","timestamp":1775909214312}@@Module: [[../modules/what-even-is-ai]]--}{++{"author":"AI","timestamp":1775909214312}@@(~1.5 hr)++}
 
-# Module: {--{"author":"AI","timestamp":1775909214312}@@[[../modules/feedback-loops]]--}{++{"author":"AI","timestamp":1775909214312}@@[[../modules/Cognitive Superpowers]]
-# (~2 hr — keep LOs: Intelligence as universal adaptive strategy, Understand the processing speed advantage, Cite examples of AI manipulation. Drop: Comply or else, Enumerate n competitive advantages machines have over humans.)++}
+# Module: {--{"author":"AI","timestamp":1775909317418}@@[[../modules/feedback-loops]]--}{++{"author":"AI","timestamp":1775909317418}@@[[../modules/Cognitive Superpowers - 101]]
+# (~1 hr)++}
 
-# Module: {--{"author":"AI","timestamp":1775909214312}@@[[../modules/Cognitive Superpowers]]--}{++{"author":"AI","timestamp":1775909214312}@@[[../modules/Fundamental Difficulties]]
-# (~2.5 hr — keep LOs: Explain the fundamental difficulties of AI alignment, Explain why alignment feels counterintuitive, Explain the emergence of powerseeking, Explain why default outcome is bad. Drop: Explain sharp left turn dynamics, Explain causal definition of agency, Explain how agency can emerge from advanced prediction, Explain a coordination failure driven by multipolar incentives.)++}
+# Module: {--{"author":"AI","timestamp":1775909317418}@@[[../modules/Cognitive Superpowers]]--}{++{"author":"AI","timestamp":1775909317418}@@[[../modules/Fundamental Difficulties - 101]]
+# (~2.5 hr)++}
 
-# Module: [[../modules/Existing approaches]]{--{"author":"AI","timestamp":1775909214312}@@ (keep just the AF one)--}{++{"author":"AI","timestamp":1775909214312}@@
-# (~0.75 hr — keep Agent Foundations only)++}
+# Module: [[../modules/Existing {--{"author":"AI","timestamp":1775909317418}@@approaches]] (keep just the AF one)--}{++{"author":"AI","timestamp":1775909317418}@@Approaches - AF]]
+# (~0.75 hr)++}
 
 # Module:{--{"author":"AI","timestamp":1775909214312}@@  --}{++{"author":"AI","timestamp":1775909214312}@@ ++}[[../modules/Last module]]{++{"author":"AI","timestamp":1775909214312}@@
 # (~1.5 hr)++}
