@@ -7,7 +7,7 @@ title: Navigating Superintelligence
 
 # Module: [[../modules/introduction]]
 
-# Meeting: Introduction
+# Module:  [[../modules/Fundamental Difficulties]]
 
 # Module: [[../modules/what-even-is-ai]]
 
