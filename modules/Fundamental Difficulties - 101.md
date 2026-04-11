@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1775909668959}@@---
+{++{"author":"AI","timestamp":1775909676619}@@---
 id: d405955b-e524-44d2-80c5-9c88b8865a5d
 slug: fundamental-difficulties-101
 title: "Fundamental Difficulties"
@@ -7,7 +7,7 @@ tags:
   - module
 ---
 # Lens: Welcome
-id:: c3h5e4f6-1d9g-4b2c-e6i4-9g5h8f1d2e3f
+id:: e62c6e9d-1191-417b-a99a-546a5bb673b0
 #### Text
 content::
 The AI alignment problem currently has no proven solution. This module provides a unified picture of why achieving alignment is inherently challenging. Even with competent participants, the default outcome can be poor, as misalignment may emerge from the very structure of how we train AI systems.
