@@ -17,15 +17,8 @@ title: Navigating Superintelligence
 
 # Module: [[../modules/Cognitive Superpowers]]
 
-# Meeting: Cognitive Superpowers
-
-
-
-# Meeting: Fundamental Difficulties
 
 # Module: [[../modules/Existing approaches]]
-
-# Meeting: Existing Approaches
 
 # Module:  [[../modules/Last module]]
 
