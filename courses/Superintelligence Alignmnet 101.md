@@ -1,6 +1,6 @@
 _---
 id: 042413ee-f662-4bc8-bc80-03563e277fd5
-slug: affine-
+slug: superintelligence-ali
 slug-aliases: default
 title: Navigating Superintelligence
 ---
