@@ -1,5 +1,5 @@
-{++{"author":"AI","timestamp":1775909298210}@@---
-id: d4i6f5g7-2e0h-4c3d-f7j5-0h6i9g2e3f4g
+{++{"author":"AI","timestamp":1775909701093}@@---
+id: 5db32a2f-1535-4dde-ac2a-3003a205e34b
 discussion:
 learning-outcome: "Explain the Agent Foundations research agenda: its theory of change, core assumptions, and the primary arguments for and against it as an approach to AI alignment."
 tags:
