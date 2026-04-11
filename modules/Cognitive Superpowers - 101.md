@@ -1,5 +1,5 @@
-{++{"author":"AI","timestamp":1775909274195}@@---
-id: a1f3c2e4-8b7d-4e9a-b3f1-6d2e5c8a9b0c
+{++{"author":"AI","timestamp":1775909645166}@@---
+id: 6ff45ca9-d213-4348-9c7c-88907262263b
 slug: cognitive-superpowers-101
 title: Cognitive Superpowers
 description: Trimmed version for Superintelligence Alignment 101. One LO only.
