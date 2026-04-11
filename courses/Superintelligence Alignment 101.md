@@ -12,12 +12,14 @@ title: Navigating Superintelligence
 # Module:  [[../modules/Fundamental Difficulties]]
 
 
+
+
 # Module: [[../modules/what-even-is-ai]]
 
 # Module: [[../modules/feedback-loops]]
 
 # Module: [[../modules/Cognitive Superpowers]]
 
-# Module: [[../modules/Existing approaches]]
+# Module: [[../modules/Existing approaches]] (keep just the)
 
 # Module:  [[../modules/Last module]]
