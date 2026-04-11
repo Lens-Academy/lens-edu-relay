@@ -13,13 +13,8 @@ title: Navigating Superintelligence
 
 # Module: [[../modules/feedback-loops]]
 
-# Meeting: AI and Feedback Loops
-
 # Module: [[../modules/Cognitive Superpowers]]
-
 
 # Module: [[../modules/Existing approaches]]
 
 # Module:  [[../modules/Last module]]
-
-# Meeting: What do we do next?
