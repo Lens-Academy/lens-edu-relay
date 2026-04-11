@@ -1,5 +1,5 @@
-{++{"author":"AI","timestamp":1775909290926}@@---
-id: b2g4d3e5-0c8f-4a1b-d5h3-8f4g7e0c1d2e
+{++{"author":"AI","timestamp":1775909668959}@@---
+id: d405955b-e524-44d2-80c5-9c88b8865a5d
 slug: fundamental-difficulties-101
 title: "Fundamental Difficulties"
 discussion: https://discord.com/channels/1440725236843806762/1467932217312547019
