@@ -1,5 +1,5 @@
-{++{"author":"AI","timestamp":1775909308001}@@---
-id: e5j7g6h8-3f1i-4d4e-g8k6-1i7j0h3f4g5h
+{++{"author":"AI","timestamp":1775909685221}@@---
+id: 67040104-ab3c-4b36-be03-cdecd33ff1c0
 slug: existing-approaches-af
 title: "Existing Approaches: Agent Foundations"
 tags:
