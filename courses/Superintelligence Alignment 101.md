@@ -20,6 +20,6 @@ title: Navigating Superintelligence
 
 # Module: [[../modules/Cognitive Superpowers]]
 
-# Module: [[../modules/Existing approaches]] (keep just the)
+# Module: [[../modules/Existing approaches]] (keep just the AF one)
 
 # Module:  [[../modules/Last module]]
