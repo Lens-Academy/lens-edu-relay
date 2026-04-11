@@ -27,7 +27,6 @@ description: A ~10-hour introductory course covering the landscape of superintel
 # (~2.5 hr)++}
 
 # Module: [[../modules/Existing {--{"author":"AI","timestamp":1775909317418}@@approaches]] (keep just the AF one)--}{++{"author":"AI","timestamp":1775909317418}@@Approaches - AF]]
-# (~0.75 hr)++}
+# (~0.75 hr)++}{--{"author":"AI","timestamp":1775910572820}@@
 
-# Module:{--{"author":"AI","timestamp":1775909214312}@@  --}{++{"author":"AI","timestamp":1775909214312}@@ ++}[[../modules/Last module]]{++{"author":"AI","timestamp":1775909214312}@@
-# (~1.5 hr)++}
+# Module:  [[../modules/Last module]]--}
