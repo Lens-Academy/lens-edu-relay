@@ -19,7 +19,7 @@ title: Navigating Superintelligence
 
 # Meeting: Cognitive Superpowers
 
-# Module:  [[../modules/Fundamental Difficulties]]
+
 
 # Meeting: Fundamental Difficulties
 
