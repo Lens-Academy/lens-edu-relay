@@ -31,8 +31,4 @@ source:: [[../Learning Outcomes/Explain why alignment feels counterintuitive]]
 
 # Learning Outcome:
 optional:: false
-source:: [[../Learning Outcomes/Explain {--{"author":"AI","timestamp":1776018778289}@@the emergence of powerseeking]]
-
-# Learning Outcome:
-optional:: false
-source:: [[../Learning Outcomes/Explain --}why default outcome is bad - 101]]
+source:: [[../Learning Outcomes/Explain why default outcome is bad - 101]]
