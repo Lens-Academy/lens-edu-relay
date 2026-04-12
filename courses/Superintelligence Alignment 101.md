@@ -10,7 +10,7 @@ description: A ~10-hour introductory course covering the landscape of superintel
 # (~1 hr)--}
 
 # Module: [[../modules/AI, Optimization, Superintelligence]]{--{"author":"AI","timestamp":1776003575982}@@
-# (~2 hr — placeholder, content TBD)--}
+# (~2 hr — placeholder, content TBD{--{"author":"Mateusz","timestamp":1776003578084}@@)--}--}
 
 # Module: [[../modules/feedback-loops]]{--{"author":"AI","timestamp":1776003575982}@@
 # (~1.5 hr)--}
