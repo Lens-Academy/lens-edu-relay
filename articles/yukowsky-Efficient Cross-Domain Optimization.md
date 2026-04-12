@@ -2,13 +2,15 @@
 title: "Efficient Cross-Domain Optimization"
 source: "https://www.lesswrong.com/posts/yLeEPFnnB9wE7KLx2/efficient-cross-domain-optimization"
 author:
-  - "[[Eliezer Yudkowsky]]"
+  - "Eliezer Yudkowsky"
 published: 2008-10-28
 created: 2026-04-12
 description: "Previously in series:  Measuring Optimization Power …"
 ---
 
 **Previously in series**: [Measuring Optimization Power](https://www.lesswrong.com/lw/va/measuring_optimization_power)
+
+hello world
 
 Is Deep Blue "intelligent"? It was powerful enough at optimizing chess boards to defeat Kasparov, perhaps the most skilled chess player humanity has ever fielded.
 
