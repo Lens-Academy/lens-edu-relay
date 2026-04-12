@@ -17,4 +17,4 @@ description: A ~10-hour introductory course covering the landscape of superintel
 
 # Module: [[../modules/Existing Approaches - AF]]
 
-# Meeting: 
+# Meeting: AFFINE Fellowship
