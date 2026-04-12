@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1775909798544}@@---
+---
 id: 6ff45ca9-d213-4348-9c7c-88907262263b
 slug: cognitive-superpowers-101
 title: Cognitive Superpowers
@@ -13,4 +13,3 @@ In this module, we explore the ways in which intelligence gives agents power ove
 
 # Learning Outcome:
 source:: [[../Learning Outcomes/Intelligence as a universal adaptive strategy]]
-++}
