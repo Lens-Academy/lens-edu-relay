@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1775909694062}@@---
+---
 id: 67040104-ab3c-4b36-be03-cdecd33ff1c0
 slug: existing-approaches-af
 title: "Existing Approaches: Agent Foundations"
@@ -18,4 +18,3 @@ This module is a direct preparation for the Agent Foundations program that follo
 
 # Learning Outcome:
 source:: [[../Learning Outcomes/Agent Foundations agenda]]
-++}

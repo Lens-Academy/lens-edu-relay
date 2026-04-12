@@ -6,17 +6,13 @@ title: Superintelligence Alignment 101
 description: A ~10-hour introductory course covering the landscape of superintelligence and AI alignment. Designed as a prerequisite for the introductory Agent Foundations program.
 ---
 
-# Module: [[../modules/introduction]]{--{"author":"AI","timestamp":1776003575982}@@
-# (~1 hr)--}
+# Module: [[../modules/introduction]]
 
-# Module: [[../modules/AI, Optimization, Superintelligence]]{--{"author":"AI","timestamp":1776003575982}@@
-# (~2 hr — placeholder, content TBD)--}
+# Module: [[../modules/AI, Optimization, Superintelligence]]
 
-# Module: [[../modules/feedback-loops]]{--{"author":"AI","timestamp":1776003575982}@@
-# (~1.5 hr)--}
+# Module: [[../modules/feedback-loops]]
 
-# Module: [[../modules/Cognitive Superpowers - 101]]{--{"author":"AI","timestamp":1776003575982}@@
-# (~1 hr)--}
+# Module: [[../modules/Cognitive Superpowers - 101]]
 
 # Module: [[../modules/Fundamental Difficulties - 101]]{--{"author":"AI","timestamp":1776003575982}@@
 # (~2.5 hr)--}

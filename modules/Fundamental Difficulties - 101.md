@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1775909676619}@@---
+---
 id: d405955b-e524-44d2-80c5-9c88b8865a5d
 slug: fundamental-difficulties-101
 title: "Fundamental Difficulties"
@@ -37,4 +37,3 @@ source:: [[../Learning Outcomes/Explain the emergence of powerseeking]]
 # Learning Outcome:
 optional:: false
 source:: [[../Learning Outcomes/Explain why default outcome is bad]]
-++}
