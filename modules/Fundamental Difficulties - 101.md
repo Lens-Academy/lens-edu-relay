@@ -12,7 +12,7 @@ id:: e62c6e9d-1191-417b-a99a-546a5bb673b0
 content::
 The AI alignment problem currently has no proven solution. This module provides a unified picture of why achieving alignment is inherently challenging. Even with competent participants, the default outcome can be poor, as misalignment may emerge from the very structure of how we train AI systems.
 
-In this module you will engage with core concepts including the rocket alignment analogy and the need for formal alignment theory, why alignment arguments feel counterintuitive, {--{"author":"AI","timestamp":1776018784947}@@instrumental convergence and why misalignment and catastrophe may be the default outcome under current training paradigms.
+In this module you will engage with core concepts including the rocket alignment analogy and the need for formal alignment theory, why alignment arguments feel counterintuitive, {-and why misalignment and catastrophe may be the default outcome under current training paradigms.
 
 Questions you will be able to answer after completing this module:
 * Why is it unrealistic to expect we can list all alignment challenges in advance, and what does this imply about the kind of theory we need?
