@@ -14,8 +14,6 @@ description: A ~10-hour introductory course covering the landscape of superintel
 
 # Module: [[../modules/Cognitive Superpowers - 101]]
 
-# Module: [[../modules/Fundamental Difficulties - 101]]{--{"author":"AI","timestamp":1776003575982}@@
-# (~2.5 hr)--}
+# Module: [[../modules/Fundamental Difficulties - 101]]
 
-# Module: [[../modules/Existing Approaches - AF]]{--{"author":"AI","timestamp":1776003575982}@@
-# (~0.75 hr)--}
+# Module: [[../modules/Existing Approaches - AF]]
