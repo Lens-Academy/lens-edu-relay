@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1775998212369}@@---
+---
 id: acf8f93f-b783-4a22-8480-ca8b3e8f121a
 title: "Efficient Cross-Domain Optimization"
 tldr: Deep Blue could beat Kasparov at chess but couldn't build a dam. A beaver can build a dam but can't play chess. Intelligence, properly understood, is the ability to optimize efficiently across domains — and this definition has radical implications for what a sufficiently general AI could do.
@@ -31,4 +31,3 @@ Topics to explore:
 - How does this definition set up the question of AI risk?
 
 Keep responses short: aim for 120–200 words. Be rigorous and educational. Do not over-validate.
-++}
