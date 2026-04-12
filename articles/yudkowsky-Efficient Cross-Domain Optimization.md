@@ -1,6 +1,6 @@
 ---
 title: "Efficient Cross-Domain Optimization"
-source: "https://www.lesswrong.com/posts/yLeEPFnnB9wE7KLx2/efficient-cross-domain-optimization"
+{--{"author":"AI","timestamp":1776004123802}@@source:--}{++{"author":"AI","timestamp":1776004123802}@@source_url:++} "https://www.lesswrong.com/posts/yLeEPFnnB9wE7KLx2/efficient-cross-domain-optimization"
 author:
   - "Eliezer Yudkowsky"
 published: 2008-10-28
