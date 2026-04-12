@@ -1,4 +1,4 @@
-{--{"author":"AI","timestamp":1775998409202}@@_# --}{++{"author":"AI","timestamp":1775998409202}@@---
+---
 id: 1e8ae361-adcf-4cb0-a40e-3c5acef4faa9
 slug: ai-optimization-superintelligence
 title: AI, Optimization, Superintelligence
@@ -11,11 +11,11 @@ id:: ff3b2cc0-1381-41ed-8194-3ac5301f38b0
 content::
 What is intelligence, really? Not the folk notion — but a precise definition that lets us reason about machines that might one day surpass us. This module builds that definition from the ground up: intelligence as efficient cross-domain optimization. From there, we ask what happens when optimization gets pointed at itself — and whether that process could accelerate beyond our ability to predict or control.
 
-# ++}Learning Outcome:
-{++{"author":"AI","timestamp":1775998225439}@@source:: [[../Learning Outcomes/Define intelligence as efficient cross-domain optimization]]
+# Learning Outcome:
+source:: [[../Learning Outcomes/Define intelligence as efficient cross-domain optimization]]
 
 # Learning Outcome:
-++}source:: {--{"author":"AI","timestamp":1775997892709}@@![[../Learning Outcomes/Simulator Theory|Simulator Theory]]--}{++{"author":"AI","timestamp":1775997892709}@@[[../Learning Outcomes/Feedback cycles create discontinuity]]
+source:: [[../Learning Outcomes/Feedback cycles create discontinuity]]
 
 # Learning Outcome:
-source:: [[../Learning Outcomes/Fizzle or Foom]]++}
+source:: [[../Learning Outcomes/Fizzle or Foom]]
