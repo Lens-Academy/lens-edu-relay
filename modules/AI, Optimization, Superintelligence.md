@@ -13,9 +13,3 @@ What is intelligence, really? Not the folk notion — but a precise definition t
 
 # Learning Outcome:
 source:: [[../Learning Outcomes/Define intelligence as efficient cross-domain optimization]]
-
-# Learning Outcome:
-source:: [[../Learning Outcomes/Feedback cycles create discontinuity]]
-
-# Learning Outcome:
-source:: [[../Learning Outcomes/Fizzle or Foom]]
