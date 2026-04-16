@@ -9,8 +9,6 @@ description: A ~10-hour introductory course covering the landscape of superintel
 
 # Module: [[../modules/AI, Optimization, Superintelligence]]
 
-# Module: [[../modules/feedback-loops]]
-
 # Module: [[../modules/Cognitive Superpowers - 101]]
 
 # Module: [[../modules/Fundamental Difficulties - 101]]
