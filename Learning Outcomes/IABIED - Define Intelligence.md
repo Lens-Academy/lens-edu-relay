@@ -1,6 +1,6 @@
 ---
 id: cafc40b7-fb3a-4415-9b1d-c65b85329b73
-learning-outcome: {--{"author":"AI","timestamp":1776500746350}@@"Explain--}{++{"author":"AI","timestamp":1776500746350}@@"Define++} intelligence as prediction plus steering, and explain why generality — not raw capability — is what makes human intelligence powerful and its artificial equivalent potentially dangerous."
+learning-outcome: "Define intelligence as prediction plus steering, and explain why generality — not raw capability — is what makes human intelligence powerful and its artificial equivalent potentially dangerous."
 tags:
   - learning-outcome
   - IABIED
