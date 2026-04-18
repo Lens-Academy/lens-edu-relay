@@ -12,13 +12,13 @@ authors:
 ---
 
 ## Test:
-{++{"author":"AI","timestamp":1776513372985}@@#### Text
+#### Text
 content::
-++}Chapter 1 defines intelligence in a specific way that's different from everyday usage.{++{"author":"AI","timestamp":1776513372985}@@
+Chapter 1 defines intelligence in a specific way that's different from everyday usage.
 
 #### Question
 feedback:: true
-content::++} What are the two components the authors identify, and how do they work together? And why does generality — rather than excelling at any particular task — turn out to be the key variable?
+content:: What are the two components the authors identify, and how do they work together? And why does generality — rather than excelling at any particular task — turn out to be the key variable?
 
 {--{"author":"AI","timestamp":1776513372985}@@### Rubric:--}{++{"author":"AI","timestamp":1776513372985}@@assessment-instructions::
 Score according to the following rubric.++}
