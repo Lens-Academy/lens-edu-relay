@@ -11,8 +11,8 @@ tldr: Some predictions feel obvious in retrospect but look crazy in the moment. 
   - work-in-progress
 ---
 
-#### {++{"author":"AI","timestamp":1776504895973}@@Page: Before You Read
-#### ++}Text
+#### Page: Before You Read
+#### Text
 content:: Before reading the Introduction: What kinds of things about the future do you feel fairly confident predicting? What makes a prediction feel like a "sure thing" versus a "coin flip"? Take a moment to jot down your answer before reading — the authors have a specific framework for this.
 
 #### Chat
@@ -23,8 +23,8 @@ They just answered: "What kinds of things about the future do you feel confident
 
 Acknowledge their answer in 1–2 sentences. Do not explain or preview the hard/easy calls framework — they will encounter it in the reading. Close with something like: "Keep that in mind as you read. Head to the Introduction when you're ready and come back when you've finished."
 
-#### {++{"author":"AI","timestamp":1776504899386}@@Page: After Reading
-#### ++}Text
+#### Page: After Reading
+#### Text
 content:: The Introduction introduces a specific framework for distinguishing "easy calls" from "hard calls." In your own words, what is the difference? Why do the authors classify the danger from advanced AI as an "easy call," even though it may seem far-fetched to many people?
 
 #### Chat
