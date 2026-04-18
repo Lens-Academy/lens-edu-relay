@@ -10,7 +10,6 @@ tldr: Some predictions feel obvious in retrospect but look crazy in the moment. 
   - IABIED
   - work-in-progress
 ---
-
 #### Text
 content:: Before reading the Introduction: What kinds of things about the future do you feel fairly confident predicting? What makes a prediction feel like a "sure thing" versus a "coin flip"? Take a moment to jot down your answer before reading — the authors have a specific framework for this.
 
