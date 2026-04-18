@@ -21,6 +21,7 @@ The Introduction introduces a framework for thinking about predictions: some thi
 
 **5** — As above, plus productively interrogates the classification itself — what assumptions make something "reliable enough" to be an easy call, or whether the authors have actually established that. *Example: "I'd want to push back on whether the mechanism really does make the outcome inevitable — the easy/hard framework assumes we know enough about how capable AI behaves to treat it like an ice cube melting, but do we?"*++}
 
+
 ## Lens:
 optional:: true
 source:: ![[../Lenses/IABIED - QA - {--{"author":"AI","timestamp":1776500734058}@@Is Intelligence a Meaningful Concept]]--}{++{"author":"AI","timestamp":1776500734058}@@Why Write This Book]]
