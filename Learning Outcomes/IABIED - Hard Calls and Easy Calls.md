@@ -1,9 +1,9 @@
 ---
 id: ed5fab41-b9a2-466f-89bd-825af3944c1c
-learning-outcome:{--{"author":"AI","timestamp":1776500734058}@@  "Why ASI is relatively easy to predict, whereas timelines remain very difficult. Bonus: They begin to get a feel for how forecasting works."--}{++{"author":"AI","timestamp":1776500734058}@@ "Distinguish 'hard calls' from 'easy calls' as the authors define them, and explain why they classify the danger from ASI as an easy call despite its apparent implausibility."++}
+learning-outcome: "Distinguish 'hard calls' from 'easy calls' as the authors define them, and explain why they classify the danger from ASI as an easy call despite its apparent implausibility."
 tags:
-  - {--{"author":"AI","timestamp":1776500734058}@@work-in-progress
-  - --}learning-outcome
+  - work-in-progress
+  - learning-outcome
   - IABIED
 ---
 
