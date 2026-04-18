@@ -65,15 +65,23 @@ Ask what they found surprising or new. Check if they can explain why "grown, not
 %%
 
 %%
-# Learning Outcome: IABIED - If It's Valuable and Can Be Done...
-source:: ![[../Learning Outcomes/IABIED - Hard Calls and Easy Calls]]
+# Learning Outcome: IABIED - {--{"author":"AI","timestamp":1776500895163}@@If It's Valuable--}{++{"author":"AI","timestamp":1776500895163}@@Hard Calls++} and {--{"author":"AI","timestamp":1776500895163}@@Can Be Done...--}{++{"author":"AI","timestamp":1776500895163}@@Easy Calls++}
+source:: ![[../Learning Outcomes/IABIED - Hard Calls and Easy Calls]]{--{"author":"AI","timestamp":1776500895163}@@
 %%
 %%
-# Learning Outcome: IABIED - Define Intelligence
+--}{++{"author":"AI","timestamp":1776500895163}@@
+
+++}# Learning Outcome: IABIED - Define Intelligence
 source:: ![[../Learning Outcomes/IABIED - Define Intelligence]]
 
-# Learning Outcome: IABIED - AI Is Grown, Not Crafted
-source:: ![[../Learning Outcomes/IABIED - AI Is Grown, Not Crafted]]
+# Learning Outcome: IABIED - {++{"author":"AI","timestamp":1776500895163}@@Intelligence Is Direction-Agnostic
+source:: ![[../Learning Outcomes/IABIED - Intelligence Is Direction-Agnostic]]
+
+# Learning Outcome: IABIED - ++}AI Is Grown, Not Crafted
+source:: ![[../Learning Outcomes/IABIED - AI Is Grown, Not Crafted]]{++{"author":"AI","timestamp":1776500895163}@@
+
+# Learning Outcome: IABIED - Behavior Is Not Values
+source:: ![[../Learning Outcomes/IABIED - Behavior Is Not Values]]++}
 %%
 
 # Lens: Overview of Optional Resources
