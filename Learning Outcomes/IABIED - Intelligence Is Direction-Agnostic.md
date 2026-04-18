@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1776513182759}@@---
+{++{"author":"AI","timestamp":1776513386147}@@---
 id: d4e7f6a5-b8c9-4012-d345-e6f7a8b9c0d1
 learning-outcome: "Explain what it means for intelligence to be direction-agnostic, and identify the safety implication: a smarter-than-human system is not automatically aligned with human values."
 reading-from: "That won't stay true forever."
@@ -12,9 +12,16 @@ tags:
 ---
 
 ## Test:
-Chapter 1 makes a claim that cuts against a common assumption — that smarter AI will naturally be safer or more aligned with human goals. What do the authors mean when they say intelligence is "direction-agnostic"? And why does that matter for safety?
+#### Text
+content::
+Chapter 1 makes a claim that cuts against a common assumption — that smarter AI will naturally be safer or more aligned with human goals.
 
-### Rubric:
+#### Question
+feedback:: true
+content:: What do the authors mean when they say intelligence is "direction-agnostic"? And why does that matter for safety?
+
+assessment-instructions::
+Score according to the following rubric.
 **1** — Believes greater intelligence implies better values or alignment. *Example: "A superintelligent AI would understand why being good is important and would choose to be helpful."*
 
 **2** — Accepts the direction-agnostic claim in principle but treats it as a minor caveat. *Example: "Intelligence doesn't guarantee good values, but a smart AI would probably still try to be helpful since that's what it was trained for."*
