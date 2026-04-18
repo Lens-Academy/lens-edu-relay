@@ -26,6 +26,7 @@ The reading requirement is quite modest. We cover roughly 32 pages of the book p
 
 Therefore, the time commitment runs from 3 hours for the minimalist, fast reader, whereas a more completion-oriented student could double that before hitting diminishing returns.
 ### Structure
+By 
 We'll cover the book over the course of 6 weeks. Each week, you'll log in here and this interface will guide you through readings, AI tutor conversations, and additional activities. 
 ### Community 
 
