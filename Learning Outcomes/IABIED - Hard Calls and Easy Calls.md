@@ -5,8 +5,8 @@ tags:
   - work-in-progress
   - learning-outcome
   - IABIED
-author:
- - Cl
+authors:
+ - Claude+Chris
 ---
 
 ## Test:{++{"author":"AI","timestamp":1776500734058}@@
