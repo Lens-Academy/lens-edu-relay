@@ -71,10 +71,10 @@ source:: ![[../Learning Outcomes/IABIED - Hard Calls and Easy Calls]]
 # Learning Outcome: IABIED - Define Intelligence
 source:: ![[../Learning Outcomes/IABIED - Define Intelligence]]
 
-# Learning Outcome: IABIED - {++{"author":"AI","timestamp":1776500895163}@@Intelligence Is Direction-Agnostic
+# Learning Outcome: IABIED - Intelligence Is Direction-Agnostic
 source:: ![[../Learning Outcomes/IABIED - Intelligence Is Direction-Agnostic]]
 
-# Learning Outcome: IABIED - ++}AI Is Grown, Not Crafted
+# Learning Outcome: IABIED - AI Is Grown, Not Crafted
 source:: ![[../Learning Outcomes/IABIED - AI Is Grown, Not Crafted]]{++{"author":"AI","timestamp":1776500895163}@@
 
 # Learning Outcome: IABIED - Behavior Is Not Values
