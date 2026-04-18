@@ -66,7 +66,7 @@ Ask what they found surprising or new. Check if they can explain why "grown, not
 
 %%
 # Learning Outcome: IABIED - If It's Valuable and Can Be Done...
-source:: ![[../Learning Outcomes/IABIED - If It's Valuable and Can Be Done...]]
+source:: ![[../Learning Outcomes/IABIED - Hard Calls and Easy Calls]]
 %%
 %%
 # Learning Outcome: IABIED - Define Intelligence
