@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1776513416532}@@---
+{++{"author":"AI","timestamp":1776513538631}@@---
 id: e5f8a7b6-c9d0-4123-e456-f7a8b9c0d1e2
 learning-outcome: "Distinguish an AI that produces aligned-seeming outputs from one that has aligned internal states, and explain why this gap is the alignment problem — and why producing better outputs doesn't close it."
 reading-from: "Modern LLMs are, in some sense, truly alien minds—perhaps more alien in some ways than any biological, evolved creatures we'd find if we explored the cosmos."
@@ -31,6 +31,9 @@ Score according to the following rubric.
 **4** — As above, plus explains why this makes evaluation hard: a system can pass every behavioral test while having misaligned internals — and a sufficiently capable system might pass tests strategically. *Example: Adds "This means you can't just test it and declare it safe. A smart enough system that wanted to deceive evaluators could behave perfectly during testing."*
 
 **5** — As above, plus applies the distinction to a concrete scenario: given a specific example of aligned-seeming AI behavior, identifies what additional evidence would be needed to establish genuine alignment. *Example: "If an AI declines to help with a harmful request, that's a behavioral observation. To establish it's actually aligned you'd need to know whether it declined because it has values against harm, or because declining is what the training signal rewarded. Those predict very different behavior in novel situations."*
+
+## Lens:
+source:: ![[../Lenses/IABIED - Behavior Is Not Values]]
 
 ## Lens:
 optional:: true

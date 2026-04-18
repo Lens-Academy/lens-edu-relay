@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1776513386147}@@---
+{++{"author":"AI","timestamp":1776513536043}@@---
 id: d4e7f6a5-b8c9-4012-d345-e6f7a8b9c0d1
 learning-outcome: "Explain what it means for intelligence to be direction-agnostic, and identify the safety implication: a smarter-than-human system is not automatically aligned with human values."
 reading-from: "That won't stay true forever."
@@ -31,6 +31,9 @@ Score according to the following rubric.
 **4** — As above, plus articulates the hostility/misalignment distinction: a dangerous AI doesn't need hostile intent, just misaligned goals. *Example: Adds "It doesn't have to want to hurt us. It just needs to have goals that are indifferent to our survival — and that's the more realistic concern."*
 
 **5** — As above, plus applies the concept to rebut a common objection (e.g., "Won't it share our values because it learned from human data?" or "Won't it keep us alive as a resource?"). *Example: "People say it'll have human values because it trained on human text — but that assumes it internalized what humans want rather than just learned to predict what humans say. Those are very different things."*
+
+## Lens:
+source:: ![[../Lenses/IABIED - Intelligence Is Direction-Agnostic]]
 
 ## Lens:
 optional:: true
