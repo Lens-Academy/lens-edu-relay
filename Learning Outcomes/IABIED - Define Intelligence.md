@@ -1,14 +1,28 @@
 ---
 id: cafc40b7-fb3a-4415-9b1d-c65b85329b73
-learning-outcome: "Explain intelligence as a general-purpose ability to predict and steer the future, and why this makes it uniquely powerful"
+learning-outcome: {--{"author":"AI","timestamp":1776500746350}@@"Explain--}{++{"author":"AI","timestamp":1776500746350}@@"Define++} intelligence as {--{"author":"AI","timestamp":1776500746350}@@a general-purpose ability to predict and steer the future, and why this--}{++{"author":"AI","timestamp":1776500746350}@@prediction plus steering, and explain why generality — not raw capability — is what++} makes {--{"author":"AI","timestamp":1776500746350}@@it uniquely powerful"--}{++{"author":"AI","timestamp":1776500746350}@@human intelligence powerful and its artificial equivalent potentially dangerous."++}
 tags:
   - learning-outcome
-  - IABIED
-  - work-in-progress
+  - IABIED{--{"author":"AI","timestamp":1776500746350}@@
+  - work-in-progress--}
 ---
 
-## Test:
+## Test:{++{"author":"AI","timestamp":1776500746350}@@
+Chapter 1 defines intelligence in a specific way that's different from everyday usage. What are the two components the authors identify, and how do they work together? And why does generality — rather than excelling at any particular task — turn out to be the key variable?
 
-## Lens:
+### Rubric:
+**1** — Cannot name either component or gives a vague definition. *Example: "Intelligence is being smart and solving problems."*
+
+**2** — Names one component (prediction or steering) but not both, or gets generality wrong (e.g., confuses it with being generally capable). *Example: "Intelligence is about predicting what will happen. Humans are special because we're smarter than other animals."*
+
+**3** — Correctly names prediction and steering, explains they work together (model possible futures → act to bring about better ones), and correctly identifies generality as what separates humans from other animals. *Example: "Intelligence is the ability to predict what will happen and then steer toward better outcomes. Generality is the key — a cheetah is faster than us but only in one domain. Humans can apply intelligence to anything, which is what made us dominant."*
+
+**4** — As above, plus connects generality to the AI safety concern: why general AI is categorically different from narrow AI in terms of threat. *Example: Adds "And that's why AGI is so different from a chess engine — it's not about how good it is at chess, it's about whether it can apply intelligence across domains."*++}
+
+{++{"author":"AI","timestamp":1776500746350}@@**5** — As above, plus applies the framework to a novel case — demonstrating they own the vocabulary, not just recall it. *Example: Classifies a specific system (animal, AI, institution) using prediction + steering + generality and explains where it sits on the spectrum.*
+
+++}## Lens:
 optional:: true
-source:: ![[../Lenses/IABIED - QA - How Smart Could a Superintelligence Get]]
+source:: ![[../Lenses/IABIED - QA - {--{"author":"AI","timestamp":1776500746350}@@How Smart Could a Superintelligence Get]]--}{++{"author":"AI","timestamp":1776500746350}@@Intelligence as Prediction and Steering]]
+source:: ![[../Lenses/IABIED - QA - General Intelligence]]
+source:: ![[../Lenses/IABIED - QA - Is Intelligence Meaningful]]++}

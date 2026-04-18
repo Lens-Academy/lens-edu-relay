@@ -1,14 +1,28 @@
 ---
 id: 626f8d04-2a11-479b-8761-a8705b4231a5
-learning-outcome: "Explain the difference between grown systems (gradient descent) and engineered systems, and why this matters for safety"
+learning-outcome: "Explain {--{"author":"AI","timestamp":1776500768268}@@the difference between grown systems (gradient descent) and--}{++{"author":"AI","timestamp":1776500768268}@@how AI produced through gradient descent differs from++} engineered systems, and why {--{"author":"AI","timestamp":1776500768268}@@this matters for safety"--}{++{"author":"AI","timestamp":1776500768268}@@understanding the training process does not mean understanding what the trained model is or does."++}
 tags:
   - learning-outcome
-  - IABIED
-  - work-in-progress
+  - IABIED{--{"author":"AI","timestamp":1776500768268}@@
+  - work-in-progress--}
 ---
 
-## Test:
+## Test:{++{"author":"AI","timestamp":1776500768268}@@
+Chapter 2 draws a sharp contrast between AI systems that are "grown" and systems that are "crafted." What is that distinction? And specifically: what does an engineer know about a trained AI model, and what do they not know?
 
-## Lens:
+### Rubric:
+**1** — Believes engineers fully understand modern AI because they wrote the code and designed the training process. *Example: "Engineers know everything about how it works because they built it."*
+
+**2** — Understands that AI learns from data rather than being programmed step-by-step, but cannot explain the epistemic gap this creates. *Example: "AI learns on its own so it's more flexible than traditional software, but engineers still understand it pretty well."*
+
+**3** — Correctly explains that gradient descent produces cognition through optimization rather than deliberate design, and names the key gap: engineers understand the training process but cannot read the resulting weights to predict behavior (the DNA analogy: readable but not interpretable). *Example: "Engineers designed the training process but not what the model learned. The weights are like a genome — you can read them but you can't tell from them what the system will do, any more than reading DNA tells you exactly what an organism will be like."*
+
+**4** — As above, plus explains why this matters for safety: you can't verify what the system has learned or what goals it has developed. *Example: Adds "So even if the training went exactly as planned, you still can't look inside and confirm the model has the values you wanted it to have."*++}
+
+{++{"author":"AI","timestamp":1776500768268}@@**5** — As above, plus articulates the process-knowledge/cognition-knowledge distinction: understanding how a system was produced is not the same as understanding what it is. *Example: "There are two kinds of understanding here. Engineers have process-knowledge — they know exactly how the training works. But they lack cognition-knowledge — they don't know what the model actually represents or wants. Confusing these two is the mistake that makes people overconfident about AI safety."*
+
+++}## Lens:
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Will AI Cross Critical Thresholds]]
+source:: ![[../Lenses/IABIED - QA - {--{"author":"AI","timestamp":1776500768268}@@Will AI Cross Critical Thresholds]]--}{++{"author":"AI","timestamp":1776500768268}@@Gradient Descent Matters]]
+source:: ![[../Lenses/IABIED - QA - Building Without Understanding]]
+source:: ![[../Lenses/IABIED - QA - Do Experts Understand AIs]]++}
