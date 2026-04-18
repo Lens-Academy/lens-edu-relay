@@ -13,7 +13,9 @@ tldr: Some predictions feel obvious in retrospect but look crazy in the moment. 
 #### Text
 content:: Before reading the Introduction: What kinds of things about the future do you feel fairly confident predicting? What makes a prediction feel like a "sure thing" versus a "coin flip"? Take a moment to jot down your answer before reading — the authors have a specific framework for this.
 
-#### Chat
+{++{"author":"AI","timestamp":1776513188813}@@**Read the Introduction ("Hard Calls and Easy Calls"), from "MITIGATING THE RISK OF EXTINCTION FROM AI SHOULD BE A global priority alongside other societal-scale risks such as pandemics and nuclear war." to "Where there's life, there's hope."**
+
+++}#### Chat
 instructions::
 The student is about to read the Introduction to "If Anyone Builds It, Everyone Dies."
 
