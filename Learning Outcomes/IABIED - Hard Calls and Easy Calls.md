@@ -5,6 +5,7 @@ tags:
   - work-in-progress
   - learning-outcome
   - IABIED
+  - 
 ---
 
 ## Test:{++{"author":"AI","timestamp":1776500734058}@@
@@ -20,7 +21,6 @@ The Introduction introduces a framework for thinking about predictions: some thi
 **4** — As above, plus articulates the whether/when asymmetry. *Example: Adds "They're saying timelines are a hard call but whether it's dangerous is an easy call — like predicting powered flight would happen without knowing the Wright Brothers would do it."*
 
 **5** — As above, plus productively interrogates the classification itself — what assumptions make something "reliable enough" to be an easy call, or whether the authors have actually established that. *Example: "I'd want to push back on whether the mechanism really does make the outcome inevitable — the easy/hard framework assumes we know enough about how capable AI behaves to treat it like an ice cube melting, but do we?"*++}
-
 
 ## Lens:
 optional:: true
