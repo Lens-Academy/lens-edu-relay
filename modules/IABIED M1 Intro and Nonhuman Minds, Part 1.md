@@ -42,6 +42,7 @@ We hope this book club will also help grow the AI safety community. Some of thes
 
 Don't save your questions and insights for the meeting day, post them into Discord as soon as they arise!
 
+%%
 **This week's reading:** Introduction ("Hard Calls and Easy Calls") + Chapter 1 ("Humanity's Special Power") + Chapter 2 ("Grown, Not Crafted"). After reading, come back here to discuss with the tutor.
 
 #### Chat
