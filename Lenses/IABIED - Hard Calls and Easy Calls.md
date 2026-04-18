@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1776502811923}@@---
+---
 id: b1c2d3e4-f5a6-4b78-c901-d2e3f4a5b6c7
 summary_for_tutor: "Teaches the 'easy calls vs. hard calls' epistemic framework from the Introduction. Students first articulate their own intuitions about confident vs. uncertain predictions, then read the Introduction, then explain back how the authors classify ASI risk as an 'easy call' despite its apparent implausibility."
 title: "Hard Calls and Easy Calls"
@@ -39,4 +39,4 @@ Discussion guidance:
 - If they conflate "easy call" with "likely prediction," gently correct: easy refers to the reasoning structure, not the probability
 - Check whether they can articulate why ASI risk fits the "easy call" category
 
-Probe: "Does classifying it as an 'easy call' make the claim feel more or less alarming to you — or neither?"++}
+Probe: "Does classifying it as an 'easy call' make the claim feel more or less alarming to you — or neither?"
