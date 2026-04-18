@@ -48,7 +48,7 @@ Discussion topics to explore:
 
 Ask what they found surprising or new. Check if they can explain why "grown, not crafted" matters for safety in their own words — it's a key concept.
 
-{++{"author":"AI","timestamp":1776499674943}@@#### Text
+{++{"author":"AI","timestamp":1776499715561}@@#### Text
 content:: **Six weeks. One argument.** Each week covers 2–3 chapters of *If Anyone Builds It, Everyone Dies* and builds on the last:
 
 | Week | Theme | Chapters |
@@ -62,18 +62,14 @@ content:: **Six weeks. One argument.** Each week covers 2–3 chapters of *If An
 
 The arc moves deliberately: curiosity → unease → recognition → dread → frustration → agency. Don't skip ahead.
 
-#### Text
-content:: All assignments run through **lensacademy.org**. Log in, open this week's module, and work through the steps in order:
+All assignments run through **lensacademy.org**. Log in, open this week's module, and work through the steps in order:
 
 1. **Pre-question** — A short prompt to engage your intuitions before reading. Respond; the tutor will react briefly, then send you to read.
 2. **Reading** — ~32 pages (~1 hour). Complete before the tutor discussion.
 3. **Tutor discussion** — Chat with the AI tutor about what you read (~1 hour). It will ask you questions; push back, ask follow-ups, explore what confused you.
 4. **Homework** — Assigned each week in the course interface or by your facilitator in Discord. Check your cohort channel during the week.
 
-#### Text
-content:: **Discord** is where your cohort lives between sessions. Post questions and reactions as you go — don't save them for the meeting.
-
-**This week:** Introduce yourself in `#intros-offers-asks`, then copy that intro into your cohort channel.
+**Discord** is where your cohort lives between sessions. Post questions and reactions as you go — don't save them for the meeting. **This week:** Introduce yourself in `#intros-offers-asks`, then copy that intro into your cohort channel.
 
 **Weekly meeting** — 90 minutes on Zoom. You will receive a meeting link. Come having finished the reading and started the tutor discussion.
 
