@@ -62,6 +62,7 @@ id:: 77b913b7-0462-4a87-bce0-5bb3419b34fc
 content::
 The book's website includes supplementary Q&As and extended discussions for each chapter. Browse the ones relevant to this week's reading below.
 
+%%
 This links to a lens in M2:
 ::card[[../Lenses/IABIED - QA - Human-Like Emotions]]
 
@@ -71,8 +72,9 @@ And this links to M3 itself:
 ::card[[IABIED M3 Nonhuman Minds, Part 3]]
 
 and inline: [[IABIED M3 Nonhuman Minds, Part 3]].
+%%
 
-\## Introduction: Hard Calls and Easy Calls
+## Introduction: Hard Calls and Easy Calls
 ::card[[../Lenses/IABIED - QA - Why Write This Book]]
 ::card[[../Lenses/IABIED - QA - Could ChatGPT Kill Us]]
 ::card[[../Lenses/IABIED - QA - Panicking and Overreacting]]
@@ -83,7 +85,7 @@ and inline: [[IABIED M3 Nonhuman Minds, Part 3]].
 ::card[[../Lenses/IABIED - QA - AI Experts on Catastrophe]]
 ::card[[../Lenses/IABIED - QA - Leo Szilard Saw the Future]]
 
-\## Chapter 1: Humanity's Special Power
+## Chapter 1: Humanity's Special Power
 ::card[[../Lenses/IABIED - QA - Is Intelligence Meaningful]]
 ::card[[../Lenses/IABIED - QA - Human-Level Intelligence]]
 ::card[[../Lenses/IABIED - QA - Intelligence as Multiple Skills]]
@@ -104,7 +106,7 @@ and inline: [[IABIED M3 Nonhuman Minds, Part 3]].
 ::card[[../Lenses/IABIED - QA - Special Behavior from Mundane Parts]]
 ::card[[../Lenses/IABIED - QA - Same Work Different Ways]]
 
-\## Chapter 2: Grown, Not Crafted
+## Chapter 2: Grown, Not Crafted
 ::card[[../Lenses/IABIED - QA - Gradient Descent Matters]]
 ::card[[../Lenses/IABIED - QA - Do Experts Understand AIs]]
 ::card[[../Lenses/IABIED - QA - Intelligence Understandable]]
