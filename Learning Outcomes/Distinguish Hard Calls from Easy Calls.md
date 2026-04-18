@@ -27,7 +27,7 @@ The Introduction introduces a framework for thinking about predictions: some thi
 ## Lens::
 source:: ![[../Lenses/IABIED - Hard Calls and Easy Calls]]
 
-## Lens:
+## Lens::
 optional:: true
 source:: ![[../Lenses/IABIED - QA - {--{"author":"AI","timestamp":1776500734058}@@Is Intelligence a Meaningful Concept]]--}{++{"author":"AI","timestamp":1776500734058}@@Why Write This Book]]
 source:: ![[../Lenses/IABIED - QA - When Will Worrisome AI Arrive]]
