@@ -44,7 +44,7 @@ Don't save your questions and insights for the meeting day, post them into Disco
 
 **This week's reading:** Introduction ("Hard Calls and Easy Calls") + Chapter 1 ("Humanity's Special Power") + Chapter 2 ("Grown, Not Crafted"). After reading, come back here to discuss with the tutor.
 
-%%#### Chat
+#### Chat
 instructions::
 The student has just read the Introduction, Chapter 1, and Chapter 2 of "If Anyone Builds It, Everyone Dies."
 
@@ -61,6 +61,7 @@ Discussion topics to explore:
 - The authors list several historical examples of "normality ending" (Oxygen Catastrophe, agriculture, the Holocaust). Which resonated with you?
 
 Ask what they found surprising or new. Check if they can explain why "grown, not crafted" matters for safety in their own words — it's a key concept.
+%%
 
 %%
 # Learning Outcome: IABIED - If It's Valuable and Can Be Done...
