@@ -75,10 +75,10 @@ source:: ![[../Learning Outcomes/IABIED - Define Intelligence]]
 source:: ![[../Learning Outcomes/IABIED - Intelligence Is Direction-Agnostic]]
 
 # Learning Outcome: IABIED - AI Is Grown, Not Crafted
-source:: ![[../Learning Outcomes/IABIED - AI Is Grown, Not Crafted]]{++{"author":"AI","timestamp":1776500895163}@@
+source:: ![[../Learning Outcomes/IABIED - AI Is Grown, Not Crafted]]
 
 # Learning Outcome: IABIED - Behavior Is Not Values
-source:: ![[../Learning Outcomes/IABIED - Behavior Is Not Values]]++}
+source:: ![[../Learning Outcomes/IABIED - Behavior Is Not Values]]
 %%
 
 # Lens: {++{"author":"AI","timestamp":1776500905804}@@Priming — Introduction
