@@ -11,10 +11,17 @@ authors:
   - work-in-progress++}
 ---
 
-## Test:{++{"author":"AI","timestamp":1776500768268}@@
-Chapter 2 draws a sharp contrast between AI systems that are "grown" and systems that are "crafted." What is that distinction? And specifically: what does an engineer know about a trained AI model, and what do they not know?
+## Test:{++{"author":"AI","timestamp":1776513400840}@@
+#### Text
+content::
+Chapter 2 draws a sharp contrast between AI systems that are "grown" and systems that are "crafted."
 
-### Rubric:
+#### Question
+feedback:: true
+content:: What is that distinction? And specifically: what does an engineer know about a trained AI model, and what do they not know?
+
+assessment-instructions::
+Score according to the following rubric.
 **1** — Believes engineers fully understand modern AI because they wrote the code and designed the training process. *Example: "Engineers know everything about how it works because they built it."*
 
 **2** — Understands that AI learns from data rather than being programmed step-by-step, but cannot explain the epistemic gap this creates. *Example: "AI learns on its own so it's more flexible than traditional software, but engineers still understand it pretty well."*
