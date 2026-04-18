@@ -28,7 +28,7 @@ Therefore, the time commitment runs from 3 hours for the minimalist, fast reader
 ### Structure
 Before the first meeting, you'll be assigned to a cohort in the Lens Academy Discord server. That's a private channel that only your fellow cohort members (and admins) can see. If you haven't already, take a moment to introduce yourelf in your cohort channel and paste a copy of your intro into `#intros-offers-asks` so the entire Discord server can see it.
 
-We'll cover the book over the course of 6 weeks. Each week, you'll log in here and this interface will guide you through readings, AI tutor conversations, and additional activities. In addition, most weeks your facilitator will post some pre-meeting homework
+We'll cover the book over the course of 6 weeks. Each week, you'll log in here and this interface will guide you through readings, AI tutor conversations, and additional activities. In addition, most weeks your facilitator will post some pre-meeting homework shortly before the meeting. Be sure to have your Discor
 ### Community 
 
 We hope this book club will also help grow the AI safety community. Some of these topics are counter-intuitive, scary, and maybe even depressing. We hope working through this material with a group of like-minded individuals will give you the opportunity to give and receive support in working through this challenging problem. We also notice that it takes most people time to find their niche for contributing to AI safety. An important part of that exploration process is meeting others in the community, having conversations, and learning what different groups and organizations are up to. Take the opporunity to start building your network during this course by staying active between meetings.
