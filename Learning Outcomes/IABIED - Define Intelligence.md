@@ -1,10 +1,10 @@
 ---
 id: cafc40b7-fb3a-4415-9b1d-c65b85329b73
-learning-outcome: {--{"author":"AI","timestamp":1776500746350}@@"Explain--}{++{"author":"AI","timestamp":1776500746350}@@"Define++} intelligence as {--{"author":"AI","timestamp":1776500746350}@@a general-purpose ability to predict and steer the future, and why this--}{++{"author":"AI","timestamp":1776500746350}@@prediction plus steering, and explain why generality — not raw capability — is what++} makes {--{"author":"AI","timestamp":1776500746350}@@it uniquely powerful"--}{++{"author":"AI","timestamp":1776500746350}@@human intelligence powerful and its artificial equivalent potentially dangerous."++}
+learning-outcome: {--{"author":"AI","timestamp":1776500746350}@@"Explain--}{++{"author":"AI","timestamp":1776500746350}@@"Define++} intelligence as prediction plus steering, and explain why generality — not raw capability — is what makes human intelligence powerful and its artificial equivalent potentially dangerous."
 tags:
   - learning-outcome
-  - IABIED{--{"author":"AI","timestamp":1776500746350}@@
-  - work-in-progress--}
+  - IABIED
+  - work-in-progress
 ---
 
 ## Test:{++{"author":"AI","timestamp":1776500746350}@@
