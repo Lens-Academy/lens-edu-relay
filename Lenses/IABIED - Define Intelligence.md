@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1776535193969}@@---
+---
 id: a2b3c4d5-e6f7-4a89-b012-c3d4e5f6a7b8
 summary_for_tutor: "Teaches the prediction-plus-steering definition of intelligence and the concept of generality from the first half of Chapter 1. Students first reflect on what makes human intelligence distinctive, then read, then explain the two components and why generality — not raw power — is what matters."
 title: "Define Intelligence"
@@ -37,4 +37,3 @@ Discussion guidance:
 - If they haven't yet connected generality to safety risk, that's fine — the next Lens covers it
 
 Probe: "Give me an example of something that requires prediction without steering, and something that requires steering without prediction."
-++}
