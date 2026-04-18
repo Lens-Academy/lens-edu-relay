@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1776513536043}@@---
+---
 id: d4e7f6a5-b8c9-4012-d345-e6f7a8b9c0d1
 learning-outcome: "Explain what it means for intelligence to be direction-agnostic, and identify the safety implication: a smarter-than-human system is not automatically aligned with human values."
 reading-from: "That won't stay true forever."
@@ -39,4 +39,4 @@ source:: ![[../Lenses/IABIED - Intelligence Is Direction-Agnostic]]
 optional:: true
 source:: ![[../Lenses/IABIED - QA - Something Special About Humans]]
 source:: ![[../Lenses/IABIED - QA - ChatGPT as General Intelligence]]
-source:: ![[../Lenses/IABIED - QA - Intelligence as Prediction and Steering]]++}
+source:: ![[../Lenses/IABIED - QA - Intelligence as Prediction and Steering]]
