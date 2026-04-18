@@ -63,8 +63,6 @@ Discussion topics to explore:
 
 Ask what they found surprising or new. Check if they can explain why "grown, not crafted" matters for safety in their own words — it's a key concept.
 %%
-
-%%
 # Learning Outcome: IABIED - Hard Calls and Easy Calls
 source:: ![[../Learning Outcomes/IABIED - Hard Calls and Easy Calls]]
 
