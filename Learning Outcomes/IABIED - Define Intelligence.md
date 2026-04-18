@@ -1,7 +1,11 @@
 ---
 id: cafc40b7-fb3a-4415-9b1d-c65b85329b73
 learning-outcome: "Define intelligence as prediction plus steering, and explain why generality — not raw capability — is what makes human intelligence powerful and its artificial equivalent potentially dangerous."
-tags:
+{++{"author":"AI","timestamp":1776513180593}@@reading-from: "IMAGINE, IF YOU would—though of course nothing like this ever happened, it being just a parable—that biological life on Earth had been the result of a game between gods."
+reading-to: "it is still in some important sense 'shallow' compared to a human twelve-year-old."
+authors:
+  - Chris+Claude
+++}tags:
   - learning-outcome
   - IABIED
   - work-in-progress

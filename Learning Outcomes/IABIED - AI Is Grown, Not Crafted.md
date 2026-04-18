@@ -1,10 +1,14 @@
 ---
 id: 626f8d04-2a11-479b-8761-a8705b4231a5
 learning-outcome: "Explain {--{"author":"AI","timestamp":1776500768268}@@the difference between grown systems (gradient descent) and--}{++{"author":"AI","timestamp":1776500768268}@@how AI produced through gradient descent differs from++} engineered systems, and why {--{"author":"AI","timestamp":1776500768268}@@this matters for safety"--}{++{"author":"AI","timestamp":1776500768268}@@understanding the training process does not mean understanding what the trained model is or does."++}
-tags:
+{++{"author":"AI","timestamp":1776513184709}@@reading-from: "Scene: A man and a woman are sitting in a restaurant in daytime."
+reading-to: "Machine minds are subjected to different constraints, and grown under different pressures, than those that shape biological organisms; and although they're trained to predict human writing, the thinking inside an AI runs on a radically different architecture from a human's."
+authors:
+  - Chris+Claude
+++}tags:
   - learning-outcome
-  - IABIED{--{"author":"AI","timestamp":1776500768268}@@
-  - work-in-progress--}
+  - IABIED{++{"author":"AI","timestamp":1776513184709}@@
+  - work-in-progress++}
 ---
 
 ## Test:{++{"author":"AI","timestamp":1776500768268}@@

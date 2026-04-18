@@ -1,9 +1,14 @@
-{++{"author":"AI","timestamp":1776500756375}@@---
+{++{"author":"AI","timestamp":1776513182759}@@---
 id: d4e7f6a5-b8c9-4012-d345-e6f7a8b9c0d1
 learning-outcome: "Explain what it means for intelligence to be direction-agnostic, and identify the safety implication: a smarter-than-human system is not automatically aligned with human values."
+reading-from: "That won't stay true forever."
+reading-to: "But what if machine minds get better than us at the thing that, up until now, made us unique?"
+authors:
+  - Chris+Claude
 tags:
   - learning-outcome
   - IABIED
+  - work-in-progress
 ---
 
 ## Test:
