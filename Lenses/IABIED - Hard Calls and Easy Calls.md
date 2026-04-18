@@ -14,7 +14,8 @@ tldr: Some predictions feel obvious in retrospect but look crazy in the moment. 
 content::
 **Read *Introduction: Hard Calls and Easy Calls*:
 - From *MITIGATING THE RISK OF EXTINCTION FROM AI SHOULD BE A global priority alongside other societal-scale risks such as pandemics and nuclear war*
-- To "Where there's life, there's hope."** Return here after reading.
+- To: *Where there's life, there's hope.*
+  * Return here after reading.
 
 \## After reading
 The Introduction introduces a specific framework for distinguishing "easy calls" from "hard calls." In your own words, what is the difference? Why do the authors classify the danger from advanced AI as an "easy call," even though it may seem far-fetched to many people?
