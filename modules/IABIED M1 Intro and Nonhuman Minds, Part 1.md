@@ -44,7 +44,7 @@ Don't save your questions and insights for the meeting day, post them into Disco
 
 **This week's reading:** Introduction ("Hard Calls and Easy Calls") + Chapter 1 ("Humanity's Special Power") + Chapter 2 ("Grown, Not Crafted"). After reading, come back here to discuss with the tutor.
 
-#### Chat
+%%#### Chat
 instructions::
 The student has just read the Introduction, Chapter 1, and Chapter 2 of "If Anyone Builds It, Everyone Dies."
 
