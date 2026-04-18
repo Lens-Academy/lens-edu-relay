@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1776534776015}@@---
+{++{"author":"AI","timestamp":1776535065138}@@---
 id: e6f7a8b9-c0d1-4e23-f456-a7b8c9d0e1f2
 summary_for_tutor: "Priming question for the Introduction. Activates the student's prior intuitions about confident vs. uncertain predictions before they read the hard/easy calls framework."
 title: "Hard Calls and Easy Calls — Priming"
@@ -12,8 +12,6 @@ tags:
 ---
 #### Text
 content:: Before reading the Introduction: What kinds of things about the future do you feel fairly confident predicting? What makes a prediction feel like a "sure thing" versus a "coin flip"? Take a moment to jot down your answer before reading — the authors have a specific framework for this.
-
-**Read the Introduction ("Hard Calls and Easy Calls"), from "MITIGATING THE RISK OF EXTINCTION FROM AI SHOULD BE A global priority alongside other societal-scale risks such as pandemics and nuclear war." to "Where there's life, there's hope."**
 
 #### Chat
 instructions::
