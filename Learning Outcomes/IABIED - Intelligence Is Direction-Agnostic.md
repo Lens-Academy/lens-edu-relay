@@ -33,7 +33,10 @@ Score according to the following rubric.
 **5** — As above, plus applies the concept to rebut a common objection (e.g., "Won't it share our values because it learned from human data?" or "Won't it keep us alive as a resource?"). *Example: "People say it'll have human values because it trained on human text — but that assumes it internalized what humans want rather than just learned to predict what humans say. Those are very different things."*
 
 ## Lens:
-source:: ![[../Lenses/IABIED - Intelligence Is Direction-Agnostic]]
+source:: ![[../Lenses/IABIED - {++{"author":"AI","timestamp":1776535942209}@@PQ - Intelligence Is Direction-Agnostic]]
+
+## Lens:
+source:: ![[../Lenses/IABIED - ++}Intelligence Is Direction-Agnostic]]
 
 ## Lens:
 optional:: true
