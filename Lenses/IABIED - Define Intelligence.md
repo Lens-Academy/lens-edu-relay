@@ -12,8 +12,8 @@ tags:
 ---
 #### Text
 content::
-**Read {--{"author":"AI","timestamp":1776535827879}@@Chapter 1 ("Humanity's--}{++{"author":"AI","timestamp":1776535827879}@@*Chapter 1: Humanity's++} Special{--{"author":"AI","timestamp":1776535827879}@@ Power"), from "IMAGINE, IF YOU would—though of course nothing like this ever happened, it being just a parable—that biological life on Earth had been --}{++{"author":"AI","timestamp":1776535827879}@@ Power*:**
-- From: ++}the beginning
+**Read *Chapter 1: Humanity's Special Power*:**
+- From: the beginning
 - To: *it is still in some important sense 'shallow' compared to a human twelve-year-old.*
 Return here after reading.
 
