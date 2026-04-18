@@ -11,20 +11,11 @@ tldr: Some predictions feel obvious in retrospect but look crazy in the moment. 
   - work-in-progress
 ---
 #### Text
-content::{--{"author":"AI","timestamp":1776534801387}@@ Before reading the Introduction: What kinds of things about the future do you feel fairly confident predicting? What makes a prediction feel like a "sure thing" versus a "coin flip"? Take a moment to jot down your answer before reading — the authors have a specific framework for this.
+content::
+**Read the Introduction ("Hard Calls and Easy Calls"), from "MITIGATING THE RISK OF EXTINCTION FROM AI SHOULD BE A global priority alongside other societal-scale risks such as pandemics and nuclear war." to "Where there's life, there's hope."**
 
-#### Chat
-instructions::
-The student is about to read the Introduction to "If Anyone Builds It, Everyone Dies."
-
-They just answered: "What kinds of things about the future do you feel confident predicting? What makes a prediction feel like a sure thing versus a coin flip?"
-
-Acknowledge their answer in 1–2 sentences. Do not explain or preview the hard/easy calls framework — they will encounter it in the reading. Close with something like: "Keep that in mind as you read. Head to the Introduction when you're ready and come back when you've finished."--}{++{"author":"AI","timestamp":1776534801387}@@
-**Read the Introduction ("Hard Calls and Easy Calls"), from "MITIGATING THE RISK OF EXTINCTION FROM AI SHOULD BE A global priority alongside other societal-scale risks such as pandemics and nuclear war." to "Where there's life, there's hope."**++}
-
-{--{"author":"AI","timestamp":1776534801387}@@#### Page: After Reading
-#### Text
-content:: --}The Introduction introduces a specific framework for distinguishing "easy calls" from "hard calls." In your own words, what is the difference? Why do the authors classify the danger from advanced AI as an "easy call," even though it may seem far-fetched to many people?
+\## After reading
+The Introduction introduces a specific framework for distinguishing "easy calls" from "hard calls." In your own words, what is the difference? Why do the authors classify the danger from advanced AI as an "easy call," even though it may seem far-fetched to many people?
 
 #### Chat
 instructions::
