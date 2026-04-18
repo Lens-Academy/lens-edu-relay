@@ -77,8 +77,8 @@ source:: ![[../Learning Outcomes/IABIED - AI Is Grown, Not Crafted]]
 
 # Learning Outcome: IABIED - Behavior Is Not Values
 source:: ![[../Learning Outcomes/IABIED - Behavior Is Not Values]]
-%%
 
+%%
 # Lens: {++{"author":"AI","timestamp":1776500905804}@@Priming — Introduction
 id:: f1a2b3c4-d5e6-4789-f012-a3b4c5d6e7f0
 
