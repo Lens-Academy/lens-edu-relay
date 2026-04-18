@@ -10,10 +10,10 @@ authors:
 ---
 
 
-## Test:
+## Test:: 
 The Introduction introduces a framework for thinking about predictions: some things about the future are "easy calls" and others are "hard calls." In your own words, what makes a prediction an easy call versus a hard call? And where do the authors place their central warning about AI on that spectrum — and why?
 
-### Rubric:
+### Rubric:: 
 **1** — Conflates easy/hard calls with likely/unlikely outcomes; no understanding of the mechanism. *Example: "Easy calls are things that will definitely happen."*
 
 **2** — Has the rough intuition (some futures are more knowable than others) but cannot explain what makes a prediction path-independent. *Example: "Easy calls are things we're pretty confident about. Hard calls depend on too many unknowns."*
@@ -24,7 +24,7 @@ The Introduction introduces a framework for thinking about predictions: some thi
 
 **5** — As above, plus productively interrogates the classification itself — what assumptions make something "reliable enough" to be an easy call, or whether the authors have actually established that. *Example: "I'd want to push back on whether the mechanism really does make the outcome inevitable — the easy/hard framework assumes we know enough about how capable AI behaves to treat it like an ice cube melting, but do we?"*
 
-## Lens:
+## Lens::
 source:: ![[../Lenses/IABIED - Hard Calls and Easy Calls]]
 
 ## Lens:
