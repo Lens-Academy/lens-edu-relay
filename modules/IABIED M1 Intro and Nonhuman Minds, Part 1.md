@@ -29,7 +29,7 @@ Therefore, the time commitment runs from 3 hours for the minimalist, fast reader
 ### Structure
 ### Community 
 
-We hope this book club will also help grow the AI safety community. Some of these topics are counter-intuitive, scary, and maybe even depressing. We hope working through this material with a group of like-minded individuals will give you the opportunity to give and receive support in working through this challenging problem. We also notice that 
+We hope this book club will also help grow the AI safety community. Some of these topics are counter-intuitive, scary, and maybe even depressing. We hope working through this material with a group of like-minded individuals will give you the opportunity to give and receive support in working through this challenging problem. We also notice that it takes most people 
 
 **This week's reading:** Introduction ("Hard Calls and Easy Calls") + Chapter 1 ("Humanity's Special Power") + Chapter 2 ("Grown, Not Crafted"). After reading, come back here to discuss with the tutor.
 
