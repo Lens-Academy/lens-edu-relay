@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1776513511079}@@---
+{++{"author":"AI","timestamp":1776535193969}@@---
 id: a2b3c4d5-e6f7-4a89-b012-c3d4e5f6a7b8
 summary_for_tutor: "Teaches the prediction-plus-steering definition of intelligence and the concept of generality from the first half of Chapter 1. Students first reflect on what makes human intelligence distinctive, then read, then explain the two components and why generality — not raw power — is what matters."
 title: "Define Intelligence"
@@ -10,23 +10,11 @@ tags:
   - IABIED
   - work-in-progress
 ---
-#### Page: Before You Read
 #### Text
-content:: Before reading Chapter 1: When you think of "intelligence," what do you mean? Some animals are experts in their niche — a bat's sonar, a crow's tool use, a dog's nose. What do you think makes human intelligence distinctively powerful compared to theirs? Jot down a quick answer before reading — the authors have a specific framework for this.
-
+content::
 **Read Chapter 1 ("Humanity's Special Power"), from "IMAGINE, IF YOU would—though of course nothing like this ever happened, it being just a parable—that biological life on Earth had been the result of a game between gods." to "it is still in some important sense 'shallow' compared to a human twelve-year-old."**
 
-#### Chat
-instructions::
-The student is about to read the first half of Chapter 1 of "If Anyone Builds It, Everyone Dies."
-
-They just answered: "What makes human intelligence distinctively powerful compared to other animals?"
-
-Acknowledge their answer in 1–2 sentences. Do not explain the prediction/steering framework or define generality — they will encounter these in the reading. Close with something like: "Keep that in mind as you read. Head to Chapter 1 when you're ready and come back when you've finished the assigned section."
-
-#### Page: After Reading
-#### Text
-content:: Chapter 1 introduces a specific framework for what intelligence actually is — two components that work together. What are they, and how do they relate? And the chapter argues that generality, not raw capability, is what makes human intelligence so powerful. In your own words, why generality?
+Chapter 1 introduces a specific framework for what intelligence actually is — two components that work together. What are they, and how do they relate? And the chapter argues that generality, not raw capability, is what makes human intelligence so powerful. In your own words, why generality?
 
 #### Chat
 instructions::
