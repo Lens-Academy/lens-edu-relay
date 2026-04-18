@@ -35,6 +35,6 @@ source:: ![[../Lenses/IABIED - Hard Calls and Easy Calls]]
 
 ## Lens:
 optional:: true
-source:: ![[../Lenses/IABIED - QA - {--{"author":"AI","timestamp":1776500734058}@@Is Intelligence a Meaningful Concept]]--}{++{"author":"AI","timestamp":1776500734058}@@Why Write This Book]]
+source:: ![[../Lenses/IABIED - QA - {--{"author":"AI","timestamp":1776500734058}@@Is Intelligence a Meaningful Concept]]--}Why Write This Book]]
 source:: ![[../Lenses/IABIED - QA - When Will Worrisome AI Arrive]]
-source:: ![[../Lenses/IABIED - QA - Extrapolating AI Progress]]++}
+source:: ![[../Lenses/IABIED - QA - Extrapolating AI Progress]]
