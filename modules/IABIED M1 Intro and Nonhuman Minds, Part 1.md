@@ -26,7 +26,7 @@ The reading requirement is quite modest. We cover roughly 32 pages of the book p
 
 Therefore, the time commitment runs from 3 hours for the minimalist, fast reader, whereas a more completion-oriented student could double that before hitting diminishing returns.
 ### Structure
-We'll cover the book over the course of 6 weeks. Each week, you'll log in here and this inter
+We'll cover the book over the course of 6 weeks. Each week, you'll log in here and this interface will guide you through readings, AI tutor conversations
 ### Community 
 
 We hope this book club will also help grow the AI safety community. Some of these topics are counter-intuitive, scary, and maybe even depressing. We hope working through this material with a group of like-minded individuals will give you the opportunity to give and receive support in working through this challenging problem. We also notice that it takes most people time to find their niche for contributing to AI safety. An important part of that exploration process is meeting others in the community, having conversations, and learning what different groups and organizations are up to. Take the opporunity to start building your network during this course by staying active between meetings.
