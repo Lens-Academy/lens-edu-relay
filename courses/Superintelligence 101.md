@@ -32,6 +32,6 @@ discussion:  https://discord.com/channels/1440725236843806762/148125975137432792
 
 # Meeting: Facing the Challenge, part 2
 
-# Module: [[../modules/IABIED M7 What Happens Next]]
+{--{"author":"AI","timestamp":1776498851732}@@# Module: [[../modules/IABIED M7 What Happens Next]]
 
-# Meeting: What Happens Next
+# Meeting: What Happens Next--}
