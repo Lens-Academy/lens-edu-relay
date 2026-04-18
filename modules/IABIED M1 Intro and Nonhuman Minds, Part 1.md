@@ -48,10 +48,7 @@ Discussion topics to explore:
 
 Ask what they found surprising or new. Check if they can explain why "grown, not crafted" matters for safety in their own words — it's a key concept.
 
-{++{"author":"AI","timestamp":1776499397635}@@# Lens: The Six-Week Arc
-id:: a1f4c3d2-e5b6-4789-a012-b3c4d5e6f701
-
-#### Text
+{++{"author":"AI","timestamp":1776499674943}@@#### Text
 content:: **Six weeks. One argument.** Each week covers 2–3 chapters of *If Anyone Builds It, Everyone Dies* and builds on the last:
 
 | Week | Theme | Chapters |
@@ -65,9 +62,6 @@ content:: **Six weeks. One argument.** Each week covers 2–3 chapters of *If An
 
 The arc moves deliberately: curiosity → unease → recognition → dread → frustration → agency. Don't skip ahead.
 
-# Lens: How to Do the Work
-id:: b2e5d4c3-f6a7-4890-b123-c4d5e6f7a802
-
 #### Text
 content:: All assignments run through **lensacademy.org**. Log in, open this week's module, and work through the steps in order:
 
@@ -75,9 +69,6 @@ content:: All assignments run through **lensacademy.org**. Log in, open this wee
 2. **Reading** — ~32 pages (~1 hour). Complete before the tutor discussion.
 3. **Tutor discussion** — Chat with the AI tutor about what you read (~1 hour). It will ask you questions; push back, ask follow-ups, explore what confused you.
 4. **Homework** — Assigned each week in the course interface or by your facilitator in Discord. Check your cohort channel during the week.
-
-# Lens: Your Cohort
-id:: c3f6e5d4-a7b8-4901-c234-d5e6f7a8b903
 
 #### Text
 content:: **Discord** is where your cohort lives between sessions. Post questions and reactions as you go — don't save them for the meeting.
