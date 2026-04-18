@@ -65,7 +65,7 @@ Ask what they found surprising or new. Check if they can explain why "grown, not
 %%
 
 %%
-# Learning Outcome: IABIED - Hard Calls and {--{"author":"AI","timestamp":1776500895163}@@Can Be Done...--}{++{"author":"AI","timestamp":1776500895163}@@Easy Calls++}
+# Learning Outcome: IABIED - Hard Calls and Easy Calls
 source:: ![[../Learning Outcomes/IABIED - Hard Calls and Easy Calls]]
 
 # Learning Outcome: IABIED - Define Intelligence
