@@ -6,7 +6,7 @@ tags:
   - learning-outcome
   - IABIED
 authors:
-  - Claude+Chris
+  - {--{"author":"AI","timestamp":1776509951540}@@Claude+Chris--}{++{"author":"AI","timestamp":1776509951540}@@Chris+Claude++}
 ---
 
 ## Test:
