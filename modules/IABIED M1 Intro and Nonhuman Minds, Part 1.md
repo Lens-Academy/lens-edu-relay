@@ -78,7 +78,7 @@ source:: ![[../Learning Outcomes/IABIED - AI Is Grown, Not Crafted]]
 # Learning Outcome: IABIED - Behavior Is Not Values
 source:: ![[../Learning Outcomes/IABIED - Behavior Is Not Values]]
 
-%%
+{--{"author":"AI","timestamp":1776513578775}@@%%
 # Lens: Priming — Introduction
 id:: f1a2b3c4-d5e6-4789-f012-a3b4c5d6e7f0
 
@@ -120,7 +120,7 @@ The student is about to read Chapter 2: "Grown, Not Crafted."
 They just answered: "If you trained an AI on good behavior, would it have good values? Is there a difference between behaving well and wanting good things?"
 
 Acknowledge in 1–2 sentences. Do not explain the behavior/values distinction — the chapter makes this argument. Close with: "Chapter 2 has a specific and somewhat unsettling answer. Go read and come back."
-%%
+%%--}
 # Lens: Overview of Optional Resources
 id:: 77b913b7-0462-4a87-bce0-5bb3419b34fc
 
