@@ -23,6 +23,6 @@ Chapter 1 defines intelligence in a specific way that's different from everyday 
 
 ## Lens:
 optional:: true
-source:: ![[../Lenses/IABIED - QA - {--{"author":"AI","timestamp":1776500746350}@@How Smart Could a Superintelligence Get]]--}{++{"author":"AI","timestamp":1776500746350}@@Intelligence as Prediction and Steering]]
+source:: ![[../Lenses/IABIED - QA - Intelligence as Prediction and Steering]]
 source:: ![[../Lenses/IABIED - QA - General Intelligence]]
-source:: ![[../Lenses/IABIED - QA - Is Intelligence Meaningful]]++}
+source:: ![[../Lenses/IABIED - QA - Is Intelligence Meaningful]]
