@@ -48,7 +48,7 @@ Discussion topics to explore:
 
 Ask what they found surprising or new. Check if they can explain why "grown, not crafted" matters for safety in their own words — it's a key concept.
 
-{++{"author":"AI","timestamp":1776499715561}@@#### Text
+#### Text
 content:: **Six weeks. One argument.** Each week covers 2–3 chapters of *If Anyone Builds It, Everyone Dies* and builds on the last:
 
 | Week | Theme | Chapters |
@@ -73,7 +73,7 @@ All assignments run through **lensacademy.org**. Log in, open this week's module
 
 **Weekly meeting** — 90 minutes on Zoom. You will receive a meeting link. Come having finished the reading and started the tutor discussion.
 
-++}%%
+%%
 # Learning Outcome: IABIED - If It's Valuable and Can Be Done...
 source:: ![[../Learning Outcomes/IABIED - If It's Valuable and Can Be Done...]]
 %%
