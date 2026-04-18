@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1776513188604}@@---
+{++{"author":"AI","timestamp":1776513416532}@@---
 id: e5f8a7b6-c9d0-4123-e456-f7a8b9c0d1e2
 learning-outcome: "Distinguish an AI that produces aligned-seeming outputs from one that has aligned internal states, and explain why this gap is the alignment problem — and why producing better outputs doesn't close it."
 reading-from: "Modern LLMs are, in some sense, truly alien minds—perhaps more alien in some ways than any biological, evolved creatures we'd find if we explored the cosmos."
@@ -12,9 +12,16 @@ tags:
 ---
 
 ## Test:
-Chapter 2 ends with a distinction the rest of the course will keep returning to: the difference between an AI that *behaves* as if it's aligned and one that *is* aligned. In your own words, what is that distinction, and why does it matter? The chapter uses an analogy to anchor it — what is it, and what does it illustrate?
+#### Text
+content::
+Chapter 2 ends with a distinction the rest of the course will keep returning to: the difference between an AI that *behaves* as if it's aligned and one that *is* aligned.
 
-### Rubric:
+#### Question
+feedback:: true
+content:: In your own words, what is that distinction, and why does it matter? The chapter uses an analogy to anchor it — what is it, and what does it illustrate?
+
+assessment-instructions::
+Score according to the following rubric.
 **1** — Treats behavior and values as equivalent for AI: if it acts aligned, it is aligned. *Example: "If the AI acts helpful and avoids harm then it is safe. That's what alignment means."*
 
 **2** — Grasps that behavior and values can come apart in principle, but treats this as a minor or unlikely concern rather than a structural problem. *Example: "Even if AI acts nice it might not really be nice inside, but as long as it keeps acting nice it doesn't matter much."*
