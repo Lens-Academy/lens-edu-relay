@@ -17,8 +17,8 @@ content::
 - To: *it++} is still in some important sense 'shallow' compared to a human {--{"author":"AI","timestamp":1776535827879}@@twelve-year-old."**--}{++{"author":"AI","timestamp":1776535827879}@@twelve-year-old.*
 Return here after reading.++}
 
-{++{"author":"AI","timestamp":1776535827879}@@\## After reading
-++}Chapter 1 introduces a specific framework for what intelligence actually is — two components that work together. What are they, and how do they relate? And the chapter argues that generality, not raw capability, is what makes human intelligence so powerful. In your own words, why generality?
+\## After reading
+Chapter 1 introduces a specific framework for what intelligence actually is — two components that work together. What are they, and how do they relate? And the chapter argues that generality, not raw capability, is what makes human intelligence so powerful. In your own words, why generality?
 
 #### Chat
 instructions::
