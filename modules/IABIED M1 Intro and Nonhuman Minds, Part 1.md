@@ -67,16 +67,16 @@ Ask what they found surprising or new. Check if they can explain why "grown, not
 source:: ![[../Learning Outcomes/Distinguish Hard Calls from Easy Calls]]
 
 # Learning Outcome: IABIED - Define Intelligence
-source:: ![[../Learning Outcomes/IABIED - Define Intelligence]]
+source:: ![[../Learning Outcomes/Define Intelligence]]
 
 # Learning Outcome: IABIED - Intelligence Is Direction-Agnostic
-source:: ![[../Learning Outcomes/IABIED - Intelligence Is Direction-Agnostic]]
+source:: ![[../Learning Outcomes/Explain Intelligence Is Direction-Agnostic]]
 
 # Learning Outcome: IABIED - AI Is Grown, Not Crafted
-source:: ![[../Learning Outcomes/IABIED - AI Is Grown, Not Crafted]]
+source:: ![[../Learning Outcomes/Explain AI Is Grown, Not Crafted]]
 
 # Learning Outcome: IABIED - Behavior Is Not Values
-source:: ![[../Learning Outcomes/IABIED - Behavior Is Not Values]]
+source:: ![[../Learning Outcomes/Distinguish Behavior from Values]]
 
 {--{"author":"AI","timestamp":1776513578775}@@%%
 # Lens: Priming — Introduction
