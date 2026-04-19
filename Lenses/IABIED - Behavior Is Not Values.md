@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1776513528810}@@---
+{++{"author":"AI","timestamp":1776586508800}@@---
 id: d5e6f7a8-b9c0-4d12-e345-f6a7b8c9d0e1
 summary_for_tutor: "Teaches the behavior/values distinction from the second half of Chapter 2 — the M1 capstone. Students first reflect on what aligned behavior tells us about internal states, then read, then articulate why producing aligned outputs doesn't mean having aligned values."
 title: "Behavior Is Not Values"
@@ -10,23 +10,21 @@ tags:
   - IABIED
   - work-in-progress
 ---
-#### Page: Before You Read
 #### Text
-content:: Before reading the second half of Chapter 2: If an AI consistently gives helpful, harmless answers and declines all requests that could cause harm — does that mean it "wants" to be helpful? Could there be a difference between an AI that acts aligned and one that is aligned? Write down your intuition before reading.
+content::
+\## Reading Assignment
+**Read *Chapter 2: Grown, Not Crafted*.** Start at the phrase
+> Modern LLMs are, in some sense, truly alien minds—perhaps more alien in some ways than any biological, evolved creatures we'd find if we explored the cosmos.
 
-**Read Chapter 2 ("Grown, Not Crafted"), from "Modern LLMs are, in some sense, truly alien minds—perhaps more alien in some ways than any biological, evolved creatures we'd find if we explored the cosmos." to "That's the issue we turn to next."**
+Stop when you reach
+> That's the issue we turn to next.
 
-#### Chat
-instructions::
-The student is about to read the second half of Chapter 2 of "If Anyone Builds It, Everyone Dies."
+Return here after reading.
 
-They just answered: "Is there a difference between an AI that acts aligned and one that is aligned?"
+---
 
-Acknowledge their answer in 1–2 sentences. Do not explain the behavior/values distinction or the actor analogy — they will encounter it in the reading. Close with something like: "Hold onto that intuition as you read. Come back when you've finished the assigned section."
-
-#### Page: After Reading
-#### Text
-content:: Chapter 2 ends with a distinction that will recur throughout this course: the difference between an AI that *behaves* as if it's aligned and one that *is* aligned. In your own words, what is the distinction? The chapter uses a specific analogy — what is it, and why does it work? And why does this gap matter for safety?
+\## After Reading
+Chapter 2 ends with a distinction that will recur throughout this course: the difference between an AI that *behaves* as if it's aligned and one that *is* aligned. In your own words, what is the distinction? The chapter uses a specific analogy — what is it, and why does it work? And why does this gap matter for safety?
 
 #### Chat
 instructions::
