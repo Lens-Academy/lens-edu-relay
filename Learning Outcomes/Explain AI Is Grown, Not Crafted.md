@@ -33,7 +33,10 @@ Score according to the following rubric.
 {++{"author":"AI","timestamp":1776500768268}@@**5** — As above, plus articulates the process-knowledge/cognition-knowledge distinction: understanding how a system was produced is not the same as understanding what it is. *Example: "There are two kinds of understanding here. Engineers have process-knowledge — they know exactly how the training works. But they lack cognition-knowledge — they don't know what the model actually represents or wants. Confusing these two is the mistake that makes people overconfident about AI safety."*
 
 ++}## Lens:
-{++{"author":"AI","timestamp":1776513537317}@@source:: ![[../Lenses/IABIED - AI Is Grown, Not Crafted]]
+{++{"author":"AI","timestamp":1776586473867}@@source:: ![[../Lenses/IABIED - PQ - AI Is Grown, Not Crafted]]
+
+## Lens:
+source:: ![[../Lenses/IABIED - AI Is Grown, Not Crafted]]
 
 ## Lens:
 ++}optional:: true
