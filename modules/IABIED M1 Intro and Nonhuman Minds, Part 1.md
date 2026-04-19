@@ -42,7 +42,7 @@ We hope this book club will also help grow the AI safety community. Some of thes
 
 Don't save your questions and insights for the meeting day, post them into Discord as soon as they arise!
 
-{++{"author":"AI","timestamp":1776586531157}@@# Lens: IABIED - PQ - Hard Calls and Easy Calls
+# Lens: IABIED - PQ - Hard Calls and Easy Calls
 source:: ![[../Lenses/IABIED - PQ - Hard Calls and Easy Calls]]
 
 # Lens: IABIED - Hard Calls and Easy Calls
@@ -72,7 +72,7 @@ source:: ![[../Lenses/IABIED - PQ - Behavior Is Not Values]]
 # Lens: IABIED - Behavior Is Not Values
 source:: ![[../Lenses/IABIED - Behavior Is Not Values]]
 
-++}%%
+%%
 **This week's reading:** Introduction ("Hard Calls and Easy Calls") + Chapter 1 ("Humanity's Special Power") + Chapter 2 ("Grown, Not Crafted"). After reading, come back here to discuss with the tutor.
 
 #### Chat
