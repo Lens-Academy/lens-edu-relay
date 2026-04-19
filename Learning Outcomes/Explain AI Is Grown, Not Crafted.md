@@ -40,6 +40,7 @@ source:: ![[../Lenses/IABIED - AI Is Grown, Not Crafted]]
 
 ## Lens:
 optional:: true
-source:: ![[../Lenses/IABIED - QA - {--{"author":"AI","timestamp":1776500768268}@@Will AI Cross Critical Thresholds]]--}{++{"author":"AI","timestamp":1776500768268}@@Gradient Descent Matters]]
+hidden
+source:: ![[../Lenses/IABIED - QA - Gradient Descent Matters]]
 source:: ![[../Lenses/IABIED - QA - Building Without Understanding]]
-source:: ![[../Lenses/IABIED - QA - Do Experts Understand AIs]]++}
+source:: ![[../Lenses/IABIED - QA - Do Experts Understand AIs]]
