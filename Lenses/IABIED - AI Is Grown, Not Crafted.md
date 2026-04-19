@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1776586469129}@@---
+---
 id: c4d5e6f7-a8b9-4c01-d234-e5f6a7b8c9d0
 summary_for_tutor: "Teaches the gradient descent / grown-not-crafted framework from the first half of Chapter 2. Students first reflect on how they imagine modern AI is made, then read about gradient descent, then articulate why knowing the training process doesn't mean knowing what the model learned."
 title: "AI Is Grown, Not Crafted"
@@ -46,4 +46,3 @@ Discussion guidance:
 - Push toward the safety implication: if you can't look inside and read off what the model believes or wants, what does that mean for verifying it's safe?
 
 Probe: "Is there a difference between knowing how something was made and knowing what it is? Give me a non-AI example."
-++}
