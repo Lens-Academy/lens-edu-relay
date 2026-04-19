@@ -42,36 +42,6 @@ We hope this book club will also help grow the AI safety community. Some of thes
 
 Don't save your questions and insights for the meeting day, post them into Discord as soon as they arise!
 
-# Lens: IABIED - PQ - Hard Calls and Easy Calls
-source:: ![[../Lenses/IABIED - PQ - Hard Calls and Easy Calls]]
-
-# Lens: IABIED - Hard Calls and Easy Calls
-source:: ![[../Lenses/IABIED - Hard Calls and Easy Calls]]
-
-# Lens: IABIED - PQ - Define Intelligence
-source:: ![[../Lenses/IABIED - PQ - Define Intelligence]]
-
-# Lens: IABIED - Define Intelligence
-source:: ![[../Lenses/IABIED - Define Intelligence]]
-
-# Lens: IABIED - PQ - Intelligence Is Direction-Agnostic
-source:: ![[../Lenses/IABIED - PQ - Intelligence Is Direction-Agnostic]]
-
-# Lens: IABIED - Intelligence Is Direction-Agnostic
-source:: ![[../Lenses/IABIED - Intelligence Is Direction-Agnostic]]
-
-# Lens: IABIED - PQ - AI Is Grown, Not Crafted
-source:: ![[../Lenses/IABIED - PQ - AI Is Grown, Not Crafted]]
-
-# Lens: IABIED - AI Is Grown, Not Crafted
-source:: ![[../Lenses/IABIED - AI Is Grown, Not Crafted]]
-
-# Lens: IABIED - PQ - Behavior Is Not Values
-source:: ![[../Lenses/IABIED - PQ - Behavior Is Not Values]]
-
-# Lens: IABIED - Behavior Is Not Values
-source:: ![[../Lenses/IABIED - Behavior Is Not Values]]
-
 %%
 **This week's reading:** Introduction ("Hard Calls and Easy Calls") + Chapter 1 ("Humanity's Special Power") + Chapter 2 ("Grown, Not Crafted"). After reading, come back here to discuss with the tutor.
 
