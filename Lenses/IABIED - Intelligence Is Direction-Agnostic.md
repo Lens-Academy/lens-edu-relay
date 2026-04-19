@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1776586390808}@@---
+---
 id: b3c4d5e6-f7a8-4b90-c123-d4e5f6a7b8c9
 summary_for_tutor: "Teaches the direction-agnostic property of intelligence and its safety implication from the second half of Chapter 1. Students first reflect on whether smarter necessarily means better-aligned, then read, then articulate why capability and values are independent variables."
 title: "Intelligence Is Direction-Agnostic"
@@ -45,4 +45,3 @@ Discussion guidance:
 - Watch for the confusion: "direction-agnostic" ≠ "dangerous by design" — it just means capability and values are separate
 
 Probe: "Can you think of a human example of someone highly intelligent pursuing goals that caused serious harm? What does that tell us about the relationship between intelligence and values?"
-++}
