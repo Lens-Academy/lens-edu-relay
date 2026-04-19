@@ -78,49 +78,7 @@ source:: ![[../Learning Outcomes/Explain AI Is Grown, Not Crafted]]
 # Learning Outcome: IABIED - Behavior Is Not Values
 source:: ![[../Learning Outcomes/Distinguish Behavior from Values]]
 
-{--{"author":"AI","timestamp":1776513578775}@@%%
-# Lens: Priming — Introduction
-id:: f1a2b3c4-d5e6-4789-f012-a3b4c5d6e7f0
 
-#### Text
-content:: Before reading the Introduction: What kinds of things about the future do you feel fairly confident predicting? What makes a prediction feel like a "sure thing" versus a "coin flip"? Take a moment to write down your answer — the authors have a specific framework for this.
-
-#### Chat
-instructions::
-The student is about to read the Introduction to "If Anyone Builds It, Everyone Dies."
-
-They just answered the question: "What kinds of things about the future do you feel confident predicting? What makes a prediction feel like a sure thing versus a coin flip?"
-
-Acknowledge their answer in 1–2 sentences. Do not explain or preview the hard/easy calls framework — they will encounter it in the reading. Close with something like: "Keep that in mind as you read. Head to the Introduction when you're ready and come back when you've finished all three chapters."
-
-# Lens: Priming — Chapter 1
-id:: f2b3c4d5-e6f7-4890-f123-b4c5d6e7f8a1
-
-#### Text
-content:: Before reading Chapter 1: What do you think makes humans special compared to other animals? Write down your answer before you read.
-
-#### Chat
-instructions::
-The student is about to read Chapter 1: "Humanity's Special Power."
-
-They just answered: "What makes humans special compared to other animals?"
-
-Acknowledge in 1–2 sentences. Do not preview the chapter's answer. Close with: "See how the chapter's answer compares to yours."
-
-# Lens: Priming — Chapter 2
-id:: f3c4d5e6-f7a8-4901-f234-c5d6e7f8a9b2
-
-#### Text
-content:: Before reading Chapter 2: If you trained an AI by showing it millions of examples of helpful, honest behavior, would you expect it to have good values? Is there a difference between an AI that reliably behaves well and one that actually wants good things?
-
-#### Chat
-instructions::
-The student is about to read Chapter 2: "Grown, Not Crafted."
-
-They just answered: "If you trained an AI on good behavior, would it have good values? Is there a difference between behaving well and wanting good things?"
-
-Acknowledge in 1–2 sentences. Do not explain the behavior/values distinction — the chapter makes this argument. Close with: "Chapter 2 has a specific and somewhat unsettling answer. Go read and come back."
-%%--}
 # Lens: Overview of Optional Resources
 id:: 77b913b7-0462-4a87-bce0-5bb3419b34fc
 
