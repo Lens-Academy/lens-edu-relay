@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1776535935038}@@---
+{++{"author":"AI","timestamp":1776586390808}@@---
 id: b3c4d5e6-f7a8-4b90-c123-d4e5f6a7b8c9
 summary_for_tutor: "Teaches the direction-agnostic property of intelligence and its safety implication from the second half of Chapter 1. Students first reflect on whether smarter necessarily means better-aligned, then read, then articulate why capability and values are independent variables."
 title: "Intelligence Is Direction-Agnostic"
@@ -12,12 +12,17 @@ tags:
 ---
 #### Text
 content::
-**Read *Chapter 1: Humanity's Special Power*:**
-- From: *That won't stay true forever.*
-- To: the end
+\## Reading Assignment
+**Read *Chapter 1: Humanity's Special Power*.** Start at the phrase
+> That won't stay true forever.
+
+Read to the end of the chapter.
+
 Return here after reading.
 
-\## After reading
+---
+
+\## After Reading
 Chapter 1 makes a claim that challenges a common assumption: that smarter AI will naturally be safer or more aligned with human goals. The authors describe intelligence as "direction-agnostic." What does that mean? And what is the implication for AI safety — specifically for an AI smarter than us?
 
 #### Chat
