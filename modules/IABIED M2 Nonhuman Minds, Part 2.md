@@ -41,18 +41,6 @@ Discussion topics to explore:
 
 Ask what they found surprising or new. Check if they can explain the ice cream analogy in their own words — it's a key concept.
 
-# Lens: IABIED - PQ - Wanting Emerges from Training
-source:: ![[../Lenses/IABIED - PQ - Wanting Emerges from Training]]
-
-# Lens: IABIED - Wanting Emerges from Training
-source:: ![[../Lenses/IABIED - Wanting Emerges from Training]]
-
-# Lens: IABIED - PQ - You Don't Get What You Train For
-source:: ![[../Lenses/IABIED - PQ - You Don't Get What You Train For]]
-
-# Lens: IABIED - You Don't Get What You Train For
-source:: ![[../Lenses/IABIED - You Don't Get What You Train For]]
-
 %%
 %%
 
