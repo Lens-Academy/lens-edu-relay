@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1776586508800}@@---
+---
 id: d5e6f7a8-b9c0-4d12-e345-f6a7b8c9d0e1
 summary_for_tutor: "Teaches the behavior/values distinction from the second half of Chapter 2 — the M1 capstone. Students first reflect on what aligned behavior tells us about internal states, then read, then articulate why producing aligned outputs doesn't mean having aligned values."
 title: "Behavior Is Not Values"
@@ -46,4 +46,3 @@ Discussion guidance:
 - Help them see why better outputs don't close the gap: more RLHF just shapes more output, it doesn't peer inside
 
 Probe: "If you could design one experiment to test whether an AI has aligned values (not just aligned behavior), what would you try?"
-++}
