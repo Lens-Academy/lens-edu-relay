@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1776586513896}@@---
+---
 id: e5f8a7b6-c9d0-4123-e456-f7a8b9c0d1e2
 learning-outcome: "Distinguish an AI that produces aligned-seeming outputs from one that has aligned internal states, and explain why this gap is the alignment problem — and why producing better outputs doesn't close it."
 reading-from: "Modern LLMs are, in some sense, truly alien minds—perhaps more alien in some ways than any biological, evolved creatures we'd find if we explored the cosmos."
@@ -40,6 +40,7 @@ source:: ![[../Lenses/IABIED - Behavior Is Not Values]]
 
 ## Lens:
 optional:: true
+hidden:: true
 source:: ![[../Lenses/IABIED - QA - Just Predicting Next Token]]
 source:: ![[../Lenses/IABIED - QA - Building Without Understanding]]
-source:: ![[../Lenses/IABIED - QA - AIs Just Parroting]]++}
+source:: ![[../Lenses/IABIED - QA - AIs Just Parroting]]
