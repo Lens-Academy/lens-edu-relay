@@ -19,6 +19,8 @@ content::
 
 Return here after reading.
 
+---
+
 \## After Reading
 Chapter 1 introduces a specific framework for what intelligence actually is — two components that work together. What are they, and how do they relate? And the chapter argues that generality, not raw capability, is what makes human intelligence so powerful. In your own words, why generality?
 
