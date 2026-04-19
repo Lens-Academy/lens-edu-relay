@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1776535931990}@@---
+---
 id: a8b9c0d1-e2f3-4a45-b678-c9d0e1f2a3b4
 summary_for_tutor: "Priming question for Chapter 1 second half. Activates the student's prior intuitions about whether greater intelligence implies better values before they encounter the direction-agnostic concept."
 title: "Intelligence Is Direction-Agnostic — Priming"
@@ -20,4 +20,3 @@ The student is about to read the second half of Chapter 1 of "If Anyone Builds I
 They just answered: "Would a smarter AI also be more ethical or aligned with human values?"
 
 Acknowledge their answer in 1–2 sentences. Do not explain the direction-agnostic concept — they will encounter it in the reading. Close with something like: "Hold on to that intuition as you read. Come back when you've finished the assigned section."
-++}
