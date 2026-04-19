@@ -13,8 +13,8 @@ tags:
 #### Text
 content::
 \## Reading Assignment
-**Read *Chapter 1: Humanity's Special Power* from the beginning
-- To: *it is still in some important sense 'shallow' compared to a human twelve-year-old.*
+**Read *Chapter 1: Humanity's Special Power* from the beginning and stope when you reach
+> it is still in some important sense 'shallow' compared to a human twelve-year-old.*
 
 Return here after reading.
 
