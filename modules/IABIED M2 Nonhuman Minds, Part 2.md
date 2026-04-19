@@ -44,9 +44,23 @@ Ask what they found surprising or new. Check if they can explain the ice cream a
 # Lens: IABIED - PQ - Wanting Emerges from Training
 source:: ![[../Lenses/IABIED - PQ - Wanting Emerges from Training]]
 
-# Learning Outcome: IABIED - You Don't Get What You Train For
-source:: ![[../Learning Outcomes/IABIED - You Don't Get What You Train For]]{++{"author":"AI","timestamp":1774279295201}@@
-%%++}
+# Lens: IABIED - Wanting Emerges from Training
+source:: ![[../Lenses/IABIED - Wanting Emerges from Training]]
+
+# Lens: IABIED - PQ - You Don't Get What You Train For
+source:: ![[../Lenses/IABIED - PQ - You Don't Get What You Train For]]
+
+# Lens: IABIED - You Don't Get What You Train For
+source:: ![[../Lenses/IABIED - You Don't Get What You Train For]]
+
+%%
+%%
+
+# Learning Outcome: Explain Wanting Emerges from Training
+source:: ![[../Learning Outcomes/Explain Wanting Emerges from Training]]
+
+# Learning Outcome: Explain You Don't Get What You Train For
+source:: ![[../Learning Outcomes/Explain You Don't Get What You Train For]]
 
 # Lens: Overview of Optional Resources
 id:: f7a2b8c1-3d4e-4f5a-9b6c-8d7e0f1a2b3c
