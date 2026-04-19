@@ -40,6 +40,7 @@ source:: ![[../Lenses/IABIED - Intelligence Is Direction-Agnostic]]
 
 ## Lens:
 optional:: true
+hidden:: true
 source:: ![[../Lenses/IABIED - QA - Something Special About Humans]]
 source:: ![[../Lenses/IABIED - QA - ChatGPT as General Intelligence]]
 source:: ![[../Lenses/IABIED - QA - Intelligence as Prediction and Steering]]
