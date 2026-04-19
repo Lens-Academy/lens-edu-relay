@@ -1,17 +1,17 @@
 ---
 id: 626f8d04-2a11-479b-8761-a8705b4231a5
-learning-outcome: "Explain {--{"author":"AI","timestamp":1776500768268}@@the difference between grown systems (gradient descent) and--}{++{"author":"AI","timestamp":1776500768268}@@how AI produced through gradient descent differs from++} engineered systems, and why {--{"author":"AI","timestamp":1776500768268}@@this matters for safety"--}{++{"author":"AI","timestamp":1776500768268}@@understanding the training process does not mean understanding what the trained model is or does."++}
-{++{"author":"AI","timestamp":1776513184709}@@reading-from: "Scene: A man and a woman are sitting in a restaurant in daytime."
+learning-outcome: "Explain how AI produced through gradient descent differs from engineered systems, and why understanding the training process does not mean understanding what the trained model is or does."
+reading-from: "Scene: A man and a woman are sitting in a restaurant in daytime."
 reading-to: "Machine minds are subjected to different constraints, and grown under different pressures, than those that shape biological organisms; and although they're trained to predict human writing, the thinking inside an AI runs on a radically different architecture from a human's."
 authors:
   - Chris+Claude
-++}tags:
+tags:
   - learning-outcome
-  - IABIED{++{"author":"AI","timestamp":1776513184709}@@
-  - work-in-progress++}
+  - IABIED
+  - work-in-progress
 ---
 
-## Test:{++{"author":"AI","timestamp":1776513400840}@@
+## Test:
 #### Text
 content::
 Chapter 2 draws a sharp contrast between AI systems that are "grown" and systems that are "crafted."
@@ -28,11 +28,11 @@ Score according to the following rubric.
 
 **3** — Correctly explains that gradient descent produces cognition through optimization rather than deliberate design, and names the key gap: engineers understand the training process but cannot read the resulting weights to predict behavior (the DNA analogy: readable but not interpretable). *Example: "Engineers designed the training process but not what the model learned. The weights are like a genome — you can read them but you can't tell from them what the system will do, any more than reading DNA tells you exactly what an organism will be like."*
 
-**4** — As above, plus explains why this matters for safety: you can't verify what the system has learned or what goals it has developed. *Example: Adds "So even if the training went exactly as planned, you still can't look inside and confirm the model has the values you wanted it to have."*++}
+**4** — As above, plus explains why this matters for safety: you can't verify what the system has learned or what goals it has developed. *Example: Adds "So even if the training went exactly as planned, you still can't look inside and confirm the model has the values you wanted it to have."*
 
-{++{"author":"AI","timestamp":1776500768268}@@**5** — As above, plus articulates the process-knowledge/cognition-knowledge distinction: understanding how a system was produced is not the same as understanding what it is. *Example: "There are two kinds of understanding here. Engineers have process-knowledge — they know exactly how the training works. But they lack cognition-knowledge — they don't know what the model actually represents or wants. Confusing these two is the mistake that makes people overconfident about AI safety."*
+**5** — As above, plus articulates the process-knowledge/cognition-knowledge distinction: understanding how a system was produced is not the same as understanding what it is. *Example: "There are two kinds of understanding here. Engineers have process-knowledge — they know exactly how the training works. But they lack cognition-knowledge — they don't know what the model actually represents or wants. Confusing these two is the mistake that makes people overconfident about AI safety."*
 
-++}## Lens:
+## Lens:
 source:: ![[../Lenses/IABIED - PQ - AI Is Grown, Not Crafted]]
 
 ## Lens:
@@ -40,7 +40,7 @@ source:: ![[../Lenses/IABIED - AI Is Grown, Not Crafted]]
 
 ## Lens:
 optional:: true
-hidden
+hidden:: true
 source:: ![[../Lenses/IABIED - QA - Gradient Descent Matters]]
 source:: ![[../Lenses/IABIED - QA - Building Without Understanding]]
 source:: ![[../Lenses/IABIED - QA - Do Experts Understand AIs]]
