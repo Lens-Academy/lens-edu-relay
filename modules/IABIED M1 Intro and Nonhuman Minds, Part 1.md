@@ -80,6 +80,7 @@ source:: ![[../Learning Outcomes/Distinguish Behavior from Values]]
 
 # Lens: Overview of Optional Resources
 id:: 77b913b7-0462-4a87-bce0-5bb3419b34fc
+optional:: true
 
 #### Text:
 content::
