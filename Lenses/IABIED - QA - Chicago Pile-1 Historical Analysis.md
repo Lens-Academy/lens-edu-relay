@@ -4,8 +4,8 @@ title: "Isn't AI Different from Nuclear Reactors?"
 tags:
   - lens
   - IABIED
-  - supplementary
-  - work-in-progress
+  - supplementary{--{"author":"AI","timestamp":1776695258650}@@
+  - work-in-progress--}
 ---
 
 #### Text
