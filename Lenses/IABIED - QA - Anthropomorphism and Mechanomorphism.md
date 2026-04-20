@@ -6,8 +6,7 @@ tldr: "Mechanomorphism and Garry Kasparov"
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776695142794}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text

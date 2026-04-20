@@ -6,8 +6,7 @@ tldr: "We don't expect to make any money from the book in the average case. Sepa
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776695151026}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text

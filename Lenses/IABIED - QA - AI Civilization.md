@@ -5,8 +5,7 @@ tldr: "With computers, the hard part is getting them to solve a certain problem 
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776694983869}@@
-  - work-in-progress--}
+  - supplementary
 ---
 #### Text
 content::

@@ -6,8 +6,7 @@ tldr: "Saying AIs are \"just math\" is like saying humans are \"just biochemistr
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776695072015}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text

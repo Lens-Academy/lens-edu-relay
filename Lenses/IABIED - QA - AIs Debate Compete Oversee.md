@@ -5,8 +5,7 @@ tldr: "If the AIs get smart enough to matter, they likely collude."
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776695068606}@@
-  - work-in-progress--}
+  - supplementary
 ---
 #### Text
 content::

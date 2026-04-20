@@ -6,8 +6,7 @@ tldr: "To predict the next token well, LLMs need to learn how the world works."
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776695075905}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text

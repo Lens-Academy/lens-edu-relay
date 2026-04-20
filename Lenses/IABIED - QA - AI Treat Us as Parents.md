@@ -6,8 +6,7 @@ tldr: "It seems quite unlikely."
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776695020949}@@
-  - work-in-progress--}
+  - supplementary
 ---
 #### Text
 content::

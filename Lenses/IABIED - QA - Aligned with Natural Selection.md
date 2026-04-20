@@ -6,8 +6,7 @@ tldr: "With more technology, we'd likely make even fewer copies of our genes."
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776695100025}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text

@@ -6,8 +6,7 @@ tldr: "Yes."
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776694996743}@@
-  - work-in-progress--}
+  - supplementary
 ---
 #### Text
 content::

@@ -6,8 +6,7 @@ tldr: "AIs are grown, not crafted. So they already do things other than what the
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776695079950}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text

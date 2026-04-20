@@ -5,8 +5,7 @@ tldr: "No. Superintelligent AI is a very unusual case."
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776695146655}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text

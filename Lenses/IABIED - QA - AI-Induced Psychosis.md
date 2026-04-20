@@ -5,8 +5,7 @@ tldr: "Evidence of AI-Induced Psychosis"
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776695063878}@@
-  - work-in-progress--}
+  - supplementary
 ---
 #### Text
 content::
