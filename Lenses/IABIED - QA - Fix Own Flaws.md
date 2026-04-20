@@ -6,8 +6,8 @@ tldr: "The AI will fix what *it* sees as flaws."
 tags:
   - lens
   - IABIED
-  - supplementary
-  - work-in-progress
+  - supplementary{--{"author":"AI","timestamp":1776695477561}@@
+  - work-in-progress--}
 ---
 
 #### Text
