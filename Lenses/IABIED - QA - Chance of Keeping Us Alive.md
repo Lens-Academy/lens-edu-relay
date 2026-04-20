@@ -6,8 +6,8 @@ tldr: "It's overwhelmingly more likely that AI kills everyone."
 tags:
   - lens
   - IABIED
-  - supplementary
-  - work-in-progress
+  - supplementary{--{"author":"AI","timestamp":1776695250148}@@
+  - work-in-progress--}
 ---
 #### Text
 content::
