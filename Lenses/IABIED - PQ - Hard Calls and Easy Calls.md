@@ -11,7 +11,7 @@ tags:
   - work-in-progress
 ---
 #### Text
-content:: Before reading the Introduction: What kinds of things about the future do you feel fairly confident predicting? What makes a prediction feel like a "sure thing" versus a "coin flip"? Take a moment to jot down your answer before reading. There's no right or wrong answers to priming questions, we just want you to gather the authors have a specific framework for this.
+content:: Before reading the Introduction: What kinds of things about the future do you feel fairly confident predicting? What makes a prediction feel like a "sure thing" versus a "coin flip"? Take a moment to jot down your answer before reading. There's no right or wrong answers to priming questions, we just want you to gather your thoughts before you're exposed to t the authors have a specific framework for this.
 
 #### Chat
 instructions::
