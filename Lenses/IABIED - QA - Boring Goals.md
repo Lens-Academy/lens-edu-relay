@@ -6,8 +6,8 @@ tldr: "AIs won't run on a human sense of novelty."
 tags:
   - lens
   - IABIED
-  - supplementary
-  - work-in-progress
+  - supplementary{--{"author":"AI","timestamp":1776695169044}@@
+  - work-in-progress--}
 ---
 #### Text
 content::
