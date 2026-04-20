@@ -40,6 +40,7 @@ source:: ![[../Lenses/IABIED - Hard Calls and Easy Calls]]
 
 ## Lens:
 optional:: true
+hidden:: true
 source:: ![[../Lenses/IABIED - QA - Why Write This Book]]
 source:: ![[../Lenses/IABIED - QA - When Will Worrisome AI Arrive]]
 source:: ![[../Lenses/IABIED - QA - Extrapolating AI Progress]]
