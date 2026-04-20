@@ -8,7 +8,6 @@ author:
 tags:
   - clippings
   - IABIED
-  - work-in-progress
 ---
 
 #### AIs are grown, not crafted. So they already do things other than what they're told to do.
