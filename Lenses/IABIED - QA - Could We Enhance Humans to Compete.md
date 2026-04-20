@@ -4,8 +4,8 @@ title: "Can we enhance humans so they keep pace with AI?"
 tags:
   - lens
   - IABIED
-  - supplementary
-  - work-in-progress
+  - supplementary{--{"author":"AI","timestamp":1776695323009}@@
+  - work-in-progress--}
 ---
 
 #### Text
