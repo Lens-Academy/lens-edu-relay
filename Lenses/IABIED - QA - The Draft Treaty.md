@@ -4,8 +4,7 @@ title: "Why did you pick this setup?"
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776696161323}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text

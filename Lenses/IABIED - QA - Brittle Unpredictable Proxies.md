@@ -5,8 +5,7 @@ tldr: "Squirrelly Algorithms"
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776695173628}@@
-  - work-in-progress--}
+  - supplementary
 ---
 #### Text
 content::

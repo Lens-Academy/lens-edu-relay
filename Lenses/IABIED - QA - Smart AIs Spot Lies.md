@@ -5,8 +5,7 @@ tldr: "Deep Machinery of Prediction"
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776696136912}@@
-  - work-in-progress--}
+  - supplementary
 ---
 #### Text
 content::

@@ -6,8 +6,7 @@ tldr: "Not necessarily, and this seems like a separate topic."
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776695988889}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text

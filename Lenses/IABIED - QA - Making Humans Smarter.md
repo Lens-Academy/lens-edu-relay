@@ -5,8 +5,7 @@ tldr: "It could help with solving the alignment problem."
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776696026774}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text

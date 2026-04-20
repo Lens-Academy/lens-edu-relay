@@ -5,8 +5,7 @@ tldr: "Many technologies are banned or heavily regulated."
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776695230334}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text

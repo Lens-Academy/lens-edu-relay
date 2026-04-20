@@ -6,8 +6,7 @@ tldr: "No. But there are levels AI hasn't reached."
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776695666363}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text

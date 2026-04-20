@@ -4,8 +4,7 @@ title: "The Same Work Can Be Done in Many Different Ways"
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776696111132}@@
-  - work-in-progress--}
+  - supplementary
 ---
 #### Text
 content::

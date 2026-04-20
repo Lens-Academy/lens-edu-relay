@@ -5,8 +5,7 @@ tldr: "Comparing Natural Selection and Gradient Descent"
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776695336422}@@
-  - work-in-progress--}
+  - supplementary
 ---
 #### Text
 content::

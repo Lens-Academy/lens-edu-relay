@@ -5,8 +5,7 @@ title: The Shallowness of Current AIs
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776696113215}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text

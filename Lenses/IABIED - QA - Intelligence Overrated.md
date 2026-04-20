@@ -6,8 +6,7 @@ tldr: "Only if you're using an overly narrow definition of 'intelligence.'"
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776695645891}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text

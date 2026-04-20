@@ -6,8 +6,7 @@ tldr: "Passivity is in tension with usefulness."
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776696059052}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text

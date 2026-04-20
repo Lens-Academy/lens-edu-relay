@@ -6,8 +6,7 @@ tldr: "The weirdness is evidence that their actual pursuits aren't our intended 
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776696193241}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text

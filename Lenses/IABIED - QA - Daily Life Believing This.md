@@ -5,8 +5,7 @@ tldr: "It dramatically affects our priorities."
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776695331743}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text

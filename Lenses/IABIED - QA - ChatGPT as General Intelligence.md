@@ -6,8 +6,7 @@ tldr: "You could call it that if you'd like."
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776695254184}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text
