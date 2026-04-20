@@ -4,8 +4,8 @@ summary_for_tutor: "Covers career paths in AI safety after completing the IABIED
 title: AI Safety Career Paths
 tags:
   - lens
-  - IABIED
-  - work-in-progress
+  - IABIED{--{"author":"AI","timestamp":1776722123430}@@
+  - work-in-progress--}
 ---
 
 #### Text

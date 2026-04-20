@@ -7,8 +7,8 @@ authors:
   - Chris+Claude
 tags:
   - lens
-  - IABIED
-  - work-in-progress
+  - IABIED{--{"author":"AI","timestamp":1776722122326}@@
+  - work-in-progress--}
 ---
 #### Text
 content:: Before reading Chapter 3: Does your GPS "want" to get you to your destination? What about a chess AI — does it "want" to win? If you think there's a difference between having a goal and wanting something, what is it? Write down your intuition before reading.
