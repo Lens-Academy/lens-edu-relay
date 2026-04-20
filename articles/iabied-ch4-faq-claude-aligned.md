@@ -7,8 +7,7 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED{--{"author":"AI","timestamp":1776722400801}@@
-  - work-in-progress--}
+  - IABIED
 ---
 
 #### "What Claude says" isn't the same as "what Claude prefers."

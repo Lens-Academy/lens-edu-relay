@@ -7,8 +7,7 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED{--{"author":"AI","timestamp":1776722411552}@@
-  - work-in-progress--}
+  - IABIED
 ---
 #### Those drives aren't necessary to motivate resource acquisition.
 

@@ -7,8 +7,7 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED{--{"author":"AI","timestamp":1776722420471}@@
-  - work-in-progress--}
+  - IABIED
 ---
 
 #### Even laziness isn't safe.

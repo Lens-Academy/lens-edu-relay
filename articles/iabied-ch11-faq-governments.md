@@ -7,8 +7,7 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED{--{"author":"AI","timestamp":1776722412589}@@
-  - work-in-progress--}
+  - IABIED
 ---
 #### It depends on how (and how soon) they get involved.
 

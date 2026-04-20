@@ -7,8 +7,7 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED{--{"author":"AI","timestamp":1776722410627}@@
-  - work-in-progress--}
+  - IABIED
 ---
 #### You can make it promise whatever you'd like. You can't make it keep its promises.
 

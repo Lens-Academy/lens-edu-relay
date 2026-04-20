@@ -7,8 +7,7 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED{--{"author":"AI","timestamp":1776722401042}@@
-  - work-in-progress--}
+  - IABIED
 ---
 
 #### The AI will fix what *it* sees as flaws.

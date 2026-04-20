@@ -7,8 +7,7 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED{--{"author":"AI","timestamp":1776722407942}@@
-  - work-in-progress--}
+  - IABIED
 ---
 
 #### There are many negligible expenses, and it would need a reason to pay ours.
