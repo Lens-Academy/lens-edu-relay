@@ -7,8 +7,7 @@ authors:
   - Chris+Claude
 tags:
   - lens
-  - IABIED{--{"author":"AI","timestamp":1776694328300}@@
-  - work-in-progress--}
+  - IABIED
 ---
 #### Text
 content:: Before reading the second half of Chapter 2: If an AI consistently gives helpful, harmless answers and declines all requests that could cause harm — does that mean it "wants" to be helpful? Could there be a difference between an AI that acts aligned and one that is aligned? Write down your intuition before reading.
