@@ -1,14 +1,13 @@
 ---
-title: "Will elected officials recognize this as a real threat?"
+title: Will elected officials recognize this as a real threat?
 source_url: https://ifanyonebuildsit.com/13/will-elected-officials-recognize-this-as-a-real-threat
 published: 2025-09-16
 author:
-  - "Eliezer Yudkowsky"
-  - "Nate Soares"
+  - Eliezer Yudkowsky
+  - Nate Soares
 tags:
   - clippings
   - IABIED
-  - work-in-progress
 ---
 #### An increasing number already have.
 
