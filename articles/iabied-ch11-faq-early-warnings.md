@@ -8,7 +8,6 @@ author:
 tags:
   - clippings
   - IABIED
-  - work-in-progress
 ---
 #### Warning signs don't help if you don't know what to do with them.
 
