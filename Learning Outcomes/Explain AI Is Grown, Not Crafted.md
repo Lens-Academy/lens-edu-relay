@@ -40,6 +40,6 @@ source:: ![[../Lenses/IABIED - AI Is Grown, Not Crafted]]
 ## Lens:
 optional:: true
 hide:: true
-source:: ![[../Lenses/IABIED - QA - Gradient Descent Matters]]
-source:: ![[../Lenses/IABIED - QA - Building Without Understanding]]
-source:: ![[../Lenses/IABIED - QA - Do Experts Understand AIs]]
+card:: ![[../Lenses/IABIED - QA - Gradient Descent Matters]]
+card:: ![[../Lenses/IABIED - QA - Building Without Understanding]]
+card:: ![[../Lenses/IABIED - QA - Do Experts Understand AIs]]
