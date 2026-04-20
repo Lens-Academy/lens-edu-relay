@@ -7,8 +7,8 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED
-  - work-in-progress
+  - IABIED{--{"author":"AI","timestamp":1776722415578}@@
+  - work-in-progress--}
 ---
 #### Not in general. Corner-cutting is often competitive.
 

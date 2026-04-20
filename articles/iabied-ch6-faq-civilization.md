@@ -7,8 +7,8 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED
-  - work-in-progress
+  - IABIED{--{"author":"AI","timestamp":1776722416721}@@
+  - work-in-progress--}
 ---
 #### With computers, the hard part is getting them to solve a certain problem at all. High volume and speed come soon after.
 

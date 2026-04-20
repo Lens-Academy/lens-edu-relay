@@ -7,8 +7,8 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED
-  - work-in-progress
+  - IABIED{--{"author":"AI","timestamp":1776722410410}@@
+  - work-in-progress--}
 ---
 
 #### We're optimistic about many things, but superintelligence isn't like most things.

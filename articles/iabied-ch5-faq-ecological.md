@@ -7,8 +7,8 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED
-  - work-in-progress
+  - IABIED{--{"author":"AI","timestamp":1776722412110}@@
+  - work-in-progress--}
 ---
 
 #### The human preference for ecological preservation looks like another weird contingent drive.

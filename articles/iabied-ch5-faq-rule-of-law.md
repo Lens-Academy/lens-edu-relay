@@ -7,8 +7,8 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED
-  - work-in-progress
+  - IABIED{--{"author":"AI","timestamp":1776722410955}@@
+  - work-in-progress--}
 ---
 #### AIs could coordinate with each other without including humans.
 

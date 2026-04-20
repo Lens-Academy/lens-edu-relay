@@ -7,8 +7,8 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED
-  - work-in-progress
+  - IABIED{--{"author":"AI","timestamp":1776722413012}@@
+  - work-in-progress--}
 ---
 #### AIs can intelligently pursue different things than a human would.
 

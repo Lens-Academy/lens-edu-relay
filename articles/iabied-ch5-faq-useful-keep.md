@@ -7,8 +7,8 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED
-  - work-in-progress
+  - IABIED{--{"author":"AI","timestamp":1776722413405}@@
+  - work-in-progress--}
 ---
 #### Happy, healthy, free people aren't the most efficient solution to almost any problem.
 

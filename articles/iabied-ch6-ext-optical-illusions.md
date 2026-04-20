@@ -7,8 +7,8 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED
-  - work-in-progress
+  - IABIED{--{"author":"AI","timestamp":1776722414473}@@
+  - work-in-progress--}
 ---
 In Chapter 6, we said that researchers have used the modern understanding of human visual processing and the visual cortex to come up with new optical illusions — illusions that could not have been produced fifty years ago, except by unlikely accident. Below, we cite a few representative examples.
 

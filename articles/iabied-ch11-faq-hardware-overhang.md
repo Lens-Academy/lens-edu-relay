@@ -7,8 +7,8 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED
-  - work-in-progress
+  - IABIED{--{"author":"AI","timestamp":1776722413405}@@
+  - work-in-progress--}
 ---
 #### That would be suicidal, because we're too far from an alignment solution.
 

@@ -7,8 +7,8 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED
-  - work-in-progress
+  - IABIED{--{"author":"AI","timestamp":1776722410414}@@
+  - work-in-progress--}
 ---
 #### The difficulty isn't just the lack of time; it's the lethality of mistakes.
 

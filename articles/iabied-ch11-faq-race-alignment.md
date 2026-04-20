@@ -7,8 +7,8 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED
-  - work-in-progress
+  - IABIED{--{"author":"AI","timestamp":1776722414900}@@
+  - work-in-progress--}
 ---
 #### We strongly recommend against this entire AI paradigm.
 

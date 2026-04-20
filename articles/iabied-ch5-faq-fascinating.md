@@ -7,8 +7,8 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED
-  - work-in-progress
+  - IABIED{--{"author":"AI","timestamp":1776722412540}@@
+  - work-in-progress--}
 ---
 
 #### If AI values "fascination," it probably has better options.
