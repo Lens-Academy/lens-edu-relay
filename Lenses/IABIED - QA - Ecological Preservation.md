@@ -6,8 +6,8 @@ tldr: "The human preference for ecological preservation looks like another weird
 tags:
   - lens
   - IABIED
-  - supplementary
-  - work-in-progress
+  - supplementary{--{"author":"AI","timestamp":1776695401872}@@
+  - work-in-progress--}
 ---
 #### Text
 content::
