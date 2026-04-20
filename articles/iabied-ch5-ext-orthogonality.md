@@ -7,8 +7,7 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED{--{"author":"AI","timestamp":1776722395976}@@
-  - work-in-progress--}
+  - IABIED
 ---
 
 #### A Dialogue on Correct Nests, Continued

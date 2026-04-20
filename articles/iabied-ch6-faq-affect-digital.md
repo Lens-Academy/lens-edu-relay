@@ -7,8 +7,7 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED{--{"author":"AI","timestamp":1776722415109}@@
-  - work-in-progress--}
+  - IABIED
 ---
 #### Being on a computer connected to the internet isn't much of a limitation.
 

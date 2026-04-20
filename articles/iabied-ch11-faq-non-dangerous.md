@@ -7,8 +7,7 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED{--{"author":"AI","timestamp":1776722414267}@@
-  - work-in-progress--}
+  - IABIED
 ---
 #### Actions that seem benign can still require dangerous capabilities.
 

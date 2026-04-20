@@ -7,8 +7,7 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED{--{"author":"AI","timestamp":1776722401847}@@
-  - work-in-progress--}
+  - IABIED
 ---
 
 #### Kindness looks contingent on the particulars of our biology and ancestry.
