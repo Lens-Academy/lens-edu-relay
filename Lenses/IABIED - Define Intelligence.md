@@ -47,6 +47,6 @@ Probe: "Give me an example of something that requires prediction without steerin
 #### Text
 content::
 \## Additional resources for this topic
-card:: ![[../Lenses/IABIED - QA - Intelligence as Prediction and Steering]]
+card ![[../Lenses/IABIED - QA - Intelligence as Prediction and Steering]]
 card:: ![[../Lenses/IABIED - QA - General Intelligence]]
 card:: ![[../Lenses/IABIED - QA - Is Intelligence Meaningful]]
