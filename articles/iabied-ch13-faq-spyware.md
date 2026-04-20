@@ -1,14 +1,13 @@
 ---
-title: "How would stopping everyone be possible without installing spyware on every computer?"
+title: How would stopping everyone be possible without installing spyware on every computer?
 source_url: https://ifanyonebuildsit.com/13/how-would-stopping-everyone-be-possible-without-installing-spyware-on-every-computer
 published: 2025-09-16
 author:
-  - "Eliezer Yudkowsky"
-  - "Nate Soares"
+  - Eliezer Yudkowsky
+  - Nate Soares
 tags:
   - clippings
   - IABIED
-  - work-in-progress
 ---
 #### By acting soon.
 
