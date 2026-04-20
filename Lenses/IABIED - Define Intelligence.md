@@ -43,3 +43,10 @@ Discussion guidance:
 - If they haven't yet connected generality to safety risk, that's fine — the next Lens covers it
 
 Probe: "Give me an example of something that requires prediction without steering, and something that requires steering without prediction."
+
+#### Text
+content::
+\## Additional resources for this LO
+card:: ![[../Lenses/IABIED - QA - Intelligence as Prediction and Steering]]
+card:: ![[../Lenses/IABIED - QA - General Intelligence]]
+card:: ![[../Lenses/IABIED - QA - Is Intelligence Meaningful]]
