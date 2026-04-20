@@ -6,8 +6,7 @@ tldr: "Because it constitutes our actual best guess according to what's physical
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776696162647}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text

@@ -6,8 +6,7 @@ tldr: "\"What Claude says\" isn't the same as \"what Claude prefers.\""
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776695307356}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text

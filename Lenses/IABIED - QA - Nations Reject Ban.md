@@ -5,8 +5,7 @@ tldr: "Not if they understand the threat."
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776696033072}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text

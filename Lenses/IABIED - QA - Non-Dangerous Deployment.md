@@ -6,8 +6,7 @@ tldr: "Actions that seem benign can still require dangerous capabilities."
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776696033940}@@
-  - work-in-progress--}
+  - supplementary
 ---
 #### Text
 content::

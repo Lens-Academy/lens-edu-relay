@@ -5,8 +5,7 @@ tldr: "By acting soon."
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776696139831}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text

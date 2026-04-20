@@ -4,8 +4,7 @@ title: "We Know What It Looks Like When a Problem Is Being Treated with Respect,
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776696078703}@@
-  - work-in-progress--}
+  - supplementary
 ---
 #### Text
 content::

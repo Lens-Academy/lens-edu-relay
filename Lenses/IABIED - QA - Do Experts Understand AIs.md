@@ -6,8 +6,7 @@ tldr: "No."
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776695393673}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text

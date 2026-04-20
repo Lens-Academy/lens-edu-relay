@@ -5,8 +5,7 @@ tldr: "Conscious Experience is Separate from the Referents of Those Experiences"
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776695406573}@@
-  - work-in-progress--}
+  - supplementary
 ---
 #### Text
 content::

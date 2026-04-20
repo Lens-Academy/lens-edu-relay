@@ -6,8 +6,7 @@ tldr: "Because it's plausible and easy to write."
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776696196696}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text

@@ -6,8 +6,7 @@ tldr: "A Dialogue on Correct Nests, Continued"
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776696057072}@@
-  - work-in-progress--}
+  - supplementary
 ---
 #### Text
 content::

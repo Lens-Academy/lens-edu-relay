@@ -6,8 +6,7 @@ tldr: "We don't have a good enough understanding of intelligence for that."
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776695428684}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text

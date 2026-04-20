@@ -6,8 +6,7 @@ tldr: "AIs steer in alien directions that only mostly coincide with helpfulness.
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776696026011}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text

@@ -6,8 +6,7 @@ tldr: "They won't."
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776695763271}@@
-  - work-in-progress--}
+  - supplementary
 ---
 #### Text
 content::

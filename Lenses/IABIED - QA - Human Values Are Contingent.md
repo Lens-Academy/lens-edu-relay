@@ -6,8 +6,7 @@ tldr: "The Glorious Accident of Kindness"
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776695577530}@@
-  - work-in-progress--}
+  - supplementary
 ---
 #### Text
 content::

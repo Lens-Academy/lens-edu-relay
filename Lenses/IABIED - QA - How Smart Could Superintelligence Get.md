@@ -6,8 +6,7 @@ tldr: "Very smart."
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776695565309}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text

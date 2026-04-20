@@ -6,8 +6,7 @@ tldr: "Yes, in many cases."
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776695582312}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text

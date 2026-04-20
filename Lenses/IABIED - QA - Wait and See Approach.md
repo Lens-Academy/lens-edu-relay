@@ -5,8 +5,7 @@ tldr: "No. We don't know where the critical thresholds are."
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776696190017}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text
