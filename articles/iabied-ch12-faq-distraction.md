@@ -1,14 +1,13 @@
 ---
-title: "Isn't the danger from smarter-than-human AI a distraction from other issues?"
+title: Isn't the danger from smarter-than-human AI a distraction from other issues?
 source_url: https://ifanyonebuildsit.com/12/isnt-the-danger-from-smarter-than-human-ai-a-distraction-from-other-issues
 published: 2025-09-16
 author:
-  - "Eliezer Yudkowsky"
-  - "Nate Soares"
+  - Eliezer Yudkowsky
+  - Nate Soares
 tags:
   - clippings
   - IABIED
-  - work-in-progress
 ---
 #### The world is, unfortunately, big enough for multiple issues.
 

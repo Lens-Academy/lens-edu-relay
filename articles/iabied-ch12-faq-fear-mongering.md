@@ -1,14 +1,13 @@
 ---
-title: "Isn't this all just fear-mongering by AI leaders to increase status and raise investment?"
+title: Isn't this all just fear-mongering by AI leaders to increase status and raise investment?
 source_url: https://ifanyonebuildsit.com/12/isnt-this-all-just-fear-mongering-by-ai-leaders-to-increase-status-and-raise-investment
 published: 2025-09-16
 author:
-  - "Eliezer Yudkowsky"
-  - "Nate Soares"
+  - Eliezer Yudkowsky
+  - Nate Soares
 tags:
   - clippings
   - IABIED
-  - work-in-progress
 ---
 #### No.
 
