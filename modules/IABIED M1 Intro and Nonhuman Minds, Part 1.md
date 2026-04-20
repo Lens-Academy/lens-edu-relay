@@ -109,7 +109,7 @@ and inline: [[IABIED M3 Nonhuman Minds, Part 3]].
 ::card[[../Lenses/IABIED - QA - AI Experts on Catastrophe]]
 ::card[[../Lenses/IABIED - QA - Leo Szilard Saw the Future]]
 
-## Chapter 1: Humanity's Special Power
+\## Chapter 1: Humanity's Special Power
 ::card[[../Lenses/IABIED - QA - Is Intelligence Meaningful]]
 ::card[[../Lenses/IABIED - QA - Human-Level Intelligence]]
 ::card[[../Lenses/IABIED - QA - Intelligence as Multiple Skills]]
@@ -130,7 +130,7 @@ and inline: [[IABIED M3 Nonhuman Minds, Part 3]].
 ::card[[../Lenses/IABIED - QA - Special Behavior from Mundane Parts]]
 ::card[[../Lenses/IABIED - QA - Same Work Different Ways]]
 
-## Chapter 2: Grown, Not Crafted
+\## Chapter 2: Grown, Not Crafted
 ::card[[../Lenses/IABIED - QA - Gradient Descent Matters]]
 ::card[[../Lenses/IABIED - QA - Do Experts Understand AIs]]
 ::card[[../Lenses/IABIED - QA - Intelligence Understandable]]
