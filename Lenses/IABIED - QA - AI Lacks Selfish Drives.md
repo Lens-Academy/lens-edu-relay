@@ -6,8 +6,8 @@ tldr: "Those drives aren't necessary to motivate resource acquisition."
 tags:
   - lens
   - IABIED
-  - supplementary
-  - work-in-progress
+  - supplementary{--{"author":"AI","timestamp":1776695012322}@@
+  - work-in-progress--}
 ---
 #### Text
 content::

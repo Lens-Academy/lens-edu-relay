@@ -6,8 +6,8 @@ tldr: "If AI values \"fascination,\" it probably has better options."
 tags:
   - lens
   - IABIED
-  - supplementary
-  - work-in-progress
+  - supplementary{--{"author":"AI","timestamp":1776695004725}@@
+  - work-in-progress--}
 ---
 #### Text
 content::
