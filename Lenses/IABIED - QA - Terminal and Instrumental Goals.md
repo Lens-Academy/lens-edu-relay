@@ -5,8 +5,8 @@ title: Terminal Goals and Instrumental Goals
 tags:
   - lens
   - IABIED
-  - supplementary
-  - work-in-progress
+  - supplementary{--{"author":"AI","timestamp":1776696160511}@@
+  - work-in-progress--}
 ---
 #### Text
 content::

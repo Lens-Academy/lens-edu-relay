@@ -5,8 +5,8 @@ tldr: "The power to ban dangerous technology is already vested in governments."
 tags:
   - lens
   - IABIED
-  - supplementary
-  - work-in-progress
+  - supplementary{--{"author":"AI","timestamp":1776696167307}@@
+  - work-in-progress--}
 ---
 
 #### Text

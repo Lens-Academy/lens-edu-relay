@@ -6,8 +6,8 @@ tldr: "The difficulty isn't just the lack of time; it's the lethality of mistake
 tags:
   - lens
   - IABIED
-  - supplementary
-  - work-in-progress
+  - supplementary{--{"author":"AI","timestamp":1776696166509}@@
+  - work-in-progress--}
 ---
 #### Text
 content::

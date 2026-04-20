@@ -4,8 +4,8 @@ title: "Workable Plans Will Involve Telling AI Companies No"
 tags:
   - lens
   - IABIED
-  - supplementary
-  - work-in-progress
+  - supplementary{--{"author":"AI","timestamp":1776696143822}@@
+  - work-in-progress--}
 ---
 
 #### Text

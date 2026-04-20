@@ -6,8 +6,8 @@ tldr: "There are many ways for an AI to figure out that it's not in a simulation
 tags:
   - lens
   - IABIED
-  - supplementary
-  - work-in-progress
+  - supplementary{--{"author":"AI","timestamp":1776696165757}@@
+  - work-in-progress--}
 ---
 #### Text
 content::

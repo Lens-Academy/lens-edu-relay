@@ -4,8 +4,8 @@ title: "Special Behavior is Built out of Mundane Parts"
 tags:
   - lens
   - IABIED
-  - supplementary
-  - work-in-progress
+  - supplementary{--{"author":"AI","timestamp":1776696138506}@@
+  - work-in-progress--}
 ---
 #### Text
 content::
