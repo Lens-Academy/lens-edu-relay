@@ -7,8 +7,8 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED
-  - work-in-progress
+  - IABIED{--{"author":"AI","timestamp":1776722137501}@@
+  - work-in-progress--}
 ---
 #### Yes. There's a real phenomenon to describe, even if it's difficult to pin down.
 
