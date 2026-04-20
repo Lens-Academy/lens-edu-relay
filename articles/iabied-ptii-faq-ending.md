@@ -1,14 +1,13 @@
 ---
-title: "Why did you write the ending in the way that you did?"
+title: Why did you write the ending in the way that you did?
 source_url: https://ifanyonebuildsit.com/ii/why-did-you-write-the-ending-in-the-way-that-you-did
 published: 2025-09-16
 author:
-  - "Eliezer Yudkowsky"
-  - "Nate Soares"
+  - Eliezer Yudkowsky
+  - Nate Soares
 tags:
   - clippings
   - IABIED
-  - work-in-progress
 ---
 
 #### Because it constitutes our actual best guess according to what's physically possible.

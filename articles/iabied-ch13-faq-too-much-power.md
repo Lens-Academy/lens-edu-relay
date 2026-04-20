@@ -1,14 +1,13 @@
 ---
-title: "Isn't this handing too much power to governments?"
+title: Isn't this handing too much power to governments?
 source_url: https://ifanyonebuildsit.com/13/isnt-this-handing-too-much-power-to-governments
 published: 2025-09-16
 author:
-  - "Eliezer Yudkowsky"
-  - "Nate Soares"
+  - Eliezer Yudkowsky
+  - Nate Soares
 tags:
   - clippings
   - IABIED
-  - work-in-progress
 ---
 #### The power to ban dangerous technology is already vested in governments.
 
