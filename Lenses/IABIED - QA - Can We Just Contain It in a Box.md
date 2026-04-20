@@ -4,8 +4,8 @@ title: "Can developers just keep the AI in a box?"
 tags:
   - lens
   - IABIED
-  - supplementary
-  - work-in-progress
+  - supplementary{--{"author":"AI","timestamp":1776695234993}@@
+  - work-in-progress--}
 ---
 
 #### Text
