@@ -6,8 +6,7 @@ tldr: "Being on a computer connected to the internet isn't much of a limitation.
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776695341057}@@
-  - work-in-progress--}
+  - supplementary
 ---
 #### Text
 content::

@@ -6,8 +6,7 @@ tldr: "Not in general. Corner-cutting is often competitive."
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776696083866}@@
-  - work-in-progress--}
+  - supplementary
 ---
 #### Text
 content::

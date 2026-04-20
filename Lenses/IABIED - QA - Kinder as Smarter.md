@@ -6,8 +6,7 @@ tldr: "Probably not."
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776695771670}@@
-  - work-in-progress--}
+  - supplementary
 ---
 #### Text
 content::

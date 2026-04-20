@@ -6,8 +6,7 @@ tldr: "Because the situation seems genuinely serious and urgent."
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776696198424}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text

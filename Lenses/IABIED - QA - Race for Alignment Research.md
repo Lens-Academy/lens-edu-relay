@@ -6,8 +6,7 @@ tldr: "We strongly recommend against this entire AI paradigm."
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776696082677}@@
-  - work-in-progress--}
+  - supplementary
 ---
 #### Text
 content::

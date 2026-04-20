@@ -5,8 +5,7 @@ title: "Taking the AI's Perspective"
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776696142772}@@
-  - work-in-progress--}
+  - supplementary
 ---
 #### Text
 content::

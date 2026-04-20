@@ -6,8 +6,7 @@ tldr: "Our story showcases how AI is liable to have weird and unintended prefere
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776696109994}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text

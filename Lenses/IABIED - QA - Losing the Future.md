@@ -4,8 +4,7 @@ title: "Losing the Future"
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776695985971}@@
-  - work-in-progress--}
+  - supplementary
 ---
 #### Text
 content::

@@ -6,8 +6,7 @@ tldr: "Past AI progress hasn't required much understanding of intelligence."
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776695178372}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text

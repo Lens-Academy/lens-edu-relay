@@ -5,8 +5,7 @@ title: The Tale of Chicago Pile-1
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776695263409}@@
-  - work-in-progress--}
+  - supplementary
 ---
 #### Text
 content::

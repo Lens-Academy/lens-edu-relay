@@ -6,8 +6,7 @@ tldr: "Perhaps by learning general skills and implementing them better."
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776696141701}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text

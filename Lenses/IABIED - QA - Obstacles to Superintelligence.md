@@ -6,8 +6,7 @@ tldr: "It isn't clear."
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776696052068}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text

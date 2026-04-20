@@ -4,8 +4,7 @@ title: "The Lemoine Effect"
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776696163303}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text

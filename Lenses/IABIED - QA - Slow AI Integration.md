@@ -6,8 +6,7 @@ tldr: "That scenario still ends in catastrophe."
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776696134832}@@
-  - work-in-progress--}
+  - supplementary
 ---
 #### Text
 content::

@@ -4,8 +4,7 @@ title: "How smart could a superintelligence get?"
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776695568629}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text

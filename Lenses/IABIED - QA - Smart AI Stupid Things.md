@@ -6,8 +6,7 @@ tldr: "AIs can intelligently pursue different things than a human would."
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776696135337}@@
-  - work-in-progress--}
+  - supplementary
 ---
 #### Text
 content::

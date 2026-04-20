@@ -6,8 +6,7 @@ tldr: "How Llama 3.1 405B Works"
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776695482605}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text

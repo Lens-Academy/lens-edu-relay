@@ -5,8 +5,7 @@ title: Nanotechnology and Protein Synthesis
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776696031916}@@
-  - work-in-progress--}
+  - supplementary
 ---
 #### Text
 content::
