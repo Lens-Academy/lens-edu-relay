@@ -36,10 +36,10 @@ source:: ![[../Lenses/IABIED - PQ - Hard Calls and Easy Calls]]
 
 ## Lens:
 source:: ![[../Lenses/IABIED - Hard Calls and Easy Calls]]
-
+{--{"author":"AI","timestamp":1776724189636}@@
 ## Lens:
 optional:: true
 hide:: true
 source:: ![[../Lenses/IABIED - QA - Why Write This Book]]
 source:: ![[../Lenses/IABIED - QA - When Will Worrisome AI Arrive]]
-source:: ![[../Lenses/IABIED - QA - Extrapolating AI Progress]]
+source:: ![[../Lenses/IABIED - QA - Extrapolating AI Progress]]--}
