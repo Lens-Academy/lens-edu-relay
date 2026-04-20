@@ -9,4 +9,4 @@ tags:
 
 ## Test:
 ## Lens: Synthesize the Core Argument
-source: [[../Lenses/IABIED - QA - Warning Shots]]
+source:: [[../Lenses/IABIED - QA - Warning Shots]]
