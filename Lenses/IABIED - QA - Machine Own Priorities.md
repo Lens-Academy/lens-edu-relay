@@ -6,8 +6,8 @@ tldr: "Solving difficult challenges requires AIs to take more and more initiativ
 tags:
   - lens
   - IABIED
-  - supplementary
-  - work-in-progress
+  - supplementary{--{"author":"AI","timestamp":1776695987655}@@
+  - work-in-progress--}
 ---
 
 #### Text
