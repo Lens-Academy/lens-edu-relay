@@ -7,8 +7,7 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED{--{"author":"AI","timestamp":1776721984111}@@
-  - work-in-progress--}
+  - IABIED
 ---
 #### Hallucinations reveal both a limitation and a misalignment.
 

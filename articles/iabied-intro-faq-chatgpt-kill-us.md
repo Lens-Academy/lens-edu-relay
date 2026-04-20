@@ -7,8 +7,7 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED{--{"author":"AI","timestamp":1776721973793}@@
-  - work-in-progress--}
+  - IABIED
 ---
 
 #### No. The worry is about forthcoming advances in AI.

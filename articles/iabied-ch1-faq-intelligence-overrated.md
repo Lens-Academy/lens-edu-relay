@@ -7,8 +7,7 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED{--{"author":"AI","timestamp":1776722137759}@@
-  - work-in-progress--}
+  - IABIED
 ---
 #### Only if you're using an overly narrow definition of "intelligence."
 

@@ -7,8 +7,7 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED{--{"author":"AI","timestamp":1776722136510}@@
-  - work-in-progress--}
+  - IABIED
 ---
 #### Yes, in many cases.
 

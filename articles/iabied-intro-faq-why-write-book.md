@@ -8,8 +8,7 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED{--{"author":"AI","timestamp":1776721977088}@@
-  - work-in-progress--}
+  - IABIED
 ---
 
 #### Because the situation seems genuinely serious and urgent.

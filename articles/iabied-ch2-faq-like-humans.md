@@ -7,8 +7,7 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED{--{"author":"AI","timestamp":1776721985273}@@
-  - work-in-progress--}
+  - IABIED
 ---
 #### There's a difference between the machinery it takes to be one person and the machinery it takes to predict many individuals.
 

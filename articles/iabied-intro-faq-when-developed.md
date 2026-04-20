@@ -7,8 +7,7 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED{--{"author":"AI","timestamp":1776721975990}@@
-  - work-in-progress--}
+  - IABIED
 ---
 
 #### Knowing that a technology is coming doesn't grant knowledge of exactly when it's coming.
