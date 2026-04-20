@@ -6,8 +6,8 @@ tldr: "AIs could coordinate with each other without including humans."
 tags:
   - lens
   - IABIED
-  - supplementary
-  - work-in-progress
+  - supplementary{--{"author":"AI","timestamp":1776695083675}@@
+  - work-in-progress--}
 ---
 #### Text
 content::

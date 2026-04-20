@@ -6,8 +6,8 @@ tldr: "Not as much as you might hope; we already see signs of infidelity."
 tags:
   - lens
   - IABIED
-  - supplementary
-  - work-in-progress
+  - supplementary{--{"author":"AI","timestamp":1776695087595}@@
+  - work-in-progress--}
 ---
 
 #### Text
