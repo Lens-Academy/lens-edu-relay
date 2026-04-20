@@ -8,7 +8,6 @@ author:
 tags:
   - clippings
   - IABIED
-  - work-in-progress
 ---
 
 #### Solving difficult challenges requires AIs to take more and more initiative.
