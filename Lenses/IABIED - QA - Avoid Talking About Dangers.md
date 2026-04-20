@@ -6,8 +6,8 @@ tldr: "If your AI plan requires that no one on the internet critique the plan, i
 tags:
   - lens
   - IABIED
-  - supplementary
-  - work-in-progress
+  - supplementary{--{"author":"AI","timestamp":1776695155059}@@
+  - work-in-progress--}
 ---
 
 #### Text
