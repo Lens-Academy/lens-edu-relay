@@ -7,8 +7,8 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED
-  - work-in-progress
+  - IABIED{--{"author":"AI","timestamp":1776722404131}@@
+  - work-in-progress--}
 ---
 
 #### The weirdness is evidence that their actual pursuits aren't our intended pursuits.

@@ -7,8 +7,8 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED
-  - work-in-progress
+  - IABIED{--{"author":"AI","timestamp":1776722402599}@@
+  - work-in-progress--}
 ---
 
 #### AIs won't run on a human sense of novelty.

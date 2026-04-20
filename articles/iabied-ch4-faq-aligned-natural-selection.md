@@ -7,8 +7,8 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED
-  - work-in-progress
+  - IABIED{--{"author":"AI","timestamp":1776722400242}@@
+  - work-in-progress--}
 ---
 
 #### With more technology, we'd likely make even fewer copies of our genes.

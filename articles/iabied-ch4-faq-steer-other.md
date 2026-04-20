@@ -7,8 +7,8 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED
-  - work-in-progress
+  - IABIED{--{"author":"AI","timestamp":1776722403098}@@
+  - work-in-progress--}
 ---
 
 #### Because there are many ways to perform well in training.

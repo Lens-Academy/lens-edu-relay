@@ -7,8 +7,8 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED
-  - work-in-progress
+  - IABIED{--{"author":"AI","timestamp":1776722400466}@@
+  - work-in-progress--}
 ---
 
 #### If your AI plan requires that no one on the internet critique the plan, it's a bad plan.

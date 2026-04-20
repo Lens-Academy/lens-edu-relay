@@ -7,8 +7,8 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED
-  - work-in-progress
+  - IABIED{--{"author":"AI","timestamp":1776722408368}@@
+  - work-in-progress--}
 ---
 As mentioned in the chapter, the fundamental difficulty researchers face in AI is this:
 

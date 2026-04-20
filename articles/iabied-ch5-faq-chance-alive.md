@@ -7,8 +7,8 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED
-  - work-in-progress
+  - IABIED{--{"author":"AI","timestamp":1776722403859}@@
+  - work-in-progress--}
 ---
 
 #### It's overwhelmingly more likely that AI kills everyone.

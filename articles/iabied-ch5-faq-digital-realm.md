@@ -7,8 +7,8 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED
-  - work-in-progress
+  - IABIED{--{"author":"AI","timestamp":1776722405918}@@
+  - work-in-progress--}
 ---
 
 #### There is no "digital realm" independent of physical infrastructure.

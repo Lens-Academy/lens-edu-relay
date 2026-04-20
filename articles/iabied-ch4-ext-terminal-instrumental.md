@@ -7,8 +7,8 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED
-  - work-in-progress
+  - IABIED{--{"author":"AI","timestamp":1776722399970}@@
+  - work-in-progress--}
 ---
 Decision theorists make a distinction between two different types of goal, "terminal" and "instrumental."
 
