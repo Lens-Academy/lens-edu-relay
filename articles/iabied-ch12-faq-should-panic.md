@@ -1,14 +1,13 @@
 ---
-title: "Are you saying we should panic?"
+title: Are you saying we should panic?
 source_url: https://ifanyonebuildsit.com/12/are-you-saying-we-should-panic
 published: 2025-09-16
 author:
-  - "Eliezer Yudkowsky"
-  - "Nate Soares"
+  - Eliezer Yudkowsky
+  - Nate Soares
 tags:
   - clippings
   - IABIED
-  - work-in-progress
 ---
 #### We're saying government officials should take the problem seriously.
 
