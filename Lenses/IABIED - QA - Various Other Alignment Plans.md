@@ -5,8 +5,8 @@ tldr: "We cover additional alignment proposals in the book."
 tags:
   - lens
   - IABIED
-  - supplementary
-  - work-in-progress
+  - supplementary{--{"author":"AI","timestamp":1776696169371}@@
+  - work-in-progress--}
 ---
 #### Text
 content::
