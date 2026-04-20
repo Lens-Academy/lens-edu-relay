@@ -7,8 +7,7 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED{--{"author":"AI","timestamp":1776722412329}@@
-  - work-in-progress--}
+  - IABIED
 ---
 #### There are many ways for an AI to figure out that it's not in a simulation.
 

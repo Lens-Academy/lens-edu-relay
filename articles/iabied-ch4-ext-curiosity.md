@@ -7,8 +7,7 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED{--{"author":"AI","timestamp":1776722397029}@@
-  - work-in-progress--}
+  - IABIED
 ---
 Over the years, we've seen many arguments for rushing ahead to build superintelligence. One of the most common is that a superintelligent AI would surely have human-like emotions and desires. These sorts of arguments come in many forms, such as:
 
