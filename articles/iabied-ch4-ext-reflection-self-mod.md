@@ -8,7 +8,6 @@ author:
 tags:
   - clippings
   - IABIED
-  - work-in-progress
 ---
 #### By Default, AIs Don't Self-Modify the Way We'd Want
 
