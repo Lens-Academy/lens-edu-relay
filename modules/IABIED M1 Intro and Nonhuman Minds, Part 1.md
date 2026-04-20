@@ -98,7 +98,7 @@ And this links to M3 itself:
 and inline: [[IABIED M3 Nonhuman Minds, Part 3]].
 %%
 
-## Introduction: Hard Calls and Easy Calls
+\## Introduction: Hard Calls and Easy Calls
 ::card[[../Lenses/IABIED - QA - Why Write This Book]]
 ::card[[../Lenses/IABIED - QA - Could ChatGPT Kill Us]]
 ::card[[../Lenses/IABIED - QA - Panicking and Overreacting]]
