@@ -35,4 +35,11 @@ Discussion guidance:
 - If they conflate "easy call" with "likely prediction," gently correct: easy refers to the reasoning structure, not the probability
 - Check whether they can articulate why ASI risk fits the "easy call" category
 
-Probe: "Does classifying it as an 'easy call' make the claim feel more or less alarming to you — or neither?"
+Probe: "Does classifying it as an 'easy call' make the claim feel more or less alarming to you — or neither?"{++{"author":"AI","timestamp":1776724182466}@@
+
+#### Text
+content::
+\## Additional resources for this topic
+::card[[../Lenses/IABIED - QA - Why Write This Book]]
+::card[[../Lenses/IABIED - QA - When Will Worrisome AI Arrive]]
+::card[[../Lenses/IABIED - QA - Extrapolating AI Progress]]++}

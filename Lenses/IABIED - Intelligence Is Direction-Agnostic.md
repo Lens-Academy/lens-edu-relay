@@ -43,4 +43,11 @@ Discussion guidance:
 - If they accept the claim but treat it as abstract, push toward the concrete implication: "So what does this mean if we build a highly capable AI that isn't correctly aligned?"
 - Watch for the confusion: "direction-agnostic" ≠ "dangerous by design" — it just means capability and values are separate
 
-Probe: "Can you think of a human example of someone highly intelligent pursuing goals that caused serious harm? What does that tell us about the relationship between intelligence and values?"
+Probe: "Can you think of a human example of someone highly intelligent pursuing goals that caused serious harm? What does that tell us about the relationship between intelligence and values?"{++{"author":"AI","timestamp":1776724185510}@@
+
+#### Text
+content::
+\## Additional resources for this topic
+::card[[../Lenses/IABIED - QA - Something Special About Humans]]
+::card[[../Lenses/IABIED - QA - ChatGPT as General Intelligence]]
+::card[[../Lenses/IABIED - QA - Intelligence as Prediction and Steering]]++}
