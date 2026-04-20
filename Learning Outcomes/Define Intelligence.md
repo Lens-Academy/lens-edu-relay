@@ -42,4 +42,4 @@ optional:: true
 hide:: true
 source:: ![[../Lenses/IABIED - QA - Intelligence as Prediction and Steering]]
 source:: ![[../Lenses/IABIED - QA - General Intelligence]]
-source:: ![[../Lenses/IABIED - QA - Is Intelligence Meaningful]]
+card:: ![[../Lenses/IABIED - QA - Is Intelligence Meaningful]]
