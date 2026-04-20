@@ -7,8 +7,8 @@ authors:
   - Chris+Claude
 tags:
   - lens
-  - IABIED
-  - work-in-progress
+  - IABIED{--{"author":"AI","timestamp":1776694314582}@@
+  - work-in-progress--}
 ---
 #### Text
 content:: Before reading Chapter 2: How do you imagine modern AI systems like ChatGPT were created? Who decided what it would say? Did engineers write rules for it to follow, or did something else happen? Write down your best guess before reading.
