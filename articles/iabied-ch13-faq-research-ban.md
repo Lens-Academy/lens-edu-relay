@@ -1,14 +1,13 @@
 ---
-title: "Why a research ban? That seems extreme."
+title: Why a research ban? That seems extreme.
 source_url: https://ifanyonebuildsit.com/13/why-a-research-ban-that-seems-extreme
 published: 2025-09-16
 author:
-  - "Eliezer Yudkowsky"
-  - "Nate Soares"
+  - Eliezer Yudkowsky
+  - Nate Soares
 tags:
   - clippings
   - IABIED
-  - work-in-progress
 ---
 #### More breakthroughs might make it effectively impossible to stop people from making superintelligence.
 
