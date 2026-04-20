@@ -4,8 +4,8 @@ title: "Isn't this AI stuff just science fiction?"
 tags:
   - lens
   - IABIED
-  - supplementary
-  - work-in-progress
+  - supplementary{--{"author":"AI","timestamp":1776695742885}@@
+  - work-in-progress--}
 ---
 
 #### Text
