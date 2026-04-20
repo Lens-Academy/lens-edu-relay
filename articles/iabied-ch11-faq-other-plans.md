@@ -1,14 +1,13 @@
 ---
-title: "What about various other AI alignment plans?"
+title: What about various other AI alignment plans?
 source_url: https://ifanyonebuildsit.com/11/what-about-various-other-ai-alignment-plans
 published: 2025-09-16
 author:
-  - "Eliezer Yudkowsky"
-  - "Nate Soares"
+  - Eliezer Yudkowsky
+  - Nate Soares
 tags:
   - clippings
   - IABIED
-  - work-in-progress
 ---
 #### We cover additional alignment proposals in the book.
 
