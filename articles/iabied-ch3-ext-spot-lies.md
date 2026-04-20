@@ -7,8 +7,7 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED{--{"author":"AI","timestamp":1776722396357}@@
-  - work-in-progress--}
+  - IABIED
 ---
 
 #### Deep Machinery of Prediction

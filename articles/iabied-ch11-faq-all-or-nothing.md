@@ -7,8 +7,7 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED{--{"author":"AI","timestamp":1776722412002}@@
-  - work-in-progress--}
+  - IABIED
 ---
 #### No. But "partial alignment" is still likely to be catastrophic.
 

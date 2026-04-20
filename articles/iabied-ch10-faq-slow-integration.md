@@ -7,8 +7,7 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED{--{"author":"AI","timestamp":1776722411356}@@
-  - work-in-progress--}
+  - IABIED
 ---
 #### That scenario still ends in catastrophe.
 

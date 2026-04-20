@@ -7,8 +7,7 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED{--{"author":"AI","timestamp":1776722410894}@@
-  - work-in-progress--}
+  - IABIED
 ---
 #### It doesn't much help if we can't make any of them care about good things.
 

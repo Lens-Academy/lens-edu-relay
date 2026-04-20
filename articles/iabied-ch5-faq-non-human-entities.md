@@ -7,8 +7,7 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED{--{"author":"AI","timestamp":1776722408611}@@
-  - work-in-progress--}
+  - IABIED
 ---
 
 #### We do! We have broad cosmopolitan values. We don't think AIs will fulfill them, and we consider this a great tragedy.

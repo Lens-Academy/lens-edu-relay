@@ -7,8 +7,7 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED{--{"author":"AI","timestamp":1776722418448}@@
-  - work-in-progress--}
+  - IABIED
 ---
 #### It's hard to just unplug a datacenter.
 

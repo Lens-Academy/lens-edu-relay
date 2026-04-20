@@ -7,8 +7,7 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED{--{"author":"AI","timestamp":1776722402487}@@
-  - work-in-progress--}
+  - IABIED
 ---
 
 #### AIs steer in alien directions that only mostly coincide with helpfulness.
