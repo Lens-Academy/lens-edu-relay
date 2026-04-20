@@ -6,8 +6,8 @@ tldr: "No. But \"partial alignment\" is still likely to be catastrophic."
 tags:
   - lens
   - IABIED
-  - supplementary
-  - work-in-progress
+  - supplementary{--{"author":"AI","timestamp":1776695138793}@@
+  - work-in-progress--}
 ---
 #### Text
 content::
