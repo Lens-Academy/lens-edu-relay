@@ -9,4 +9,4 @@ tags:
 
 ## Test:
 ## Lens: 
-source: [[synth]]
+source: [[lens/]]
