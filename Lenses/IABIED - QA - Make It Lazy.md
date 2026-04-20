@@ -6,8 +6,8 @@ tldr: "Even laziness isn't safe."
 tags:
   - lens
   - IABIED
-  - supplementary
-  - work-in-progress
+  - supplementary{--{"author":"AI","timestamp":1776696024803}@@
+  - work-in-progress--}
 ---
 #### Text
 content::
