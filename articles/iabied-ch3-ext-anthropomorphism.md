@@ -8,7 +8,6 @@ author:
 tags:
   - clippings
   - IABIED
-  - work-in-progress
 ---
 
 There are two modes of thinking that have been historically proven over and over *not* to work, modes that history has shown to give bad advice for making predictions about AI.
