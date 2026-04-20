@@ -6,8 +6,8 @@ tldr: "Predicting tokens requires understanding the world."
 tags:
   - lens
   - IABIED
-  - supplementary
-  - work-in-progress
+  - supplementary{--{"author":"AI","timestamp":1776695751894}@@
+  - work-in-progress--}
 ---
 
 #### Text

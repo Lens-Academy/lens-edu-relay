@@ -6,8 +6,8 @@ tldr: "We can't learn much from a topic's prevalence in fiction."
 tags:
   - lens
   - IABIED
-  - supplementary
-  - work-in-progress
+  - supplementary{--{"author":"AI","timestamp":1776695756083}@@
+  - work-in-progress--}
 ---
 
 #### Text

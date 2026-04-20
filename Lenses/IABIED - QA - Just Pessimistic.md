@@ -6,8 +6,8 @@ tldr: "We're optimistic about many things, but superintelligence isn't like most
 tags:
   - lens
   - IABIED
-  - supplementary
-  - work-in-progress
+  - supplementary{--{"author":"AI","timestamp":1776695746814}@@
+  - work-in-progress--}
 ---
 #### Text
 content::
