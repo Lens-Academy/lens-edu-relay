@@ -1,14 +1,13 @@
 ---
-title: "A Tentative Draft of a Treaty, with Annotations"
+title: A Tentative Draft of a Treaty, with Annotations
 source_url: https://ifanyonebuildsit.com/13/a-tentative-draft-of-a-treaty-with-annotations
 published: 2025-09-16
 author:
-  - "Eliezer Yudkowsky"
-  - "Nate Soares"
+  - Eliezer Yudkowsky
+  - Nate Soares
 tags:
   - clippings
   - IABIED
-  - work-in-progress
 ---
 Many people, including members of the U.S. House of Representatives and the Senate, have asked us what concrete and specific legislative proposals would actually help with this problem.
 

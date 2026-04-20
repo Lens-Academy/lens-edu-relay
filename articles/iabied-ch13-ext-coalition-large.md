@@ -1,14 +1,13 @@
 ---
-title: "Keep the Coalition Large"
+title: Keep the Coalition Large
 source_url: https://ifanyonebuildsit.com/13/keep-the-coalition-large
 published: 2025-09-16
 author:
-  - "Eliezer Yudkowsky"
-  - "Nate Soares"
+  - Eliezer Yudkowsky
+  - Nate Soares
 tags:
   - clippings
   - IABIED
-  - work-in-progress
 ---
 We've heard some people argue that we should take a strong stand against AI art or robotic weapons, in order to send a simpler message: not anti-superintelligence, but anti-*AI.*
 
