@@ -4,8 +4,7 @@ title: "Making Sense of the Death Race"
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776696028141}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text

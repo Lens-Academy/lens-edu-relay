@@ -6,8 +6,7 @@ tldr: "There are many negligible expenses, and it would need a reason to pay our
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776696077598}@@
-  - work-in-progress--}
+  - supplementary
 ---
 #### Text
 content::

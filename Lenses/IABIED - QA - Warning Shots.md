@@ -5,8 +5,7 @@ tldr: "Maybe. If we wish to make use of them, we must prepare now."
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776696191153}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text

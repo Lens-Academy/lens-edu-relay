@@ -6,8 +6,7 @@ tldr: "Knowing that a technology is coming doesn't grant knowledge of exactly wh
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776696195554}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text

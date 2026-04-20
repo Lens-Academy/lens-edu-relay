@@ -5,8 +5,7 @@ tldr: "Convergent Paths"
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776695596022}@@
-  - work-in-progress--}
+  - supplementary
 ---
 #### Text
 content::

@@ -6,8 +6,7 @@ tldr: "Same Predictions"
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776695662149}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text

@@ -6,8 +6,7 @@ tldr: "It's hard to just unplug a datacenter."
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776696081570}@@
-  - work-in-progress--}
+  - supplementary
 ---
 #### Text
 content::

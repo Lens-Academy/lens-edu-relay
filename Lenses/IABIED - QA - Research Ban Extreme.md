@@ -5,8 +5,7 @@ tldr: "More breakthroughs might make it effectively impossible to stop people fr
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776696085665}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text

@@ -6,8 +6,7 @@ tldr: "Yes. There's a real phenomenon to describe, even if it's difficult to pin
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776695683073}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text

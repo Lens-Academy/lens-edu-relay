@@ -6,8 +6,7 @@ tldr: "Hallucinations reveal both a limitation and a misalignment."
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776695515285}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text

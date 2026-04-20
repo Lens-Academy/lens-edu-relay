@@ -6,8 +6,7 @@ tldr: "Yes. But this doesn't mean that nothing is ever actually dangerous."
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776696057899}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text
