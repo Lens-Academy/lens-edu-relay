@@ -8,7 +8,6 @@ author:
 tags:
   - clippings
   - IABIED
-  - work-in-progress
 ---
 #### Maybe. If we wish to make use of them, we must prepare now.
 
