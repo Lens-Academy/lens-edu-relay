@@ -57,7 +57,8 @@ source:: ![[../Learning Outcomes/Explain AI Is Grown, Not Crafted]]
 source:: ![[../Learning Outcomes/Distinguish Behavior from Values]]
 
 # Lens: Overview of Optional Resources
-
+optional:: true
+source:: [[option]]
 
 # Lens: IABIED - QA - Why Write This Book
 optional:: true
