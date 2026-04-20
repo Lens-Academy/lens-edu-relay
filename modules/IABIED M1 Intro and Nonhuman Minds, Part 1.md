@@ -10,7 +10,6 @@ discussion: https://discord.com/channels/1440725236843806762/1494711781648629921
 tags:
   - IABIED
   - module
-  - work-in-progress
 ---
 
 # Lens: Welcome
