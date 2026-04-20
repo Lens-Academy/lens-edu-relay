@@ -6,8 +6,8 @@ tldr: "Kindness looks contingent on the particulars of our biology and ancestry.
 tags:
   - lens
   - IABIED
-  - supplementary
-  - work-in-progress
+  - supplementary{--{"author":"AI","timestamp":1776695775567}@@
+  - work-in-progress--}
 ---
 #### Text
 content::
