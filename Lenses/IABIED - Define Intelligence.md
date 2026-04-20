@@ -8,7 +8,6 @@ authors:
 tags:
   - lens
   - IABIED
-  - work-in-progress
 ---
 #### Text
 content::
