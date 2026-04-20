@@ -5,8 +5,8 @@ tldr: "AIs Are Unlikely To Be Honorable"
 tags:
   - lens
   - IABIED
-  - supplementary
-  - work-in-progress
+  - supplementary{--{"author":"AI","timestamp":1776695092776}@@
+  - work-in-progress--}
 ---
 #### Text
 content::
