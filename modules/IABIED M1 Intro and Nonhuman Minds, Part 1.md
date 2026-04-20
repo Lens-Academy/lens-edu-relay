@@ -41,28 +41,6 @@ Our target flow for reading the book looks like:
 We hope this book club will also help grow the AI safety community. Some of these topics are counterintuitive, scary, and maybe even depressing. We hope working through this material with a group of like-minded individuals will give you the opportunity to give and receive support in working through this challenging problem. We also notice that it takes most people time to find their niche for contributing to AI safety. An important part of that exploration process is meeting others in the community, having conversations, and learning what different groups and organizations are up to. Take the opportunity to start building your network during this course by staying active between meetings.
 
 Don't save your questions and insights for the meeting day, post them into Discord as soon as they arise!
-
-%%
-**This week's reading:** Introduction ("Hard Calls and Easy Calls") + Chapter 1 ("Humanity's Special Power") + Chapter 2 ("Grown, Not Crafted"). After reading, come back here to discuss with the tutor.
-
-#### Chat
-instructions::
-The student has just read the Introduction, Chapter 1, and Chapter 2 of "If Anyone Builds It, Everyone Dies."
-
-Key concepts to check understanding of:
-- The "easy calls vs hard calls" framework for prediction
-- Intelligence as a general-purpose ability to steer the future
-- The difference between grown (gradient descent) and crafted/engineered systems
-- Why "nobody understands" what's going on inside modern AI
-
-Discussion topics to explore:
-- What makes the "easy call" framework compelling or unconvincing to you?
-- If you had to explain "grown, not crafted" to a friend who knows nothing about AI, what would you say?
-- What surprised you most about how modern AI actually works?
-- The authors list several historical examples of "normality ending" (Oxygen Catastrophe, agriculture, the Holocaust). Which resonated with you?
-
-Ask what they found surprising or new. Check if they can explain why "grown, not crafted" matters for safety in their own words — it's a key concept.
-%%
 # Learning Outcome: IABIED - Hard Calls and Easy Calls
 source:: ![[../Learning Outcomes/Distinguish Hard Calls from Easy Calls]]
 
