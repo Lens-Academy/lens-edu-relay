@@ -37,7 +37,4 @@ source:: ![[../Lenses/IABIED - PQ - Define Intelligence]]
 ## Lens:
 source:: ![[../Lenses/IABIED - Define Intelligence]]
 
-## Lens:
-optional:: true
-hide:: true
 
