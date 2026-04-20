@@ -36,10 +36,3 @@ source:: ![[../Lenses/IABIED - PQ - Behavior Is Not Values]]
 
 ## Lens:
 source:: ![[../Lenses/IABIED - Behavior Is Not Values]]
-{--{"author":"AI","timestamp":1776724196792}@@
-## Lens:
-optional:: true
-hide:: true
-card:: ![[../Lenses/IABIED - QA - Just Predicting Next Token]]
-card:: ![[../Lenses/IABIED - QA - Building Without Understanding]]
-card:: ![[../Lenses/IABIED - QA - AIs Just Parroting]]--}

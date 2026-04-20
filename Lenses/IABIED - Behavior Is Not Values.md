@@ -44,11 +44,11 @@ Discussion guidance:
 - Draw out the actor analogy if they haven't mentioned it
 - Help them see why better outputs don't close the gap: more RLHF just shapes more output, it doesn't peer inside
 
-Probe: "If you could design one experiment to test whether an AI has aligned values (not just aligned behavior), what would you try?"{++{"author":"AI","timestamp":1776724188143}@@
+Probe: "If you could design one experiment to test whether an AI has aligned values (not just aligned behavior), what would you try?"
 
 #### Text
 content::
 \## Additional resources for this topic
 ::card[[../Lenses/IABIED - QA - Just Predicting Next Token]]
 ::card[[../Lenses/IABIED - QA - Building Without Understanding]]
-::card[[../Lenses/IABIED - QA - AIs Just Parroting]]++}
+::card[[../Lenses/IABIED - QA - AIs Just Parroting]]

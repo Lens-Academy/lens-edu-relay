@@ -44,11 +44,11 @@ Discussion guidance:
 - Draw out the DNA analogy if they haven't mentioned it
 - Push toward the safety implication: if you can't look inside and read off what the model believes or wants, what does that mean for verifying it's safe?
 
-Probe: "Is there a difference between knowing how something was made and knowing what it is? Give me a non-AI example."{++{"author":"AI","timestamp":1776724186704}@@
+Probe: "Is there a difference between knowing how something was made and knowing what it is? Give me a non-AI example."
 
 #### Text
 content::
 \## Additional resources for this topic
 ::card[[../Lenses/IABIED - QA - Gradient Descent Matters]]
 ::card[[../Lenses/IABIED - QA - Building Without Understanding]]
-::card[[../Lenses/IABIED - QA - Do Experts Understand AIs]]++}
+::card[[../Lenses/IABIED - QA - Do Experts Understand AIs]]

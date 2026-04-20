@@ -36,10 +36,4 @@ source:: ![[../Lenses/IABIED - PQ - AI Is Grown, Not Crafted]]
 
 ## Lens:
 source:: ![[../Lenses/IABIED - AI Is Grown, Not Crafted]]
-{--{"author":"AI","timestamp":1776724193357}@@
-## Lens:
-optional:: true
-hide:: true
-card:: ![[../Lenses/IABIED - QA - Gradient Descent Matters]]
-card:: ![[../Lenses/IABIED - QA - Building Without Understanding]]
-card:: ![[../Lenses/IABIED - QA - Do Experts Understand AIs]]--}
+
