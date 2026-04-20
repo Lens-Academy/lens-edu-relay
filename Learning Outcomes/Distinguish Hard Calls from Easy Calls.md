@@ -4,8 +4,7 @@ learning-outcome: "Distinguish 'hard calls' from 'easy calls' as the authors def
 {++{"author":"AI","timestamp":1776513179750}@@reading-from: "\"MITIGATING THE RISK OF EXTINCTION FROM AI SHOULD BE A global priority alongside other societal-scale risks such as pandemics and nuclear war.\""
 reading-to: "Where there's life, there's hope."
 ++}tags:
-  - {--{"author":"AI","timestamp":1776694338707}@@work-in-progress
-  - --}learning-outcome
+  - learning-outcome
   - IABIED
 authors:
   - {--{"author":"AI","timestamp":1776509951540}@@Claude+Chris--}{++{"author":"AI","timestamp":1776509951540}@@Chris+Claude++}

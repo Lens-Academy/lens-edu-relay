@@ -7,8 +7,7 @@ authors:
   - Chris+Claude
 tags:
   - lens
-  - IABIED{--{"author":"AI","timestamp":1776694263080}@@
-  - work-in-progress--}
+  - IABIED
 ---
 #### Text
 content:: Before reading Chapter 1: When you think of "intelligence," what do you mean? Some animals are experts in their niche — a bat's sonar, a crow's tool use, a dog's nose. What do you think makes human intelligence distinctively powerful compared to theirs? Jot down a quick answer before reading — the authors have a specific framework for this.

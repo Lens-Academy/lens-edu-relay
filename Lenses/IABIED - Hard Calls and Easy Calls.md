@@ -7,8 +7,7 @@ tldr: Some predictions feel obvious in retrospect but look crazy in the moment. 
   - Chris+Claude
 ++}tags:
   - lens
-  - IABIED{--{"author":"AI","timestamp":1776694223043}@@
-  - work-in-progress--}
+  - IABIED
 ---
 #### Text
 content::
