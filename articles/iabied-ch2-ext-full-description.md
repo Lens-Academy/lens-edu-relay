@@ -7,8 +7,7 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED{--{"author":"AI","timestamp":1776721980026}@@
-  - work-in-progress--}
+  - IABIED
 ---
 #### How Llama 3.1 405B Works
 

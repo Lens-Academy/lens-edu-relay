@@ -7,8 +7,7 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED{--{"author":"AI","timestamp":1776721986137}@@
-  - work-in-progress--}
+  - IABIED
 ---
 #### Predicting tokens requires understanding the world.
 

@@ -7,8 +7,7 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED{--{"author":"AI","timestamp":1776722138713}@@
-  - work-in-progress--}
+  - IABIED
 ---
 #### Yes, but there's substantial overlap.
 

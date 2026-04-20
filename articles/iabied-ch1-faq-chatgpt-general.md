@@ -7,8 +7,7 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED{--{"author":"AI","timestamp":1776722132062}@@
-  - work-in-progress--}
+  - IABIED
 ---
 #### You could call it that if you'd like.
 

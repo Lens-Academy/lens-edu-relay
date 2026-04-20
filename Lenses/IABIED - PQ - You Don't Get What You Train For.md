@@ -7,8 +7,7 @@ authors:
   - Chris+Claude
 tags:
   - lens
-  - IABIED{--{"author":"AI","timestamp":1776722122835}@@
-  - work-in-progress--}
+  - IABIED
 ---
 #### Text
 content:: Before reading Chapter 4: If you trained an AI by rewarding it every time it produced a helpful response, how confident are you that the AI would end up genuinely wanting to be helpful? Could an AI learn to produce helpful-looking outputs without actually wanting to help — and if so, would that matter? Write down your intuition before reading.

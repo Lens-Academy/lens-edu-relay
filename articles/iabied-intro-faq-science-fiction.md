@@ -7,8 +7,7 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED{--{"author":"AI","timestamp":1776721975658}@@
-  - work-in-progress--}
+  - IABIED
 ---
 
 #### We can't learn much from a topic's prevalence in fiction.
