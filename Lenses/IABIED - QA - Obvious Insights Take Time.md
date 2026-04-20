@@ -5,8 +5,8 @@ title: "'Obvious' Insights Take Time"
 tags:
   - lens
   - IABIED
-  - supplementary
-  - work-in-progress
+  - supplementary{--{"author":"AI","timestamp":1776696053195}@@
+  - work-in-progress--}
 ---
 
 #### Text

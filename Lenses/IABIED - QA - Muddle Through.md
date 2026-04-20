@@ -6,8 +6,8 @@ tldr: "The world usually muddles through by trial and error. In this case, early
 tags:
   - lens
   - IABIED
-  - supplementary
-  - work-in-progress
+  - supplementary{--{"author":"AI","timestamp":1776696031196}@@
+  - work-in-progress--}
 ---
 #### Text
 content::

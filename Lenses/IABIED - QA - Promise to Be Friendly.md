@@ -6,8 +6,8 @@ tldr: "You can make it promise whatever you'd like. You can't make it keep its p
 tags:
   - lens
   - IABIED
-  - supplementary
-  - work-in-progress
+  - supplementary{--{"author":"AI","timestamp":1776696079508}@@
+  - work-in-progress--}
 ---
 #### Text
 content::

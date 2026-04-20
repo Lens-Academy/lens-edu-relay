@@ -5,8 +5,8 @@ title: A New Way to Discover Optical Illusions
 tags:
   - lens
   - IABIED
-  - supplementary
-  - work-in-progress
+  - supplementary{--{"author":"AI","timestamp":1776696055938}@@
+  - work-in-progress--}
 ---
 #### Text
 content::

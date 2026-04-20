@@ -6,8 +6,8 @@ tldr: "We do! We have broad cosmopolitan values. We don't think AIs will fulfill
 tags:
   - lens
   - IABIED
-  - supplementary
-  - work-in-progress
+  - supplementary{--{"author":"AI","timestamp":1776696050927}@@
+  - work-in-progress--}
 ---
 #### Text
 content::

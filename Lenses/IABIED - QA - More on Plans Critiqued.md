@@ -5,8 +5,8 @@ tldr: 'More on Making AI That Is "Truth-Seeking"'
 tags:
   - lens
   - IABIED
-  - supplementary
-  - work-in-progress
+  - supplementary{--{"author":"AI","timestamp":1776696030367}@@
+  - work-in-progress--}
 ---
 #### Text
 content::

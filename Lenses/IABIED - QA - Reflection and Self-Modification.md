@@ -5,8 +5,8 @@ tldr: "By Default, AIs Don't Self-Modify the Way We'd Want"
 tags:
   - lens
   - IABIED
-  - supplementary
-  - work-in-progress
+  - supplementary{--{"author":"AI","timestamp":1776696084648}@@
+  - work-in-progress--}
 ---
 #### Text
 content::
