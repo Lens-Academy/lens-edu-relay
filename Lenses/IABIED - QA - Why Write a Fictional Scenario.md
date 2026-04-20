@@ -4,8 +4,8 @@ title: "Why Write a Fictional Scenario?"
 tags:
   - lens
   - IABIED
-  - supplementary
-  - work-in-progress
+  - supplementary{--{"author":"AI","timestamp":1776696197425}@@
+  - work-in-progress--}
 ---
 
 #### Text

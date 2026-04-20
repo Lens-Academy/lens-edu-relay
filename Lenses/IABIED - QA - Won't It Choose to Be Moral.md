@@ -4,8 +4,8 @@ title: "Won't it choose to be moral?"
 tags:
   - lens
   - IABIED
-  - supplementary
-  - work-in-progress
+  - supplementary{--{"author":"AI","timestamp":1776696200335}@@
+  - work-in-progress--}
 ---
 
 #### Text

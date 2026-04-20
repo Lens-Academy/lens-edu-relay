@@ -4,8 +4,8 @@ title: "Will AI cross critical thresholds and take off?"
 tags:
   - lens
   - IABIED
-  - supplementary
-  - work-in-progress
+  - supplementary{--{"author":"AI","timestamp":1776696199551}@@
+  - work-in-progress--}
 ---
 
 #### Text

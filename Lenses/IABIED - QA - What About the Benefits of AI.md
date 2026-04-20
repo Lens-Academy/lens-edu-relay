@@ -5,8 +5,8 @@ tldr: "Rushing ahead destroys those benefits."
 tags:
   - lens
   - IABIED
-  - supplementary
-  - work-in-progress
+  - supplementary{--{"author":"AI","timestamp":1776696194632}@@
+  - work-in-progress--}
 ---
 
 #### Text
