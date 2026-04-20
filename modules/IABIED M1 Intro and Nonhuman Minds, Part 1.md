@@ -58,6 +58,7 @@ source:: ![[../Learning Outcomes/Distinguish Behavior from Values]]
 
 # Lens: Overview of Optional Resources
 
+
 # Lens: IABIED - QA - Why Write This Book
 optional:: true
 hide:: true

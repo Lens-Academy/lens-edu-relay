@@ -5,7 +5,6 @@ tags:
   - lens
 ---
 
-
 #### Text:
 content::
 The book's website includes supplementary Q&As and extended discussions for each chapter. Browse the ones relevant to this week's reading below. We suggest reading a couple of them that you find interesting, but probably don't read all of them (for time's sake). It's likely more useful to spend more time talking to the AI Tutor.
