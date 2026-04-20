@@ -7,8 +7,8 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED
-  - work-in-progress
+  - IABIED{--{"author":"AI","timestamp":1776721975090}@@
+  - work-in-progress--}
 ---
 
 #### We don't have a good enough understanding of intelligence for that.

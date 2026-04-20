@@ -7,8 +7,8 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED
-  - work-in-progress
+  - IABIED{--{"author":"AI","timestamp":1776721972719}@@
+  - work-in-progress--}
 ---
 
 In September of 1933, a physicist named Leo Szilard was crossing the intersection where Southampton Row passes Russell Square when he had the idea of a nuclear chain reaction — the key idea behind atomic bombs.

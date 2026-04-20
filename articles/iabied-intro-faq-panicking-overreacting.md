@@ -7,8 +7,8 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED
-  - work-in-progress
+  - IABIED{--{"author":"AI","timestamp":1776721975380}@@
+  - work-in-progress--}
 ---
 
 #### Yes. But this doesn't mean that nothing is ever *actually* dangerous.

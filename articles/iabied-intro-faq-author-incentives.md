@@ -7,8 +7,8 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED
-  - work-in-progress
+  - IABIED{--{"author":"AI","timestamp":1776721973050}@@
+  - work-in-progress--}
 ---
 
 #### We don't expect to make any money from the book in the average case. Separately, we would love to be wrong about the book's thesis.
