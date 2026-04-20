@@ -7,8 +7,8 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED
-  - work-in-progress
+  - IABIED{--{"author":"AI","timestamp":1776721987345}@@
+  - work-in-progress--}
 ---
 #### Perhaps by learning general skills and implementing them better.
 

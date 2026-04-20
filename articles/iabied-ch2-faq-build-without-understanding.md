@@ -7,8 +7,8 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED
-  - work-in-progress
+  - IABIED{--{"author":"AI","timestamp":1776721981606}@@
+  - work-in-progress--}
 ---
 #### Past AI progress hasn't required much understanding of intelligence.
 

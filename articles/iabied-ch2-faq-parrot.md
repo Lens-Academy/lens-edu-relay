@@ -7,8 +7,8 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED
-  - work-in-progress
+  - IABIED{--{"author":"AI","timestamp":1776721986423}@@
+  - work-in-progress--}
 ---
 #### To predict the next token well, LLMs need to learn how the world works.
 

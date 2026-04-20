@@ -7,8 +7,8 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED
-  - work-in-progress
+  - IABIED{--{"author":"AI","timestamp":1776721981275}@@
+  - work-in-progress--}
 ---
 It's hard to come across insights in AI, even when they look simple and obvious in retrospect.
 
