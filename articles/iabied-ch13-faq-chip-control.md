@@ -1,14 +1,13 @@
 ---
-title: "But you're advocating control of how many advanced AI computer chips individuals can own."
+title: But you're advocating control of how many advanced AI computer chips individuals can own.
 source_url: https://ifanyonebuildsit.com/13/but-youre-advocating-control-of-how-many-advanced-ai-computer-chips-individuals-can-own
 published: 2025-09-16
 author:
-  - "Eliezer Yudkowsky"
-  - "Nate Soares"
+  - Eliezer Yudkowsky
+  - Nate Soares
 tags:
   - clippings
   - IABIED
-  - work-in-progress
 ---
 #### Yes. We also advocate a research ban.
 

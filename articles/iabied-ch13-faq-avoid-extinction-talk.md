@@ -1,14 +1,13 @@
 ---
-title: "Isn't it smarter to avoid talking about extinction?"
+title: Isn't it smarter to avoid talking about extinction?
 source_url: https://ifanyonebuildsit.com/13/isnt-it-smarter-to-avoid-talking-about-extinction
 published: 2025-09-16
 author:
-  - "Eliezer Yudkowsky"
-  - "Nate Soares"
+  - Eliezer Yudkowsky
+  - Nate Soares
 tags:
   - clippings
   - IABIED
-  - work-in-progress
 ---
 #### The time has passed for playing political games.
 
