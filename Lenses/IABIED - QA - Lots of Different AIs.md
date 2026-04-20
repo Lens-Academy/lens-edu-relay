@@ -6,8 +6,7 @@ tldr: "It doesn't much help if we can't make any of them care about good things.
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776695986848}@@
-  - work-in-progress--}
+  - supplementary
 ---
 #### Text
 content::

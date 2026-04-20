@@ -6,8 +6,7 @@ tldr: "What horses remain, remain because we like them."
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776696191886}@@
-  - work-in-progress--}
+  - supplementary
 ---
 #### Text
 content::

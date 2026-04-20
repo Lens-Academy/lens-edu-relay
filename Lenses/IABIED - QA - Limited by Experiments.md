@@ -6,8 +6,7 @@ tldr: "Intelligence lets you learn more from experiments and run faster, more in
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776695984890}@@
-  - work-in-progress--}
+  - supplementary
 ---
 #### Text
 content::

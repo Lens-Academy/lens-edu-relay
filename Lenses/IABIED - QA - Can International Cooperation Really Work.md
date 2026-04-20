@@ -4,8 +4,7 @@ title: The Draft Treaty
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776695221073}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text

@@ -4,8 +4,7 @@ title: "Keep the Coalition Large"
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776695767370}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text

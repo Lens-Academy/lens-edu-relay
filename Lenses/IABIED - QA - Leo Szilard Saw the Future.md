@@ -5,8 +5,7 @@ title: When Leo Szilard Saw the Future
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776695983991}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text

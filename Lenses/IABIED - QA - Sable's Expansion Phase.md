@@ -6,8 +6,7 @@ tldr: "We were trying to depict an especially slow and comprehensible scenario, 
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776696108855}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text

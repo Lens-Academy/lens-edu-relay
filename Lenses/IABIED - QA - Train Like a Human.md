@@ -6,8 +6,7 @@ tldr: "Brains aren't blank slates."
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776696168526}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text

@@ -4,8 +4,7 @@ title: "Is intelligence a meaningful concept?"
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776695687012}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text

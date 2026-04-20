@@ -5,8 +5,7 @@ tldr: "Claims of Ineffability Have an Extremely Poor Track Record in the Science
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776695641884}@@
-  - work-in-progress--}
+  - supplementary
 ---
 #### Text
 content::

@@ -5,8 +5,7 @@ tldr: "Preventing the Creation of More and Better AI Chips"
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776696115174}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text

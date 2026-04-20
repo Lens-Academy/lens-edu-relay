@@ -6,8 +6,7 @@ tldr: "In some respects, but not in every respect."
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776696076226}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text

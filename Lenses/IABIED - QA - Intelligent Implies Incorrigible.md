@@ -4,8 +4,7 @@ title: "\"Intelligent\" (Usually) Implies \"Incorrigible\""
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776695670018}@@
-  - work-in-progress--}
+  - supplementary
 ---
 #### Text
 content::

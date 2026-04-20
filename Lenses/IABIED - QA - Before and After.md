@@ -5,8 +5,7 @@ title: A Closer Look at Before and After
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776695165099}@@
-  - work-in-progress--}
+  - supplementary
 ---
 #### Text
 content::

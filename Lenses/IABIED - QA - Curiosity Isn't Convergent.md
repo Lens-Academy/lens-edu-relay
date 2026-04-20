@@ -6,8 +6,7 @@ tldr: "Why Curiosity?"
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776695327896}@@
-  - work-in-progress--}
+  - supplementary
 ---
 #### Text
 content::

@@ -5,8 +5,7 @@ tldr: "Smart AIs Resist Having Their Goals Overwritten"
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776696115961}@@
-  - work-in-progress--}
+  - supplementary
 ---
 #### Text
 content::

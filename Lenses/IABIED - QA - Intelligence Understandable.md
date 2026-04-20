@@ -6,8 +6,7 @@ tldr: "Probably."
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776695653034}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text

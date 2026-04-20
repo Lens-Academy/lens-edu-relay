@@ -6,8 +6,7 @@ tldr: 'There is no "digital realm" independent of physical infrastructure.'
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776696053899}@@
-  - work-in-progress--}
+  - supplementary
 ---
 #### Text
 content::
