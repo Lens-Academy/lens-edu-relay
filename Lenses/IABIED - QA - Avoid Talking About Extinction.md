@@ -5,8 +5,7 @@ tldr: "The time has passed for playing political games."
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776695160566}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text

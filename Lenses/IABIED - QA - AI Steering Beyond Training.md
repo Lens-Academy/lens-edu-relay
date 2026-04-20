@@ -6,8 +6,7 @@ tldr: "Because there are many ways to perform well in training."
 tags:
   - lens
   - IABIED
-  - supplementary{--{"author":"AI","timestamp":1776695015913}@@
-  - work-in-progress--}
+  - supplementary
 ---
 
 #### Text
