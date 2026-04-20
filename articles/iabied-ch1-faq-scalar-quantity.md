@@ -7,8 +7,8 @@ author:
   - "Nate Soares"
 tags:
   - clippings
-  - IABIED
-  - work-in-progress
+  - IABIED{--{"author":"AI","timestamp":1776722144356}@@
+  - work-in-progress--}
 ---
 #### No. But there are levels AI hasn't reached.
 
