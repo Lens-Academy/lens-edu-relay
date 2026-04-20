@@ -40,6 +40,6 @@ source:: ![[../Lenses/IABIED - Behavior Is Not Values]]
 ## Lens:
 optional:: true
 hide:: true
-source:: ![[../Lenses/IABIED - QA - Just Predicting Next Token]]
-source:: ![[../Lenses/IABIED - QA - Building Without Understanding]]
-source:: ![[../Lenses/IABIED - QA - AIs Just Parroting]]
+card:: ![[../Lenses/IABIED - QA - Just Predicting Next Token]]
+card:: ![[../Lenses/IABIED - QA - Building Without Understanding]]
+card:: ![[../Lenses/IABIED - QA - AIs Just Parroting]]
