@@ -3,9 +3,9 @@ id: b1c2d3e4-f5a6-4b78-c901-d2e3f4a5b6c7
 summary_for_tutor: "Teaches the 'easy calls vs. hard calls' epistemic framework from the Introduction. Students first articulate their own intuitions about confident vs. uncertain predictions, then read the Introduction, then explain back how the authors classify ASI risk as an 'easy call' despite its apparent implausibility."
 title: "Hard Calls and Easy Calls"
 tldr: Some predictions feel obvious in retrospect but look crazy in the moment. The authors have a framework for why — and they use it to make a bold claim about AI.
-{++{"author":"AI","timestamp":1776504895973}@@authors:
+authors:
   - Chris+Claude
-++}tags:
+tags:
   - lens
   - IABIED
 ---

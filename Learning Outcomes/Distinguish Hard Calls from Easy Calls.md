@@ -1,13 +1,13 @@
 ---
 id: ed5fab41-b9a2-466f-89bd-825af3944c1c
 learning-outcome: "Distinguish 'hard calls' from 'easy calls' as the authors define them, and explain why they classify the danger from ASI as an easy call despite its apparent implausibility."
-{++{"author":"AI","timestamp":1776513179750}@@reading-from: "\"MITIGATING THE RISK OF EXTINCTION FROM AI SHOULD BE A global priority alongside other societal-scale risks such as pandemics and nuclear war.\""
+reading-from: "\"MITIGATING THE RISK OF EXTINCTION FROM AI SHOULD BE A global priority alongside other societal-scale risks such as pandemics and nuclear war.\""
 reading-to: "Where there's life, there's hope."
-++}tags:
+tags:
   - learning-outcome
   - IABIED
 authors:
-  - {--{"author":"AI","timestamp":1776509951540}@@Claude+Chris--}{++{"author":"AI","timestamp":1776509951540}@@Chris+Claude++}
+  - Chris+Claude
 ---
 
 ## Test:
