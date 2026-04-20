@@ -40,6 +40,6 @@ source:: ![[../Lenses/IABIED - Define Intelligence]]
 ## Lens:
 optional:: true
 hide:: true
-source:: ![[../Lenses/IABIED - QA - Intelligence as Prediction and Steering]]
-source:: ![[../Lenses/IABIED - QA - General Intelligence]]
+card:: ![[../Lenses/IABIED - QA - Intelligence as Prediction and Steering]]
+card:: ![[../Lenses/IABIED - QA - General Intelligence]]
 card:: ![[../Lenses/IABIED - QA - Is Intelligence Meaningful]]
