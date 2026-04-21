@@ -43,7 +43,7 @@ We hope this book club will also help grow the AI safety community. Some of thes
 
 Don't save your questions and insights for the meeting day, post them into Discord as soon as they arise!
 
-
+# Submodule: Chapter
 # Learning Outcome: IABIED - Hard Calls and Easy Calls
 source:: ![[../Learning Outcomes/Distinguish Hard Calls from Easy Calls]]
 
