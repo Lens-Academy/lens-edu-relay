@@ -61,6 +61,7 @@ source:: ![[../Learning Outcomes/Explain AI Is Grown, Not Crafted]]
 # Learning Outcome: IABIED - Behavior Is Not Values
 source:: ![[../Learning Outcomes/Distinguish Behavior from Values]]
 
+# Submodule: Dive Deeper
 # Lens: Overview of Optional Resources
 optional:: true
 source:: [[../Lenses/IABIED - Overview of Optional Resources M1]]
