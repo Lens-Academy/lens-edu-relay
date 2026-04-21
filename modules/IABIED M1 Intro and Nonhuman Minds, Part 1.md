@@ -47,6 +47,7 @@ Don't save your questions and insights for the meeting day, post them into Disco
 # Learning Outcome: IABIED - Hard Calls and Easy Calls
 source:: ![[../Learning Outcomes/Distinguish Hard Calls from Easy Calls]]
 
+# Submodule: Ch1 - Intelligence
 # Learning Outcome: IABIED - Define Intelligence
 source:: ![[../Learning Outcomes/Define Intelligence]]
 
