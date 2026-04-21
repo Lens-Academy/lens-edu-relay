@@ -8,7 +8,6 @@ author:
 tags:
   - clippings
   - IABIED
-  - work-in-progress
 ---
 
 #### AIs steer in alien directions that only mostly coincide with helpfulness.

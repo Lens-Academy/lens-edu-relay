@@ -8,7 +8,6 @@ author:
 tags:
   - clippings
   - IABIED
-  - work-in-progress
 ---
 
 #### It's overwhelmingly more likely that AI kills everyone.

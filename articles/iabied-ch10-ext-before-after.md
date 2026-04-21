@@ -8,7 +8,6 @@ author:
 tags:
   - clippings
   - IABIED
-  - work-in-progress
 ---
 As mentioned in the chapter, the fundamental difficulty researchers face in AI is this:
 

@@ -41,7 +41,7 @@ Really, the learning outcome here distills back to the power of intelligence (pl
 
 {++{"author":"AI","timestamp":1774279296184}@@%%
 ++}# Learning Outcome: IABIED - Human-Compatible Goals Are Vanishingly Rare
-source:: ![[../Learning Outcomes/IABIED - Human-Compatible Goals Are Vanishingly Rare]]
+source:: ![[../Learning Outcomes/Explain Human-Compatible Goals Are Vanishingly Rare]]
 
 # Learning Outcome: IABIED - We'd Lose
 source:: ![[../Learning Outcomes/IABIED - We'd Lose]]{++{"author":"AI","timestamp":1774279296184}@@

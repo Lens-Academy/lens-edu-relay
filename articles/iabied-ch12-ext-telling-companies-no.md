@@ -8,7 +8,6 @@ author:
 tags:
   - clippings
   - IABIED
-  - work-in-progress
 ---
 We *do* somewhat caution people with influence in governments from making a plan that involves sitting down and negotiating with AI companies.
 

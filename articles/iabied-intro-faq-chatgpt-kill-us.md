@@ -8,7 +8,6 @@ author:
 tags:
   - clippings
   - IABIED
-  - work-in-progress
 ---
 
 #### No. The worry is about forthcoming advances in AI.

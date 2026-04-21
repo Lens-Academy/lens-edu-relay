@@ -1,14 +1,13 @@
 ---
-title: "Why would making humans smarter help?"
+title: Why would making humans smarter help?
 source_url: https://ifanyonebuildsit.com/13/why-would-making-humans-smarter-help
 published: 2025-09-16
 author:
-  - "Eliezer Yudkowsky"
-  - "Nate Soares"
+  - Eliezer Yudkowsky
+  - Nate Soares
 tags:
   - clippings
   - IABIED
-  - work-in-progress
 ---
 #### It could help with solving the alignment problem.
 

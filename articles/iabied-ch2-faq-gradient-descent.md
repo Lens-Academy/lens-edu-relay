@@ -8,7 +8,6 @@ author:
 tags:
   - clippings
   - IABIED
-  - work-in-progress
 ---
 #### It's important for understanding how engineers can and cannot shape modern AIs.
 

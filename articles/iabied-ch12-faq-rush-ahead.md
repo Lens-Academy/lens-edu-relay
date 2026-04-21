@@ -1,14 +1,13 @@
 ---
-title: "Isn't it smarter to rush ahead and make sure good guys have the lead?"
+title: Isn't it smarter to rush ahead and make sure good guys have the lead?
 source_url: https://ifanyonebuildsit.com/12/isnt-it-smarter-to-rush-ahead-and-make-sure-good-guys-have-the-lead
 published: 2025-09-16
 author:
-  - "Eliezer Yudkowsky"
-  - "Nate Soares"
+  - Eliezer Yudkowsky
+  - Nate Soares
 tags:
   - clippings
   - IABIED
-  - work-in-progress
 ---
 #### No.
 

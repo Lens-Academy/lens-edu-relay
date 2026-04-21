@@ -8,7 +8,6 @@ author:
 tags:
   - clippings
   - IABIED
-  - work-in-progress
 ---
 What follows from understanding LLMs? How does it help us understand smarter-than-human AI and how to prevent everyone from dying?
 

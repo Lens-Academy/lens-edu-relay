@@ -8,7 +8,6 @@ author:
 tags:
   - clippings
   - IABIED
-  - work-in-progress
 ---
 #### Intelligence lets you learn more from experiments and run faster, more informative, more parallelized experiments.
 

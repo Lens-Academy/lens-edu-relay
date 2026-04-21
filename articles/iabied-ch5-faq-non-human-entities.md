@@ -8,7 +8,6 @@ author:
 tags:
   - clippings
   - IABIED
-  - work-in-progress
 ---
 
 #### We do! We have broad cosmopolitan values. We don't think AIs will fulfill them, and we consider this a great tragedy.

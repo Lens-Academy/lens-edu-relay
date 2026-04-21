@@ -8,7 +8,6 @@ author:
 tags:
   - clippings
   - IABIED
-  - work-in-progress
 ---
 #### Past AI progress hasn't required much understanding of intelligence.
 

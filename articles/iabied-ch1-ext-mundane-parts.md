@@ -8,7 +8,6 @@ author:
 tags:
   - clippings
   - IABIED
-  - work-in-progress
 ---
 The industry race to achieve smarter-than-human AI is heating up. Against that backdrop, there's something especially tragic about the idea that humanity may end up destroying itself because some critical subset of the voting public or elected officials thinks that machine superintelligence is an impossible pipe dream. People who think that a machine could never be *truly* intelligent are liable to be blindsided by what's coming.
 

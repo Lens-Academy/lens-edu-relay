@@ -4,7 +4,6 @@ title: Next Steps with Lens Academy
 tags:
   - lens
   - IABIED
-  - work-in-progress
 ---
 
 #### Text

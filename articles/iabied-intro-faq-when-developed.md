@@ -8,7 +8,6 @@ author:
 tags:
   - clippings
   - IABIED
-  - work-in-progress
 ---
 
 #### Knowing that a technology is coming doesn't grant knowledge of exactly when it's coming.

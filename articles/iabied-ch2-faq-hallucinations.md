@@ -8,7 +8,6 @@ author:
 tags:
   - clippings
   - IABIED
-  - work-in-progress
 ---
 #### Hallucinations reveal both a limitation and a misalignment.
 

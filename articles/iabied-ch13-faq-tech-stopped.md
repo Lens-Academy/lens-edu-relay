@@ -1,14 +1,13 @@
 ---
-title: "Can a technology really be stopped?"
+title: Can a technology really be stopped?
 source_url: https://ifanyonebuildsit.com/13/can-a-technology-really-be-stopped
 published: 2025-09-16
 author:
-  - "Eliezer Yudkowsky"
-  - "Nate Soares"
+  - Eliezer Yudkowsky
+  - Nate Soares
 tags:
   - clippings
   - IABIED
-  - work-in-progress
 ---
 #### Many technologies are banned or heavily regulated.
 

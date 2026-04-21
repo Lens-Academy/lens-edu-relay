@@ -8,7 +8,6 @@ author:
 tags:
   - clippings
   - IABIED
-  - work-in-progress
 ---
 It's hard to come across insights in AI, even when they look simple and obvious in retrospect.
 

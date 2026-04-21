@@ -1,14 +1,13 @@
 ---
-title: "But experts don't all agree about the risks!"
+title: But experts don't all agree about the risks!
 source_url: https://ifanyonebuildsit.com/12/but-experts-dont-all-agree-about-the-risks
 published: 2025-09-16
 author:
-  - "Eliezer Yudkowsky"
-  - "Nate Soares"
+  - Eliezer Yudkowsky
+  - Nate Soares
 tags:
   - clippings
   - IABIED
-  - work-in-progress
 ---
 #### Lack of expert consensus is a sign of an immature technical field.
 

@@ -8,7 +8,6 @@ author:
 tags:
   - clippings
   - IABIED
-  - work-in-progress
 ---
 
 #### If your AI plan requires that no one on the internet critique the plan, it's a bad plan.

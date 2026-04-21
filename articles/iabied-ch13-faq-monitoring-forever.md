@@ -1,14 +1,13 @@
 ---
-title: "Can a monitoring regime last forever?"
+title: Can a monitoring regime last forever?
 source_url: https://ifanyonebuildsit.com/13/can-a-monitoring-regime-last-forever
 published: 2025-09-16
 author:
-  - "Eliezer Yudkowsky"
-  - "Nate Soares"
+  - Eliezer Yudkowsky
+  - Nate Soares
 tags:
   - clippings
   - IABIED
-  - work-in-progress
 ---
 #### No. Some other off-ramp will be needed.
 

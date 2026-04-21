@@ -8,7 +8,6 @@ author:
 tags:
   - clippings
   - IABIED
-  - work-in-progress
 ---
 In the chapter, we wrote that you can "see a shallowness" in the intelligence of current AIs (as of mid-to-late 2025), if you know where to look. If you haven't seen it yourself yet, here are a few places you might look:
 

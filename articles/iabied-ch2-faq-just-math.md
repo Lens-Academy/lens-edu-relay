@@ -8,7 +8,6 @@ author:
 tags:
   - clippings
   - IABIED
-  - work-in-progress
 ---
 #### Saying AIs are "just math" is like saying humans are "just biochemistry."
 

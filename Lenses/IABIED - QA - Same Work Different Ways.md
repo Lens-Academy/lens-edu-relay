@@ -5,7 +5,6 @@ tags:
   - lens
   - IABIED
   - supplementary
-  - work-in-progress
 ---
 #### Text
 content::

@@ -8,7 +8,6 @@ author:
 tags:
   - clippings
   - IABIED
-  - work-in-progress
 ---
 Decision theorists make a distinction between two different types of goal, "terminal" and "instrumental."
 

@@ -8,7 +8,6 @@ author:
 tags:
   - clippings
   - IABIED
-  - work-in-progress
 ---
 #### Happy, healthy, free people aren't the most efficient solution to almost any problem.
 

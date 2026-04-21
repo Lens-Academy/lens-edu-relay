@@ -8,7 +8,6 @@ author:
 tags:
   - clippings
   - IABIED
-  - work-in-progress
 ---
 #### With computers, the hard part is getting them to solve a certain problem at all. High volume and speed come soon after.
 

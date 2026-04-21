@@ -1,14 +1,13 @@
 ---
-title: "Wouldn't some nations reject a ban?"
+title: Wouldn't some nations reject a ban?
 source_url: https://ifanyonebuildsit.com/13/wouldnt-some-nations-reject-a-ban
 published: 2025-09-16
 author:
-  - "Eliezer Yudkowsky"
-  - "Nate Soares"
+  - Eliezer Yudkowsky
+  - Nate Soares
 tags:
   - clippings
   - IABIED
-  - work-in-progress
 ---
 #### Not if they understand the threat.
 

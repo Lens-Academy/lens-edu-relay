@@ -1,14 +1,13 @@
 ---
-title: "Can we adopt a wait-and-see approach?"
+title: Can we adopt a wait-and-see approach?
 source_url: https://ifanyonebuildsit.com/13/can-we-adopt-a-wait-and-see-approach
 published: 2025-09-16
 author:
-  - "Eliezer Yudkowsky"
-  - "Nate Soares"
+  - Eliezer Yudkowsky
+  - Nate Soares
 tags:
   - clippings
   - IABIED
-  - work-in-progress
 ---
 #### No. We don't know where the critical thresholds are.
 

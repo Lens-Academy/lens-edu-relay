@@ -8,7 +8,6 @@ author:
 tags:
   - clippings
   - IABIED
-  - work-in-progress
 ---
 #### You can make it promise whatever you'd like. You can't make it keep its promises.
 

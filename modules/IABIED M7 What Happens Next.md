@@ -51,7 +51,7 @@ Start by asking the student to present the complete argument. Listen carefully, 
 source:: ![[../Learning Outcomes/IABIED - Synthesize the Core Argument]]
 
 # Learning Outcome: IABIED - Identify Your Path Forward
-source:: ![[../Learning Outcomes/IABIED - Identify Your Path Forward]]{++{"author":"AI","timestamp":1774279304448}@@
+source:: ![[../Learning Outcomes/Identify Your Path Forward]]{++{"author":"AI","timestamp":1774279304448}@@
 %%++}
 
 # Lens: Overview of Optional Resources

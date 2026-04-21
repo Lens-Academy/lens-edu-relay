@@ -8,7 +8,6 @@ author:
 tags:
   - clippings
   - IABIED
-  - work-in-progress
 ---
 #### The difficulty isn't just the lack of time; it's the lethality of mistakes.
 

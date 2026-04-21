@@ -1,14 +1,13 @@
 ---
-title: "What Would It Take to Shut Down Global AI Development?"
+title: What Would It Take to Shut Down Global AI Development?
 source_url: https://ifanyonebuildsit.com/13/what-would-it-take-to-shut-down-global-ai-development
 published: 2025-09-16
 author:
-  - "Eliezer Yudkowsky"
-  - "Nate Soares"
+  - Eliezer Yudkowsky
+  - Nate Soares
 tags:
   - clippings
   - IABIED
-  - work-in-progress
 ---
 We aren't experts in international law, and this is a formidably complicated topic that we expect to require a large amount of effort by domain experts. In the interest of getting the ball rolling quickly, however, we've worked with our technical governance team and outside advisors to assemble some sketches and guesses at some measures that could be effective.
 

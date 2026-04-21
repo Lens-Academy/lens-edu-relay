@@ -8,7 +8,6 @@ author:
 tags:
   - clippings
   - IABIED
-  - work-in-progress
 ---
 #### Being on a computer connected to the internet isn't much of a limitation.
 

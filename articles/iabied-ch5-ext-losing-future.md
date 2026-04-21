@@ -8,7 +8,6 @@ author:
 tags:
   - clippings
   - IABIED
-  - work-in-progress
 ---
 If anyone builds superintelligence, everyone dies. And the long-term future shaped by such a superintelligence is not likely to harbor beauty, wonder, or joy; it's more likely to be an empty place.
 

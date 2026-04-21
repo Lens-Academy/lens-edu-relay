@@ -8,7 +8,6 @@ author:
 tags:
   - clippings
   - IABIED
-  - work-in-progress
 ---
 #### To predict the next token well, LLMs need to learn how the world works.
 

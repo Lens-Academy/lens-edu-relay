@@ -8,7 +8,6 @@ author:
 tags:
   - clippings
   - IABIED
-  - work-in-progress
 ---
 We've sometimes heard it suggested that some future AI behavior or misuse — an AI "warning shot" — will suddenly shock the world into taking these issues seriously.
 

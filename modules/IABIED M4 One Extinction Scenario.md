@@ -50,7 +50,7 @@ Ask what they found surprising or new. Check if they can explain why the endpoin
 source:: ![[../Learning Outcomes/IABIED - Trace the Sable Scenario]]
 
 # Learning Outcome: IABIED - Distinguish Scenario from Prediction
-source:: ![[../Learning Outcomes/IABIED - Distinguish Scenario from Prediction]]{++{"author":"AI","timestamp":1774279297874}@@
+source:: ![[../Learning Outcomes/Distinguish Scenario from Prediction]]{++{"author":"AI","timestamp":1774279297874}@@
 %%++}
 
 # Lens: Overview of Optional Resources

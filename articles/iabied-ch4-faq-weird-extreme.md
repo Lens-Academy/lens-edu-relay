@@ -8,7 +8,6 @@ author:
 tags:
   - clippings
   - IABIED
-  - work-in-progress
 ---
 
 #### The weirdness is evidence that their actual pursuits aren't our intended pursuits.

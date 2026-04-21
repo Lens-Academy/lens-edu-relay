@@ -5,7 +5,6 @@ title: AI Safety Career Paths
 tags:
   - lens
   - IABIED
-  - work-in-progress
 ---
 
 #### Text

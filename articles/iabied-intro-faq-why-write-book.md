@@ -9,7 +9,6 @@ author:
 tags:
   - clippings
   - IABIED
-  - work-in-progress
 ---
 
 #### Because the situation seems genuinely serious and urgent.
