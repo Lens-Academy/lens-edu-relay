@@ -14,7 +14,7 @@ tags:
 ## Test:
 #### Text
 content::
-Chapter 3 argues that modern AIs will develop something like wants — not because anyone designed wants into them, but as a side effect of how they are trained.
+Chapter 3 argues that modern AIs will develop something like wants not because anyone designed wants into them, but as a side effect of how they are trained.
 
 #### Question
 feedback:: true
