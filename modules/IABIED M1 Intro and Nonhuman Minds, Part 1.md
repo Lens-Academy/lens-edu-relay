@@ -54,6 +54,7 @@ source:: ![[../Learning Outcomes/Define Intelligence]]
 # Learning Outcome: IABIED - Intelligence Is Direction-Agnostic
 source:: ![[../Learning Outcomes/Explain Intelligence Is Direction-Agnostic]]
 
+# Submodule: Welcome
 # Learning Outcome: IABIED - AI Is Grown, Not Crafted
 source:: ![[../Learning Outcomes/Explain AI Is Grown, Not Crafted]]
 
