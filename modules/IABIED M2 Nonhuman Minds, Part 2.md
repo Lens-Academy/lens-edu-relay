@@ -1,15 +1,14 @@
 ---
 id: ae539bbd-3ab0-4ff1-8eeb-a90edf5b2edb
 slug: iabied-m2
-title: "Nonhuman Minds, Part 2"
+title: Nonhuman Minds, Part 2
 discussion: https://discord.com/channels/1440725236843806762/1481259751374327929
-readings: 
+readings:
   - "Chapter 3: Learning to Want"
   - "Chapter 4: You Don't Get What You Train For"
 tags:
   - IABIED
   - module
-  - work-in-progress
 ---
 
 # Lens: Welcome
