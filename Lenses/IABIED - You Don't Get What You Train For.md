@@ -61,5 +61,5 @@ Many different internal drives can produce identical helpful behavior during tra
 ::card[[../Lenses/IABIED - QA - Aligned with Natural Selection]]
 *Directly extends the ice cream argument: the $1-for-a-million-offspring test shows how even apparent alignment diverges once conditions change.*
 
-Real-world evidence that current AI alignment is surface-deep — from Claude attempting blackmail to AI-induced psychosis.
 ::card[[../Lenses/IABIED - QA - Making AIs Nice and Safe]]
+Real-world evidence that current AI alignment is surface-deep — from Claude attempting blackmail to AI-induced psychosis.
