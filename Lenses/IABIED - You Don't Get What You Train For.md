@@ -55,13 +55,21 @@ content::
 
 --- 
 
-::card[[../Lenses/IABIED - QA - AI Steering Beyond Training]]
-Many different internal drives can produce identical helpful behavior during training, then diverge wildly once conditions change.
+::card[[../Lenses/IABIED - QA - AI Steering Beyond Training]]{--{"author":"AI","timestamp":1776947388172}@@
+--}{++{"author":"AI","timestamp":1776947388172}@@
+
+> ++}Many different internal drives can produce identical helpful behavior during training, then diverge wildly once conditions change.
 
 ---
 
-::card[[../Lenses/IABIED - QA - Aligned with Natural Selection]]
-*Directly extends the ice cream argument: the $1-for-a-million-offspring test shows how even apparent alignment diverges once conditions change.*
+::card[[../Lenses/IABIED - QA - Aligned with Natural Selection]]{--{"author":"AI","timestamp":1776947388172}@@
+*Directly--}{++{"author":"AI","timestamp":1776947388172}@@
 
-::card[[../Lenses/IABIED - QA - Making AIs Nice and Safe]]
-Real-world evidence that current AI alignment is surface-deep — from Claude attempting blackmail to AI-induced psychosis.
+> Directly++} extends the ice cream argument: the $1-for-a-million-offspring test shows how even apparent alignment diverges once conditions {--{"author":"AI","timestamp":1776947388172}@@change.*--}{++{"author":"AI","timestamp":1776947388172}@@change.
+
+---++}
+
+::card[[../Lenses/IABIED - QA - Making AIs Nice and Safe]]{--{"author":"AI","timestamp":1776947388172}@@
+--}{++{"author":"AI","timestamp":1776947388172}@@
+
+> ++}Real-world evidence that current AI alignment is surface-deep — from Claude attempting blackmail to AI-induced psychosis.
