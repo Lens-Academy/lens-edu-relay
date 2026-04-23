@@ -51,7 +51,7 @@ content::
 \## Additional resources for this topic
 ::card[[../Lenses/IABIED - QA - Brittle Unpredictable Proxies]]
 > Gradient descent builds shallow proxies instead of intended goals — just like squirrels hoard nuts by instinct rather than by understanding winter survival.
----
+--
 Many different internal drives can produce identical helpful behavior during training, then diverge wildly once conditions change.
 ::card[[../Lenses/IABIED - QA - AI Steering Beyond Training]]
 Directly extends the ice cream argument: the $1-for-a-million-offspring test shows how even apparent alignment diverges once conditions change.
