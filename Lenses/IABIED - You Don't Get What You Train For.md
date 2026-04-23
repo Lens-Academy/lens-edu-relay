@@ -19,7 +19,7 @@ Return here after reading.
 ---
 
 \## After Reading
-Chapter 4 introduces the alignment problem through an extended analogy. What is the ice cream argument, and what does it show about the relationship betw,n training and preferences? And where does the argument go beyond ice cream — why does the chapter keep escalating?
+Chapter 4 introduces the alignment problem through an extended analogy. What is the ice cream argument, and what does it show about the relationship betw,n training and preferences? And where does the argument go beyond ice cream — why does the chapt, keep escalating?
 
 #### Chat
 instructions::
@@ -28,7 +28,7 @@ The student has just finished reading Chapter 4 ("You Don't Get What You Train F
 Learning outcome for this Lens: Explain why there's no reliable relationship between training objectives and resulting AI preferences.
 
 Key concepts:
-- The three-step gap: training target → internal psychology → eventual preference — underconstrained at each step
+- The three-step gap: training target → internal psychology → eventual preference — underconstrained a,each step
 - Ice cream argument: humans weren't trained to like ice cream; the preference chain from "seek chemical energy" to "prefer frozen dairy dessert" is underconstrained and unpredictable
 - Sucralose: preferences can become functionally disconnected from the training target — seeking the sensation without the substance
 - Peacock tail / sexual selection: preferences can actively oppose the training objective — a structurally stable outcome that defies naive predictions
