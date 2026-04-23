@@ -44,4 +44,10 @@ Discussion guidance:
 - Help them connect the Mink vignettes to the escalating analogies (zero complications → ice cream → sucralose → peacock tail)
 - The closing line is key: "You don't get what you train for", can they explain structurally why this is the case?
 
-Probe: "The chapter says the specific preferences an AI would develop are unpredictable in principle. But does unpredictability matter if we can still test the AI's behavior before deploying it? What does the blank-map principle say about that?"
+Probe: "The chapter says the specific preferences an AI would develop are unpredictable in principle. But does unpredictability matter if we can still test the AI's behavior before deploying it? What does the blank-map principle say about that?"{++{"author":"AI","timestamp":1776946471525}@@
+
+#### Text
+content::
+\## Additional resources for this topic
+::card[[../Lenses/IABIED - QA - Brittle Unpredictable Proxies]]
+::card[[../Lenses/IABIED - QA - AI Steering Beyond Training]]++}
