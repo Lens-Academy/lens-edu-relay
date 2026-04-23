@@ -18,9 +18,9 @@ id:: a058eebe-2914-4a55-b88a-57027f0b79aa
 content:: Congratulations on completing week 1. You already know more essential facts about AI safety than 99% of humanity. However, our journey is only just beginning.
 
 This week we ask two critical questions: Can AIs develop wants? And if so, will they want what we trained them to want?
-
-**This week's reading:** Chapter 3 ("Learning to Want") + Chapter 4 ("You Don't Get What You Train For"). After reading, come back here to discuss with the tutor.
 %%
+**This week's reading:** Chapter 3 ("Learning to Want") + Chapter 4 ("You Don't Get What You Train For"). After reading, come back here to discuss with the tutor.
+
 #### Chat:
 instructions::
 The student has just read Chapters 3 and 4 of "If Anyone Builds It, Everyone Dies."
