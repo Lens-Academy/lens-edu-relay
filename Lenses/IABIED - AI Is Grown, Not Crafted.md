@@ -49,6 +49,20 @@ Probe: "Is there a difference between knowing how something was made and knowing
 #### Text
 content::
 \## Additional resources for this topic
-::card[[../Lenses/IABIED - QA - Gradient Descent Matters]]
-::card[[../Lenses/IABIED - QA - Building Without Understanding]]
-::card[[../Lenses/IABIED - QA - Do Experts Understand AIs]]
+::card[[../Lenses/IABIED - QA - Gradient Descent Matters]]{--{"author":"AI","timestamp":1776948509852}@@
+--}{++{"author":"AI","timestamp":1776948509852}@@
+
+> The readable code is not the AI — it's the machinery for growing it. Engineers understand the training process but know almost nothing about the trained model's internals.
+
+---
+
+++}::card[[../Lenses/IABIED - QA - Building Without Understanding]]{--{"author":"AI","timestamp":1776948509852}@@
+--}{++{"author":"AI","timestamp":1776948509852}@@
+
+> Gradient descent and evolution both produced intelligence without comprehension — which is exactly what makes outcomes unpredictable and unverifiable.
+
+---
+
+++}::card[[../Lenses/IABIED - QA - Do Experts Understand AIs]]{++{"author":"AI","timestamp":1776948509852}@@
+
+> Documents that even AI lab researchers don't understand their systems' internals — interpretability research receives roughly 0.1% of the resources devoted to building more capable AI.++}

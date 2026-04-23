@@ -49,6 +49,20 @@ Probe: "If you could design one experiment to test whether an AI has aligned val
 #### Text
 content::
 \## Additional resources for this topic
-::card[[../Lenses/IABIED - QA - Just Predicting Next Token]]
-::card[[../Lenses/IABIED - QA - Building Without Understanding]]
-::card[[../Lenses/IABIED - QA - AIs Just Parroting]]
+::card[[../Lenses/IABIED - QA - Just Predicting Next Token]]{--{"author":"AI","timestamp":1776948513415}@@
+--}{++{"author":"AI","timestamp":1776948513415}@@
+
+> "Just predicting tokens" actually requires understanding the world — accurately predicting a physicist's novel answer means reasoning about physics at that level.
+
+---
+
+++}::card[[../Lenses/IABIED - QA - Building Without Understanding]]{--{"author":"AI","timestamp":1776948513415}@@
+--}{++{"author":"AI","timestamp":1776948513415}@@
+
+> The same process that makes building AI possible — gradient descent without comprehension — is what makes its outputs unpredictable and unverifiable.
+
+---
+
+++}::card[[../Lenses/IABIED - QA - AIs Just Parroting]]{++{"author":"AI","timestamp":1776948513415}@@
+
+> AlphaGo Zero surpassed all human Go players through self-play alone, and chess engines have taught human masters new strategies — demonstrating that modern AI far exceeds pattern repetition.++}
