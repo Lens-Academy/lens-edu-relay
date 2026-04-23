@@ -34,7 +34,7 @@ Score according to the following rubric.
 ## Lens: PQ - You Don't Get What You Train For
 source:: ![[../Lenses/IABIED - PQ - You Don't Get What You Train For]]
 
-## Lens:
+## Lens: You Don't Get What You Train For
 source:: ![[../Lenses/IABIED - You Don't Get What You Train For]]
 
 ## Lens:
