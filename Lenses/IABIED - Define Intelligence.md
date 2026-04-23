@@ -47,20 +47,18 @@ Probe: "Give me an example of something that requires prediction without steerin
 #### Text
 content::
 \## Additional resources for this topic
-::card[[../Lenses/IABIED - QA - Intelligence as Prediction and Steering]]{--{"author":"AI","timestamp":1776948505641}@@
---}{++{"author":"AI","timestamp":1776948505641}@@
+::card[[../Lenses/IABIED - QA - Intelligence as Prediction and Steering]]
 
 > A deeper look at why prediction converges across capable minds but steering doesn't — making capability improvements no guarantee of aligned goals.
 
 ---
 
-++}::card[[../Lenses/IABIED - QA - General Intelligence]]{--{"author":"AI","timestamp":1776948505641}@@
---}{++{"author":"AI","timestamp":1776948505641}@@
+::card[[../Lenses/IABIED - QA - General Intelligence]]
 
 > Shows generality on a spectrum from Deep Blue (chess only) to humans (build tools for any environment), grounded in the map-vs-routes analogy.
 
 ---
 
-++}::card[[../Lenses/IABIED - QA - Is Intelligence Meaningful]]{++{"author":"AI","timestamp":1776948505641}@@
+::card[[../Lenses/IABIED - QA - Is Intelligence Meaningful]]
 
-> Defends "intelligence" as a concept worth reasoning about — the human/chimp capability gap is real and consequential regardless of definitional debates.++}
+> Defends "intelligence" as a concept worth reasoning about — the human/chimp capability gap is real and consequential regardless of definitional debates.

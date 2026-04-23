@@ -48,20 +48,18 @@ Probe: "Can you think of a human example of someone highly intelligent pursuing 
 #### Text
 content::
 \## Additional resources for this topic
-::card[[../Lenses/IABIED - QA - Something Special About Humans]]{--{"author":"AI","timestamp":1776948507242}@@
---}{++{"author":"AI","timestamp":1776948507242}@@
+::card[[../Lenses/IABIED - QA - Something Special About Humans]]
 
 > Addresses the objection that human uniqueness puts AI risk out of reach — even if some capabilities are hard to replicate, AI can achieve equivalent results through entirely different mechanisms.
 
 ---
 
-++}::card[[../Lenses/IABIED - QA - ChatGPT as General Intelligence]]{--{"author":"AI","timestamp":1776948507242}@@
---}{++{"author":"AI","timestamp":1776948507242}@@
+::card[[../Lenses/IABIED - QA - ChatGPT as General Intelligence]]
 
 > Explores whether current AI is already "general" and why the superhuman/superintelligent distinction matters more than the AGI label.
 
 ---
 
-++}::card[[../Lenses/IABIED - QA - Intelligence as Prediction and Steering]]{++{"author":"AI","timestamp":1776948507242}@@
+::card[[../Lenses/IABIED - QA - Intelligence as Prediction and Steering]]
 
-> The key asymmetry: making AI more capable automatically improves its predictions, but leaves its steering — what goals it pursues — completely unconstrained.++}
+> The key asymmetry: making AI more capable automatically improves its predictions, but leaves its steering — what goals it pursues — completely unconstrained.

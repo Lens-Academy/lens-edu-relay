@@ -40,20 +40,18 @@ Probe: "Does classifying it as an 'easy call' make the claim feel more or less a
 #### Text
 content::
 \## Additional resources for this topic
-::card[[../Lenses/IABIED - QA - Why Write This Book]]{--{"author":"AI","timestamp":1776948502677}@@
---}{++{"author":"AI","timestamp":1776948502677}@@
+::card[[../Lenses/IABIED - QA - Why Write This Book]]
 
 > The authors explain their motivation — drawing a parallel to Leo Szilard's 1933 recognition of nuclear chain reactions to argue the current moment demands similar foresight.
 
 ---
 
-++}::card[[../Lenses/IABIED - QA - When Will Worrisome AI Arrive]]{--{"author":"AI","timestamp":1776948502677}@@
---}{++{"author":"AI","timestamp":1776948502677}@@
+::card[[../Lenses/IABIED - QA - When Will Worrisome AI Arrive]]
 
 > Expert AGI forecasts have moved from 2049 to 2033 in just two years — a pattern of consistent underestimation that shapes how we should reason under uncertainty.
 
 ---
 
-++}::card[[../Lenses/IABIED - QA - Extrapolating AI Progress]]{++{"author":"AI","timestamp":1776948502677}@@
+::card[[../Lenses/IABIED - QA - Extrapolating AI Progress]]
 
-> Why you can't extrapolate from benchmark graphs to predict when dangerous thresholds will be crossed — quantitative metrics can't be mapped onto qualitative capabilities.++}
+> Why you can't extrapolate from benchmark graphs to predict when dangerous thresholds will be crossed — quantitative metrics can't be mapped onto qualitative capabilities.
