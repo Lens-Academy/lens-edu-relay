@@ -1,5 +1,5 @@
 ---
-title: "Pythia"
+title: "Pythia — LessWrong"
 source_url: "https://www.lesswrong.com/posts/qqEndN5Cuzbat9fyx/pythia"
 author:
   - "plex"
@@ -29,7 +29,7 @@ Fully justifying each pillar of this argument would take a book, so I’ve left 
 
 *“Wait, doesn’t an invasion from the future imply time travel?"*
 
-<img style="width:17.25%" src="https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/qqEndN5Cuzbat9fyx/sr4fvsjewogi0zp2ngqx" srcset="https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/qqEndN5Cuzbat9fyx/xqkbgddgfi8yjestaakt 96w, https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/qqEndN5Cuzbat9fyx/sknqi9y1wbwao18kjnj1 176w, https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/qqEndN5Cuzbat9fyx/u5g12nviorm6cbjy9qma 256w, https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/qqEndN5Cuzbat9fyx/zuqilxhbkqhdtanvkch3 336w, https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/qqEndN5Cuzbat9fyx/mzyjuh0b1sbolhljvumx 416w, https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/qqEndN5Cuzbat9fyx/rx3su2vhy31qwbop2w2u 496w, https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/qqEndN5Cuzbat9fyx/g9fqhnt9t1pgt8bfqfce 576w, https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/qqEndN5Cuzbat9fyx/icjzvrnka8mseapa9wvp 656w, https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/qqEndN5Cuzbat9fyx/yzxkyhyikqmegci4jwvi 736w">
+**![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/qqEndN5Cuzbat9fyx/sr4fvsjewogi0zp2ngqx)**
 
 **Time & Agency**
 
@@ -61,7 +61,7 @@ Even a singleton will tend to have internal parts which function as subagents; t
 
 Is this inevitable? Hopefully not, and I think probably not. Even if Pythia is the strongest attractor in the landscape of minds, there seem likely to be other metastable states. A powerful system can come up with a wide range of strategies to stop itself decaying, perhaps by reloading from an earlier non-corrupted state or by performing advanced checks on itself to detect value drift, or something much better thought up as a major strategic priority of a superintelligence not one ape brain thinking for a few minutes.
 
-<img src="https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/qqEndN5Cuzbat9fyx/zprumdyvvsuplrxsvarq" srcset="https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/qqEndN5Cuzbat9fyx/qho51tikqqptlqbitzyv 160w, https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/qqEndN5Cuzbat9fyx/zs3ku5wkdturuqc4nklp 320w, https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/qqEndN5Cuzbat9fyx/r8rnbc15gabhitv1pqom 480w, https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/qqEndN5Cuzbat9fyx/ysrhdrfwqwuwawof9u8w 640w, https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/qqEndN5Cuzbat9fyx/crqpoa8hyob6txe4wm7l 800w, https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/qqEndN5Cuzbat9fyx/xdaucsi9m1aze7uwsld9 960w, https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/qqEndN5Cuzbat9fyx/knrrbhfor3zxvbsk9xj8 1120w, https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/qqEndN5Cuzbat9fyx/hxwdtzfdzmymtda2pe6i 1280w, https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/qqEndN5Cuzbat9fyx/kbk9grp2hn0cf1qjiv2l 1440w, https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/qqEndN5Cuzbat9fyx/zqgalk8vkxkzvy58mbn6 1536w">
+![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/qqEndN5Cuzbat9fyx/qho51tikqqptlqbitzyv)
 
 *We could go to either a truly stable state like Pythia or a metastable state like an aligned sovereign.*
 

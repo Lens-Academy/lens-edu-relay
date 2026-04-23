@@ -7,6 +7,7 @@ tags:
   - IABIED
   - supplementary
 ---
+
 #### Text
 content::
 This article explains why grown minds (whether biological or AI) end up steering toward proxies rather than the intended goals. Using the analogy of squirrels hoarding nuts by instinct rather than by understanding winter survival, and humans craving sugar rather than nutrition, it argues that gradient descent -- like evolution -- takes the easiest path to useful behavior, which means building in shallow drives and brittle proxies that break down under new conditions. The authors contend that AI sycophancy and hallucination are early examples of this same pattern, and that a superintelligence grown this way would pursue something weird and alien rather than what we actually want.

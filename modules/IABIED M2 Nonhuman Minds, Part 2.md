@@ -1,17 +1,17 @@
 ---
 id: ae539bbd-3ab0-4ff1-8eeb-a90edf5b2edb
 slug: iabied-m2
-title: "Nonhuman Minds, Part 2"
+title: Nonhuman Minds, Part 2
 discussion: https://discord.com/channels/1440725236843806762/1481259751374327929
-readings: 
+readings:
   - "Chapter 3: Learning to Want"
   - "Chapter 4: You Don't Get What You Train For"
 tags:
   - IABIED
   - module
-  - work-in-progress
 ---
 
+# Submodule: Welcome
 # Lens: Welcome
 id:: a058eebe-2914-4a55-b88a-57027f0b79aa
 
@@ -19,7 +19,7 @@ id:: a058eebe-2914-4a55-b88a-57027f0b79aa
 content:: Congratulations on completing week 1. You already know more essential facts about AI safety than 99% of humanity. However, our journey is only just beginning.
 
 This week we ask two critical questions: Can AIs develop wants? And if so, will they want what we trained them to want?
-
+%%
 **This week's reading:** Chapter 3 ("Learning to Want") + Chapter 4 ("You Don't Get What You Train For"). After reading, come back here to discuss with the tutor.
 
 #### Chat:
@@ -40,16 +40,17 @@ Discussion topics to explore:
 - The Klurl/Trapaucius parable imagines aliens watching human evolution. What would they get wrong about predicting human preferences?
 
 Ask what they found surprising or new. Check if they can explain the ice cream analogy in their own words — it's a key concept.
-
-%%
 %%
 
+# Submodule: Ch3 - Learning to Want
 # Learning Outcome: Explain Wanting Emerges from Training
 source:: ![[../Learning Outcomes/Explain Wanting Emerges from Training]]
 
+# Submodule: Ch4 - You Don't Get What You Train For
 # Learning Outcome: Explain You Don't Get What You Train For
 source:: ![[../Learning Outcomes/Explain You Don't Get What You Train For]]
 
+# Submodule: Dive Deeper
 # Lens: Overview of Optional Resources
 id:: f7a2b8c1-3d4e-4f5a-9b6c-8d7e0f1a2b3c
 
