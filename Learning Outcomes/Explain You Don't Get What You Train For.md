@@ -1,6 +1,6 @@
 ---
 id: 453c921f-6668-44ff-84e4-45193fd1c549
-learning-outcome: Explain why there's no reliable relationship between training objectives and resulting AI preferences.
+learning-outcome: "Explain why there's no reliable relationship between training objectives and resulting AI preferences."
 reading-from: A MILLION YEARS ago, when one branch of primates was still mastering fire, two strange creatures arrived at Earth and settled into orbit in a spacecraft, wondering at what they saw below them.
 reading-to: That's the next chapter.
 authors:
