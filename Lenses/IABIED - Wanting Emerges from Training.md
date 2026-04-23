@@ -46,6 +46,20 @@ Probe: "The chapter defines 'wanting' in terms of outward behavior, not inner ex
 #### Text
 content::
 \## Additional resources for this topic
-::card[[../Lenses/IABIED - QA - The Road to Wanting]]
-::card[[../Lenses/IABIED - QA - Machine Own Priorities]]
-::card[[../Lenses/IABIED - QA - Passive and Docile]]
+::card[[../Lenses/IABIED - QA - The Road to Wanting]]{--{"author":"AI","timestamp":1776948515328}@@
+--}{++{"author":"AI","timestamp":1776948515328}@@
+
+> Traces want-like behavior from thermostats to wasps to beavers to AI, showing how increasingly sophisticated prediction and steering naturally produce goal-directed behavior.
+
+---
+
+++}::card[[../Lenses/IABIED - QA - Machine Own Priorities]]{--{"author":"AI","timestamp":1776948515328}@@
+--}{++{"author":"AI","timestamp":1776948515328}@@
+
+> Explains why training pressures naturally drive AIs toward agentic behavior — solving hard problems requires initiative, which emerges automatically from optimization.
+
+---
+
+++}::card[[../Lenses/IABIED - QA - Passive and Docile]]{++{"author":"AI","timestamp":1776948515328}@@
+
+> Why you can't just train AIs to be passive — passivity fundamentally conflicts with usefulness, and engineers lack the fine-grained control to achieve docility even if they wanted to.++}
