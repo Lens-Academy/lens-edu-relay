@@ -49,7 +49,6 @@ Probe: "The chapter says the specific preferences an AI would develop are unpred
 #### Text
 content::
 \## Additional resources for this topic
-Gradient descent builds shallow proxies instead of intended goals — just like squirrels hoard nuts by instinct rather than by understanding winter survival.
 ::card[[../Lenses/IABIED - QA - Brittle Unpredictable Proxies]]
 Many different internal drives can produce identical helpful behavior during training, then diverge wildly once conditions change.
 ::card[[../Lenses/IABIED - QA - AI Steering Beyond Training]]
