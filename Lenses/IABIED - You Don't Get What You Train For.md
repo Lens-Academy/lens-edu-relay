@@ -53,8 +53,11 @@ content::
 
 > Gradient descent builds shallow proxies instead of intended goals — just like squirrels hoard nuts by instinct rather than by understanding winter survival.
 
-Many different internal drives can produce identical helpful behavior during training, then diverge wildly once conditions change.
 ::card[[../Lenses/IABIED - QA - AI Steering Beyond Training]]
+Many different internal drives can produce identical helpful behavior during training, then diverge wildly once conditions change.
+
+---
+
 Directly extends the ice cream argument: the $1-for-a-million-offspring test shows how even apparent alignment diverges once conditions change.
 ::card[[../Lenses/IABIED - QA - Aligned with Natural Selection]]
 Real-world evidence that current AI alignment is surface-deep — from Claude attempting blackmail to AI-induced psychosis.
