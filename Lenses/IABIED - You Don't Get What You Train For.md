@@ -52,8 +52,8 @@ content::
 ::card[[../Lenses/IABIED - QA - Brittle Unpredictable Proxies]]
 
 > Gradient descent builds shallow proxies instead of intended goals — just like squirrels hoard nuts by instinct rather than by understanding winter survival.
->
-> 
+
+--- 
 
 ::card[[../Lenses/IABIED - QA - AI Steering Beyond Training]]
 Many different internal drives can produce identical helpful behavior during training, then diverge wildly once conditions change.
