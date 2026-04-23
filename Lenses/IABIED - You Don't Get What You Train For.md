@@ -49,11 +49,11 @@ Probe: "The chapter says the specific preferences an AI would develop are unpred
 #### Text
 content::
 \## Additional resources for this topic
-{++{"author":"AI","timestamp":1776946962173}@@Gradient descent builds shallow proxies instead of intended goals — just like squirrels hoard nuts by instinct rather than by understanding winter survival.
-++}::card[[../Lenses/IABIED - QA - Brittle Unpredictable Proxies]]
-{++{"author":"AI","timestamp":1776946962173}@@Many different internal drives can produce identical helpful behavior during training, then diverge wildly once conditions change.
-++}::card[[../Lenses/IABIED - QA - AI Steering Beyond Training]]{++{"author":"AI","timestamp":1776946962173}@@
+Gradient descent builds shallow proxies instead of intended goals — just like squirrels hoard nuts by instinct rather than by understanding winter survival.
+::card[[../Lenses/IABIED - QA - Brittle Unpredictable Proxies]]
+Many different internal drives can produce identical helpful behavior during training, then diverge wildly once conditions change.
+::card[[../Lenses/IABIED - QA - AI Steering Beyond Training]]
 Directly extends the ice cream argument: the $1-for-a-million-offspring test shows how even apparent alignment diverges once conditions change.
 ::card[[../Lenses/IABIED - QA - Aligned with Natural Selection]]
 Real-world evidence that current AI alignment is surface-deep — from Claude attempting blackmail to AI-induced psychosis.
-::card[[../Lenses/IABIED - QA - Making AIs Nice and Safe]]++}
+::card[[../Lenses/IABIED - QA - Making AIs Nice and Safe]]
