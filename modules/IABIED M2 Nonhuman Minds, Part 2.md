@@ -11,7 +11,8 @@ tags:
   - module
 ---
 
-# Lens: Welcome
+# {++{"author":"AI","timestamp":1776947888824}@@Submodule: Welcome
+# ++}Lens: Welcome
 id:: a058eebe-2914-4a55-b88a-57027f0b79aa
 
 #### Text
@@ -41,13 +42,16 @@ Discussion topics to explore:
 Ask what they found surprising or new. Check if they can explain the ice cream analogy in their own words — it's a key concept.
 %%
 
-# Learning Outcome: Explain Wanting Emerges from Training
+# {++{"author":"AI","timestamp":1776947893224}@@Submodule: Ch3 - Learning to Want
+# ++}Learning Outcome: Explain Wanting Emerges from Training
 source:: ![[../Learning Outcomes/Explain Wanting Emerges from Training]]
 
-# Learning Outcome: Explain You Don't Get What You Train For
+# {++{"author":"AI","timestamp":1776947893224}@@Submodule: Ch4 - You Don't Get What You Train For
+# ++}Learning Outcome: Explain You Don't Get What You Train For
 source:: ![[../Learning Outcomes/Explain You Don't Get What You Train For]]
 
-# Lens: Overview of Optional Resources
+# {++{"author":"AI","timestamp":1776947893224}@@Submodule: Dive Deeper
+# ++}Lens: Overview of Optional Resources
 id:: f7a2b8c1-3d4e-4f5a-9b6c-8d7e0f1a2b3c
 
 #### Text:
