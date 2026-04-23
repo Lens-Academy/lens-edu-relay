@@ -1,7 +1,7 @@
 ---
 id: 4c8e2f1a-9b7d-4e30-b562-e7f3a9c14d25
 summary_for_tutor: Priming question before Chapter 3. Students articulate their intuition about whether machines can genuinely 'want' things, before encountering the behavioral definition and emergence mechanism.
-title: PQ, Wanting Emerges from Training
+title: Before Reading - Wanting Emerges from Training
 tldr: Does your GPS want to get you home? Before reading, decide where you'd draw the line between having a goal and wanting something.
 authors:
   - Chris+Claude
