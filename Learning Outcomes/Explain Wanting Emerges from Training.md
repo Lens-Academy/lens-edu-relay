@@ -1,14 +1,13 @@
 ---
 id: b06c9f37-bddd-4ad1-95ab-883437f029eb
-learning-outcome: "Explain how training for success produces want-like behavior in AI, even without anyone designing wants."
-reading-from: "\"BEHOLD!\" SAID THE Professor. \"By cunningly configuring this mere machine—a simple arrangement of copper and sand, animated by tiny flickers of lightning—I have made it play chess!\""
+learning-outcome: Explain how training for success produces want-like behavior in AI, even without anyone designing wants.
+reading-from: '"BEHOLD!" SAID THE Professor. "By cunningly configuring this mere machine—a simple arrangement of copper and sand, animated by tiny flickers of lightning—I have made it play chess!"'
 reading-to: "No—we're facing an even harder problem: It's much easier to grow artificial intelligence that steers somewhere than it is to grow AIs that steer exactly where you want."
 authors:
   - Chris+Claude
 tags:
   - learning-outcome
   - IABIED
-  - work-in-progress
 ---
 
 ## Test:
