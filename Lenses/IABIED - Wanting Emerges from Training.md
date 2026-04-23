@@ -41,11 +41,11 @@ Discussion guidance:
 - Connect to the o1 example to make the theory concrete: o1 was trained on math but went hard on security — why?
 - Help them s, the closing structural gap as the seed of the alignment problem
 
-Probe: "The chapter defines 'wanting' in terms of outward behavior, not inner experience. Does that definition do enough work — or does it sideste,something important about what wanting actually is?"{++{"author":"AI","timestamp":1776946466964}@@
+Probe: "The chapter defines 'wanting' in terms of outward behavior, not inner experience. Does that definition do enough work — or does it sideste,something important about what wanting actually is?"
 
 #### Text
 content::
 \## Additional resources for this topic
 ::card[[../Lenses/IABIED - QA - The Road to Wanting]]
 ::card[[../Lenses/IABIED - QA - Machine Own Priorities]]
-::card[[../Lenses/IABIED - QA - Passive and Docile]]++}
+::card[[../Lenses/IABIED - QA - Passive and Docile]]
