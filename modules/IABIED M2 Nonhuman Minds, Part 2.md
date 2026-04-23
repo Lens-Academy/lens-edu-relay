@@ -20,7 +20,7 @@ content:: Congratulations on completing week 1. You already know more essential 
 This week we ask two critical questions: Can AIs develop wants? And if so, will they want what we trained them to want?
 
 **This week's reading:** Chapter 3 ("Learning to Want") + Chapter 4 ("You Don't Get What You Train For"). After reading, come back here to discuss with the tutor.
-
+%%
 #### Chat:
 instructions::
 The student has just read Chapters 3 and 4 of "If Anyone Builds It, Everyone Dies."
@@ -39,8 +39,6 @@ Discussion topics to explore:
 - The Klurl/Trapaucius parable imagines aliens watching human evolution. What would they get wrong about predicting human preferences?
 
 Ask what they found surprising or new. Check if they can explain the ice cream analogy in their own words — it's a key concept.
-
-%%
 %%
 
 # Learning Outcome: Explain Wanting Emerges from Training
