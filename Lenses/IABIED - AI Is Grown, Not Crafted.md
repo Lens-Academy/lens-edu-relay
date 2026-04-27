@@ -1,4 +1,4 @@
----
+{++{"author":"AI","timestamp":1776513523179}@@---
 id: c4d5e6f7-a8b9-4c01-d234-e5f6a7b8c9d0
 summary_for_tutor: "Teaches the gradient descent / grown-not-crafted framework from the first half of Chapter 2. Students first reflect on how they imagine modern AI is made, then read about gradient descent, then articulate why knowing the training process doesn't mean knowing what the model learned."
 title: "AI Is Grown, Not Crafted"
@@ -8,26 +8,29 @@ authors:
 tags:
   - lens
   - IABIED
+  - work-in-progress
 ---
+#### Page: Before You Read
 #### Text
-content::
-\## Reading Assignment
-**Read *Chapter 2: Grown, Not Crafted*.** Start at the phrase
-> Scene: A man and a woman are sitting in a restaurant in daytime.
+content:: Before reading Chapter 2: How do you imagine modern AI systems like ChatGPT were created? Who decided what it would say? Did engineers write rules for it to follow, or did something else happen? Write down your best guess before reading.
 
-Stop when you reach
-> Machine minds are subjected to different constraints, and grown under different pressures, than those that shape biological organisms; and although they're trained to predict human writing, the thinking inside an AI runs on a radically different architecture from a human's.
-
-Return here after reading.
-
----
-
-\## After Reading
-Chapter 2 argues that AI produced through gradient descent is "grown, not crafted." What does that mean in practice? An engineer builds the training process — so what exactly do they know about the resulting model, and what don't they know?
+**Read Chapter 2 ("Grown, Not Crafted"), from "Scene: A man and a woman are sitting in a restaurant in daytime." to "Machine minds are subjected to different constraints, and grown under different pressures, than those that shape biological organisms; and although they're trained to predict human writing, the thinking inside an AI runs on a radically different architecture from a human's."**
 
 #### Chat
 instructions::
-The student has just finished reading the first half of Chapter 2 of "If Anyone Builds It, Everyone Dies."
+The student is about to read the first half of Chapter 2 of "If Anyone Builds It, Everyone Dies."
+
+They just answered: "How do you imagine modern AI systems like ChatGPT were created?"
+
+Acknowledge their answer in 1–2 sentences. Do not explain gradient descent or the grown/crafted distinction — they will encounter it in the reading. Close with something like: "Keep that in mind as you read. Head to Chapter 2 when you're ready and come back when you've finished the assigned section."
+
+#### Page: After Reading
+#### Text
+content:: Chapter 2 argues that AI produced through gradient descent is "grown, not crafted." What does that mean in practice? An engineer builds the training process — so what exactly do they know about the resulting model, and what don't they know?
+
+#### Chat
+instructions::
+The student has just read the first half of Chapter 2 of "If Anyone Builds It, Everyone Dies."
 
 Learning outcome for this Lens: Explain how AI produced through gradient descent differs from engineered systems, and why understanding the training process does not mean understanding what the trained model is or does.
 
@@ -45,22 +48,4 @@ Discussion guidance:
 - Push toward the safety implication: if you can't look inside and read off what the model believes or wants, what does that mean for verifying it's safe?
 
 Probe: "Is there a difference between knowing how something was made and knowing what it is? Give me a non-AI example."
-
-#### Text
-content::
-\## Additional resources for this topic
-::card[[../Lenses/IABIED - QA - Gradient Descent Matters]]
-
-> The readable code is not the AI — it's the machinery for growing it. Engineers understand the training process but know almost nothing about the trained model's internals.
-
----
-
-::card[[../Lenses/IABIED - QA - Building Without Understanding]]
-
-> Gradient descent and evolution both produced intelligence without comprehension — which is exactly what makes outcomes unpredictable and unverifiable.
-
----
-
-::card[[../Lenses/IABIED - QA - Do Experts Understand AIs]]
-
-> Documents that even AI lab researchers don't understand their systems' internals — interpretability research receives roughly 0.1% of the resources devoted to building more capable AI.
+++}
