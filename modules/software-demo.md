@@ -4,7 +4,6 @@ slug: demo
 title: Introduction to AI Safety
 tags:
   - work-in-progress
-  - validator-ignore
 ---
 
 
