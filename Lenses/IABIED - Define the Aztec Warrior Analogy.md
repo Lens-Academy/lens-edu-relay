@@ -7,8 +7,8 @@ authors:
   - Chris+Claude
 tags:
   - lens
-  - IABIED
-  - work-in-progress
+  - IABIED{--{"author":"AI","timestamp":1777474585868}@@
+  - work-in-progress--}
 ---
 #### Text
 content::
