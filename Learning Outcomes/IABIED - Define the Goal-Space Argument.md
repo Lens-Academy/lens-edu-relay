@@ -40,4 +40,5 @@ source:: ![[../Lenses/IABIED - Define the Goal-Space Argument]]
 
 ## Lens:
 optional:: true
+hide:
 source:: ![[../Lenses/IABIED - QA - Boring Goals]]
