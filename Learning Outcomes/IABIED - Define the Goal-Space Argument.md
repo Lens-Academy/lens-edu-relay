@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1777383981650}@@---
+---
 id: 1a433dba-6f86-4291-8996-f472f0e90536
 learning-outcome: "Define the goal-space argument: explain why a sufficiently advanced AI's goals are overwhelmingly unlikely to include human values, using the logic that most possible goal-sets don't converge on any particular set of values as intelligence increases"
 reading-from: "THERE ONCE WAS a civilization of aliens, biological rather than mechanical in nature, and so far away from Earth that no message we sent into the stars could ever reach them."
@@ -40,4 +40,4 @@ source:: ![[../Lenses/IABIED - Define the Goal-Space Argument]]
 
 ## Lens:
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Boring Goals]]++}
+source:: ![[../Lenses/IABIED - QA - Boring Goals]]
