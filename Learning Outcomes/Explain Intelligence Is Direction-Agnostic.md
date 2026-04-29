@@ -4,7 +4,7 @@ learning-outcome: "Explain what it means for intelligence to be direction-agnost
 reading-from: "That won't stay true forever."
 reading-to: "But what if machine minds get better than us at the thing that, up until now, made us unique?"
 title:"Explain Intelligence Is Direction-Agnostic"
-slug:
+slug:intelligence-is-direction-agnostic
 authors:
   - Chris+Claude
 tags:
