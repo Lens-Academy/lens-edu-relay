@@ -37,8 +37,3 @@ source:: ![[../Lenses/IABIED - PQ - Define the Goal-Space Argument]]
 
 ## Lens:
 source:: ![[../Lenses/IABIED - Define the Goal-Space Argument]]
-
-## Lens:
-optional:: true
-hide:: true
-source:: ![[../Lenses/IABIED - QA - Boring Goals]]
