@@ -40,7 +40,6 @@ Editorially, this chapter feels feels like a weird collection of oddities. It's 
 
 Really, the learning outcome here distills back to the power of intelligence (plus technology). 
 
-
 # Submodule: Ch5 - Its Favorite Things
 # Learning Outcome: IABIED - Define the Goal-Space Argument
 source:: ![[../Learning Outcomes/IABIED - Define the Goal-Space Argument]]
