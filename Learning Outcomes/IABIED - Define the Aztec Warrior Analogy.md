@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1777457532768}@@---
+---
 id: b3e7f29a-1d4c-4a8e-9c51-6f8d2b0e7a3c
 learning-outcome: "Define the Aztec warrior analogy as Chapter 6 states it: a defender cannot imagine the mechanism of defeat but the outcome is still predictable from capability asymmetry alone"
 reading-from: "IMAGINE BEING AN Aztec warrior visiting the coast with your fellows, watching the first Spanish boats approach your shore."
@@ -36,4 +36,3 @@ source:: ![[../Lenses/IABIED - PQ - Define the Aztec Warrior Analogy]]
 
 ## Lens:
 source:: ![[../Lenses/IABIED - Define the Aztec Warrior Analogy]]
-++}

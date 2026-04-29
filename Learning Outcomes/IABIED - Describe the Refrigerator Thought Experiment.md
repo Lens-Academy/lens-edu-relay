@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1777457545694}@@---
+---
 id: a9c4d6f1-3b7e-4c2d-8a5f-1e9b0c7d4f2e
 learning-outcome: "Describe the refrigerator thought experiment: explain how superior knowledge of physical laws enables the design of devices that appear impossible to those who built them, and connect this to what a superintelligence could do to humanity"
 reading-from: "Suppose you sent a design for a refrigerator back in time by a thousand years—a simplified design, one that the blacksmiths of the day could actually build."
@@ -36,4 +36,3 @@ source:: ![[../Lenses/IABIED - PQ - Describe the Refrigerator Thought Experiment
 
 ## Lens:
 source:: ![[../Lenses/IABIED - Describe the Refrigerator Thought Experiment]]
-++}
