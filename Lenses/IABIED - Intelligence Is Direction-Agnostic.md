@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1776513517576}@@---
+---
 id: b3c4d5e6-f7a8-4b90-c123-d4e5f6a7b8c9
 summary_for_tutor: "Teaches the direction-agnostic property of intelligence and its safety implication from the second half of Chapter 1. Students first reflect on whether smarter necessarily means better-aligned, then read, then articulate why capability and values are independent variables."
 title: "Intelligence Is Direction-Agnostic"
@@ -8,25 +8,21 @@ authors:
 tags:
   - lens
   - IABIED
-  - work-in-progress
 ---
-#### Page: Before You Read
 #### Text
-content:: Before reading the second half of Chapter 1: Imagine you could build an AI dramatically smarter than any human. Would you expect it to also be more ethical — more aligned with human values? Why or why not? Write down your intuition before reading.
+content::
+\## Reading Assignment
+**Read *Chapter 1: Humanity's Special Power*.** Start at the phrase
+> That won't stay true forever.
 
-**Read Chapter 1 ("Humanity's Special Power"), from "That won't stay true forever." to "But what if machine minds get better than us at the thing that, up until now, made us unique?"**
+Read to the end of the chapter.
 
-#### Chat
-instructions::
-The student is about to read the second half of Chapter 1 of "If Anyone Builds It, Everyone Dies."
+Return here after reading.
 
-They just answered: "Would a smarter AI also be more ethical or aligned with human values?"
+---
 
-Acknowledge their answer in 1–2 sentences. Do not explain the direction-agnostic concept — they will encounter it in the reading. Close with something like: "Hold on to that intuition as you read. Come back when you've finished the assigned section."
-
-#### Page: After Reading
-#### Text
-content:: Chapter 1 makes a claim that challenges a common assumption: that smarter AI will naturally be safer or more aligned with human goals. The authors describe intelligence as "direction-agnostic." What does that mean? And what is the implication for AI safety — specifically for an AI smarter than us?
+\## After Reading
+Chapter 1 makes a claim that challenges a common assumption: that smarter AI will naturally be safer or more aligned with human goals. The authors describe intelligence as "direction-agnostic." What does that mean? And what is the implication for AI safety — specifically for an AI smarter than us?
 
 #### Chat
 instructions::
@@ -48,4 +44,22 @@ Discussion guidance:
 - Watch for the confusion: "direction-agnostic" ≠ "dangerous by design" — it just means capability and values are separate
 
 Probe: "Can you think of a human example of someone highly intelligent pursuing goals that caused serious harm? What does that tell us about the relationship between intelligence and values?"
-++}
+
+#### Text
+content::
+\## Additional resources for this topic
+::card[[../Lenses/IABIED - QA - Something Special About Humans]]
+
+> Addresses the objection that human uniqueness puts AI risk out of reach — even if some capabilities are hard to replicate, AI can achieve equivalent results through entirely different mechanisms.
+
+---
+
+::card[[../Lenses/IABIED - QA - ChatGPT as General Intelligence]]
+
+> Explores whether current AI is already "general" and why the superhuman/superintelligent distinction matters more than the AGI label.
+
+---
+
+::card[[../Lenses/IABIED - QA - Intelligence as Prediction and Steering]]
+
+> The key asymmetry: making AI more capable automatically improves its predictions, but leaves its steering — what goals it pursues — completely unconstrained.
