@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1777384122544}@@---
+---
 id: ca006c78-5c20-4102-87c2-7033c085ec59
 learning-outcome: "Distinguish hostile from indifferent AI: explain why the core danger from superintelligent AI is not that it would be hostile toward humans, but that it would be indifferent to human values while pursuing its own goals — and why indifference is sufficient for extinction"
 reading-from: "In a sense, that's all there is to it."
@@ -44,4 +44,4 @@ source:: ![[../Lenses/IABIED - QA - AI Find Us Useful]]
 
 ## Lens:
 optional:: true
-source:: ![[../Lenses/IABIED - QA - AI Find Us Fascinating]]++}
+source:: ![[../Lenses/IABIED - QA - AI Find Us Fascinating]]
