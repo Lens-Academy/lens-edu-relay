@@ -7,8 +7,7 @@ authors:
   - Chris+Claude
 tags:
   - learning-outcome
-  - IABIED{--{"author":"AI","timestamp":1777465150865}@@
-  - work-in-progress--}
+  - IABIED
 ---
 
 ## Test:
