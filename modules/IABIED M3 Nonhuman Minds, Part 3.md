@@ -12,7 +12,8 @@ tags:
   - work-in-progress
 ---
 
-# Lens: Welcome
+# {++{"author":"AI","timestamp":1777458906217}@@Submodule: Welcome
+# ++}Lens: Welcome
 id:: caf48b0b-f27a-4c09-9336-b443ac7843f4
 
 #### Text
@@ -47,7 +48,46 @@ source:: ![[../Learning Outcomes/Explain Human-Compatible Goals Are Vanishingly 
 source:: ![[../Learning Outcomes/IABIED - We'd Lose]]{++{"author":"AI","timestamp":1774279296184}@@
 %%++}
 
-# Lens: Overview of Optional Resources
+# {++{"author":"AI","timestamp":1777458912161}@@Submodule: Ch5 - Its Favorite Things
+# Learning Outcome: IABIED - Define the Goal-Space Argument
+source:: ![[../Learning Outcomes/IABIED - Define the Goal-Space Argument]]
+
+# Lens: IABIED - PQ - Define the Goal-Space Argument
+source:: ![[../Lenses/IABIED - PQ - Define the Goal-Space Argument]]
+
+# Lens: IABIED - Define the Goal-Space Argument
+source:: ![[../Lenses/IABIED - Define the Goal-Space Argument]]
+
+# Learning Outcome: IABIED - Distinguish Hostile from Indifferent AI
+source:: ![[../Learning Outcomes/IABIED - Distinguish Hostile from Indifferent AI]]
+
+# Lens: IABIED - PQ - Distinguish Hostile from Indifferent AI
+source:: ![[../Lenses/IABIED - PQ - Distinguish Hostile from Indifferent AI]]
+
+# Lens: IABIED - Distinguish Hostile from Indifferent AI
+source:: ![[../Lenses/IABIED - Distinguish Hostile from Indifferent AI]]
+
+# Submodule: Ch6 - We'd Lose
+# Learning Outcome: IABIED - Define the Aztec Warrior Analogy
+source:: ![[../Learning Outcomes/IABIED - Define the Aztec Warrior Analogy]]
+
+# Lens: IABIED - PQ - Define the Aztec Warrior Analogy
+source:: ![[../Lenses/IABIED - PQ - Define the Aztec Warrior Analogy]]
+
+# Lens: IABIED - Define the Aztec Warrior Analogy
+source:: ![[../Lenses/IABIED - Define the Aztec Warrior Analogy]]
+
+# Learning Outcome: IABIED - Describe the Refrigerator Thought Experiment
+source:: ![[../Learning Outcomes/IABIED - Describe the Refrigerator Thought Experiment]]
+
+# Lens: IABIED - PQ - Describe the Refrigerator Thought Experiment
+source:: ![[../Lenses/IABIED - PQ - Describe the Refrigerator Thought Experiment]]
+
+# Lens: IABIED - Describe the Refrigerator Thought Experiment
+source:: ![[../Lenses/IABIED - Describe the Refrigerator Thought Experiment]]
+
+# Submodule: Dive Deeper
+# ++}Lens: Overview of Optional Resources
 id:: a1b2c3d4-5e6f-4a7b-8c9d-0e1f2a3b4c5d
 
 #### Text:
