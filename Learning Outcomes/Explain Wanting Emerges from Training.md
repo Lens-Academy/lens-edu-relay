@@ -42,3 +42,4 @@ optional:: true
 source:: ![[../Lenses/IABIED - QA - The Road to Wanting]]
 source:: ![[../Lenses/IABIED - QA - Machine Own Priorities]]
 source:: ![[../Lenses/IABIED - QA - Passive and Docile]]
+OK.
