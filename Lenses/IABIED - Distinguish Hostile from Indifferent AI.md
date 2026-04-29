@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1777458767602}@@---
+---
 id: 8d3f5c1a-e6b4-4d7f-a9c2-1b5e8f3d7a06
 summary_for_tutor: "Main Lens for Chapter 5, section 2. Students distinguish hostile from indifferent AI and explain why indifference is sufficient for human extinction — the core insight that closes all five rebuttals in the chapter."
 title: "Distinguish Hostile from Indifferent AI"
@@ -61,4 +61,3 @@ content::
 ::card[[../Lenses/IABIED - QA - Satisfied to Leave Us Alone]]
 
 > Addresses the intuition that a successful AI would simply have no reason to bother with us — explaining why "leaving us alone" requires active choice, not passive inaction.
-++}

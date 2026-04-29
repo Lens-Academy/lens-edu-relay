@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1777458748861}@@---
+---
 id: f2b6d4e8-9a3c-4f71-b850-3d7e1a9c6f04
 summary_for_tutor: Priming question before Chapter 5, section 2. Students consider whether malice is actually necessary to cause serious harm — setting up the hostile/indifferent distinction.
 title: PQ, Distinguish Hostile from Indifferent AI
@@ -20,4 +20,3 @@ The student is about to read Chapter 5, section 2 of "If Anyone Builds It, Every
 They just answered: "Is malice actually necessary for something to be a mortal threat — or can indifference be just as deadly?"
 
 Acknowledge their answer in 1-2 sentences. Do NOT explain the hostile/indifferent distinction, preview the five rebuttals, or discuss why indifference is sufficient for extinction — they will encounter all of that in the reading. Close with: "Hold that thought as you read. Head to Chapter 5, section 2 when you're ready and come back here after you've finished."
-++}

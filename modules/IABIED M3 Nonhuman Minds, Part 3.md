@@ -12,8 +12,8 @@ tags:
   - work-in-progress
 ---
 
-# {++{"author":"AI","timestamp":1777458906217}@@Submodule: Welcome
-# ++}Lens: Welcome
+# Submodule: Welcome
+# Lens: Welcome
 id:: caf48b0b-f27a-4c09-9336-b443ac7843f4
 
 #### Text
@@ -48,7 +48,7 @@ source:: ![[../Learning Outcomes/Explain Human-Compatible Goals Are Vanishingly 
 source:: ![[../Learning Outcomes/IABIED - We'd Lose]]{++{"author":"AI","timestamp":1774279296184}@@
 %%++}
 
-# {++{"author":"AI","timestamp":1777458912161}@@Submodule: Ch5 - Its Favorite Things
+# Submodule: Ch5 - Its Favorite Things
 # Learning Outcome: IABIED - Define the Goal-Space Argument
 source:: ![[../Learning Outcomes/IABIED - Define the Goal-Space Argument]]
 
@@ -87,7 +87,7 @@ source:: ![[../Lenses/IABIED - PQ - Describe the Refrigerator Thought Experiment
 source:: ![[../Lenses/IABIED - Describe the Refrigerator Thought Experiment]]
 
 # Submodule: Dive Deeper
-# ++}Lens: Overview of Optional Resources
+# Lens: Overview of Optional Resources
 id:: a1b2c3d4-5e6f-4a7b-8c9d-0e1f2a3b4c5d
 
 #### Text:

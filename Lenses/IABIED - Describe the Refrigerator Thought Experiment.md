@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1777458828666}@@---
+---
 id: 6f9d1b4e-3c7a-4f2d-8e5b-9a3c7f1d4b05
 summary_for_tutor: "Main Lens for Chapter 6, section 2. Students explain the refrigerator thought experiment and use it to articulate how superior knowledge of physical laws enables apparently impossible technology — and what this means for human-AI conflict."
 title: "Describe the Refrigerator Thought Experiment"
@@ -63,4 +63,3 @@ content::
 ::card[[../Lenses/IABIED - QA - Losing the Future]]
 
 > Connects the capability argument to what's actually at stake — if a superintelligence can accomplish what Chapter 6 describes, what does the far future look like for humanity?
-++}

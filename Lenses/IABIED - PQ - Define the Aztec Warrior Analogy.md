@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1777458775520}@@---
+---
 id: 4a7c2e9f-1b5d-4c8e-b3a7-6f9d2c5e8b01
 summary_for_tutor: Priming question before Chapter 6, section 1. Students consider whether you can predict the outcome of a contest without knowing the mechanism — activating the capability-gap intuition before the Aztec warrior story.
 title: PQ, Define the Aztec Warrior Analogy
@@ -20,4 +20,3 @@ The student is about to read Chapter 6, section 1 of "If Anyone Builds It, Every
 They just answered: "Can you predict who wins a contest without being able to predict the specific moves or mechanisms they'll use?"
 
 Acknowledge their answer in 1-2 sentences. Do NOT explain the Aztec warrior analogy, preview the chapter's capability argument, or discuss what mechanisms a superintelligence might use — they will encounter all of that in the reading. Close with: "Hold that intuition as you read. Head to Chapter 6, section 1 when you're ready and come back here after you've finished."
-++}

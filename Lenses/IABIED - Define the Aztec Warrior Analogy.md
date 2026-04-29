@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1777458798187}@@---
+---
 id: 9b2e4d7c-5f8a-4e1b-a6d3-8a7f1e9b5d03
 summary_for_tutor: "Main Lens for Chapter 6, section 1. Students explain the Aztec warrior analogy and use it to articulate why capability asymmetry alone is sufficient to predict the outcome of a human-AI conflict, without needing to know the mechanism."
 title: "Define the Aztec Warrior Analogy"
@@ -61,4 +61,3 @@ content::
 ::card[[../Lenses/IABIED - QA - Keep AI in a Box]]
 
 > Explores whether containment strategies — air-gaps, restricted environments, physical isolation — could prevent a superintelligence from affecting the outside world.
-++}

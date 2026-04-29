@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1777458740568}@@---
+---
 id: c5e8a93f-2d71-4b6c-9f40-7e3a1c8d5b02
 summary_for_tutor: "Main Lens for Chapter 5, section 1. Students articulate the goal-space argument in their own words — the Correct-Nest aliens allegory, the vast space of possible goals, and why intelligence doesn't converge on human-compatible values."
 title: "Define the Goal-Space Argument"
@@ -60,4 +60,3 @@ content::
 ::card[[../Lenses/IABIED - QA - Non-Human Entities]]
 
 > What actual non-human minds on Earth — evolution, ant colonies, ecosystems — suggest about how intelligence distributes across goal-spaces without converging on human values.
-++}
