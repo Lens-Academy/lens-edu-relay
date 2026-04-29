@@ -12,8 +12,8 @@ tags:
   - work-in-progress
 ---
 
-# Submodule: Part 3 elcome
-# Lens: Welcome
+# Submodule: Part 3 Welcome
+# Lens: Part 3 Welcome
 id:: caf48b0b-f27a-4c09-9336-b443ac7843f4
 
 #### Text
