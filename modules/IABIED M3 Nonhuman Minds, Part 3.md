@@ -40,13 +40,6 @@ Editorially, this chapter feels feels like a weird collection of oddities. It's 
 
 Really, the learning outcome here distills back to the power of intelligence (plus technology). 
 
-{++{"author":"AI","timestamp":1774279296184}@@%%
-++}# Learning Outcome: IABIED - Human-Compatible Goals Are Vanishingly Rare
-source:: ![[../Learning Outcomes/Explain Human-Compatible Goals Are Vanishingly Rare]]
-
-# Learning Outcome: IABIED - We'd Lose
-source:: ![[../Learning Outcomes/IABIED - We'd Lose]]{++{"author":"AI","timestamp":1774279296184}@@
-%%++}
 
 # Submodule: Ch5 - Its Favorite Things
 # Learning Outcome: IABIED - Define the Goal-Space Argument
