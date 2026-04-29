@@ -20,7 +20,7 @@ Return here after reading.
 ---
 
 \## After Reading
-Chapter 4 introduces the alignment problem through an extended analogy. What is the ice cream argument, and what does it show about ,e relationship between training and preferences? And where does the argument go beyond ice cream, why does the chapter keep escalating?
+Chapter 4 introduces the alignment problem through an extended analogy. What is the ice cream argument, and what does it show about the relationship between training and preferences? And where does the argument go beyond ice cream, why does the chapter keep escalating?
 
 #### Chat
 instructions::
