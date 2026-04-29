@@ -36,8 +36,3 @@ source:: ![[../Lenses/IABIED - PQ - Wanting Emerges from Training]]
 
 ## Lens:
 source:: ![[../Lenses/IABIED - Wanting Emerges from Training]]
-
-## Lens:
-optional:: true
-source:: ![[../Lenses/IABIED - QA - The Road to Wanting]]
-source:: ![[../Lenses/IABIED - QA - Machine Own Priorities]
