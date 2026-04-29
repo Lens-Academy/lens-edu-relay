@@ -7,8 +7,7 @@ authors:
   - Chris+Claude
 tags:
   - lens
-  - IABIED{--{"author":"AI","timestamp":1777465152171}@@
-  - work-in-progress--}
+  - IABIED
 ---
 #### Text
 content:: Before reading Chapter 5, section 1: Imagine a civilization of aliens far more intelligent than us, but whose deepest purpose is something you find completely pointless. Could they still be genuinely intelligent? Does getting smarter eventually steer every mind toward the same set of values, or could a brilliant mind want something utterly alien? Write down your thinking before you read.

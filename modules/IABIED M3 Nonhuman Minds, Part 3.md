@@ -8,8 +8,7 @@ readings:
   - "Chapter 6: We'd Lose"
 tags:
   - IABIED
-  - module{--{"author":"AI","timestamp":1777474598747}@@
-  - work-in-progress--}
+  - module
 ---
 
 # Submodule: Part 3 Welcome
