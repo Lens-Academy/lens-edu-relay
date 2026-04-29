@@ -52,12 +52,6 @@ source:: ![[../Learning Outcomes/IABIED - We'd Lose]]{++{"author":"AI","timestam
 # Learning Outcome: IABIED - Define the Goal-Space Argument
 source:: ![[../Learning Outcomes/IABIED - Define the Goal-Space Argument]]
 
-# Lens: IABIED - PQ - Define the Goal-Space Argument
-source:: ![[../Lenses/IABIED - PQ - Define the Goal-Space Argument]]
-
-# Lens: IABIED - Define the Goal-Space Argument
-source:: ![[../Lenses/IABIED - Define the Goal-Space Argument]]
-
 # Learning Outcome: IABIED - Distinguish Hostile from Indifferent AI
 source:: ![[../Learning Outcomes/IABIED - Distinguish Hostile from Indifferent AI]]
 
