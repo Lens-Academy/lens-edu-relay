@@ -55,30 +55,12 @@ source:: ![[../Learning Outcomes/IABIED - Define the Goal-Space Argument]]
 # Learning Outcome: IABIED - Distinguish Hostile from Indifferent AI
 source:: ![[../Learning Outcomes/IABIED - Distinguish Hostile from Indifferent AI]]
 
-# Lens: IABIED - PQ - Distinguish Hostile from Indifferent AI
-source:: ![[../Lenses/IABIED - PQ - Distinguish Hostile from Indifferent AI]]
-
-# Lens: IABIED - Distinguish Hostile from Indifferent AI
-source:: ![[../Lenses/IABIED - Distinguish Hostile from Indifferent AI]]
-
 # Submodule: Ch6 - We'd Lose
 # Learning Outcome: IABIED - Define the Aztec Warrior Analogy
 source:: ![[../Learning Outcomes/IABIED - Define the Aztec Warrior Analogy]]
 
-# Lens: IABIED - PQ - Define the Aztec Warrior Analogy
-source:: ![[../Lenses/IABIED - PQ - Define the Aztec Warrior Analogy]]
-
-# Lens: IABIED - Define the Aztec Warrior Analogy
-source:: ![[../Lenses/IABIED - Define the Aztec Warrior Analogy]]
-
 # Learning Outcome: IABIED - Describe the Refrigerator Thought Experiment
 source:: ![[../Learning Outcomes/IABIED - Describe the Refrigerator Thought Experiment]]
-
-# Lens: IABIED - PQ - Describe the Refrigerator Thought Experiment
-source:: ![[../Lenses/IABIED - PQ - Describe the Refrigerator Thought Experiment]]
-
-# Lens: IABIED - Describe the Refrigerator Thought Experiment
-source:: ![[../Lenses/IABIED - Describe the Refrigerator Thought Experiment]]
 
 # Submodule: Dive Deeper
 # Lens: Overview of Optional Resources
