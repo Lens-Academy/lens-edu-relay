@@ -9,7 +9,7 @@ tags:
   - lens
   - IABIED
 ---
-#### Page: Before You Read
+#### Lens: Before You Read
 #### Text
 content:: Before reading Chapter 2: How do you imagine modern AI systems like ChatGPT were created? Who decided what it would say? Did engineers write rules for it to follow, or did something else happen? Write down your best guess before reading.
 
@@ -23,7 +23,7 @@ They just answered: "How do you imagine modern AI systems like ChatGPT were crea
 
 Acknowledge their answer in 1–2 sentences. Do not explain gradient descent or the grown/crafted distinction — they will encounter it in the reading. Close with something like: "Keep that in mind as you read. Head to Chapter 2 when you're ready and come back when you've finished the assigned section."
 
-#### Page: After Reading
+#### Lens: After Reading
 #### Text
 content:: Chapter 2 argues that AI produced through gradient descent is "grown, not crafted." What does that mean in practice? An engineer builds the training process — so what exactly do they know about the resulting model, and what don't they know?
 
