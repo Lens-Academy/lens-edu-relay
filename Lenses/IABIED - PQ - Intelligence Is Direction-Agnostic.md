@@ -8,7 +8,6 @@ authors:
 tags:
   - lens
   - IABIED
-  - work-in-progress
 ---
 #### Text
 content:: Before reading the second half of Chapter 1: Imagine you could build an AI dramatically smarter than any human. Would you expect it to also be more ethical — more aligned with human values? Why or why not? Write down your intuition before reading.
