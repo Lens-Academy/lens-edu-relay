@@ -6,7 +6,6 @@ tldr: Some predictions feel obvious in retrospect but look crazy in the moment. 
 tags:
   - lens
   - IABIED
-  - work-in-progress
 ---
 
 #### Text
