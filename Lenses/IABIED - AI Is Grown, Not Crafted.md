@@ -15,8 +15,7 @@ content::
 **Read Chapter 2 ("Grown, Not Crafted")**, from the start to 
 > Machine minds are subjected to different constraints, and grown under different pressures, than those that shape biological organisms; and although they're trained to predict human writing, the thinking inside an AI runs on a radically different architecture from a human's.
 
-That's about 3/4 throught he c
-
+That's about 3/4 through the chapter.
 
 \## After reading:
 Chapter 2 argues that AI produced through gradient descent is "grown, not crafted." What does that mean in practice? An engineer builds the training process — so what exactly do they know about the resulting model, and what don't they know?
