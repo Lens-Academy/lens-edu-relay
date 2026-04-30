@@ -44,3 +44,22 @@ Discussion guidance:
 - Watch for the confusion: "direction-agnostic" ≠ "dangerous by design" — it just means capability and values are separate
 
 Probe: "Can you think of a human example of someone highly intelligent pursuing goals that caused serious harm? What does that tell us about the relationship between intelligence and values?"
+
+#### Text
+content::
+\## Additional resources for this topic
+::card[[../Lenses/IABIED - QA - Something Special About Humans]]
+
+> Addresses the objection that human uniqueness puts AI risk out of reach — even if some capabilities are hard to replicate, AI can achieve equivalent results through entirely different mechanisms.
+
+---
+
+::card[[../Lenses/IABIED - QA - ChatGPT as General Intelligence]]
+
+> Explores whether current AI is already "general" and why the superhuman/superintelligent distinction matters more than the AGI label.
+
+---
+
+::card[[../Lenses/IABIED - QA - Intelligence as Prediction and Steering]]
+
+> The key asymmetry: making AI more capable automatically improves its predictions, but leaves its steering — what goals it pursues — completely unconstrained.
