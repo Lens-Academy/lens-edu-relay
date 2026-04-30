@@ -15,7 +15,7 @@ content::
 **Read *Chapter 2: Grown, Not Crafted*.** Start at the phrase
 > Modern LLMs are, in some sense, truly alien minds—perhaps more alien in some ways than any biological, evolved creatures we'd find if we explored the cosmos.
 
-and read until the end of t
+and read until the end of the chapter.
 
 Return here after reading.
 
