@@ -7,22 +7,33 @@ authors:
   - Chris+Claude
 tags:
   - lens
-  - IABIED
+  - IABIED{++{"author":"AI","timestamp":1777577340020}@@
+  - work-in-progress++}
 ---
-#### Text
-content::
+#### {++{"author":"AI","timestamp":1777577340020}@@Page: Before You Read
+#### ++}Text
+content::{--{"author":"AI","timestamp":1777577340020}@@
 \## Reading Assignment
-**Read *Chapter 1: Humanity's Special Power*.** Start at the phrase
-> That won't stay true forever.
+--}{++{"author":"AI","timestamp":1777577340020}@@ Before reading the second half of Chapter 1: Imagine you could build an AI dramatically smarter than any human. Would you expect it to also be more ethical — more aligned with human values? Why or why not? Write down your intuition before reading.
 
-Read to the end of the chapter.
+++}**Read {--{"author":"AI","timestamp":1777577340020}@@*Chapter 1: Humanity's--}{++{"author":"AI","timestamp":1777577340020}@@Chapter 1 ("Humanity's++} Special {--{"author":"AI","timestamp":1777577340020}@@Power*.** Start --}{++{"author":"AI","timestamp":1777577340020}@@Power"), from "That won't stay true forever." to "But what if machine minds get better than us ++}at the {--{"author":"AI","timestamp":1777577340020}@@phrase
+> That won't stay true forever.--}{++{"author":"AI","timestamp":1777577340020}@@thing that, up until now, made us unique?"**++}
 
-Return here after reading.
+{--{"author":"AI","timestamp":1777577340020}@@Read --}{++{"author":"AI","timestamp":1777577340020}@@#### Chat
+instructions::
+The student is about ++}to {++{"author":"AI","timestamp":1777577340020}@@read ++}the {--{"author":"AI","timestamp":1777577340020}@@end--}{++{"author":"AI","timestamp":1777577340020}@@second half of Chapter 1++} of {++{"author":"AI","timestamp":1777577340020}@@"If Anyone Builds It, Everyone Dies."
 
----
+They just answered: "Would a smarter AI also be more ethical or aligned with human values?"
 
-\## After Reading
-Chapter 1 makes a claim that challenges a common assumption: that smarter AI will naturally be safer or more aligned with human goals. The authors describe intelligence as "direction-agnostic." What does that mean? And what is the implication for AI safety — specifically for an AI smarter than us?
+Acknowledge their answer in 1–2 sentences. Do not explain ++}the {--{"author":"AI","timestamp":1777577340020}@@chapter.
+
+Return here after--}{++{"author":"AI","timestamp":1777577340020}@@direction-agnostic concept — they will encounter it in the++} reading.{--{"author":"AI","timestamp":1777577340020}@@
+
+-----}{++{"author":"AI","timestamp":1777577340020}@@ Close with something like: "Hold on to that intuition as you read. Come back when you've finished the assigned section."++}
+
+{--{"author":"AI","timestamp":1777577340020}@@\##--}{++{"author":"AI","timestamp":1777577340020}@@#### Page:++} After Reading
+{++{"author":"AI","timestamp":1777577340020}@@#### Text
+content:: ++}Chapter 1 makes a claim that challenges a common assumption: that smarter AI will naturally be safer or more aligned with human goals. The authors describe intelligence as "direction-agnostic." What does that mean? And what is the implication for AI safety — specifically for an AI smarter than us?
 
 #### Chat
 instructions::
@@ -43,7 +54,7 @@ Discussion guidance:
 - If they accept the claim but treat it as abstract, push toward the concrete implication: "So what does this mean if we build a highly capable AI that isn't correctly aligned?"
 - Watch for the confusion: "direction-agnostic" ≠ "dangerous by design" — it just means capability and values are separate
 
-Probe: "Can you think of a human example of someone highly intelligent pursuing goals that caused serious harm? What does that tell us about the relationship between intelligence and values?"
+Probe: "Can you think of a human example of someone highly intelligent pursuing goals that caused serious harm? What does that tell us about the relationship between intelligence and values?"{--{"author":"AI","timestamp":1777577340020}@@
 
 #### Text
 content::
@@ -62,4 +73,4 @@ content::
 
 ::card[[../Lenses/IABIED - QA - Intelligence as Prediction and Steering]]
 
-> The key asymmetry: making AI more capable automatically improves its predictions, but leaves its steering — what goals it pursues — completely unconstrained.
+> The key asymmetry: making AI more capable automatically improves its predictions, but leaves its steering — what goals it pursues — completely unconstrained.--}
