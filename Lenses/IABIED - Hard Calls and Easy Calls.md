@@ -13,7 +13,7 @@ tags:
 content::
 **Read *Introduction: Hard Calls and Easy Calls*:**
 - From "*MITIGATING THE RISK OF EXTINCTION FROM AI SHOULD BE A global priority alongside other societal-scale risks such as pandemics and nuclear war*"
-- To: ""*Where there's life, there's hope.*""
+- To: "*Where there's life, there's hope.*"
 Return here after reading.
 
 \## After reading
