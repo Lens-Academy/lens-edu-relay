@@ -11,8 +11,7 @@ tags:
 ---
 #### Lens: Before You Read
 #### Text
-content:: Before reading Chapter 2: How do you imagine modern AI systems like ChatGPT were created? Who decided what it would say? Did engineers write rules for it to follow, or did something else happen? Write down your best guess before reading.
-
+content:: 
 **Read Chapter 2 ("Grown, Not Crafted"), from "Scene: A man and a woman are sitting in a restaurant in daytime." to "Machine minds are subjected to different constraints, and grown under different pressures, than those that shape biological organisms; and although they're trained to predict human writing, the thinking inside an AI runs on a radically different architecture from a human's."**
 
 #### Chat
