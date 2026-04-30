@@ -9,7 +9,6 @@ tags:
   - lens
   - IABIED
 ---
-#### Lens: Before You Read
 #### Text
 content:: 
 **Read Chapter 2 ("Grown, Not Crafted"), from "Scene: A man and a woman are sitting in a restaurant in daytime." to "Machine minds are subjected to different constraints, and grown under different pressures, than those that shape biological organisms; and although they're trained to predict human writing, the thinking inside an AI runs on a radically different architecture from a human's."**
@@ -22,9 +21,11 @@ They just answered: "How do you imagine modern AI systems like ChatGPT were crea
 
 Acknowledge their answer in 1–2 sentences. Do not explain gradient descent or the grown/crafted distinction — they will encounter it in the reading. Close with something like: "Keep that in mind as you read. Head to Chapter 2 when you're ready and come back when you've finished the assigned section."
 
-#### Lens: After Reading
+
 #### Text
-content:: Chapter 2 argues that AI produced through gradient descent is "grown, not crafted." What does that mean in practice? An engineer builds the training process — so what exactly do they know about the resulting model, and what don't they know?
+content:: 
+\### Af
+Chapter 2 argues that AI produced through gradient descent is "grown, not crafted." What does that mean in practice? An engineer builds the training process — so what exactly do they know about the resulting model, and what don't they know?
 
 #### Chat
 instructions::
