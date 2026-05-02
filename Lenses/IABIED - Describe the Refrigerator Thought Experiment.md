@@ -12,7 +12,7 @@ tags:
 #### Text
 content::
 \## Reading Assignment
-**Read *Chapter 6: We'd Lose*, from "Suppose you sent a design for a refrigerator back in time by a thousand years—a simplified design, one that the blacksmiths of the day could actually build." to "So: Once upon a time in the near future…"**
+**Read Chapter 6: We'd Lose*, from "Suppose you sent a design for a refrigerator back in time by a thousand years—a simplified design, one that the blacksmiths of the day could actually build." to "So: Once upon a time in the near future…"**
 
 Return here after reading.
 
