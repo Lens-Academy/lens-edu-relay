@@ -1,7 +1,7 @@
 ---
 id: 2e0f5c3d-4a9b-4163-c784-a9b5c1d36e47
 summary_for_tutor: "Priming question before Chapter 4. Students articulate their confidence that training produces the intended preferences, before encountering the ice cream argument and the alignment problem."
-title: "PQ — You Don't Get What You Train For"
+title: {--{"author":"AI","timestamp":1777739438987}@@"PQ--}{++{"author":"AI","timestamp":1777739438987}@@"Before Reading++} — You Don't Get What You Train For"
 tldr: If you reward an AI for acting helpful, will it end up wanting to be helpful? Think carefully before reading.
 authors:
   - Chris+Claude
