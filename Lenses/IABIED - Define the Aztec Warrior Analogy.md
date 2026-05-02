@@ -11,7 +11,7 @@ tags:
 ---
 #### Text
 content::
-z## Reading Assignment
+## Reading Assignment
 **Read Chapter 6: We'd Lose**, from the start to
 > We'll go over a few of our educated guesses later. But the real way a superintelligence wins a conflict is using methods you didn't know were possible. And because we care about the truth more than about telling you things that are easy to swallow, that's where we'll start.
 
