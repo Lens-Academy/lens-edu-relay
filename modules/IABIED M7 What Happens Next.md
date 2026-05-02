@@ -46,13 +46,11 @@ Discussion topics to explore:
 
 Start by asking the student to present the complete argument. Listen carefully, then probe for gaps or places where their understanding could be strengthened. Be encouraging but rigorous.
 
-{++{"author":"AI","timestamp":1774279304448}@@%%
-++}# Learning Outcome: IABIED - Synthesize the Core Argument
+# Learning Outcome: IABIED - Synthesize the Core Argument
 source:: ![[../Learning Outcomes/IABIED - Synthesize the Core Argument]]
 
 # Learning Outcome: IABIED - Identify Your Path Forward
-source:: ![[../Learning Outcomes/Identify Your Path Forward]]{++{"author":"AI","timestamp":1774279304448}@@
-%%++}
+source:: ![[../Learning Outcomes/Identify Your Path Forward]]
 
 # Lens: Overview of Optional Resources
 id:: e5f6a7b8-9c0d-4e1f-2a3b-4c5d6e7f8a9b

@@ -36,4 +36,3 @@ source:: ![[../Lenses/IABIED - PQ - You Don't Get What You Train For]]
 
 ## Lens: You Don't Get What You Train For
 source:: ![[../Lenses/IABIED - You Don't Get What You Train For]]
-

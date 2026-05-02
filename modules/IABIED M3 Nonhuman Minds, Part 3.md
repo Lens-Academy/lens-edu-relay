@@ -9,10 +9,10 @@ readings:
 tags:
   - IABIED
   - module
-  - work-in-progress
 ---
 
-# Lens: Welcome
+# Submodule: Part 3 Welcome
+# Lens: Part 3 Welcome
 id:: caf48b0b-f27a-4c09-9336-b443ac7843f4
 
 #### Text
@@ -39,16 +39,24 @@ Editorially, this chapter feels feels like a weird collection of oddities. It's 
 
 Really, the learning outcome here distills back to the power of intelligence (plus technology). 
 
-{++{"author":"AI","timestamp":1774279296184}@@%%
-++}# Learning Outcome: IABIED - Human-Compatible Goals Are Vanishingly Rare
-source:: ![[../Learning Outcomes/Explain Human-Compatible Goals Are Vanishingly Rare]]
+# Submodule: Ch5 - Its Favorite Things
+# Learning Outcome: IABIED - Define the Goal-Space Argument
+source:: ![[../Learning Outcomes/IABIED - Define the Goal-Space Argument]]
 
-# Learning Outcome: IABIED - We'd Lose
-source:: ![[../Learning Outcomes/IABIED - We'd Lose]]{++{"author":"AI","timestamp":1774279296184}@@
-%%++}
+# Learning Outcome: IABIED - Distinguish Hostile from Indifferent AI
+source:: ![[../Learning Outcomes/IABIED - Distinguish Hostile from Indifferent AI]]
 
+# Submodule: Ch6 - We'd Lose
+# Learning Outcome: IABIED - Define the Aztec Warrior Analogy
+source:: ![[../Learning Outcomes/IABIED - Define the Aztec Warrior Analogy]]
+
+# Learning Outcome: IABIED - Describe the Refrigerator Thought Experiment
+source:: ![[../Learning Outcomes/IABIED - Describe the Refrigerator Thought Experiment]]
+
+# Submodule: Dive Deeper
 # Lens: Overview of Optional Resources
 id:: a1b2c3d4-5e6f-4a7b-8c9d-0e1f2a3b4c5d
+optional:: true
 
 #### Text:
 content::
