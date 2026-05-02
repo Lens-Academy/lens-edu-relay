@@ -13,7 +13,8 @@ tags:
 content::
 \## Reading Assignment
 **Read Chapter 5: Its Favorite Things**, from
-> In a sense, that's all there is to it." to "And how could they possibly do that, if they're trapped inside computers?"
+> In a sense, that's all there is to it.
+
 to the end of the chapter.
 
 Return here after reading.
