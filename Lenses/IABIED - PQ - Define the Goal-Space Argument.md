@@ -1,7 +1,7 @@
 ---
 id: 64811af1-80a5-b76b-3495-14d5d8423d87
 summary_for_tutor: Priming question before Chapter 5, section 1. Students consider whether a mind with completely alien values could still be intelligent, setting up the Correct-Nest allegory and the goal-space argument.
-title: {--{"author":"AI","timestamp":1777736631915}@@PQ,--}{++{"author":"AI","timestamp":1777736631915}@@"Before Reading —++} Define the Goal-Space {--{"author":"AI","timestamp":1777736631915}@@Argument--}{++{"author":"AI","timestamp":1777736631915}@@Argument"++}
+title: "Before Reading — Define the Goal-Space Argument"
 tldr: Imagine an alien civilization whose deepest purpose makes zero sense to you. Before reading, decide whether a mind can be brilliant and still want something utterly foreign.
 authors:
   - Chris+Claude
