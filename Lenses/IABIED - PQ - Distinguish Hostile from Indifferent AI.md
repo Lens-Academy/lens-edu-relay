@@ -1,7 +1,7 @@
 ---
 id: f2b6d4e8-9a3c-4f71-b850-3d7e1a9c6f04
 summary_for_tutor: Priming question before Chapter 5, section 2. Students consider whether malice is actually necessary to cause serious harm — setting up the hostile/indifferent distinction.
-title: PQ, Distinguish Hostile from Indifferent AI
+title: {--{"author":"AI","timestamp":1777736638623}@@PQ,--}{++{"author":"AI","timestamp":1777736638623}@@"Before Reading —++} Distinguish Hostile from Indifferent {--{"author":"AI","timestamp":1777736638623}@@AI--}{++{"author":"AI","timestamp":1777736638623}@@AI"++}
 tldr: Does something need to hate you to be deadly? Before reading, think about what actually causes catastrophic harm — and whether hostility is really the key ingredient.
 authors:
   - Chris+Claude
