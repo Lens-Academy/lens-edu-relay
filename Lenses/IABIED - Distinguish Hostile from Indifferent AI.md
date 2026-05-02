@@ -12,7 +12,7 @@ tags:
 #### Text
 content::
 \## Reading Assignment
-**Read *Chapter 5: Its Favorite Things*, from*
+**Read Chapter 5: Its Favorite Things**, from
 > In a sense, that's all there is to it." to "And how could they possibly do that, if they're trapped inside computers?"**
 
 Return here after reading.
