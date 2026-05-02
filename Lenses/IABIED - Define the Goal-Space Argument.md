@@ -12,7 +12,8 @@ tags:
 #### Text
 content::
 \## Reading Assignment
-**Read Chapter 5: Its Favorite Things**, from the start to"THERE ONCE WAS a civilization of aliens, biological rather than mechanical in nature…" to "…any more than we'd happen to ensure that our dwellings always contain a prime number of stones."**
+**Read Chapter 5: Its Favorite Things**, from the start to
+> …any more than we'd happen to ensure that our dwellings always contain a prime number of stones."**
 
 Return here after reading.
 
