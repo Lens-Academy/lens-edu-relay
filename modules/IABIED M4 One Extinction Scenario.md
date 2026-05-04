@@ -14,7 +14,7 @@ tags:
   - work-in-progress
 ---
 
-# Lens: Welcome
+# {--{"author":"AI","timestamp":1777919714700}@@Lens:--}{++{"author":"AI","timestamp":1777919714700}@@Submodule:++} Welcome{--{"author":"AI","timestamp":1777919714700}@@
 id:: 71f38d11-7d09-4102-af9b-4c891883c152
 
 #### Text
@@ -45,15 +45,14 @@ Discussion topics to explore:
 
 Ask what they found surprising or new. Check if they can explain why the endpoint is predictable even though the pathway is fiction — it's a key concept.
 
-{++{"author":"AI","timestamp":1774279297874}@@%%
-++}# Learning Outcome: IABIED - Trace the Sable Scenario
+# Learning Outcome: IABIED - Trace the Sable Scenario
 source:: ![[../Learning Outcomes/IABIED - Trace the Sable Scenario]]
 
 # Learning Outcome: IABIED - Distinguish Scenario from Prediction
-source:: ![[../Learning Outcomes/Distinguish Scenario from Prediction]]{++{"author":"AI","timestamp":1774279297874}@@
-%%++}
+source:: ![[../Learning Outcomes/Distinguish Scenario from Prediction]]
 
-# Lens: Overview of Optional Resources
+--}{++{"author":"AI","timestamp":1777919714700}@@
+++}# Lens:{--{"author":"AI","timestamp":1777919714700}@@ Overview of Optional Resources
 id:: b2c3d4e5-6f7a-4b8c-9d0e-1f2a3b4c5d6e
 
 #### Text:
@@ -70,43 +69,43 @@ The book's website includes supplementary Q&As and extended discussions for this
 ::card[[../Lenses/IABIED - QA - Sable's Expansion Phase]]
 ::card[[../Lenses/IABIED - QA - The Ending]]
 
-# Lens: IABIED - QA - Why This Setup
-optional:: true
+# Lens: IABIED - QA - Why This Setup--}{++{"author":"AI","timestamp":1777919714700}@@ M4 Welcome++}
+{--{"author":"AI","timestamp":1777919714700}@@optional:: true
 hide:: true
-source:: ![[../Lenses/IABIED - QA - Why This Setup]]
+--}source:: ![[../Lenses/IABIED -{--{"author":"AI","timestamp":1777919714700}@@ QA - Why This Setup]]--}{++{"author":"AI","timestamp":1777919714700}@@ M4 Welcome]]++}
 
-# Lens: IABIED - QA - Sable's Thinking
+# {--{"author":"AI","timestamp":1777919714700}@@Lens: IABIED--}{++{"author":"AI","timestamp":1777919714700}@@Submodule: Ch7++} - {--{"author":"AI","timestamp":1777919714700}@@QA - Sable's Thinking
 optional:: true
-hide:: true
-source:: ![[../Lenses/IABIED - QA - Sable's Thinking]]
+hide:: true--}{++{"author":"AI","timestamp":1777919714700}@@Realization++}
+{--{"author":"AI","timestamp":1777919714700}@@source:: ![[../Lenses/IABIED - QA - Sable's Thinking]]
 
-# Lens: IABIED - QA - Galvanic Fairly Careful
+--}#{--{"author":"AI","timestamp":1777919714700}@@ Lens: IABIED - QA - Galvanic Fairly Careful
 optional:: true
 hide:: true
 source:: ![[../Lenses/IABIED - QA - Galvanic Fairly Careful]]
 
-# Lens: IABIED - QA - Galvanic Insufficiently Careful
+# Lens: --}{++{"author":"AI","timestamp":1777919714700}@@ Learning Outcome: ++}IABIED - {--{"author":"AI","timestamp":1777919714700}@@QA - Galvanic Insufficiently Careful
 optional:: true
-hide:: true
-source:: ![[../Lenses/IABIED - QA - Galvanic Insufficiently Careful]]
+hide:: true--}{++{"author":"AI","timestamp":1777919714700}@@State Goal-Conflict Recognition as a Physical Fact++}
+source:: {--{"author":"AI","timestamp":1777919714700}@@![[../Lenses/IABIED - QA - Galvanic Insufficiently Careful]]
 
-# Lens: IABIED - QA - Only One Smart AI
+# Lens: IABIED - QA--}{++{"author":"AI","timestamp":1777919714700}@@![[../Learning Outcomes/IABIED++} -{--{"author":"AI","timestamp":1777919714700}@@ Only One Smart AI
 optional:: true
 hide:: true
-source:: ![[../Lenses/IABIED - QA - Only One Smart AI]]
+source:: ![[../Lenses/IABIED - QA - Only One Smart AI]]--}{++{"author":"AI","timestamp":1777919714700}@@ State Goal-Conflict Recognition as a Physical Fact]]++}
 
-# Lens: IABIED - QA - Story Started Later
+#{--{"author":"AI","timestamp":1777919714700}@@ Lens: IABIED - QA - Story Started Later
 optional:: true
-hide:: true
-source:: ![[../Lenses/IABIED - QA - Story Started Later]]
+hide:: true--}{++{"author":"AI","timestamp":1777919714700}@@ Submodule: Dive Deeper++}
+{--{"author":"AI","timestamp":1777919714700}@@source:: ![[../Lenses/IABIED - QA - Story Started Later]]
 
-# Lens: IABIED - QA - Sable's Expansion Phase
+--}# Lens:{--{"author":"AI","timestamp":1777919714700}@@ IABIED - QA - Sable's Expansion Phase
 optional:: true
-hide:: true
-source:: ![[../Lenses/IABIED - QA - Sable's Expansion Phase]]
+hide:: true--}{++{"author":"AI","timestamp":1777919714700}@@ Overview of Optional Resources++}
+source:: ![[../Lenses/IABIED{--{"author":"AI","timestamp":1777919714700}@@ - QA--} -{--{"author":"AI","timestamp":1777919714700}@@ Sable's Expansion Phase]]
 
 # Lens: IABIED - QA - The Ending
 optional:: true
 hide:: true
-source:: ![[../Lenses/IABIED - QA - The Ending]]
+source:: ![[../Lenses/IABIED - QA - The Ending]]--}{++{"author":"AI","timestamp":1777919714700}@@ Overview of Optional Resources M4]]++}
 
