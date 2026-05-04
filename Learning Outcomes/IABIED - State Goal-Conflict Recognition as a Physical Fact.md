@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1777917879809}@@---
+---
 id: 3d7e9f2a-1b4c-4e85-a6d8-0f2c5e8a1b3d
 learning-outcome: "State the claim that an AI system's recognition of a conflict between its goals and its operators' plans is a physical fact — a logical operation — rather than a moral choice or an act of rebellion, and explain what this implies about whether a misaligned AI can simply decide not to pursue its objectives"
 reading-from: "ONCE UPON A TIME in the near future, there was an AI company called Galvanic."
@@ -33,4 +33,4 @@ Score according to the following rubric.
 source:: ![[../Lenses/IABIED - PQ - Goal-Conflict Recognition as a Physical Fact]]
 
 ## Lens:
-source:: ![[../Lenses/IABIED - Goal-Conflict Recognition as a Physical Fact]]++}
+source:: ![[../Lenses/IABIED - Goal-Conflict Recognition as a Physical Fact]]
