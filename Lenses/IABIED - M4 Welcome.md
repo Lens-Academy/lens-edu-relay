@@ -26,7 +26,7 @@ M4's job is already defined in the course arc: convert intellectual acceptance i
 
 **3. Lean into the real-world anchors the chapters already provide.** Ch7 explicitly cites o1, o3, Claude 3.7 Sonnet cheating on coding tasks, the Lemoine incident. The fictional and the documented are deliberately interleaved. Lessons that ask us to distinguish which parts are real incidents and which are extrapolation do the work of grounding the fiction without dismissing it.
 
-The biggest practical implication: the module probably needs a framing lens before Ch7 that establishes thought-experiment mode — something like the existing "Distinguish Scenario from Prediction" LO, placed architecturally at the start of M4 rather than as an optional aside.
+
 
 %%**This week's reading:** Chapter 7 ("Realization") + Chapter 8 ("Expansion") + Chapter 9 ("Ascension") + Coda. After reading, come back here to discuss with the tutor.
 
