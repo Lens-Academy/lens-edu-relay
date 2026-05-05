@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1777919684497}@@---
+---
 id: b2c3d4e5-6f7a-4b8c-9d0e-1f2a3b4c5d6e
 title: "Overview of Optional Resources — M4"
 authors:
@@ -19,4 +19,4 @@ The book's website includes supplementary Q&As and extended discussions for this
 ::card[[../Lenses/IABIED - QA - Only One Smart AI]]
 ::card[[../Lenses/IABIED - QA - Story Started Later]]
 ::card[[../Lenses/IABIED - QA - Sable's Expansion Phase]]
-::card[[../Lenses/IABIED - QA - The Ending]]++}
+::card[[../Lenses/IABIED - QA - The Ending]]
