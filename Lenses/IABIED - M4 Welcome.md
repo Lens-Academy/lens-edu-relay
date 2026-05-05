@@ -22,9 +22,9 @@ M4's job is already defined in the course arc: convert intellectual acceptance i
 
 **1. Thought-experiment framing at the module level.** This section presents a fictional scenario. The authors acknowledge it's fiction. Your job isn't to believe it will happen, it's to trace which mechanisms from M1–M3 are doing the work, and notice what that feels like when it's concrete.
 
-**2. Lessonss anchored to mechanisms, not events.** Instead of "describe what Sable does," the frame is "identify which M2/M3 argument explains why this outcome follows from these conditions." The story is the test case; the mechanism is the object of study.
+**2. Lessons anchored to mechanisms, not events.** Instead of "describe what Sable does," the frame is "identify which M2/M3 argument explains why this outcome follows from these conditions." The story is the test case; the mechanism is the object of study.
 
-**3. Maybe just read the whole thing?** Normally, we think it's important to stop for reflection through lessons, but for this module, if you feel that's breaking your flow, go ahead and just read everything and then come back. We think the lessons will work either way. If you need context from a specific section, you can alway
+**3. Maybe just read the whole thing?** Normally, we think it's important to stop for reflection through lessons, but for this module, if you feel that's breaking your flow, go ahead and just read everything and then come back. We think the lessons will work either way. If you need context from a specific section for questions, you can always review.
 
 When you're ready, we'll prep you before jumping into the story. It's a quite a ride. 
 
