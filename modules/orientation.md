@@ -18,8 +18,7 @@ to:: 3:46
 
 # Lens
 #### Video
-source:: [[d]]
-to:: 3:46
+source:: [[../video_transcripts/rational-animations-how-a-deepfake-may-have-undermined-an-election]]
 
 # Lens:
 source:: ![[../Lenses/10 reasons]]
