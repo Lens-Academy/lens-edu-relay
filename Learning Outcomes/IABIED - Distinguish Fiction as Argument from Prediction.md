@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1777976559183}@@---
+{++{"author":"AI","timestamp":1777984733638}@@---
 id: a6c8f2d1-5e3b-4a70-9c4f-7b0d2e8f1a35
 learning-outcome: "Distinguish the book's use of fiction as a form of argument from two common misreadings — that it predicts specific future events, or that it is merely a thought experiment with no predictive content — and identify the precise middle position: the fictional pathway is not predicted, but the outcome if AI systems reach sufficient capability is"
 reading-from: "beginning of chapter"
@@ -13,6 +13,7 @@ tags:
 ---
 
 ## Test:
+id:: 0d32640e-9e23-44c8-8dea-dc1f67564986
 #### Question
 feedback:: true
 content:: The Coda steps outside the story to address a question readers often have: what, exactly, is the book predicting?

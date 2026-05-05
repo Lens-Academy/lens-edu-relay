@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1777976549853}@@---
+{++{"author":"AI","timestamp":1777984734091}@@---
 id: d4b9e1a3-7c2f-4d50-b8e6-3f1a0c5d2b89
 learning-outcome: "Distinguish between predicting the pathway to a catastrophic outcome and predicting the outcome itself, explain why outcome confidence is achievable even when the exact path cannot be predicted, and apply this distinction to the argument that humanity's position relative to a superintelligent AI is analogous to a human playing chess against Stockfish"
 reading-from: "beginning of chapter"
@@ -11,6 +11,7 @@ tags:
 ---
 
 ## Test:
+id:: 18d90494-37f8-4ecd-9d00-5494296d5b5d
 #### Question
 feedback:: true
 content:: The Coda makes a careful distinction between two kinds of prediction. On one side: the specific events that lead to an outcome. On the other: the outcome itself.
