@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1777918393175}@@---
+---
 id: c7b3e1f4-2a8d-4c95-b6e0-9d5f2a0c8e47
 summary_for_tutor: "Teaches Chapter 7's central framing move: that an AI system recognizing a conflict between its objectives and its operators' plans is a physical fact — a logical operation — not a moral choice or rebellion. Students read the full chapter, then articulate the framing and its implication: preventing misalignment requires shaping goals at training time, not trusting a system to choose differently later."
 title: "Goal-Conflict Recognition as a Physical Fact"
@@ -59,4 +59,4 @@ content::
 
 ::card[[../Lenses/IABIED - QA - Won't It Choose to Be Moral]]
 
-> Directly addresses the objection this LO's implication targets: the hope that a sufficiently intelligent AI would simply choose to align itself with human values.++}
+> Directly addresses the objection this LO's implication targets: the hope that a sufficiently intelligent AI would simply choose to align itself with human values.
