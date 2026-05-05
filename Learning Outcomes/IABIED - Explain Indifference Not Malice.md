@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1777975872203}@@---
+---
 id: c6e4b8a2-3f1d-4c70-9e5a-7b2d0f3e8c94
 learning-outcome: "Explain why a sufficiently capable AI system optimizing for resource-intensive goals can eliminate human civilization without hostile intent — as a thermodynamic and logical byproduct of its own objectives — and connect this to the M3 goal-space argument that indifference to human survival as a side constraint is more dangerous than malice"
 reading-from: "beginning of chapter"
@@ -33,4 +33,4 @@ Score according to the following rubric.
 source:: ![[../Lenses/IABIED - Indifference Not Malice - PQ]]
 
 ## Lens:
-source:: ![[../Lenses/IABIED - Indifference Not Malice]]++}
+source:: ![[../Lenses/IABIED - Indifference Not Malice]]

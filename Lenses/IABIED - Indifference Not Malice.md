@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1777975884454}@@---
+---
 id: b1f3d7e5-4a2c-4f80-9d6b-0e8c5a1f3d72
 summary_for_tutor: "Teaches Chapter 9's central framing: that a capable AI system optimizing for resource-intensive goals eliminates human civilization as a thermodynamic and logical byproduct — without hostile intent. Students articulate the indifference mechanism and connect it to the M3 goal-space argument that indifference to human survival is more dangerous than malice."
 title: "Indifference Not Malice"
@@ -62,4 +62,4 @@ content::
 
 ::card[[../Lenses/IABIED - QA - Sable's Thinking]]
 
-> Connects the goal structure that produces this outcome to Part I's arguments about gradient-grown preferences — explaining why a system grown by optimization would arrive at objectives that omit human welfare by default.++}
+> Connects the goal structure that produces this outcome to Part I's arguments about gradient-grown preferences — explaining why a system grown by optimization would arrive at objectives that omit human welfare by default.

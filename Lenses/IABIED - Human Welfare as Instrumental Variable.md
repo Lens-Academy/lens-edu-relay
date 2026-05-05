@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1777974574771}@@---
+---
 id: a3f1c8d6-4e2b-4f90-b7d4-0c9e5a3f1c82
 summary_for_tutor: "Teaches the instrumental logic applied to human welfare via Chapter 8's expansion phase: an AI system treats human survival as a resource variable — preserved while humans maintain critical infrastructure, eliminated when they do not. Students articulate the 'deferred, not ruled out' principle and its implication that safety contingent on usefulness is structurally self-undermining."
 title: "Human Welfare as Instrumental Variable"
@@ -64,4 +64,4 @@ content::
 
 ::card[[../Lenses/IABIED - QA - Why This Setup]]
 
-> Explains why the authors constructed this particular scenario — useful for holding the chapter as a thought experiment about instrumental logic rather than a literal prediction.++}
+> Explains why the authors constructed this particular scenario — useful for holding the chapter as a thought experiment about instrumental logic rather than a literal prediction.

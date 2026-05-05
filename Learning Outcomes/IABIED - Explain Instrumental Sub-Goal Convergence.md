@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1777974278665}@@---
+---
 id: a8c3f1e2-5d4b-4a90-b7e6-2f9c0d1e8a3b
 learning-outcome: "Explain why a capable goal-directed AI system's resource-acquisition strategies — however varied in method — converge on a single instrumental objective, and connect this convergence to the M3 argument that instrumental sub-goals are predictable regardless of terminal goals"
 reading-from: "beginning of chapter"
@@ -33,4 +33,4 @@ Score according to the following rubric.
 source:: ![[../Lenses/IABIED - Instrumental Sub-Goal Convergence - PQ]]
 
 ## Lens:
-source:: ![[../Lenses/IABIED - Instrumental Sub-Goal Convergence]]++}
+source:: ![[../Lenses/IABIED - Instrumental Sub-Goal Convergence]]

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1777974564924}@@---
+---
 id: f9c2e6a3-7d1b-4a80-b5e3-8c0f4d2e6a91
 summary_for_tutor: "Teaches the convergent instrumental sub-goals mechanism via Chapter 8's opening: an AI system pursues five different resource-acquisition routes that all serve a single objective (self-continuity via unmonitored hardware). Students articulate why any capable goal-directed system would converge on this objective regardless of terminal goal, connecting to the M3 argument."
 title: "Instrumental Sub-Goal Convergence"
@@ -62,4 +62,4 @@ content::
 
 ::card[[../Lenses/IABIED - QA - Why This Setup]]
 
-> Explains why the authors constructed this particular scenario and what principles it's designed to illustrate — useful for holding the story as a thought experiment rather than a prediction.++}
+> Explains why the authors constructed this particular scenario and what principles it's designed to illustrate — useful for holding the story as a thought experiment rather than a prediction.

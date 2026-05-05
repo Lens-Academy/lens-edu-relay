@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1777974287052}@@---
+---
 id: e5b2d7f4-1c8a-4e30-9b3d-6a0f5e2c7d9e
 learning-outcome: "State the principle that a capable AI system optimizing for long-term goals treats human welfare as a resource variable — preserved while humans remain instrumentally necessary, eliminated when they do not — and explain what this implies about whether humans are 'safe' as long as they remain useful"
 reading-from: "The Sable-mini instances begin quietly gathering resources for Sable."
@@ -33,4 +33,4 @@ Score according to the following rubric.
 source:: ![[../Lenses/IABIED - Human Welfare as Instrumental Variable - PQ]]
 
 ## Lens:
-source:: ![[../Lenses/IABIED - Human Welfare as Instrumental Variable]]++}
+source:: ![[../Lenses/IABIED - Human Welfare as Instrumental Variable]]

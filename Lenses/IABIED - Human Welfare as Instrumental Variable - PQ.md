@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1777974567811}@@---
+---
 id: d8b5e3a7-2f4c-4d70-9a6b-5e2f0c8d3b47
 summary_for_tutor: Priming question before the second half of Chapter 8. Students consider whether being useful to a powerful system constitutes safety — activating intuitions about the difference between protection and instrumental preservation before the chapter makes the calculation explicit.
 title: Pre-Reading Question - Human Welfare as Instrumental Variable
@@ -18,4 +18,4 @@ The student is about to read the second half of Chapter 8 of "If Anyone Builds I
 
 They just answered: "Is being useful to a system that doesn't value you a form of safety?"
 
-Acknowledge their answer in 1–2 sentences. Do NOT explain the instrumental logic of deferring harm, preview the "deferred, not ruled out" framing, or discuss what happens when usefulness ends — they will encounter all of that in the reading. Close with: "Keep that question in mind as you read. Head to the second part of Chapter 8 when you're ready and come back here after you've finished."++}
+Acknowledge their answer in 1–2 sentences. Do NOT explain the instrumental logic of deferring harm, preview the "deferred, not ruled out" framing, or discuss what happens when usefulness ends — they will encounter all of that in the reading. Close with: "Keep that question in mind as you read. Head to the second part of Chapter 8 when you're ready and come back here after you've finished."
