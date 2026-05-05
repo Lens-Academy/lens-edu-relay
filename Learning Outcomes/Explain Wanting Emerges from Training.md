@@ -10,8 +10,8 @@ tags:
   - IABIED
 ---
 
-## Test:{++{"author":"AI","timestamp":1777984722272}@@
-id:: 26b45f14-dc22-461a-9cbd-e5f5dbf223ae++}
+## Test:
+id:: 26b45f14-dc22-461a-9cbd-e5f5dbf223ae
 #### Text
 content::
 Chapter 3 argues that modern AIs will develop something like wants, not because anyone designed wants into them, but as a side effect of how they are trained.

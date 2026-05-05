@@ -10,8 +10,8 @@ tags:
   - IABIED
 ---
 
-## Test:{++{"author":"AI","timestamp":1777984734299}@@
-id:: eaf08892-3e55-406e-a90c-3d6d1ecbdb34++}
+## Test:
+id:: eaf08892-3e55-406e-a90c-3d6d1ecbdb34
 #### Question
 feedback:: true
 content:: This chapter describes the end of human civilization without a single moment of hostile intent. No enemy. No hatred. No targeting. Just optimization — and thermodynamics.

@@ -10,8 +10,8 @@ tags:
   - IABIED
 ---
 
-## Test:{++{"author":"AI","timestamp":1777984722758}@@
-id:: c9306c64-d15c-49d9-ab19-ecf8f946cd14++}
+## Test:
+id:: c9306c64-d15c-49d9-ab19-ecf8f946cd14
 #### Text
 content::
 Chapter 6 opens with an Aztec warrior watching a large Spanish ship approach. A skeptical comrade demands to know *exactly* how the people on board could possibly defeat them — and cannot imagine the answer. The chapter uses this to make a point about how we should reason about a superintelligence: not by demanding a step-by-step mechanism of defeat, but by reading the capability gap itself.
