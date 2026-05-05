@@ -11,8 +11,13 @@ id:: 1fd3f9b1-c08c-4675-8c41-6e628f01e45a
 content::
 We begin by examining the potential of AI and the risks and opportunities that the characteristics of this technology present to humanity.
 
-# Learning Outcome:
-source:: [[../Learning Outcomes/Unknown intro outcome 1]] {>>{"author":"Luc","timestamp":1776179135989}@@This one needs a name<<}
+## Lens:
+source:: [[../Lenses/A.I. - Humanity's Final Invention]]
+
+## Lens:
+source::
+![[../Lenses/Wikipedia Existential Risk]]
+
 # Learning Outcome:
 source:: [[../Learning Outcomes/Objections L1 - Realize objections and rebuttals exist]]
 
