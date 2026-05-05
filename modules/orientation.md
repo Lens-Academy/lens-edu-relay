@@ -18,7 +18,10 @@ source:: [[../video_transcripts/minutephysics-myths-and-facts-about-superintelli
 to:: 3:46
 
 # Lens
-
+id:: 211ae52b-4bde-493c-b087-4d6cb366d630
+#### Video
+source:: [[king]]
+to:: 3:46
 # Lens:
 source:: [[../Lenses/A.I. - Humanity's Final Invention]]
 
