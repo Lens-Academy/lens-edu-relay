@@ -12,8 +12,8 @@ content::
 We begin by examining the potential of AI and the risks and opportunities that the characteristics of this technology present to humanity.
 
 # Lens
+
 #### Video
-id:: 4c64a6f2-3971-4508-bf29-d1200ae82d43
 source:: [[../video_transcripts/minutephysics-myths-and-facts-about-superintelligent-ai]]
 to:: 3:46
 # Lens:
