@@ -26,7 +26,6 @@ source:: ![[../Learning Outcomes/IABIED - State Goal-Conflict Recognition as a P
 ## Learning Outcome: IABIED - Explain Instrumental Sub-Goal Convergence
 source:: ![[../Learning Outcomes/IABIED - Explain Instrumental Sub-Goal Convergence]]
 
-# Submodule: Ch8 - Expansion, Reading 2
 ## Learning Outcome: IABIED - State Human Welfare as Instrumental Variable
 source:: ![[../Learning Outcomes/IABIED - State Human Welfare as Instrumental Variable]]
 
