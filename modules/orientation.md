@@ -11,6 +11,10 @@ id:: 1fd3f9b1-c08c-4675-8c41-6e628f01e45a
 content::
 We begin by examining the potential of AI and the risks and opportunities that the characteristics of this technology present to humanity.
 
+# Lens
+#### Video
+source:: [[../video_transcripts/minutephysics-myths-and-facts-about-superintelligent-ai]]
+to:: 14:49
 # Lens:
 source:: [[../Lenses/A.I. - Humanity's Final Invention]]
 
