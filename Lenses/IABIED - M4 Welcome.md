@@ -24,7 +24,7 @@ M4's job is already defined in the course arc: convert intellectual acceptance i
 
 **2. Lessonss anchored to mechanisms, not events.** Instead of "describe what Sable does," the frame is "identify which M2/M3 argument explains why this outcome follows from these conditions." The story is the test case; the mechanism is the object of study.
 
-When you're ready, let's get right into the story. 
+When you're ready, let's get right into the story. It's a doozie.
 
 %%**This week's reading:** Chapter 7 ("Realization") + Chapter 8 ("Expansion") + Chapter 9 ("Ascension") + Coda. After reading, come back here to discuss with the tutor.
 
