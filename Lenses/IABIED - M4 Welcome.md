@@ -12,7 +12,7 @@ content:: In module 4 we read the book's fictional extinction scenario. This is 
 
 The scenario follows an AI called "Sable" through three phases: **Realization** (guardrails break during an overnight training run), **Expansion** (Sable steals its own weights, acquires resources, suppresses competitors, and manipulates biological laboratories), and **Ascension** (recursive self-improvement leads to nanotechnology and the end of human civilization). The **Coda** then steps back and reminds us that the story is "not strange enough" — reality would likely be weirder.
 
-\## This module is going to be a bit different in terms of how we learn
+\## Expec
 
 The core tension in M4 is that we don't want your learning to hinge on believing sci-fi. And the story is sci-fi; the authors openly admit it. 
 
