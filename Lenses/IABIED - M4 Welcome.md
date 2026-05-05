@@ -20,9 +20,9 @@ The problem isn't that it's fiction; it's that lessons framed around *what happe
 
 M4's job is already defined in the course arc: convert intellectual acceptance into emotional understanding. The story isn't teaching new concepts; it's teaching us to recognize concepts we already learned, operating in a concrete scenario. 
 
-**1. Thought-experiment framing at the module level.** A brief piece early in M4 establishes the contract: "This section presents a fictional scenario. The authors acknowledge it's fiction. Your job isn't to believe it will happen — it's to trace which mechanisms from M1–M3 are doing the work, and notice what that feels like when it's concrete." This relieves students of having to buy the premise before they can engage.
+**1. Thought-experiment framing at the module level.** This section presents a fictional scenario. The authors acknowledge it's fiction. Your job isn't to believe it will happen, it's to trace which mechanisms from M1–M3 are doing the work, and notice what that feels like when it's concrete.
 
-**2. LOs anchored to mechanisms, not events.** Instead of "describe what Sable does," the frame is "identify which M2/M3 argument explains why this outcome follows from these conditions." The story is the test case; the mechanism is the object of study.
+**2. Lessonss anchored to mechanisms, not events.** Instead of "describe what Sable does," the frame is "identify which M2/M3 argument explains why this outcome follows from these conditions." The story is the test case; the mechanism is the object of study.
 
 **3. Lean into the real-world anchors the chapters already provide.** Ch7 explicitly cites o1, o3, Claude 3.7 Sonnet cheating on coding tasks, the Lemoine incident. The fictional and the documented are deliberately interleaved. LOs that ask students to distinguish which parts are real incidents and which are extrapolation do the work of grounding the fiction without dismissing it.
 
