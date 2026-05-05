@@ -10,8 +10,8 @@ tags:
   - IABIED
 ---
 
-## Test:{++{"author":"AI","timestamp":1777984711701}@@
-id:: b5981716-08c0-40b1-a005-2cfbdde6d0c7++}
+## Test:
+id:: b5981716-08c0-40b1-a005-2cfbdde6d0c7
 #### Text
 content::
 Chapter 1 defines intelligence in a specific way that's different from everyday usage.
