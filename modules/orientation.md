@@ -17,9 +17,11 @@ source:: [[../video_transcripts/rational-animations-can-the-king-truly-trust-the
 to:: 3:46
 
 # Lens
+id:: b412a3d6-4473-4378-a675-a1230eb9890a
+optional:: true
 #### Video
 source:: [[../video_transcripts/rational-animations-how-a-deepfake-may-have-undermined-an-election]]
-
+to:: 1:50
 # Lens:
 source:: ![[../Lenses/10 reasons]]
 # Lens:
