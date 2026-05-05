@@ -15,11 +15,9 @@ id:: 211ae52b-4bde-493c-b087-4d6cb366d630
 #### Video
 source:: [[../video_transcripts/rational-animations-can-the-king-truly-trust-the-golem-SHORT]]
 to:: 3:46
-
 # Lens:
 source::
 ![[../Lenses/Wikipedia Existential Risk]]
-
 # Lens:
 source:: ![[../Lenses/10 reasons]]
 # Lens:
