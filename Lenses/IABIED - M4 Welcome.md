@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1777919682092}@@---
+---
 id: 71f38d11-7d09-4102-af9b-4c891883c152
 title: "IABIED M4 Welcome"
 authors:
@@ -51,4 +51,4 @@ Three approaches that work together:
 
 **3. Lean into the real-world anchors the chapters already provide.** Ch7 explicitly cites o1, o3, Claude 3.7 Sonnet cheating on coding tasks, the Lemoine incident. The fictional and the documented are deliberately interleaved. LOs that ask students to distinguish which parts are real incidents and which are extrapolation do the work of grounding the fiction without dismissing it.
 
-The biggest practical implication: the module probably needs a framing lens before Ch7 that establishes thought-experiment mode — something like the existing "Distinguish Scenario from Prediction" LO, placed architecturally at the start of M4 rather than as an optional aside.++}
+The biggest practical implication: the module probably needs a framing lens before Ch7 that establishes thought-experiment mode — something like the existing "Distinguish Scenario from Prediction" LO, placed architecturally at the start of M4 rather than as an optional aside.
