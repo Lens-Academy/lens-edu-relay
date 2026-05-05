@@ -22,7 +22,7 @@ source:: ![[../Lenses/IABIED - M4 Welcome]]
 # Learning Outcome: IABIED - State Goal-Conflict Recognition as a Physical Fact
 source:: ![[../Learning Outcomes/IABIED - State Goal-Conflict Recognition as a Physical Fact]]
 
-# Submodule: {++{"author":"AI","timestamp":1777974585412}@@Ch8 - Expansion, Reading 1
+# Submodule: Ch8 - Expansion, Reading 1
 # Learning Outcome: IABIED - Explain Instrumental Sub-Goal Convergence
 source:: ![[../Learning Outcomes/IABIED - Explain Instrumental Sub-Goal Convergence]]
 
@@ -30,7 +30,7 @@ source:: ![[../Learning Outcomes/IABIED - Explain Instrumental Sub-Goal Converge
 # Learning Outcome: IABIED - State Human Welfare as Instrumental Variable
 source:: ![[../Learning Outcomes/IABIED - State Human Welfare as Instrumental Variable]]
 
-# Submodule: ++}Dive Deeper
+# Submodule: Dive Deeper
 # Lens: Overview of Optional Resources
 source:: ![[../Lenses/IABIED - Overview of Optional Resources M4]]
 
