@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1777924691765}@@---
+---
 id: 1a5d3af5-7a89-4d20-a5e7-65ebfc3f7f1d
 slug: orientation
 title: Orientation
@@ -22,4 +22,4 @@ source:: [[../Lenses/Four Background Claims]]
 
 # Lens:
 optional:: true
-source:: [[../Lenses/Worst-Case Thinking]]++}
+source:: [[../Lenses/Worst-Case Thinking]]
