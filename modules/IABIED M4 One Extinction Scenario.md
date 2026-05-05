@@ -33,7 +33,7 @@ source:: ![[../Learning Outcomes/IABIED - State Human Welfare as Instrumental Va
 ## Learning Outcome: IABIED - Explain Indifference Not Malice
 source:: ![[../Learning Outcomes/IABIED - Explain Indifference Not Malice]]
 
-# Submodule: {++{"author":"AI","timestamp":1777976612039}@@Coda
+# Submodule: Coda
 ## Learning Outcome: IABIED - Distinguish Path Prediction from Outcome Prediction
 source:: ![[../Learning Outcomes/IABIED - Distinguish Path Prediction from Outcome Prediction]]
 
@@ -41,7 +41,7 @@ source:: ![[../Learning Outcomes/IABIED - Distinguish Path Prediction from Outco
 ## Learning Outcome: IABIED - Distinguish Fiction as Argument from Prediction
 source:: ![[../Learning Outcomes/IABIED - Distinguish Fiction as Argument from Prediction]]
 
-# Submodule: ++}Dive Deeper
+# Submodule: Dive Deeper
 ### Lens: Overview of Optional Resources
 source:: ![[../Lenses/IABIED - Overview of Optional Resources M4]]
 
