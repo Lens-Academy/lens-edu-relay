@@ -10,7 +10,8 @@ tags:
   - IABIED
 ---
 
-## Test:
+## Test:{++{"author":"AI","timestamp":1777984723264}@@
+id:: bbbca804-d52c-4567-84cb-68eae82c0025++}
 #### Text
 content::
 Chapter 6 sends a refrigerator blueprint back a thousand years. A medieval blacksmith could build it — but would be astonished that it produces cold air, because the underlying physics (gas compression and expansion) was unknown to them. The chapter uses this to illustrate what it means to face something that knows more about reality than you do. It then applies this logic to a superintelligent AI, and explores the domains where humanity is most exposed.
