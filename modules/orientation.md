@@ -5,12 +5,6 @@ title: Orientation
 internal: true
 discussion:
 ---
-# Lens: Welcome
-id:: 1fd3f9b1-c08c-4675-8c41-6e628f01e45a
-#### Text
-content::
-We begin by examining the potential of AI and the risks and opportunities that the characteristics of this technology present to humanity.
-
 # Lens
 id:: 4c64a6f2-3971-4508-bf29-d1200ae82d43
 #### Video
