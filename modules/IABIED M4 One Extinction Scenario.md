@@ -30,11 +30,11 @@ source:: ![[../Learning Outcomes/IABIED - Explain Instrumental Sub-Goal Converge
 ## Learning Outcome: IABIED - State Human Welfare as Instrumental Variable
 source:: ![[../Learning Outcomes/IABIED - State Human Welfare as Instrumental Variable]]
 
-# Submodule: {++{"author":"AI","timestamp":1777975904120}@@Ch9 - Ascension
+# Submodule: Ch9 - Ascension
 ## Learning Outcome: IABIED - Explain Indifference Not Malice
 source:: ![[../Learning Outcomes/IABIED - Explain Indifference Not Malice]]
 
-# Submodule: ++}Dive Deeper
+# Submodule: Dive Deeper
 ### Lens: Overview of Optional Resources
 source:: ![[../Lenses/IABIED - Overview of Optional Resources M4]]
 
