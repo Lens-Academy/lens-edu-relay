@@ -15,7 +15,7 @@ tags:
 ---
 
 # Submodule: Welcome
-## Lens: M4 Welcome
+### Lens: M4 Welcome
 source:: ![[../Lenses/IABIED - M4 Welcome]]
 
 # Submodule: Ch7 - Realization
@@ -23,14 +23,14 @@ source:: ![[../Lenses/IABIED - M4 Welcome]]
 source:: ![[../Learning Outcomes/IABIED - State Goal-Conflict Recognition as a Physical Fact]]
 
 # Submodule: Ch8 - Expansion, Reading 1
-# Learning Outcome: IABIED - Explain Instrumental Sub-Goal Convergence
+## Learning Outcome: IABIED - Explain Instrumental Sub-Goal Convergence
 source:: ![[../Learning Outcomes/IABIED - Explain Instrumental Sub-Goal Convergence]]
 
 # Submodule: Ch8 - Expansion, Reading 2
-# Learning Outcome: IABIED - State Human Welfare as Instrumental Variable
+## Learning Outcome: IABIED - State Human Welfare as Instrumental Variable
 source:: ![[../Learning Outcomes/IABIED - State Human Welfare as Instrumental Variable]]
 
 # Submodule: Dive Deeper
-# Lens: Overview of Optional Resources
+### Lens: Overview of Optional Resources
 source:: ![[../Lenses/IABIED - Overview of Optional Resources M4]]
 
