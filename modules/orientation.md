@@ -11,16 +11,15 @@ id:: 1fd3f9b1-c08c-4675-8c41-6e628f01e45a
 content::
 We begin by examining the potential of AI and the risks and opportunities that the characteristics of this technology present to humanity.
 
-## Lens:
+# Lens:
 source:: [[../Lenses/A.I. - Humanity's Final Invention]]
 
-## Lens:
+# Lens:
 source::
 ![[../Lenses/Wikipedia Existential Risk]]
 
-# Learning Outcome:
-source:: [[../Learning Outcomes/Objections L1 - Realize objections and rebuttals exist]]
-
+# Lens:
+source:: ![[../Lenses/10 reasons]]
 # Lens:
 optional:: true
 source:: [[../Lenses/Four Background Claims]]
