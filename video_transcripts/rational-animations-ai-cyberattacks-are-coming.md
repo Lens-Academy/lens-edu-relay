@@ -1,7 +1,7 @@
 ---
 title: "AI Cyberattacks Are Coming"
 channel: "Rational Animations"
-url: "/shorts/PbE2sLW0u5c"
+url: "https://www.youtube.com/shorts/PbE2sLW0u5c"
 ---
 
 Damaging the health of our information landscape isn't the only way that AI tools could be exploited maliciously. AI could also exacerbate cybersecurity risks.
