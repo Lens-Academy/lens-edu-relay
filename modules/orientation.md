@@ -13,8 +13,9 @@ We begin by examining the potential of AI and the risks and opportunities that t
 
 # Lens
 #### Video
+id:: 4c64a6f2-3971-4508-bf29-d1200ae82d43
 source:: [[../video_transcripts/minutephysics-myths-and-facts-about-superintelligent-ai]]
-to:: 14:49
+to:: 3:46
 # Lens:
 source:: [[../Lenses/A.I. - Humanity's Final Invention]]
 
