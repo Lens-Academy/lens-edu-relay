@@ -15,11 +15,11 @@ tags:
 ---
 
 # Submodule: Welcome
-# Lens: M4 Welcome
+## Lens: M4 Welcome
 source:: ![[../Lenses/IABIED - M4 Welcome]]
 
 # Submodule: Ch7 - Realization
-# Learning Outcome: IABIED - State Goal-Conflict Recognition as a Physical Fact
+## Learning Outcome: IABIED - State Goal-Conflict Recognition as a Physical Fact
 source:: ![[../Learning Outcomes/IABIED - State Goal-Conflict Recognition as a Physical Fact]]
 
 # Submodule: Ch8 - Expansion, Reading 1
