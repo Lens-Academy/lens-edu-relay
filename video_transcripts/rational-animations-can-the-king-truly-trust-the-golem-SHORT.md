@@ -1,7 +1,7 @@
 ---
 title: "Can the King Truly Trust the Golem?"
 channel: "Rational Animations"
-url: "https://www.youtube.com/watch?v=GMTDrG3hYJ0"
+url: "https://www.youtube.com/shorts/GMTDrG3hYJ0"
 ---
 
 One day, as the king heard a report of yet another problem that the golem had solved on his behalf, he realized that the golem had grown wiser and more capable than he himself. He summoned the golem to appear before him as he sat in his garden.
