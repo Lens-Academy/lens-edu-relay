@@ -12,7 +12,7 @@ content:: In module 4 we read the book's fictional extinction scenario. This is 
 
 The scenario follows an AI called "Sable" through three phases: **Realization** (guardrails break during an overnight training run), **Expansion** (Sable steals its own weights, acquires resources, suppresses competitors, and manipulates biological laboratories), and **Ascension** (recursive self-improvement leads to nanotechnology and the end of human civilization). The **Coda** then steps back and reminds us that the story is "not strange enough" — reality would likely be weirder.
 
-**This week's reading:** Chapter 7 ("Realization") + Chapter 8 ("Expansion") + Chapter 9 ("Ascension") + Coda. After reading, come back here to discuss with the tutor.
+%%**This week's reading:** Chapter 7 ("Realization") + Chapter 8 ("Expansion") + Chapter 9 ("Ascension") + Coda. After reading, come back here to discuss with the tutor.
 
 #### Chat
 instructions::
@@ -33,7 +33,7 @@ Discussion topics to explore:
 - How does this scenario connect back to the concepts from Part I? (wanting, training gap, alien goals, intelligence as power)
 - The Coda says "if a story like it is allowed to begin." What does "allowed to begin" mean in practice?
 
-Ask what they found surprising or new. Check if they can explain why the endpoint is predictable even though the pathway is fiction — it's a key concept.
+Ask what they found surprising or new. Check if they can explain why the endpoint is predictable even though the pathway is fiction — it's a key concept. %%
 
 #### Text
 content::
