@@ -24,9 +24,7 @@ M4's job is already defined in the course arc: convert intellectual acceptance i
 
 **2. Lessonss anchored to mechanisms, not events.** Instead of "describe what Sable does," the frame is "identify which M2/M3 argument explains why this outcome follows from these conditions." The story is the test case; the mechanism is the object of study.
 
-**3. Lean into the real-world anchors the chapters already provide.** Ch7 explicitly cites o1, o3, Claude 3.7 Sonnet cheating on coding tasks, the Lemoine incident. The fictional and the documented are deliberately interleaved. Lessons that ask us to distinguish which parts are real incidents and which are extrapolation do the work of grounding the fiction without dismissing it.
-
-
+When you're ready, le
 
 %%**This week's reading:** Chapter 7 ("Realization") + Chapter 8 ("Expansion") + Chapter 9 ("Ascension") + Coda. After reading, come back here to discuss with the tutor.
 
