@@ -12,8 +12,8 @@ tags:
   - IABIED
 ---
 
-## Test:{++{"author":"AI","timestamp":1777984712663}@@
-id:: eefcafa7-65ed-4c7b-a73f-652d869494c2++}
+## Test:
+id:: eefcafa7-65ed-4c7b-a73f-652d869494c2
 #### Text
 content::
 Chapter 1 makes a claim that cuts against a common assumption — that smarter AI will naturally be safer or more aligned with human goals.
