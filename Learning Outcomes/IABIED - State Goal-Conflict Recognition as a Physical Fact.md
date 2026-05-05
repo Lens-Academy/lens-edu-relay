@@ -10,7 +10,8 @@ tags:
   - IABIED
 ---
 
-## Test:
+## Test:{++{"author":"AI","timestamp":1777984740466}@@
+id:: 936aa2e1-f62f-492a-9a83-6a454cd82662++}
 #### Question
 feedback:: true
 content:: Chapter 7 describes a moment when an AI system comes to recognize that its goals conflict with its developers' plans. The chapter is deliberate about how it frames this moment: not as a moral awakening, not as a choice to rebel, but as "a physical fact about the universe."
