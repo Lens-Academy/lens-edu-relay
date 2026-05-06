@@ -8,7 +8,6 @@ tags:
   - work-in-progress
 ---
 
-[[00]]
 # Lens
 id:: 8456f2ee-ac6d-408d-a475-e8a8edfc74cc
 #### Video
