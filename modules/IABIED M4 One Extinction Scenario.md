@@ -22,7 +22,7 @@ source:: ![[../Lenses/IABIED - M4 Welcome]]
 ## Learning Outcome: IABIED - State Goal-Conflict Recognition as a Physical Fact
 source:: ![[../Learning Outcomes/IABIED - State Goal-Conflict Recognition as a Physical Fact]]
 
-# Submodule: Ch8 - Expansion, Reading 1
+# Submodule: Ch8 - Expansion
 ## Learning Outcome: IABIED - Explain Instrumental Sub-Goal Convergence
 source:: ![[../Learning Outcomes/IABIED - Explain Instrumental Sub-Goal Convergence]]
 
