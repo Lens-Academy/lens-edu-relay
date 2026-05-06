@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1777984733638}@@---
+---
 id: a6c8f2d1-5e3b-4a70-9c4f-7b0d2e8f1a35
 learning-outcome: "Distinguish the book's use of fiction as a form of argument from two common misreadings — that it predicts specific future events, or that it is merely a thought experiment with no predictive content — and identify the precise middle position: the fictional pathway is not predicted, but the outcome if AI systems reach sufficient capability is"
 reading-from: "beginning of chapter"
@@ -33,4 +33,4 @@ Score according to the following rubric.
 **5** — As above, plus connects to the course's rhetorical architecture: the fiction-as-argument move required M4's emotional work before it could be explained. The Coda's philosophical precision only lands because Chapters 7–9 already made the dynamics feel real. *Example: Adds "The Coda's clarification only works because M4 made you feel it first. If the story had been presented as pure thought experiment from the start, the claim that 'the ending is a real prediction' would carry no weight. The fiction did its affective job; now the Coda can be honest about what kind of argument it was."*
 
 ## Lens:
-source:: ![[../Lenses/IABIED - Fiction as Argument]]++}
+source:: ![[../Lenses/IABIED - Fiction as Argument]]

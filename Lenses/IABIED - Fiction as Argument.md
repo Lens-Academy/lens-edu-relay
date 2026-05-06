@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1777976598205}@@---
+---
 id: b8d3e7a1-2f5c-4e90-9b1d-4c0f2a7e3b86
 summary_for_tutor: "Optional extension lens for the Coda. Teaches the fiction-as-argument move: the story's pathway is illustrative, not predictive, but the outcome claim is genuine. Students triangulate against two common misreadings to locate the precise middle position. No new reading required — builds on the Coda already read for the primary LO."
 title: "Fiction as Argument"
@@ -54,4 +54,4 @@ content::
 
 ::card[[../Lenses/IABIED - QA - The Ending]]
 
-> Addresses the outcome claim the Coda identifies as its one genuine prediction, separating it from the fictional pathway that leads there.++}
+> Addresses the outcome claim the Coda identifies as its one genuine prediction, separating it from the fictional pathway that leads there.

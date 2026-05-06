@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1777984734091}@@---
+---
 id: d4b9e1a3-7c2f-4d50-b8e6-3f1a0c5d2b89
 learning-outcome: "Distinguish between predicting the pathway to a catastrophic outcome and predicting the outcome itself, explain why outcome confidence is achievable even when the exact path cannot be predicted, and apply this distinction to the argument that humanity's position relative to a superintelligent AI is analogous to a human playing chess against Stockfish"
 reading-from: "beginning of chapter"
@@ -34,4 +34,4 @@ Score according to the following rubric.
 source:: ![[../Lenses/IABIED - Path Prediction vs Outcome Prediction - PQ]]
 
 ## Lens:
-source:: ![[../Lenses/IABIED - Path Prediction vs Outcome Prediction]]++}
+source:: ![[../Lenses/IABIED - Path Prediction vs Outcome Prediction]]
