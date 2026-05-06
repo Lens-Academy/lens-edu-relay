@@ -11,6 +11,7 @@ tags:
 ---
 
 ## Test:
+id:: 27dca5ad-1a1d-40bf-b83d-fbcbd2e9f3d0
 #### Text
 content::
 Chapter 4 introduces the alignment problem by arguing that training an AI to be helpful does not reliably produce an AI that wants to be helpful.

@@ -11,6 +11,7 @@ tags:
 ---
 
 ## Test:
+id:: 3ee1a948-9f94-4d26-abd4-69618e3d99d1
 #### Text
 content::
 Chapter 2 ends with a distinction the rest of the course will keep returning to: the difference between an AI that *behaves* as if it's aligned and one that *is* aligned.
