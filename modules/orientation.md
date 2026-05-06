@@ -4,8 +4,8 @@ slug: orientation
 title: Orientation
 internal: true
 discussion:
-tags: 
-	- work-in-progress
+tags:
+  - work-in-progress
 ---
 
 
