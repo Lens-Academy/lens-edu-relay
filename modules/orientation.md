@@ -8,7 +8,7 @@ tags:
   - work-in-progress
 ---
 
-# Lens: Your Job Will be Gone in 5 Years
+# Lens: Years
 id:: 8456f2ee-ac6d-408d-a475-e8a8edfc74cc
 #### Video
 source:: [[../video_transcripts/the-diary-of-a-ceo-your-job-will-be-gone-in-5-years]]
@@ -24,7 +24,7 @@ id:: 211ae52b-4bde-493c-b087-4d6cb366d630
 source:: [[../video_transcripts/rational-animations-can-the-king-truly-trust-the-golem-SHORT]]
 to:: 2:15
 
-# Lens
+# Lens: Deepfakes
 id:: b412a3d6-4473-4378-a675-a1230eb9890a
 optional:: true
 #### Video
