@@ -8,12 +8,12 @@ tags:
   - work-in-progress
 ---
 
-# Lens: Your Job Will Be Gone in 5 Years
+# Lens: Your Job Will be Gone in 5 Years
 id:: 8456f2ee-ac6d-408d-a475-e8a8edfc74cc
 #### Video
 source:: [[../video_transcripts/the-diary-of-a-ceo-your-job-will-be-gone-in-5-years]]
 to:: 1:12
-# Lens
+# Lens: Myths a
 id:: 4c64a6f2-3971-4508-bf29-d1200ae82d43
 #### Video
 source:: [[../video_transcripts/minutephysics-myths-and-facts-about-superintelligent-ai]]
