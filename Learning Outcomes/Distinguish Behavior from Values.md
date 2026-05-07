@@ -5,7 +5,9 @@ reading-from: "Modern LLMs are, in some sense, truly alien minds—perhaps more 
 reading-to: "That's the issue we turn to next."
 authors:
   - Chris+Claude
-tags:
+{++{"author":"AI","timestamp":1778152721287}@@add_to_ai_context:
+  - "[[../../Lens Edu Private/IABIED Book Content/02 - Chapter 2 - Grown, Not Crafted]]"
+++}tags:
   - learning-outcome
   - IABIED
 ---
