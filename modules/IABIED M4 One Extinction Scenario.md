@@ -8,12 +8,7 @@ readings:
   - "Chapter 8: Expansion"
   - "Chapter 9: Ascension"
   - "Coda"
-{++{"author":"AI","timestamp":1778151485445}@@add_to_ai_context:
-  - "[[../../Lens Edu Private/IABIED Book Content/07 - Chapter 7 - Realization]]"
-  - "[[../../Lens Edu Private/IABIED Book Content/08 - Chapter 8 - Expansion]]"
-  - "[[../../Lens Edu Private/IABIED Book Content/09 - Chapter 9 - Ascension]]"
-  - "[[../../Lens Edu Private/IABIED Book Content/10 - Coda]]"
-++}tags:
+tags:
   - IABIED
   - module
   - work-in-progress
