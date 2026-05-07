@@ -6,7 +6,10 @@ discussion: https://discord.com/channels/1440725236843806762/1481259751374327929
 readings:
   - "Chapter 10: A Cursed Problem"
   - "Chapter 11: An Alchemy, Not a Science"
-tags:
+{++{"author":"AI","timestamp":1778151490024}@@add_to_ai_context:
+  - "[[../../Lens Edu Private/IABIED Book Content/11 - Chapter 10 - A Cursed Problem]]"
+  - "[[../../Lens Edu Private/IABIED Book Content/12 - Chapter 11 - An Alchemy, Not a Science]]"
+++}tags:
   - IABIED
   - module
   - work-in-progress
