@@ -5,7 +5,9 @@ reading-from: "ONCE UPON A TIME in the near future, there was an AI company call
 reading-to: "What comes next will require more skill."
 authors:
   - Chris+Claude
-tags:
+{++{"author":"AI","timestamp":1778152761897}@@add_to_ai_context:
+  - "[[../../Lens Edu Private/IABIED Book Content/07 - Chapter 7 - Realization]]"
+++}tags:
   - learning-outcome
   - IABIED
 ---
