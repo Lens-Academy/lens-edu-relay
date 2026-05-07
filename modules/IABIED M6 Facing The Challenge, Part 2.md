@@ -8,7 +8,12 @@ readings:
   - "Chapter 13: Shut It Down"
   - "Chapter 14: Where There's Life, There's Hope"
   - "Closing Words"
-tags:
+{++{"author":"AI","timestamp":1778151497480}@@add_to_ai_context:
+  - "[[../../Lens Edu Private/IABIED Book Content/13 - Chapter 12 - I Don't Want to Be Alarmist]]"
+  - "[[../../Lens Edu Private/IABIED Book Content/14 - Chapter 13 - Shut It Down]]"
+  - "[[../../Lens Edu Private/IABIED Book Content/15 - Chapter 14 - Where There's Life, There's Hope]]"
+  - "[[../../Lens Edu Private/IABIED Book Content/16 - Closing Words]]"
+++}tags:
   - IABIED
   - module
   - work-in-progress
