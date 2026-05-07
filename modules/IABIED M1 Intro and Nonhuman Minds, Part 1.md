@@ -12,8 +12,6 @@ tags:
   - module
 ---
 
-
-[[../../Lens Edu Private/IABIED Book Content/00 - Introduction - Hard Calls and Easy Calls]]
 # Submodule: Welcome
 # Lens: Welcome
 id:: c9e0e94a-e007-4e4b-afb4-3417fe2cbcb4
