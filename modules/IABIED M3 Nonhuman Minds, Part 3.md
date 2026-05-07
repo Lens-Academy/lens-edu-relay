@@ -6,10 +6,7 @@ discussion: https://discord.com/channels/1440725236843806762/1481259751374327929
 readings: 
   - "Chapter 5: Its Favorite Things"
   - "Chapter 6: We'd Lose"
-{++{"author":"AI","timestamp":1778151479848}@@add_to_ai_context:
-  - "[[../../Lens Edu Private/IABIED Book Content/05 - Chapter 5 - Its Favorite Things]]"
-  - "[[../../Lens Edu Private/IABIED Book Content/06 - Chapter 6 - We'd Lose]]"
-++}tags:
+tags:
   - IABIED
   - module
 ---
