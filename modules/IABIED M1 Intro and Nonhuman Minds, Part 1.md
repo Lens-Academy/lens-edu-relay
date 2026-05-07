@@ -6,12 +6,18 @@ readings:
   - "Introduction: Hard Calls and Easy Calls"
   - "Chapter 1: Humanity's Special Power"
   - "Chapter 2: Grown, Not Crafted"
-discussion: https://discord.com/channels/1440725236843806762/1494711781648629921
+{++{"author":"AI","timestamp":1778151469804}@@add_to_ai_context:
+  - "[[../../Lens Edu Private/IABIED Book Content/00 - Introduction - Hard Calls and Easy Calls]]"
+  - "[[../../Lens Edu Private/IABIED Book Content/01 - Chapter 1 - Humanity's Special Power]]"
+  - "[[../../Lens Edu Private/IABIED Book Content/02 - Chapter 2 - Grown, Not Crafted]]"
+++}discussion: https://discord.com/channels/1440725236843806762/1494711781648629921
 tags:
   - IABIED
   - module
 ---
 
+
+[[iabie]]
 # Submodule: Welcome
 # Lens: Welcome
 id:: c9e0e94a-e007-4e4b-afb4-3417fe2cbcb4

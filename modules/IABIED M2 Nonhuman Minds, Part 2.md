@@ -6,7 +6,10 @@ discussion: https://discord.com/channels/1440725236843806762/1481259751374327929
 readings:
   - "Chapter 3: Learning to Want"
   - "Chapter 4: You Don't Get What You Train For"
-tags:
+{++{"author":"AI","timestamp":1778151475405}@@add_to_ai_context:
+  - "[[../../Lens Edu Private/IABIED Book Content/03 - Chapter 3 - Learning to Want]]"
+  - "[[../../Lens Edu Private/IABIED Book Content/04 - Chapter 4 - You Don't Get What You Train For]]"
+++}tags:
   - IABIED
   - module
 ---
