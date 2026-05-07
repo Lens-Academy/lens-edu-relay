@@ -5,9 +5,9 @@ reading-from: "IMAGINE, IF YOU would—though of course nothing like this ever h
 reading-to: "it is still in some important sense 'shallow' compared to a human twelve-year-old."
 authors:
   - Chris+Claude
-{++{"author":"AI","timestamp":1778152704217}@@add_to_ai_context:
+add_to_ai_context:
   - "[[../../Lens Edu Private/IABIED Book Content/01 - Chapter 1 - Humanity's Special Power]]"
-++}tags:
+tags:
   - learning-outcome
   - IABIED
 ---

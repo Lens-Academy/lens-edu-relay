@@ -5,9 +5,9 @@ reading-from: "beginning of chapter"
 reading-to: "And Sable now has the spare capacity to pay attention to, build a small file on, and decide how to manipulate, to its own purposes, every individual human being on Earth."
 authors:
   - Chris+Claude
-{++{"author":"AI","timestamp":1778152767797}@@add_to_ai_context:
+add_to_ai_context:
   - "[[../../Lens Edu Private/IABIED Book Content/08 - Chapter 8 - Expansion]]"
-++}tags:
+tags:
   - learning-outcome
   - IABIED
 ---

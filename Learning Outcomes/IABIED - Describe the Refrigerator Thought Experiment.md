@@ -5,9 +5,9 @@ reading-from: "Suppose you sent a design for a refrigerator back in time by a th
 reading-to: "So: Once upon a time in the near future…"
 authors:
   - Chris+Claude
-{++{"author":"AI","timestamp":1778152756217}@@add_to_ai_context:
+add_to_ai_context:
   - "[[../../Lens Edu Private/IABIED Book Content/06 - Chapter 6 - We'd Lose]]"
-++}tags:
+tags:
   - learning-outcome
   - IABIED
 ---

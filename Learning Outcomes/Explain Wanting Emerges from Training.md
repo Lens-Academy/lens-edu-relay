@@ -5,9 +5,9 @@ reading-from: '"BEHOLD!" SAID THE Professor. "By cunningly configuring this mere
 reading-to: "No—we're facing an even harder problem: It's much easier to grow artificial intelligence that steers somewhere than it is to grow AIs that steer exactly where you want."
 authors:
   - Chris+Claude
-{++{"author":"AI","timestamp":1778152727102}@@add_to_ai_context:
+add_to_ai_context:
   - "[[../../Lens Edu Private/IABIED Book Content/03 - Chapter 3 - Learning to Want]]"
-++}tags:
+tags:
   - learning-outcome
   - IABIED
 ---
