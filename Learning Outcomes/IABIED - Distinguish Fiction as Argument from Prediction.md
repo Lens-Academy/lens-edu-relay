@@ -6,6 +6,8 @@ reading-to: "end of chapter"
 optional: true
 authors:
   - Chris+Claude
+add_to_ai_context:
+  - "[[../../Lens Edu Private/IABIED Book Content/10 - Coda]]"
 tags:
   - learning-outcome
   - IABIED

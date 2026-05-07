@@ -1,6 +1,8 @@
 ---
 id: 0ac96c2e-7247-4179-8e84-278a00107f28
 learning-outcome: "Articulate the authors' argument for a worldwide halt on frontier AI development"
+add_to_ai_context:
+  - "[[../../Lens Edu Private/IABIED Book Content/14 - Chapter 13 - Shut It Down]]"
 tags:
   - learning-outcome
   - IABIED

@@ -5,6 +5,8 @@ reading-from: "The Sable-mini instances begin quietly gathering resources for Sa
 reading-to: "end of chapter"
 authors:
   - Chris+Claude
+add_to_ai_context:
+  - "[[../../Lens Edu Private/IABIED Book Content/08 - Chapter 8 - Expansion]]"
 tags:
   - learning-outcome
   - IABIED

@@ -1,6 +1,8 @@
 ---
 id: 5e722d28-f1ad-487c-8866-43e5d48115ee
 learning-outcome: "Enumerate and explain the five engineering curses and how each applies to AI alignment"
+add_to_ai_context:
+  - "[[../../Lens Edu Private/IABIED Book Content/11 - Chapter 10 - A Cursed Problem]]"
 tags:
   - learning-outcome
   - IABIED
