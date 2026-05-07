@@ -11,7 +11,6 @@ readings:
 tags:
   - IABIED
   - module
-  - work-in-progress
 ---
 
 # Submodule: Welcome
