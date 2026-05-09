@@ -40,7 +40,7 @@ source:: ![[../Learning Outcomes/IABIED - Distinguish Fiction as Argument from P
 
 # Submodule: Dive Deeper
 ### Lens: Overview of Optional Resources
-source:: ![[../Lenses/IABIED - Overview of Optional Resources M4]]{++{"author":"AI","timestamp":1778316951048}@@
+source:: ![[../Lenses/IABIED - Overview of Optional Resources M4]]
 
 # Lens: IABIED - QA - Why This Setup
 optional:: true
@@ -80,5 +80,5 @@ source:: ![[../Lenses/IABIED - QA - Sable's Expansion Phase]]
 # Lens: IABIED - QA - The Ending
 optional:: true
 hide:: true
-source:: ![[../Lenses/IABIED - QA - The Ending]]++}
+source:: ![[../Lenses/IABIED - QA - The Ending]]
 
