@@ -52,12 +52,12 @@ optional:: true
 hide:: true
 source:: ![[../Lenses/IABIED - QA - Sable's Thinking]]
 
-# Lens: IABIED - QA - Galvanic Fairly Careful
+{--{"author":"AI","timestamp":1778323894676}@@#--}{++{"author":"AI","timestamp":1778323894676}@@###++} Lens: IABIED - QA - Galvanic Fairly Careful
 optional:: true
 hide:: true
 source:: ![[../Lenses/IABIED - QA - Galvanic Fairly Careful]]
 
-# Lens: IABIED - QA - Galvanic Insufficiently Careful
+{--{"author":"AI","timestamp":1778323897753}@@#--}{++{"author":"AI","timestamp":1778323897753}@@###++} Lens: IABIED - QA - Galvanic Insufficiently Careful
 optional:: true
 hide:: true
 source:: ![[../Lenses/IABIED - QA - Galvanic Insufficiently Careful]]
