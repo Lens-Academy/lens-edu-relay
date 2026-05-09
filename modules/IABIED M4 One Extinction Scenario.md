@@ -62,12 +62,12 @@ optional:: true
 hide:: true
 source:: ![[../Lenses/IABIED - QA - Galvanic Insufficiently Careful]]
 
-# Lens: IABIED - QA - Only One Smart AI
+{--{"author":"AI","timestamp":1778323929372}@@#--}{++{"author":"AI","timestamp":1778323929372}@@###++} Lens: IABIED - QA - Only One Smart AI
 optional:: true
 hide:: true
 source:: ![[../Lenses/IABIED - QA - Only One Smart AI]]
 
-# Lens: IABIED - QA - Story Started Later
+{--{"author":"AI","timestamp":1778323933363}@@#--}{++{"author":"AI","timestamp":1778323933363}@@###++} Lens: IABIED - QA - Story Started Later
 optional:: true
 hide:: true
 source:: ![[../Lenses/IABIED - QA - Story Started Later]]
