@@ -42,42 +42,42 @@ source:: ![[../Learning Outcomes/IABIED - Distinguish Fiction as Argument from P
 ### Lens: Overview of Optional Resources
 source:: ![[../Lenses/IABIED - Overview of Optional Resources M4]]
 
-{--{"author":"AI","timestamp":1778323887980}@@#--}{++{"author":"AI","timestamp":1778323887980}@@###++} Lens: IABIED - QA - Why This Setup
+### Lens: IABIED - QA - Why This Setup
 optional:: true
 hide:: true
 source:: ![[../Lenses/IABIED - QA - Why This Setup]]
 
-{--{"author":"AI","timestamp":1778323891535}@@#--}{++{"author":"AI","timestamp":1778323891535}@@###++} Lens: IABIED - QA - Sable's Thinking
+### Lens: IABIED - QA - Sable's Thinking
 optional:: true
 hide:: true
 source:: ![[../Lenses/IABIED - QA - Sable's Thinking]]
 
-{--{"author":"AI","timestamp":1778323894676}@@#--}{++{"author":"AI","timestamp":1778323894676}@@###++} Lens: IABIED - QA - Galvanic Fairly Careful
+### Lens: IABIED - QA - Galvanic Fairly Careful
 optional:: true
 hide:: true
 source:: ![[../Lenses/IABIED - QA - Galvanic Fairly Careful]]
 
-{--{"author":"AI","timestamp":1778323897753}@@#--}{++{"author":"AI","timestamp":1778323897753}@@###++} Lens: IABIED - QA - Galvanic Insufficiently Careful
+### Lens: IABIED - QA - Galvanic Insufficiently Careful
 optional:: true
 hide:: true
 source:: ![[../Lenses/IABIED - QA - Galvanic Insufficiently Careful]]
 
-{--{"author":"AI","timestamp":1778323929372}@@#--}{++{"author":"AI","timestamp":1778323929372}@@###++} Lens: IABIED - QA - Only One Smart AI
+### Lens: IABIED - QA - Only One Smart AI
 optional:: true
 hide:: true
 source:: ![[../Lenses/IABIED - QA - Only One Smart AI]]
 
-{--{"author":"AI","timestamp":1778323933363}@@#--}{++{"author":"AI","timestamp":1778323933363}@@###++} Lens: IABIED - QA - Story Started Later
+### Lens: IABIED - QA - Story Started Later
 optional:: true
 hide:: true
 source:: ![[../Lenses/IABIED - QA - Story Started Later]]
 
-{--{"author":"AI","timestamp":1778323936506}@@#--}{++{"author":"AI","timestamp":1778323936506}@@###++} Lens: IABIED - QA - Sable's Expansion Phase
+### Lens: IABIED - QA - Sable's Expansion Phase
 optional:: true
 hide:: true
 source:: ![[../Lenses/IABIED - QA - Sable's Expansion Phase]]
 
-{--{"author":"AI","timestamp":1778323939930}@@#--}{++{"author":"AI","timestamp":1778323939930}@@###++} Lens: IABIED - QA - The Ending
+### Lens: IABIED - QA - The Ending
 optional:: true
 hide:: true
 source:: ![[../Lenses/IABIED - QA - The Ending]]
