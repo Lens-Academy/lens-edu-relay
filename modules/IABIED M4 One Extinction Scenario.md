@@ -42,12 +42,12 @@ source:: ![[../Learning Outcomes/IABIED - Distinguish Fiction as Argument from P
 ### Lens: Overview of Optional Resources
 source:: ![[../Lenses/IABIED - Overview of Optional Resources M4]]
 
-# Lens: IABIED - QA - Why This Setup
+{--{"author":"AI","timestamp":1778323887980}@@#--}{++{"author":"AI","timestamp":1778323887980}@@###++} Lens: IABIED - QA - Why This Setup
 optional:: true
 hide:: true
 source:: ![[../Lenses/IABIED - QA - Why This Setup]]
 
-# Lens: IABIED - QA - Sable's Thinking
+{--{"author":"AI","timestamp":1778323891535}@@#--}{++{"author":"AI","timestamp":1778323891535}@@###++} Lens: IABIED - QA - Sable's Thinking
 optional:: true
 hide:: true
 source:: ![[../Lenses/IABIED - QA - Sable's Thinking]]
