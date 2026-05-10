@@ -80,7 +80,7 @@ source:: ![[../Lenses/IABIED - QA - Sable's Expansion Phase]]
 ### Lens: IABIED - QA - The Ending
 optional:: true
 hide:: true
-source:: ![[../Lenses/IABIED - QA - The Ending]]{++{"author":"AI","timestamp":1778407787582}@@
+source:: ![[../Lenses/IABIED - QA - The Ending]]
 
 ### Lens: IABIED - QA - Instrumental Convergence
 optional:: true
@@ -90,5 +90,5 @@ source:: ![[../Lenses/IABIED - QA - Instrumental Convergence]]
 ### Lens: IABIED - QA - Won't It Choose to Be Moral
 optional:: true
 hide:: true
-source:: ![[../Lenses/IABIED - QA - Won't It Choose to Be Moral]]++}
+source:: ![[../Lenses/IABIED - QA - Won't It Choose to Be Moral]]
 
