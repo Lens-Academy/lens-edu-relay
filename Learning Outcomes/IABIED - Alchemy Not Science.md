@@ -11,8 +11,7 @@ tags:
 ---
 
 ## Test: 
-id :: d616e493-ef55-4429-8bae-e93d6fd20b99
-
+id:: d616e493-ef55-4429-8bae-e93d6fd20b99
 #### Question
 feedback:: true
 content:: Chapter 11 opens with an allegory about a young alchemist who claims to be "close" to transmuting lead into gold despite having no understanding of why his recipes produce the results they do. The chapter then applies this framing to current AI alignment efforts — specifically to public statements from Elon Musk (xAI) and Yann LeCun (Meta). The authors call this the "alchemy stage" of a science.
