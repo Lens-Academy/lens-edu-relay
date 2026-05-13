@@ -25,7 +25,7 @@ source:: ![[../Learning Outcomes/IABIED - The Five Engineering Curses]]
 source:: ![[../Learning Outcomes/IABIED - Position Not Despair]]
 
 # Submodule: Ch11 - An Alchemy, Not a Science
-# Learning Outcome: IABIED - Alchemy Not Science
+## Learning Outcome: IABIED - Alchemy Not Science
 source:: ![[../Learning Outcomes/IABIED - Alchemy Not Science]]
 
 # Learning Outcome: IABIED - Strong Superalignment Objection
