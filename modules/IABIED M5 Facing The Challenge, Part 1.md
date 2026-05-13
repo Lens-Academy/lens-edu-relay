@@ -25,15 +25,15 @@ source:: ![[../Learning Outcomes/IABIED - The Five Engineering Curses]]
 source:: ![[../Learning Outcomes/IABIED - Position Not Despair]]
 
 # Submodule: Ch11 - An Alchemy, Not a Science
-{--{"author":"AI","timestamp":1778664812271}@@##--}{++{"author":"AI","timestamp":1778664812271}@@#++} Learning Outcome: IABIED - Alchemy Not Science
-source:: {--{"author":"AI","timestamp":1778664812271}@@[[../Learning--}{++{"author":"AI","timestamp":1778664812271}@@![[../Learning++} Outcomes/IABIED - Alchemy Not Science]]
+# Learning Outcome: IABIED - Alchemy Not Science
+source:: ![[../Learning Outcomes/IABIED - Alchemy Not Science]]
 
 # Learning Outcome: IABIED - Strong Superalignment Objection
 source:: ![[../Learning Outcomes/IABIED - Strong Superalignment Objection]]
 
 # Submodule: Dive Deeper
 # Lens: Overview of Optional Resources
-source:: ![[../Lenses/IABIED - Overview of Optional Resources M5]]{++{"author":"AI","timestamp":1778664828668}@@
+source:: ![[../Lenses/IABIED - Overview of Optional Resources M5]]
 
 # Lens: IABIED - QA - AI Differs from Precedents
 optional:: true
@@ -133,4 +133,4 @@ source:: ![[../Lenses/IABIED - QA - Problem Not Treated with Respect]]
 # Lens: IABIED - QA - Shutdown Buttons and Corrigibility
 optional:: true
 hide:: true
-source:: ![[../Lenses/IABIED - QA - Shutdown Buttons and Corrigibility]]++}
+source:: ![[../Lenses/IABIED - QA - Shutdown Buttons and Corrigibility]]
