@@ -14,8 +14,8 @@ readings:
   - work-in-progress--}
 ---
 
-# Lens: Welcome
-id:: 8fc53ea9-72d4-44c7-bcd2-d4935429ec5c
+# {--{"author":"AI","timestamp":1778663494672}@@Lens:--}{++{"author":"AI","timestamp":1778663494672}@@Submodule:++} Welcome
+{--{"author":"AI","timestamp":1778663494672}@@id:: 8fc53ea9-72d4-44c7-bcd2-d4935429ec5c
 
 #### Text
 content:: Having seen what could happen, we now ask: why is the engineering challenge so hard? The authors present five "curses" that make alignment extraordinarily difficult, then argue that the entire field is still in the stage of alchemy, pre-scientific folk theory, rather than mature engineering.
@@ -26,12 +26,12 @@ Chapter 11 opens with a parable about alchemists who think they're close to tran
 
 **This week's reading:** Chapter 10 ("A Cursed Problem") + Chapter 11 ("An Alchemy, Not a Science"). After reading, come back here to discuss with the tutor.
 
-#### Chat
-instructions::
+#### Chat--}{++{"author":"AI","timestamp":1778663494672}@@# Lens: M5 Welcome++}
+{--{"author":"AI","timestamp":1778663494672}@@instructions::
 The student has just read Chapters 10 and 11 of "If Anyone Builds It, Everyone Dies."
 
 Key concepts to check understanding of:
-- The five engineering curses: speed, narrow margins, self-amplification, complications, edge cases
+--}{++{"author":"AI","timestamp":1778663494672}@@source:: ![[../Lenses/IABIED ++}-{--{"author":"AI","timestamp":1778663494672}@@ The five engineering curses: speed, narrow margins, self-amplification, complications, edge cases
 - The before/after gap — humanity only gets one shot
 - Space probe analogies (Mars missions, Viking 1)
 - Chernobyl's four compounding curses and why the SCRAM button caused the explosion
@@ -39,10 +39,10 @@ Key concepts to check understanding of:
 - The alchemist parable (the young man and his sister)
 - Musk's TruthGPT plan, LeCun's tweets, the "superalignment" plan
 - The mother/engineer dialogue
-- "The whole field of science is in an early stage"
+- "The whole field of science is in an early stage"--}{++{"author":"AI","timestamp":1778663494672}@@ M5 Welcome]]++}
 
-Discussion topics to explore:
-- Which engineering analogy (space probes, Chernobyl, computer security) resonated most with you? Why?
+{--{"author":"AI","timestamp":1778663494672}@@Discussion topics to explore:
+--}{++{"author":"AI","timestamp":1778663494672}@@# Submodule: Ch10 ++}- {--{"author":"AI","timestamp":1778663494672}@@Which engineering analogy (space probes, Chernobyl, computer security) resonated most with you? Why?
 - The authors call alignment "alchemy, not a science." What would it take for it to become a science?
 - The mother/engineer dialogue is meant to show how AI company leadership sounds to informed observers. How does it make you feel?
 - Can you apply the five curses to a specific AI safety proposal you've heard of?
@@ -50,15 +50,14 @@ Discussion topics to explore:
 
 Ask what they found surprising or new. Check if they can enumerate the five curses and explain how at least two apply to AI alignment — it's a key concept.
 
-{++{"author":"AI","timestamp":1774279300009}@@%%
+--}{++{"author":"AI","timestamp":1778663494672}@@A Cursed Problem
 ++}# Learning Outcome: IABIED - The Five Engineering Curses
 source:: ![[../Learning Outcomes/IABIED - The Five Engineering Curses]]
 
-# Learning Outcome: IABIED - Alchemy, Not Science
-source:: ![[../Learning Outcomes/Explain Alignment Is Alchemy, Not Science]]{++{"author":"AI","timestamp":1774279300009}@@
-%%++}
+# Learning Outcome: IABIED - {--{"author":"AI","timestamp":1778663494672}@@Alchemy,--}{++{"author":"AI","timestamp":1778663494672}@@Position++} Not {--{"author":"AI","timestamp":1778663494672}@@Science--}{++{"author":"AI","timestamp":1778663494672}@@Despair++}
+source:: ![[../Learning {--{"author":"AI","timestamp":1778663494672}@@Outcomes/Explain Alignment Is Alchemy,--}{++{"author":"AI","timestamp":1778663494672}@@Outcomes/IABIED - Position++} Not {--{"author":"AI","timestamp":1778663494672}@@Science]]--}{++{"author":"AI","timestamp":1778663494672}@@Despair]]++}
 
-# Lens: Overview of Optional Resources
+# {--{"author":"AI","timestamp":1778663494672}@@Lens: Overview of Optional Resources
 id:: c3d4e5f6-7a8b-4c9d-0e1f-2a3b4c5d6e7f
 
 #### Text:
@@ -68,12 +67,12 @@ The book's website includes supplementary Q&As and extended discussions for each
 \## Chapter 10: A Cursed Problem
 ::card[[../Lenses/IABIED - QA - AI Differs from Precedents]]
 ::card[[../Lenses/IABIED - QA - Time to Solve Alignment]]
-::card[[../Lenses/IABIED - QA - Lots of Different AIs]]
+::card[[../Lenses/IABIED - QA--}{++{"author":"AI","timestamp":1778663494672}@@Submodule: Ch11++} - {--{"author":"AI","timestamp":1778663494672}@@Lots of Different AIs]]
 ::card[[../Lenses/IABIED - QA - Slow AI Integration]]
 ::card[[../Lenses/IABIED - QA - Before and After]]
 ::card[[../Lenses/IABIED - QA - Chicago Pile-1]]
 
-\## Chapter 11: An Alchemy, Not a Science
+\## Chapter 11: --}An Alchemy, Not a Science{--{"author":"AI","timestamp":1778663494672}@@
 ::card[[../Lenses/IABIED - QA - Muddle Through]]
 ::card[[../Lenses/IABIED - QA - Alignment All or Nothing]]
 ::card[[../Lenses/IABIED - QA - Governments Get Involved]]
@@ -85,49 +84,49 @@ The book's website includes supplementary Q&As and extended discussions for each
 ::card[[../Lenses/IABIED - QA - AIs Debate Compete Oversee]]
 ::card[[../Lenses/IABIED - QA - Various Other Alignment Plans]]
 ::card[[../Lenses/IABIED - QA - Early Warnings]]
-::card[[../Lenses/IABIED - QA - More on Plans Critiqued]]
-::card[[../Lenses/IABIED - QA - Problem Not Treated with Respect]]
+::card[[../Lenses/IABIED - QA - More on Plans Critiqued]]--}
+{--{"author":"AI","timestamp":1778663494672}@@::card[[../Lenses/IABIED - QA - Problem Not Treated with Respect]]
 ::card[[../Lenses/IABIED - QA - Shutdown Buttons and Corrigibility]]
 
-# Lens: IABIED - QA - AI Differs from Precedents
+--}# {--{"author":"AI","timestamp":1778663494672}@@Lens: IABIED - QA - AI Differs from Precedents
 optional:: true
 hide:: true
 source:: ![[../Lenses/IABIED - QA - AI Differs from Precedents]]
 
-# Lens: IABIED - QA - Time to Solve Alignment
-optional:: true
-hide:: true
-source:: ![[../Lenses/IABIED - QA - Time to Solve Alignment]]
+# Lens: --}{++{"author":"AI","timestamp":1778663494672}@@Learning Outcome: ++}IABIED - {--{"author":"AI","timestamp":1778663494672}@@QA - Time to Solve Alignment
+optional:: true--}{++{"author":"AI","timestamp":1778663494672}@@Alchemy Not Science++}
+{--{"author":"AI","timestamp":1778663494672}@@hide:: true
+--}source::{--{"author":"AI","timestamp":1778663494672}@@ ![[../Lenses/IABIED - QA--}{++{"author":"AI","timestamp":1778663494672}@@ ![[../Learning Outcomes/IABIED++} - {--{"author":"AI","timestamp":1778663494672}@@Time to Solve Alignment]]--}{++{"author":"AI","timestamp":1778663494672}@@Alchemy Not Science]]++}
 
-# Lens: IABIED - QA - Lots of Different AIs
+#{--{"author":"AI","timestamp":1778663494672}@@ Lens: IABIED - QA - Lots of Different AIs
 optional:: true
 hide:: true
 source:: ![[../Lenses/IABIED - QA - Lots of Different AIs]]
 
-# Lens: IABIED - QA - Slow AI Integration
+# Lens:--}{++{"author":"AI","timestamp":1778663494672}@@ Learning Outcome:++} IABIED - {--{"author":"AI","timestamp":1778663494672}@@QA - Slow AI Integration
 optional:: true
-hide:: true
-source:: ![[../Lenses/IABIED - QA - Slow AI Integration]]
+hide:: true--}{++{"author":"AI","timestamp":1778663494672}@@Strong Superalignment Objection++}
+source:: {--{"author":"AI","timestamp":1778663494672}@@![[../Lenses/IABIED - QA--}{++{"author":"AI","timestamp":1778663494672}@@![[../Learning Outcomes/IABIED++} - {--{"author":"AI","timestamp":1778663494672}@@Slow AI Integration]]--}{++{"author":"AI","timestamp":1778663494672}@@Strong Superalignment Objection]]++}
 
-# Lens: IABIED - QA - Before and After
+# {--{"author":"AI","timestamp":1778663494672}@@Lens: IABIED - QA - Before and After
 optional:: true
 hide:: true
 source:: ![[../Lenses/IABIED - QA - Before and After]]
 
 # Lens: IABIED - QA - Chicago Pile-1
 optional:: true
-hide:: true
-source:: ![[../Lenses/IABIED - QA - Chicago Pile-1]]
+hide:: true--}{++{"author":"AI","timestamp":1778663494672}@@Submodule: Dive Deeper++}
+{--{"author":"AI","timestamp":1778663494672}@@source:: ![[../Lenses/IABIED - QA - Chicago Pile-1]]
 
-# Lens: IABIED - QA - Muddle Through
+--}# Lens:{--{"author":"AI","timestamp":1778663494672}@@ IABIED - QA - Muddle Through
 optional:: true
 hide:: true
 source:: ![[../Lenses/IABIED - QA - Muddle Through]]
 
 # Lens: IABIED - QA - Alignment All or Nothing
-optional:: true
-hide:: true
-source:: ![[../Lenses/IABIED - QA - Alignment All or Nothing]]
+optional:: true--}{++{"author":"AI","timestamp":1778663494672}@@ Overview of Optional Resources++}
+{--{"author":"AI","timestamp":1778663494672}@@hide:: true
+--}source:: ![[../Lenses/IABIED - {--{"author":"AI","timestamp":1778663494672}@@QA - Alignment All or Nothing]]
 
 # Lens: IABIED - QA - Governments Get Involved
 optional:: true
@@ -187,4 +186,4 @@ source:: ![[../Lenses/IABIED - QA - Problem Not Treated with Respect]]
 # Lens: IABIED - QA - Shutdown Buttons and Corrigibility
 optional:: true
 hide:: true
-source:: ![[../Lenses/IABIED - QA - Shutdown Buttons and Corrigibility]]
+source:: ![[../Lenses/IABIED - QA - Shutdown Buttons and Corrigibility]]--}{++{"author":"AI","timestamp":1778663494672}@@Overview of Optional Resources M5]]++}
