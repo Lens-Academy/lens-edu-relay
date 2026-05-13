@@ -6,10 +6,12 @@ discussion: https://discord.com/channels/1440725236843806762/1481259751374327929
 readings:
   - "Chapter 10: A Cursed Problem"
   - "Chapter 11: An Alchemy, Not a Science"
-tags:
+{++{"author":"AI","timestamp":1778663457311}@@authors:
+  - Yatharth+Claude
+++}tags:
   - IABIED
-  - module
-  - work-in-progress
+  - module{--{"author":"AI","timestamp":1778663457311}@@
+  - work-in-progress--}
 ---
 
 # Lens: Welcome
