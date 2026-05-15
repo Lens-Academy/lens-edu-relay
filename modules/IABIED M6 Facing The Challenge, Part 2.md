@@ -54,16 +54,16 @@ Discussion topics to explore:
 
 Ask what they found surprising or new. Check if they can explain the ladder-in-the-dark incentive problem in their own words — it's a key concept.
 
-{++{"author":"AI","timestamp":1774279302827}@@%%
-++}# Learning Outcome: IABIED - Perverse Incentives and Institutional Failure
+%%
+# Learning Outcome: IABIED - Perverse Incentives and Institutional Failure
 source:: ![[../Learning Outcomes/IABIED - Perverse Incentives and Institutional Failure]]
 
 # Learning Outcome: IABIED - The Case for Shutting It Down
 source:: ![[../Learning Outcomes/IABIED - The Case for Shutting It Down]]
 
 # Learning Outcome: IABIED - Where There's Life, There's Hope
-source:: ![[../Learning Outcomes/IABIED - Where There's Life, There's Hope]]{++{"author":"AI","timestamp":1774279302827}@@
-%%++}
+source:: ![[../Learning Outcomes/IABIED - Where There's Life, There's Hope]]
+%%
 
 # Lens: Overview of Optional Resources
 id:: d4e5f6a7-8b9c-4d0e-1f2a-3b4c5d6e7f8a

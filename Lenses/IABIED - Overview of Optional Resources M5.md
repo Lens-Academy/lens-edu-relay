@@ -1,39 +1,34 @@
 ---
-id: 43f09573-606d-4a92-aabf-fcbede97cf34
-slug: iabied-m5
-title: "Facing the Challenge, Part 1"
-discussion: https://discord.com/channels/1440725236843806762/1481259751374327929
-readings:
-  - "Chapter 10: A Cursed Problem"
-  - "Chapter 11: An Alchemy, Not a Science"
-authors:
-  - Yatharth+Claude
-tags:
-  - IABIED
-  - module
+id: 86d47f85-7c87-496d-bc24-02803110bfde
 ---
 
-# Submodule: Welcome
-# Lens: M5 Welcome
-source:: ![[../Lenses/IABIED - M5 Welcome]]
+#### Text
+content::
+The book's website includes supplementary Q&As and extended discussions for each chapter. Browse the ones relevant to this week's reading below.
 
-# Submodule: Ch10 - A Cursed Problem
-# Learning Outcome: IABIED - The Five Engineering Curses
-source:: ![[../Learning Outcomes/IABIED - The Five Engineering Curses]]
+\## Chapter 10: A Cursed Problem
+::card[[../Lenses/IABIED - QA - AI Differs from Precedents]]
+::card[[../Lenses/IABIED - QA - Time to Solve Alignment]]
+::card[[../Lenses/IABIED - QA - Lots of Different AIs]]
+::card[[../Lenses/IABIED - QA - Slow AI Integration]]
+::card[[../Lenses/IABIED - QA - Before and After]]
+::card[[../Lenses/IABIED - QA - Chicago Pile-1]]
 
-# Learning Outcome: IABIED - Position Not Despair
-source:: ![[../Learning Outcomes/IABIED - Position Not Despair]]
-
-# Submodule: Ch11 - An Alchemy, Not a Science
-# Learning Outcome: IABIED - Alchemy Not Science
-source:: ![[../Learning Outcomes/IABIED - Alchemy Not Science]]
-
-# Learning Outcome: IABIED - Strong Superalignment Objection
-source:: ![[../Learning Outcomes/IABIED - Strong Superalignment Objection]]
-
-# Submodule: Dive Deeper
-# Lens: Overview of Optional Resources
-source:: ![[../Lenses/IABIED - Overview of Optional Resources M5]]
+\## Chapter 11: An Alchemy, Not a Science
+::card[[../Lenses/IABIED - QA - Muddle Through]]
+::card[[../Lenses/IABIED - QA - Alignment All or Nothing]]
+::card[[../Lenses/IABIED - QA - Governments Get Involved]]
+::card[[../Lenses/IABIED - QA - Reckless Means Incompetent]]
+::card[[../Lenses/IABIED - QA - Hardware Overhang]]
+::card[[../Lenses/IABIED - QA - Race for Alignment Research]]
+::card[[../Lenses/IABIED - QA - Non-Dangerous Deployment]]
+::card[[../Lenses/IABIED - QA - Can Interpretability Solve This]]
+::card[[../Lenses/IABIED - QA - AIs Debate Compete Oversee]]
+::card[[../Lenses/IABIED - QA - Various Other Alignment Plans]]
+::card[[../Lenses/IABIED - QA - Early Warnings]]
+::card[[../Lenses/IABIED - QA - More on Plans Critiqued]]
+::card[[../Lenses/IABIED - QA - Problem Not Treated with Respect]]
+::card[[../Lenses/IABIED - QA - Shutdown Buttons and Corrigibility]]
 
 # Lens: IABIED - QA - AI Differs from Precedents
 optional:: true

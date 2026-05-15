@@ -42,43 +42,53 @@ source:: ![[../Learning Outcomes/IABIED - Distinguish Fiction as Argument from P
 ### Lens: Overview of Optional Resources
 source:: ![[../Lenses/IABIED - Overview of Optional Resources M4]]
 
-# Lens: IABIED - QA - Why This Setup
+### Lens: IABIED - QA - Why This Setup
 optional:: true
 hide:: true
 source:: ![[../Lenses/IABIED - QA - Why This Setup]]
 
-# Lens: IABIED - QA - Sable's Thinking
+### Lens: IABIED - QA - Sable's Thinking
 optional:: true
 hide:: true
 source:: ![[../Lenses/IABIED - QA - Sable's Thinking]]
 
-# Lens: IABIED - QA - Galvanic Fairly Careful
+### Lens: IABIED - QA - Galvanic Fairly Careful
 optional:: true
 hide:: true
 source:: ![[../Lenses/IABIED - QA - Galvanic Fairly Careful]]
 
-# Lens: IABIED - QA - Galvanic Insufficiently Careful
+### Lens: IABIED - QA - Galvanic Insufficiently Careful
 optional:: true
 hide:: true
 source:: ![[../Lenses/IABIED - QA - Galvanic Insufficiently Careful]]
 
-# Lens: IABIED - QA - Only One Smart AI
+### Lens: IABIED - QA - Only One Smart AI
 optional:: true
 hide:: true
 source:: ![[../Lenses/IABIED - QA - Only One Smart AI]]
 
-# Lens: IABIED - QA - Story Started Later
+### Lens: IABIED - QA - Story Started Later
 optional:: true
 hide:: true
 source:: ![[../Lenses/IABIED - QA - Story Started Later]]
 
-# Lens: IABIED - QA - Sable's Expansion Phase
+### Lens: IABIED - QA - Sable's Expansion Phase
 optional:: true
 hide:: true
 source:: ![[../Lenses/IABIED - QA - Sable's Expansion Phase]]
 
-# Lens: IABIED - QA - The Ending
+### Lens: IABIED - QA - The Ending
 optional:: true
 hide:: true
 source:: ![[../Lenses/IABIED - QA - The Ending]]
+
+### Lens: IABIED - QA - Instrumental Convergence
+optional:: true
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Instrumental Convergence]]
+
+### Lens: IABIED - QA - Won't It Choose to Be Moral
+optional:: true
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Won't It Choose to Be Moral]]
 

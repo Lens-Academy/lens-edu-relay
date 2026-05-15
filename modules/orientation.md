@@ -22,7 +22,7 @@ to:: 3:46
 id:: 211ae52b-4bde-493c-b087-4d6cb366d630
 #### Video
 source:: [[../video_transcripts/rational-animations-can-the-king-truly-trust-the-golem-SHORT]]
-to:: 2:15
+to:: 2:16
 
 # Lens: Deepfakes
 id:: b412a3d6-4473-4378-a675-a1230eb9890a
