@@ -101,11 +101,9 @@ What not to do:
 - Let this run more than 2 tutor turns.
 - Start resolving the learning outcome question — that is Phase 3's job.
 
-{--{"author":"AI","timestamp":1779118952624}@@---
-
---}{++{"author":"AI","timestamp":1779118952624}@@#### Text
+#### Text
 content::
-++}\## Phase 3: Learning Question
+\## Phase 3: Learning Question
 The chapter says AI executives who acknowledge a 20% chance of killing everyone keep building anyway. Is that irrational? Use the ladder-in-the-dark framing to explain whether their behavior makes sense — and what it implies about whether individuals can solve this problem on their own.
 
 #### Chat
