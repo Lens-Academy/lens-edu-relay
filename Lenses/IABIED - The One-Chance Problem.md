@@ -57,7 +57,7 @@ What not to do:
 - Introduce ideas not present in the reading.
 - Invite further dialogue.
 
-This is a one-turn response. Do not ask a question or suggest the student reply. Tell them to move on to the next {--{"author":"AI","timestamp":1779118944094}@@step.--}{++{"author":"AI","timestamp":1779118944094}@@step automatically.++}
+This is a one-turn response. Do not ask a question or suggest the student reply. Tell them to move on to the next step.
 
 #### Text
 content::
