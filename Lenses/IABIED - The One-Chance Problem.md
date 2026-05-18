@@ -96,6 +96,8 @@ What not to do:
 - Let this run more than 2 tutor turns.
 - Start resolving the learning outcome question — that is Phase 3's job.
 
+#### Text
+content::
 \## Phase 3: Learning Question
 Chapter 12 uses Chernobyl and Titanic to establish an argument, then says those cases have a decisive disanalogy with ASI. Why does the chapter bother with the analogies at all if the disanalogy is what really matters? What work are Chernobyl and Titanic doing in the argument?
 
