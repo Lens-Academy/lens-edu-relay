@@ -61,7 +61,13 @@ source:: ![[../Learning Outcomes/IABIED - Compare the Chernobyl and Titanic Anal
 # Learning Outcome: IABIED - Apply the Ladder-in-the-Dark Framing
 source:: ![[../Learning Outcomes/IABIED - Apply the Ladder-in-the-Dark Framing]]
 
-# Lens: Overview of Optional Resources
+# {++{"author":"AI","timestamp":1779133511165}@@Learning Outcome: IABIED - The WWII Analogy
+source:: ![[../Learning Outcomes/IABIED - The WWII Analogy]]
+
+# Learning Outcome: IABIED - Coalition Strategy
+source:: ![[../Learning Outcomes/IABIED - Coalition Strategy]]
+
+# ++}Lens: Overview of Optional Resources
 id:: d4e5f6a7-8b9c-4d0e-1f2a-3b4c5d6e7f8a
 
 #### Text:
