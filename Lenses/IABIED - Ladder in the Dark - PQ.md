@@ -1,7 +1,7 @@
 ---
 id: 0528f8e9-82f9-4c14-8ec1-b538ca87246e
-summary_for_tutor: {--{"author":"AI","timestamp":1779118693289}@@"Sets--}{++{"author":"AI","timestamp":1779118693289}@@Sets++} up the ladder-in-the-dark argument by prompting the student to think about competitive races and whether shared knowledge of risk is enough to stop them. Activates intuitions about collective action problems before the chapter introduces the structural {--{"author":"AI","timestamp":1779118693289}@@argument."--}{++{"author":"AI","timestamp":1779118693289}@@argument.++}
-title: {--{"author":"AI","timestamp":1779118693289}@@"Pre-Reading--}{++{"author":"AI","timestamp":1779118693289}@@Pre-Reading++} Question - Ladder in the {--{"author":"AI","timestamp":1779118693289}@@Dark"--}{++{"author":"AI","timestamp":1779118693289}@@Dark++}
+summary_for_tutor: "Sets up the ladder-in-the-dark argument by prompting the student to think about competitive races and whether shared knowledge of risk is enough to stop them. Activates intuitions about collective action problems before the chapter introduces the structural argument."
+title: "Pre-Reading Question - Ladder in the Dark"
 tldr: Before reading, think about what it would actually take to stop a competitive race — even when everyone knows it's dangerous.
 authors:
   - Chris+Claude
