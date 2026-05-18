@@ -67,6 +67,13 @@ source:: ![[../Learning Outcomes/IABIED - The WWII Analogy]]
 # Learning Outcome: IABIED - Coalition Strategy
 source:: ![[../Learning Outcomes/IABIED - Coalition Strategy]]
 
+# ++}{++{"author":"AI","timestamp":1779138160536}@@Submodule: Chapter 14: Where There's Life, There's Hope
+## Learning Outcome: IABIED - Un-Writing Our Fate
+source:: [[../Learning Outcomes/Un-Writing Our Fate]]
+
+## Learning Outcome: IABIED - Role-Specific Action
+source:: [[../Learning Outcomes/Role-Specific Action]]
+
 # ++}Lens: Overview of Optional Resources
 id:: d4e5f6a7-8b9c-4d0e-1f2a-3b4c5d6e7f8a
 
