@@ -11,15 +11,17 @@ tags:
 ---
 
 ## Test:
-id:: 38dc6bd8-b793-448e-a44a-89d3cd4c6a03
+id:: 38dc6bd8-b793-448e-a44a-89d3cd4c6a03{--{"author":"AI","timestamp":1779118689696}@@
 
-#### Text
-content::
-Chapter 12 closes with a striking image: every competing AI company is climbing a ladder in the dark. Nobody knows which rung will be the last safe one — the point at which an AI system crosses into unrecoverable territory. You might expect this uncertainty to provide protection: if no one knows where the lethal rung is, perhaps caution will prevail. Chapter 12 argues the opposite.
+--}{++{"author":"AI","timestamp":1779118689696}@@
+++}#### {--{"author":"AI","timestamp":1779118689696}@@Text--}{++{"author":"AI","timestamp":1779118689696}@@Question
+feedback:: true++}
+content::{--{"author":"AI","timestamp":1779118689696}@@
+--}{++{"author":"AI","timestamp":1779118689696}@@ ++}Chapter 12 closes with a striking image: every competing AI company is climbing a ladder in the dark. Nobody knows which rung will be the last safe one — the point at which an AI system crosses into unrecoverable territory. You might expect this uncertainty to provide protection: if no one knows where the lethal rung is, perhaps caution will prevail. Chapter 12 argues the opposite.
 
-#### Question
+{--{"author":"AI","timestamp":1779118689696}@@#### Question
 feedback:: true
-content:: Using the ladder-in-the-dark framing, explain why uncertainty about the fatal rung does not protect against predictable disaster. Trace the chapter's argument that if climbing cannot be stopped, death is a predictable collective outcome — even though no one can identify which rung is lethal in advance.
+content:: Using --}{++{"author":"AI","timestamp":1779118689696}@@**Using ++}the ladder-in-the-dark framing, explain why uncertainty about the fatal rung does not protect against predictable disaster. Trace the chapter's argument that if climbing cannot be stopped, death is a predictable collective outcome — even though no one can identify which rung is lethal in {--{"author":"AI","timestamp":1779118689696}@@advance.--}{++{"author":"AI","timestamp":1779118689696}@@advance.**++}
 
 assessment-instructions::
 Score according to the following rubric.

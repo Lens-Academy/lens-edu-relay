@@ -11,15 +11,17 @@ tags:
 ---
 
 ## Test:
-id:: 7f627b30-5641-48ef-901d-e710813fb828
+id:: 7f627b30-5641-48ef-901d-e710813fb828{--{"author":"AI","timestamp":1779118686271}@@
 
-#### Text
-content::
-Chapter 12 opens by asking why smart, well-meaning people build things that could destroy the world. To make the denial pattern concrete, it draws on two historical disasters: the Chernobyl meltdown and the Titanic sinking. Both cases show how humans fail to believe that unthinkable disasters can actually happen — even when the warning signs are present. The chapter then makes a pivot: it argues these analogies hold only up to a point, because there is one critical way in which an ASI failure differs from both of them.
+--}{++{"author":"AI","timestamp":1779118686271}@@
+++}#### {--{"author":"AI","timestamp":1779118686271}@@Text--}{++{"author":"AI","timestamp":1779118686271}@@Question
+feedback:: true++}
+content::{--{"author":"AI","timestamp":1779118686271}@@
+--}{++{"author":"AI","timestamp":1779118686271}@@ ++}Chapter 12 opens by asking why smart, well-meaning people build things that could destroy the world. To make the denial pattern concrete, it draws on two historical disasters: the Chernobyl meltdown and the Titanic sinking. Both cases show how humans fail to believe that unthinkable disasters can actually happen — even when the warning signs are present. The chapter then makes a pivot: it argues these analogies hold only up to a point, because there is one critical way in which an ASI failure differs from both of them.
 
-#### Question
+{--{"author":"AI","timestamp":1779118686271}@@#### Question
 feedback:: true
-content:: What does each case — Chernobyl and Titanic — contribute to Chapter 12's argument that humans struggle to believe in unthinkable disasters? And what is the critical disanalogy between those historical cases and an ASI failure that the chapter treats as decisive?
+content:: What --}{++{"author":"AI","timestamp":1779118686271}@@**What ++}does each case — Chernobyl and Titanic — contribute to Chapter 12's argument that humans struggle to believe in unthinkable disasters? And what is the critical disanalogy between those historical cases and an ASI failure that the chapter treats as {--{"author":"AI","timestamp":1779118686271}@@decisive?--}{++{"author":"AI","timestamp":1779118686271}@@decisive?**++}
 
 assessment-instructions::
 Score according to the following rubric.
