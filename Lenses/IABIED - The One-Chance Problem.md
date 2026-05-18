@@ -94,7 +94,7 @@ What not to do:
 - Resolve confusion with a mini-lecture.
 - Agree or disagree with the student's skepticism — articulate it precisely, don't adjudicate it.
 - Let this run more than 2 tutor turns.
-- Start resolving the learning outcome question — that is {--{"author":"AI","timestamp":1779118951383}@@Phase--}{++{"author":"AI","timestamp":1779118951383}@@Context++} 3's job.
+- Start resolving the learning outcome question — that is Phase 3's job.
 
 #### Text
 content::
