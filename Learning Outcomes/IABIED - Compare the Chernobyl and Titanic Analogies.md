@@ -11,17 +11,12 @@ tags:
 ---
 
 ## Test:
-id:: 7f627b30-5641-48ef-901d-e710813fb828{--{"author":"AI","timestamp":1779118686271}@@
-
---}{++{"author":"AI","timestamp":1779118686271}@@
-++}#### {--{"author":"AI","timestamp":1779118686271}@@Text--}{++{"author":"AI","timestamp":1779118686271}@@Question
-feedback:: true++}
-content::{--{"author":"AI","timestamp":1779118686271}@@
---}{++{"author":"AI","timestamp":1779118686271}@@ ++}Chapter 12 opens by asking why smart, well-meaning people build things that could destroy the world. To make the denial pattern concrete, it draws on two historical disasters: the Chernobyl meltdown and the Titanic sinking. Both cases show how humans fail to believe that unthinkable disasters can actually happen — even when the warning signs are present. The chapter then makes a pivot: it argues these analogies hold only up to a point, because there is one critical way in which an ASI failure differs from both of them.
-
-{--{"author":"AI","timestamp":1779118686271}@@#### Question
+id:: 7f627b30-5641-48ef-901d-e710813fb828
+#### Question
 feedback:: true
-content:: What --}{++{"author":"AI","timestamp":1779118686271}@@**What ++}does each case — Chernobyl and Titanic — contribute to Chapter 12's argument that humans struggle to believe in unthinkable disasters? And what is the critical disanalogy between those historical cases and an ASI failure that the chapter treats as {--{"author":"AI","timestamp":1779118686271}@@decisive?--}{++{"author":"AI","timestamp":1779118686271}@@decisive?**++}
+content:: Chapter 12 opens by asking why smart, well-meaning people build things that could destroy the world. To make the denial pattern concrete, it draws on two historical disasters: the Chernobyl meltdown and the Titanic sinking. Both cases show how humans fail to believe that unthinkable disasters can actually happen — even when the warning signs are present. The chapter then makes a pivot: it argues these analogies hold only up to a point, because there is one critical way in which an ASI failure differs from both of them.
+
+**What does each case — Chernobyl and Titanic — contribute to Chapter 12's argument that humans struggle to believe in unthinkable disasters? And what is the critical disanalogy between those historical cases and an ASI failure that the chapter treats as decisive?**
 
 assessment-instructions::
 Score according to the following rubric.
@@ -37,23 +32,7 @@ Score according to the following rubric.
 **5** — As above, plus articulates the self-reinforcing trap the chapter creates: the denial pattern the analogies establish is precisely the psychological barrier to meeting the higher burden of proof the disanalogy requires — the two halves of the argument reinforce each other into a coherent diagnosis. *Example: Adds "There's a painful loop: the analogies show that humans are reliably bad at believing unthinkable disasters can happen — and the disanalogy shows that with ASI, that belief failure would be fatal. The denial pattern isn't just one problem among many; it's the specific barrier to meeting the one-chance problem correctly. The chapter uses the historical cases to prove we are susceptible to exactly the error that would kill us when the stakes are total."*
 
 ## Lens:
-source:: {--{"author":"AI","timestamp":1779118940122}@@![[../Lenses/IABIED--}{++{"author":"AI","timestamp":1779118940122}@@[[../Lenses/IABIED++} - The One-Chance Problem - PQ]]
+source:: [[../Lenses/IABIED - The One-Chance Problem - PQ]]
 
 ## Lens:
-source:: {--{"author":"AI","timestamp":1779118940122}@@![[../Lenses/IABIED--}{++{"author":"AI","timestamp":1779118940122}@@[[../Lenses/IABIED++} - The One-Chance Problem]]{--{"author":"AI","timestamp":1779118940122}@@
-
-## Lens:
-optional:: true
-source:: ![[../Lenses/IABIED - QA - Early Warnings]]
-
-## Lens:
-optional:: true
-source:: ![[../Lenses/IABIED - QA - Fear-Mongering by AI Leaders]]
-
-## Lens:
-optional:: true
-source:: ![[../Lenses/IABIED - QA - Should We Panic]]
-
-## Lens:
-optional:: true
-source:: ![[../Lenses/IABIED - QA - Isn't AI Different from Nuclear Reactors]]--}
+source:: [[../Lenses/IABIED - The One-Chance Problem]]
