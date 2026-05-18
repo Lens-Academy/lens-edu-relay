@@ -1,7 +1,7 @@
 ---
 id: cb8c2708-aa74-4ff3-b1c7-7a611b41bc85
-summary_for_tutor: {--{"author":"AI","timestamp":1779118691465}@@"Sets--}{++{"author":"AI","timestamp":1779118691465}@@Sets++} up the Chernobyl and Titanic analogies by prompting the student to reflect on how humans learn from disasters — and what conditions would make that process impossible. Activates intuitions about disaster response before the chapter introduces the one-chance {--{"author":"AI","timestamp":1779118691465}@@problem."--}{++{"author":"AI","timestamp":1779118691465}@@problem.++}
-title: {--{"author":"AI","timestamp":1779118691465}@@"Pre-Reading--}{++{"author":"AI","timestamp":1779118691465}@@Pre-Reading++} Question - The One-Chance {--{"author":"AI","timestamp":1779118691465}@@Problem"--}{++{"author":"AI","timestamp":1779118691465}@@Problem++}
+summary_for_tutor: "Sets up the Chernobyl and Titanic analogies by prompting the student to reflect on how humans learn from disasters — and what conditions would make that process impossible. Activates intuitions about disaster response before the chapter introduces the one-chance problem."
+title: "Pre-Reading Question - The One-Chance Problem"
 tldr: Before reading, reflect on how humans actually respond to disasters — and when that response can't work.
 authors:
   - Chris+Claude
