@@ -2,7 +2,7 @@
 id: aa73a0bd-20e5-4a05-90f0-76d7d7eebe32
 summary_for_tutor: "Covers the second section of Chapter 12: why the ladder-in-the-dark framing shows that uncertainty about the fatal rung doesn't protect against predictable collective disaster. Students should be able to trace the argument from individual incentives to collective outcome, name the three actor types, and connect to the CERN contrast."
 title: "Ladder in the Dark"
-tldr: {--{"author":"AI","timestamp":1779118695996}@@"Every--}{++{"author":"AI","timestamp":1779118695996}@@Every++} AI company is climbing a ladder in the dark. Nobody knows which rung is the last safe one. The chapter argues that not knowing doesn't help — and explains {--{"author":"AI","timestamp":1779118695996}@@why."--}{++{"author":"AI","timestamp":1779118695996}@@why.++}
+tldr: "Every AI company is climbing a ladder in the dark. Nobody knows which rung is the last safe one. The chapter argues that not knowing doesn't help — and explains why."
 authors:
   - Chris+Claude
 tags:
@@ -60,13 +60,13 @@ What not to do:
 - Introduce ideas not present in the reading.
 - Invite further dialogue.
 
-This is a one-turn response. Do not ask a question or suggest the student reply. {--{"author":"AI","timestamp":1779118945290}@@Tell them to--}{++{"author":"AI","timestamp":1779118945290}@@They will++} move on to the next {--{"author":"AI","timestamp":1779118945290}@@step.
+This is a one-turn response. Do not ask a question or suggest the student reply. Tell them to move on to the next step.
 
------}{++{"author":"AI","timestamp":1779118945290}@@step automatically.++}
+---
 
-{++{"author":"AI","timestamp":1779118945290}@@#### Text
+#### Text
 content::
-++}\## Phase 2: Processing
+\## Phase 2: Processing
 Take 2 minutes to jot down how the reading landed. What resonated? What confused you? What did you doubt or push back on? No need to organize — just capture your reaction. Using the speech to text feature is recommended.
 
 #### Chat
@@ -99,7 +99,7 @@ What not to do:
 - Resolve confusion with a mini-lecture.
 - Agree or disagree with the student's skepticism — articulate it precisely, don't adjudicate it.
 - Let this run more than 2 tutor turns.
-- Start resolving the learning outcome question — that is {--{"author":"AI","timestamp":1779118952624}@@Phase--}{++{"author":"AI","timestamp":1779118952624}@@Context++} 3's job.
+- Start resolving the learning outcome question — that is Phase 3's job.
 
 {--{"author":"AI","timestamp":1779118952624}@@---
 
