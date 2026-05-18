@@ -25,7 +25,7 @@ Chapter 12 opens with Thomas Midgley Jr., who invented both leaded gasoline and 
 Chapter 13 lays out the concrete policy proposal: a worldwide halt on frontier AI development, enforced through GPU consolidation, international monitoring, and treaty mechanisms. The WWII mobilization serves as the central analogy — "not even 1% as costly as WWII."
 
 Chapter 14 ends on a note of qualified hope, invoking the nuclear war precedent: humanity has chosen not to die before. The closing words offer a prayer: "May we be wrong, and shamed for how incredibly wrong we were."
-
+%%
 **This week's reading:** Chapter 12 ("I Don't Want to Be Alarmist") + Chapter 13 ("Shut It Down") + Chapter 14 ("Where There's Life, There's Hope") + Closing Words. After reading, come back here to discuss with the tutor.
 
 #### Chat
@@ -60,15 +60,6 @@ source:: ![[../Learning Outcomes/IABIED - Compare the Chernobyl and Titanic Anal
 
 # Learning Outcome: IABIED - Apply the Ladder-in-the-Dark Framing
 source:: ![[../Learning Outcomes/IABIED - Apply the Ladder-in-the-Dark Framing]]
-
-# Learning Outcome: IABIED - Perverse Incentives and Institutional Failure
-source:: ![[../Learning Outcomes/IABIED - Perverse Incentives and Institutional Failure]]
-
-# Learning Outcome: IABIED - The Case for Shutting It Down
-source:: ![[../Learning Outcomes/IABIED - The Case for Shutting It Down]]
-
-# Learning Outcome: IABIED - Where There's Life, There's Hope
-source:: ![[../Learning Outcomes/IABIED - Where There's Life, There's Hope]]
 
 # Lens: Overview of Optional Resources
 id:: d4e5f6a7-8b9c-4d0e-1f2a-3b4c5d6e7f8a
