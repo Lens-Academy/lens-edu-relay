@@ -2,7 +2,7 @@
 id: 45167504-3f3c-4d1c-9547-42ec3302bacc
 summary_for_tutor: "Covers the first section of Chapter 12: how Chernobyl and Titanic establish the human denial pattern, and why the one-chance disanalogy makes that pattern fatal in the ASI context. Students should be able to explain what each analogy contributes to the argument and why 'no second time' changes the logic of acting under uncertainty."
 title: "The One-Chance Problem"
-tldr: {--{"author":"AI","timestamp":1779118694836}@@"What--}{++{"author":"AI","timestamp":1779118694836}@@What++} do a 1912 shipwreck and a 1986 nuclear meltdown tell us about how humans treat risks they can't quite believe in — and what changes when there is no second chance to {--{"author":"AI","timestamp":1779118694836}@@learn?"--}{++{"author":"AI","timestamp":1779118694836}@@learn?++}
+tldr: "What do a 1912 shipwreck and a 1986 nuclear meltdown tell us about how humans treat risks they can't quite believe in — and what changes when there is no second chance to {--{"author":"AI","timestamp":1779118694836}@@learn?"--}{++{"author":"AI","timestamp":1779118694836}@@learn?++}
 authors:
   - Chris+Claude
 tags:
