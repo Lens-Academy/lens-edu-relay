@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779115995215}@@---
+---
 id: 057e2d7c-1364-4436-a5d6-4d4799f31a0a
 learning-outcome: "Compare the Chernobyl and Titanic analogies as Chapter 12 deploys them: explain what each case contributes to the argument that humans struggle to believe in unthinkable disasters, and identify the critical disanalogy between those historical cases and an ASI failure that the chapter treats as decisive."
 reading-from: "beginning of chapter"
@@ -54,4 +54,4 @@ source:: ![[../Lenses/IABIED - QA - Should We Panic]]
 
 ## Lens:
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Isn't AI Different from Nuclear Reactors]]++}
+source:: ![[../Lenses/IABIED - QA - Isn't AI Different from Nuclear Reactors]]

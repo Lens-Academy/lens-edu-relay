@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779116018253}@@---
+---
 id: e7a6096d-ef44-4f48-b2d1-53307f8d99ee
 learning-outcome: "Apply the ladder-in-the-dark framing to explain why uncertainty about the fatal rung does not protect against predictable disaster: trace the chapter's argument that if climbing cannot be stopped while uncertainty remains, death is a predictable collective outcome, even though no specific rung can be identified as lethal in advance."
 reading-from: "An AI company executive who says there's only a one-in-five chance that the AI they're building will kill literally everyone (as they do) is not in quite as much denial as the Soviet managers who denied the Chernobyl meltdown after it happened."
@@ -54,4 +54,4 @@ source:: ![[../Lenses/IABIED - QA - Rush Ahead Good Guys]]
 
 ## Lens:
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Can Technology Be Stopped]]++}
+source:: ![[../Lenses/IABIED - QA - Can Technology Be Stopped]]
