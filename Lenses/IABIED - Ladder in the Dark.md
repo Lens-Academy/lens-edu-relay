@@ -2,7 +2,7 @@
 id: aa73a0bd-20e5-4a05-90f0-76d7d7eebe32
 summary_for_tutor: "Covers the second section of Chapter 12: why the ladder-in-the-dark framing shows that uncertainty about the fatal rung doesn't protect against predictable collective disaster. Students should be able to trace the argument from individual incentives to collective outcome, name the three actor types, and connect to the CERN contrast."
 title: "Ladder in the Dark"
-tldr: "Every AI company is climbing a ladder in the dark. Nobody knows which rung is the last safe one. The chapter argues that not knowing doesn't help — and explains why."
+tldr: {--{"author":"AI","timestamp":1779118695996}@@"Every--}{++{"author":"AI","timestamp":1779118695996}@@Every++} AI company is climbing a ladder in the dark. Nobody knows which rung is the last safe one. The chapter argues that not knowing doesn't help — and explains {--{"author":"AI","timestamp":1779118695996}@@why."--}{++{"author":"AI","timestamp":1779118695996}@@why.++}
 authors:
   - Chris+Claude
 tags:
