@@ -37,10 +37,10 @@ Score according to the following rubric.
 **5** — As above, plus articulates the self-reinforcing trap the chapter creates: the denial pattern the analogies establish is precisely the psychological barrier to meeting the higher burden of proof the disanalogy requires — the two halves of the argument reinforce each other into a coherent diagnosis. *Example: Adds "There's a painful loop: the analogies show that humans are reliably bad at believing unthinkable disasters can happen — and the disanalogy shows that with ASI, that belief failure would be fatal. The denial pattern isn't just one problem among many; it's the specific barrier to meeting the one-chance problem correctly. The chapter uses the historical cases to prove we are susceptible to exactly the error that would kill us when the stakes are total."*
 
 ## Lens:
-source:: ![[../Lenses/IABIED - The One-Chance Problem - PQ]]
+source:: {--{"author":"AI","timestamp":1779118940122}@@![[../Lenses/IABIED--}{++{"author":"AI","timestamp":1779118940122}@@[[../Lenses/IABIED++} - The One-Chance Problem - PQ]]
 
 ## Lens:
-source:: ![[../Lenses/IABIED - The One-Chance Problem]]
+source:: {--{"author":"AI","timestamp":1779118940122}@@![[../Lenses/IABIED--}{++{"author":"AI","timestamp":1779118940122}@@[[../Lenses/IABIED++} - The One-Chance Problem]]{--{"author":"AI","timestamp":1779118940122}@@
 
 ## Lens:
 optional:: true
@@ -56,4 +56,4 @@ source:: ![[../Lenses/IABIED - QA - Should We Panic]]
 
 ## Lens:
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Isn't AI Different from Nuclear Reactors]]
+source:: ![[../Lenses/IABIED - QA - Isn't AI Different from Nuclear Reactors]]--}

@@ -37,10 +37,10 @@ Score according to the following rubric.
 **5** — As above, plus connects to the CERN comparison the chapter uses to close: CERN spent 10 years calculating whether the LHC could destroy the Earth before proceeding, which illustrates what appropriate epistemic caution under existential uncertainty looks like — and the contrast reveals that AI development has no equivalent pause-and-calculate mechanism. *Example: Adds "The CERN comparison clarifies the counterfactual. Physicists delayed the LHC a decade while they verified it couldn't destroy the world. That's the appropriate model for proceeding under existential uncertainty: pause and calculate until you can show it's safe. AI development has no equivalent process — there's no coordinated threshold, no verification requirement, no pause mechanism. The ladder keeps climbing because the competitive structure provides nothing to stop it."*
 
 ## Lens:
-source:: ![[../Lenses/IABIED - Ladder in the Dark - PQ]]
+source:: {--{"author":"AI","timestamp":1779118942605}@@![[../Lenses/IABIED--}{++{"author":"AI","timestamp":1779118942605}@@[[../Lenses/IABIED++} - Ladder in the Dark - PQ]]
 
 ## Lens:
-source:: ![[../Lenses/IABIED - Ladder in the Dark]]
+source:: {--{"author":"AI","timestamp":1779118942605}@@![[../Lenses/IABIED--}{++{"author":"AI","timestamp":1779118942605}@@[[../Lenses/IABIED++} - Ladder in the Dark]]{--{"author":"AI","timestamp":1779118942605}@@
 
 ## Lens:
 optional:: true
@@ -56,4 +56,4 @@ source:: ![[../Lenses/IABIED - QA - Rush Ahead Good Guys]]
 
 ## Lens:
 optional:: true
-source:: ![[../Lenses/IABIED - QA - Can Technology Be Stopped]]
+source:: ![[../Lenses/IABIED - QA - Can Technology Be Stopped]]--}
