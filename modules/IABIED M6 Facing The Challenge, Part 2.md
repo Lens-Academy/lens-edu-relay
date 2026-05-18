@@ -55,13 +55,13 @@ Discussion topics to explore:
 Ask what they found surprising or new. Check if they can explain the ladder-in-the-dark incentive problem in their own words — it's a key concept.
 
 %%
-# Learning Outcome: IABIED - {++{"author":"AI","timestamp":1779116179058}@@Compare the Chernobyl and Titanic Analogies
+# Learning Outcome: IABIED - Compare the Chernobyl and Titanic Analogies
 source:: ![[../Learning Outcomes/IABIED - Compare the Chernobyl and Titanic Analogies]]
 
 # Learning Outcome: IABIED - Apply the Ladder-in-the-Dark Framing
 source:: ![[../Learning Outcomes/IABIED - Apply the Ladder-in-the-Dark Framing]]
 
-# Learning Outcome: IABIED - ++}Perverse Incentives and Institutional Failure
+# Learning Outcome: IABIED - Perverse Incentives and Institutional Failure
 source:: ![[../Learning Outcomes/IABIED - Perverse Incentives and Institutional Failure]]
 
 # Learning Outcome: IABIED - The Case for Shutting It Down

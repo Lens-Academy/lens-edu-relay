@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779116150378}@@---
+---
 id: aa73a0bd-20e5-4a05-90f0-76d7d7eebe32
 summary_for_tutor: "Covers the second section of Chapter 12: why the ladder-in-the-dark framing shows that uncertainty about the fatal rung doesn't protect against predictable collective disaster. Students should be able to trace the argument from individual incentives to collective outcome, name the three actor types, and connect to the CERN contrast."
 title: "Ladder in the Dark"
@@ -170,4 +170,4 @@ content::
 
 ::card[[../Lenses/IABIED - QA - Can Technology Be Stopped]]
 
-> Addresses the pessimist question: is stopping the ladder even possible? Sets up the treaty argument in Chapter 13.++}
+> Addresses the pessimist question: is stopping the ladder even possible? Sets up the treaty argument in Chapter 13.
