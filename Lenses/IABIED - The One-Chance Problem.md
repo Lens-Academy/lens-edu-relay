@@ -57,7 +57,7 @@ What not to do:
 - Introduce ideas not present in the reading.
 - Invite further dialogue.
 
-This is a one-turn response. Do not ask a question or suggest the student reply. Tell them to move on to the next step.
+This is a one-turn response. Do not ask a question or suggest the student reply. {--{"author":"AI","timestamp":1779118944094}@@Tell them to--}{++{"author":"AI","timestamp":1779118944094}@@They will++} move on to the next {--{"author":"AI","timestamp":1779118944094}@@step.--}{++{"author":"AI","timestamp":1779118944094}@@step automatically.++}
 
 #### Text
 content::
@@ -94,7 +94,7 @@ What not to do:
 - Resolve confusion with a mini-lecture.
 - Agree or disagree with the student's skepticism — articulate it precisely, don't adjudicate it.
 - Let this run more than 2 tutor turns.
-- Start resolving the learning outcome question — that is Phase 3's job.
+- Start resolving the learning outcome question — that is {--{"author":"AI","timestamp":1779118951383}@@Phase--}{++{"author":"AI","timestamp":1779118951383}@@Context++} 3's job.
 
 #### Text
 content::

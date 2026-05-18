@@ -60,11 +60,13 @@ What not to do:
 - Introduce ideas not present in the reading.
 - Invite further dialogue.
 
-This is a one-turn response. Do not ask a question or suggest the student reply. Tell them to move on to the next step.
+This is a one-turn response. Do not ask a question or suggest the student reply. {--{"author":"AI","timestamp":1779118945290}@@Tell them to--}{++{"author":"AI","timestamp":1779118945290}@@They will++} move on to the next {--{"author":"AI","timestamp":1779118945290}@@step.
 
----
+-----}{++{"author":"AI","timestamp":1779118945290}@@step automatically.++}
 
-\## Phase 2: Processing
+{++{"author":"AI","timestamp":1779118945290}@@#### Text
+content::
+++}\## Phase 2: Processing
 Take 2 minutes to jot down how the reading landed. What resonated? What confused you? What did you doubt or push back on? No need to organize — just capture your reaction. Using the speech to text feature is recommended.
 
 #### Chat
@@ -97,11 +99,13 @@ What not to do:
 - Resolve confusion with a mini-lecture.
 - Agree or disagree with the student's skepticism — articulate it precisely, don't adjudicate it.
 - Let this run more than 2 tutor turns.
-- Start resolving the learning outcome question — that is Phase 3's job.
+- Start resolving the learning outcome question — that is {--{"author":"AI","timestamp":1779118952624}@@Phase--}{++{"author":"AI","timestamp":1779118952624}@@Context++} 3's job.
 
----
+{--{"author":"AI","timestamp":1779118952624}@@---
 
-\## Phase 3: Learning Question
+--}{++{"author":"AI","timestamp":1779118952624}@@#### Text
+content::
+++}\## Phase 3: Learning Question
 The chapter says AI executives who acknowledge a 20% chance of killing everyone keep building anyway. Is that irrational? Use the ladder-in-the-dark framing to explain whether their behavior makes sense — and what it implies about whether individuals can solve this problem on their own.
 
 #### Chat
