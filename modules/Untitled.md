@@ -49,7 +49,7 @@ to:: 1:50
 
 #### Text
 content::
-Our courses are free, by the way. We're funded by people who worry about the trajectory of AI, who think you should have a say about your own future.
+Our courses are free, by the way. We're funded by people worried about the trajectory of AI, who think you should have a say about your own future.
 # Lens: Myths about Superintelligent AI
 id:: 4c64a6f2-3971-4508-bf29-d1200ae82d43
 #### Text
