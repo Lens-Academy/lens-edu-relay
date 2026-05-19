@@ -65,26 +65,7 @@ This video was created in 2018. It's still highly relevant today. One thing has 
 id:: 211ae52b-4bde-493c-b087-4d6cb366d630
 #### Text
 content::
-You might be starting to think Lens Academy will only show you
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-shallow short-form videos.
+You might be starting to think Lens Academy will only show you shallow short-form videos.
 
 
 
