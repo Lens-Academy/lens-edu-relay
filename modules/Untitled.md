@@ -67,7 +67,7 @@ source:: [[../video_transcripts/minutephysics-myths-and-facts-about-superintelli
 to:: 3:46
 #### Text
 content::
-This video was created in 2018. It's still highly relevant today. One thing has dramatically changed, though: while the video said superintelligence is still decades away, recent AI progress has had experts change their estimates. Many now thing superintelligence is just years away.
+This video was created in 2018. It's still highly relevant today. One thing has dramatically changed, though: while the video said superintelligence is still decades away, recent AI progress has had experts change their estimates. Many now think superintelligence is just years away. Yikes.
 # Lens: Golem King
 id:: 211ae52b-4bde-493c-b087-4d6cb366d630
 #### Text
