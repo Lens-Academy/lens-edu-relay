@@ -42,6 +42,10 @@ to:: 2:16
 # Lens: Deepfakes
 id:: b412a3d6-4473-4378-a675-a1230eb9890a
 optional:: true
+
+#### Text
+content::
+By the way, we're a nonprofit. We don't have anything to sell you. We're here to help.
 #### Video
 source:: [[../video_transcripts/rational-animations-how-a-deepfake-may-have-undermined-an-election]]
 to:: 1:50
