@@ -18,7 +18,7 @@ We have several courses ranging from introductory to advanced. We've put togethe
 
 We'll start with watching some short videos and asking you some questions about them.
 
-
+A lot of people are talking about whether AI will take our jobs? Is this g
 
 #### Video
 source:: [[../video_transcripts/the-diary-of-a-ceo-your-job-will-be-gone-in-5-years]]
