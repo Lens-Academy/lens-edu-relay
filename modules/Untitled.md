@@ -53,9 +53,9 @@ Our courses are free, by the way. We're funded by people worried about the traje
 
 # Lens: How our Courses Work
 id:: 047b8740-7a31-495e-919c-269a56d0522d
-
 #### Text
-content
+content::
+If you sign up for one of our courses, We’ll set you up with a group based on your availability. Each week you’ll study the material with help from our AI Tutor. Then, you’ll meet online with your group for a discussion guided by one of our navigators — experienced volunteers who help you get the most out of the material.
 # Lens: Myths about Superintelligent AI
 id:: 4c64a6f2-3971-4508-bf29-d1200ae82d43
 #### Text
