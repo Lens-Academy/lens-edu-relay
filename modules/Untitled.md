@@ -61,7 +61,9 @@ Most courses last 6 weeks.
 
 Each week, you'll do approximately:
 - 1.5h group meeting
-- 1.5 
+- 1.5h reading articles
+- 0.5h watching videos
+- 1.5h 
 # Lens: Myths about Superintelligent AI
 id:: 4c64a6f2-3971-4508-bf29-d1200ae82d43
 #### Text
