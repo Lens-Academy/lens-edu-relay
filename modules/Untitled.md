@@ -81,11 +81,13 @@ We've handpicked some easy material to get started, but we'll allow you to go as
 We've got lectures, long-reads, and exercises for you, too.
 
 And if you want help understanding a complicated research paper, we've got you covered.
+
+But don't worry, we won't ov
 # Lens: 10 reasons
 id:: b2848dd4-5567-4dee-993a-fdb5f4fe2514\
 
 #### Text
-conten
+content::
 Before deciding whether you want to sign up for one of our courses, consider these ten reason why you shouldn't care about AI Safety (the field that works on preventing the risks from advanced AI):
 
 #### Video
