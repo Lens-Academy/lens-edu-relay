@@ -59,7 +59,7 @@ If you sign up for one of our courses, we’ll set you up with a group based on 
 
 Most courses last 6 weeks.
 
-Each week, you"
+Each week, you'll do approximately:
 # Lens: Myths about Superintelligent AI
 id:: 4c64a6f2-3971-4508-bf29-d1200ae82d43
 #### Text
