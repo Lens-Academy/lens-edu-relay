@@ -65,7 +65,7 @@ to:: 3:46
 
 #### Text
 content::
-This video was created in 2018. It's still highly rel
+This video was created in 2018. It's still highly relevant today. One thing has dramatically changed tho
 # Lens: Golem King
 id:: 211ae52b-4bde-493c-b087-4d6cb366d630
 #### Video
