@@ -82,7 +82,7 @@ We've got lectures, long-reads, and exercises for you, too.
 
 And if you want help understanding a complicated research paper, we've got you covered.
 
-But don't worry, we won't ov
+But don't worry, we won't overcomplicate things. We 
 # Lens: 10 reasons
 id:: b2848dd4-5567-4dee-993a-fdb5f4fe2514\
 
