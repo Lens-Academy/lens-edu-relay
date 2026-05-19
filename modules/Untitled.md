@@ -59,7 +59,7 @@ If you sign up for one of our courses, we’ll set you up with a group based on 
 
 Most of our courses last 6 weeks.
 
-Each week, you'll spend approximately do approximately:
+Each week, you'll spend about 5 hours, consisting of approximately:
 - 1.5h group meeting
 - 1.5h reading articles
 - 0.5h watching videos
