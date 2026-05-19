@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779133463642}@@---
+{++{"author":"AI","timestamp":1779174395321}@@---
 id: 91c8d723-f4b6-4e29-a015-7b3a0e8c2d54
 summary_for_tutor: "Teaches the WWII analogy and its response to the political-impossibility objection from Chapter 13, section 1. Students read the chapter's treaty proposal and WWII parable, then articulate how the analogy converts 'politically impossible' into a claim about human motivation — and answers it with historical precedent."
 title: "The WWII Analogy"
@@ -56,7 +56,7 @@ What not to do:
 - Introduce ideas not present in the reading.
 - Invite further dialogue.
 
-This is a one-turn response. Do not ask a question or suggest the student reply. They will move on to the next step automatically.
+This is a one-turn response. Do not ask a question or suggest the student reply. Tell them to move on to the next step.
 
 #### Text
 content::
@@ -93,7 +93,7 @@ What not to do:
 - Resolve confusion with a mini-lecture.
 - Agree or disagree with the student's skepticism — articulate it precisely, don't adjudicate it.
 - Let this run more than 2 tutor turns.
-- Start resolving the learning outcome question — that is Context 3's job.
+- Start resolving the learning outcome question — that is Phase 3's job.
 
 #### Text
 content::

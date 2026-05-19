@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779133495675}@@---
+{++{"author":"AI","timestamp":1779174397264}@@---
 id: 57b3e841-a9c0-4d16-f892-2e7b4f1c8a03
 summary_for_tutor: "Teaches the coalition strategy from Chapter 13, section 2. Students read the chapter's critique of lesser proposals and its argument that the anti-extinction coalition must stay narrow — one ask only, no bundling — and articulate the reasoning behind this constraint."
 title: "Coalition Strategy"
@@ -58,7 +58,7 @@ What not to do:
 - Introduce ideas not present in the reading.
 - Invite further dialogue.
 
-This is a one-turn response. Do not ask a question or suggest the student reply. They will move on to the next step automatically.
+This is a one-turn response. Do not ask a question or suggest the student reply. Tell them to move on to the next step.
 
 #### Text
 content::
@@ -95,7 +95,7 @@ What not to do:
 - Resolve confusion with a mini-lecture.
 - Agree or disagree with the student's skepticism — articulate it precisely, don't adjudicate it.
 - Let this run more than 2 tutor turns.
-- Start resolving the learning outcome question — that is Context 3's job.
+- Start resolving the learning outcome question — that is Phase 3's job.
 
 #### Text
 content::
