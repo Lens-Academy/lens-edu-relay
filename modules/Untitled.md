@@ -30,7 +30,7 @@ source:: [[../video_transcripts/the-diary-of-a-ceo-your-job-will-be-gone-in-5-ye
 to:: 1:13
 # Lens: Deepfakes
 id:: b412a3d6-4473-4378-a675-a1230eb9890a
-optional:: true
+
 #### Text
 content::
 By the way, we're a nonprofit. We don't have anything to sell you. We're here to help.
