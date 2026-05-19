@@ -74,7 +74,9 @@ to:: 2:16
 
 You might be starting to think Lens Academy will only show ever you shallow short-form videos. That's not the case.
 
-We've handpicked some easy material to get started, but we'll allow you to go as deep as y
+We've handpicked some easy material to get started, but we'll allow you to go as deep as you want.
+
+We've got lectures, long-reads, 
 # Lens:
 source:: ![[../Lenses/10 reasons]]
 # Lens:
