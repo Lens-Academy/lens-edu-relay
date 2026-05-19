@@ -84,17 +84,6 @@ You might be starting to think Lens Academy will only show you
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 shallow short-form videos.
 
 
