@@ -76,7 +76,9 @@ You might be starting to think Lens Academy will only show ever you shallow shor
 
 We've handpicked some easy material to get started, but we'll allow you to go as deep as you want.
 
-We've got lectures, long-reads, 
+We've got lectures, long-reads, and exercises for you, too.
+
+And if you want help 
 # Lens:
 source:: ![[../Lenses/10 reasons]]
 # Lens:
