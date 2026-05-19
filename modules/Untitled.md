@@ -74,7 +74,7 @@ to:: 2:16
 
 You might be starting to think Lens Academy will only show ever you shallow short-form videos. That's not the case.
 
-W
+We've handpicked some easy material to get started, 
 # Lens:
 source:: ![[../Lenses/10 reasons]]
 # Lens:
