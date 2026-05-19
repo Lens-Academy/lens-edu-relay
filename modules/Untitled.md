@@ -82,7 +82,10 @@ And if you want help understanding a complicated research paper, we've got you c
 # Lens:
 Before deciding whether you want to sign up for one of our courses, consider these ten reason why you shouldn't care about AI Safety (the field that works on preventing the risks from advanced AI):
 
-source:: ![[../Lenses/10 reasons]]
+#### Video
+source:: [[../video_transcripts/robertmiles-10-reasons-to-ignore-ai-safety]]
+from:: 0:00
+to:: 15:37
 # Lens:
 optional:: true
 source:: [[../Lenses/Four Background Claims]]
