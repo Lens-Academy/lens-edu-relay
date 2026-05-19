@@ -42,6 +42,19 @@ Watch this video:
 #### Video
 source:: [[../video_transcripts/rational-animations-how-a-deepfake-may-have-undermined-an-election]]
 to:: 1:50
+
+#### Text
+content::
+
+
+
+
+
+
+
+
+
+W
 # Lens: Myths about Superintelligent AI
 id:: 4c64a6f2-3971-4508-bf29-d1200ae82d43
 #### Video
