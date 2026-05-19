@@ -78,7 +78,7 @@ We've handpicked some easy material to get started, but we'll allow you to go as
 
 We've got lectures, long-reads, and exercises for you, too.
 
-And if you want help understanding a complicated resear
+And if you want help understanding a complicated research paper, we've got you covered.
 # Lens:
 source:: ![[../Lenses/10 reasons]]
 # Lens:
