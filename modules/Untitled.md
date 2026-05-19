@@ -18,8 +18,6 @@ We have several courses ranging from introductory to advanced. We've put togethe
 
 We're a nonprofit. We don't have anything to sell you. We're here to help.
 
-
-
 # Lens: Jobs
 id:: 8456f2ee-ac6d-408d-a475-e8a8edfc74cc
 #### Video
