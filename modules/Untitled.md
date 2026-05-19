@@ -61,7 +61,7 @@ Our courses are free, by the way. We're funded by people who worry about the tra
 id:: 4c64a6f2-3971-4508-bf29-d1200ae82d43
 #### Text
 content::
-What is intelligence anyway?
+What is intelligence anyway? What 
 #### Video
 source:: [[../video_transcripts/minutephysics-myths-and-facts-about-superintelligent-ai]]
 to:: 3:46
