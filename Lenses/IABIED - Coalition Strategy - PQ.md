@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779133400178}@@---
+---
 id: d8a14f39-6c02-4b58-e781-9f3c5d2a1b07
 summary_for_tutor: "Priming question before Chapter 13, section 2. Students consider how to build a coalition around a single-issue cause, setting up the chapter's argument that the anti-extinction coalition must keep its ask narrow and unbundled."
 title: "Pre-Reading Question - Coalition Strategy"
@@ -18,4 +18,4 @@ The student is about to read Chapter 13, section 2 of "If Anyone Builds It, Ever
 
 They just answered: "Should you bundle the anti-extinction cause with other AI-related concerns, or keep the ask narrow?"
 
-Acknowledge their answer in 1–2 sentences. Do NOT explain the chapter's coalition strategy, the bundling argument, or why the authors argue that keeping the coalition narrow is essential — they will encounter all of that in the reading. Close with: "Hold onto that intuition as you read. Head to Chapter 13 when you're ready — start at 'The solutions we've just proposed are a far cry from the policies that other concerned folks propose' and read to the end. Come back here when you're done."++}
+Acknowledge their answer in 1–2 sentences. Do NOT explain the chapter's coalition strategy, the bundling argument, or why the authors argue that keeping the coalition narrow is essential — they will encounter all of that in the reading. Close with: "Hold onto that intuition as you read. Head to Chapter 13 when you're ready — start at 'The solutions we've just proposed are a far cry from the policies that other concerned folks propose' and read to the end. Come back here when you're done."

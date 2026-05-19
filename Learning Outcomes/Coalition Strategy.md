@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779133379989}@@---
+---
 id: c3a91f47-8d52-4e6b-b187-5f0c9e4d2a68
 learning-outcome: "State the chapter's coalition strategy: what the anti-extinction coalition's ask must be limited to, what positions it must not bundle with that ask, and the reason the chapter gives for keeping the coalition narrow."
 reading-from: "The solutions we've just proposed are a far cry from the policies that other concerned folks propose."
@@ -34,4 +34,4 @@ Score according to the following rubric.
 source:: [[../Lenses/IABIED - Coalition Strategy - PQ]]
 
 ## Lens:
-source:: [[../Lenses/IABIED - Coalition Strategy]]++}
+source:: [[../Lenses/IABIED - Coalition Strategy]]

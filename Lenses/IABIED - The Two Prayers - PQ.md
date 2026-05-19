@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779138535879}@@---
+---
 id: d3e4f5a6-b7c8-9012-defa-123456789012
 summary_for_tutor: "Priming question before the Closing Words. Students consider whether they would prefer to be proven wrong about a serious prediction, setting up the authors' first prayer and the emotional positioning of the book's close."
 title: "Pre-Reading Question - The Two Prayers"
@@ -19,4 +19,3 @@ The student is about to read the Closing Words of "If Anyone Builds It, Everyone
 They just answered: "If you had predicted a catastrophe, would you prefer to be proven right or to be proven wrong — even if being wrong meant your work was ignored?"
 
 Acknowledge their answer in 1–2 sentences. Do NOT explain or preview the authors' two prayers or their answer to this question — they will encounter that in the reading. Close with: "Hold that in mind as you read. Head to the Closing Words when you're ready and come back here after you've finished."
-++}

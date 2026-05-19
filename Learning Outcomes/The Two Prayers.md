@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779138525502}@@---
+---
 id: b1c2d3e4-f5a6-7890-bcde-f01234567890
 learning-outcome: "Distinguish what each prayer asks of humanity: what would need to happen in the real world for the first prayer to be answered, and for the second?"
 reading-from: "beginning of chapter"
@@ -36,4 +36,3 @@ source:: [[../Lenses/IABIED - The Two Prayers - PQ]]
 
 ## Lens:
 source:: [[../Lenses/IABIED - The Two Prayers]]
-++}

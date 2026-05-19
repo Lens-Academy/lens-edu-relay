@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779138110216}@@---
+---
 id: 9f408d1e-0253-8486-1bac-23d4e5678901
 summary_for_tutor: "Teaches the concept of 'un-writing a fate already written' from the first section of Chapter 14. Students read the Vesna Vulović opening and the nuclear war precedent, then articulate why the chapter treats avoiding nuclear war as evidence that a seemingly predicted catastrophe can be actively reversed through sustained human effort."
 title: "Un-Writing Our Fate"
@@ -163,4 +163,3 @@ content::
 ::card[[../Lenses/IABIED - QA - Shut Down Global AI Development]]
 
 > Examines the practical feasibility of the shutdown argument — extends the chapter's nuclear precedent analogy to concrete questions about implementation.
-++}

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779138146273}@@---
+---
 id: 0a519e2f-1364-9597-2cbd-34e5f6789012
 summary_for_tutor: "Teaches the chapter's role-specific calls to action from the second section of Chapter 14. Students read the calls to governments, elected officials, skeptical politicians, journalists, and ordinary citizens, then distinguish the specific levers each group holds that the others cannot provide."
 title: "Role-Specific Action"
@@ -165,4 +165,3 @@ content::
 ::card[[../Lenses/IABIED - QA - Shut Down Global AI Development]]
 
 > Examines the feasibility of the worldwide halt the chapter advocates — extends the chapter's policy argument into practical questions about implementation.
-++}
