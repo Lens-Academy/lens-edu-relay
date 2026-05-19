@@ -52,7 +52,10 @@ content::
 Our courses are free, by the way. We're funded by people worried about the trajectory of AI, who think you should have a say about your own future.
 
 # Lens: How our Courses Work
-id:: 
+id:: 047b8740-7a31-495e-919c-269a56d0522d
+
+#### Text
+content
 # Lens: Myths about Superintelligent AI
 id:: 4c64a6f2-3971-4508-bf29-d1200ae82d43
 #### Text
