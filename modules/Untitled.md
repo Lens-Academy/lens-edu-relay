@@ -8,6 +8,12 @@ tags:
   - work-in-progress
 ---
 
+# Lens: Welcome
+id:: 165778a5-70eb-4800-a29a-3d23160a691f
+#### Text
+content::
+Hi, and welcome to Lens Academy. We have several 
+We begin by examining the potential of AI and the risks and opportunities that the characteristics of this technology present to humanity.
 # Lens: Jobs
 id:: 8456f2ee-ac6d-408d-a475-e8a8edfc74cc
 #### Video
