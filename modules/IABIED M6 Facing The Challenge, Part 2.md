@@ -55,28 +55,30 @@ Discussion topics to explore:
 Ask what they found surprising or new. Check if they can explain the ladder-in-the-dark incentive problem in their own words — it's a key concept.
 
 %%
-# Learning Outcome: IABIED - Compare the Chernobyl and Titanic Analogies
-source:: ![[../Learning Outcomes/IABIED - Compare the Chernobyl and Titanic Analogies]]
+# {++{"author":"AI","timestamp":1779174369210}@@Submodule: Chapter 12: I Don't Want to Be Alarmist
+## ++}Learning Outcome: IABIED - Compare the Chernobyl and Titanic Analogies
+source:: {--{"author":"AI","timestamp":1779174369210}@@![[../Learning--}{++{"author":"AI","timestamp":1779174369210}@@[[../Learning++} Outcomes/IABIED - Compare the Chernobyl and Titanic Analogies]]
 
-# Learning Outcome: IABIED - Apply the Ladder-in-the-Dark Framing
-source:: ![[../Learning Outcomes/IABIED - Apply the Ladder-in-the-Dark Framing]]
+{--{"author":"AI","timestamp":1779174369210}@@#--}{++{"author":"AI","timestamp":1779174369210}@@##++} Learning Outcome: IABIED - Apply the Ladder-in-the-Dark Framing
+source:: {--{"author":"AI","timestamp":1779174369210}@@![[../Learning--}{++{"author":"AI","timestamp":1779174369210}@@[[../Learning++} Outcomes/IABIED - Apply the Ladder-in-the-Dark Framing]]
 
-# {++{"author":"AI","timestamp":1779133511165}@@Learning Outcome: IABIED - The WWII Analogy
-source:: ![[../Learning Outcomes/IABIED - The WWII Analogy]]
+# {++{"author":"AI","timestamp":1779174369210}@@Submodule: Chapter 13: Shut It Down
+## Learning Outcome: IABIED - Explain the WWII Analogy
+source:: [[../Learning Outcomes/IABIED - Explain the WWII Analogy]]
 
-# Learning Outcome: IABIED - Coalition Strategy
-source:: ![[../Learning Outcomes/IABIED - Coalition Strategy]]
+## Learning Outcome: IABIED - State the Coalition Strategy
+source:: [[../Learning Outcomes/IABIED - State the Coalition Strategy]]
 
-# ++}{++{"author":"AI","timestamp":1779138160536}@@Submodule: Chapter 14: Where There's Life, There's Hope
-## Learning Outcome: IABIED - Un-Writing Our Fate
-source:: [[../Learning Outcomes/Un-Writing Our Fate]]
+# Submodule: Chapter 14: Where There's Life, There's Hope
+## Learning Outcome: IABIED - State Un-Writing Our Fate
+source:: [[../Learning Outcomes/IABIED - State Un-Writing Our Fate]]
 
-## Learning Outcome: IABIED - Role-Specific Action
-source:: [[../Learning Outcomes/Role-Specific Action]]
+## Learning Outcome: IABIED - Distinguish Role-Specific Calls to Action
+source:: [[../Learning Outcomes/IABIED - Distinguish Role-Specific Calls to Action]]
 
-# ++}{++{"author":"AI","timestamp":1779138600021}@@Submodule: Closing Words
-## Learning Outcome: IABIED - The Two Prayers
-source:: [[../Learning Outcomes/The Two Prayers]]
+# Submodule: Closing Words
+## Learning Outcome: IABIED - Distinguish the Two Prayers
+source:: [[../Learning Outcomes/IABIED - Distinguish the Two Prayers]]
 
 # ++}Lens: Overview of Optional Resources
 id:: d4e5f6a7-8b9c-4d0e-1f2a-3b4c5d6e7f8a
