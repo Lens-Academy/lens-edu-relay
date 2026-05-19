@@ -28,6 +28,10 @@ Watch this video:
 #### Video
 source:: [[../video_transcripts/the-diary-of-a-ceo-your-job-will-be-gone-in-5-years]]
 to:: 1:13
+
+#### Text
+content::
+In our courses, we teach you everything you need to know about how AI works, to figure out what's going to happen with your job, and when.
 # Lens: Deepfakes
 id:: b412a3d6-4473-4378-a675-a1230eb9890a
 #### Text
@@ -45,7 +49,7 @@ to:: 1:50
 
 #### Text
 content::
-In our courses, we teach you everything you need to know about how AI works, to figure out what's going to happen with your job, and when.
+
 
 Our courses are free, by the way. We're funded by people who worry about the trajectory of AI, who think you should have a say about your own future.
 # Lens: Myths about Superintelligent AI
