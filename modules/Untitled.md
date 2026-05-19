@@ -12,7 +12,12 @@ tags:
 id:: 165778a5-70eb-4800-a29a-3d23160a691f
 #### Text
 content::
-Hi, and welcome to Lens Academy. We have several courses ranging from introductory to advanced
+Hi, and welcome to Lens Academy. We have several courses ranging from introductory to advanced. We've put together this taster module,
+
+We have a bunch of different courses, and we’ll help you figure out which course is right for
+  > you. But we think it’s valuable for you to get a little taste of how our courses work first,
+  > so let’s get started with a taster module right away.
+
 We begin by examining the potential of AI and the risks and opportunities that the characteristics of this technology present to humanity.
 # Lens: Jobs
 id:: 8456f2ee-ac6d-408d-a475-e8a8edfc74cc
