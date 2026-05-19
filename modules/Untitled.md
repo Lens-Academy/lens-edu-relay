@@ -80,7 +80,8 @@ We've got lectures, long-reads, and exercises for you, too.
 
 And if you want help understanding a complicated research paper, we've got you covered.
 # Lens:
-Before deciding whether you want to sign up for one of our courses, consider these ten reason why you shouldn't care about AI Safety (the field )
+Before deciding whether you want to sign up for one of our courses, consider these ten reason why you shouldn't care about AI Safety (the field that works on preventing the risks from advanced AI):
+
 source:: ![[../Lenses/10 reasons]]
 # Lens:
 optional:: true
