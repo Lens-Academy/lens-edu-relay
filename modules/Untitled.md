@@ -72,7 +72,9 @@ Watch this video:
 source:: [[../video_transcripts/rational-animations-can-the-king-truly-trust-the-golem-SHORT]]
 to:: 2:16
 
-You might be starting to think Lens Academy will only show ever you shallow short-form videos.
+You might be starting to think Lens Academy will only show ever you shallow short-form videos. That's not the case.
+
+W
 # Lens:
 source:: ![[../Lenses/10 reasons]]
 # Lens:
