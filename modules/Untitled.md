@@ -17,14 +17,14 @@ Hi, and welcome to Lens Academy.
 We have several courses ranging from introductory to advanced. We've put together this taster module to get you a sense of how our courses work. Afterward, we'll help you figure out if any of our courses are the right fit for you.
 
 We'll start with watching some short videos and asking you some questions about them.
-
-
-
 # Lens: Jobs
 id:: 8456f2ee-ac6d-408d-a475-e8a8edfc74cc
 #### Video
 source:: [[../video_transcripts/the-diary-of-a-ceo-your-job-will-be-gone-in-5-years]]
 to:: 1:13
+
+# Lens: Welcome
+We're a nonprofit. We don't have anything to sell you. We're here to help.
 # Lens: Myths about Superintelligent AI
 id:: 4c64a6f2-3971-4508-bf29-d1200ae82d43
 #### Video
