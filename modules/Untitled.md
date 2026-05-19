@@ -72,7 +72,7 @@ This video was created in 2018. It's still highly relevant today. One thing has 
 id:: 211ae52b-4bde-493c-b087-4d6cb366d630
 #### Text
 content::
-Can we trust AI? Can we even every know whether we can trust AI?
+Can we trust AI? Can we ever even know whether we can trust AI?
 
 Watch this video:
 #### Video
