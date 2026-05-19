@@ -18,6 +18,8 @@ We have several courses ranging from introductory to advanced. We've put togethe
 
 We'll start with watching some short videos and asking you some questions about them.
 
+
+
 #### Video
 source:: [[../video_transcripts/the-diary-of-a-ceo-your-job-will-be-gone-in-5-years]]
 to:: 1:13
@@ -31,6 +33,8 @@ By the way, we're a nonprofit. We don't have anything to sell you. We're here to
 You know what's not here to help?
 
 Deep fakes.
+
+Watch this video:
 #### Video
 source:: [[../video_transcripts/rational-animations-how-a-deepfake-may-have-undermined-an-election]]
 to:: 1:50
