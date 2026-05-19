@@ -27,7 +27,7 @@ to:: 1:13
 id:: 771de036-fcf1-4ae0-bbc6-34ac1c2e8139
 #### Text
 content::
-We're a nonprofit. We don't have anything to sell you. We're here to help.
+By the way, we're a nonprofit. We don't have anything to sell you. We're here to help.
 # Lens: Myths about Superintelligent AI
 id:: 4c64a6f2-3971-4508-bf29-d1200ae82d43
 #### Video
