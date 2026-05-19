@@ -18,6 +18,10 @@ We have several courses ranging from introductory to advanced. We've put togethe
 
 We'll start with watching some short videos.
 # Lens: Job Loss
+id:: 25812ebe-e065-4d1c-86b5-5684efc97a53
+
+#### Text
+content::
 A lot of people are talking about whether AI is coming for our jobs. Is this going to happen, or is this just marketing hype?
 
 Watch this video:
