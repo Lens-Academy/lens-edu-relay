@@ -18,6 +18,7 @@ We have several courses ranging from introductory to advanced. We've put togethe
 
 We'll start with watching some short videos and asking you some questions about them.
 
+# Lens: Welcome
 A lot of people are talking about whether AI is coming for our jobs. Is this going to happen, or is this just marketing hype?
 
 Watch this video:
