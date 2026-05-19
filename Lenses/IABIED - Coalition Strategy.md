@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779174397264}@@---
+---
 id: 57b3e841-a9c0-4d16-f892-2e7b4f1c8a03
 summary_for_tutor: "Teaches the coalition strategy from Chapter 13, section 2. Students read the chapter's critique of lesser proposals and its argument that the anti-extinction coalition must stay narrow — one ask only, no bundling — and articulate the reasoning behind this constraint."
 title: "Coalition Strategy"
@@ -161,4 +161,4 @@ content::
 
 ::card[[../Lenses/IABIED - QA - Avoid Talking About Extinction]]
 
-> Explores why AI safety advocates often conceal their real concerns — the failure mode this section directly critiques and that the coalition strategy is designed to avoid.++}
+> Explores why AI safety advocates often conceal their real concerns — the failure mode this section directly critiques and that the coalition strategy is designed to avoid.

@@ -55,14 +55,14 @@ Discussion topics to explore:
 Ask what they found surprising or new. Check if they can explain the ladder-in-the-dark incentive problem in their own words — it's a key concept.
 
 %%
-# {++{"author":"AI","timestamp":1779174369210}@@Submodule: Chapter 12: I Don't Want to Be Alarmist
-## ++}Learning Outcome: IABIED - {--{"author":"AI","timestamp":1779175088587}@@Compare the Chernobyl and Titanic Analogies--}{++{"author":"AI","timestamp":1779175088587}@@The One-Chance Problem++}
-source:: {--{"author":"AI","timestamp":1779174369210}@@![[../Learning--}{++{"author":"AI","timestamp":1779174369210}@@[[../Learning++} {--{"author":"AI","timestamp":1779175088587}@@Outcomes/IABIED - Compare the Chernobyl and Titanic Analogies]]--}{++{"author":"AI","timestamp":1779175088587}@@Outcomes/The One-Chance Problem]]++}
+# Submodule: Chapter 12: I Don't Want to Be Alarmist
+## Learning Outcome: IABIED - The One-Chance Problem
+source:: [[../Learning Outcomes/The One-Chance Problem]]
 
-{--{"author":"AI","timestamp":1779174369210}@@#--}{++{"author":"AI","timestamp":1779174369210}@@##++} Learning Outcome: IABIED - {--{"author":"AI","timestamp":1779175088587}@@Apply the Ladder-in-the-Dark Framing--}{++{"author":"AI","timestamp":1779175088587}@@Ladder in the Dark++}
-source:: {--{"author":"AI","timestamp":1779174369210}@@![[../Learning--}{++{"author":"AI","timestamp":1779174369210}@@[[../Learning++}{--{"author":"AI","timestamp":1779175088587}@@ Outcomes/IABIED - Apply--}{++{"author":"AI","timestamp":1779175088587}@@ Outcomes/Ladder in++} the {--{"author":"AI","timestamp":1779175088587}@@Ladder-in-the-Dark Framing]]--}{++{"author":"AI","timestamp":1779175088587}@@Dark]]++}
+## Learning Outcome: IABIED - Ladder in the Dark
+source:: [[../Learning Outcomes/Ladder in the Dark]]
 
-# {++{"author":"AI","timestamp":1779175088587}@@Submodule: Chapter 13: Shut It Down
+# Submodule: Chapter 13: Shut It Down
 ## Learning Outcome: IABIED - The WWII Analogy
 source:: [[../Learning Outcomes/The WWII Analogy]]
 
@@ -80,7 +80,7 @@ source:: [[../Learning Outcomes/Role-Specific Action]]
 ## Learning Outcome: IABIED - The Two Prayers
 source:: [[../Learning Outcomes/The Two Prayers]]
 
-# ++}Lens: Overview of Optional Resources
+# Lens: Overview of Optional Resources
 id:: d4e5f6a7-8b9c-4d0e-1f2a-3b4c5d6e7f8a
 
 #### Text:

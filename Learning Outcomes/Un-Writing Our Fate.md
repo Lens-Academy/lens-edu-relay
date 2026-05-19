@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779137997676}@@---
+---
 id: 3f8a1b72-4c9d-4e20-b5a6-c7d8e9f01234
 learning-outcome: "State what the chapter means by 'un-writing a fate already written,' and identify the nuclear precedent it uses to show this is possible."
 reading-from: "beginning of chapter"
@@ -36,4 +36,3 @@ source:: [[../Lenses/IABIED - Un-Writing Our Fate - PQ]]
 
 ## Lens:
 source:: [[../Lenses/IABIED - Un-Writing Our Fate]]
-++}

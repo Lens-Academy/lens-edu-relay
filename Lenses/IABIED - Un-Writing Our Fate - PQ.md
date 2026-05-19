@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779138031576}@@---
+---
 id: 7d2e5fb6-8031-6264-f9ea-01b2c3456789
 summary_for_tutor: "Priming question before Chapter 14, section 1. Students consider whether a predicted catastrophic outcome can be reversed through deliberate action, setting up the chapter's nuclear war precedent and the concept of 'un-writing a fate already written.'"
 title: "Pre-Reading Question - Un-Writing Our Fate"
@@ -19,4 +19,3 @@ The student is about to read the first section of Chapter 14 ("Where There's Lif
 They just answered: "If a catastrophe seems genuinely likely — can deliberate human effort still un-write that outcome, or is a well-founded prediction the same as destiny?"
 
 Acknowledge their answer in 1–2 sentences. Do NOT explain or preview the chapter's nuclear war argument or the concept of "un-writing a fate already written" — they will encounter all of that in the reading. Close with: "Hold that question in mind as you read. Head to Chapter 14, section 1 when you're ready and come back here after you've finished."
-++}

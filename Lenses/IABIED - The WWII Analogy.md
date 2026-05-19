@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779174395321}@@---
+---
 id: 91c8d723-f4b6-4e29-a015-7b3a0e8c2d54
 summary_for_tutor: "Teaches the WWII analogy and its response to the political-impossibility objection from Chapter 13, section 1. Students read the chapter's treaty proposal and WWII parable, then articulate how the analogy converts 'politically impossible' into a claim about human motivation — and answers it with historical precedent."
 title: "The WWII Analogy"
@@ -159,4 +159,4 @@ content::
 
 ::card[[../Lenses/IABIED - QA - Elected Officials Recognize Threat]]
 
-> Addresses whether political leaders can come to understand the superintelligence threat — a prerequisite for the WWII analogy's motivational claim to apply.++}
+> Addresses whether political leaders can come to understand the superintelligence threat — a prerequisite for the WWII analogy's motivational claim to apply.

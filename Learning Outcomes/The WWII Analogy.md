@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779133363692}@@---
+---
 id: e7f2a831-4c65-4b9d-a023-8d1f6e2c7b34
 learning-outcome: "Explain how the chapter's WWII analogy responds to the objection that coordinating major powers on AI restriction is politically impossible: what specific feature of the WWII precedent does the chapter invoke, and what claim about human motivation does it rely on?"
 reading-from: "beginning of chapter"
@@ -34,4 +34,4 @@ Score according to the following rubric.
 source:: [[../Lenses/IABIED - The WWII Analogy - PQ]]
 
 ## Lens:
-source:: [[../Lenses/IABIED - The WWII Analogy]]++}
+source:: [[../Lenses/IABIED - The WWII Analogy]]

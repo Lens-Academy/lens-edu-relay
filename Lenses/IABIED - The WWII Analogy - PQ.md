@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779133392001}@@---
+---
 id: b4e93c71-2f85-4a17-d059-3c8e1b7f6a20
 summary_for_tutor: "Priming question before Chapter 13, section 1. Students consider whether large-scale international coordination is possible when survival is at stake, setting up the WWII Allied mobilization analogy and the political-impossibility objection."
 title: "Pre-Reading Question - The WWII Analogy"
@@ -18,4 +18,4 @@ The student is about to read Chapter 13, section 1 of "If Anyone Builds It, Ever
 
 They just answered: "Could major world powers coordinate to restrict AI development if they believed it was an existential threat?"
 
-Acknowledge their answer in 1–2 sentences. Do NOT explain the WWII analogy, the political-impossibility objection, or how the chapter responds to fatalism about international coordination — they will encounter all of that in the reading. Close with: "Hold onto that intuition as you read. Head to Chapter 13 when you're ready and stop when you reach 'But we don't know how else humanity could survive.' Come back here when you're done."++}
+Acknowledge their answer in 1–2 sentences. Do NOT explain the WWII analogy, the political-impossibility objection, or how the chapter responds to fatalism about international coordination — they will encounter all of that in the reading. Close with: "Hold onto that intuition as you read. Head to Chapter 13 when you're ready and stop when you reach 'But we don't know how else humanity could survive.' Come back here when you're done."

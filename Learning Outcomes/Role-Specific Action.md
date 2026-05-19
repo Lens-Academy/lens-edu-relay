@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779138014565}@@---
+---
 id: 5b0c3d94-6e1f-5042-d7c8-e9f0a1234567
 learning-outcome: "Distinguish between the chapter's calls to action for government leaders, for skeptical politicians, and for ordinary citizens: what specific levers does each group hold that the others do not?"
 reading-from: "So—how do we un-write our fate?"
@@ -36,4 +36,3 @@ source:: [[../Lenses/IABIED - Role-Specific Action - PQ]]
 
 ## Lens:
 source:: [[../Lenses/IABIED - Role-Specific Action]]
-++}
