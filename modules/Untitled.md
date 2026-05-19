@@ -12,7 +12,7 @@ tags:
 id:: 165778a5-70eb-4800-a29a-3d23160a691f
 #### Text
 content::
-Hi, and welcome to Lens Academy. We have several courses ranging from introductory to advanced. We've put together this taster module to get you a
+Hi, and welcome to Lens Academy. We have several courses ranging from introductory to advanced. We've put together this taster module to get you a sense of how 
 
 We have a bunch of different courses, and we’ll help you figure out which course is right for
   > you. But we think it’s valuable for you to get a little taste of how our courses work first,
