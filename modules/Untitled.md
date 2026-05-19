@@ -27,6 +27,10 @@ optional:: true
 #### Text
 content::
 By the way, we're a nonprofit. We don't have anything to sell you. We're here to help.
+
+You know what's not here to help?
+
+Deep fakes.
 #### Video
 source:: [[../video_transcripts/rational-animations-how-a-deepfake-may-have-undermined-an-election]]
 to:: 1:50
