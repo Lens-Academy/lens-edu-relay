@@ -21,11 +21,9 @@ We'll start with watching some short videos and asking you some questions about 
 #### Video
 source:: [[../video_transcripts/the-diary-of-a-ceo-your-job-will-be-gone-in-5-years]]
 to:: 1:13
-
 # Lens: Deepfakes
 id:: b412a3d6-4473-4378-a675-a1230eb9890a
 optional:: true
-
 #### Text
 content::
 By the way, we're a nonprofit. We don't have anything to sell you. We're here to help.
