@@ -5,7 +5,7 @@ slug-aliases: default
 title: Navigating Superintelligence
 ---
 
-# Module: [[../modules/introduction]]
+# Module: [[../modules/introduction-to-navigating-superintelligence]]
 
 # Meeting: Introduction
 # Meeting: 1
