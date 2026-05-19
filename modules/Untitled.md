@@ -56,7 +56,7 @@ content::
 
 In our courses, we teach you everything you need to know about how AI works, to figure out what's going to happen with your job, and when.
 
-Our courses are free, by the way. We're funded by people who worry about the future of the world, 
+Our courses are free, by the way. We're funded by people who worry about the trajectory of AI, who think you should
 # Lens: Myths about Superintelligent AI
 id:: 4c64a6f2-3971-4508-bf29-d1200ae82d43
 #### Video
