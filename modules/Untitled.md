@@ -14,7 +14,7 @@ id:: 165778a5-70eb-4800-a29a-3d23160a691f
 content::
 Hi, and welcome to Lens Academy. 
 
-We have several courses ranging from introductory to advanced. We've put together this taster module to get you a sense of how our courses work. Afterward, we'll help you figure out if any of our courses are the right fit for you.
+We offer several frcourses ranging from introductory to advanced. We've put together this taster module to get you a sense of how our courses work. Afterward, we'll help you figure out if any of our courses are the right fit for you.
 
 We'll start with watching some short videos.
 # Lens: Job Loss
@@ -30,7 +30,6 @@ source:: [[../video_transcripts/the-diary-of-a-ceo-your-job-will-be-gone-in-5-ye
 to:: 1:13
 # Lens: Deepfakes
 id:: b412a3d6-4473-4378-a675-a1230eb9890a
-
 #### Text
 content::
 By the way, we're a nonprofit. We don't have anything to sell you. We're here to help.
