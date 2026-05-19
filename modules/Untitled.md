@@ -16,9 +16,9 @@ Hi, and welcome to Lens Academy.
 
 We have several courses ranging from introductory to advanced. We've put together this taster module to get you a sense of how our courses work. Afterward, we'll help you figure out if any of our courses are the right fit for you.
 
-We'll start with watching some short videos and ask
+We'll start with watching some short videos and asking you some questions about them.
 
-We're a nonprofit. We don't have anything to sell you. We're here to help.
+
 
 # Lens: Jobs
 id:: 8456f2ee-ac6d-408d-a475-e8a8edfc74cc
