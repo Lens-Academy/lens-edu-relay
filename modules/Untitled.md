@@ -29,7 +29,6 @@ id:: 771de036-fcf1-4ae0-bbc6-34ac1c2e8139
 content::
 By the way, we're a nonprofit. We don't have anything to sell you. We're here to help.
 
-We're funded by people wh 
 # Lens: Myths about Superintelligent AI
 id:: 4c64a6f2-3971-4508-bf29-d1200ae82d43
 #### Video
