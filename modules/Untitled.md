@@ -61,7 +61,7 @@ Our courses are free, by the way. We're funded by people who worry about the tra
 id:: 4c64a6f2-3971-4508-bf29-d1200ae82d43
 #### Text
 content::
-What is intelligence anyway? What should we expect suprintelligent AI to be like?
+What is intelligence anyway? What should we expect superintelligent AI to be like?
 #### Video
 source:: [[../video_transcripts/minutephysics-myths-and-facts-about-superintelligent-ai]]
 to:: 3:46
