@@ -56,29 +56,29 @@ Ask what they found surprising or new. Check if they can explain the ladder-in-t
 
 %%
 # {++{"author":"AI","timestamp":1779174369210}@@Submodule: Chapter 12: I Don't Want to Be Alarmist
-## ++}Learning Outcome: IABIED - Compare the Chernobyl and Titanic Analogies
-source:: {--{"author":"AI","timestamp":1779174369210}@@![[../Learning--}{++{"author":"AI","timestamp":1779174369210}@@[[../Learning++} Outcomes/IABIED - Compare the Chernobyl and Titanic Analogies]]
+## ++}Learning Outcome: IABIED - {--{"author":"AI","timestamp":1779175088587}@@Compare the Chernobyl and Titanic Analogies--}{++{"author":"AI","timestamp":1779175088587}@@The One-Chance Problem++}
+source:: {--{"author":"AI","timestamp":1779174369210}@@![[../Learning--}{++{"author":"AI","timestamp":1779174369210}@@[[../Learning++} {--{"author":"AI","timestamp":1779175088587}@@Outcomes/IABIED - Compare the Chernobyl and Titanic Analogies]]--}{++{"author":"AI","timestamp":1779175088587}@@Outcomes/The One-Chance Problem]]++}
 
-{--{"author":"AI","timestamp":1779174369210}@@#--}{++{"author":"AI","timestamp":1779174369210}@@##++} Learning Outcome: IABIED - Apply the Ladder-in-the-Dark Framing
-source:: {--{"author":"AI","timestamp":1779174369210}@@![[../Learning--}{++{"author":"AI","timestamp":1779174369210}@@[[../Learning++} Outcomes/IABIED - Apply the Ladder-in-the-Dark Framing]]
+{--{"author":"AI","timestamp":1779174369210}@@#--}{++{"author":"AI","timestamp":1779174369210}@@##++} Learning Outcome: IABIED - {--{"author":"AI","timestamp":1779175088587}@@Apply the Ladder-in-the-Dark Framing--}{++{"author":"AI","timestamp":1779175088587}@@Ladder in the Dark++}
+source:: {--{"author":"AI","timestamp":1779174369210}@@![[../Learning--}{++{"author":"AI","timestamp":1779174369210}@@[[../Learning++}{--{"author":"AI","timestamp":1779175088587}@@ Outcomes/IABIED - Apply--}{++{"author":"AI","timestamp":1779175088587}@@ Outcomes/Ladder in++} the {--{"author":"AI","timestamp":1779175088587}@@Ladder-in-the-Dark Framing]]--}{++{"author":"AI","timestamp":1779175088587}@@Dark]]++}
 
-# {++{"author":"AI","timestamp":1779174369210}@@Submodule: Chapter 13: Shut It Down
-## Learning Outcome: IABIED - Explain the WWII Analogy
-source:: [[../Learning Outcomes/IABIED - Explain the WWII Analogy]]
+# {++{"author":"AI","timestamp":1779175088587}@@Submodule: Chapter 13: Shut It Down
+## Learning Outcome: IABIED - The WWII Analogy
+source:: [[../Learning Outcomes/The WWII Analogy]]
 
-## Learning Outcome: IABIED - State the Coalition Strategy
-source:: [[../Learning Outcomes/IABIED - State the Coalition Strategy]]
+## Learning Outcome: IABIED - Coalition Strategy
+source:: [[../Learning Outcomes/Coalition Strategy]]
 
 # Submodule: Chapter 14: Where There's Life, There's Hope
-## Learning Outcome: IABIED - State Un-Writing Our Fate
-source:: [[../Learning Outcomes/IABIED - State Un-Writing Our Fate]]
+## Learning Outcome: IABIED - Un-Writing Our Fate
+source:: [[../Learning Outcomes/Un-Writing Our Fate]]
 
-## Learning Outcome: IABIED - Distinguish Role-Specific Calls to Action
-source:: [[../Learning Outcomes/IABIED - Distinguish Role-Specific Calls to Action]]
+## Learning Outcome: IABIED - Role-Specific Action
+source:: [[../Learning Outcomes/Role-Specific Action]]
 
 # Submodule: Closing Words
-## Learning Outcome: IABIED - Distinguish the Two Prayers
-source:: [[../Learning Outcomes/IABIED - Distinguish the Two Prayers]]
+## Learning Outcome: IABIED - The Two Prayers
+source:: [[../Learning Outcomes/The Two Prayers]]
 
 # ++}Lens: Overview of Optional Resources
 id:: d4e5f6a7-8b9c-4d0e-1f2a-3b4c5d6e7f8a
