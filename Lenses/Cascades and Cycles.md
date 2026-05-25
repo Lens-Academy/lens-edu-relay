@@ -7,7 +7,7 @@ tldr: Writing didn't just help us keep records — it triggered a wave of civili
 #### Text
 content::
 Cybernetics is the study of systems whose output is used as their input: Successful investment produces funds which can then be invested again. There are negative feedback systems which hold themselves in equilibrium and positive feedback systems which multiply their output at each step. Hold this idea in mind as you read the following article about types of feedback as they pertain to intelligence.
-{>>{"author":"Luc","timestamp":1773239467657}@@Hello<<}
+
 #### Article
 source:: [[../articles/yudkowsky-cascades-cycles-insight]]
 from:: "Cascades are when"
@@ -15,7 +15,7 @@ to:: "neutron multiplication factor?_"
 
 #### Text
 content::
-What are the properties that make something a cycle rather than a cascade? Can you think of cycles that could form with regards to general intelligence?{>>{"author":"Luc","timestamp":1779695458483}@@testing comments<<}
+What are the properties that make something a cycle rather than a cascade? Can you think of cycles that could form with regards to general intelligence?
 #### Chat
 instructions::
 TLDR of what the user just read:
