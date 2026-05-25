@@ -15,7 +15,7 @@ to:: "neutron multiplication factor?_"
 
 #### Text
 content::
-What are the properties that make something a cycle rather than a cascade? Can you think of cycles that could form with regards to general intelligence?
+What are the properties that make something a cycle rather than a cascade? Can you think of cycles that could form with regards to general intelligence?{>>{"author":"Luc","timestamp":1779695458483}@@testing comments<<}
 #### Chat
 instructions::
 TLDR of what the user just read:
