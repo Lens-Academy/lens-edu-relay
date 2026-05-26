@@ -12,10 +12,10 @@ authors:
 
 # Module: [[../modules/Facilitator M1 Foundations]]
 
-# Module: [[../Facilitator Training Program/modules/Facilitator M2 How People Learn]]
+# Module: [[../modules/Facilitator M2 How People Learn]]
 
-# Module: [[../Facilitator Training Program/modules/Facilitator M3 Designing & Opening]]
+# Module: [[../modules/Facilitator M3 Designing & Opening]]
 
-# Module: [[../Facilitator Training Program/modules/Facilitator M4 Running the Session]]
+# Module: [[../modules/Facilitator M4 Running the Session]]
 
-# Module: [[../Facilitator Training Program/modules/Facilitator M5 Hard Moments, Coaching & Closing]]
+# Module: [[../modules/Facilitator M5 Hard Moments, Coaching & Closing]]

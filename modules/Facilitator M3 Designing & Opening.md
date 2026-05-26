@@ -15,27 +15,27 @@ tags:
 
 # Submodule: Welcome
 # Lens: M3 Welcome
-source:: ![[../Lenses/Facilitator - M3 Welcome]]
+source:: ![[../Facilitator Training Program/Lenses/Facilitator - M3 Welcome]]
 
 # Submodule: 3.1 - Prep discipline
 # Learning Outcome: Facilitator - Prep Discipline
-source:: ![[../Learning Outcomes/Facilitator - Prep Discipline]]
+source:: ![[../Facilitator Training Program/Learning Outcomes/Facilitator - Prep Discipline]]
 
 # Submodule: 3.2 - Diamond of Participation
 # Learning Outcome: Facilitator - Diamond of Participation
-source:: ![[../Learning Outcomes/Facilitator - Diamond of Participation]]
+source:: ![[../Facilitator Training Program/Learning Outcomes/Facilitator - Diamond of Participation]]
 
 # Submodule: 3.3 - Setting norms
 # Learning Outcome: Facilitator - Setting Norms
-source:: ![[../Learning Outcomes/Facilitator - Setting Norms]]
+source:: ![[../Facilitator Training Program/Learning Outcomes/Facilitator - Setting Norms]]
 
 # Submodule: 3.4 - Opening a session well
 # Learning Outcome: Facilitator - Opening a Session
-source:: ![[../Learning Outcomes/Facilitator - Opening a Session]]
+source:: ![[../Facilitator Training Program/Learning Outcomes/Facilitator - Opening a Session]]
 
 # Submodule: 3.5 - The online container
 # Learning Outcome: Facilitator - Online Container
-source:: ![[../Learning Outcomes/Facilitator - Online Container]]
+source:: ![[../Facilitator Training Program/Learning Outcomes/Facilitator - Online Container]]
 
 # Submodule: Dive Deeper
 # Lens: Overview of Optional Resources
