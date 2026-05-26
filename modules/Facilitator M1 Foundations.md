@@ -13,7 +13,7 @@ tags:
 
 # Submodule: Welcome
 # Lens: M1 Welcome
-source:: [[../Lenses/Facilitator - M1 Welcome]]
+source:: ![[../Lenses/Facilitator - M1 Welcome]]
 
 # Submodule: 1.1 - The core distinction
 # Learning Outcome: Facilitator - Teaching vs Facilitating
