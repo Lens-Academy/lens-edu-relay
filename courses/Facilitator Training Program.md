@@ -10,7 +10,7 @@ authors:
   - Yatharth+Claude
 ---
 
-# Module: [[../Facilitator Training Program/modules/Facilitator M1 Foundations]]
+# Module: [[../modules/Facilitator M1 Foundations]]
 
 # Module: [[../Facilitator Training Program/modules/Facilitator M2 How People Learn]]
 
