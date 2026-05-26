@@ -22,7 +22,7 @@ source:: ![[../Facilitator Training Program/Learning Outcomes/Facilitator - Scie
 
 # Submodule: 2.2 - The flipped classroom
 # Learning Outcome: Facilitator - Flipped Classroom
-source:: ![[../Facilitator Training Program/Learning Outcomes/Facilitator - Flipped Classroom]]
+source:: ![[../Learning Outcomes/Facilitator - Flipped Classroom]]
 
 # Submodule: 2.3 - Think-Pair-Share
 # Learning Outcome: Facilitator - Think-Pair-Share

@@ -21,7 +21,7 @@ source:: ![[../Facilitator Training Program/Learning Outcomes/Facilitator - Teac
 
 # Submodule: 1.2 - The mutual learning mindset
 # Learning Outcome: Facilitator - Mutual Learning Mindset
-source:: ![[../Facilitator Training Program/Learning Outcomes/Facilitator - Mutual Learning Mindset]]
+source:: ![[../Learning Outcomes/Facilitator - Mutual Learning Mindset]]
 
 # Submodule: 1.3 - What a facilitator isn't
 # Learning Outcome: Facilitator - What a Facilitator Isn't
