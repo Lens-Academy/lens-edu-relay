@@ -29,4 +29,4 @@ assessment-instructions::
 **5** — As above, plus identifies which "harder" item is the one they personally need to develop a workaround for first.
 
 ## Lens:
-source:: ![[../Facilitator Training Program/Lenses/Facilitator - Online Container]]
+source:: ![[../Lenses/Facilitator - Online Container]]
