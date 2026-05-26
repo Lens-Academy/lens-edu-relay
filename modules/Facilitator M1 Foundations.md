@@ -13,7 +13,7 @@ tags:
 
 # Submodule: Welcome
 # Lens: M1 Welcome
-source:: [[../Facilitator Training Program/Lenses/Facilitator - M1 Welcome]]
+source:: [[../Lenses/Facilitator - M1 Welcome]]
 
 # Submodule: 1.1 - The core distinction
 # Learning Outcome: Facilitator - Teaching vs Facilitating
@@ -33,4 +33,4 @@ source:: ![[../Learning Outcomes/Facilitator - Two Postures]]
 
 # Submodule: Dive Deeper
 # Lens: Overview of Optional Resources
-source:: ![[../Facilitator Training Program/Lenses/Facilitator - Overview of Optional Resources M1]]
+source:: ![[../Lenses/Facilitator - Overview of Optional Resources M1]]

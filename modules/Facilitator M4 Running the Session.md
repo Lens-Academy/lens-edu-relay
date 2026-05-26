@@ -16,7 +16,7 @@ tags:
 
 # Submodule: Welcome
 # Lens: M4 Welcome
-source:: ![[../Facilitator Training Program/Lenses/Facilitator - M4 Welcome]]
+source:: ![[../Lenses/Facilitator - M4 Welcome]]
 
 # Submodule: 4.1 - The four perspectives
 # Learning Outcome: Facilitator - Four Perspectives

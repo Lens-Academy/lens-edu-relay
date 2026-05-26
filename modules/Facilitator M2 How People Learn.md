@@ -14,7 +14,7 @@ tags:
 
 # Submodule: Welcome
 # Lens: M2 Welcome
-source:: ![[../Facilitator Training Program/Lenses/Facilitator - M2 Welcome]]
+source:: ![[../Lenses/Facilitator - M2 Welcome]]
 
 # Submodule: 2.1 - The science of learning
 # Learning Outcome: Facilitator - Science of Learning

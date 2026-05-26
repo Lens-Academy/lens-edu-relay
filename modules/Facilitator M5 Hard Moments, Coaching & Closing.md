@@ -16,7 +16,7 @@ tags:
 
 # Submodule: Welcome
 # Lens: M5 Welcome
-source:: ![[../Facilitator Training Program/Lenses/Facilitator - M5 Welcome]]
+source:: ![[../Lenses/Facilitator - M5 Welcome]]
 
 # Submodule: 5.1 - Default failure mode under pressure
 # Learning Outcome: Facilitator - Default Failure Mode

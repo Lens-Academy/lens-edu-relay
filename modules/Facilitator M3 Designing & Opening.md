@@ -15,7 +15,7 @@ tags:
 
 # Submodule: Welcome
 # Lens: M3 Welcome
-source:: ![[../Facilitator Training Program/Lenses/Facilitator - M3 Welcome]]
+source:: ![[../Lenses/Facilitator - M3 Welcome]]
 
 # Submodule: 3.1 - Prep discipline
 # Learning Outcome: Facilitator - Prep Discipline
