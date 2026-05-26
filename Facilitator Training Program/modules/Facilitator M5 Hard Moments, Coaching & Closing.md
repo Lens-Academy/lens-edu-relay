@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779782735944}@@---
+---
 id: 2100767c-0975-470d-afe8-304943e1abd7
 slug: facilitator-m5
 title: "Hard Moments, Coaching, and Closing"
@@ -41,4 +41,3 @@ source:: ![[../Learning Outcomes/Facilitator - Closing Well]]
 # Submodule: Dive Deeper
 # Lens: Overview of Optional Resources
 source:: ![[../Lenses/Facilitator - Overview of Optional Resources M5]]
-++}

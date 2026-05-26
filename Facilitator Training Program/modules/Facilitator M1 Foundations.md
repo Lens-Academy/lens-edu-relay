@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779782727804}@@---
+---
 id: 43877399-6bef-4e26-bdba-bb077882b3c9
 slug: facilitator-m1
 title: "Foundations — What Is a Facilitator?"
@@ -34,4 +34,3 @@ source:: ![[../Learning Outcomes/Facilitator - Two Postures]]
 # Submodule: Dive Deeper
 # Lens: Overview of Optional Resources
 source:: ![[../Lenses/Facilitator - Overview of Optional Resources M1]]
-++}

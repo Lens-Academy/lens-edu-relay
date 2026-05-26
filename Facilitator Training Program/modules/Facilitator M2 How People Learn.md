@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779782731209}@@---
+---
 id: f3db97c9-0133-429a-aafe-cc295549398d
 slug: facilitator-m2
 title: "How People Learn — Why Discussions Work"
@@ -31,4 +31,3 @@ source:: ![[../Learning Outcomes/Facilitator - Think-Pair-Share]]
 # Submodule: Dive Deeper
 # Lens: Overview of Optional Resources
 source:: ![[../Lenses/Facilitator - Overview of Optional Resources M2]]
-++}
