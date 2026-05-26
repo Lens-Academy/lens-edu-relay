@@ -27,7 +27,7 @@ source:: ![[../Learning Outcomes/Facilitator - Diamond of Participation]]
 
 # Submodule: 3.3 - Setting norms
 # Learning Outcome: Facilitator - Setting Norms
-source:: ![[../Facilitator Training Program/Learning Outcomes/Facilitator - Setting Norms]]
+source:: ![[../Learning Outcomes/Facilitator - Setting Norms]]
 
 # Submodule: 3.4 - Opening a session well
 # Learning Outcome: Facilitator - Opening a Session

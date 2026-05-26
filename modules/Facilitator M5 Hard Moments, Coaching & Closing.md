@@ -20,23 +20,23 @@ source:: ![[../Facilitator Training Program/Lenses/Facilitator - M5 Welcome]]
 
 # Submodule: 5.1 - Default failure mode under pressure
 # Learning Outcome: Facilitator - Default Failure Mode
-source:: ![[../Facilitator Training Program/Learning Outcomes/Facilitator - Default Failure Mode]]
+source:: ![[../Learning Outcomes/Facilitator - Default Failure Mode]]
 
 # Submodule: 5.2 - Recovering in the moment
 # Learning Outcome: Facilitator - Recovering in the Moment
-source:: ![[../Facilitator Training Program/Learning Outcomes/Facilitator - Recovering in the Moment]]
+source:: ![[../Learning Outcomes/Facilitator - Recovering in the Moment]]
 
 # Submodule: 5.3 - Handling challenging behaviours
 # Learning Outcome: Facilitator - Challenging Behaviours
-source:: ![[../Facilitator Training Program/Learning Outcomes/Facilitator - Challenging Behaviours]]
+source:: ![[../Learning Outcomes/Facilitator - Challenging Behaviours]]
 
 # Submodule: 5.4 - Coaching 1-on-1
 # Learning Outcome: Facilitator - Coaching One-on-One
-source:: ![[../Facilitator Training Program/Learning Outcomes/Facilitator - Coaching One-on-One]]
+source:: ![[../Learning Outcomes/Facilitator - Coaching One-on-One]]
 
 # Submodule: 5.5 - Closing well
 # Learning Outcome: Facilitator - Closing Well
-source:: ![[../Facilitator Training Program/Learning Outcomes/Facilitator - Closing Well]]
+source:: ![[../Learning Outcomes/Facilitator - Closing Well]]
 
 # Submodule: Dive Deeper
 # Lens: Overview of Optional Resources

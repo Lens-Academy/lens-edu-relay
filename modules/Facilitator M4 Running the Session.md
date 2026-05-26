@@ -20,27 +20,27 @@ source:: ![[../Facilitator Training Program/Lenses/Facilitator - M4 Welcome]]
 
 # Submodule: 4.1 - The four perspectives
 # Learning Outcome: Facilitator - Four Perspectives
-source:: ![[../Facilitator Training Program/Learning Outcomes/Facilitator - Four Perspectives]]
+source:: ![[../Learning Outcomes/Facilitator - Four Perspectives]]
 
 # Submodule: 4.2 - Reading the room
 # Learning Outcome: Facilitator - Reading the Room
-source:: ![[../Facilitator Training Program/Learning Outcomes/Facilitator - Reading the Room]]
+source:: ![[../Learning Outcomes/Facilitator - Reading the Room]]
 
 # Submodule: 4.3 - Asking questions that produce thinking
 # Learning Outcome: Facilitator - Asking Questions
-source:: ![[../Facilitator Training Program/Learning Outcomes/Facilitator - Asking Questions]]
+source:: ![[../Learning Outcomes/Facilitator - Asking Questions]]
 
 # Submodule: 4.4 - Taking shares
 # Learning Outcome: Facilitator - Taking Shares
-source:: ![[../Facilitator Training Program/Learning Outcomes/Facilitator - Taking Shares]]
+source:: ![[../Learning Outcomes/Facilitator - Taking Shares]]
 
 # Submodule: 4.5 - Engaging quiet participants
 # Learning Outcome: Facilitator - Engaging Quiet Participants
-source:: ![[../Facilitator Training Program/Learning Outcomes/Facilitator - Engaging Quiet Participants]]
+source:: ![[../Learning Outcomes/Facilitator - Engaging Quiet Participants]]
 
 # Submodule: 4.6 - Keeping engagement over a full session
 # Learning Outcome: Facilitator - Keeping Engagement
-source:: ![[../Facilitator Training Program/Learning Outcomes/Facilitator - Keeping Engagement]]
+source:: ![[../Learning Outcomes/Facilitator - Keeping Engagement]]
 
 # Submodule: Dive Deeper
 # Lens: Overview of Optional Resources

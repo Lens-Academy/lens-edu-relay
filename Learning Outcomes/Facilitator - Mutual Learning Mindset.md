@@ -29,4 +29,4 @@ assessment-instructions::
 **5** — As above, plus pre-commits to a specific cue or self-check they'll use to notice the slip in real time during a session.
 
 ## Lens:
-source:: ![[../Lenses/Facilitator - Mutual Learning Mindset]]
+source:: ![[../Facilitator Training Program/Lenses/Facilitator - Mutual Learning Mindset]]

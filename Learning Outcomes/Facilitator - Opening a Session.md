@@ -29,4 +29,4 @@ assessment-instructions::
 **5** — As above, plus pre-commits to the timekeeping discipline (gently moving someone on if their check-in goes long — sets the norm that check-ins are short).
 
 ## Lens:
-source:: ![[../Lenses/Facilitator - Opening a Session]]
+source:: ![[../Facilitator Training Program/Lenses/Facilitator - Opening a Session]]
