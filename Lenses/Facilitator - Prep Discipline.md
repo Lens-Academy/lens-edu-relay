@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779804709539}@@---
+---
 id: 252e2b06-1ae6-4b2a-9a9c-2322fe5986f5
 summary_for_tutor: "Teaches what counts as high-value prep vs busywork. Target ceiling: 20-30 min per session. The trainee should leave knowing what to do and — equally important — what NOT to do."
 title: "Prep That Matters, Prep That's Busywork"
@@ -51,4 +51,3 @@ Discussion guidance:
 - If they want to script the opening, walk them through what happens: stiff if followed, wasted if abandoned. Better to have one strong opening question and trust yourself with the framing in real time.
 
 Probe: "What's the prep move you're most reluctant to give up — and what would have to be true for you to drop it?"
-++}

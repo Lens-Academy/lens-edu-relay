@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779804694407}@@---
+---
 id: b851dfd6-7559-455b-b3f5-cb5121844836
 title: "Facilitator M5 — Overview of Optional Resources"
 tags:
@@ -18,4 +18,3 @@ Optional resources for Module 5, for those who want to go deeper on hard moments
 ---
 
 *Video / audio / transcript resources from [Authentic Revolution](https://authrev.org/)'s facilitator video library (Sara Ness, Jason Digges, et al.).*
-++}
