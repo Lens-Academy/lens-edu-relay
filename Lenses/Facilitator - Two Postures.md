@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779804866525}@@---
+---
 id: 4c2a7c3c-34dc-4079-b05f-e9f2fdf347b6
 summary_for_tutor: "Frames 'lead from behind' (facilitator as fellow traveller, not destination) and 'four leadership perspectives' (self, individual, group, context). Both come back in M4 with practical moves; here the trainee just installs the frame and picks their personal neglected perspective."
 title: "Two Postures Worth Knowing About"
@@ -52,4 +52,3 @@ Discussion guidance:
 - These come back in M4 with practical moves; don't pre-teach those here.
 
 Probe: "What's a 10-minute mental cue you could set during a session to check the perspective you tend to drop?"
-++}

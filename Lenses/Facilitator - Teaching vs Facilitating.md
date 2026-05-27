@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779804834714}@@---
+---
 id: 05b9b28d-28bf-495c-9869-16badf2dbb63
 summary_for_tutor: "Teaches the teacher/facilitator distinction (Bill Wilder video + comparison table of behaviours) and surfaces the learner's default mode + trigger. The whole module is built on this distinction landing; if the trainee can't articulate it in their own words, they don't yet have it."
 title: "Teaching vs Facilitating"
@@ -68,4 +68,3 @@ Discussion guidance:
 - If they can't name a personal trigger, prompt: tiredness, time pressure, a participant they find difficult, a topic they care deeply about, the feeling that the group isn't "getting it."
 
 Probe: "When your trigger fires in a real session, what's one specific move you'll try in the next 5 seconds to stay in facilitator mode?"
-++}
