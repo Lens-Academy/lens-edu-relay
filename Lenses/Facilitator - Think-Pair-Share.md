@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779804851922}@@---
+---
 id: eaf43963-2793-4b9d-992a-5c1ac40bb96c
 summary_for_tutor: "Teaches Think-Pair-Share as the default structural move. Trainee should leave able to describe the three steps with rough timings, name when to use it, and write a real opening question."
 title: "Think-Pair-Share — The Default Move"
@@ -63,4 +63,3 @@ Discussion guidance:
 - The 4-5 min breakout duration matters; less than that, people don't really engage; more, and it drags.
 
 Probe: "What's a question you would NOT want to use Think-Pair-Share on — where it would be the wrong tool? Why?"
-++}

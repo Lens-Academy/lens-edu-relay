@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779804654007}@@---
+---
 id: e638177b-03ac-452a-a1dc-1d7f24e47967
 title: "Facilitator M2 — Overview of Optional Resources"
 tags:
@@ -17,4 +17,3 @@ Optional resources for Module 2, for those who want to go deeper on the learning
 - **Article — We All Teach: Here's How to Do It Better — Michael Noetel (15 min):** https://forum.effectivealtruism.org/posts/ZPNNnEu2HGNSNmifo/we-all-teach-here-s-how-to-do-it-better — Comprehensive run-down of evidence from the science of learning applied to course design and outreach.
 
 - **Article — Top 10 Tips — Rapid Learner — Scott Young (10 min):** https://drive.google.com/file/d/1xH-ZhuOrJZNjsQ9qChlBzz7a_S_m8lmO/view — Tips 1-7 are useful for understanding the learner's perspective on what works.
-++}
