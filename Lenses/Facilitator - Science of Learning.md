@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779804768171}@@---
+---
 id: ecfbce83-8e15-473d-a14a-d9c084941895
 summary_for_tutor: "Teaches Kosslyn's six learning mechanisms. Trainee should leave able to name three and apply each to a facilitator move. This is the empirical case the trainee needs when participants ask why we don't recap the reading at the top."
 title: "The Science of Learning, in One Sitting"
@@ -52,4 +52,3 @@ Discussion guidance:
 - If they bring up a personal learning experience that doesn't obviously map to a mechanism, probe — there's usually a mechanism in there.
 
 Probe: "If a participant tells you the session feels harder than just reading the chapter would be — what do you say back, in two sentences?"
-++}

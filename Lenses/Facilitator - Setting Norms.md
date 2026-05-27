@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779804789654}@@---
+---
 id: f84b2c16-b18b-4ac4-b77d-9787bab5ce2e
 summary_for_tutor: "Teaches norm-setting as co-creation, not imposition. Trainee should leave with 3-5 candidate norms to propose and the specific Week-1 setup move that elicits the cohort's own version first."
 title: "Setting Norms — With the Cohort, Not At Them"
@@ -60,4 +60,3 @@ Discussion guidance:
 - If they want to skip norm-setting entirely ("the cohort will figure it out"), push: the cohort will figure out norms; you just won't get to influence which ones.
 
 Probe: "Of the five candidate norms, which one would you have the hardest time enforcing in the moment when a participant violates it? Why?"
-++}
