@@ -29,5 +29,5 @@ source:: ![[../Learning Outcomes/EA Intro - Explain Why Maximization Is Perilous
 
 # Submodule: Less Common Causes
 # Learning Outcome: EA Intro - Enumerate Less Common Cause Candidates
-source:: ![[../Learning Outcomes/EA Intro - Enumerate Less Common Cause Candidates]]
+source:: ![[../Learning Outcomes/WIP/EA Intro - Enumerate Less Common Cause Candidates]]
 ++}

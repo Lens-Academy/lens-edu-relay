@@ -18,7 +18,7 @@ source:: ![[../Learning Outcomes/EA Intro - Explain How Advanced AI Could Cause 
 
 # Submodule: AI Governance
 # Learning Outcome: EA Intro - Describe the AI Governance Landscape
-source:: ![[../Learning Outcomes/EA Intro - Describe the AI Governance Landscape]]
+source:: ![[../Learning Outcomes/WIP/EA Intro - Describe the AI Governance Landscape]]
 
 # Submodule: Suffering Risks
 # Learning Outcome: EA Intro - Explain S-Risks

@@ -18,7 +18,7 @@ source:: ![[../Learning Outcomes/EA Intro - Explain Existential Risk and Moral I
 
 # Submodule: Pandemic Risk
 # Learning Outcome: EA Intro - Evaluate Pandemic Risk
-source:: ![[../Learning Outcomes/EA Intro - Evaluate Pandemic Risk]]
+source:: ![[../Learning Outcomes/WIP/EA Intro - Evaluate Pandemic Risk]]
 
 # Learning Outcome: EA Intro - Identify Biosecurity Interventions
 source:: ![[../Learning Outcomes/EA Intro - Identify Biosecurity Interventions]]

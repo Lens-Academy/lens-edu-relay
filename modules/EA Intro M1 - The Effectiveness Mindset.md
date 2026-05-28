@@ -22,7 +22,7 @@ source:: ![[../Learning Outcomes/EA Intro - Identify Failures of Scope Sensitivi
 
 # Submodule: Scout Mindset
 # Learning Outcome: EA Intro - Distinguish Scout Mindset from Soldier Mindset
-source:: ![[../Learning Outcomes/EA Intro - Distinguish Scout Mindset from Soldier Mindset]]
+source:: ![[../Learning Outcomes/WIP/EA Intro - Distinguish Scout Mindset from Soldier Mindset]]
 
 # Submodule: Tradeoffs and Impact
 # Learning Outcome: EA Intro - Apply Triage Thinking to Giving Decisions

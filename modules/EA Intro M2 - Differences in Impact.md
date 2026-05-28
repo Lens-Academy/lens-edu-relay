@@ -32,5 +32,5 @@ source:: ![[../Learning Outcomes/WIP/EA Intro - Apply Fermi Estimation]]
 source:: ![[../Learning Outcomes/WIP/EA Intro - Describe Global Poverty and Progress]]
 
 # Learning Outcome: EA Intro - Evaluate Global Health Interventions
-source:: ![[../Learning Outcomes/EA Intro - Evaluate Global Health Interventions]]
+source:: ![[../Learning Outcomes/WIP/EA Intro - Evaluate Global Health Interventions]]
 ++}

@@ -17,7 +17,7 @@ content:: {>>TODO: add module welcome text (~67 min module)<<}
 source:: ![[../Learning Outcomes/EA Intro - Explain Impartiality and Radical Empathy]]
 
 # Learning Outcome: EA Intro - Describe Moral Progress and Cause X
-source:: ![[../Learning Outcomes/EA Intro - Describe Moral Progress and Cause X]]
+source:: ![[../Learning Outcomes/WIP/EA Intro - Describe Moral Progress and Cause X]]
 
 # Learning Outcome: EA Intro - Evaluate the Possibility of Ongoing Moral Catastrophes
 source:: ![[../Learning Outcomes/EA Intro - Evaluate the Possibility of Ongoing Moral Catastrophes]]

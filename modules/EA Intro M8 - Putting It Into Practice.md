@@ -18,7 +18,7 @@ source:: ![[../Learning Outcomes/WIP/EA Intro - Apply EA Principles to Career Ch
 
 # Submodule: Giving
 # Learning Outcome: EA Intro - Develop a Giving Strategy
-source:: ![[../Learning Outcomes/EA Intro - Develop a Giving Strategy]]
+source:: ![[../Learning Outcomes/WIP/EA Intro - Develop a Giving Strategy]]
 
 # Submodule: Dealing with Demandingness
 # Learning Outcome: EA Intro - Navigate Demandingness in EA
