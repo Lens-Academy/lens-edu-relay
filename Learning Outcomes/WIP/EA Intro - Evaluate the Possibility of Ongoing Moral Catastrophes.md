@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779975803629}@@---
+{++{"author":"AI","timestamp":1779998496850}@@---
 id: be2995e7-a209-42c5-8002-858f2e9ffd80
 discussion: <placeholder — add Discord channel URL>
 ---
@@ -10,5 +10,5 @@ discussion: <placeholder — add Discord channel URL>
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
-source:: ![[]]
+source:: ![[../../Lenses/WIP/EA Intro - The Possibility of Ongoing Moral Catastrophe]]
 ++}

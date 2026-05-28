@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779975776824}@@---
+{++{"author":"AI","timestamp":1779998491290}@@---
 id: 83b7a0e6-f29c-4aa5-973e-e06f2584193f
 discussion: <placeholder — add Discord channel URL>
 ---
@@ -10,8 +10,8 @@ discussion: <placeholder — add Discord channel URL>
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
-source:: ![[]]
+source:: ![[../../Lenses/WIP/EA Intro - Giving 101 Guide]]
 
 ## Lens:
-source:: ![[]]
+source:: ![[../../Lenses/WIP/EA Intro - Introducing LEEP]]
 ++}

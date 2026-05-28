@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779975786179}@@---
+{++{"author":"AI","timestamp":1779998493158}@@---
 id: 4b6c5ae3-0450-4a2b-a0aa-09ef24864c41
 discussion: <placeholder — add Discord channel URL>
 ---
@@ -10,8 +10,8 @@ discussion: <placeholder — add Discord channel URL>
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
-source:: ![[]]
+source:: ![[../../Lenses/WIP/EA Intro - Radical Empathy Introduction]]
 
 ## Lens:
-source:: ![[]]
+source:: ![[../../Lenses/WIP/EA Intro - Radical Empathy (Karnofsky)]]
 ++}

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779975707525}@@---
+{++{"author":"AI","timestamp":1779998477870}@@---
 id: d2b008bb-4d4b-452e-a5b7-b37cba61a8f5
 discussion: <placeholder — add Discord channel URL>
 ---
@@ -10,5 +10,8 @@ discussion: <placeholder — add Discord channel URL>
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
-source:: ![[]]
+source:: ![[../../Lenses/WIP/EA Intro - On Caring]]
+
+## Lens:
+source:: ![[../../Lenses/WIP/EA Intro - We Are in Triage Every Second of Every Day]]
 ++}

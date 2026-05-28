@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779975763539}@@---
+{++{"author":"AI","timestamp":1779998489415}@@---
 id: f4060802-fbb1-4347-86ce-97d18f5e67e7
 discussion: <placeholder — add Discord channel URL>
 ---
@@ -10,5 +10,8 @@ discussion: <placeholder — add Discord channel URL>
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
-source:: ![[]]
+source:: ![[../../Lenses/WIP/EA Intro - Global Economic Inequality]]
+
+## Lens:
+source:: ![[../../Lenses/WIP/EA Intro - Global Health]]
 ++}

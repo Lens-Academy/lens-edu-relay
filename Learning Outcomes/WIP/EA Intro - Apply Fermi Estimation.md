@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779975754780}@@---
+{++{"author":"AI","timestamp":1779998487378}@@---
 id: 61e85ce7-af43-4089-97fe-7babfee9b161
 discussion: <placeholder — add Discord channel URL>
 ---
@@ -10,5 +10,5 @@ discussion: <placeholder — add Discord channel URL>
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
-source:: ![[]]
+source:: ![[../../Lenses/WIP/EA Intro - Fermi Estimation]]
 ++}

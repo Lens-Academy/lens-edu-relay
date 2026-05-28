@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779975746466}@@---
+{++{"author":"AI","timestamp":1779998485785}@@---
 id: 5c79f310-9489-42d2-ac74-6a976fd7c40e
 discussion: <placeholder — add Discord channel URL>
 ---
@@ -10,5 +10,8 @@ discussion: <placeholder — add Discord channel URL>
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
-source:: ![[]]
+source:: ![[../../Lenses/WIP/EA Intro - Marginal Impact]]
+
+## Lens:
+source:: ![[../../Lenses/WIP/EA Intro - Seabirds Sea Mammals and Marine Plastic]]
 ++}

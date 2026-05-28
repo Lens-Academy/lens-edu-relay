@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779975794344}@@---
+{++{"author":"AI","timestamp":1779998494642}@@---
 id: c94e404a-58d6-4539-ae74-9622229f6efb
 discussion: <placeholder — add Discord channel URL>
 ---
@@ -10,5 +10,5 @@ discussion: <placeholder — add Discord channel URL>
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
-source:: ![[]]
+source:: ![[../../Lenses/WIP/EA Intro - Moral Progress and Cause X]]
 ++}

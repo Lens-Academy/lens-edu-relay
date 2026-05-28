@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779975726042}@@---
+{++{"author":"AI","timestamp":1779998481945}@@---
 id: 8b4f4622-06cc-4070-b22f-31eda7e9e9ed
 discussion: <placeholder — add Discord channel URL>
 ---
@@ -10,5 +10,8 @@ discussion: <placeholder — add Discord channel URL>
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
-source:: ![[]]
+source:: ![[../../Lenses/WIP/EA Intro - Framework for Comparing Global Problems]]
+
+## Lens:
+source:: ![[../../Lenses/WIP/EA Intro - Differences in Impact]]
 ++}
