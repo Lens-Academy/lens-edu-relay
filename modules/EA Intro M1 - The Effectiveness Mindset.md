@@ -26,7 +26,7 @@ source:: ![[../Learning Outcomes/EA Intro - Distinguish Scout Mindset from Soldi
 
 # Submodule: Tradeoffs and Impact
 # Learning Outcome: EA Intro - Apply Triage Thinking to Giving Decisions
-source:: ![[../Learning Outcomes/EA Intro - Apply Triage Thinking to Giving Decisions]]
+source:: ![[../Learning Outcomes/WIP/EA Intro - Apply Triage Thinking to Giving Decisions]]
 
 # Learning Outcome: EA Intro - Explain Why Some Interventions Have Outsized Impact
 source:: ![[../Learning Outcomes/EA Intro - Explain Why Some Interventions Have Outsized Impact]]

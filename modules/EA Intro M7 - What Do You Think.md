@@ -14,7 +14,7 @@ content:: {>>TODO: add module welcome text (~105 min module)<<}
 
 # Submodule: Bayes and Evidence
 # Learning Outcome: EA Intro - Apply Bayes Rule to Update Beliefs
-source:: ![[../Learning Outcomes/EA Intro - Apply Bayes Rule to Update Beliefs]]
+source:: ![[../Learning Outcomes/WIP/EA Intro - Apply Bayes Rule to Update Beliefs]]
 
 # Submodule: Independent Impressions
 # Learning Outcome: EA Intro - Explain Independent Impressions

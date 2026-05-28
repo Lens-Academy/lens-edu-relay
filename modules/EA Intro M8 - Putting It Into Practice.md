@@ -14,7 +14,7 @@ content:: {>>TODO: add module welcome text (~51 min module)<<}
 
 # Submodule: Career Choice
 # Learning Outcome: EA Intro - Apply EA Principles to Career Choice
-source:: ![[../Learning Outcomes/EA Intro - Apply EA Principles to Career Choice]]
+source:: ![[../Learning Outcomes/WIP/EA Intro - Apply EA Principles to Career Choice]]
 
 # Submodule: Giving
 # Learning Outcome: EA Intro - Develop a Giving Strategy

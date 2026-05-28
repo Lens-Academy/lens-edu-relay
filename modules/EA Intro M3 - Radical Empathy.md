@@ -24,7 +24,7 @@ source:: ![[../Learning Outcomes/EA Intro - Evaluate the Possibility of Ongoing 
 
 # Submodule: Animal Welfare
 # Learning Outcome: EA Intro - Apply the Case for Animal Moral Consideration
-source:: ![[../Learning Outcomes/EA Intro - Apply the Case for Animal Moral Consideration]]
+source:: ![[../Learning Outcomes/WIP/EA Intro - Apply the Case for Animal Moral Consideration]]
 
 # Learning Outcome: EA Intro - Identify Strategies for Improving Animal Welfare
 source:: ![[../Learning Outcomes/EA Intro - Identify Strategies for Improving Animal Welfare]]

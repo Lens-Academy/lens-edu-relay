@@ -14,7 +14,7 @@ content:: {>>TODO: add module welcome text (~67 min module)<<}
 
 # Submodule: The Case for Longtermism
 # Learning Outcome: EA Intro - Articulate the Case For and Against Longtermism
-source:: ![[../Learning Outcomes/EA Intro - Articulate the Case For and Against Longtermism]]
+source:: ![[../Learning Outcomes/WIP/EA Intro - Articulate the Case For and Against Longtermism]]
 
 # Submodule: Hinge of History
 # Learning Outcome: EA Intro - Evaluate the Hinge of History Hypothesis
@@ -22,7 +22,7 @@ source:: ![[../Learning Outcomes/EA Intro - Evaluate the Hinge of History Hypoth
 
 # Submodule: Forecasting
 # Learning Outcome: EA Intro - Apply Superforecasting Techniques
-source:: ![[../Learning Outcomes/EA Intro - Apply Superforecasting Techniques]]
+source:: ![[../Learning Outcomes/WIP/EA Intro - Apply Superforecasting Techniques]]
 
 # Submodule: What Might the Future Look Like
 # Learning Outcome: EA Intro - Describe What a Positive Long-Term Future Looks Like

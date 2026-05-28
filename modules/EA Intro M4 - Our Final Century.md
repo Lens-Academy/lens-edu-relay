@@ -25,7 +25,7 @@ source:: ![[../Learning Outcomes/EA Intro - Identify Biosecurity Interventions]]
 
 # Submodule: Expected Value and Giving
 # Learning Outcome: EA Intro - Apply Expected Value Reasoning
-source:: ![[../Learning Outcomes/EA Intro - Apply Expected Value Reasoning]]
+source:: ![[../Learning Outcomes/WIP/EA Intro - Apply Expected Value Reasoning]]
 
 # Learning Outcome: EA Intro - Explain Hits-Based Giving
 source:: ![[../Learning Outcomes/EA Intro - Explain Hits-Based Giving]]
