@@ -6,7 +6,7 @@ id: 68e54288-3ad2-4c2f-b102-30814a54393d
 content:: {>>TODO: add intro text — frames the context of EAG Bay Area 2023, FTX fallout, and what Toby Ord is reflecting on<<}
 
 #### Video
-source:: [[../video_transcripts/effectivealtruism-reflecting-on-the-last-year-lessons-for-ea-eag-bay-area-23]]
+source:: [[../../video_transcripts/effectivealtruism-reflecting-on-the-last-year-lessons-for-ea-eag-bay-area-23]]
 
 #### Text
 content:: {>>TODO: add post-video discussion prompt<<}
