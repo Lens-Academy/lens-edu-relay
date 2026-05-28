@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779976064867}@@---
+{++{"author":"AI","timestamp":1780000347609}@@---
 id: 8a610770-11cb-4e25-96aa-652e302f1ae8
 discussion: <placeholder — add Discord channel URL>
 ---
@@ -10,5 +10,8 @@ discussion: <placeholder — add Discord channel URL>
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
-source:: ![[]]
+source:: ![[../../Lenses/WIP/EA Intro - Call to Vigilance]]
+
+## Lens:
+source:: ![[../../Lenses/WIP/EA Intro - Effective Altruism as the Most Exciting Cause]]
 ++}

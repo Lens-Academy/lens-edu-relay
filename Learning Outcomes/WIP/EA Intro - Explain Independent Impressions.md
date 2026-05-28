@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779976000379}@@---
+{++{"author":"AI","timestamp":1780000338934}@@---
 id: 05495d33-9b92-4033-988f-5ee2ebcf9961
 discussion: <placeholder — add Discord channel URL>
 ---
@@ -10,5 +10,5 @@ discussion: <placeholder — add Discord channel URL>
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
-source:: ![[]]
+source:: ![[../../Lenses/WIP/EA Intro - Independent Impressions]]
 ++}

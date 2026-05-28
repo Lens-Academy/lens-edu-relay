@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779998487378}@@---
+{++{"author":"AI","timestamp":1780000327954}@@---
 id: 61e85ce7-af43-4089-97fe-7babfee9b161
 discussion: <placeholder — add Discord channel URL>
 ---
@@ -11,4 +11,7 @@ discussion: <placeholder — add Discord channel URL>
 
 ## Lens:
 source:: ![[../../Lenses/WIP/EA Intro - Fermi Estimation]]
+
+## Lens:
+source:: ![[../../Lenses/WIP/EA Intro - Seabirds Sea Mammals and Marine Plastic]]
 ++}

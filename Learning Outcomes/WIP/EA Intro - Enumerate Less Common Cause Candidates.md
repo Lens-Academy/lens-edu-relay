@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779976029867}@@---
+{++{"author":"AI","timestamp":1780000341789}@@---
 id: 8876a5f4-55ee-4af5-b9dc-aafdce2ffa58
 discussion: <placeholder — add Discord channel URL>
 ---
@@ -10,5 +10,5 @@ discussion: <placeholder — add Discord channel URL>
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
-source:: ![[]]
+source:: ![[../../Lenses/WIP/EA Intro - Big List of Cause Candidates]]
 ++}

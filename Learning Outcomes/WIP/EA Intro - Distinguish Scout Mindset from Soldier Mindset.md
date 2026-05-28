@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779975699601}@@---
+{++{"author":"AI","timestamp":1780000319726}@@---
 id: a4054d4b-5a4d-4302-ae51-3d2685cc5366
 discussion: <placeholder — add Discord channel URL>
 ---
@@ -11,4 +11,10 @@ discussion: <placeholder — add Discord channel URL>
 
 ## Lens:
 source:: ![[../../Lenses/WIP/EA Intro - Scout Mindset (Julia Galef)]]
+
+## Lens:
+source:: ![[../../Lenses/WIP/EA Intro - What Cognitive Biases Feel Like From the Inside]]
+
+## Lens:
+source:: ![[../../Lenses/WIP/EA Intro - Purchase Fuzzies and Utilons Separately]]
 ++}

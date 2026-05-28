@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779976056674}@@---
+{++{"author":"AI","timestamp":1780000346295}@@---
 id: 89e408a9-8a03-4b34-be69-69c941b51507
 discussion: <placeholder — add Discord channel URL>
 ---
@@ -10,5 +10,5 @@ discussion: <placeholder — add Discord channel URL>
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
-source:: ![[]]
+source:: ![[../../Lenses/WIP/EA Intro - You Have More Than One Goal]]
 ++}

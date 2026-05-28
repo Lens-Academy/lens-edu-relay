@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779975962261}@@---
+{++{"author":"AI","timestamp":1780000331455}@@---
 id: 5b786223-4d84-4964-9563-6c607a0d6941
 discussion: <placeholder — add Discord channel URL>
 ---
@@ -10,5 +10,5 @@ discussion: <placeholder — add Discord channel URL>
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
-source:: ![[]]
+source:: ![[../../Lenses/WIP/EA Intro - The Longtermist AI Governance Landscape]]
 ++}

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779998480058}@@---
+{++{"author":"AI","timestamp":1780000324063}@@---
 id: 2c52e403-f35c-46b9-9d17-47067285705b
 discussion: <placeholder — add Discord channel URL>
 ---
@@ -10,8 +10,5 @@ discussion: <placeholder — add Discord channel URL>
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
-source:: ![[../../Lenses/WIP/EA Intro - The World Is Much Better]]
-
-## Lens:
-source:: ![[../../Lenses/WIP/EA Intro - Purchase Fuzzies and Utilons Separately]]
+source:: ![[../../Lenses/WIP/EA Intro - 500 Million But Not a Single One More]]
 ++}

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779998387980}@@---
+{++{"author":"AI","timestamp":1780000314588}@@---
 id: 6ab43838-41bd-4453-a4da-f82d047c53fb
 discussion: <placeholder — add Discord channel URL>
 ---
@@ -20,4 +20,7 @@ source:: ![[../../Lenses/WIP/EA Intro - Introduction to Effective Altruism]]
 
 ## Lens:
 source:: ![[../../Lenses/WIP/EA Intro - Four Ideas You Already Agree With]]
+
+## Lens:
+source:: ![[../../Lenses/WIP/EA Intro - The World Is Much Better]]
 ++}

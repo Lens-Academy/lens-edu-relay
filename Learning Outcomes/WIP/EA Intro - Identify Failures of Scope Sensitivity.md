@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779998475765}@@---
+{++{"author":"AI","timestamp":1780000317454}@@---
 id: bc107aba-831f-4204-bcd7-55e7918aca47
 discussion: <placeholder — add Discord channel URL>
 ---
@@ -10,11 +10,8 @@ discussion: <placeholder — add Discord channel URL>
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
+source:: ![[../../Lenses/WIP/EA Intro - On Caring]]
+
+## Lens:
 source:: ![[../../Lenses/WIP/EA Intro - Scope Insensitivity]]
-
-## Lens:
-source:: ![[../../Lenses/WIP/EA Intro - What Cognitive Biases Feel Like From the Inside]]
-
-## Lens:
-source:: ![[../../Lenses/WIP/EA Intro - 500 Million But Not a Single One More]]
 ++}

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779976021270}@@---
+{++{"author":"AI","timestamp":1780000340538}@@---
 id: 7f12b11e-39ac-4dbd-99ab-5a8c65588061
 discussion: <placeholder — add Discord channel URL>
 ---
@@ -10,5 +10,5 @@ discussion: <placeholder — add Discord channel URL>
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
-source:: ![[]]
+source:: ![[../../Lenses/WIP/EA Intro - EA Is About Maximization and Maximization Is Perilous]]
 ++}
