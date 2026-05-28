@@ -10,5 +10,5 @@ discussion: <placeholder — add Discord channel URL>
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
-source:: ![[../../Lenses/EA Intro - Scout Mindset (Julia Galef)]]
+source:: ![[../../Lenses/WIP/EA Intro - Scout Mindset (Julia Galef)]]
 ++}
