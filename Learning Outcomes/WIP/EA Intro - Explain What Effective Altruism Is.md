@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779975680806}@@---
+{++{"author":"AI","timestamp":1779998387980}@@---
 id: 6ab43838-41bd-4453-a4da-f82d047c53fb
 discussion: <placeholder — add Discord channel URL>
 ---
@@ -10,8 +10,14 @@ discussion: <placeholder — add Discord channel URL>
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
-source:: ![[]]
+source:: ![[../../Lenses/WIP/EA Intro - About This Handbook]]
 
 ## Lens:
-source:: ![[]]
+source:: ![[../../Lenses/WIP/EA Intro - The Effectiveness Mindset (Dalton)]]
+
+## Lens:
+source:: ![[../../Lenses/WIP/EA Intro - Introduction to Effective Altruism]]
+
+## Lens:
+source:: ![[../../Lenses/WIP/EA Intro - Four Ideas You Already Agree With]]
 ++}
