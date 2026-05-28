@@ -14,7 +14,7 @@ content:: {>>TODO: add module welcome text (~67 min module)<<}
 
 # Submodule: Impartiality and Radical Empathy
 # Learning Outcome: EA Intro - Explain Impartiality and Radical Empathy
-source:: ![[../Learning Outcomes/EA Intro - Explain Impartiality and Radical Empathy]]
+source:: ![[../Learning Outcomes/WIP/EA Intro - Explain Impartiality and Radical Empathy]]
 
 # Learning Outcome: EA Intro - Describe Moral Progress and Cause X
 source:: ![[../Learning Outcomes/WIP/EA Intro - Describe Moral Progress and Cause X]]
@@ -27,5 +27,5 @@ source:: ![[../Learning Outcomes/WIP/EA Intro - Evaluate the Possibility of Ongo
 source:: ![[../Learning Outcomes/WIP/EA Intro - Apply the Case for Animal Moral Consideration]]
 
 # Learning Outcome: EA Intro - Identify Strategies for Improving Animal Welfare
-source:: ![[../Learning Outcomes/EA Intro - Identify Strategies for Improving Animal Welfare]]
+source:: ![[../Learning Outcomes/WIP/EA Intro - Identify Strategies for Improving Animal Welfare]]
 ++}

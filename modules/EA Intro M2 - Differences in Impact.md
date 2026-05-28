@@ -18,10 +18,10 @@ source:: ![[../Learning Outcomes/WIP/EA Intro - Apply the ITN Framework]]
 
 # Submodule: Differences in Impact
 # Learning Outcome: EA Intro - Explain Why Some Interventions Are Orders of Magnitude More Effective
-source:: ![[../Learning Outcomes/EA Intro - Explain Why Some Interventions Are Orders of Magnitude More Effective]]
+source:: ![[../Learning Outcomes/WIP/EA Intro - Explain Why Some Interventions Are Orders of Magnitude More Effective]]
 
 # Learning Outcome: EA Intro - Explain Marginal Impact
-source:: ![[../Learning Outcomes/EA Intro - Explain Marginal Impact]]
+source:: ![[../Learning Outcomes/WIP/EA Intro - Explain Marginal Impact]]
 
 # Submodule: Fermi Estimation
 # Learning Outcome: EA Intro - Apply Fermi Estimation

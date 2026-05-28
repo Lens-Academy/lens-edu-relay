@@ -18,14 +18,14 @@ source:: ![[../Learning Outcomes/WIP/EA Intro - Apply Bayes Rule to Update Belie
 
 # Submodule: Independent Impressions
 # Learning Outcome: EA Intro - Explain Independent Impressions
-source:: ![[../Learning Outcomes/EA Intro - Explain Independent Impressions]]
+source:: ![[../Learning Outcomes/WIP/EA Intro - Explain Independent Impressions]]
 
 # Submodule: Learning from Mistakes
 # Learning Outcome: EA Intro - Identify Lessons from EA's Mistakes
-source:: ![[../Learning Outcomes/EA Intro - Identify Lessons from EA's Mistakes]]
+source:: ![[../Learning Outcomes/WIP/EA Intro - Identify Lessons from EA's Mistakes]]
 
 # Learning Outcome: EA Intro - Explain Why Maximization Is Perilous
-source:: ![[../Learning Outcomes/EA Intro - Explain Why Maximization Is Perilous]]
+source:: ![[../Learning Outcomes/WIP/EA Intro - Explain Why Maximization Is Perilous]]
 
 # Submodule: Less Common Causes
 # Learning Outcome: EA Intro - Enumerate Less Common Cause Candidates

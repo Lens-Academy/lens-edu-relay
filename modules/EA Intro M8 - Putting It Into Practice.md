@@ -22,9 +22,9 @@ source:: ![[../Learning Outcomes/WIP/EA Intro - Develop a Giving Strategy]]
 
 # Submodule: Dealing with Demandingness
 # Learning Outcome: EA Intro - Navigate Demandingness in EA
-source:: ![[../Learning Outcomes/EA Intro - Navigate Demandingness in EA]]
+source:: ![[../Learning Outcomes/WIP/EA Intro - Navigate Demandingness in EA]]
 
 # Submodule: Next Steps
 # Learning Outcome: EA Intro - Identify Next Steps for EA Involvement
-source:: ![[../Learning Outcomes/EA Intro - Identify Next Steps for EA Involvement]]
+source:: ![[../Learning Outcomes/WIP/EA Intro - Identify Next Steps for EA Involvement]]
 ++}
