@@ -31,5 +31,5 @@ source:: ![[../Learning Outcomes/WIP/EA Intro - Apply Expected Value Reasoning]]
 source:: ![[../Learning Outcomes/EA Intro - Explain Hits-Based Giving]]
 
 # Learning Outcome: EA Intro - Explain Crucial Considerations
-source:: ![[../Learning Outcomes/EA Intro - Explain Crucial Considerations]]
+source:: ![[../Learning Outcomes/WIP/EA Intro - Explain Crucial Considerations]]
 ++}

@@ -20,7 +20,7 @@ source:: ![[../Learning Outcomes/EA Intro - Explain Impartiality and Radical Emp
 source:: ![[../Learning Outcomes/WIP/EA Intro - Describe Moral Progress and Cause X]]
 
 # Learning Outcome: EA Intro - Evaluate the Possibility of Ongoing Moral Catastrophes
-source:: ![[../Learning Outcomes/EA Intro - Evaluate the Possibility of Ongoing Moral Catastrophes]]
+source:: ![[../Learning Outcomes/WIP/EA Intro - Evaluate the Possibility of Ongoing Moral Catastrophes]]
 
 # Submodule: Animal Welfare
 # Learning Outcome: EA Intro - Apply the Case for Animal Moral Consideration
