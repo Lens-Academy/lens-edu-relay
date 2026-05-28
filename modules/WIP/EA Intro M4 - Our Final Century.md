@@ -14,22 +14,22 @@ content:: {>>TODO: add module welcome text (~49 min module)<<}
 
 # Submodule: Existential Risks
 # Learning Outcome: EA Intro - Explain Existential Risk and Moral Importance
-source:: ![[../Learning Outcomes/WIP/EA Intro - Explain Existential Risk and Moral Importance]]
+source:: ![[../../Learning Outcomes/WIP/EA Intro - Explain Existential Risk and Moral Importance]]
 
 # Submodule: Pandemic Risk
 # Learning Outcome: EA Intro - Evaluate Pandemic Risk
-source:: ![[../Learning Outcomes/WIP/EA Intro - Evaluate Pandemic Risk]]
+source:: ![[../../Learning Outcomes/WIP/EA Intro - Evaluate Pandemic Risk]]
 
 # Learning Outcome: EA Intro - Identify Biosecurity Interventions
-source:: ![[../Learning Outcomes/WIP/EA Intro - Identify Biosecurity Interventions]]
+source:: ![[../../Learning Outcomes/WIP/EA Intro - Identify Biosecurity Interventions]]
 
 # Submodule: Expected Value and Giving
 # Learning Outcome: EA Intro - Apply Expected Value Reasoning
-source:: ![[../Learning Outcomes/WIP/EA Intro - Apply Expected Value Reasoning]]
+source:: ![[../../Learning Outcomes/WIP/EA Intro - Apply Expected Value Reasoning]]
 
 # Learning Outcome: EA Intro - Explain Hits-Based Giving
-source:: ![[../Learning Outcomes/WIP/EA Intro - Explain Hits-Based Giving]]
+source:: ![[../../Learning Outcomes/WIP/EA Intro - Explain Hits-Based Giving]]
 
 # Learning Outcome: EA Intro - Explain Crucial Considerations
-source:: ![[../Learning Outcomes/WIP/EA Intro - Explain Crucial Considerations]]
+source:: ![[../../Learning Outcomes/WIP/EA Intro - Explain Crucial Considerations]]
 ++}

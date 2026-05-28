@@ -14,20 +14,20 @@ content:: {>>TODO: add module welcome text (~105 min module)<<}
 
 # Submodule: Bayes and Evidence
 # Learning Outcome: EA Intro - Apply Bayes Rule to Update Beliefs
-source:: ![[../Learning Outcomes/WIP/EA Intro - Apply Bayes Rule to Update Beliefs]]
+source:: ![[../../Learning Outcomes/WIP/EA Intro - Apply Bayes Rule to Update Beliefs]]
 
 # Submodule: Independent Impressions
 # Learning Outcome: EA Intro - Explain Independent Impressions
-source:: ![[../Learning Outcomes/WIP/EA Intro - Explain Independent Impressions]]
+source:: ![[../../Learning Outcomes/WIP/EA Intro - Explain Independent Impressions]]
 
 # Submodule: Learning from Mistakes
 # Learning Outcome: EA Intro - Identify Lessons from EA's Mistakes
-source:: ![[../Learning Outcomes/WIP/EA Intro - Identify Lessons from EA's Mistakes]]
+source:: ![[../../Learning Outcomes/WIP/EA Intro - Identify Lessons from EA's Mistakes]]
 
 # Learning Outcome: EA Intro - Explain Why Maximization Is Perilous
-source:: ![[../Learning Outcomes/WIP/EA Intro - Explain Why Maximization Is Perilous]]
+source:: ![[../../Learning Outcomes/WIP/EA Intro - Explain Why Maximization Is Perilous]]
 
 # Submodule: Less Common Causes
 # Learning Outcome: EA Intro - Enumerate Less Common Cause Candidates
-source:: ![[../Learning Outcomes/WIP/EA Intro - Enumerate Less Common Cause Candidates]]
+source:: ![[../../Learning Outcomes/WIP/EA Intro - Enumerate Less Common Cause Candidates]]
 ++}

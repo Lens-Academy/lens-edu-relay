@@ -14,20 +14,20 @@ content:: {>>TODO: add module welcome text (~90 min module)<<}
 
 # Submodule: Introduction
 # Learning Outcome: EA Intro - Explain What Effective Altruism Is
-source:: ![[../Learning Outcomes/WIP/EA Intro - Explain What Effective Altruism Is]]
+source:: ![[../../Learning Outcomes/WIP/EA Intro - Explain What Effective Altruism Is]]
 
 # Submodule: Scope Sensitivity
 # Learning Outcome: EA Intro - Identify Failures of Scope Sensitivity
-source:: ![[../Learning Outcomes/WIP/EA Intro - Identify Failures of Scope Sensitivity]]
+source:: ![[../../Learning Outcomes/WIP/EA Intro - Identify Failures of Scope Sensitivity]]
 
 # Submodule: Scout Mindset
 # Learning Outcome: EA Intro - Distinguish Scout Mindset from Soldier Mindset
-source:: ![[../Learning Outcomes/WIP/EA Intro - Distinguish Scout Mindset from Soldier Mindset]]
+source:: ![[../../Learning Outcomes/WIP/EA Intro - Distinguish Scout Mindset from Soldier Mindset]]
 
 # Submodule: Tradeoffs and Impact
 # Learning Outcome: EA Intro - Apply Triage Thinking to Giving Decisions
-source:: ![[../Learning Outcomes/WIP/EA Intro - Apply Triage Thinking to Giving Decisions]]
+source:: ![[../../Learning Outcomes/WIP/EA Intro - Apply Triage Thinking to Giving Decisions]]
 
 # Learning Outcome: EA Intro - Explain Why Some Interventions Have Outsized Impact
-source:: ![[../Learning Outcomes/WIP/EA Intro - Explain Why Some Interventions Have Outsized Impact]]
+source:: ![[../../Learning Outcomes/WIP/EA Intro - Explain Why Some Interventions Have Outsized Impact]]
 ++}
