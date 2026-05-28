@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779975924156}@@---
+{++{"author":"AI","timestamp":1779998515838}@@---
 id: a511a38f-f603-44c7-ae93-d13cffaa67b4
 discussion: <placeholder — add Discord channel URL>
 ---
@@ -10,5 +10,5 @@ discussion: <placeholder — add Discord channel URL>
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
-source:: ![[]]
+source:: ![[../../Lenses/WIP/EA Intro - Superforecasting in a Nutshell]]
 ++}

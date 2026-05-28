@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779975943112}@@---
+{++{"author":"AI","timestamp":1779998517184}@@---
 id: 9805ec0b-74f0-4544-ba98-7cf4bf37f276
 discussion: <placeholder — add Discord channel URL>
 ---
@@ -10,5 +10,5 @@ discussion: <placeholder — add Discord channel URL>
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
-source:: ![[]]
+source:: ![[../../Lenses/WIP/EA Intro - Longtermism and Animal Advocacy]]
 ++}

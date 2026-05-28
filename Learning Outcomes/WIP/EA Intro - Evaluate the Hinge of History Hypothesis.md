@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779975908561}@@---
+{++{"author":"AI","timestamp":1779998514387}@@---
 id: b4ea9db0-afaa-472a-b4f1-7bb5edb766f4
 discussion: <placeholder — add Discord channel URL>
 ---
@@ -10,5 +10,5 @@ discussion: <placeholder — add Discord channel URL>
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
-source:: ![[]]
+source:: ![[../../Lenses/WIP/EA Intro - This Can't Go On]]
 ++}

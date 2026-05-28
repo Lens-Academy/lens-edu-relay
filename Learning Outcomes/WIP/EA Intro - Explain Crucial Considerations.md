@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779975886933}@@---
+{++{"author":"AI","timestamp":1779998509910}@@---
 id: 7932d074-8072-477f-9b13-9c6e7ce3df9a
 discussion: <placeholder — add Discord channel URL>
 ---
@@ -10,5 +10,5 @@ discussion: <placeholder — add Discord channel URL>
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
-source:: ![[]]
+source:: ![[../../Lenses/WIP/EA Intro - Crucial Considerations]]
 ++}

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779975895995}@@---
+{++{"author":"AI","timestamp":1779998512923}@@---
 id: 8e35c52d-7243-47bf-92f9-b6a7fb59dbb2
 discussion: <placeholder — add Discord channel URL>
 ---
@@ -10,8 +10,14 @@ discussion: <placeholder — add Discord channel URL>
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
-source:: ![[]]
+source:: ![[../../Lenses/WIP/EA Intro - What Could the Future Hold Introduction]]
 
 ## Lens:
-source:: ![[]]
+source:: ![[../../Lenses/WIP/EA Intro - What We Owe the Future Chapter 1]]
+
+## Lens:
+source:: ![[../../Lenses/WIP/EA Intro - Why Longtermism Is Hard]]
+
+## Lens:
+source:: ![[../../Lenses/WIP/EA Intro - Probably Not a Longtermist]]
 ++}

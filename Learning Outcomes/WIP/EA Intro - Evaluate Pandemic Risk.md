@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779975840665}@@---
+{++{"author":"AI","timestamp":1779998504221}@@---
 id: 1d611cfc-97df-44e2-aca6-e2a196a03a63
 discussion: <placeholder — add Discord channel URL>
 ---
@@ -10,5 +10,5 @@ discussion: <placeholder — add Discord channel URL>
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
-source:: ![[]]
+source:: ![[../../Lenses/WIP/EA Intro - Preventing Catastrophic Pandemics]]
 ++}
