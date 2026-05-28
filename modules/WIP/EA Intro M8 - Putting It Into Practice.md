@@ -14,17 +14,17 @@ content:: {>>TODO: add module welcome text (~51 min module)<<}
 
 # Submodule: Career Choice
 # Learning Outcome: EA Intro - Apply EA Principles to Career Choice
-source:: ![[../Learning Outcomes/WIP/EA Intro - Apply EA Principles to Career Choice]]
+source:: ![[../../Learning Outcomes/WIP/EA Intro - Apply EA Principles to Career Choice]]
 
 # Submodule: Giving
 # Learning Outcome: EA Intro - Develop a Giving Strategy
-source:: ![[../Learning Outcomes/WIP/EA Intro - Develop a Giving Strategy]]
+source:: ![[../../Learning Outcomes/WIP/EA Intro - Develop a Giving Strategy]]
 
 # Submodule: Dealing with Demandingness
 # Learning Outcome: EA Intro - Navigate Demandingness in EA
-source:: ![[../Learning Outcomes/WIP/EA Intro - Navigate Demandingness in EA]]
+source:: ![[../../Learning Outcomes/WIP/EA Intro - Navigate Demandingness in EA]]
 
 # Submodule: Next Steps
 # Learning Outcome: EA Intro - Identify Next Steps for EA Involvement
-source:: ![[../Learning Outcomes/WIP/EA Intro - Identify Next Steps for EA Involvement]]
+source:: ![[../../Learning Outcomes/WIP/EA Intro - Identify Next Steps for EA Involvement]]
 ++}
