@@ -1,0 +1,14 @@
+{++{"author":"AI","timestamp":1779976009828}@@---
+id: bf547447-3617-46ff-a14f-6ebd9240e9f2
+discussion: <placeholder — add Discord channel URL>
+---
+
+## Learning outcome:
+{>>TODO: write learning outcome statement — e.g. "Identify at least three concrete lessons EA should take from recent failures (including FTX/SBF), and explain how they bear on how EA institutions and individuals should operate."<<}
+
+## Test:
+{>>TODO: write assessment question or task<<}
+
+## Lens:
+source:: ![[../Lenses/EA Intro - Lessons for EA (Toby Ord EAG)]]
+++}
