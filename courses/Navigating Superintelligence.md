@@ -8,7 +8,6 @@ title: Navigating Superintelligence
 # Module: [[../modules/introduction-to-navigating-superintelligence]]
 
 # Meeting: Introduction
-# Meeting: 1
 
 # Module: [[../modules/what-even-is-ai]]
 
