@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779978137770}@@---
+{++{"author":"AI","timestamp":1780047367093}@@---
 title: "This Can't Go On"
 source_url: https://www.cold-takes.com/this-cant-go-on/
 author:
@@ -35,9 +35,15 @@ In Business As Usual, the world is constantly changing, and the change is notice
 
 If this sounds right to you, and you're used to it, and you picture the future being like this as well, then you live in the **Business As Usual** headspace.
 
+![Business As Usual chart showing steady economic growth from 1950 to present](https://storage.ghost.io/c/c1/87/c187484b-b759-4728-8cb3-1c009c2c024e/content/images/size/w1000/2021/07/business-as-usual.png)
+
 I live in a different headspace, one with a more turbulent past and a more uncertain future. I'll call it the **This Can't Go On** headspace.
 
+![This Can't Go On chart showing economic growth from 5000 BC to present](https://storage.ghost.io/c/c1/87/c187484b-b759-4728-8cb3-1c009c2c024e/content/images/size/w1000/2021/07/this-cant-go-on.png)
+
 Which chart is the right one? Well, they're using exactly the same historical data — it's just that the Business As Usual chart starts in 1950, whereas This Can't Go On starts all the way back in 5000 BC. **"This Can't Go On" is the whole story; "Business As Usual" is a tiny slice of it.**
+
+![Long vs short view — the full sweep of economic history versus the recent slice](https://storage.ghost.io/c/c1/87/c187484b-b759-4728-8cb3-1c009c2c024e/content/images/size/w1000/2021/08/long-vs-short-view.png)
 
 Growing at a few percent a year is what we're all used to. But in full historical context, growing at a few percent a year is crazy. This growth has gone on for longer than any of us can remember, but that isn't very long in the scheme of things — just a couple hundred years, out of thousands of years of human civilization. It's a huge acceleration, and it can't go on all that much longer.
 
@@ -96,6 +102,8 @@ It's hard to make a simple chart of how fast science and technology are advancin
 
 A fun book is *Asimov's Chronology of Science and Discovery*. It goes through the most important inventions and discoveries in human history, in chronological order. An interesting fact about this book: **553 out of its 654 pages take place after the year 1500** — even though it starts in the year 4 million BC. I believe there were, in fact, more scientific and technological advances in the last ~500 years than the previous several million.
 
+![Timeline of scientific and technological discoveries from 10,000 BCE to 10,000 CE](https://storage.ghost.io/c/c1/87/c187484b-b759-4728-8cb3-1c009c2c024e/content/images/size/w1000/2021/08/Timeline-10KBCE-10KCE-Aug-3.png)
+
 So as with economic growth, the rate of scientific and technological advancement is extremely fast compared to most of history. As with economic growth, presumably there are limits at some point to how advanced technology can become. And as with economic growth, from here scientific and technological advancement could:
 
 - **Stagnate**, as some are concerned is happening.
@@ -110,7 +118,11 @@ And some people should inhabit the This Can't Go On headspace, thinking about th
 
 But today, it seems like things are far out of balance, with almost all news and analysis living in the Business As Usual headspace.
 
-One metaphor for my headspace is that it feels as though the world is a set of people on a plane blasting down the runway. We're going much faster than normal, and there isn't enough runway to do this much longer... and we're accelerating.
+One metaphor for my headspace is that it feels as though the world is a set of people on a plane blasting down the runway.
+
+![Airplane blasting down the runway at high speed](https://storage.ghost.io/c/c1/87/c187484b-b759-4728-8cb3-1c009c2c024e/content/images/2021/07/airplane-launch-compressed.gif)
+
+We're going much faster than normal, and there isn't enough runway to do this much longer... and we're accelerating.
 
 And every time I read commentary on what's going on in the world, people are discussing how to arrange your seatbelt as comfortably as possible given that wearing one is part of life, or saying how the best moments in life are sitting with your family and watching the white lines whooshing by, or arguing about whose fault it is that there's a background roar making it hard to hear each other.
 
