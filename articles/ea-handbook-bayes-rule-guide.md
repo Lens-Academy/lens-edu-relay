@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780046014002}@@---
+{++{"author":"AI","timestamp":1780046770190}@@---
 title: "Bayes' Rule: Guide"
 source_url: https://arbital.com/p/bayes_rule/?l=1zq
 authors:
@@ -52,9 +52,17 @@ This problem can be solved a hard way or a clever easy way. We'll walk through t
 
 First, we imagine a population of 100 students, of whom 20 have Diseasitis and 80 don't.
 
+![A frequency diagram showing 20 sick and 80 healthy students out of 100](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/arbital/verpxvujwo1u2crwsofu)
+
 90% of sick students turn their tongue depressor black, and 30% of healthy students turn the tongue depressor black. So we see black tongue depressors on 90% × 20 = **18 sick students**, and 30% × 80 = **24 healthy students**.
 
-What's the probability that a student with a black tongue depressor has Diseasitis? From the diagram, there are 18 sick students with black tongue depressors. 18 + 24 = 42 students in total turned their tongue depressors black. The final answer is that a patient with a black tongue depressor has an 18/42 = 3/7 = **43% probability of being sick**.
+![A frequency diagram showing 18 sick and 24 healthy students with black tongue depressors](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/arbital/r32p6h7io6eski7qumhv)
+
+What's the probability that a student with a black tongue depressor has Diseasitis? From the diagram, there are 18 sick students with black tongue depressors. 18 + 24 = 42 students in total turned their tongue depressors black.
+
+![A frequency diagram isolating the 18 sick out of 42 total students with positive results](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/arbital/qyngbtxfxjggf94zr3sy)
+
+The final answer is that a patient with a black tongue depressor has an 18/42 = 3/7 = **43% probability of being sick**.
 
 Many medical students have at first found this answer counter-intuitive: the test correctly detects Diseasitis 90% of the time! If the test comes back positive, why is it still less than 50% likely that the patient has Diseasitis? Well, the test also incorrectly "detects" Diseasitis 30% of the time in a healthy patient, and we start out with lots more healthy patients than sick patients.
 
@@ -70,6 +78,8 @@ The test does provide *some* evidence in favor of the patient being sick. The pr
 
 Imagine a waterfall with two streams of water at the top, a red stream and a blue stream. These streams separately approach the top of the waterfall, with some of the water from both streams being diverted along the way, and the remaining water falling into a shared pool below.
 
+![An unlabeled waterfall diagram with red and blue streams](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/arbital/ubqhqbmoade6i4ebtg77)
+
 Suppose that:
 - At the top of the waterfall, 20 gallons/second of red water are flowing down, and 80 gallons/second of blue water are coming down.
 - 90% of the red water makes it to the bottom.
@@ -79,11 +89,19 @@ Of the purplish water that makes it to the bottom of the pool, how much was orig
 
 This is structurally similar to the Diseasitis problem. The 20% of sick patients are analogous to the 20 gallons/second of red water; the 80% of healthy patients are analogous to the 80 gallons/second of blue water.
 
+![A waterfall diagram with the top labeled: 20 sick (red) and 80 healthy (blue)](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/arbital/polxatcai7mbqxy4ecqu)
+
+The 90% of the sick patients turning the tongue depressor black is analogous to 90% of the red water making it to the bottom of the waterfall. 30% of the healthy patients turning the tongue depressor black is analogous to 30% of the blue water making it to the bottom pool.
+
+![A waterfall diagram with the middle labeled: 90% of red and 30% of blue pass through](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/arbital/vwvllmut7pqmqsxc4alj)
+
 We start with **4 times as much blue water as red water** at the top of the waterfall — prior odds of 1:4.
 
 Then each molecule of red water is 90% likely to make it to the shared pool, and each molecule of blue water is 30% likely to make it to the pool. So each molecule of red water is **3 times as likely** (0.90 / 0.30 = 3) as a molecule of blue water to make it to the bottom — relative likelihoods of 3:1.
 
 So we multiply prior odds of (1:4) by relative likelihoods of (3:1) and end up with final odds of (1×3):(4×1) = **3:4**, meaning that the bottom pool has 3 parts of red water to 4 parts of blue water.
+
+![A fully labeled waterfall diagram showing 1:4 prior odds × 3:1 likelihoods = 3:4 posterior odds](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/arbital/hfy9pvzvy3nzv3zlgkdh)
 
 To convert these *relative* proportions into an *absolute* probability that a random water molecule at the bottom is red: 3 / (3 + 4) = 3/7ths ≈ **43%**.
 
@@ -111,11 +129,15 @@ In general, Bayes' rule states:
 
 > **Prior odds × Relative likelihoods = Posterior odds**
 
-The *proportion* of red vs. blue water at the bottom of the waterfall will be the same whether there's 200 vs. 800 gallons per second or 20,000 vs. 80,000 — so long as the rest of the waterfall behaves proportionally. Thus we're justified in ignoring the *amount* of water and considering only the relative proportion. Similarly, what matters is the *relative* proportion between how much of each gallon of red vs. blue water makes it to the pool. 45% and 15% would give the same *relative proportion* as 90% and 30%.
+The *proportion* of red vs. blue water at the bottom of the waterfall will be the same whether there's 200 vs. 800 gallons per second or 20,000 vs. 80,000 — so long as the rest of the waterfall behaves proportionally.
 
-This justifies summarizing 90% and 30% into *relative likelihoods* of (3:1).
+![Waterfall visualization of Bayes' rule](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/arbital/polxatcai7mbqxy4ecqu)
 
-More generally, the strength of evidence is summarized by how *relatively* likely different states of the world make our observations.
+Thus we're justified in ignoring the *amount* of water and considering only the relative proportion. Similarly, what matters is the *relative* proportion between how much of each gallon of red vs. blue water makes it to the pool. 45% and 15% would give the same *relative proportion* as 90% and 30%.
+
+![Changing the proportion of water that passes through makes no difference to the final ratio](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/arbital/qbuzjiedh6sgztaukwvl)
+
+This justifies summarizing 90% and 30% into *relative likelihoods* of (3:1). More generally, the strength of evidence is summarized by how *relatively* likely different states of the world make our observations.
 
 ### Conditional Probability
 
@@ -125,6 +147,8 @@ The Diseasitis problem involved statements like:
 - The 90% chance that a patient blackens the tongue depressor, *given* that they have Diseasitis.
 - The 30% chance that a patient blackens the tongue depressor, *given* that they're healthy.
 - The 3/7 chance that a patient has Diseasitis, *given* that they blackened the tongue depressor.
+
+![Diagram of conditional probabilities in the Diseasitis example](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/arbital/c9c2dqra0xrjzdibqygw)
 
 These are **conditional probabilities**, written as P(X|Y): "the probability of X, assuming Y to be true." The assumption is on the right; the inferred proposition is on the left.
 
@@ -151,6 +175,10 @@ Bayes' rule in the Diseasitis example:
 
 To extract a probability from posterior odds: since everyone is either sick or not sick, divide each term by the sum: 3/(3+4) = 3/7 ≈ **43%**.
 
+Using the waterfall visualization:
+
+![A fully labeled waterfall diagram showing prior odds, likelihoods, and posterior odds](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/arbital/jcqiqmex5e5qhrugqdhn)
+
 In full generality, for any two hypotheses H_j and H_k with evidence e:
 
 > P(H_j) / P(H_k)  ×  P(e|H_j) / P(e|H_k)  =  P(H_j|e) / P(H_k|e)
@@ -164,6 +192,8 @@ From the definition of conditional probability, P(X∧Y) = P(Y) · P(X|Y). There
 > P(H_j)/P(H_k) · P(e|H_j)/P(e|H_k) = P(e∧H_j)/P(e∧H_k) = [P(H_j|e)/P(e)] / [P(H_k|e)/P(e)] = P(H_j|e)/P(H_k|e)
 
 In the Diseasitis example: 0.20/0.80 × 0.90/0.30 = 0.18/0.24 = 0.43/0.57 ✓
+
+![A Venn diagram showing the proof steps in the Diseasitis example](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/arbital/ei7eluisuuyrdmrfx8vy)
 
 This process of observing evidence and using its likelihood ratio to transform a prior belief into a posterior belief is called a **Bayesian update** or "belief revision."
 ++}
