@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779978760361}@@---
+{++{"author":"AI","timestamp":1780047436037}@@---
 title: "Why S-Risks Are the Worst Existential Risks, and How to Prevent Them"
 source_url: https://longtermrisk.org/s-risks-talk-eag-boston-2017/
 authors:
@@ -21,6 +21,8 @@ tags:
 
 ---
 
+![Title slide: Why S-Risks Are the Worst Existential Risks, and How to Prevent Them — Max Daniel, EAG Boston 2017](https://longtermrisk.org/files/2017-06-04-S-risk-talk-at-EAG-Boston.001.jpeg)
+
 I'm going to talk about risks of large-scale severe suffering in the far future, or S-Risks. To illustrate what S-Risks are about, I'd like to start with a fictional story from the British TV series Black Mirror. In this fictional scenario, it's possible to upload human minds into virtual environments. Sentient beings can effectively be stored and run on very small computing devices. Matt's job is to sell those virtual humans as virtual assistants. In order to make an unwilling human upload comply, Matt increases the rate at which time passes for her — so while Matt only needs to wait for a few seconds, during that time she effectively endures many months of solitary confinement.
 
 I hope you agree that this would be an undesirable scenario. I'll argue that there is in fact a broad range of scenarios we face risks of — scenarios that are in some ways like this, or even worse. I'll call these risks S-risks.
@@ -31,7 +33,13 @@ S-risks will be a subclass of the more familiar existential risks or X-risks. Th
 
 One way to understand how these risks differ from other kinds of risks is to look at two dimensions: **scope** (how many individuals would be negatively affected?) and **severity** (for each individual affected, how bad would the outcome be?).
 
-Existential risks are those with pan-generational scope and crushing severity. One central example is extinction risk, which has received a lot of attention in the EA community. But **S-risks are another type of existential risk** — they are risks that would be even worse than extinction because they contain a lot of things we disvalue (such as intense involuntary suffering), and would have even larger scope because they would affect a significant part of the universe.
+Existential risks are those with pan-generational scope and crushing severity.
+
+![2D risk map showing scope vs severity — existential risks occupy the top-right corner](https://longtermrisk.org/files/2017-06-04-S-risk-talk-at-EAG-Boston.007.jpeg)
+
+![2D risk map continued — S-risks extend further than extinction risks along the severity axis](https://longtermrisk.org/files/2017-06-04-S-risk-talk-at-EAG-Boston.008.jpeg)
+
+One central example is extinction risk, which has received a lot of attention in the EA community. But **S-risks are another type of existential risk** — they are risks that would be even worse than extinction because they contain a lot of things we disvalue (such as intense involuntary suffering), and would have even larger scope because they would affect a significant part of the universe.
 
 **S-risks are risks of severe involuntary suffering on a cosmic scale**, thereby exceeding the total amount of suffering we've seen on Earth so far. This makes them a subclass of existential risk, but a distinct subclass from extinction risks.
 
@@ -54,6 +62,8 @@ Two not-too-implausible technological developments could lead to S-risks:
 We shouldn't intuitively dismiss S-risks as absurd. Psychological research shows that humans systematically underestimate the probability of things that have never happened (the "absurdity heuristic"). The right approach is to examine what our best scientific theories say about how the future could unfold.
 
 ### Routes to S-Risks
+
+![Slide: Routes to S-Risks — by accident, through conflict, or through evil intent](https://longtermrisk.org/files/2017-06-04-S-risk-talk-at-EAG-Boston.014.jpeg)
 
 S-risks could arise through at least three routes — not just through evil intent:
 
@@ -79,6 +89,8 @@ Reducing S-risks is challenging — no silver bullet has been found — but it a
 Some work in the x-risk space arguably reduces S-risks, so they're not totally neglected. But they receive **much less attention than extinction risk**. I've sometimes seen people in the community explicitly or implicitly equate existential risk with extinction risk, which is conceptually incorrect. Very few people are specifically trying to identify interventions most effective at reducing S-risks.
 
 ## Implications for Cause Prioritization
+
+![Summary slide: S-risks warrant attention; AI risk is uniquely relevant; more targeted research needed](https://longtermrisk.org/files/2017-06-04-S-risk-talk-at-EAG-Boston.018.jpeg)
 
 I haven't conclusively answered for whom reducing S-risks is the best thing to do — this depends on ethical views and empirical questions about probability, tractability, and neglectedness.
 

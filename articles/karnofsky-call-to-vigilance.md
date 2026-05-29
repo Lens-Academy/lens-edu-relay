@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779999231352}@@---
+{++{"author":"AI","timestamp":1780047384092}@@---
 title: "Call to Vigilance"
 source_url: https://www.cold-takes.com/call-to-vigilance/
 authors:
@@ -47,6 +47,8 @@ If you're a person we might wish we could find in the future, you can help now b
 ## Sharing a headspace
 
 In [This Can't Go On](https://www.cold-takes.com/this-cant-go-on/), I analogized the world to people on a plane blasting down the runway, without knowing why they're moving so fast or what's coming next.
+
+![Airplane blasting down the runway at high speed](https://storage.ghost.io/c/c1/87/c187484b-b759-4728-8cb3-1c009c2c024e/content/images/2021/07/airplane-launch-compressed.gif)
 
 As someone sitting on this plane, I'd love to be able to tell you I've figured out exactly what's going on and what future we need to be planning for. But I haven't.
 
