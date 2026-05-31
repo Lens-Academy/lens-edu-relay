@@ -4,6 +4,10 @@ channel: "80,000 Hours"
 url: "https://www.youtube.com/watch?v=PZqDFs2sbiY"
 ---
 
-*Transcript processing failed.* You can resubmit this video from the Add Video page.
+*This transcript is being processed.*
 
-Failed at: 2026-05-30T09:37:05.249Z
+**24,493 words** — estimated processing time: **~16 minutes**.
+
+If you submitted multiple videos, they share a pool of 3 concurrent sessions and will be processed as capacity allows.
+
+Queued at: 5/31/2026, 12:15:18 PM
