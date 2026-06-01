@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780340727457}@@---
+{++{"author":"AI","timestamp":1780342383134}@@---
 title: "Purchase Fuzzies and Utilons Separately"
 source_url: https://www.lesswrong.com/posts/3p3CYauiX8oLjmwRF/purchase-fuzzies-and-utilons-separately
 author:
@@ -17,63 +17,42 @@ tags:
 
 # Purchase Fuzzies and Utilons Separately
 
-There's a mental move that a lot of people make when they donate to charity or volunteer their time: they try to get maximum value out of it emotionally *and* in terms of actual impact.
+Yesterday:
+> There *is* this very, very old puzzle/observation in economics about the lawyer who spends an hour volunteering at the soup kitchen, instead of working an extra hour and donating the money to hire someone...
+>
+> If the lawyer needs to work an hour at the soup kitchen to keep himself motivated and remind himself why he's doing what he's doing, *that's fine.* But he should *also* be donating some of the hours he worked at the office, because that is the power of professional specialization and it is how grownups really get things done. One might consider the check as buying the right to volunteer at the soup kitchen, or validating the time spent at the soup kitchen.
 
-This seems reasonable. But it often leads to worse outcomes on both fronts.
+I hold open doors for little old ladies. I can't actually remember the last time this happened literally (though I'm sure it has, sometime in the last year or so). But within the last month, say, I was out on a walk and discovered a station wagon parked in a driveway with its trunk completely open, giving full access to the car's interior. I looked in to see if there were packages being taken out, but this was not so. I looked around to see if anyone was doing anything with the car. And finally I went up to the house and knocked, then rang the bell. And yes, the trunk had been accidentally left open.
 
-## The Problem with Conflating Them
+Under other circumstances, this would be a simple act of altruism, which might signify true concern for another's welfare, or fear of guilt for inaction, or a desire to signal trustworthiness to oneself or others, or finding altruism pleasurable. I think that these are all perfectly legitimate motives, by the way; I might give bonus points for the first, but I wouldn't deduct any penalty points for the others. Just so long as people get helped.
 
-Imagine you're trying to decide where to give. You're choosing between:
+But in my own case, since I already work in the nonprofit sector, the further question arises as to whether I could have better employed the same sixty seconds in a more *specialized* way, to bring greater benefit to others. That is: can I really defend this as the *best* use of my time, given the other things I claim to believe?
 
-- **Option A**: Giving to a local animal shelter. You feel a direct connection. You can visit and see the animals you've helped. It feels meaningful.
-- **Option B**: Donating to an evidence-backed global health organization that distributes malaria nets. The impact is vastly larger per dollar, but it's abstract and distant.
+The obvious defense—or perhaps, obvious rationalization—is that an act of altruism like this one acts as an [willpower restorer](http://en.wikipedia.org/wiki/Ego_depletion), much more efficiently than, say, listening to music. I also mistrust my ability to be an altruist *only* in theory; I suspect that if I walk past problems, my altruism will start to fade. I've never pushed that far enough to test it; it doesn't seem worth the risk.
 
-Many people choose Option A — or split their donations between the two, trying to get both the warm feeling and the utilons (units of actual good in the world). But this kind of compromise often means you get less of both.
+But if that's the defense, then my act can't be defended as a good deed, can it? For these are self-directed benefits that I list.
 
-The warm feeling you get from charity is real and valuable — call it "fuzzies." The actual improvement in the world is also valuable — call it "utilons." These are genuinely different things, and they don't always come from the same source.
+Well—who said that I *was* defending the act as a selfless good deed? It's a *selfish* good deed. If it restores my willpower, or if it keeps me altruistic, then there are indirect other-directed benefits from that (or so I believe). You could, of course, reply that you don't trust selfish acts that are supposed to be other-benefiting as an "ulterior motive"; but then I could just as easily respond that, by the same principle, you should just look directly at the original good deed rather than *its* supposed ulterior motive.
 
-## Buy Them Separately
+Can I get away with that? That is, can I really get away with calling it a "selfish good deed", and still derive willpower restoration therefrom, rather than feeling guilt about it being selfish? Apparently I can. I'm surprised it works out that way, but it does. So long as I knock to tell them about the open trunk, and so long as the one says "Thank you!", my brain feels like it's done its wonderful good deed for the day.
 
-Yudkowsky's suggestion: buy your fuzzies and your utilons separately, from whichever sources are best at providing each.
+Your mileage may vary, of course. The problem with trying to work out an art of willpower restoration is that different things seem to work for different people. ([That is](http://www.overcomingbias.com/2008/11/chaotic-inversi.html): We're probing around on the level of surface phenomena without understanding the deeper rules that would also predict the variations.)
 
-If you want warm fuzzies, buy them from wherever gives you the most fuzzies per dollar or hour. Volunteer at the animal shelter, donate to causes that feel meaningful to you, support your local community theater. Don't feel guilty about this. Fuzzies are real goods. It's fine to want them.
+But if you find that you are like me in this aspect—that selfish good deeds still work—then I recommend that you *purchase warm fuzzies and utilons separately.* Not at the same time. Trying to do both at the same time just means that neither ends up done well. If status matters to you, purchase status separately too!
 
-But when it comes to actually improving the world — utilons — apply a different standard. Ask which intervention will have the most impact per dollar. Give where the evidence points, not where you feel the most emotional resonance.
+If I had to give advice to some new-minted billionaire entering the realm of charity, my advice would go something like this:
 
-Trying to get both from the same source often means you get less of each. You end up giving to something that provides moderate fuzzies and moderate impact, rather than maximum fuzzies from one source and maximum impact from another.
+- To purchase warm fuzzies, find some hard-working but poverty-stricken woman who's about to drop out of state college after her husband's hours were cut back, and personally, but anonymously, give her a cashier's check for $10,000. Repeat as desired.
+- To purchase status among your friends, donate $100,000 to the current sexiest X-Prize, or whatever other charity seems to offer the most stylishness for the least price. Make a big deal out of it, show up for their press events, and brag about it for the next five years.
+- Then—with absolute cold-blooded calculation—without [scope insensitivity](http://www.overcomingbias.com/2007/05/scope_insensiti.html) or [ambiguity aversion](http://en.wikipedia.org/wiki/Ambiguity_aversion)—without concern for status or warm fuzzies—figuring out some common scheme for converting outcomes to utilons, and trying to express uncertainty in percentage probabilitiess—find the charity that offers the greatest expected utilons per dollar. Donate up to however much money you wanted to give to charity, until their marginal efficiency drops below that of the next charity on the list.
 
-## The Billionaire Example
+I would furthermore advise the billionaire that what they spend on utilons should be at least, say, 20 times what they spend on warm fuzzies—5% overhead on keeping yourself altruistic seems reasonable, and I, your dispassionate judge, would have no trouble *validating* the warm fuzzies against a multiplier that large. Save that the original, fuzzy act really should be helpful rather than actively harmful.
 
-This becomes especially clear at large scales. Suppose you're a billionaire deciding how to direct your philanthropic resources. You could:
+(Purchasing *status* seems to me essentially unrelated to altruism. If giving money to the X-Prize gets you more awe from your friends than an equivalently priced speedboat, then there's really no reason to buy the speedboat. Just put the money under the "impressing friends" column, and be aware that this is not the "altruism" column.)
 
-1. Fund glamorous projects that attach your name to impressive things, making you feel generous and important
-2. Fund depressing-but-effective public health interventions that save millions of lives but don't make for good photo opportunities
+But the main lesson is that all three of these things—warm fuzzies, status, and expected utilons—can be bought *far* more efficiently when you buy *separately*, optimizing for only one thing at a time. Writing a check for $10,000,000 to a breast-cancer charity—while far more laudable than spending the same $10,000,000 on, I don't know, parties or something—won't give you the concentrated euphoria of being present in person when you turn a single human's life around, probably not anywhere *close*. It won't give you as much to talk about at parties as donating to something sexy like an X-Prize—maybe a short nod from the other rich. And if you threw away all concern for warm fuzzies and status, there are probably at least a *thousand* underserved existing charities that could produce *orders of magnitude* more utilons with ten million dollars. Trying to optimize for all three criteria in one go only ensures that none of them end up optimized very well—just vague pushes along all three dimensions.
 
-Trying to do both at once often means doing neither well. The effective work gets contaminated by the need to be emotionally satisfying. The emotionally satisfying work gets justified with inflated claims about its impact.
+Of course, if you're not a millionaire or even a billionaire—then you can't be quite as *efficient* about things, can't so easily purchase in bulk. But I would still say—for warm fuzzies, find a relatively *cheap* charity with bright, vivid, ideally in-person and direct beneficiaries. Volunteer at a soup kitchen. Or just get your warm fuzzies from holding open doors for little old ladies. Let that be *validated* by your other efforts to purchase utilons, but don't *confuse* it with purchasing utilons. Status is probably cheaper to purchase by buying nice clothes.
 
-Better to acknowledge: some things are for feeling good, some things are for doing good. Be honest with yourself about which is which.
-
-## Selfish Good Deeds
-
-There's a related point worth making: it's fine to do good deeds for selfish reasons.
-
-If you volunteer because it makes you feel connected, gives you social status, or makes you feel like a good person — that's fine. You're still helping. The motivation doesn't negate the benefit.
-
-The problem comes when you start thinking that because the motivation was selfish, the deed was less effective — or when you distort your choices about how to help based on what will feel most virtuous rather than what will actually do the most good.
-
-Selfish good deeds are genuinely good deeds. But selfish good deeds that compromise effectiveness — by choosing glamour over impact, or emotional resonance over evidence — are a missed opportunity.
-
-## Practical Implications
-
-This framing suggests a few practical moves:
-
-**Don't feel guilty about enjoying giving.** The emotional satisfaction of helping is real and good. It's part of why you do it.
-
-**But don't let emotional satisfaction be your guide to effectiveness.** Effectiveness requires a different standard — evidence, reasoning, expected impact.
-
-**Budget separately if helpful.** Some people find it useful to maintain two mental accounts: one for feel-good giving (support local causes, give to friends' fundraisers, donate to things you care about personally) and one for impact-focused giving (directed by evidence and reasoning, regardless of emotional appeal).
-
-**Be honest with yourself.** If you're doing something primarily for the fuzzies, acknowledge that. If you're claiming it's about impact, make sure you can actually back that up.
-
-The goal isn't to become a cold, calculating machine that only ever donates to whichever charity scores highest on some utilitarian calculus. Fuzzies are real goods. The goal is to be honest about what you're optimizing for — and when you're trying to do the most good in the world, to actually let that be your guide.
+And when it comes to purchasing expected utilons—then, of course, [shut up and multiply](http://www.overcomingbias.com/2008/01/circular-altrui.html).
 ++}
