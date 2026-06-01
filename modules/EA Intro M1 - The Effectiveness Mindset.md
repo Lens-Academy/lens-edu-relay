@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780329033202}@@---
+---
 id: 84237598-3365-44a7-a5f2-aa25ebb2a523
 slug: ea-intro-m1
 title: "The Effectiveness Mindset"
@@ -12,7 +12,7 @@ id:: 171bf51b-9a78-446f-bcca-0234c08dfe89
 
 #### Text
 content:: {>>TODO: add module welcome text (~90 min module)<<}
-
+TODO: add module welcome text
 # Submodule: Introduction
 # Learning Outcome: EA Intro - Explain What Effective Altruism Is
 source:: ![[../Learning Outcomes/EA Intro - Explain What Effective Altruism Is]]
@@ -31,4 +31,3 @@ source:: ![[../Learning Outcomes/EA Intro - Apply Triage Thinking to Giving Deci
 
 # Learning Outcome: EA Intro - Explain Why Some Interventions Have Outsized Impact
 source:: ![[../Learning Outcomes/EA Intro - Explain Why Some Interventions Have Outsized Impact]]
-++}

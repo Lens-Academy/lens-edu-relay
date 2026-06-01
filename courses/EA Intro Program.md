@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780329044664}@@---
+---
 id: b7b9c9f0-9f7c-4e37-9969-3db8b101639b
 slug: ea-intro-program
 title: EA Introductory Program
@@ -40,4 +40,3 @@ discussion: <placeholder — add Discord channel URL>
 # Module: [[../modules/EA Intro M8 - Putting It Into Practice]]
 
 # Meeting: Putting It Into Practice
-++}
