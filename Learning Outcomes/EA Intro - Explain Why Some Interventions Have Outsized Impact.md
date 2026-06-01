@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780329019697}@@---
+---
 id: 2c52e403-f35c-46b9-9d17-47067285705b
 discussion: <placeholder — add Discord channel URL>
 tags:
@@ -13,4 +13,3 @@ tags:
 
 ## Lens:
 source:: ![[../Lenses/EA Intro - 500 Million But Not a Single One More]]
-++}
