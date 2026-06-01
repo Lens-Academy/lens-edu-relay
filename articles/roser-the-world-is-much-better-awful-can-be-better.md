@@ -26,7 +26,9 @@ In the visualization below, I present three scenarios of child deaths. The blue 
 
 Clearly, a world where such tragedy happens is an awful world.
 
-## The world is much better
+{++{"author":"AI","timestamp":1780341238839}@@![A chart showing three scenarios of child deaths: today (5.5 million/year), if the mortality rate stayed at 43% as in the 19th century (60 million/year), and if the world achieved EU-level mortality (0.5 million/year)](https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/7f789440-d8e7-438d-96a8-8a33e5a48300/w=3600)
+
+++}## The world is much better
 
 The big lesson of history is that things change. The scale of these changes is hard to grasp. The living conditions in today's poorest countries are now in many ways much better than they were even in the richest countries of the past: Child mortality in today's worst-off places is [between 10-13%](https://ourworldindata.org/grapher/child-mortality-1990-vs-2017-slope); in all regions of the world it was more than three times as high [[30-50%](https://ourworldindata.org/child-mortality#estimates-for-child-mortality-over-the-last-two-centuries)] until a few generations ago. It's estimated that at the beginning of the 19th century, 43% of the world's children died by the age of five. If we still suffered the poor health of our ancestors, more than 60 million children would die every year — 166,000 every day.[^2]
 

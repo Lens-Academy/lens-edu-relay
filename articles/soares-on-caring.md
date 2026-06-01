@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780340716448}@@---
+---
 title: "On Caring"
 source_url: "https://mindingourway.com/on-caring/"
 author:
@@ -145,4 +145,3 @@ But sometimes, you can catch a glimpse.
 ---
 
 *This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).*
-++}
