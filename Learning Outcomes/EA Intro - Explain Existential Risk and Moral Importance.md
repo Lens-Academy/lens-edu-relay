@@ -1,6 +1,8 @@
-{++{"author":"AI","timestamp":1779998502173}@@---
+{++{"author":"AI","timestamp":1780329005742}@@---
 id: 057f198a-b1ec-4035-90ab-bd041025880c
 discussion: <placeholder — add Discord channel URL>
+tags:
+  - work-in-progress
 ---
 
 ## Learning outcome:
@@ -10,11 +12,11 @@ discussion: <placeholder — add Discord channel URL>
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
-source:: ![[../../Lenses/WIP/EA Intro - Our Final Century Introduction]]
+source:: ![[../Lenses/EA Intro - Our Final Century Introduction]]
 
 ## Lens:
-source:: ![[../../Lenses/WIP/EA Intro - The Case for Reducing Existential Risk]]
+source:: ![[../Lenses/EA Intro - The Case for Reducing Existential Risk]]
 
 ## Lens:
-source:: ![[../../Lenses/WIP/EA Intro - Global Catastrophic Risks]]
+source:: ![[../Lenses/EA Intro - Global Catastrophic Risks]]
 ++}

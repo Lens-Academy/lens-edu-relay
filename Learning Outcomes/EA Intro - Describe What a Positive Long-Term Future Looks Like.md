@@ -1,6 +1,8 @@
-{++{"author":"AI","timestamp":1779975933315}@@---
+{++{"author":"AI","timestamp":1780328988054}@@---
 id: 22820eab-1fbf-40e1-af51-bee4a69cf984
 discussion: <placeholder — add Discord channel URL>
+tags:
+  - work-in-progress
 ---
 
 ## Learning outcome:

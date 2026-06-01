@@ -1,6 +1,8 @@
-{++{"author":"AI","timestamp":1780000347609}@@---
+{++{"author":"AI","timestamp":1780329026062}@@---
 id: 8a610770-11cb-4e25-96aa-652e302f1ae8
 discussion: <placeholder — add Discord channel URL>
+tags:
+  - work-in-progress
 ---
 
 ## Learning outcome:
@@ -10,8 +12,8 @@ discussion: <placeholder — add Discord channel URL>
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
-source:: ![[../../Lenses/WIP/EA Intro - Call to Vigilance]]
+source:: ![[../Lenses/EA Intro - Call to Vigilance]]
 
 ## Lens:
-source:: ![[../../Lenses/WIP/EA Intro - Effective Altruism as the Most Exciting Cause]]
+source:: ![[../Lenses/EA Intro - Effective Altruism as the Most Exciting Cause]]
 ++}

@@ -1,6 +1,8 @@
-{++{"author":"AI","timestamp":1779998494642}@@---
+{++{"author":"AI","timestamp":1780328986714}@@---
 id: c94e404a-58d6-4539-ae74-9622229f6efb
 discussion: <placeholder — add Discord channel URL>
+tags:
+  - work-in-progress
 ---
 
 ## Learning outcome:
@@ -10,5 +12,5 @@ discussion: <placeholder — add Discord channel URL>
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
-source:: ![[../../Lenses/WIP/EA Intro - Moral Progress and Cause X]]
+source:: ![[../Lenses/EA Intro - Moral Progress and Cause X]]
 ++}

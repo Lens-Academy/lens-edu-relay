@@ -1,6 +1,8 @@
-{++{"author":"AI","timestamp":1779998498542}@@---
+{++{"author":"AI","timestamp":1780328979762}@@---
 id: f7f7e180-0561-44ef-9134-bc2aa230549c
 discussion: <placeholder — add Discord channel URL>
+tags:
+  - work-in-progress
 ---
 
 ## Learning outcome:
@@ -10,5 +12,5 @@ discussion: <placeholder — add Discord channel URL>
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
-source:: ![[../../Lenses/WIP/EA Intro - On Fringe Ideas]]
+source:: ![[../Lenses/EA Intro - On Fringe Ideas]]
 ++}

@@ -1,6 +1,8 @@
-{++{"author":"AI","timestamp":1780000319726}@@---
+{++{"author":"AI","timestamp":1780328992667}@@---
 id: a4054d4b-5a4d-4302-ae51-3d2685cc5366
 discussion: <placeholder — add Discord channel URL>
+tags:
+  - work-in-progress
 ---
 
 ## Learning outcome:
@@ -10,11 +12,11 @@ discussion: <placeholder — add Discord channel URL>
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
-source:: ![[../../Lenses/WIP/EA Intro - Scout Mindset (Julia Galef)]]
+source:: ![[../Lenses/EA Intro - Scout Mindset (Julia Galef)]]
 
 ## Lens:
-source:: ![[../../Lenses/WIP/EA Intro - What Cognitive Biases Feel Like From the Inside]]
+source:: ![[../Lenses/EA Intro - What Cognitive Biases Feel Like From the Inside]]
 
 ## Lens:
-source:: ![[../../Lenses/WIP/EA Intro - Purchase Fuzzies and Utilons Separately]]
+source:: ![[../Lenses/EA Intro - Purchase Fuzzies and Utilons Separately]]
 ++}

@@ -1,6 +1,8 @@
-{++{"author":"AI","timestamp":1779998509910}@@---
+{++{"author":"AI","timestamp":1780329003948}@@---
 id: 7932d074-8072-477f-9b13-9c6e7ce3df9a
 discussion: <placeholder — add Discord channel URL>
+tags:
+  - work-in-progress
 ---
 
 ## Learning outcome:
@@ -10,5 +12,5 @@ discussion: <placeholder — add Discord channel URL>
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
-source:: ![[../../Lenses/WIP/EA Intro - Crucial Considerations]]
+source:: ![[../Lenses/EA Intro - Crucial Considerations]]
 ++}

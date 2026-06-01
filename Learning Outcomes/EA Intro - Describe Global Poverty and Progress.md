@@ -1,6 +1,8 @@
-{++{"author":"AI","timestamp":1779998489415}@@---
+{++{"author":"AI","timestamp":1780328984902}@@---
 id: f4060802-fbb1-4347-86ce-97d18f5e67e7
 discussion: <placeholder — add Discord channel URL>
+tags:
+  - work-in-progress
 ---
 
 ## Learning outcome:
@@ -10,8 +12,8 @@ discussion: <placeholder — add Discord channel URL>
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
-source:: ![[../../Lenses/WIP/EA Intro - Global Economic Inequality]]
+source:: ![[../Lenses/EA Intro - Global Economic Inequality]]
 
 ## Lens:
-source:: ![[../../Lenses/WIP/EA Intro - Global Health]]
+source:: ![[../Lenses/EA Intro - Global Health]]
 ++}

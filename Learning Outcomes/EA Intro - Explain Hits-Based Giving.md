@@ -1,6 +1,8 @@
-{++{"author":"AI","timestamp":1779998508446}@@---
+{++{"author":"AI","timestamp":1780329007277}@@---
 id: e9c6fc20-558b-406c-889b-b7f5d5a768dc
 discussion: <placeholder — add Discord channel URL>
+tags:
+  - work-in-progress
 ---
 
 ## Learning outcome:
@@ -10,5 +12,5 @@ discussion: <placeholder — add Discord channel URL>
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
-source:: ![[../../Lenses/WIP/EA Intro - Hits-Based Giving]]
+source:: ![[../Lenses/EA Intro - Hits-Based Giving]]
 ++}

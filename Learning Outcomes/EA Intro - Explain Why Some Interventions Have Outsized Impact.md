@@ -1,6 +1,8 @@
-{++{"author":"AI","timestamp":1780000324063}@@---
+{++{"author":"AI","timestamp":1780329019697}@@---
 id: 2c52e403-f35c-46b9-9d17-47067285705b
 discussion: <placeholder — add Discord channel URL>
+tags:
+  - work-in-progress
 ---
 
 ## Learning outcome:
@@ -10,5 +12,5 @@ discussion: <placeholder — add Discord channel URL>
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
-source:: ![[../../Lenses/EA Intro - 500 Million But Not a Single One More]]
+source:: ![[../Lenses/EA Intro - 500 Million But Not a Single One More]]
 ++}

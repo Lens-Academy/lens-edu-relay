@@ -1,6 +1,8 @@
-{++{"author":"AI","timestamp":1780000329982}@@---
+{++{"author":"AI","timestamp":1780329008927}@@---
 id: 67747e63-d9f2-4f46-870d-e95b50d86e14
 discussion: <placeholder — add Discord channel URL>
+tags:
+  - work-in-progress
 ---
 
 ## Learning outcome:
@@ -10,8 +12,8 @@ discussion: <placeholder — add Discord channel URL>
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
-source:: ![[../../Lenses/WIP/EA Intro - Risks from Artificial Intelligence Introduction]]
+source:: ![[../Lenses/EA Intro - Risks from Artificial Intelligence Introduction]]
 
 ## Lens:
-source:: ![[../../Lenses/WIP/EA Intro - How AI Could Create the Biggest Problems]]
+source:: ![[../Lenses/EA Intro - How AI Could Create the Biggest Problems]]
 ++}

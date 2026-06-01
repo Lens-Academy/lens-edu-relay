@@ -1,6 +1,8 @@
-{++{"author":"AI","timestamp":1780000327954}@@---
+{++{"author":"AI","timestamp":1780328975571}@@---
 id: 61e85ce7-af43-4089-97fe-7babfee9b161
 discussion: <placeholder — add Discord channel URL>
+tags:
+  - work-in-progress
 ---
 
 ## Learning outcome:
@@ -10,8 +12,8 @@ discussion: <placeholder — add Discord channel URL>
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
-source:: ![[../../Lenses/WIP/EA Intro - Fermi Estimation]]
+source:: ![[../Lenses/EA Intro - Fermi Estimation]]
 
 ## Lens:
-source:: ![[../../Lenses/WIP/EA Intro - Seabirds Sea Mammals and Marine Plastic]]
+source:: ![[../Lenses/EA Intro - Seabirds Sea Mammals and Marine Plastic]]
 ++}

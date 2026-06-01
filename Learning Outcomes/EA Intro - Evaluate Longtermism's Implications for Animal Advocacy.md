@@ -1,6 +1,8 @@
-{++{"author":"AI","timestamp":1779998517184}@@---
+{++{"author":"AI","timestamp":1780328997586}@@---
 id: 9805ec0b-74f0-4544-ba98-7cf4bf37f276
 discussion: <placeholder — add Discord channel URL>
+tags:
+  - work-in-progress
 ---
 
 ## Learning outcome:
@@ -10,5 +12,5 @@ discussion: <placeholder — add Discord channel URL>
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
-source:: ![[../../Lenses/WIP/EA Intro - Longtermism and Animal Advocacy]]
+source:: ![[../Lenses/EA Intro - Longtermism and Animal Advocacy]]
 ++}

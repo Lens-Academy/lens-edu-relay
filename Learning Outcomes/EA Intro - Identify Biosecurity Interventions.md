@@ -1,6 +1,8 @@
-{++{"author":"AI","timestamp":1779998505723}@@---
+{++{"author":"AI","timestamp":1780329021585}@@---
 id: 805f62c4-60da-4e7d-ac91-b5a29071ece1
 discussion: <placeholder — add Discord channel URL>
+tags:
+  - work-in-progress
 ---
 
 ## Learning outcome:
@@ -10,5 +12,5 @@ discussion: <placeholder — add Discord channel URL>
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
-source:: ![[../../Lenses/WIP/EA Intro - Concrete Biosecurity Projects]]
+source:: ![[../Lenses/EA Intro - Concrete Biosecurity Projects]]
 ++}

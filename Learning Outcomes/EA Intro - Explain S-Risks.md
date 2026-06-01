@@ -1,6 +1,8 @@
-{++{"author":"AI","timestamp":1780000333293}@@---
+{++{"author":"AI","timestamp":1780329014860}@@---
 id: 2a0bdc70-b0f4-4bf5-a49b-8fcec6a2c17d
 discussion: <placeholder — add Discord channel URL>
+tags:
+  - work-in-progress
 ---
 
 ## Learning outcome:
@@ -10,5 +12,5 @@ discussion: <placeholder — add Discord channel URL>
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
-source:: ![[../../Lenses/WIP/EA Intro - Why S-Risks Are the Worst Existential Risks]]
+source:: ![[../Lenses/EA Intro - Why S-Risks Are the Worst Existential Risks]]
 ++}

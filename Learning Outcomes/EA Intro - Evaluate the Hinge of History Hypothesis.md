@@ -1,6 +1,8 @@
-{++{"author":"AI","timestamp":1779998514387}@@---
+{++{"author":"AI","timestamp":1780329001050}@@---
 id: b4ea9db0-afaa-472a-b4f1-7bb5edb766f4
 discussion: <placeholder — add Discord channel URL>
+tags:
+  - work-in-progress
 ---
 
 ## Learning outcome:
@@ -10,5 +12,5 @@ discussion: <placeholder — add Discord channel URL>
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
-source:: ![[../../Lenses/WIP/EA Intro - This Can't Go On]]
+source:: ![[../Lenses/EA Intro - This Can't Go On]]
 ++}

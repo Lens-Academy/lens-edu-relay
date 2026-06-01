@@ -1,6 +1,8 @@
-{++{"author":"AI","timestamp":1779998499845}@@---
+{++{"author":"AI","timestamp":1780329029418}@@---
 id: 0d1bc5bd-fb97-461f-9783-56ee135ea218
 discussion: <placeholder — add Discord channel URL>
+tags:
+  - work-in-progress
 ---
 
 ## Learning outcome:
@@ -10,5 +12,5 @@ discussion: <placeholder — add Discord channel URL>
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
-source:: ![[../../Lenses/WIP/EA Intro - Factory Farming Problem Profile]]
+source:: ![[../Lenses/EA Intro - Factory Farming Problem Profile]]
 ++}

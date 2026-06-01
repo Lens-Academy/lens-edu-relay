@@ -1,6 +1,8 @@
-{++{"author":"AI","timestamp":1779976009828}@@---
+{++{"author":"AI","timestamp":1780329024637}@@---
 id: bf547447-3617-46ff-a14f-6ebd9240e9f2
 discussion: <placeholder — add Discord channel URL>
+tags:
+  - work-in-progress
 ---
 
 ## Learning outcome:
@@ -10,5 +12,5 @@ discussion: <placeholder — add Discord channel URL>
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
-source:: ![[../../Lenses/WIP/EA Intro - Lessons for EA (Toby Ord EAG)]]
+source:: ![[../Lenses/EA Intro - Lessons for EA (Toby Ord EAG)]]
 ++}

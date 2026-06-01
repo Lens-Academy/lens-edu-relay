@@ -1,6 +1,8 @@
-{++{"author":"AI","timestamp":1780000346295}@@---
+{++{"author":"AI","timestamp":1780329031259}@@---
 id: 89e408a9-8a03-4b34-be69-69c941b51507
 discussion: <placeholder — add Discord channel URL>
+tags:
+  - work-in-progress
 ---
 
 ## Learning outcome:
@@ -10,5 +12,5 @@ discussion: <placeholder — add Discord channel URL>
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
-source:: ![[../../Lenses/WIP/EA Intro - You Have More Than One Goal]]
+source:: ![[../Lenses/EA Intro - You Have More Than One Goal]]
 ++}

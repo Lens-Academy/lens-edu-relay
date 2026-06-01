@@ -1,6 +1,8 @@
-{++{"author":"AI","timestamp":1779998493158}@@---
+{++{"author":"AI","timestamp":1780329010941}@@---
 id: 4b6c5ae3-0450-4a2b-a0aa-09ef24864c41
 discussion: <placeholder — add Discord channel URL>
+tags:
+  - work-in-progress
 ---
 
 ## Learning outcome:
@@ -10,8 +12,8 @@ discussion: <placeholder — add Discord channel URL>
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
-source:: ![[../../Lenses/WIP/EA Intro - Radical Empathy Introduction]]
+source:: ![[../Lenses/EA Intro - Radical Empathy Introduction]]
 
 ## Lens:
-source:: ![[../../Lenses/WIP/EA Intro - Radical Empathy (Karnofsky)]]
+source:: ![[../Lenses/EA Intro - Radical Empathy (Karnofsky)]]
 ++}

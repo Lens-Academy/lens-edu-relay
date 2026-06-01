@@ -1,6 +1,8 @@
-{++{"author":"AI","timestamp":1780000341789}@@---
+{++{"author":"AI","timestamp":1780328994522}@@---
 id: 8876a5f4-55ee-4af5-b9dc-aafdce2ffa58
 discussion: <placeholder — add Discord channel URL>
+tags:
+  - work-in-progress
 ---
 
 ## Learning outcome:
@@ -10,5 +12,5 @@ discussion: <placeholder — add Discord channel URL>
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
-source:: ![[../../Lenses/WIP/EA Intro - Big List of Cause Candidates]]
+source:: ![[../Lenses/EA Intro - Big List of Cause Candidates]]
 ++}

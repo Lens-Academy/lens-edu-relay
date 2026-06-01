@@ -1,6 +1,8 @@
-{++{"author":"AI","timestamp":1779998496850}@@---
+{++{"author":"AI","timestamp":1780329002448}@@---
 id: be2995e7-a209-42c5-8002-858f2e9ffd80
 discussion: <placeholder — add Discord channel URL>
+tags:
+  - work-in-progress
 ---
 
 ## Learning outcome:
@@ -10,5 +12,5 @@ discussion: <placeholder — add Discord channel URL>
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
-source:: ![[../../Lenses/WIP/EA Intro - The Possibility of Ongoing Moral Catastrophe]]
+source:: ![[../Lenses/EA Intro - The Possibility of Ongoing Moral Catastrophe]]
 ++}

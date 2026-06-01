@@ -1,6 +1,8 @@
-{++{"author":"AI","timestamp":1780000344531}@@---
+{++{"author":"AI","timestamp":1780328971998}@@---
 id: d4c2baf8-5be3-4cec-b33a-0d4f06a5478d
 discussion: <placeholder — add Discord channel URL>
+tags:
+  - work-in-progress
 ---
 
 ## Learning outcome:
@@ -10,11 +12,11 @@ discussion: <placeholder — add Discord channel URL>
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
-source:: ![[../../Lenses/WIP/EA Intro - Putting It Into Practice Introduction]]
+source:: ![[../Lenses/EA Intro - Putting It Into Practice Introduction]]
 
 ## Lens:
-source:: ![[../../Lenses/WIP/EA Intro - Summary of 80000 Hours Key Ideas]]
+source:: ![[../Lenses/EA Intro - Summary of 80000 Hours Key Ideas]]
 
 ## Lens:
-source:: ![[../../Lenses/WIP/EA Intro - Career Choice for Longtermists]]
+source:: ![[../Lenses/EA Intro - Career Choice for Longtermists]]
 ++}

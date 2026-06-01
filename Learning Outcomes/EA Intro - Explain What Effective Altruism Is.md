@@ -1,6 +1,8 @@
-{++{"author":"AI","timestamp":1780000314588}@@---
+{++{"author":"AI","timestamp":1780328969801}@@---
 id: 6ab43838-41bd-4453-a4da-f82d047c53fb
 discussion: <placeholder — add Discord channel URL>
+tags:
+  - work-in-progress
 ---
 
 ## Learning outcome:
@@ -10,17 +12,17 @@ discussion: <placeholder — add Discord channel URL>
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
-source:: ![[../../Lenses/EA Intro - About This Handbook]]
+source:: ![[../Lenses/EA Intro - About This Handbook]]
 
 ## Lens:
-source:: ![[../../Lenses/WIP/EA Intro - The Effectiveness Mindset (Dalton)]]
+source:: ![[../Lenses/EA Intro - The Effectiveness Mindset (Dalton)]]
 
 ## Lens:
-source:: ![[../../Lenses/WIP/EA Intro - Introduction to Effective Altruism]]
+source:: ![[../Lenses/EA Intro - Introduction to Effective Altruism]]
 
 ## Lens:
-source:: ![[../../Lenses/WIP/EA Intro - Four Ideas You Already Agree With]]
+source:: ![[../Lenses/EA Intro - Four Ideas You Already Agree With]]
 
 ## Lens:
-source:: ![[../../Lenses/WIP/EA Intro - The World Is Much Better]]
+source:: ![[../Lenses/EA Intro - The World Is Much Better]]
 ++}

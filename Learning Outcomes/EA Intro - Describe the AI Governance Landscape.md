@@ -1,6 +1,8 @@
-{++{"author":"AI","timestamp":1780000331455}@@---
+{++{"author":"AI","timestamp":1780328989871}@@---
 id: 5b786223-4d84-4964-9563-6c607a0d6941
 discussion: <placeholder — add Discord channel URL>
+tags:
+  - work-in-progress
 ---
 
 ## Learning outcome:
@@ -10,5 +12,5 @@ discussion: <placeholder — add Discord channel URL>
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
-source:: ![[../../Lenses/WIP/EA Intro - The Longtermist AI Governance Landscape]]
+source:: ![[../Lenses/EA Intro - The Longtermist AI Governance Landscape]]
 ++}

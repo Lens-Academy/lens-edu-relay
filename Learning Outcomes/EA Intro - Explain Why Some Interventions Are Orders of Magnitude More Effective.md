@@ -1,6 +1,8 @@
-{++{"author":"AI","timestamp":1779998483962}@@---
+{++{"author":"AI","timestamp":1780329018193}@@---
 id: 34305b29-038f-4b93-b1b6-f1fab8c59b45
 discussion: <placeholder — add Discord channel URL>
+tags:
+  - work-in-progress
 ---
 
 ## Learning outcome:
@@ -10,5 +12,5 @@ discussion: <placeholder — add Discord channel URL>
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
-source:: ![[../../Lenses/WIP/EA Intro - Comparing Charities - How Big Is the Difference]]
+source:: ![[../Lenses/EA Intro - Comparing Charities - How Big Is the Difference]]
 ++}

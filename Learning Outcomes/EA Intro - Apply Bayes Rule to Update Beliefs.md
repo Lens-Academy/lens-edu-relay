@@ -1,6 +1,8 @@
-{++{"author":"AI","timestamp":1780000337419}@@---
+{++{"author":"AI","timestamp":1780328970616}@@---
 id: 6f1bb7c8-6c30-41d1-b15e-76679d5513ca
 discussion: <placeholder — add Discord channel URL>
+tags:
+  - work-in-progress
 ---
 
 ## Learning outcome:
@@ -10,14 +12,14 @@ discussion: <placeholder — add Discord channel URL>
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
-source:: ![[../../Lenses/WIP/EA Intro - What Do You Think Introduction]]
+source:: ![[../Lenses/EA Intro - What Do You Think Introduction]]
 
 ## Lens:
-source:: ![[../../Lenses/WIP/EA Intro - Bayes Rule Guide]]
+source:: ![[../Lenses/EA Intro - Bayes Rule Guide]]
 
 ## Lens:
-source:: ![[../../Lenses/WIP/EA Intro - Making Beliefs Pay Rent]]
+source:: ![[../Lenses/EA Intro - Making Beliefs Pay Rent]]
 
 ## Lens:
-source:: ![[../../Lenses/WIP/EA Intro - What Is Evidence]]
+source:: ![[../Lenses/EA Intro - What Is Evidence]]
 ++}
