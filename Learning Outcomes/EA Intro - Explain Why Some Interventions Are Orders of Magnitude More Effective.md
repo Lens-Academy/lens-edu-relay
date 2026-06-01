@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780329018193}@@---
+---
 id: 34305b29-038f-4b93-b1b6-f1fab8c59b45
 discussion: <placeholder — add Discord channel URL>
 tags:
@@ -13,4 +13,3 @@ tags:
 
 ## Lens:
 source:: ![[../Lenses/EA Intro - Comparing Charities - How Big Is the Difference]]
-++}

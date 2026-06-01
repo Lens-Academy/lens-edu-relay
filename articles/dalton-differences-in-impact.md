@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780340653243}@@---
+---
 title: "Differences in Impact"
 source_url: https://forum.effectivealtruism.org/posts/eNwfbeZmzaHnmAaAj/differences-in-impact
 author:
@@ -33,4 +33,3 @@ Key concepts from this session include:
 ---
 
 *This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).*
-++}

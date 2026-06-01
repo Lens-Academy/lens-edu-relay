@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780328981888}@@---
+---
 id: 8b4f4622-06cc-4070-b22f-31eda7e9e9ed
 discussion: <placeholder — add Discord channel URL>
 tags:
@@ -16,4 +16,3 @@ source:: ![[../Lenses/EA Intro - Framework for Comparing Global Problems]]
 
 ## Lens:
 source:: ![[../Lenses/EA Intro - Differences in Impact]]
-++}

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780343719509}@@---
+---
 title: "Comparing Charities: How Big is the Difference?"
 source_url: https://www.givingwhatwecan.org/en/charity-comparisons
 author:
@@ -18,4 +18,3 @@ tags:
 # Comparing Charities: How Big is the Difference?
 
 {>>TODO: Licensed content<<}
-++}
