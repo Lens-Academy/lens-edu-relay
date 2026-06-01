@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780329034681}@@---
+---
 id: 8d3c0809-d215-43fd-b01b-3075deb40bdd
 slug: ea-intro-m2
 title: "Differences in Impact"
@@ -34,4 +34,3 @@ source:: ![[../Learning Outcomes/EA Intro - Describe Global Poverty and Progress
 
 # Learning Outcome: EA Intro - Evaluate Global Health Interventions
 source:: ![[../Learning Outcomes/EA Intro - Evaluate Global Health Interventions]]
-++}

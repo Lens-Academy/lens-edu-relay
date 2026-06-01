@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780340722666}@@---
+---
 title: "A Framework for Comparing Global Problems in Terms of Expected Impact"
 source_url: https://80000hours.org/articles/problem-framework/
 author:
@@ -16,7 +16,7 @@ tags:
 
 # A Framework for Comparing Global Problems in Terms of Expected Impact
 
-Suppose you're trying to figure out whether to learn about health in developing countries; or whether to become a researcher in solar energy; or whether to campaign for criminal justice reform in the USA. Which of these areas is most effective to focus on?
+{--{"author":"AI","timestamp":1780344631068}@@Suppose you're trying to figure out whether to learn about health in developing countries; or whether to become a researcher in solar energy; or whether to campaign for criminal justice reform in the USA. Which of these areas is most effective to focus on?
 
 A year's work on some problems can help a lot more people than a year's worth of work on other problems. In fact, our analysis suggests that which problem areas you choose to work on may be the single biggest determinant of the social impact you have with your career.
 
@@ -142,5 +142,4 @@ While it is hard to measure effectiveness precisely, the differences identified 
 
 ---
 
-*This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).*
-++}
+*This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).*--}{++{"author":"AI","timestamp":1780344631068}@@{>>TODO: Licensed content<<}++}

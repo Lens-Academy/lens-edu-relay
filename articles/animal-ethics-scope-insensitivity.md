@@ -16,7 +16,7 @@ tags:
 
 # Scope Insensitivity: Failing to Appreciate the Numbers of Those Who Need Our Help
 
-One of the most important psychological findings for anyone who wants to do good in the world is the phenomenon known as scope insensitivity. It refers to our tendency to respond similarly to large and small numbers of victims — and it has profound implications for how we should think about helping others.
+{--{"author":"AI","timestamp":1780343929944}@@One of the most important psychological findings for anyone who wants to do good in the world is the phenomenon known as scope insensitivity. It refers to our tendency to respond similarly to large and small numbers of victims — and it has profound implications for how we should think about helping others.
 
 ## The Bird Study
 
@@ -52,4 +52,4 @@ One response to scope insensitivity is to try to cultivate a more expansive sens
 
 When evaluating how to help others, it's worth asking: How many individuals are affected? How severely? What would actually be done with my resources? These questions can help counteract the pull of vivid individual stories and bring our choices more in line with what will actually make a difference.
 
-Scope insensitivity is one of several reasons why doing good effectively requires more than just good intentions. It requires thinking carefully about our psychological limitations and trying to correct for them — to make sure that the scale of our response actually matches the scale of the need.
+Scope insensitivity is one of several reasons why doing good effectively requires more than just good intentions. It requires thinking carefully about our psychological limitations and trying to correct for them — to make sure that the scale of our response actually matches the scale of the need.--}{++{"author":"AI","timestamp":1780343929944}@@{>>TODO: Licensed content<<}++}

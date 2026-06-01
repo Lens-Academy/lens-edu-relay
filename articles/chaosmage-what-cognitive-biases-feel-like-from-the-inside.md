@@ -17,7 +17,7 @@ tags:
 
 # What Cognitive Biases Feel Like From the Inside
 
-Cognitive biases are well-documented in psychology research. But research usually describes them from the outside — as patterns in data, as deviations from rational norms. What's harder to convey is what these biases feel like when you're actually experiencing them. From the inside, biased thinking doesn't feel like bias. It feels like seeing clearly.
+{--{"author":"AI","timestamp":1780343894895}@@Cognitive biases are well-documented in psychology research. But research usually describes them from the outside — as patterns in data, as deviations from rational norms. What's harder to convey is what these biases feel like when you're actually experiencing them. From the inside, biased thinking doesn't feel like bias. It feels like seeing clearly.
 
 Here's a look at some common cognitive biases and the phenomenology of each — what it actually feels like to be under their influence.
 
@@ -67,4 +67,4 @@ This is why being aware of cognitive biases as abstract concepts isn't enough. K
 
 The antidote isn't self-flagellation or constant second-guessing. It's developing habits of thought that build in external checks: seeking out opposing arguments, looking for disconfirming evidence, checking your predictions against outcomes, asking "would I believe this if it pointed the other way?" These habits can partially compensate for the invisible pull of bias.
 
-But they require effort, because the biased version always feels more natural. Clear thinking is a skill that has to be practiced against the grain of our instincts.
+But they require effort, because the biased version always feels more natural. Clear thinking is a skill that has to be practiced against the grain of our instincts.--}{++{"author":"AI","timestamp":1780343894895}@@{>>TODO: Licensed content<<}++}
