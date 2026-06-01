@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780328978876}@@---
+---
 id: d2b008bb-4d4b-452e-a5b7-b37cba61a8f5
 discussion: <placeholder — add Discord channel URL>
 tags:
@@ -13,4 +13,3 @@ tags:
 
 ## Lens:
 source:: ![[../Lenses/EA Intro - We Are in Triage Every Second of Every Day]]
-++}
