@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780328992667}@@---
+---
 id: a4054d4b-5a4d-4302-ae51-3d2685cc5366
 discussion: <placeholder — add Discord channel URL>
 tags:
@@ -19,4 +19,3 @@ source:: ![[../Lenses/EA Intro - What Cognitive Biases Feel Like From the Inside
 
 ## Lens:
 source:: ![[../Lenses/EA Intro - Purchase Fuzzies and Utilons Separately]]
-++}
