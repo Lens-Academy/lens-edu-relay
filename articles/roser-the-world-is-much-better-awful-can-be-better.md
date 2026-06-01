@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780340711346}@@---
+---
 title: "The world is much better. The world is awful. The world can be much better."
 source_url: "https://ourworldindata.org/much-better-awful-can-be-better"
 author:
@@ -71,4 +71,3 @@ We know that it is possible to make the world a better place because we already 
 [^1]: Child deaths in 2017: 140.95 million births × (3.9/100) = 5,497,050 deaths per year, or 15,050 per day.
 
 [^2]: We don't know how many children actually died at the time because we don't have estimates of the number of births globally for that period. We have estimates of both the number of births and the mortality rate for the 1950s and 1960s, and the records show that around 20 million children died every year.
-++}
