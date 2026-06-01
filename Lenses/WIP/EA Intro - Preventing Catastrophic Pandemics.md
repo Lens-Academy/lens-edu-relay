@@ -1,6 +1,0 @@
-{++{"author":"AI","timestamp":1779997942669}@@---
-id: 79c1235b-b31e-4e39-98a7-0152f32b294d
----
-
-#### Article
-source:: [[../../articles/80k-preventing-catastrophic-pandemics]]++}
