@@ -1,6 +1,6 @@
 {++{"author":"AI","timestamp":1780340678473}@@---
 title: "We Are in Triage Every Second of Every Day"
-source_url: https://mhollyelmoreblog.wordpress.com/2016/08/26/we-are-in-triage-every-second-of-every-day/
+source_url: https://forum.effectivealtruism.org/s/B79ro5zkhndbBKRRX/p/vQpk3cxdAe5RX9xzo
 author:
   - Holly Elmore
 published: 2016-08-26
