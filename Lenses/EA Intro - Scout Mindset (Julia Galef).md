@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780328459354}@@---
+---
 id: adc9d5d1-f670-4e56-a291-f1c29cbd7247
 tags:
   - work-in-progress
@@ -16,4 +16,3 @@ content:: {>>TODO: add post-video discussion prompt<<}
 #### Chat
 instructions::
 {>>TODO: add AI tutor instructions — TLDR, discussion topics, comprehension checks for motivated reasoning / scout mindset<<}
-++}

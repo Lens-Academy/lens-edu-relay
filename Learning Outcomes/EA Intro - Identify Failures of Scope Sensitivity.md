@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780329023436}@@---
+---
 id: bc107aba-831f-4204-bcd7-55e7918aca47
 discussion: <placeholder — add Discord channel URL>
 tags:
@@ -16,4 +16,3 @@ source:: ![[../Lenses/EA Intro - On Caring]]
 
 ## Lens:
 source:: ![[../Lenses/EA Intro - Scope Insensitivity]]
-++}
