@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779974090726}@@---
+---
 title: "About this handbook"
 source_url: "https://forum.effectivealtruism.org/posts/XKfnWebzJsdxecBDw/about-this-handbook"
 author:
@@ -8,7 +8,8 @@ created: 2026-05-28
 description: "An introduction to the EA Introductory Program handbook, explaining what effective altruism is, how the program works, and how participants should approach the material — taking ideas seriously, treating disagreements as useful, and being aware of privilege."
 tags:
   - "ea-intro-program"
-  - "effective-altruism"
+  - "effective-altruism"{++{"author":"AI","timestamp":1780340651987}@@
+  - work-in-progress++}
 ---
 
 # What the program is about
@@ -73,4 +74,3 @@ This handbook aims to introduce people to effective altruism in a structured man
 [^1]: This handbook is also accessible as a Google Doc version [here](https://docs.google.com/document/d/1ju83W3yFqvUBvsSrHadjEwazNBphCTmLWd-xZkVArBM/edit?usp=sharing).
 
 [^2]: Our goal is to introduce people to some of the core principles of effective altruism, to share the arguments for different problems that people in effective altruism work on, and to encourage you to think about what you want to do on the basis of those ideas. We also tried to give a balance of materials that is in line with the (significant) diversity of views on these topics within effective altruism. In drawing up the curriculum, we consulted community members, subject matter experts, and program facilitators. We think that these readings are interesting and give a good introduction, but we hope that you engage with them critically, rather than taking them all at face value. Once you've read this curriculum, we encourage you to explore other EA writings (e.g. on [this wiki](https://forum.effectivealtruism.org/topics/all)).
-++}

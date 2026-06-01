@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779976233021}@@---
+{++{"author":"AI","timestamp":1780340705594}@@---
 title: 'On "fringe" ideas'
 source_url: https://theunitofcaring.tumblr.com/post/185847413171/what-do-you-think-about-the-more-fringe-parts-of
 author:
@@ -12,6 +12,7 @@ tags:
   - moral-circle-expansion
   - moral-uncertainty
   - animal-welfare
+  - work-in-progress
 ---
 
 *The Forum team published this with Kelsey's permission. We've slightly edited the original content, which you can find [here](https://web.archive.org/web/20190701003844/https://theunitofcaring.tumblr.com/post/185847413171/what-do-you-think-about-the-more-fringe-parts-of).*

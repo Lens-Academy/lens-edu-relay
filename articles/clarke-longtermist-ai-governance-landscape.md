@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779978707637}@@---
+{++{"author":"AI","timestamp":1780340648589}@@---
 title: "The Longtermist AI Governance Landscape: A Basic Overview"
 source_url: https://forum.effectivealtruism.org/posts/ydpo7LcJWhrr2GJrx/the-longtermist-ai-governance-landscape-a-basic-overview
 authors:
@@ -14,6 +14,7 @@ tags:
   - ai-governance
   - longtermism
   - existential-risk
+  - work-in-progress
 ---
 
 *Aim: to give a basic overview of what is going on in longtermist AI governance.*

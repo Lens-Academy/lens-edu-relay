@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779998633336}@@---
+{++{"author":"AI","timestamp":1780340725470}@@---
 title: "Making Beliefs Pay Rent"
 source_url: https://www.lesswrong.com/s/6xgy8XYEisLk3tCjH/p/a7n8GdKiAZRX86T5A
 authors:
@@ -13,6 +13,7 @@ tags:
   - rationality
   - bayesian-thinking
   - beliefs
+  - work-in-progress
 ---
 
 If there's a foundational skill in the martial art of rationality, a mental stance on which all other technique rests, it might be this one: the ability to spot, inside your own head, psychological signs that you have a mental map of something, and signs that you don't.

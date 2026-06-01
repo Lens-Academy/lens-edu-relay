@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779975461190}@@---
+{++{"author":"AI","timestamp":1780340681397}@@---
 title: "Comparing Charities: How Big is the Difference?"
 source_url: https://www.givingwhatwecan.org/en/charity-comparisons
 author:
@@ -12,6 +12,7 @@ tags:
   - effective-giving
   - global-health
   - cause-prioritization
+  - work-in-progress
 ---
 
 # Comparing Charities: How Big is the Difference?

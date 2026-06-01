@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779977333846}@@---
+{++{"author":"AI","timestamp":1780340641202}@@---
 title: "Preventing Catastrophic Pandemics"
 source_url: https://80000hours.org/problem-profiles/preventing-catastrophic-pandemics/
 author:
@@ -14,6 +14,7 @@ tags:
   - existential-risk
   - pandemic-preparedness
   - cause-prioritization
+  - work-in-progress
 ---
 
 # Preventing Catastrophic Pandemics

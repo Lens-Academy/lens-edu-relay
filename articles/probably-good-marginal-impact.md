@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779975487805}@@---
+{++{"author":"AI","timestamp":1780340706773}@@---
 title: "Marginal Impact: Making the Most of Additional Effort"
 source_url: https://probablygood.org/core-concepts/marginal-impact/
 author:
@@ -12,6 +12,7 @@ tags:
   - cause-prioritization
   - effective-giving
   - career
+  - work-in-progress
 ---
 
 # Marginal Impact: Making the Most of Additional Effort

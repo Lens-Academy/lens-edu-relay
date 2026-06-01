@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779977582484}@@---
+{++{"author":"AI","timestamp":1780340701457}@@---
 title: "Superforecasting in a Nutshell"
 source_url: http://lukemuehlhauser.com/superforecasting-in-a-nutshell/
 author:
@@ -13,6 +13,7 @@ tags:
   - forecasting
   - decision-making
   - epistemics
+  - work-in-progress
 ---
 
 # Superforecasting in a Nutshell

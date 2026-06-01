@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779977385600}@@---
+{++{"author":"AI","timestamp":1780340702545}@@---
 title: "Expected Value: How to Make Decisions Under Uncertainty"
 source_url: https://non-trivial.org/lessons/making-decisions-under-uncertainty
 author:
@@ -13,6 +13,7 @@ tags:
   - decision-making
   - expected-value
   - moral-uncertainty
+  - work-in-progress
 ---
 
 # Expected Value: How to Make Decisions Under Uncertainty

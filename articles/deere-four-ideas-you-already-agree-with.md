@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779974942604}@@---
+---
 title: "Four Ideas You Already Agree With"
 source_url: "https://www.givingwhatwecan.org/blog/four-things-you-already-agree-with-effective-altruism"
 author:
@@ -8,7 +8,8 @@ created: 2026-05-28
 description: "Four simple ideas — helping others matters, people are equal, helping more is better than helping less, and resources are limited — that most people already agree with. Taken together, they logically lead to effective altruism: thinking carefully about how to help the most people with our limited time and money."
 tags:
   - "ea-intro-program"
-  - "effective-altruism"
+  - "effective-altruism"{++{"author":"AI","timestamp":1780340668950}@@
+  - work-in-progress++}
 ---
 
 Here are four ideas that you probably already agree with. Three are about your values, and one is an observation about the world. Individually, they each might seem a bit trite or self-evident. But taken together, they have significant implications for how we think about doing good in the world.
@@ -80,4 +81,3 @@ If they do, then the next time you think about how to make the world a better pl
 [^6]: Charities Aid Foundation, *UK Giving 2014*, p14.
 
 [^7]: https://www.nice.org.uk/news/blog/carrying-nice-over-the-threshold
-++}

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779977480968}@@---
+{++{"author":"AI","timestamp":1780340661716}@@---
 title: "What Could the Future Hold? And Why Care?"
 source_url: https://forum.effectivealtruism.org/posts/a8myKSh4KWDmuj6BA/what-could-the-future-hold-and-why-care
 author:
@@ -13,6 +13,7 @@ tags:
   - longtermism
   - forecasting
   - impartiality
+  - work-in-progress
 ---
 
 # What Could the Future Hold? And Why Care?

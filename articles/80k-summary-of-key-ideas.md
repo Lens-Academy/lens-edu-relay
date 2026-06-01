@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779999302563}@@---
+{++{"author":"AI","timestamp":1780340642937}@@---
 title: "Summary of 80,000 Hours' key ideas"
 source_url: https://80000hours.org/key-ideas/summary/
 authors:
@@ -12,6 +12,7 @@ tags:
   - career-choice
   - 80000-hours
   - global-priorities
+  - work-in-progress
 ---
 
 **TL;DR:** Get good at something that lets you effectively contribute to big and neglected global problems.

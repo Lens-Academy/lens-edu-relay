@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779977402236}@@---
+{++{"author":"AI","timestamp":1780340682528}@@---
 title: "Reducing Global Catastrophic Risks"
 source_url: https://www.givingwhatwecan.org/cause-areas/reducing-global-catastrophic-risks
 author:
@@ -14,6 +14,7 @@ tags:
   - cause-prioritization
   - biosecurity
   - ai-safety
+  - work-in-progress
 ---
 
 # Reducing Global Catastrophic Risks

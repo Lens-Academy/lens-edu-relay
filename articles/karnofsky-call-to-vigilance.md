@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780047384092}@@---
+{++{"author":"AI","timestamp":1780340689917}@@---
 title: "Call to Vigilance"
 source_url: https://www.cold-takes.com/call-to-vigilance/
 authors:
@@ -13,6 +13,7 @@ tags:
   - transformative-ai
   - career-choice
   - existential-risk
+  - work-in-progress
 ---
 
 This is the final piece in the [**"most important century" series**](https://www.cold-takes.com/roadmap-for-the-most-important-century-series/), which has argued that there's a high probability that the coming decades will see:

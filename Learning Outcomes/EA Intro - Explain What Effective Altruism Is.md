@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780328969801}@@---
+---
 id: 6ab43838-41bd-4453-a4da-f82d047c53fb
 discussion: <placeholder — add Discord channel URL>
 tags:
@@ -25,4 +25,3 @@ source:: ![[../Lenses/EA Intro - Four Ideas You Already Agree With]]
 
 ## Lens:
 source:: ![[../Lenses/EA Intro - The World Is Much Better]]
-++}

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779975404402}@@---
+{++{"author":"AI","timestamp":1780340722666}@@---
 title: "A Framework for Comparing Global Problems in Terms of Expected Impact"
 source_url: https://80000hours.org/articles/problem-framework/
 author:
@@ -11,6 +11,7 @@ tags:
   - effective-altruism
   - cause-prioritization
   - itn-framework
+  - work-in-progress
 ---
 
 # A Framework for Comparing Global Problems in Terms of Expected Impact

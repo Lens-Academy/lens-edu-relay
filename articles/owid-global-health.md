@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779975631447}@@---
+{++{"author":"AI","timestamp":1780340704503}@@---
 title: "Global Health"
 source_url: https://ourworldindata.org/health-meta
 author:
@@ -13,6 +13,7 @@ tags:
   - global-health
   - global-poverty
   - progress
+  - work-in-progress
 ---
 
 # Global Health

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779999258524}@@---
+{++{"author":"AI","timestamp":1780340717818}@@---
 title: "Effective altruism as the most exciting cause in the world"
 source_url: https://forum.effectivealtruism.org/posts/LwmEr3B9dpBrFq3du/effective-altruism-as-the-most-exciting-cause-in-the-world
 authors:
@@ -12,6 +12,7 @@ tags:
   - community
   - motivation
   - career-choice
+  - work-in-progress
 ---
 
 I feel that one thing that effective altruists haven't sufficiently capitalized on in their marketing is just how amazingly *exciting* the whole thing is. There's Holden Karnofsky's post on [excited altruism](http://blog.givewell.org/2013/08/20/excited-altruism/), but it doesn't really go into the details of *why* effective altruism is so exciting. So let me try to fix that.

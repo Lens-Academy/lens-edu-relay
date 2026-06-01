@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779975157668}@@---
+{++{"author":"AI","timestamp":1780340727457}@@---
 title: "Purchase Fuzzies and Utilons Separately"
 source_url: https://www.lesswrong.com/posts/3p3CYauiX8oLjmwRF/purchase-fuzzies-and-utilons-separately
 author:
@@ -12,6 +12,7 @@ tags:
   - motivation
   - rationality
   - giving
+  - work-in-progress
 ---
 
 # Purchase Fuzzies and Utilons Separately

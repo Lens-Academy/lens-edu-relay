@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779999137717}@@---
+{++{"author":"AI","timestamp":1780340713066}@@---
 title: "A Big List of Cause Candidates"
 source_url: https://forum.effectivealtruism.org/posts/SCqRu6shoa8ySvRAa/
 authors:
@@ -12,6 +12,7 @@ tags:
   - cause-prioritization
   - epistemics
   - global-priorities
+  - work-in-progress
 ---
 
 *This is a lightly edited and summarized version of the original EA Forum post, which catalogues cause candidates as they appear in EA Forum discussions. Inclusion does not imply endorsement. The author notes this list is intended to be comprehensive rather than curated.*

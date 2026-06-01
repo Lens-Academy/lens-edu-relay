@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779978246960}@@---
+{++{"author":"AI","timestamp":1780340698312}@@---
 title: "What We Owe the Future, Chapter 1"
 source_url: https://forum.effectivealtruism.org/posts/rdigzNQqDgiou5AmZ/what-we-owe-the-future-chapter-1
 author:
@@ -14,6 +14,7 @@ tags:
   - population-ethics
   - existential-risk
   - moral-philosophy
+  - work-in-progress
 ---
 
 # What We Owe the Future, Chapter 1

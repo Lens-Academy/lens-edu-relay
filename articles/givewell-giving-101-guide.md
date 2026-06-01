@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779975596914}@@---
+{++{"author":"AI","timestamp":1780340679599}@@---
 title: "GiveWell's Giving 101 Guide"
 source_url: https://www.givewell.org/giving101
 author:
@@ -11,6 +11,7 @@ tags:
   - effective-altruism
   - effective-giving
   - global-health
+  - work-in-progress
 ---
 
 # GiveWell's Giving 101 Guide

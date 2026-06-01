@@ -1,7 +1,9 @@
-{++{"author":"AI","timestamp":1779973845483}@@---
+{++{"author":"AI","timestamp":1780340732073}@@---
 title: "Why you think you're right — even if you're wrong"
 channel: "TED"
 url: "https://www.youtube.com/watch?v=w4RLfVxTGH4"
+tags:
+  - work-in-progress
 ---
 
 So, I'd like you to imagine for a moment that you're a soldier in the heat of battle. Maybe you're a Roman foot soldier or a medieval archer or maybe you're a Zulu warrior. Regardless of your time and place, there are some things that are constant. Your adrenaline is elevated and your actions are stemming from these deeply ingrained reflexes. Reflexes rooted in a need to protect yourself and your side and to defeat the enemy. So now I'd like you to imagine playing a

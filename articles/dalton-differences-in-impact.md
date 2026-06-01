@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779975375249}@@---
+{++{"author":"AI","timestamp":1780340653243}@@---
 title: "Differences in Impact"
 source_url: https://forum.effectivealtruism.org/posts/eNwfbeZmzaHnmAaAj/differences-in-impact
 author:
@@ -11,6 +11,7 @@ tags:
   - effective-altruism
   - cause-prioritization
   - global-health
+  - work-in-progress
 ---
 
 # Differences in Impact

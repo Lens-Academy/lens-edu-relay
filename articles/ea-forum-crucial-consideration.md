@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779977359671}@@---
+{++{"author":"AI","timestamp":1780340670280}@@---
 title: "Crucial Consideration"
 source_url: https://forum.effectivealtruism.org/topics/crucial-consideration
 author:
@@ -14,6 +14,7 @@ tags:
   - moral-uncertainty
   - longtermism
   - decision-making
+  - work-in-progress
 ---
 
 # Crucial Consideration

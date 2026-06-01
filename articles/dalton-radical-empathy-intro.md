@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779976154063}@@---
+{++{"author":"AI","timestamp":1780340657713}@@---
 title: "Radical empathy (intro)"
 source_url: https://forum.effectivealtruism.org/posts/7pDe4y3KtwwyF6kTS/radical-empathy-1
 author:
@@ -12,6 +12,7 @@ tags:
   - moral-circle-expansion
   - impartiality
   - animal-welfare
+  - work-in-progress
 ---
 
 > *"The question is not, Can they reason?, nor Can they talk? but, Can they suffer? Why should the law refuse its protection to any sensitive being?"*

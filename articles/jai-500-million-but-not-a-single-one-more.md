@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779975206541}@@---
+{++{"author":"AI","timestamp":1780340687479}@@---
 title: "500 Million, But Not a Single One More"
 source_url: https://laneless.substack.com/p/500-million-but-not-a-single-one-more
 author:
@@ -12,6 +12,7 @@ tags:
   - global-health
   - progress
   - history
+  - work-in-progress
 ---
 
 # 500 Million, But Not a Single One More

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779974940947}@@---
+{++{"author":"AI","timestamp":1780340675480}@@---
 title: "Introduction to Effective Altruism"
 source_url: "https://www.effectivealtruism.org/articles/introduction-to-effective-altruism"
 author:
@@ -9,6 +9,7 @@ description: "A comprehensive introduction to effective altruism: what it is, co
 tags:
   - "ea-intro-program"
   - "effective-altruism"
+  - work-in-progress
 ---
 
 ### What is effective altruism?

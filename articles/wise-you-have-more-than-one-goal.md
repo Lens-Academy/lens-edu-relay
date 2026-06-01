@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779999327916}@@---
+{++{"author":"AI","timestamp":1780340724184}@@---
 title: "You have more than one goal, and that's fine"
 source_url: https://web.archive.org/web/20200220221815/http://www.givinggladly.com/2019/02/you-have-more-than-one-goal-and-thats.html
 authors:
@@ -13,6 +13,7 @@ tags:
   - wellbeing
   - community
   - motivation
+  - work-in-progress
 ---
 
 *This version of the essay has been lightly edited. You can find the original [here](https://web.archive.org/web/20200220221815/http://www.givinggladly.com/2019/02/you-have-more-than-one-goal-and-thats.html).*

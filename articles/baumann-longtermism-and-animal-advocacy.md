@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779977617693}@@---
+{++{"author":"AI","timestamp":1780340645742}@@---
 title: "Longtermism and Animal Advocacy"
 source_url: https://centerforreducingsuffering.org/longtermism-and-animal-advocacy/
 author:
@@ -14,6 +14,7 @@ tags:
   - animal-welfare
   - moral-circle-expansion
   - s-risks
+  - work-in-progress
 ---
 
 # Longtermism and Animal Advocacy

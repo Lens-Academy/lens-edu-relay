@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779999465465}@@---
+{++{"author":"AI","timestamp":1780340693359}@@---
 title: "My current impressions on career choice for longtermists"
 source_url: https://forum.effectivealtruism.org/posts/bud2ssJLQ33pSemKH/my-current-impressions-on-career-choice-for-longtermists
 authors:
@@ -12,6 +12,7 @@ tags:
   - career-choice
   - longtermism
   - 80000-hours
+  - work-in-progress
 ---
 
 This post summarizes the way I currently think about career choice for longtermists. I have put much less time into thinking about this than [80,000 Hours](http://www.80000hours.org), but I think it's valuable for there to be multiple perspectives on this topic out there.

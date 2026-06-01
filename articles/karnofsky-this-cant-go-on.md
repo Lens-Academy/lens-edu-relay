@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780047367093}@@---
+{++{"author":"AI","timestamp":1780340696584}@@---
 title: "This Can't Go On"
 source_url: https://www.cold-takes.com/this-cant-go-on/
 author:
@@ -14,6 +14,7 @@ tags:
   - economic-growth
   - existential-risk
   - hinge-of-history
+  - work-in-progress
 ---
 
 # This Can't Go On

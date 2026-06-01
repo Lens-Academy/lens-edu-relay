@@ -1,8 +1,8 @@
-{++{"author":"AI","timestamp":1780328462355}@@---
+---
 id: 5d5e5309-a340-48c7-98cf-16c4b78a6b49
 tags:
   - work-in-progress
 ---
 
 #### Article
-source:: [[../articles/dalton-about-this-handbook]]++}
+source:: [[../articles/dalton-about-this-handbook]]

@@ -1,7 +1,9 @@
-{++{"author":"AI","timestamp":1779974096754}@@---
+{++{"author":"AI","timestamp":1780340734370}@@---
 title: "Reflecting on the Last Year — Lessons for EA"
 channel: "Effective Altruism"
 url: "https://www.youtube.com/watch?v=3a6xb6vj6AA"
+tags:
+  - work-in-progress
 ---
 
 hi everyone uh yeah it's really wonderful to see everyone here for this EA Global um it feels like quite an understatement to say that much has happened since the last time I was on a similar stage about seven months ago at last year's uh year Global SF so I'm really glad that Toby ORD our opening keynote speaker we'll touch on some of the events of the past year potential lessons and paths forward so Toby is a philosopher at Oxford

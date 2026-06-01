@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779998523418}@@---
+{++{"author":"AI","timestamp":1780340639644}@@---
 title: "How AI Could Create the World's Biggest Problems"
 source_url: https://80000hours.org/problem-profiles/artificial-intelligence/
 authors:
@@ -14,6 +14,7 @@ tags:
   - existential-risk
   - longtermism
   - career-choice
+  - work-in-progress
 ---
 
 *This is a crosspost of the full text of [How AI could create the world's biggest problems](https://80000hours.org/problem-profiles/artificial-intelligence/) from 80,000 Hours' website.*

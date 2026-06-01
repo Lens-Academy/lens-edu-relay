@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779978801171}@@---
+{++{"author":"AI","timestamp":1780340721320}@@---
 title: "It Looks Like There Are Some Good Funding Opportunities in AI Safety Right Now"
 source_url: https://benjamintodd.substack.com/p/looks-like-there-are-some-good-funding
 authors:
@@ -14,6 +14,7 @@ tags:
   - funding
   - effective-giving
   - career-choice
+  - work-in-progress
 ---
 
 The AI safety community has grown rapidly since the ChatGPT wake-up call, but available funding doesn't seem to have kept pace.

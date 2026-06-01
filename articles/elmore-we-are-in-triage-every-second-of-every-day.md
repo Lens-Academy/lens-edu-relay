@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779975203786}@@---
+{++{"author":"AI","timestamp":1780340678473}@@---
 title: "We Are in Triage Every Second of Every Day"
 source_url: https://mhollyelmoreblog.wordpress.com/2016/08/26/we-are-in-triage-every-second-of-every-day/
 author:
@@ -12,6 +12,7 @@ tags:
   - motivation
   - tradeoffs
   - moral-psychology
+  - work-in-progress
 ---
 
 # We Are in Triage Every Second of Every Day

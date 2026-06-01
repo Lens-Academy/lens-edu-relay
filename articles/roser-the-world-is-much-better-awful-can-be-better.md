@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779974944242}@@---
+{++{"author":"AI","timestamp":1780340711346}@@---
 title: "The world is much better. The world is awful. The world can be much better."
 source_url: "https://ourworldindata.org/much-better-awful-can-be-better"
 author:
@@ -11,6 +11,7 @@ tags:
   - "effective-altruism"
   - "global-health"
   - "progress"
+  - work-in-progress
 ---
 
 *(Cross-posted from [Our World in Data](https://ourworldindata.org/much-better-awful-can-be-better).)*

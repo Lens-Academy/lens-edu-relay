@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780046770190}@@---
+{++{"author":"AI","timestamp":1780340672908}@@---
 title: "Bayes' Rule: Guide"
 source_url: https://arbital.com/p/bayes_rule/?l=1zq
 authors:
@@ -13,6 +13,7 @@ tags:
   - bayesian-thinking
   - rationality
   - evidence
+  - work-in-progress
 ---
 
 Bayes' rule or Bayes' theorem is the law of probability governing *the strength of evidence* — the rule saying *how much* to revise our probabilities (change our minds) when we learn a new fact or observe new evidence.

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779978649008}@@---
+{++{"author":"AI","timestamp":1780340658777}@@---
 title: "Risks from Artificial Intelligence (AI)"
 source_url: https://forum.effectivealtruism.org/posts/XLmFXLpCMEnwXQqnz/risks-from-artificial-intelligence-ai
 authors:
@@ -12,6 +12,7 @@ tags:
   - artificial-intelligence
   - ai-safety
   - existential-risk
+  - work-in-progress
 ---
 
 Transformative artificial intelligence may well be developed this century. If it is, it may begin to make many significant decisions for us, and rapidly accelerate changes like economic growth. Are we set up to deal with this new technology safely?

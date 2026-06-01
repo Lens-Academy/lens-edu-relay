@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779974947540}@@---
+{++{"author":"AI","timestamp":1780340716448}@@---
 title: "On Caring"
 source_url: "https://mindingourway.com/on-caring/"
 author:
@@ -11,6 +11,7 @@ tags:
   - "effective-altruism"
   - "scope-sensitivity"
   - "motivation"
+  - work-in-progress
 ---
 
 *This version of the essay has been lightly edited. You can find the original [here](https://web.archive.org/web/20200108195437/http://mindingourway.com/on-caring/).*

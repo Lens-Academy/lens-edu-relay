@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779977298896}@@---
+{++{"author":"AI","timestamp":1780340719364}@@---
 title: "The Case for Reducing Existential Risk"
 source_url: https://80000hours.org/articles/existential-risks/
 author:
@@ -13,6 +13,7 @@ tags:
   - existential-risk
   - longtermism
   - cause-prioritization
+  - work-in-progress
 ---
 
 # The Case for Reducing Existential Risk

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779976180332}@@---
+{++{"author":"AI","timestamp":1780340697545}@@---
 title: "The Possibility of an Ongoing Moral Catastrophe (Summary)"
 source_url: https://forum.effectivealtruism.org/posts/Dtr8aHqCQSDhyueFZ/the-possibility-of-an-ongoing-moral-catastrophe-summary
 author:
@@ -12,6 +12,7 @@ tags:
   - moral-circle-expansion
   - moral-philosophy
   - cause-prioritization
+  - work-in-progress
 ---
 
 *This is a summary of Evan G. Williams' [philosophy paper](https://philpapers.org/rec/WILTPO-101) on ongoing moral catastrophe, prepared for a local discussion group.*

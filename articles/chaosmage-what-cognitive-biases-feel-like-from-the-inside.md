@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779975129276}@@---
+{++{"author":"AI","timestamp":1780340647350}@@---
 title: "What Cognitive Biases Feel Like From the Inside"
 source_url: https://www.lesswrong.com/posts/ERWeEA8op6s6tYCKy/what-cognitive-biases-feel-like-from-the-inside
 author:
@@ -12,6 +12,7 @@ tags:
   - cognitive-biases
   - rationality
   - scout-mindset
+  - work-in-progress
 ---
 
 # What Cognitive Biases Feel Like From the Inside

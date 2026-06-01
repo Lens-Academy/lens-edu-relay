@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779975099764}@@---
+{++{"author":"AI","timestamp":1780340644322}@@---
 title: "Scope Insensitivity: Failing to Appreciate the Numbers of Those Who Need Our Help"
 source_url: https://www.animal-ethics.org/scope-insensitivity-failing-to-appreciate-the-numbers-of-those-who-need-our-help/
 author:
@@ -11,6 +11,7 @@ tags:
   - effective-altruism
   - scope-sensitivity
   - cognitive-biases
+  - work-in-progress
 ---
 
 # Scope Insensitivity: Failing to Appreciate the Numbers of Those Who Need Our Help

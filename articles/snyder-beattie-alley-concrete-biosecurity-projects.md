@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779976867941}@@---
+{++{"author":"AI","timestamp":1780340714867}@@---
 title: "Concrete Biosecurity Projects (some of which could be big)"
 source_url: https://forum.effectivealtruism.org/posts/u5JesqQ3jdLENXBtB/concrete-biosecurity-projects-some-of-which-could-be-big-1
 author:
@@ -13,6 +13,7 @@ tags:
   - biosecurity
   - existential-risk
   - cause-prioritization
+  - work-in-progress
 ---
 
 This is a list of longtermist biosecurity projects. We think most of them could reduce [catastrophic biorisk](https://80000hours.org/problem-profiles/global-catastrophic-biological-risks/) by more than 1% or so on the current margin (in relative terms). While we are confident there is important work to be done within each of these areas, our confidence in specific pathways varies widely and the particulars of each idea have not been investigated thoroughly.

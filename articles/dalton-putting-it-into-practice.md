@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779999188815}@@---
+{++{"author":"AI","timestamp":1780340656452}@@---
 title: "Putting it into practice"
 source_url: https://forum.effectivealtruism.org/posts/FtXHtyJAm8zjiunEW/putting-it-into-practice
 authors:
@@ -11,6 +11,7 @@ tags:
   - effective-altruism
   - career-choice
   - personal-development
+  - work-in-progress
 ---
 
 In this final chapter, we hope to help you apply the principles of effective altruism to your own life and career.

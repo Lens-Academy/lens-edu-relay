@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779974103332}@@---
+---
 title: "The Effectiveness Mindset"
 source_url: "https://forum.effectivealtruism.org/posts/5nkeh7LWFYQ9YGdLS/the-effectiveness-mindset"
 author:
@@ -9,7 +9,8 @@ description: "An introduction to the key concepts of Module 1: scope sensitivity
 tags:
   - "ea-intro-program"
   - "effective-altruism"
-  - "scout-mindset"
+  - "scout-mindset"{++{"author":"AI","timestamp":1780340659961}@@
+  - work-in-progress++}
 ---
 
 > *"We are always in triage. I fervently hope that one day we will be able to save everyone. In the meantime, it is irresponsible to pretend that we aren't making life and death decisions with the allocation of our resources. Pretending there is no choice only makes our decisions worse."*
@@ -27,4 +28,3 @@ Key concepts in this chapter include:
 ---
 
 *This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).*
-++}

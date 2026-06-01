@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779976374760}@@---
+{++{"author":"AI","timestamp":1780340684293}@@---
 title: "Factory farming"
 source_url: https://80000hours.org/problem-profiles/factory-farming/
 author:
@@ -12,6 +12,7 @@ tags:
   - animal-welfare
   - farmed-animals
   - cause-prioritization
+  - work-in-progress
 ---
 
 *By Benjamin Hilton · Published July 2024*

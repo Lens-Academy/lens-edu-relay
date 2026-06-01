@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779976155466}@@---
+{++{"author":"AI","timestamp":1780340695386}@@---
 title: "Radical Empathy"
 source_url: https://www.openphilanthropy.org/blog/radical-empathy
 author:
@@ -12,6 +12,7 @@ tags:
   - moral-circle-expansion
   - animal-welfare
   - moral-philosophy
+  - work-in-progress
 ---
 
 *This version of the essay has been lightly edited. You can find the original [here](https://web.archive.org/web/20200220220116/https://www.openphilanthropy.org/blog/radical-empathy).*

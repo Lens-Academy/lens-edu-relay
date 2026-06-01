@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779975577863}@@---
+{++{"author":"AI","timestamp":1780340709585}@@---
 title: "Global Economic Inequality"
 source_url: https://ourworldindata.org/global-economic-inequality-introduction
 author:
@@ -12,6 +12,7 @@ tags:
   - global-health
   - global-poverty
   - economic-inequality
+  - work-in-progress
 ---
 
 # Global Economic Inequality

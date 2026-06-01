@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779976325371}@@---
+{++{"author":"AI","timestamp":1780340703534}@@---
 title: 'Moral progress and "Cause X"'
 source_url: https://forum.effectivealtruism.org/posts/9K8Yiv9Fdm7XNsmCm/moral-progress-and-cause-x
 author:
@@ -13,6 +13,7 @@ tags:
   - cause-prioritization
   - moral-circle-expansion
   - history-of-ea
+  - work-in-progress
 ---
 
 *The effective altruism community has grown tremendously since it began in 2009. In the opening keynote of EA Global: San Francisco 2016, Toby Ord and Will MacAskill discuss this history and consider what might happen in the movement's future.*

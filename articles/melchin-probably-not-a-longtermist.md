@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779978069277}@@---
+{++{"author":"AI","timestamp":1780340699340}@@---
 title: "Why I Am Probably Not a Longtermist"
 source_url: https://forum.effectivealtruism.org/posts/Jxfq6xCP9ZoTBFewA/why-i-am-probably-not-a-longtermist
 author:
@@ -14,6 +14,7 @@ tags:
   - moral-uncertainty
   - cause-prioritization
   - population-ethics
+  - work-in-progress
 ---
 
 # Why I Am Probably Not a Longtermist

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779998669449}@@---
+{++{"author":"AI","timestamp":1780340729187}@@---
 title: "What Is Evidence?"
 source_url: https://www.lesswrong.com/s/6xgy8XYEisLk3tCjH/p/6s3xABaXKPdFwA3FS
 authors:
@@ -13,6 +13,7 @@ tags:
   - rationality
   - evidence
   - bayesian-thinking
+  - work-in-progress
 ---
 
 > The sentence "snow is white" is *true* if and only if snow is white.

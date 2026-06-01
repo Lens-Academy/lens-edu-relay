@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780047436037}@@---
+{++{"author":"AI","timestamp":1780340667922}@@---
 title: "Why S-Risks Are the Worst Existential Risks, and How to Prevent Them"
 source_url: https://longtermrisk.org/s-risks-talk-eag-boston-2017/
 authors:
@@ -15,6 +15,7 @@ tags:
   - s-risks
   - suffering
   - longtermism
+  - work-in-progress
 ---
 
 *This is a transcript of a talk given at EA Global Boston 2017. A written version is available at the Center on Long-Term Risk.*

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1779998593053}@@---
+{++{"author":"AI","timestamp":1780340665830}@@---
 title: "What Do You Think?"
 source_url: https://forum.effectivealtruism.org/posts/zGavnmS5hCC4mDHS8/what-do-you-think
 authors:
@@ -12,6 +12,7 @@ tags:
   - epistemics
   - critical-thinking
   - independent-impressions
+  - work-in-progress
 ---
 
 > *"It is one of the unfortunate truisms of the human condition that there is hardly a good idea, noble impulse, or sound suggestion that can't be (and isn't eventually) adopted and bastardized by zealots… One iteration of this tendency is in the idea of 'effective altruism.'"*
