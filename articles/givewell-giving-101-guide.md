@@ -16,7 +16,7 @@ tags:
 
 # GiveWell's Giving 101 Guide
 
-{++{"author":"AI","timestamp":1780394623753}@@The key principles we recommend you keep in mind when deciding where to give:
+The key principles we recommend you keep in mind when deciding where to give:
 
 ## Your donation can change someone's life.
 
@@ -49,4 +49,4 @@ That doesn't mean you should necessarily support international aid, but, just li
 *Originally published at [Giving 101: The Basics](https://www.givewell.org/giving101).*
 *Licensed under [CC BY-NC-SA 3.0 US](https://creativecommons.org/licenses/by-nc-sa/3.0/us/).*
 
-++}{>>TODO: Licensed content<<}
+{>>TODO: Licensed content<<}

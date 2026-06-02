@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780328989871}@@---
+---
 id: 5b786223-4d84-4964-9563-6c607a0d6941
 discussion: <placeholder — add Discord channel URL>
 tags:
@@ -13,4 +13,3 @@ tags:
 
 ## Lens:
 source:: ![[../Lenses/EA Intro - The Longtermist AI Governance Landscape]]
-++}

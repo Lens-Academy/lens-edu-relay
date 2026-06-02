@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780328983618}@@---
+---
 id: 8e35c52d-7243-47bf-92f9-b6a7fb59dbb2
 discussion: <placeholder — add Discord channel URL>
 tags:
@@ -22,4 +22,3 @@ source:: ![[../Lenses/EA Intro - Why Longtermism Is Hard]]
 
 ## Lens:
 source:: ![[../Lenses/EA Intro - Probably Not a Longtermist]]
-++}
