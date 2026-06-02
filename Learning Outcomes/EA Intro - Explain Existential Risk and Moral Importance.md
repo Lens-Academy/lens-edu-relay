@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780392126885}@@---
+---
 id: 057f198a-b1ec-4035-90ab-bd041025880c
 discussion: <placeholder — add Discord channel URL>
 tags:
@@ -13,4 +13,3 @@ tags:
 
 ## Lens:
 source:: ![[../Lenses/EA Intro - The Case for Reducing Existential Risk]]
-++}

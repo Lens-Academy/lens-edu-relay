@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780392186527}@@---
+---
 id: 6f1bb7c8-6c30-41d1-b15e-76679d5513ca
 discussion: <placeholder — add Discord channel URL>
 tags:
@@ -19,4 +19,3 @@ source:: ![[../Lenses/EA Intro - Making Beliefs Pay Rent]]
 
 ## Lens:
 source:: ![[../Lenses/EA Intro - What Is Evidence]]
-++}
