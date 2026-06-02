@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780344551776}@@---
+---
 title: "Why I Find Longtermism Hard, and What Keeps Me Motivated"
 source_url: https://80000hours.org/2021/02/why-i-find-longtermism-hard/
 author:
@@ -20,4 +20,3 @@ tags:
 # Why I Find Longtermism Hard, and What Keeps Me Motivated
 
 {>>TODO: Licensed content<<}
-++}
