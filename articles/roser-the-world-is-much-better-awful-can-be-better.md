@@ -16,9 +16,9 @@ tags:
 
 *(Cross-posted from [Our World in Data](https://ourworldindata.org/much-better-awful-can-be-better).)*
 
-## It is wrong to think these three statements contradict each other. We need to see that they are all true to see that a better world is {--{"author":"AI","timestamp":1780343966973}@@much better. --}possible.
+## It is wrong to think these three statements contradict each other. We need to see that they are all true to see that a better world is possible.
 
-The world is awful. The world is {--{"author":"AI","timestamp":1780343966973}@@awful.--}{++{"author":"AI","timestamp":1780343966973}@@much better.++} The world can be much better. All three statements are {--{"author":"AI","timestamp":1780343966973}@@true.--}{++{"author":"AI","timestamp":1780343966973}@@true at the same time.++}
+The world is awful. The world is much better. The world can be much better. All three statements are true at the same time.
 
 {--{"author":"AI","timestamp":1780343966973}@@Here I --}{++{"author":"AI","timestamp":1780343966973}@@Discussions about the state of the world too often ++}focus on {--{"author":"AI","timestamp":1780343966973}@@child mortality, but the same can be said for many aspects of global development. There are many aspects of development for which --}{++{"author":"AI","timestamp":1780343966973}@@the first statement: The news highlights what is going wrong, rarely mentioning the positive developments in our country or the world as a whole.
 
