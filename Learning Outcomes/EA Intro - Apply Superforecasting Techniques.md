@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780328976765}@@---
+---
 id: a511a38f-f603-44c7-ae93-d13cffaa67b4
 discussion: <placeholder — add Discord channel URL>
 tags:
@@ -13,4 +13,3 @@ tags:
 
 ## Lens:
 source:: ![[../Lenses/EA Intro - Superforecasting in a Nutshell]]
-++}
