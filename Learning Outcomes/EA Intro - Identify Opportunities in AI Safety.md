@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780329027555}@@---
+---
 id: 46d246cb-49d1-4511-8f6b-23662c1b1d88
 discussion: <placeholder — add Discord channel URL>
 tags:
@@ -13,4 +13,3 @@ tags:
 
 ## Lens:
 source:: ![[../Lenses/EA Intro - Funding Opportunities in AI Safety]]
-++}

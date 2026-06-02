@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780344071902}@@---
+---
 title: "What We Owe the Future, Chapter 1"
 source_url: https://forum.effectivealtruism.org/posts/rdigzNQqDgiou5AmZ/what-we-owe-the-future-chapter-1
 author:
@@ -20,4 +20,3 @@ tags:
 # What We Owe the Future, Chapter 1
 
 {>>TODO: Licensed content<<}
-++}
