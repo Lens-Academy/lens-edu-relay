@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780344013113}@@---
+---
 title: "Why I Am Probably Not a Longtermist"
 source_url: https://forum.effectivealtruism.org/posts/Jxfq6xCP9ZoTBFewA/why-i-am-probably-not-a-longtermist
 author:
@@ -134,4 +134,3 @@ If anyone has any resources they want to point me to which might change my mind,
 *Thanks to AGB and Linch Zhang for providing comments on a draft of this post.*
 
 *This work is licensed under a [Creative Commons Attribution 4.0 International License.](https://creativecommons.org/licenses/by/4.0/)*
-++}
