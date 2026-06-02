@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780344482559}@@---
+---
 title: "Factory farming"
 source_url: https://80000hours.org/problem-profiles/factory-farming/
 author:
@@ -16,4 +16,3 @@ tags:
 ---
 
 {>>TODO: Licensed content<<}
-++}

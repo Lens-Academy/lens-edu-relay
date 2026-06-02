@@ -1,8 +1,8 @@
-{++{"author":"AI","timestamp":1780328914600}@@---
+---
 id: 63d7f681-c47a-4415-b715-a15c2b810d3c
 tags:
   - work-in-progress
 ---
 
 #### Article
-source:: [[../articles/80k-how-ai-could-create-biggest-problems]]++}
+source:: [[../articles/80k-how-ai-could-create-biggest-problems]]
