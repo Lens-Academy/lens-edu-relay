@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780343822658}@@---
+---
 title: "GiveWell's Giving 101 Guide"
 source_url: https://www.givewell.org/giving101
 author:
@@ -17,4 +17,3 @@ tags:
 # GiveWell's Giving 101 Guide
 
 {>>TODO: Licensed content<<}
-++}
