@@ -12,7 +12,7 @@ tags:
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
-source:: ![[../Lenses/EA Intro - Framework for Comparing Global Problems]]
+source:: ![[../Lenses/EA Intro - Framework for Comparing Global Problems]]{--{"author":"AI","timestamp":1780388754025}@@
 
 ## Lens:
-source:: ![[../Lenses/EA Intro - Differences in Impact]]
+source:: ![[../Lenses/EA Intro - Differences in Impact]]--}

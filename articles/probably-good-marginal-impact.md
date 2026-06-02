@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780340706773}@@---
+---
 title: "Marginal Impact: Making the Most of Additional Effort"
 source_url: https://probablygood.org/core-concepts/marginal-impact/
 author:
@@ -52,4 +52,3 @@ This also highlights the importance of personal fit and seizing unique opportuni
 ## Conclusion
 
 Focusing on marginal impact helps you avoid the traps of relying on total or average impact when deciding how to allocate your time, money, or career efforts. By considering the additional difference you can make, you can steer clear of overinvesting in areas where past success overshadows future potential — and identify opportunities where your contribution will have the greatest effect.
-++}
