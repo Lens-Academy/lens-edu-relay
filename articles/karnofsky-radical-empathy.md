@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780340695386}@@---
+---
 title: "Radical Empathy"
 source_url: https://www.openphilanthropy.org/blog/radical-empathy
 author:
@@ -98,4 +98,3 @@ So far I remain unconvinced that insects, or any algorithms run on today's compu
 [^5]: As a side note, it is often tricky to avoid such language. We generally use the term "persons" when we want to refer to beings that merit moral concern, without pre-judging whether such beings are human and also without causing too much distraction for casual readers. A more precise term is ["moral patients."](https://web.archive.org/web/20200220220116/http://www.ncbi.nlm.nih.gov/pubmed/19254100)
 
 [^6]: You can find his final report [here](https://www.openphilanthropy.org/research/2017-report-on-consciousness-and-moral-patienthood/).
-++}
