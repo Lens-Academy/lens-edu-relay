@@ -15,18 +15,19 @@ content:: {>>TODO: add module welcome text (~130 min module)<<}
 
 source:: ![[../Lenses/EA Intro - Differences in Impact]]
 
-# Submodule: The ITN Framework
+# Submodule: {--{"author":"AI","timestamp":1780391530332}@@The --}ITN {--{"author":"AI","timestamp":1780391530332}@@Framework--}{++{"author":"AI","timestamp":1780391530332}@@framework++}
 # Learning Outcome: EA Intro - Apply the ITN Framework
 source:: ![[../Learning Outcomes/EA Intro - Apply the ITN Framework]]
 
-# Submodule: Differences in Impact
+# Submodule: Differences in {--{"author":"AI","timestamp":1780391530332}@@Impact--}{++{"author":"AI","timestamp":1780391530332}@@impact++}
 # Learning Outcome: EA Intro - Explain Why Some Interventions Are Orders of Magnitude More Effective
 source:: ![[../Learning Outcomes/EA Intro - Explain Why Some Interventions Are Orders of Magnitude More Effective]]
 
-# Learning Outcome: EA Intro - Explain Marginal Impact
+# {++{"author":"AI","timestamp":1780391530332}@@Submodule: Thinking on the Margin
+# ++}Learning Outcome: EA Intro - Explain Marginal Impact
 source:: ![[../Learning Outcomes/EA Intro - Explain Marginal Impact]]
 
-# Submodule: Fermi Estimation
+# Submodule: Fermi {--{"author":"AI","timestamp":1780391530332}@@Estimation--}{++{"author":"AI","timestamp":1780391530332}@@estimation++}
 # Learning Outcome: EA Intro - Apply Fermi Estimation
 source:: ![[../Learning Outcomes/EA Intro - Apply Fermi Estimation]]
 
