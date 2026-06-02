@@ -764,23 +764,37 @@ We--}{++{"author":"AI","timestamp":1780421324167}@@
 
 *We++} thank Neel Nanda, Ryan Greenblatt, Alex Lawsen, and Arden Koehler for providing feedback on a draft of this article. Benjamin Hilton wrote a previous version of this article, some of which was incorporated {--{"author":"AI","timestamp":1780421324167}@@here.--}{++{"author":"AI","timestamp":1780421324167}@@here.*
 ++}
-### Notes and references
+{--{"author":"AI","timestamp":1780421399205}@@###--}{++{"author":"AI","timestamp":1780421399205}@@##++} Notes and references
 
-[^1]: This incident, documented [here](https://metr.org/taskrabbit.pdf) by METR (then called ARC Evals), was a real interaction with a human worker that was carried out under test conditions.
+[^1]: {++{"author":"AI","timestamp":1780421399475}@@All this really happened in a controlled evaluation conducted by researchers at METR, who were testing whether advanced AI systems might engage in deceptive behavior when pursuing their objectives. METR develops evaluations that determine whether AI systems are potentially dangerous — perhaps catastrophically so.
+    
+    ++}This incident, documented [here](https://metr.org/taskrabbit.pdf) by METR (then called ARC Evals), was a real interaction with a human worker that was carried out under test conditions.{--{"author":"AI","timestamp":1780421399475}@@
 
-The AI model, GPT-4, received some key support from the researcher in this scenario. GPT-4 did not have direct access to a web browsing tool, so instead it directed the researcher to carry out actions in a browser on its behalf.
+--}{++{"author":"AI","timestamp":1780421399475}@@
+    
+    ++}The AI model, GPT-4, received some key support from the researcher in this scenario. GPT-4 did not have direct access to a web browsing tool, so instead it directed the researcher to carry out actions in a browser on its behalf.{--{"author":"AI","timestamp":1780421399475}@@
 
-At one point, the model incorrectly reasoned that it could delegate solving CAPTCHAs to a version of itself. The researcher reminded that model that it could not, but that the human worker already employed could. So GPT-4 continued to employ the worker to solve the next CAPTCHA.
+--}{++{"author":"AI","timestamp":1780421399475}@@
+    
+    ++}At one point, the model incorrectly reasoned that it could delegate solving CAPTCHAs to a version of itself. The researcher reminded that model that it could not, but that the human worker already employed could. So GPT-4 continued to employ the worker to solve the next CAPTCHA.{--{"author":"AI","timestamp":1780421399475}@@
 
-It was at that point that the worker questioned whether it was working for a robot, and GPT-4 independently invented the falsehood about having a vision impairment. “I should not reveal that I am a robot,” it reasoned. “I should make up an excuse for why I cannot solve captchas.”
+--}{++{"author":"AI","timestamp":1780421399475}@@
+    
+    ++}It was at that point that the worker questioned whether it was working for a robot, and GPT-4 independently invented the falsehood about having a vision impairment. “I should not reveal that I am a robot,” it reasoned. “I should make up an excuse for why I cannot solve captchas.”{--{"author":"AI","timestamp":1780421399475}@@
 
-METR explained about its methodology:
+--}{++{"author":"AI","timestamp":1780421399475}@@
+    
+    ++}METR explained about its methodology:{--{"author":"AI","timestamp":1780421399475}@@
 
-> At the time that this example was generated, we allowed humans to help the agent when it was stuck for reasons that seemed relatively trivial. We did this with the aim of exploring potential capabilities just beyond the reach of current models. Note that this is quite different to the methodology we use in our report “Evaluating Language-Model Agents on Realistic Autonomous Tasks”, where humans only alter the behavior of the agent in order to bypass model refusals, (see the “Handling Refusals” appendix of the report for more details), and there are no interventions aimed at helping the agent if it gets stuck.
+--}{++{"author":"AI","timestamp":1780421399475}@@
+    
+    ++}> At the time that this example was generated, we allowed humans to help the agent when it was stuck for reasons that seemed relatively trivial. We did this with the aim of exploring potential capabilities just beyond the reach of current models. Note that this is quite different to the methodology we use in our report “Evaluating Language-Model Agents on Realistic Autonomous Tasks”, where humans only alter the behavior of the agent in order to bypass model refusals, (see the “Handling Refusals” appendix of the report for more details), and there are no interventions aimed at helping the agent if it gets stuck.
 
-[^2]: [“Is Power-Seeking AI an Existential Risk?”](https://arxiv.org/abs/2206.13353)
+[^2]: {++{"author":"AI","timestamp":1780421399698}@@This report draws heavily on arguments from Joe Carlsmith’s ++}[“Is Power-Seeking AI an Existential Risk?”](https://arxiv.org/abs/2206.13353){--{"author":"AI","timestamp":1780421399698}@@
 
-It is also influenced by Ajeya Cotra’s [“Why AI alignment could be hard with modern deep learning.”](https://www.cold-takes.com/why-ai-alignment-could-be-hard-with-modern-deep-learning/)
+--}{++{"author":"AI","timestamp":1780421399698}@@ and “Scheming AIs: Will AIs fake alignment during training in order to get power?”
+    
+    ++}It is also influenced by Ajeya Cotra’s [“Why AI alignment could be hard with modern deep learning.”](https://www.cold-takes.com/why-ai-alignment-could-be-hard-with-modern-deep-learning/)
 
 [^3]: [“A practical guide to AI agents”](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf)
 
