@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780340661716}@@---
+---
 title: "What Could the Future Hold? And Why Care?"
 source_url: https://forum.effectivealtruism.org/posts/a8myKSh4KWDmuj6BA/what-could-the-future-hold-and-why-care
 author:
@@ -32,4 +32,3 @@ You will also practice the skill of **calibration**, with the hope that when you
 ---
 
 *This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).*
-++}
