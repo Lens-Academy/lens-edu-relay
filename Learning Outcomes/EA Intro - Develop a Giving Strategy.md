@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780328991005}@@---
+---
 id: bb3b4ee2-2f54-4df2-af4b-9cbb4de32ff9
 discussion: <placeholder — add Discord channel URL>
 tags:
@@ -13,4 +13,3 @@ tags:
 
 ## Lens:
 source:: ![[]]
-++}

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780343760730}@@---
+---
 title: "Reducing Global Catastrophic Risks"
 source_url: https://www.givingwhatwecan.org/cause-areas/reducing-global-catastrophic-risks
 author:
@@ -20,4 +20,3 @@ tags:
 # Reducing Global Catastrophic Risks
 
 {>>TODO: Licensed content<<}
-++}
