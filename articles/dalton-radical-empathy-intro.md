@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780340657713}@@---
+---
 title: "Radical empathy (intro)"
 source_url: https://forum.effectivealtruism.org/posts/7pDe4y3KtwwyF6kTS/radical-empathy-1
 author:
@@ -29,4 +29,3 @@ Key concepts from this chapter include:
 ---
 
 *This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).*
-++}
