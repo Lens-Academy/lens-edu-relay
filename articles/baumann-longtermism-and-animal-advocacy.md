@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780340645742}@@---
+---
 title: "Longtermism and Animal Advocacy"
 source_url: https://centerforreducingsuffering.org/longtermism-and-animal-advocacy/
 author:
@@ -60,4 +60,3 @@ Accordingly, the specific number of animals that are currently used in different
 ---
 
 *This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).*
-++}
