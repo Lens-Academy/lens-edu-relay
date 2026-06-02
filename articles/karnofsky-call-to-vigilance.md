@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780340689917}@@---
+---
 title: "Call to Vigilance"
 source_url: https://www.cold-takes.com/call-to-vigilance/
 authors:
@@ -68,4 +68,3 @@ If that's going to change, it needs to start with more people seeing the situati
 ---
 
 [^1]: "I am forecasting more than a 10% chance transformative AI will be developed within 15 years (by 2036); a ~50% chance it will be developed within 40 years (by 2060); and a ~2/3 chance it will be developed this century (by 2100)."
-++}
