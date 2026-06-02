@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780343826927}@@---
+---
 title: "Fermi Estimate"
 source_url: https://forum.effectivealtruism.org/topics/fermi-estimate
 author:
@@ -29,4 +29,3 @@ von Baeyer, Hans Christian (1988) How Fermi would have fixed it, The Sciences, v
 ## Related entries
 
 cause prioritization | expected value | forecasting | impact assessment | model uncertainty | tools for collaborative truth seeking | squiggle | guesstimate | prediction markets | value of information
-++}
