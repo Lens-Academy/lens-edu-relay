@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780343799252}@@---
+---
 title: "Superforecasting in a Nutshell"
 source_url: http://lukemuehlhauser.com/superforecasting-in-a-nutshell/
 author:
@@ -19,4 +19,3 @@ tags:
 # Superforecasting in a Nutshell
 
 {>>TODO: Licensed content<<}
-++}

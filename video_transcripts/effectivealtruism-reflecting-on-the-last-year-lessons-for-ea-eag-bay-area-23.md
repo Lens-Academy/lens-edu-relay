@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780340734370}@@---
+---
 title: "Reflecting on the Last Year — Lessons for EA"
 channel: "Effective Altruism"
 url: "https://www.youtube.com/watch?v=3a6xb6vj6AA"
@@ -154,4 +154,4 @@ so I hope it was uh useful to see some of the history and how effective altruism
 
 effective altruism I've only really scratched the surface a bit here there's lots of good ideas being discussed online and I'm especially excited about getting back to the ultimate work of helping all of those who need us thank you [Applause]
 
-great thanks very much Toby um and so with unabashed earnestness I hope you uh enjoy the rest of the conference thanks very much cheers [Applause]++}
+great thanks very much Toby um and so with unabashed earnestness I hope you uh enjoy the rest of the conference thanks very much cheers [Applause]
