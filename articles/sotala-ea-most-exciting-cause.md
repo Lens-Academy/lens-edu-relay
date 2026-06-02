@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780340717818}@@---
+---
 title: "Effective altruism as the most exciting cause in the world"
 source_url: https://forum.effectivealtruism.org/posts/LwmEr3B9dpBrFq3du/effective-altruism-as-the-most-exciting-cause-in-the-world
 authors:
@@ -32,4 +32,3 @@ Here's an extra bonus. At the moment, the core of effective altruism is formed o
 A lot of people feel like life is meaningless, and that it doesn't offer any purpose that would feel worth pursuing. I've felt like that at times, too. But it's hard to find a purpose whose idea would be more compelling, exciting, or rewarding than that of effective altruism.
 
 *This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).*
-++}
