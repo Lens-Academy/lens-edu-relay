@@ -15,7 +15,7 @@ tags:
   - work-in-progress
 ---
 
-# The Number of Seabirds and Sea Mammals Killed by Marine Plastic Pollution is Quite Small Relative to the Catch of Fish{++{"author":"AI","timestamp":1780389635572}@@
+# The Number of Seabirds and Sea Mammals Killed by Marine Plastic Pollution is Quite Small Relative to the Catch of Fish
 
 Disclaimer: plastic pollution may well kill way more animals besides seabirds and sea mammals. There [are](https://forum.effectivealtruism.org/posts/ayxasxhHWTvf6r5BF/scale-of-the-welfare-of-various-animal-populations) 6.20*10^14 wild fish and 1.00*10^20 wild marine [arthropods](https://en.wikipedia.org/wiki/Arthropod), but only 6.75*10^11 wild mammals.
 
@@ -49,6 +49,6 @@ The data and calculations are presented below.
 
 *This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).*
 
-[^1]: 1 kg is the global value, and it is much smaller for many countries. Most of the countries emit less than 0.1 % of the plastic waste to the ocean (see [this](https://ourworldindata.org/grapher/share-of-global-plastic-waste-emitted-to-the-ocean?country=Africa~Asia~Europe~South+America~North+America~Oceania) map), although [3 %](https://ourworldindata.org/plastic-pollution#where-does-our-plastic-accumulate-in-the-ocean-and-what-does-that-mean-for-the-future) of the global plastic waste is emitted to the ocean.++}
+[^1]: 1 kg is the global value, and it is much smaller for many countries. Most of the countries emit less than 0.1 % of the plastic waste to the ocean (see [this](https://ourworldindata.org/grapher/share-of-global-plastic-waste-emitted-to-the-ocean?country=Africa~Asia~Europe~South+America~North+America~Oceania) map), although [3 %](https://ourworldindata.org/plastic-pollution#where-does-our-plastic-accumulate-in-the-ocean-and-what-does-that-mean-for-the-future) of the global plastic waste is emitted to the ocean.
 
 {>>TODO: Licensed content<<}
