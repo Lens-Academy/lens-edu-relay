@@ -12,8 +12,6 @@ tags:
 
 ![](https://80000hours.org/wp-content/uploads/2022/08/panels-photo-1440x830.jpg)
 
-00:00 / 01:28:30
-
 ### Notes and references
 
 [^1]: This incident, documented [here](https://metr.org/taskrabbit.pdf) by METR (then called ARC Evals), was a real interaction with a human worker that was carried out under test conditions.
