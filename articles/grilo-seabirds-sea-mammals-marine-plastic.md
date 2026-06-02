@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780343659780}@@---
+---
 title: "The Number of Seabirds and Sea Mammals Killed by Marine Plastic Pollution is Quite Small Relative to the Catch of Fish"
 source_url: https://forum.effectivealtruism.org/posts/tFfWpsEcCCKAXr8Zg/the-number-of-seabirds-and-sea-mammals-killed-by-marine
 author:
@@ -18,4 +18,3 @@ tags:
 # The Number of Seabirds and Sea Mammals Killed by Marine Plastic Pollution is Quite Small Relative to the Catch of Fish
 
 {>>TODO: Licensed content<<}
-++}
