@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780340683456}@@---
+---
 title: "Donating like a startup investor: Hits-based giving, explained"
 source_url: https://www.givingwhatwecan.org/blog/donating-like-a-startup-investor-hits-based-giving-explained
 author:
@@ -56,4 +56,3 @@ Lastly, you have to be willing to let go of the need for strong evidence. Some a
 ## Ways to adopt the hits-based giving approach
 
 If all this sounds appealing, you're in luck: there are ways you can adopt a hits-based giving approach. Charity Entrepreneurship, for instance, incubates new charities to solve big problems. Donating to funds supporting the long-term future is another way to help — much of this money ends up funding experimental projects trying to safeguard the future of humanity. Who knows: you might even help save billions of lives by funding the next Norman Borlaug.
-++}
