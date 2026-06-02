@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780329041806}@@---
+{++{"author":"AI","timestamp":1780392165524}@@---
 id: 64796067-fe8b-44f9-93a9-906b58121d96
 slug: ea-intro-m7
 title: "What Do You Think?"
@@ -13,7 +13,9 @@ id:: d5063485-e5ff-416c-b4a1-808ee7aed50b
 #### Text
 content:: {>>TODO: add module welcome text (~105 min module)<<}
 
-# Submodule: Bayes and Evidence
+source:: ![[../Lenses/EA Intro - What Do You Think Introduction]]
+
+# Submodule: Bayes' rule and evidence
 # Learning Outcome: EA Intro - Apply Bayes Rule to Update Beliefs
 source:: ![[../Learning Outcomes/EA Intro - Apply Bayes Rule to Update Beliefs]]
 

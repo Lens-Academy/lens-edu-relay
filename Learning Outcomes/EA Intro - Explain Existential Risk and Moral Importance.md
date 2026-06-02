@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780329005742}@@---
+{++{"author":"AI","timestamp":1780392126885}@@---
 id: 057f198a-b1ec-4035-90ab-bd041025880c
 discussion: <placeholder — add Discord channel URL>
 tags:
@@ -12,11 +12,5 @@ tags:
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
-source:: ![[../Lenses/EA Intro - Our Final Century Introduction]]
-
-## Lens:
 source:: ![[../Lenses/EA Intro - The Case for Reducing Existential Risk]]
-
-## Lens:
-source:: ![[../Lenses/EA Intro - Global Catastrophic Risks]]
 ++}
