@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780342383134}@@---
+---
 title: "Purchase Fuzzies and Utilons Separately"
 source_url: https://www.lesswrong.com/posts/3p3CYauiX8oLjmwRF/purchase-fuzzies-and-utilons-separately
 author:
@@ -55,4 +55,3 @@ But the main lesson is that all three of these things—warm fuzzies, status, an
 Of course, if you're not a millionaire or even a billionaire—then you can't be quite as *efficient* about things, can't so easily purchase in bulk. But I would still say—for warm fuzzies, find a relatively *cheap* charity with bright, vivid, ideally in-person and direct beneficiaries. Volunteer at a soup kitchen. Or just get your warm fuzzies from holding open doors for little old ladies. Let that be *validated* by your other efforts to purchase utilons, but don't *confuse* it with purchasing utilons. Status is probably cheaper to purchase by buying nice clothes.
 
 And when it comes to purchasing expected utilons—then, of course, [shut up and multiply](http://www.overcomingbias.com/2008/01/circular-altrui.html).
-++}
