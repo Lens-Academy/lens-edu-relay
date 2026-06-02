@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780392129161}@@---
+---
 id: 67747e63-d9f2-4f46-870d-e95b50d86e14
 discussion: <placeholder — add Discord channel URL>
 tags:
@@ -13,4 +13,3 @@ tags:
 
 ## Lens:
 source:: ![[../Lenses/EA Intro - How AI Could Create the Biggest Problems]]
-++}
