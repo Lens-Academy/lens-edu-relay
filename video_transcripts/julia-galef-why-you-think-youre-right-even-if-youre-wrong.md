@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780340732073}@@---
+---
 title: "Why you think you're right — even if you're wrong"
 channel: "TED"
 url: "https://www.youtube.com/watch?v=w4RLfVxTGH4"
@@ -50,4 +50,4 @@ about how smart you are or about how much you know. In fact, they don't correlat
 
 In other words: if we want to really improve our judgment as individuals and as societies, what we need most is not more instruction in logic or rhetoric or probability or economics, even though those things are quite valuable. What we most need, to use those principles well, is scout mindset. We need to change the way we feel. We need to learn how to feel proud instead of ashamed when we notice we might have been wrong about
 
-something. We need to learn how to feel intrigued instead of defensive when we encounter information that contradicts our beliefs. So the question I want to leave you with is: what do you most yearn for? Do you yearn to defend your own beliefs? Or do you yearn to see the world as clearly as you possibly can? Thank you.++}
+something. We need to learn how to feel intrigued instead of defensive when we encounter information that contradicts our beliefs. So the question I want to leave you with is: what do you most yearn for? Do you yearn to defend your own beliefs? Or do you yearn to see the world as clearly as you possibly can? Thank you.
