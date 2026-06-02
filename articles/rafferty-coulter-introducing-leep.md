@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780343689125}@@---
+---
 title: "Introducing LEEP: Lead Exposure Elimination Project"
 source_url: https://forum.effectivealtruism.org/posts/fd96FtLFACeAshqJP/introducing-leep-lead-exposure-elimination-project
 author:
@@ -19,4 +19,3 @@ tags:
 # Introducing LEEP: Lead Exposure Elimination Project
 
 {>>TODO: Licensed content<<}
-++}

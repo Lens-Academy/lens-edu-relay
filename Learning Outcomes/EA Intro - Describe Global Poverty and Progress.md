@@ -12,7 +12,7 @@ tags:
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
-source:: ![[../Lenses/EA Intro - Global Economic Inequality]]
+source:: ![[../Lenses/EA Intro - Global Economic Inequality]]{--{"author":"AI","timestamp":1780389545460}@@
 
 ## Lens:
-source:: ![[../Lenses/EA Intro - Global Health]]
+source:: ![[../Lenses/EA Intro - Global Health]]--}

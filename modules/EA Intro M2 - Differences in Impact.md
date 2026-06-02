@@ -30,9 +30,10 @@ source:: ![[../Learning Outcomes/EA Intro - Explain Marginal Impact]]
 # Learning Outcome: EA Intro - Apply Fermi Estimation
 source:: ![[../Learning Outcomes/EA Intro - Apply Fermi Estimation]]
 
-# Submodule: Global Health and Poverty
+# Submodule: {--{"author":"AI","timestamp":1780389543017}@@Global Health--}{++{"author":"AI","timestamp":1780389543017}@@Background data on global health++} and {--{"author":"AI","timestamp":1780389543017}@@Poverty--}{++{"author":"AI","timestamp":1780389543017}@@poverty++}
 # Learning Outcome: EA Intro - Describe Global Poverty and Progress
 source:: ![[../Learning Outcomes/EA Intro - Describe Global Poverty and Progress]]
 
-# Learning Outcome: EA Intro - Evaluate Global Health Interventions
+# {++{"author":"AI","timestamp":1780389543017}@@Submodule: EA strategies for addressing global poverty
+# ++}Learning Outcome: EA Intro - Evaluate Global Health Interventions
 source:: ![[../Learning Outcomes/EA Intro - Evaluate Global Health Interventions]]
