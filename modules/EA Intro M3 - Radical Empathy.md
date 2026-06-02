@@ -11,12 +11,12 @@ tags:
 id:: f11f084a-9c32-4c35-8375-77158405a9f2
 
 #### Text
-content:: {>>TODO: add module welcome text (~67 min module)<<}
+content:: 
 
-{++{"author":"AI","timestamp":1780392168100}@@## Lens:
+## Lens:
 source:: ![[../Lenses/EA Intro - Radical Empathy Introduction]]
 
-++}# Submodule: Impartiality and {--{"author":"AI","timestamp":1780392168100}@@Radical Empathy--}{++{"author":"AI","timestamp":1780392168100}@@radical empathy++}
+# Submodule: Impartiality and radical empathy
 # Learning Outcome: EA Intro - Explain Impartiality and Radical Empathy
 source:: ![[../Learning Outcomes/EA Intro - Explain Impartiality and Radical Empathy]]
 
@@ -26,10 +26,9 @@ source:: ![[../Learning Outcomes/EA Intro - Describe Moral Progress and Cause X]
 # Learning Outcome: EA Intro - Evaluate the Possibility of Ongoing Moral Catastrophes
 source:: ![[../Learning Outcomes/EA Intro - Evaluate the Possibility of Ongoing Moral Catastrophes]]
 
-{--{"author":"AI","timestamp":1780392168100}@@# Submodule: Animal Welfare
---}# Learning Outcome: EA Intro - Apply the Case for Animal Moral Consideration
+# Learning Outcome: EA Intro - Apply the Case for Animal Moral Consideration
 source:: ![[../Learning Outcomes/EA Intro - Apply the Case for Animal Moral Consideration]]
 
-# {++{"author":"AI","timestamp":1780392168100}@@Submodule: The case for caring about animal welfare
-# ++}Learning Outcome: EA Intro - Identify Strategies for Improving Animal Welfare
+# Submodule: The case for caring about animal welfare
+# Learning Outcome: EA Intro - Identify Strategies for Improving Animal Welfare
 source:: ![[../Learning Outcomes/EA Intro - Identify Strategies for Improving Animal Welfare]]
