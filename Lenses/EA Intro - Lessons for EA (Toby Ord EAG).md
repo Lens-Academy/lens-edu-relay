@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780328460326}@@---
+---
 id: 68e54288-3ad2-4c2f-b102-30814a54393d
 tags:
   - work-in-progress
@@ -16,4 +16,3 @@ content:: {>>TODO: add post-video discussion prompt<<}
 #### Chat
 instructions::
 {>>TODO: add AI tutor instructions — TLDR, discussion topics covering lessons from FTX, dangers of maximization, virtue ethics in EA, earnestness<<}
-++}

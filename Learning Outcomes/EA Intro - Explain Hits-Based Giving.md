@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780329007277}@@---
+---
 id: e9c6fc20-558b-406c-889b-b7f5d5a768dc
 discussion: <placeholder — add Discord channel URL>
 tags:
@@ -13,4 +13,3 @@ tags:
 
 ## Lens:
 source:: ![[../Lenses/EA Intro - Hits-Based Giving]]
-++}
