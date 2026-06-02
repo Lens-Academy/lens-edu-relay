@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780340675480}@@---
+---
 title: "Introduction to Effective Altruism"
 source_url: "https://www.effectivealtruism.org/articles/introduction-to-effective-altruism"
 author:
@@ -200,4 +200,3 @@ By doing this and thinking carefully, you might find it's possible to have far m
 [^18]: Andrew Rowan calculated $5 billion of funding to the top 3000 US animal shelter organizations in 2018. Open Philanthropy research found approximately $97 million in funding for farm animal advocacy in 2018.
 
 [^19]: 106.5 million hens were in cage-free housing in the US alone as of May 2022, compared to 17 million in 2016.
-++}
