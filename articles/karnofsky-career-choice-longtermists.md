@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780340693359}@@---
+---
 title: "My current impressions on career choice for longtermists"
 source_url: https://forum.effectivealtruism.org/posts/bud2ssJLQ33pSemKH/my-current-impressions-on-career-choice-for-longtermists
 authors:
@@ -139,4 +139,3 @@ I'm generally nervous about giving career advice to anyone, even people I know w
 So I want to close this piece by generally discouraging people from "taking advice," in the sense of making a radically different decision than they would otherwise because of their interpretation of what some particular person would think they should do. Hopefully this piece is useful for inspiration, for prompting discussion, and by raising points that one can consider on the merits and apply their own personal judgment to.
 
 *This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).*
-++}
