@@ -13,8 +13,7 @@ id:: f11f084a-9c32-4c35-8375-77158405a9f2
 #### Text
 content:: 
 
-{--{"author":"AI","timestamp":1780401092515}@@## Lens:
---}source:: ![[../Lenses/EA Intro - Radical Empathy Introduction]]
+source:: ![[../Lenses/EA Intro - Radical Empathy Introduction]]
 
 # Submodule: Impartiality and radical empathy
 # Learning Outcome: EA Intro - Explain Impartiality and Radical Empathy
