@@ -13,9 +13,9 @@ id:: 698a0649-c5d2-4fd2-a22b-53429864368b
 #### Text
 content:: {>>TODO: add module welcome text (~130 min module)<<}
 
-{++{"author":"AI","timestamp":1780388778304}@@source:: ![[../Lenses/EA Intro - Differences in Impact]]
+source:: ![[../Lenses/EA Intro - Differences in Impact]]
 
-++}# Submodule: The ITN Framework
+# Submodule: The ITN Framework
 # Learning Outcome: EA Intro - Apply the ITN Framework
 source:: ![[../Learning Outcomes/EA Intro - Apply the ITN Framework]]
 
