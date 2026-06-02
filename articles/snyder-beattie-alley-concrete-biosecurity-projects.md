@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780344686028}@@---
+---
 title: "Concrete Biosecurity Projects (some of which could be big)"
 source_url: https://forum.effectivealtruism.org/posts/u5JesqQ3jdLENXBtB/concrete-biosecurity-projects-some-of-which-could-be-big-1
 author:
@@ -87,4 +87,3 @@ Again, please fill in [this coordination form](https://docs.google.com/forms/d/e
 [^3]: Another discussion of this idea, a 'nucleic acid observatory,' can be found [here](https://arxiv.org/abs/2108.02678).
 
 [^4]: One possible downside risk is that adversarial countries might interpret such a huge bulk purchase of PPE as being evidence or preparation for strategic biological warfare, leading to an arms race dynamic.  The company should therefore be cautious about how it messages and should also liberally sell this equipment everywhere in the world to signal defensive intent.
-++}
