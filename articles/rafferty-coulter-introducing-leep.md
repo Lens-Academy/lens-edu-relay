@@ -18,7 +18,7 @@ tags:
 
 # Introducing LEEP: Lead Exposure Elimination Project
 
-{++{"author":"AI","timestamp":1780394674180}@@We are excited to announce the launch of Lead Exposure Elimination Project ([LEEP](https://leadelimination.org/)), a new EA organisation incubated by Charity Entrepreneurship. Our mission is to reduce lead poisoning, which causes significant disease burden worldwide. We aim to achieve this by advocating for lead paint regulation in countries with large and growing burdens of lead poisoning from paint.
+We are excited to announce the launch of Lead Exposure Elimination Project ([LEEP](https://leadelimination.org/)), a new EA organisation incubated by Charity Entrepreneurship. Our mission is to reduce lead poisoning, which causes significant disease burden worldwide. We aim to achieve this by advocating for lead paint regulation in countries with large and growing burdens of lead poisoning from paint.
 
 In this post, we make the case for lead exposure reduction as a priority, and outline our plan to address this problem.
 
@@ -116,4 +116,4 @@ We greatly value your feedback and suggestions, particularly at this early stage
 *Originally published at [Introducing LEEP: Lead Exposure Elimination Project](https://forum.effectivealtruism.org/posts/fd96FtLFACeAshqJP/introducing-leep-lead-exposure-elimination-project).*
 *Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).*
 
-++}{>>TODO: Licensed content<<}
+{>>TODO: Licensed content<<}
