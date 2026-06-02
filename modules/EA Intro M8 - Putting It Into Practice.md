@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780392170807}@@---
+---
 id: ec6b6ce3-006b-49d5-8109-eaacd87cf846
 slug: ea-intro-m8
 title: "Putting It Into Practice"
@@ -26,4 +26,3 @@ source:: ![[../Learning Outcomes/EA Intro - Apply EA Principles to Career Choice
 # Submodule: Dealing with demandingness
 # Learning Outcome: EA Intro - Navigate Demandingness in EA
 source:: ![[../Learning Outcomes/EA Intro - Navigate Demandingness in EA]]
-++}
