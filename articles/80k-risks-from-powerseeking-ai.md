@@ -1,6 +1,6 @@
 ---
 title: "Risks from power-seeking AI systems"
-source: "https://80000hours.org/problem-profiles/risks-from-power-seeking-ai/"
+source_url: "https://80000hours.org/problem-profiles/risks-from-power-seeking-ai/"
 author:
   - "Cody Fenwick"
 published: 2025-07-17
