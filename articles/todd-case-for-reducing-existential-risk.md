@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780344605214}@@---
+---
 title: "The Case for Reducing Existential Risk"
 source_url: https://80000hours.org/articles/existential-risks/
 author:
@@ -19,4 +19,3 @@ tags:
 # The Case for Reducing Existential Risk
 
 {>>TODO: Licensed content<<}
-++}
