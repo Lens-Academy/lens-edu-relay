@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780344294842}@@---
+---
 title: "How AI Could Create the World's Biggest Problems"
 source_url: https://80000hours.org/problem-profiles/artificial-intelligence/
 authors:
@@ -18,4 +18,3 @@ tags:
 ---
 
 {>>TODO: Licensed content<<}
-++}
