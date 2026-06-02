@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780340654614}@@---
+---
 title: "Our final century? (intro)"
 source_url: https://forum.effectivealtruism.org/posts/rwz7E7FWB59ngunrL/our-final-century
 author:
@@ -31,4 +31,3 @@ Key concepts from this session include:
 ---
 
 *This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).*
-++}

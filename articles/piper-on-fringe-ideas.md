@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780340705594}@@---
+---
 title: 'On "fringe" ideas'
 source_url: https://theunitofcaring.tumblr.com/post/185847413171/what-do-you-think-about-the-more-fringe-parts-of
 author:
@@ -60,4 +60,3 @@ One last thing: There are so many awful problems in the world, and every person 
 ---
 
 *This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).*
-++}

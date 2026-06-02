@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780340702545}@@---
+---
 title: "Expected Value: How to Make Decisions Under Uncertainty"
 source_url: https://non-trivial.org/lessons/making-decisions-under-uncertainty
 author:
@@ -93,4 +93,3 @@ A sophisticated approach uses expected value as a guide while also maintaining r
 ---
 
 *This article is drawn from Non-Trivial's course on effective altruism and decision-making under uncertainty. For the interactive version with exercises, see [non-trivial.org](https://non-trivial.org/lessons/making-decisions-under-uncertainty).*
-++}
