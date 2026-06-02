@@ -13,9 +13,9 @@ id:: 171bf51b-9a78-446f-bcca-0234c08dfe89
 #### Text
 content:: {>>TODO: add module welcome text (~90 min module)<<}
 TODO: add module welcome text
-{++{"author":"AI","timestamp":1780391531980}@@source:: ![[../Lenses/EA Intro - About This Handbook]]
+source:: ![[../Lenses/EA Intro - About This Handbook]]
 source:: ![[../Lenses/EA Intro - The Effectiveness Mindset (Dalton)]]
-++}# Submodule: {--{"author":"AI","timestamp":1780391531980}@@Introduction--}{++{"author":"AI","timestamp":1780391531980}@@On effective altruism++}
+# Submodule: On effective altruism
 # Learning Outcome: EA Intro - Explain What Effective Altruism Is
 source:: ![[../Learning Outcomes/EA Intro - Explain What Effective Altruism Is]]
 
