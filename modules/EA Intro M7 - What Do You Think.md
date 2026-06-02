@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780392165524}@@---
+{++{"author":"AI","timestamp":1780392179947}@@---
 id: 64796067-fe8b-44f9-93a9-906b58121d96
 slug: ea-intro-m7
 title: "What Do You Think?"
@@ -19,18 +19,18 @@ source:: ![[../Lenses/EA Intro - What Do You Think Introduction]]
 # Learning Outcome: EA Intro - Apply Bayes Rule to Update Beliefs
 source:: ![[../Learning Outcomes/EA Intro - Apply Bayes Rule to Update Beliefs]]
 
-# Submodule: Independent Impressions
+# Submodule: Independent impressions
 # Learning Outcome: EA Intro - Explain Independent Impressions
 source:: ![[../Learning Outcomes/EA Intro - Explain Independent Impressions]]
 
-# Submodule: Learning from Mistakes
+# Submodule: Learning from mistakes
 # Learning Outcome: EA Intro - Identify Lessons from EA's Mistakes
 source:: ![[../Learning Outcomes/EA Intro - Identify Lessons from EA's Mistakes]]
 
 # Learning Outcome: EA Intro - Explain Why Maximization Is Perilous
 source:: ![[../Learning Outcomes/EA Intro - Explain Why Maximization Is Perilous]]
 
-# Submodule: Less Common Causes
+# Submodule: Less common causes
 # Learning Outcome: EA Intro - Enumerate Less Common Cause Candidates
 source:: ![[../Learning Outcomes/EA Intro - Enumerate Less Common Cause Candidates]]
 ++}

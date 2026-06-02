@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780329024637}@@---
+{++{"author":"AI","timestamp":1780392192074}@@---
 id: bf547447-3617-46ff-a14f-6ebd9240e9f2
 discussion: <placeholder — add Discord channel URL>
 tags:
@@ -12,5 +12,5 @@ tags:
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
-source:: ![[../Lenses/EA Intro - Lessons for EA (Toby Ord EAG)]]
+source:: ![[../Lenses/EA Intro - Reflecting on the Last Year]]
 ++}

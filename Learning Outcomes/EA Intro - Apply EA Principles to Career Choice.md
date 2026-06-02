@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780328971998}@@---
+{++{"author":"AI","timestamp":1780392177548}@@---
 id: d4c2baf8-5be3-4cec-b33a-0d4f06a5478d
 discussion: <placeholder — add Discord channel URL>
 tags:
@@ -10,9 +10,6 @@ tags:
 
 ## Test:
 {>>TODO: write assessment question or task<<}
-
-## Lens:
-source:: ![[../Lenses/EA Intro - Putting It Into Practice Introduction]]
 
 ## Lens:
 source:: ![[../Lenses/EA Intro - Summary of 80000 Hours Key Ideas]]

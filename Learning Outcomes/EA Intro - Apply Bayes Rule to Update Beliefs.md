@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780328970616}@@---
+{++{"author":"AI","timestamp":1780392186527}@@---
 id: 6f1bb7c8-6c30-41d1-b15e-76679d5513ca
 discussion: <placeholder — add Discord channel URL>
 tags:
@@ -10,9 +10,6 @@ tags:
 
 ## Test:
 {>>TODO: write assessment question or task<<}
-
-## Lens:
-source:: ![[../Lenses/EA Intro - What Do You Think Introduction]]
 
 ## Lens:
 source:: ![[../Lenses/EA Intro - Bayes Rule Guide]]
