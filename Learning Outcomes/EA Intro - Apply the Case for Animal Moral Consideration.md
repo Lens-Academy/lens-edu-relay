@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780328979762}@@---
+---
 id: f7f7e180-0561-44ef-9134-bc2aa230549c
 discussion: <placeholder — add Discord channel URL>
 tags:
@@ -13,4 +13,3 @@ tags:
 
 ## Lens:
 source:: ![[../Lenses/EA Intro - On Fringe Ideas]]
-++}

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780329021585}@@---
+---
 id: 805f62c4-60da-4e7d-ac91-b5a29071ece1
 discussion: <placeholder — add Discord channel URL>
 tags:
@@ -13,4 +13,3 @@ tags:
 
 ## Lens:
 source:: ![[../Lenses/EA Intro - Concrete Biosecurity Projects]]
-++}

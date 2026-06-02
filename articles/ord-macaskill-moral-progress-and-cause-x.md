@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780344419911}@@---
+---
 title: 'Moral progress and "Cause X"'
 source_url: https://forum.effectivealtruism.org/posts/9K8Yiv9Fdm7XNsmCm/moral-progress-and-cause-x
 author:
@@ -137,4 +137,3 @@ And when we look to the future, well, things are going to change a lot again. Th
 So that's why the focus of this conference is on effective altruism as an intellectual project. And that's why I want to suggest that the kind of key thing to take with you through this conference is to think, well, what's the biggest, most important issue in which you still might be uncertain and which you might be very wrong? And in which case, I think what could you do? Who could you talk to? What talks could you go to that could potentially change your mind on that issue? And if you do see people who are changing their mind say, “Yeah. Wow. I've had this crucial consideration and I've realized that things are just radically different in terms of how I should evaluate my options than they were before.” You know, celebrate that. Applaud that because that's the most important thing. It’s the ability to change our minds in light of new evidence and to move on to maybe accept the beliefs that we found that we cherished, cause areas that we were really personally attached to, maybe they're not the best thing, maybe there are better ways of doing it. It's only by constantly learning, being able to constantly appreciate new ideas, new arguments, and new evidence by constantly learning and being willing to change our minds - that's the only way that we're going to be able to do the most good. Thank you.
 
 *This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).*
-++}

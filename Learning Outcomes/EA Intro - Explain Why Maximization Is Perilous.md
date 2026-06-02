@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780329016645}@@---
+---
 id: 7f12b11e-39ac-4dbd-99ab-5a8c65588061
 discussion: <placeholder — add Discord channel URL>
 tags:
@@ -13,4 +13,3 @@ tags:
 
 ## Lens:
 source:: ![[../Lenses/EA Intro - EA Is About Maximization and Maximization Is Perilous]]
-++}
