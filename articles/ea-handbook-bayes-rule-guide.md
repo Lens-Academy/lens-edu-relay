@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780340672908}@@---
+---
 title: "Bayes' Rule: Guide"
 source_url: https://arbital.com/p/bayes_rule/?l=1zq
 authors:
@@ -197,4 +197,3 @@ In the Diseasitis example: 0.20/0.80 × 0.90/0.30 = 0.18/0.24 = 0.43/0.57 ✓
 ![A Venn diagram showing the proof steps in the Diseasitis example](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/arbital/ei7eluisuuyrdmrfx8vy)
 
 This process of observing evidence and using its likelihood ratio to transform a prior belief into a posterior belief is called a **Bayesian update** or "belief revision."
-++}
