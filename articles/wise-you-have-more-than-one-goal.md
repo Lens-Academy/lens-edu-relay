@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780340724184}@@---
+---
 title: "You have more than one goal, and that's fine"
 source_url: https://web.archive.org/web/20200220221815/http://www.givinggladly.com/2019/02/you-have-more-than-one-goal-and-thats.html
 authors:
@@ -33,4 +33,3 @@ I have another pot of money set aside for donating as effectively as I can. When
 When you make a decision, be clear with yourself about which goals you're pursuing. You don't have to argue that your choice is the best way of improving the world if that isn't actually the goal. It's fine to support your local arts organization because their work gives you joy, because you want to be active in your community, or because they helped you and you want to reciprocate. If you also have a goal of improving the world as much as you can, decide how much time and money you want to allocate to that goal, and try to use those resources as effectively as you can.
 
 *This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).*
-++}
