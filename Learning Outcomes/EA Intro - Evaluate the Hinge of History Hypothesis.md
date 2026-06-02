@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780329001050}@@---
+---
 id: b4ea9db0-afaa-472a-b4f1-7bb5edb766f4
 discussion: <placeholder — add Discord channel URL>
 tags:
@@ -13,4 +13,3 @@ tags:
 
 ## Lens:
 source:: ![[../Lenses/EA Intro - This Can't Go On]]
-++}
