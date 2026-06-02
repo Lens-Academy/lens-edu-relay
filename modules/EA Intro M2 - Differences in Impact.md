@@ -15,7 +15,7 @@ content:: {>>TODO: add module welcome text (~130 min module)<<}
 
 source:: ![[../Lenses/EA Intro - Differences in Impact]]
 
-# Submodule: {--{"author":"AI","timestamp":1780391530332}@@The --}ITN {--{"author":"AI","timestamp":1780391530332}@@Framework--}{++{"author":"AI","timestamp":1780391530332}@@framework++}
+# Submodule: ITN framework
 # Learning Outcome: EA Intro - Apply the ITN Framework
 source:: ![[../Learning Outcomes/EA Intro - Apply the ITN Framework]]
 
