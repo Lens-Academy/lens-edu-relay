@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780329029418}@@---
+---
 id: 0d1bc5bd-fb97-461f-9783-56ee135ea218
 discussion: <placeholder — add Discord channel URL>
 tags:
@@ -13,4 +13,3 @@ tags:
 
 ## Lens:
 source:: ![[../Lenses/EA Intro - Factory Farming Problem Profile]]
-++}
