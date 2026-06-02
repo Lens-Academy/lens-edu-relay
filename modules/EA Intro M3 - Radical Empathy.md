@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780329036159}@@---
+---
 id: 24ac9fca-a886-4e1c-bef0-70ad674b89a8
 slug: ea-intro-m3
 title: "Radical Empathy"
@@ -29,4 +29,3 @@ source:: ![[../Learning Outcomes/EA Intro - Apply the Case for Animal Moral Cons
 
 # Learning Outcome: EA Intro - Identify Strategies for Improving Animal Welfare
 source:: ![[../Learning Outcomes/EA Intro - Identify Strategies for Improving Animal Welfare]]
-++}
