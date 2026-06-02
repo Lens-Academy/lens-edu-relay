@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780343834606}@@---
+---
 title: "EA Is About Maximization, and Maximization Is Perilous"
 source_url: https://forum.effectivealtruism.org/posts/T975ydo3mx8onH3iS/ea-is-about-maximization-and-maximization-is-perilous
 authors:
@@ -18,4 +18,3 @@ tags:
 ---
 
 {>>TODO: Licensed content<<}
-++}
