@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780392686419}@@---
+---
 id: 4775deb7-1338-4373-bdb7-f0c25ddbb986
 slug: ea-intro-m6
 title: "Risks from Artificial Intelligence"
@@ -27,4 +27,3 @@ source:: ![[../Learning Outcomes/EA Intro - Describe the AI Governance Landscape
 # Learning Outcome: EA Intro - Explain S-Risks
 source:: ![[../Learning Outcomes/EA Intro - Explain S-Risks]]
 
-++}

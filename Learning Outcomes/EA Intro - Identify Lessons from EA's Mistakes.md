@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780392685359}@@---
+---
 id: bf547447-3617-46ff-a14f-6ebd9240e9f2
 discussion: <placeholder — add Discord channel URL>
 tags:
@@ -13,4 +13,3 @@ tags:
 
 ## Lens:
 source:: ![[../Lenses/EA Intro - Lessons for EA (Toby Ord EAG)]]
-++}
