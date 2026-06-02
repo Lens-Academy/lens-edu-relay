@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780392205476}@@---
+---
 id: a3c45b17-6469-476e-8fd7-e32782cdffec
 slug: ea-intro-m5
 title: "What Could the Future Hold? And Why Care?"
@@ -33,4 +33,3 @@ source:: ![[../Learning Outcomes/EA Intro - Describe What a Positive Long-Term F
 
 # Learning Outcome: EA Intro - Evaluate Longtermism's Implications for Animal Advocacy
 source:: ![[../Learning Outcomes/EA Intro - Evaluate Longtermism's Implications for Animal Advocacy]]
-++}

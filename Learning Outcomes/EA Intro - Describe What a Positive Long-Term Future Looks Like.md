@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780392186660}@@---
+---
 id: 22820eab-1fbf-40e1-af51-bee4a69cf984
 discussion: <placeholder — add Discord channel URL>
 tags:
@@ -13,4 +13,3 @@ tags:
 
 ## Lens:
 source:: ![[../Lenses/EA Intro - Top Open Metaculus Forecasts]]
-++}
