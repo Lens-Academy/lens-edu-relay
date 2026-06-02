@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780421502913}@@---
+{++{"author":"AI","timestamp":1780421605550}@@---
 title: "Risks from power-seeking AI systems"
 source_url: "https://80000hours.org/problem-profiles/risks-from-power-seeking-ai/"
 author:
@@ -692,7 +692,7 @@ We’ve also provided a more general argument [here](https://80000hours.org/prob
     >
     > Agents are systems that independently accomplish tasks on your behalf.
     >
-    > A workflow is a sequence of steps that must be executed to meet the user’s goal, whether that’s resolving a customer service issue, booking a restaurant reservation, committing a code change, or generating a report.
+    > A workflow is a sequence of steps that must be executed to meet the user’s goal, whether that’s resolving a customer service issue, booking a restaurant reservation, committing a code change, or generating a report.
     >
     > Applications that integrate LLMs but don’t use them to control workflow execution—think simple chatbots, single-turn LLMs, or sentiment classifiers—are not agents.
     >
@@ -700,7 +700,7 @@ We’ve also provided a more general argument [here](https://80000hours.org/prob
     >  consistently on behalf of a user:
     >
     > 1. It leverages an LLM to manage workflow execution and make decisions. It recognizes  
-    >     when a workflow is complete and can proactively correct its actions if needed. In case    
+    >     when a workflow is complete and can proactively correct its actions if needed. In case    
     >     of failure, it can halt execution and transfer control back to the user.
     > 2. It has access to various tools to interact with external systems—both to gather context  
     >     and to take actions—and dynamically selects the appropriate tools depending on the  
