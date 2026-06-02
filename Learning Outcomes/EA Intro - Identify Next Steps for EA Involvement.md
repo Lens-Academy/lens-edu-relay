@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780329026062}@@---
+---
 id: 8a610770-11cb-4e25-96aa-652e302f1ae8
 discussion: <placeholder — add Discord channel URL>
 tags:
@@ -16,4 +16,3 @@ source:: ![[../Lenses/EA Intro - Call to Vigilance]]
 
 ## Lens:
 source:: ![[../Lenses/EA Intro - Effective Altruism as the Most Exciting Cause]]
-++}

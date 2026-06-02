@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780343801069}@@---
+---
 title: "Crucial Consideration"
 source_url: https://forum.effectivealtruism.org/topics/crucial-consideration
 author:
@@ -32,4 +32,3 @@ Second, a *deliberation ladder*, or a sequence of crucial considerations resulti
 ## Implications
 
 The potential existence of yet undiscovered crucial considerations raises a very serious challenge for any attempt to do good effectively on a large scale. As Bostrom writes, "Our noblest and most carefully considered attempts to effect change in the world might well be pushing things further *away* from where they ought to be. Perhaps around the corner lurks some crucial consideration that we have ignored, such that if we thought of it and were able to accord it its due weight in our reasoning, it would convince us that our guiding beliefs and our struggles to date had been orthogonal or worse to the direction that would then come to appear to us as the right one." Such a challenge is particularly serious for longtermists: the additional difficulty associated with trying to influence the far future, and the greater neglect of this area until very recently, strongly suggest that relevant crucial considerations remain undiscovered.
-++}

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780344372222}@@---
+---
 title: "Preventing Catastrophic Pandemics"
 source_url: https://80000hours.org/problem-profiles/preventing-catastrophic-pandemics/
 author:
@@ -20,4 +20,3 @@ tags:
 # Preventing Catastrophic Pandemics
 
 {>>TODO: Licensed content<<}
-++}
