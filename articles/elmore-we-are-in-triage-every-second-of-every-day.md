@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780343778230}@@---
+---
 title: "We Are in Triage Every Second of Every Day"
 source_url: https://forum.effectivealtruism.org/s/B79ro5zkhndbBKRRX/p/vQpk3cxdAe5RX9xzo
 author:
@@ -54,4 +54,3 @@ I understand that it's hard, that we will always instinctively care more for the
 There are [millions of people around the world dying of entirely preventable causes](http://www.un.org/apps/news/story.asp?NewsID=54340#.V7_XV7V8bWQ). Why should it make any difference that they aren't in front of us? You know they are there. *They* know the suffering they feel. [Poverty](https://www.givedirectly.org/) is a major culprit, as are [neglected tropical diseases](http://www.givewell.org/international/top-charities/amf) that could be cured for [pennies per person per year](http://www.givewell.org/international/top-charities/schistosomiasis-control-initiative). Money that you won't even miss could be saving lives right now [if you put it to that purpose](https://www.givingwhatwecan.org/get-involved/join/) instead of, say, home improvement or collecting action figures. Every decision we make bears on the lives of the myriad others we might be able to help.
 
 **We are always in triage.** I fervently hope that one day we will be able to save everyone. In the meantime, it is irresponsible to pretend that we aren't [making life and death decisions with the allocation of our resources](https://www.effectivealtruism.org/). Pretending there is no choice only makes our decisions worse.
-++}
