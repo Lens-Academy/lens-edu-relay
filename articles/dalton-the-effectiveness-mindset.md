@@ -9,8 +9,8 @@ description: "An introduction to the key concepts of Module 1: scope sensitivity
 tags:
   - "ea-intro-program"
   - "effective-altruism"
-  - "scout-mindset"{++{"author":"AI","timestamp":1780340659961}@@
-  - work-in-progress++}
+  - "scout-mindset"
+  - work-in-progress
 ---
 
 > *"We are always in triage. I fervently hope that one day we will be able to save everyone. In the meantime, it is irresponsible to pretend that we aren't making life and death decisions with the allocation of our resources. Pretending there is no choice only makes our decisions worse."*

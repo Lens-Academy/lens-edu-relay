@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780329014860}@@---
+---
 id: 2a0bdc70-b0f4-4bf5-a49b-8fcec6a2c17d
 discussion: <placeholder — add Discord channel URL>
 tags:
@@ -13,4 +13,3 @@ tags:
 
 ## Lens:
 source:: ![[../Lenses/EA Intro - Why S-Risks Are the Worst Existential Risks]]
-++}
