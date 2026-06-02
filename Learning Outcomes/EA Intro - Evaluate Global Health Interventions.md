@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780328996116}@@---
+---
 id: 83b7a0e6-f29c-4aa5-973e-e06f2584193f
 discussion: <placeholder — add Discord channel URL>
 tags:
@@ -16,4 +16,3 @@ source:: ![[../Lenses/EA Intro - Giving 101 Guide]]
 
 ## Lens:
 source:: ![[../Lenses/EA Intro - Introducing LEEP]]
-++}
