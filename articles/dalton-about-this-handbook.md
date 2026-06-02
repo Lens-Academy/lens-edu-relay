@@ -8,8 +8,8 @@ created: 2026-05-28
 description: "An introduction to the EA Introductory Program handbook, explaining what effective altruism is, how the program works, and how participants should approach the material — taking ideas seriously, treating disagreements as useful, and being aware of privilege."
 tags:
   - "ea-intro-program"
-  - "effective-altruism"{++{"author":"AI","timestamp":1780340651987}@@
-  - work-in-progress++}
+  - "effective-altruism"
+  - work-in-progress
 ---
 
 # What the program is about

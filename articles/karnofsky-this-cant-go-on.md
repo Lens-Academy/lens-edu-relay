@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780344999285}@@---
+---
 title: "This Can't Go On"
 source_url: https://www.cold-takes.com/this-cant-go-on/
 author:
@@ -20,4 +20,3 @@ tags:
 # This Can't Go On
 
 {>>TODO: Licensed content<<}
-++}

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780340656452}@@---
+---
 title: "Putting it into practice"
 source_url: https://forum.effectivealtruism.org/posts/FtXHtyJAm8zjiunEW/putting-it-into-practice
 authors:
@@ -19,4 +19,3 @@ In this final chapter, we hope to help you apply the principles of effective alt
 You probably won't be ready to make a career change just yet — you might want to read and reflect more before you do that. So instead we'll help you to think through some of your key uncertainties, generate tests for those uncertainties, and plan out how you can make sure you follow through on your intentions.
 
 *This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).*
-++}
