@@ -25,7 +25,7 @@ Chapter 12 opens with Thomas Midgley Jr., who invented both leaded gasoline and 
 Chapter 13 lays out the concrete policy proposal: a worldwide halt on frontier AI development, enforced through GPU consolidation, international monitoring, and treaty mechanisms. The WWII mobilization serves as the central analogy — "not even 1% as costly as WWII."
 
 Chapter 14 ends on a note of qualified hope, invoking the nuclear war precedent: humanity has chosen not to die before. The closing words offer a prayer: "May we be wrong, and shamed for how incredibly wrong we were."
-
+%%
 **This week's reading:** Chapter 12 ("I Don't Want to Be Alarmist") + Chapter 13 ("Shut It Down") + Chapter 14 ("Where There's Life, There's Hope") + Closing Words. After reading, come back here to discuss with the tutor.
 
 #### Chat
@@ -55,15 +55,30 @@ Discussion topics to explore:
 Ask what they found surprising or new. Check if they can explain the ladder-in-the-dark incentive problem in their own words — it's a key concept.
 
 %%
-# Learning Outcome: IABIED - Perverse Incentives and Institutional Failure
-source:: ![[../Learning Outcomes/IABIED - Perverse Incentives and Institutional Failure]]
+# Submodule: Chapter 12: I Don't Want to Be Alarmist
+## Learning Outcome: IABIED - The One-Chance Problem
+source:: [[../Learning Outcomes/The One-Chance Problem]]
 
-# Learning Outcome: IABIED - The Case for Shutting It Down
-source:: ![[../Learning Outcomes/IABIED - The Case for Shutting It Down]]
+## Learning Outcome: IABIED - Ladder in the Dark
+source:: [[../Learning Outcomes/Ladder in the Dark]]
 
-# Learning Outcome: IABIED - Where There's Life, There's Hope
-source:: ![[../Learning Outcomes/IABIED - Where There's Life, There's Hope]]
-%%
+# Submodule: Chapter 13: Shut It Down
+## Learning Outcome: IABIED - The WWII Analogy
+source:: [[../Learning Outcomes/The WWII Analogy]]
+
+## Learning Outcome: IABIED - Coalition Strategy
+source:: [[../Learning Outcomes/Coalition Strategy]]
+
+# Submodule: Chapter 14: Where There's Life, There's Hope
+## Learning Outcome: IABIED - Un-Writing Our Fate
+source:: [[../Learning Outcomes/Un-Writing Our Fate]]
+
+## Learning Outcome: IABIED - Role-Specific Action
+source:: [[../Learning Outcomes/Role-Specific Action]]
+
+# Submodule: Closing Words
+## Learning Outcome: IABIED - The Two Prayers
+source:: [[../Learning Outcomes/The Two Prayers]]
 
 # Lens: Overview of Optional Resources
 id:: d4e5f6a7-8b9c-4d0e-1f2a-3b4c5d6e7f8a
