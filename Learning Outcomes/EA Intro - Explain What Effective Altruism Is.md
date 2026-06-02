@@ -12,13 +12,13 @@ tags:
 {>>TODO: write assessment question or task<<}
 
 ## Lens:
-source:: ![[../Lenses/EA Intro - About This Handbook]]
+source:: ![[../Lenses/EA Intro - {--{"author":"AI","timestamp":1780391539695}@@About This Handbook]]
 
 ## Lens:
 source:: ![[../Lenses/EA Intro - The Effectiveness Mindset (Dalton)]]
 
 ## Lens:
-source:: ![[../Lenses/EA Intro - Introduction to Effective Altruism]]
+source:: ![[../Lenses/EA Intro - --}Introduction to Effective Altruism]]
 
 ## Lens:
 source:: ![[../Lenses/EA Intro - Four Ideas You Already Agree With]]
