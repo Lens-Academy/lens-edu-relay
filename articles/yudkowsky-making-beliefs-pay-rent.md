@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780344048396}@@---
+---
 title: "Making Beliefs Pay Rent"
 source_url: https://www.lesswrong.com/s/6xgy8XYEisLk3tCjH/p/a7n8GdKiAZRX86T5A
 authors:
@@ -17,4 +17,3 @@ tags:
 ---
 
 {>>TODO: Licensed content<<}
-++}
