@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780328994522}@@---
+---
 id: 8876a5f4-55ee-4af5-b9dc-aafdce2ffa58
 discussion: <placeholder — add Discord channel URL>
 tags:
@@ -13,4 +13,3 @@ tags:
 
 ## Lens:
 source:: ![[../Lenses/EA Intro - Big List of Cause Candidates]]
-++}

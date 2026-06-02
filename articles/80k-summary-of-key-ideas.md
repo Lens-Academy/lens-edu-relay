@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780344424620}@@---
+---
 title: "Summary of 80,000 Hours' key ideas"
 source_url: https://80000hours.org/key-ideas/summary/
 authors:
@@ -16,4 +16,3 @@ tags:
 ---
 
 {>>TODO: Licensed content<<}
-++}

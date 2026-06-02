@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780340665830}@@---
+---
 title: "What Do You Think?"
 source_url: https://forum.effectivealtruism.org/posts/zGavnmS5hCC4mDHS8/what-do-you-think
 authors:
@@ -30,4 +30,3 @@ A key concept for this session is the importance of **forming independent impres
 We are also including pieces on Bayes' rule and general approaches to dealing with evidence in this session because it is another tool that can be utilized for a wide range of difficult decisions. By thinking more clearly about how much we should update our views based on new evidence, we can become more calibrated and thereby better decision-makers.
 
 *This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).*
-++}
