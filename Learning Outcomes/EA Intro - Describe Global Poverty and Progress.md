@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780328984902}@@---
+---
 id: f4060802-fbb1-4347-86ce-97d18f5e67e7
 discussion: <placeholder — add Discord channel URL>
 tags:
@@ -16,4 +16,3 @@ source:: ![[../Lenses/EA Intro - Global Economic Inequality]]
 
 ## Lens:
 source:: ![[../Lenses/EA Intro - Global Health]]
-++}
