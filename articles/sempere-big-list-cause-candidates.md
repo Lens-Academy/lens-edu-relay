@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780344589386}@@---
+---
 title: "A Big List of Cause Candidates"
 source_url: https://forum.effectivealtruism.org/posts/SCqRu6shoa8ySvRAa/
 authors:
@@ -16,4 +16,3 @@ tags:
 ---
 
 {>>TODO: Licensed content<<}
-++}
