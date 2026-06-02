@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780392148147}@@---
+---
 title: "Reflecting on the Last Year — Lessons for EA (opening keynote at EAG)"
 source_url: https://forum.effectivealtruism.org/posts/YrXZ3pRvFuH8SJaay/reflecting-on-the-last-year-lessons-for-ea-opening-keynote
 authors:
@@ -18,4 +18,3 @@ tags:
 ---
 
 {>>TODO: Licensed content<<}
-++}
