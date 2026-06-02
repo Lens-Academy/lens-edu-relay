@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780344175366}@@---
+---
 title: "Global Economic Inequality"
 source_url: https://ourworldindata.org/global-economic-inequality-introduction
 author:
@@ -138,4 +138,3 @@ I want to thank Joe Hasell and Toby Ord for their feedback on this article and v
 [^5]: For evidence on this, see my post ['How much economic growth is necessary to reduce global poverty substantially?'](https://ourworldindata.org/poverty-minimum-growth-needed)
 
 [^6]: In the world's richest countries, the maternal mortality ratio (MMR) is more than 100-fold lower than the global average (211/2=105.5-fold). In the world's richest countries, the MMR per 100,000 live births is 2; worldwide, it is 211. Worldwide, 295,000 mothers die every year. Every year 295,000 mothers die in childbirth. If the risk of death for mothers were globally as low as in the world's richest countries, 2,800 mothers would die. 292,200 mothers would not die.
-++}
