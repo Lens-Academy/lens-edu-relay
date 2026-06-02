@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780343709370}@@---
+---
 title: "The Longtermist AI Governance Landscape: A Basic Overview"
 source_url: https://forum.effectivealtruism.org/posts/ydpo7LcJWhrr2GJrx/the-longtermist-ai-governance-landscape-a-basic-overview
 authors:
@@ -212,4 +212,3 @@ Or, you could carve up the landscape based on different "theories of victory", i
 *Acknowledgements: this is my own synthesis of the landscape, but is inspired and/or draws directly from EA forum posts by Allan Dafoe, Luke Muehlhauser and Convergence Analysis. Thanks also to Jess Whittlestone for helpful conversation, plus Matthijs Maas, Yun Gu, Konstantin Pilz, Caroline Baumöhl and especially a reviewer from SERI for feedback on a draft.*
 
 *This work is licensed under a [Creative Commons Attribution 4.0 International License.](https://creativecommons.org/licenses/by/4.0/)*
-++}

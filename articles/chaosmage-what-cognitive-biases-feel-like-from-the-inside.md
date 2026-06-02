@@ -67,4 +67,4 @@ This is why being aware of cognitive biases as abstract concepts isn't enough. K
 
 The antidote isn't self-flagellation or constant second-guessing. It's developing habits of thought that build in external checks: seeking out opposing arguments, looking for disconfirming evidence, checking your predictions against outcomes, asking "would I believe this if it pointed the other way?" These habits can partially compensate for the invisible pull of bias.
 
-But they require effort, because the biased version always feels more natural. Clear thinking is a skill that has to be practiced against the grain of our instincts.{++{"author":"AI","timestamp":1780343894895}@@{>>TODO: Licensed content<<}++}
+But they require effort, because the biased version always feels more natural. Clear thinking is a skill that has to be practiced against the grain of our instincts.{>>TODO: Licensed content<<}
