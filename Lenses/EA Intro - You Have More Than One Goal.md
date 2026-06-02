@@ -1,8 +1,8 @@
-{++{"author":"AI","timestamp":1780328966425}@@---
+---
 id: 0a947ac1-389f-406e-a41e-4b2cdbe9128a
 tags:
   - work-in-progress
 ---
 
 #### Article
-source:: [[../articles/wise-you-have-more-than-one-goal]]++}
+source:: [[../articles/wise-you-have-more-than-one-goal]]

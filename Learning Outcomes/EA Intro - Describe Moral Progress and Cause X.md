@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780328986714}@@---
+---
 id: c94e404a-58d6-4539-ae74-9622229f6efb
 discussion: <placeholder — add Discord channel URL>
 tags:
@@ -13,4 +13,3 @@ tags:
 
 ## Lens:
 source:: ![[../Lenses/EA Intro - Moral Progress and Cause X]]
-++}

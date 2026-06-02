@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780329002448}@@---
+---
 id: be2995e7-a209-42c5-8002-858f2e9ffd80
 discussion: <placeholder — add Discord channel URL>
 tags:
@@ -13,4 +13,3 @@ tags:
 
 ## Lens:
 source:: ![[../Lenses/EA Intro - The Possibility of Ongoing Moral Catastrophe]]
-++}
