@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780328999094}@@---
+---
 id: 1d611cfc-97df-44e2-aca6-e2a196a03a63
 discussion: <placeholder — add Discord channel URL>
 tags:
@@ -13,4 +13,3 @@ tags:
 
 ## Lens:
 source:: ![[../Lenses/EA Intro - Preventing Catastrophic Pandemics]]
-++}

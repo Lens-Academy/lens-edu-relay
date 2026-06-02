@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780392179947}@@---
+---
 id: 64796067-fe8b-44f9-93a9-906b58121d96
 slug: ea-intro-m7
 title: "What Do You Think?"
@@ -33,4 +33,3 @@ source:: ![[../Learning Outcomes/EA Intro - Explain Why Maximization Is Perilous
 # Submodule: Less common causes
 # Learning Outcome: EA Intro - Enumerate Less Common Cause Candidates
 source:: ![[../Learning Outcomes/EA Intro - Enumerate Less Common Cause Candidates]]
-++}
