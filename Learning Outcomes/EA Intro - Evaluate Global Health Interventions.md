@@ -15,7 +15,7 @@ tags:
 source:: ![[../Lenses/EA Intro - Giving 101 Guide]]
 
 ## Lens:
-source:: ![[../Lenses/EA Intro - {++{"author":"AI","timestamp":1780389547380}@@Global Health]]
+source:: ![[../Lenses/EA Intro - Global Health]]
 
 ## Lens:
-source:: ![[../Lenses/EA Intro - ++}Introducing LEEP]]
+source:: ![[../Lenses/EA Intro - Introducing LEEP]]
