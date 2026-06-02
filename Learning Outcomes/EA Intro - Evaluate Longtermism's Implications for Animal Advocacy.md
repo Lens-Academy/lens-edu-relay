@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780328997586}@@---
+---
 id: 9805ec0b-74f0-4544-ba98-7cf4bf37f276
 discussion: <placeholder — add Discord channel URL>
 tags:
@@ -13,4 +13,3 @@ tags:
 
 ## Lens:
 source:: ![[../Lenses/EA Intro - Longtermism and Animal Advocacy]]
-++}

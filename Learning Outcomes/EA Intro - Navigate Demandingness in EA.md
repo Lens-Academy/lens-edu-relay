@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780329031259}@@---
+---
 id: 89e408a9-8a03-4b34-be69-69c941b51507
 discussion: <placeholder — add Discord channel URL>
 tags:
@@ -13,4 +13,3 @@ tags:
 
 ## Lens:
 source:: ![[../Lenses/EA Intro - You Have More Than One Goal]]
-++}
