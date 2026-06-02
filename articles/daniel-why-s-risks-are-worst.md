@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780344037536}@@---
+---
 title: "Why S-Risks Are the Worst Existential Risks, and How to Prevent Them"
 source_url: https://longtermrisk.org/s-risks-talk-eag-boston-2017/
 authors:
@@ -29,4 +29,3 @@ tags:
 ![Slide: Routes to S-Risks — by accident, through conflict, or through evil intent](https://longtermrisk.org/files/2017-06-04-S-risk-talk-at-EAG-Boston.014.jpeg)
 
 ![Summary slide: S-risks warrant attention; AI risk is uniquely relevant; more targeted research needed](https://longtermrisk.org/files/2017-06-04-S-risk-talk-at-EAG-Boston.018.jpeg)
-++}
