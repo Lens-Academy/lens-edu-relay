@@ -19,7 +19,7 @@ source:: ![[../Lenses/EA Intro - The Effectiveness Mindset (Dalton)]]
 # Learning Outcome: EA Intro - Explain What Effective Altruism Is
 source:: ![[../Learning Outcomes/EA Intro - Explain What Effective Altruism Is]]
 
-# Submodule: {--{"author":"AI","timestamp":1780391531980}@@Scope Sensitivity--}{++{"author":"AI","timestamp":1780391531980}@@On scope sensitivity++}
+# Submodule: On scope sensitivity
 # Learning Outcome: EA Intro - Identify Failures of Scope Sensitivity
 source:: ![[../Learning Outcomes/EA Intro - Identify Failures of Scope Sensitivity]]
 
