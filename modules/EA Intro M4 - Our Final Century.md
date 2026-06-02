@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780392119594}@@---
+---
 id: aee43b38-6cda-462e-a2f0-03db524d5897
 slug: ea-intro-m4
 title: "Our Final Century?"
@@ -38,4 +38,3 @@ source:: ![[../Learning Outcomes/EA Intro - Explain Hits-Based Giving]]
 # Submodule: Crucial considerations
 # Learning Outcome: EA Intro - Explain Crucial Considerations
 source:: ![[../Learning Outcomes/EA Intro - Explain Crucial Considerations]]
-++}
