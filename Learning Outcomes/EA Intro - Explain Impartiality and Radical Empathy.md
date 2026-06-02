@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780392174601}@@---
+---
 id: 4b6c5ae3-0450-4a2b-a0aa-09ef24864c41
 discussion: <placeholder — add Discord channel URL>
 tags:
@@ -13,4 +13,3 @@ tags:
 
 ## Lens:
 source:: ![[../Lenses/EA Intro - Radical Empathy (Karnofsky)]]
-++}
