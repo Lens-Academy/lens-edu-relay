@@ -48,31 +48,6 @@ In-depth
 
 This is one of many profiles we've written to help people find the most pressing problems they can solve with their careers. [Learn more](https://80000hours.org/career-guide/most-pressing-problems/) about how we compare different problems and see [how this problem compares to the others](https://80000hours.org/problem-profiles/) we've considered so far.
 
-## On this page
-
-- [1 Why are risks from power-seeking AI a pressing world problem?](#pressing-problem)
-  - [1.1 1. Humans will likely build advanced AI systems with long-term goals](#section-one)
-  - [1.2 2. AIs with long-term goals may be inclined to seek power and aim to disempower humanity](#section-two)
-  - [1.3 3. These power-seeking AI systems could successfully disempower humanity and cause an existential catastrophe](#section-three)
-  - [1.4 4. People might create power-seeking AI systems without enough safeguards, despite the risks](#section-four)
-  - [1.5 5. Work on this problem is neglected and tractable](#section-five)
-    - [1.5.1 Technical safety approaches](#technical-safety)
-    - [1.5.2 Governance and policy approaches](#governance)
-- [2 What are the arguments against working on this problem?](#objections)
-    - [2.0.1 Maybe advanced AI systems won't pursue their own goals; they'll just be tools controlled by humans.](#maybe-advanced-ai-systems-wont-pursue-their-own-goals-theyll-just-be-tools-controlled-by-humans)
-    - [2.0.2 Even if AI systems develop their own goals, they might not seek power to achieve them.](#even-if-ai-systems-develop-their-own-goals-they-might-not-seek-power-to-achieve-them)
-    - [2.0.3 If this argument is right, why aren't all capable humans dangerously power-seeking?](#if-this-argument-is-right-why-arent-all-capable-humans-dangerously-power-seeking)
-    - [2.0.4 Maybe we won't build AIs that are smarter than humans, so we don't have to worry about them taking over.](#maybe-we-wont-build-ais-that-are-smarter-than-humans-so-we-dont-have-to-worry-about-them-taking-over)
-    - [2.0.5 We might solve these problems by default anyway when trying to make AI systems useful.](#we-might-solve-these-problems-by-default-anyway-when-trying-to-make-ai-systems-useful)
-    - [2.0.6 Powerful AI systems of the future will be so different that work today isn't useful.](#powerful-ai-systems-of-the-future-will-be-so-different-that-work-today-isnt-useful)
-    - [2.0.7 The problem might be extremely difficult to solve.](#the-problem-might-be-extremely-difficult-to-solve)
-    - [2.0.8 Couldn't we just unplug an AI that's pursuing dangerous goals?](#couldnt-we-just-unplug-an-ai-thats-pursuing-dangerous-goals)
-    - [2.0.9 Couldn't we just 'sandbox' any potentially dangerous AI until we know it's safe?](#couldnt-we-just-sandbox-any-potentially-dangerous-ai-until-we-know-its-safe)
-    - [2.0.10 A truly intelligent system would know not to do harmful things.](#a-truly-intelligent-system-would-know-not-to-do-harmful-things)
-- [3 How you can help](#how-you-can-help)
-  - [3.1 Want one-on-one advice on pursuing this path?](#want-one-on-one-advice-on-pursuing-this-path)
-- [4 Learn more](#learn-more)
-
 ## Why are risks from power-seeking AI a pressing world problem?
 
 Hundreds of prominent AI scientists and other notable figures signed a statement in 2023 saying that mitigating [the risk of extinction from AI](https://safe.ai/work/statement-on-ai-risk) should be a global priority.
