@@ -11,6 +11,7 @@ The 80,000 Hours case for why reducing risks from power-seeking AI is one of the
 #### Article
 source:: [[../articles/80k-risks-from-powerseeking-ai]]
 
+
 #### Chat
 instructions::
 The user just read the 80,000 Hours article on risks from power-seeking AI.
