@@ -15,7 +15,7 @@ content::
 
 A teacher's job is to **transfer knowledge**. The teacher is the source. Success looks like: at the end of the class, students know what the teacher knew at the start.
 
-A facilitator's job is to help a group think together about material they've already encountered. The facilitator is not the source of the knowledge; success looks like: at the end of the session, participants understand the material better than they could have alone — and feel more grounded in what they want to do about it. The group helps each other both interrogate the ideas and locate themselves in relation to them.
+A facilitator's job is to **help a group think together** about material they've already encountered. The facilitator is not the source of the knowledge; success looks like: at the end of the session, participants understand the material better than they could have alone — *and* feel more grounded in what they want to do about it. The group helps each other both interrogate the ideas and locate themselves in relation to them.
 
 This is not a soft distinction. It changes almost every move you make:
 
