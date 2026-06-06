@@ -642,8 +642,6 @@ We’ve also provided a more general argument [here](https://80000hours.org/prob
 
 *We thank Neel Nanda, Ryan Greenblatt, Alex Lawsen, and Arden Koehler for providing feedback on a draft of this article. Benjamin Hilton wrote a previous version of this article, some of which was incorporated here.*
 
-## Notes and references
-
 [^1]: All this really happened in a controlled evaluation conducted by researchers at METR, who were testing whether advanced AI systems might engage in deceptive behavior when pursuing their objectives. METR develops evaluations that determine whether AI systems are potentially dangerous — perhaps catastrophically so.
     
     This incident, documented [here](https://metr.org/taskrabbit.pdf) by METR (then called ARC Evals), was a real interaction with a human worker that was carried out under test conditions.
