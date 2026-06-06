@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780761240759}@@---
+---
 title: "Risks from power-seeking AI systems"
 source_url: "https://80000hours.org/problem-profiles/risks-from-power-seeking-ai/"
 author:
@@ -907,4 +907,3 @@ We’ve also provided a more general argument [here](https://80000hours.org/prob
     > In this trial, the availability of an LLM to physicians as a diagnostic aid did not significantly improve clinical reasoning compared with conventional resources. The LLM alone demonstrated higher performance than both physician groups, indicating the need for technology and workforce development to realize the potential of physician-artificial intelligence collaboration in clinical practice.
 
 [^42]: For example, Elliot Thornley has proposed methods for limiting the time horizon over which an AI system has preferences. This would theoretically allow the system to be shut down if it’s behaving in undesired ways. See more [here](https://arxiv.org/abs/2505.20203).
-++}
