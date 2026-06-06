@@ -24,7 +24,7 @@ This is not a soft distinction. It changes almost every move you make:
 | Someone asks a question | Answer it | Reflect it back to the group |
 | Someone is wrong | Correct them | Ask a question that exposes the issue |
 | Conversation goes quiet | Fill the silence | Wait (5-10 seconds) |
-| Someone dominates | Let them; they're engaged | Redirect — others need air |
+| Someone dominates |Often allows it — engagement is hard to come by in classrooms | Redirect — others need air |
 | You don't know | Look it up later | Say so out loud; ask the group |
 | At the end | "Today we covered…" | "What did each of you take from this?" |
 
