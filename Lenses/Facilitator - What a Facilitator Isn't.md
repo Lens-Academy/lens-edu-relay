@@ -15,7 +15,7 @@ content::
 
 **You're not a teacher.** You don't have to know more than your participants. Several of them may know more than you. Your job isn't expertise; it's a process.
 
-**You're not a therapist.** Sessions are about the material, not about people's emotional lives. If something heavy comes up, acknowledge it briefly and signpost an off-ramp ("we can talk after, or I can connect you with X"). Don't try to hold a therapeutic space.
+Make room for emotions, but you’re not a therapist — AI safety is unusually emotional material, and you can't pretend otherwise. Participants will sometimes arrive heavy: a reading has shaken them, a recent news cycle landed hard, they're rethinking their career. Your job isn't to do therapy, but please do make space for the emotion — acknowledge it, let it sit, and let the cohort hold it together when that's appropriate. If something is too big for the session, signpost an off-ramp ("happy to talk after, or I can connect you with X"). The line: feel free to name and witness emotion; don't try to resolve it.
 
 **You're not a host.** You're not there to be liked. A facilitator who optimises for being liked stops pushing on weak claims.
 
