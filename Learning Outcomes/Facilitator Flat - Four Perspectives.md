@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781034237818}@@---
+---
 id: a6bd8065-a653-4e5e-803f-58888517e76e
 learning-outcome: "Name the four facilitator perspectives (self, individual, group, context) and identify which you naturally neglect, plus one specific cue you'll use to widen the lens during a session."
 authors:
@@ -30,4 +30,3 @@ assessment-instructions::
 
 ## Lens:
 source:: ![[../Lenses/Facilitator Flat - Four Perspectives]]
-++}

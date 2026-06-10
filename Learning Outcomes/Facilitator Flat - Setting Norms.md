@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781034307746}@@---
+---
 id: 2c740b9a-a663-4a57-991e-d2d254f375c4
 learning-outcome: "Explain why norms imposed get less follow-through than norms co-created, name 3-5 candidate norms worth proposing, and describe the Week-1 setup move that converts proposals into shared norms."
 authors:
@@ -30,4 +30,3 @@ assessment-instructions::
 
 ## Lens:
 source:: ![[../Lenses/Facilitator Flat - Setting Norms]]
-++}

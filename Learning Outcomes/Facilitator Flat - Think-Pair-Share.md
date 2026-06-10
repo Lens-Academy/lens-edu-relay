@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781034310539}@@---
+---
 id: 95527313-02c6-463a-b70f-c1895302f426
 learning-outcome: "Describe the three steps of Think-Pair-Share, identify two situations where it's the right move, and write a Think-Pair-Share question for your own next session."
 authors:
@@ -30,4 +30,3 @@ assessment-instructions::
 
 ## Lens:
 source:: ![[../Lenses/Facilitator Flat - Think-Pair-Share]]
-++}
