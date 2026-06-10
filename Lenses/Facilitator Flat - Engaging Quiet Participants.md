@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781033733389}@@---
+---
 id: 3c9292c3-e313-4de1-9e63-bbe59c86417b
 summary_for_tutor: "Teaches five moves for engaging quiet participants and three patterns to avoid. The 'cost of freezing' insight is the key — cold-calling that fails has weeks of fallout."
 title: "Engaging Quiet Participants"
@@ -48,4 +48,3 @@ Discussion guidance:
 - Pair them up is almost always the right first move for someone who hasn't spoken.
 
 Probe: "If you've tried two of the five moves and the participant still isn't engaging — what do you do? Push more, or accept that this might just be how they engage?"
-++}

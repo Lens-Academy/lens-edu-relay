@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781034321908}@@---
+---
 id: 4f512ac3-ac09-4bd9-9131-398887badfa9
 learning-outcome: "Identify at least three roles a facilitator is NOT responsible for, and articulate what you ARE responsible for in concrete terms."
 authors:
@@ -30,4 +30,3 @@ assessment-instructions::
 
 ## Lens:
 source:: ![[../Lenses/Facilitator Flat - What a Facilitator Isn't]]
-++}
