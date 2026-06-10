@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781033614589}@@---
+---
 id: 7731ed52-d1bd-473e-9399-0ba14b355909
 summary_for_tutor: "Teaches concrete moves for five common challenging behaviours (dominator, cynic, off-topic-er, personal sharer, grandstander) and the general principle: it's almost never about you."
 title: "Handling Challenging Behaviours"
@@ -51,4 +51,3 @@ Discussion guidance:
 - If they want to ignore the grandstander hoping they'll stop — they won't. The transfer move is the way.
 
 Probe: "What's the situation in which 'gently redirect' isn't enough — and what would you escalate to?"
-++}

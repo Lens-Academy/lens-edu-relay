@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781034158080}@@---
+---
 id: 51924d46-6fb5-4897-8c07-dac1c1571fa9
 learning-outcome: "Identify the specific facilitator move for at least four challenging behaviour patterns (dominator, cynic, off-topic-er, personal sharer, grandstander), and articulate the general principle: challenging behaviours are almost never about you."
 authors:
@@ -30,4 +30,3 @@ assessment-instructions::
 
 ## Lens:
 source:: ![[../Lenses/Facilitator Flat - Challenging Behaviours]]
-++}

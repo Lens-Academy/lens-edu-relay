@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781034161358}@@---
+---
 id: 433ae9ce-9377-4a7c-ab8a-fbb9263b8933
 learning-outcome: "Describe the three phases of the Diamond of Participation (narrow open, wide explore, narrow close) and identify the two most common rookie failures against this shape."
 authors:
@@ -30,4 +30,3 @@ assessment-instructions::
 
 ## Lens:
 source:: ![[../Lenses/Facilitator Flat - Diamond of Participation]]
-++}

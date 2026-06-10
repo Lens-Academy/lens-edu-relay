@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781034240657}@@---
+---
 id: 515f25d6-64cb-4078-a1ce-dcbd40840d09
 learning-outcome: "Describe the three-step opening pattern (Check-in, Anchor, Opening Question) with rough timings, and draft an opening plan for your own first session including check-in question, anchor sentence, and opening question."
 authors:
@@ -30,4 +30,3 @@ assessment-instructions::
 
 ## Lens:
 source:: ![[../Lenses/Facilitator Flat - Opening a Session]]
-++}
