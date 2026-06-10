@@ -1,7 +1,7 @@
 ---
 id: d41c9bcf-a016-420b-ab66-630fc64e0516
 slug: facilitator-m3-flat
-title: "Designing & Opening a Session"
+title: {--{"author":"Yatharth's AI","timestamp":1781121206707}@@"Designing & Opening--}{++{"author":"Yatharth's AI","timestamp":1781121206707}@@"Preparing to Facilitate++} a Session"
 discussion:
 readings:
   - "Sara Ness — Establishing Norms and Agreements (12 min)"
