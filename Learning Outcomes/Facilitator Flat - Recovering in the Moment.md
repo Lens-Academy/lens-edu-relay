@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781034252949}@@---
+---
 id: 794be951-78ba-47b7-a5bb-b46afdb04b17
 learning-outcome: "Apply the 'Name it, apologise lightly if warranted, move forward' recovery pattern to at least three common mid-session failures, and articulate why pushback from a participant is information rather than a personal failure."
 authors:
@@ -30,4 +30,3 @@ assessment-instructions::
 
 ## Lens:
 source:: ![[../Lenses/Facilitator Flat - Recovering in the Moment]]
-++}
