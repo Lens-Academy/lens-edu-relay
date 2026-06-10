@@ -1,6 +1,6 @@
 ---
 id: 5f287a9b-de74-42d2-b6a5-ea21a4614dd8
-title: "Facilitator M4 Welcome"
+title: {--{"author":"Yatharth's AI","timestamp":1781125377837}@@"Facilitator M4 Welcome"--}{++{"author":"Yatharth's AI","timestamp":1781125377837}@@"Running the Session — In-the-Moment Craft"++}
 tags:
   - lens
   - facilitator-training
