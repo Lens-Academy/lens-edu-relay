@@ -13,9 +13,9 @@ id:: 614c3c0f-4b18-4b38-9b77-a384c9543947
 
 #### Question
 feedback:: true
-content:: When a session goes hard — someone pushes back, a topic gets heated, the room goes silent in a bad way — you'll default to one of two failure modes. {--{"author":"AI","timestamp":1781085690556}@@**The pufferfish**--}{++{"author":"AI","timestamp":1781085690556}@@The pufferfish++} puffs up (gets bigger, more directive, takes over). {--{"author":"AI","timestamp":1781085690556}@@**The--}{++{"author":"AI","timestamp":1781085690556}@@The++} hermit {--{"author":"AI","timestamp":1781085690556}@@crab**--}{++{"author":"AI","timestamp":1781085690556}@@crab++} retreats (gets smaller, more deferential, lets the dominant voice keep dominating). Knowing which is yours, before it happens, makes it half as bad when it does.
+content:: When a session goes hard — someone pushes back, a topic gets heated, the room goes silent in a bad way — you'll default to one of two failure modes. The pufferfish puffs up (gets bigger, more directive, takes over). The hermit crab retreats (gets smaller, more deferential, lets the dominant voice keep dominating). Knowing which is yours, before it happens, makes it half as bad when it does.
 
-{--{"author":"AI","timestamp":1781085690556}@@**Which--}{++{"author":"AI","timestamp":1781085690556}@@Which++} are you, honestly? In the last group conflict you were part of (anywhere, not just facilitation), did you get bigger or smaller? What's one specific recovery move you'll try the first time you notice it firing in a {--{"author":"AI","timestamp":1781085690556}@@session?**--}{++{"author":"AI","timestamp":1781085690556}@@session?++}
+Which are you, honestly? In the last group conflict you were part of (anywhere, not just facilitation), did you get bigger or smaller? What's one specific recovery move you'll try the first time you notice it firing in a session?
 
 assessment-instructions::
 **1** — Can't identify a default. Treats both modes as equally likely.

@@ -1,62 +1,14 @@
 ---
 id: 8ccce108-f78d-4d92-a68a-f45bba2646db
-{--{"author":"AI","timestamp":1781087775485}@@summary_for_tutor: "Frames 'lead from behind' (facilitator as fellow traveller, not destination) and 'four leadership perspectives' (self, individual, group, context). Both come back in M4 with practical moves; here the trainee just installs the frame and picks their personal neglected perspective."--}{++{"author":"AI","timestamp":1781087775485}@@title: "1.4 Two postures worth knowing about"
+title: "1.4 Two postures worth knowing about"
 tags:
   - lens
   - facilitator-training
 ---
-#### Text++}
-{--{"author":"AI","timestamp":1781087775485}@@title: "Two Postures Worth Knowing About"
-tldr: "Two frames from The Authentic Facilitator--}{++{"author":"AI","timestamp":1781087775485}@@content:: Two short concepts from *The Authentic Facilitator* (Authentic Revolution)++} that experienced facilitators reference {--{"author":"AI","timestamp":1781087775485}@@often. The skill is widening the lens to all four perspectives at once."
-authors:
-  - Yatharth+Claude
-tags:
-  --}{++{"author":"AI","timestamp":1781087775485}@@often:
-
-++}- {--{"author":"AI","timestamp":1781087775485}@@lens
-  - facilitator-training
----
 #### Text
-content::
-\## Read
+content:: Two short concepts from *The Authentic Facilitator* (Authentic Revolution) that experienced facilitators reference often:
 
---}**Lead from behind.** The classroom shape that comes naturally — facilitator at the front, participants in rows facing them — is the wrong shape for facilitation. A better mental image is the facilitator {--{"author":"AI","timestamp":1781087775485}@@*behind*--}{++{"author":"AI","timestamp":1781087775485}@@behind++} the group, pointing forward at the material together. You're not the destination; you're a fellow traveller who knows the route slightly better.{--{"author":"AI","timestamp":1781087775485}@@
+- **Lead from behind.** The classroom shape that comes naturally — facilitator at the front, participants in rows facing them — is the wrong shape for facilitation. A better mental image is the facilitator behind the group, pointing forward at the material together. You're not the destination; you're a fellow traveller who knows the route slightly better.
+- **Four leadership perspectives.** A facilitator is always tracking four things at once: themselves (am I clear? regulated?), the individual speaking (what do they need right now?), the group (what's the energy? Who hasn't spoken?), and the context (where are we in the session arc?). Most rookie facilitators track only one or two. The skill, over time, is widening the lens to all four.
 
---}{++{"author":"AI","timestamp":1781087775485}@@
-- ++}**Four leadership perspectives.** A facilitator is always tracking four things at once:{--{"author":"AI","timestamp":1781087775485}@@
-
-| Perspective | What you're asking |
-| :---- | :---- |
-| **Self** | Am--}{++{"author":"AI","timestamp":1781087775485}@@ themselves (am++} I clear?{--{"author":"AI","timestamp":1781087775485}@@ Am I regulated? Am I tracking what I said I'd track? |
-| **Individual** | What does --}{++{"author":"AI","timestamp":1781087775485}@@ regulated?), ++}the {--{"author":"AI","timestamp":1781087775485}@@person--}{++{"author":"AI","timestamp":1781087775485}@@individual++} speaking {--{"author":"AI","timestamp":1781087775485}@@right now need? Are --}{++{"author":"AI","timestamp":1781087775485}@@(what do ++}they{--{"author":"AI","timestamp":1781087775485}@@ wrapping up or just starting? |
-| **Group** | What's--}{++{"author":"AI","timestamp":1781087775485}@@ need right now?), the group (what's++} the energy? Who hasn't {--{"author":"AI","timestamp":1781087775485}@@spoken? Is anyone visibly disengaged? |
-| **Context** | Where--}{++{"author":"AI","timestamp":1781087775485}@@spoken?), and the context (where++} are we in the{--{"author":"AI","timestamp":1781087775485}@@ arc? How much time is left? Are we on the question we set out to discuss? |
-
---}{++{"author":"AI","timestamp":1781087775485}@@ session arc?). ++}Most rookie facilitators track only one or two. The skill, over time, is widening the lens to all four.
-
-Both of these come back in Module 4 with practical moves. For now, just notice the{--{"author":"AI","timestamp":1781087775485}@@ frame — and pick which perspective you're most likely to neglect.
-
-\## After
-
-The two perspectives most commonly neglected: **self** (you're so focused on participants you stop noticing your own state — you're getting impatient or anxious and it leaks into the room) and **context** (you're so engaged in the conversation you lose track of time — the session was supposed to land on Question C and you're still on Question A at minute 35).
-
-Which one is yours?
-
-#### Chat
-instructions::
-The trainee has just read the lead-from-behind and four-perspectives frames.
-
-Learning outcome for this Lens: Describe the 'lead from behind' posture and the four-leadership-perspectives frame, and identify which of the four perspectives they tend to neglect.
-
-Key concepts:
-- Lead from behind = fellow traveller, not destination
-- Four perspectives: self, individual, group, context
-- Rookie facilitators usually track only 1-2 — the skill is widening
-- Self and context are the most commonly neglected
-
-Discussion guidance:
-- If they say "lead from behind = stay quiet" — correct. It's about positioning, not absence.
-- Push on which perspective they'll neglect. "Self" people lose track of their own state under stress. "Context" people lose track of time when conversation is good.
-- These come back in M4 with practical moves; don't pre-teach those here.
-
-Probe: "What's a 10-minute mental cue you could set during a session to check the perspective you tend to drop?"--}{++{"author":"AI","timestamp":1781087775485}@@ frame.++}
+Both of these come back in Module 4 with practical moves. For now, just notice the frame.

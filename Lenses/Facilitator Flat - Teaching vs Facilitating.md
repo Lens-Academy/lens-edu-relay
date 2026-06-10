@@ -1,21 +1,14 @@
 ---
 id: 5f93c1e7-f5da-47aa-9e04-1d1f8d5e6b65
-{--{"author":"AI","timestamp":1781087811012}@@summary_for_tutor: "Teaches the teacher/facilitator distinction (Bill Wilder video + comparison table of behaviours) and surfaces the learner's default mode + trigger. The whole module is built on this distinction landing; if the trainee can't articulate it in their own words, they don't yet have it."
---}title:{--{"author":"AI","timestamp":1781087811012}@@ "Teaching vs Facilitating"
-tldr: "A teacher transfers knowledge. A facilitator helps a group think together.--}{++{"author":"AI","timestamp":1781087811012}@@ "1.1++} The {--{"author":"AI","timestamp":1781087811012}@@difference changes almost every move you make."--}{++{"author":"AI","timestamp":1781087811012}@@core distinction: teaching vs facilitating"++}
-{--{"author":"AI","timestamp":1781087811012}@@authors:
-  - Yatharth+Claude
---}tags:
+title: "1.1 The core distinction: teaching vs facilitating"
+tags:
   - lens
   - facilitator-training
 ---
 #### Text
-content::{--{"author":"AI","timestamp":1781087811012}@@
-\## Read first
+content:: A teacher's job is to **transfer knowledge**. The teacher is the source. Success looks like: at the end of the class, students know what the teacher knew at the start.
 
---}{++{"author":"AI","timestamp":1781087811012}@@ ++}A teacher's job is to **transfer knowledge**. The teacher is the source. Success looks like: at the end of the class, students know what the teacher knew at the start.
-
-A facilitator's job is to **help a group think together** about material they've already encountered. The facilitator is {--{"author":"AI","timestamp":1781087811012}@@*not*--}{++{"author":"AI","timestamp":1781087811012}@@not++} the source of the knowledge; success{--{"author":"AI","timestamp":1781087811012}@@ for a facilitator --}{++{"author":"AI","timestamp":1781087811012}@@ ++}looks like: at the end of the session, participants understand the material better than they could have alone — {--{"author":"AI","timestamp":1781087811012}@@because the --}{++{"author":"AI","timestamp":1781087811012}@@and feel more grounded in what they want to do about it. The ++}group {--{"author":"AI","timestamp":1781087811012}@@helped--}{++{"author":"AI","timestamp":1781087811012}@@helps++} each other {++{"author":"AI","timestamp":1781087811012}@@both ++}interrogate {--{"author":"AI","timestamp":1781087811012}@@it.--}{++{"author":"AI","timestamp":1781087811012}@@the ideas and locate themselves in relation to them.++}
+A facilitator's job is to **help a group think together** about material they've already encountered. The facilitator is not the source of the knowledge; success looks like: at the end of the session, participants understand the material better than they could have alone — and feel more grounded in what they want to do about it. The group helps each other both interrogate the ideas and locate themselves in relation to them.
 
 This is not a soft distinction. It changes almost every move you make:
 
@@ -23,16 +16,16 @@ This is not a soft distinction. It changes almost every move you make:
 | :---- | :---- | :---- |
 | Someone asks a question | Answer it | Reflect it back to the group |
 | Someone is wrong | Correct them | Ask a question that exposes the issue |
-| Conversation goes quiet | Fill the silence | Wait {--{"author":"AI","timestamp":1781087811012}@@(5-10--}{++{"author":"AI","timestamp":1781087811012}@@(5–10++} seconds) |
+| Conversation goes quiet | Fill the silence | Wait (5–10 seconds) |
 | Someone dominates | Let them; they're engaged | Redirect — others need air |
 | You don't know | Look it up later | Say so out loud; ask the group |
 | At the end | "Today we covered…" | "What did each of you take from this?" |
 
 \## Watch (5 min)
 
-{--{"author":"AI","timestamp":1781087811012}@@**Video--}{++{"author":"AI","timestamp":1781087811012}@@Video++} — {--{"author":"AI","timestamp":1781087811012}@@Instructor--}{++{"author":"AI","timestamp":1781087811012}@@**Instructor++} vs {--{"author":"AI","timestamp":1781087811012}@@Facilitator--}{++{"author":"AI","timestamp":1781087811012}@@Facilitator**++} — Bill Wilder (5 {--{"author":"AI","timestamp":1781087811012}@@min):**--}{++{"author":"AI","timestamp":1781087811012}@@min) —++} https://www.youtube.com/watch?v=J3IUyZiXAQo
+Video — **Instructor vs Facilitator** — Bill Wilder (5 min) — https://www.youtube.com/watch?v=J3IUyZiXAQo
 
-As you watch, hold this question: {--{"author":"AI","timestamp":1781087811012}@@*which--}{++{"author":"AI","timestamp":1781087811012}@@which++} mode do you naturally default {--{"author":"AI","timestamp":1781087811012}@@to?*--}{++{"author":"AI","timestamp":1781087811012}@@to?++} Most people who sign up to facilitate default to teaching, because that's the model they've seen most often. Knowing your default is the first move.
+As you watch, hold this question: which mode do you naturally default to? Most people who sign up to facilitate default to teaching, because that's the model they've seen most often. Knowing your default is the first move.
 
 \## Why this matters for online cohort discussions
 
