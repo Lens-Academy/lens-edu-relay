@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781033614093}@@---
+---
 id: 7f81d1a8-2af1-4fbb-a2ae-57a09e744190
 summary_for_tutor: "Teaches three question frameworks: PPPB (Pose-Pause-Pounce-Bounce), ABC (Agree-Build-Challenge), EEAA (Engage-Evaluate-Apply-Adapt) plus five workhorse question patterns. Trainee should apply PPPB to a real prepared question and identify an EEAA follow-up."
 title: "Asking Questions That Produce Thinking"
@@ -76,4 +76,3 @@ Discussion guidance:
 - If they don't have a prepared question, ask them to invent one on the spot for a hypothetical session.
 
 Probe: "Of the five workhorse patterns, which one are you most reluctant to use? Why?"
-++}

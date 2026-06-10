@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781032512872}@@---
+---
 id: 21d0b930-4644-45fc-9437-097d1b927281
 slug: facilitator-training-program-flat
 title: Facilitator Training Program (Flat)
@@ -19,4 +19,3 @@ authors:
 # Module: [[../modules/Facilitator Flat M4 Running the Session]]
 
 # Module: [[../modules/Facilitator Flat M5 Hard Moments, Coaching & Closing]]
-++}

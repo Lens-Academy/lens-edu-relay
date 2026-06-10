@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781034308455}@@---
+---
 id: d6eed93f-d154-48ed-89b8-56584f8a38d9
 learning-outcome: "Name all seven 'taking shares' moves (Reflect, Paraphrase, Deepen, Connect, Redirect, Acknowledge-and-Move, Push Back) and pick the right move for a given participant share. Identify which move you default to and what's lost when you over-rely on it."
 authors:
@@ -30,4 +30,3 @@ assessment-instructions::
 
 ## Lens:
 source:: ![[../Lenses/Facilitator Flat - Taking Shares]]
-++}
