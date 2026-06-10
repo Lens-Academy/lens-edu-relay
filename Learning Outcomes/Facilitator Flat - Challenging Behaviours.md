@@ -15,7 +15,7 @@ id:: 2b06f849-7018-4644-babc-ab5c43f5a24f
 feedback:: true
 content:: Some hard moments are about specific behaviours, not your slips. The five most common: the dominator (3× anyone else), the cynic (every idea gets shot down), the off-topic-er (keeps pulling threads away), the personal sharer (too much emotional content), the grandstander (long impressive statements that don't engage).
 
-{--{"author":"AI","timestamp":1781085678824}@@**Pick--}{++{"author":"AI","timestamp":1781085678824}@@Pick++} four of those five. For each, name the specific facilitator move you'd use. Then articulate the general principle behind handling all of {--{"author":"AI","timestamp":1781085678824}@@them.**--}{++{"author":"AI","timestamp":1781085678824}@@them.++}
+Pick four of those five. For each, name the specific facilitator move you'd use. Then articulate the general principle behind handling all of them.
 
 assessment-instructions::
 **1** — Treats challenging behaviour as a personal attack. Defaults to confrontation or avoidance.

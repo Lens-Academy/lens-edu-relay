@@ -13,9 +13,9 @@ id:: 70646a2b-28c0-44b9-aa3d-53df756b560c
 
 #### Question
 feedback:: true
-content:: The cohort's norms decide whether the rest of the course works. You set them — {--{"author":"AI","timestamp":1781085776117}@@*together*--}{++{"author":"AI","timestamp":1781085776117}@@together++} — in the very first session. The key insight is empirically reliable: norms imposed from outside don't get followed; norms agreed to in conversation do.
+content:: The cohort's norms decide whether the rest of the course works. You set them — together — in the very first session. The key insight is empirically reliable: norms imposed from outside don't get followed; norms agreed to in conversation do.
 
-{--{"author":"AI","timestamp":1781085776117}@@**Why--}{++{"author":"AI","timestamp":1781085776117}@@Why++} do imposed norms fail? Name 3-5 candidate norms worth proposing in Week 1, and describe the Week-1 setup move that converts your proposals into the cohort's own {--{"author":"AI","timestamp":1781085776117}@@norms.**--}{++{"author":"AI","timestamp":1781085776117}@@norms.++}
+Why do imposed norms fail? Name 3-5 candidate norms worth proposing in Week 1, and describe the Week-1 setup move that converts your proposals into the cohort's own norms.
 
 assessment-instructions::
 **1** — Treats norm-setting as "read the rules out at the start." Cannot explain why this fails.

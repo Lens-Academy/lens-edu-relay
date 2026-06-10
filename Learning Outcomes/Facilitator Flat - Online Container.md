@@ -15,7 +15,7 @@ id:: 03b31a65-a3cf-421f-98f2-07fc7142f072
 feedback:: true
 content:: An online discussion is its own medium, not a worse version of an in-person one. The mistake is treating it as a degraded form. It isn't — it has different affordances.
 
-{--{"author":"AI","timestamp":1781085736542}@@**Name--}{++{"author":"AI","timestamp":1781085736542}@@Name++} three things that are harder online and three things that are easier. For each "easier" — describe how you'd actually use it in a {--{"author":"AI","timestamp":1781085736542}@@session.**--}{++{"author":"AI","timestamp":1781085736542}@@session.++}
+Name three things that are harder online and three things that are easier. For each "easier" — describe how you'd actually use it in a session.
 
 assessment-instructions::
 **1** — Treats online as strictly worse. Cannot name affordances that are uniquely better online.
