@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781034055601}@@---
+---
 id: 02d62b86-0f9a-4d69-a340-345995c6a146
 summary_for_tutor: "Teaches the seven 'taking shares' moves and surfaces the trainee's default. Push Back is the under-used antidote to pleasant agreement; trainee should leave able to articulate when to use it and how it differs from disagreement."
 title: "Taking Shares — Seven Moves and When to Use Each"
@@ -74,4 +74,3 @@ Discussion guidance:
 - If their default is Deepen, gently note: some shares ARE complete; pace matters.
 
 Probe: "When was the last time you saw a facilitator push back on a claim they didn't believe was being challenged enough — and what did the cohort do in response?"
-++}

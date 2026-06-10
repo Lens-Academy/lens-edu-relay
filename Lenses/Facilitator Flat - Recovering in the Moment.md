@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781033946616}@@---
+---
 id: de211a6e-be0c-4e20-8a23-ec78afc1083d
 summary_for_tutor: "Teaches the 'name it, apologise lightly if warranted, move forward' recovery pattern and reframes pushback as information about cohort safety, not personal failure."
 title: "Recovering in the Moment"
@@ -64,4 +64,3 @@ Discussion guidance:
 - The "apologise lightly" part is important — heavy apologies make the room uncomfortable. Light = brief acknowledgment, then move.
 
 Probe: "If a participant pushed back hard on something you said and they were right, what's the worst version of how you might respond — and what cue would tell you you're doing it?"
-++}

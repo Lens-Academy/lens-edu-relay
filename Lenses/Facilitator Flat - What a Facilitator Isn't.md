@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781034082358}@@---
+---
 id: 4657896e-a2b1-4a39-aeca-e555108213c6
 summary_for_tutor: "Bounds the facilitator role. Trainee should leave able to articulate what they are NOT responsible for (teacher, therapist, host, every outcome, boss) and what they ARE (safety, time, examined claims, voice distribution, session shape)."
 title: "What a Facilitator Isn't"
@@ -53,4 +53,3 @@ Discussion guidance:
 - If they conflate "I'm not responsible for every outcome" with "I don't care" — clarify the distinction. Care without internalising.
 
 Probe: "Of the five things you ARE responsible for, which one is the easiest to drop when a session is going well? That's the one to watch."
-++}
