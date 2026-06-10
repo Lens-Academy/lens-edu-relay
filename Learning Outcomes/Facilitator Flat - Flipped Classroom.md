@@ -13,9 +13,9 @@ id:: b26a5ff4-a17e-47ed-af11-ca967d98d996
 
 #### Question
 feedback:: true
-content:: The format you'll be facilitating is almost always a {--{"author":"AI","timestamp":1781085699690}@@*flipped classroom*:--}{++{"author":"AI","timestamp":1781085699690}@@flipped classroom:++} participants do the readings/videos on their own; the session itself is for discussion, application, and working with the material together. This shifts the facilitator's job dramatically — from delivering content to running cognitive work.
+content:: The format you'll be facilitating is almost always a flipped classroom: participants do the readings/videos on their own; the session itself is for discussion, application, and working with the material together. This shifts the facilitator's job dramatically — from delivering content to running cognitive work.
 
-{--{"author":"AI","timestamp":1781085699690}@@**Describe--}{++{"author":"AI","timestamp":1781085699690}@@Describe++} the flipped classroom in one sentence. Then name two rookie failure modes in flipped sessions and explain why each one undermines the {--{"author":"AI","timestamp":1781085699690}@@format.**--}{++{"author":"AI","timestamp":1781085699690}@@format.++}
+Describe the flipped classroom in one sentence. Then name two rookie failure modes in flipped sessions and explain why each one undermines the format.
 
 assessment-instructions::
 **1** — Treats "flipped classroom" as a buzzword. Cannot articulate what's different.
