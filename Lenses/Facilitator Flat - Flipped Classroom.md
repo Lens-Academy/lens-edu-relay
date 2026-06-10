@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781033734099}@@---
+---
 id: 5eb278e4-dd6b-4cd4-9695-a9da52a2283a
 summary_for_tutor: "Teaches the flipped-classroom format and surfaces three rookie failure modes (recap at top, 'did everyone read?', Q&A framing). Time-allocation shifts from ~70/30 to ~5/95."
 title: "The Flipped Classroom"
@@ -49,4 +49,3 @@ Discussion guidance:
 - The right answer is usually: open with a question that only makes sense if you've read. The unprepared participant will notice. The norm holds itself.
 
 Probe: "If you're tempted to recap at the top because it feels generous — what's the underlying belief about your role you're acting on? And what's the cost?"
-++}
