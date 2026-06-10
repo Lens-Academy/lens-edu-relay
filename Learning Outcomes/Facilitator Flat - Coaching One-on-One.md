@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781034159921}@@---
+---
 id: d508c250-45a2-4d4b-a06c-1fe1465f4d86
 learning-outcome: "Distinguish coaching from facilitating; name at least three of the seven coaching questions from The Coaching Habit and the four stages of GROW; apply 'stay curious longer' to a coaching conversation."
 authors:
@@ -30,4 +30,3 @@ assessment-instructions::
 
 ## Lens:
 source:: ![[../Lenses/Facilitator Flat - Coaching One-on-One]]
-++}

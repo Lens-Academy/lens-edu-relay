@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781033622432}@@---
+---
 id: 8acdda3a-beca-48c6-b995-8b37573d88a3
 summary_for_tutor: "Teaches the three-part close (Reflect, Integrate, Ritual), the cohort-arc close for the final session, and the cohort-as-peer-network moves. The 'real success metric' framing: a cohort that knows each other's names and continues talking after you've left."
 title: "Closing Well — The Elegant Finale"
@@ -67,4 +67,3 @@ Discussion guidance:
 - If they're skeptical of the cohort-as-peer-network frame ("it's just a class"), push: what's the difference for participants between completing the syllabus and feeling like they belong to something? Which one drives retention and word-of-mouth?
 
 Probe: "What's the close you'd want a session you were *attending* to have? Why don't you use that one?"
-++}

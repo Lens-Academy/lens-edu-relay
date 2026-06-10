@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781034157025}@@---
+---
 id: 3cb99150-c394-485a-9942-62ab3b32a15f
 learning-outcome: "Describe PPPB, ABC, and EEAA frameworks. Apply PPPB to one prepared question and name which EEAA move you'd use as the follow-up to a substantive answer."
 authors:
@@ -30,4 +30,3 @@ assessment-instructions::
 
 ## Lens:
 source:: ![[../Lenses/Facilitator Flat - Asking Questions]]
-++}

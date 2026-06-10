@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781033934198}@@---
+---
 id: fdcb027b-324d-4a28-89cd-f603b7d33265
 summary_for_tutor: "Reframes online as its own medium, not degraded in-person. What's harder: body language, silence, side connection. What's easier: live reference material, breakout rooms, recording, timezone inclusion."
 title: "The Online Container"
@@ -53,4 +53,3 @@ Discussion guidance:
 - Push on the breakout-room affordance. Most rookies underuse it.
 
 Probe: "What's one online-specific move you've seen done well in a session you were a participant in — and what made it work?"
-++}
