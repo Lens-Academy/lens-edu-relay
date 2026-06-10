@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781033940230}@@---
+---
 id: f923307e-da72-4731-b8b1-db99ca4bd518
 summary_for_tutor: "Teaches the 3-step opening pattern: Check-in, Anchor, Opening Question (Think-Pair-Share). Trainee should draft a real opening plan for their first session including check-in question, anchor sentence, and opening TPS question."
 title: "Opening a Session Well"
@@ -69,4 +69,3 @@ Discussion guidance:
 - If they want to skip Think-Pair-Share on the opener ("I'll just ask the question to the whole group"), challenge — what makes them confident the group will engage?
 
 Probe: "What's the failure mode of your opening question — and what would you do if 30 seconds in, you can see it's not working?"
-++}

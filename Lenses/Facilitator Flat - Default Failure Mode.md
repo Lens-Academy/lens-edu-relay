@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781033731745}@@---
+---
 id: 383dc640-c53c-470f-8520-9d4c16f5d3ea
 summary_for_tutor: "Teaches the pufferfish/hermit crab frame from The Authentic Facilitator. Trainee should honestly self-identify their default and pre-commit to a recovery move. This is the most useful self-knowledge frame in the entire course."
 title: "Your Default Failure Mode Under Pressure"
@@ -50,4 +50,3 @@ Discussion guidance:
 - If they identify pufferfish, suggest the "ask a question instead of stating" recovery. If hermit crab, the "name the dynamic gently" recovery.
 
 Probe: "What's the body signal you'd notice first — chest tightening, voice rising, urge to fill silence, urge to disappear — that tells you your mode is about to fire?"
-++}

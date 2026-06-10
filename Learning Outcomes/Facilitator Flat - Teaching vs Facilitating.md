@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781034309147}@@---
+---
 id: 9698429d-fd76-4226-b11f-af82d61cfdf6
 learning-outcome: "State the core distinction between teaching and facilitating, identify which mode you default to, and name at least three specific behaviours that change when you shift from one to the other."
 authors:
@@ -30,4 +30,3 @@ assessment-instructions::
 
 ## Lens:
 source:: ![[../Lenses/Facilitator Flat - Teaching vs Facilitating]]
-++}
