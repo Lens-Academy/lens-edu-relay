@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781033822001}@@---
+---
 id: 747aa08a-6ed9-40e9-972a-204234b0f469
 title: "Facilitator M1 — Overview of Optional Resources"
 tags:
@@ -20,4 +20,3 @@ Optional resources for Module 1, for those who want to go deeper on the foundati
 ---
 
 *Video / audio / transcript resources from [Authentic Revolution](https://authrev.org/)'s facilitator video library (Sara Ness, Jason Digges, et al.).*
-++}

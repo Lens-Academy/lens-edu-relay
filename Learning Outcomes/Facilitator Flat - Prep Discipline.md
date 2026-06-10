@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781034241427}@@---
+---
 id: ef80add7-a70c-4521-9d1a-1a5fdceb75bd
 learning-outcome: "Distinguish prep that moves session quality from prep that is busywork. Build a 20-30 minute prep template for your next session."
 authors:
@@ -30,4 +30,3 @@ assessment-instructions::
 
 ## Lens:
 source:: ![[../Lenses/Facilitator Flat - Prep Discipline]]
-++}
