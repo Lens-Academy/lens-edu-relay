@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781033826155}@@---
+---
 id: 739c39fe-9d9f-47ed-870c-1869594ec0c6
 title: "Facilitator M4 — Overview of Optional Resources"
 tags:
@@ -27,4 +27,3 @@ Optional resources for Module 4, for those who want to go deeper on in-session c
 ---
 
 *Video / audio / transcript resources from [Authentic Revolution](https://authrev.org/)'s facilitator video library (Sara Ness, Jason Digges, et al.).*
-++}

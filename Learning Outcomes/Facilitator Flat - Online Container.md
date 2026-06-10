@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781034239895}@@---
+---
 id: aca3a9c6-9dc7-4510-8137-a11a0bd0202b
 learning-outcome: "Name three things that are harder online and three that are easier, and articulate which platform affordances a good online facilitator leans into vs mourns."
 authors:
@@ -30,4 +30,3 @@ assessment-instructions::
 
 ## Lens:
 source:: ![[../Lenses/Facilitator Flat - Online Container]]
-++}
