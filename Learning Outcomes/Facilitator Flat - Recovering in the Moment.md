@@ -13,9 +13,9 @@ id:: 249f41aa-9c03-40af-a4ef-f0312b487623
 
 #### Question
 feedback:: true
-content:: You will, at some point: say something factually wrong; lose track of time; misread the room; get pushed back on; have participants get into something heated; stumble and lose the thread. All of these are recoverable. The recovery move that works in almost all of them is the same: {--{"author":"AI","timestamp":1781085748358}@@**name--}{++{"author":"AI","timestamp":1781085748358}@@name++} it, apologise lightly if warranted, move {--{"author":"AI","timestamp":1781085748358}@@forward.**--}{++{"author":"AI","timestamp":1781085748358}@@forward.++}
+content:: You will, at some point: say something factually wrong; lose track of time; misread the room; get pushed back on; have participants get into something heated; stumble and lose the thread. All of these are recoverable. The recovery move that works in almost all of them is the same: name it, apologise lightly if warranted, move forward.
 
-{--{"author":"AI","timestamp":1781085748358}@@**For--}{++{"author":"AI","timestamp":1781085748358}@@For++} three of those failures, write a one-sentence recovery line you'd actually use. Then articulate: why is pushback from a participant information rather than a personal {--{"author":"AI","timestamp":1781085748358}@@failure?**--}{++{"author":"AI","timestamp":1781085748358}@@failure?++}
+For three of those failures, write a one-sentence recovery line you'd actually use. Then articulate: why is pushback from a participant information rather than a personal failure?
 
 assessment-instructions::
 **1** — Treats failures as catastrophic or to be hidden. No real recovery lines.

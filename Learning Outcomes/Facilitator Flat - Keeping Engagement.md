@@ -15,7 +15,7 @@ id:: 18f9016f-accb-4084-a7ac-8088c1aab831
 feedback:: true
 content:: Long sessions decay. The energy you have at minute 10 is not the energy you have at minute 40. Four practical antidotes work reliably — and one of them tends to produce the best contributions of the whole session.
 
-{--{"author":"AI","timestamp":1781085734656}@@**Name--}{++{"author":"AI","timestamp":1781085734656}@@Name++} four antidotes to mid-session decay. For the "surface what hasn't been said" move — why does it often produce the strongest {--{"author":"AI","timestamp":1781085734656}@@contributions?**--}{++{"author":"AI","timestamp":1781085734656}@@contributions?++}
+Name four antidotes to mid-session decay. For the "surface what hasn't been said" move — why does it often produce the strongest contributions?
 
 assessment-instructions::
 **1** — Treats energy decay as the cohort's problem, not the facilitator's. Cannot name antidotes.

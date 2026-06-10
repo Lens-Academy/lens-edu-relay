@@ -13,9 +13,9 @@ id:: b6d2dd87-4d95-4346-9e4a-bbec32aa64b7
 
 #### Question
 feedback:: true
-content:: While a session is running, you're tracking four things at once: self (am I clear, regulated?), individual (what does the speaker need?), group (energy, who hasn't spoken?), context (where are we in the arc?). Rookie facilitators almost always neglect one or two — most commonly {--{"author":"AI","timestamp":1781085732284}@@*self*--}{++{"author":"AI","timestamp":1781085732284}@@self++} or {--{"author":"AI","timestamp":1781085732284}@@*context*.--}{++{"author":"AI","timestamp":1781085732284}@@context.++}
+content:: While a session is running, you're tracking four things at once: self (am I clear, regulated?), individual (what does the speaker need?), group (energy, who hasn't spoken?), context (where are we in the arc?). Rookie facilitators almost always neglect one or two — most commonly self or context.
 
-{--{"author":"AI","timestamp":1781085732284}@@**Name--}{++{"author":"AI","timestamp":1781085732284}@@Name++} the four perspectives with the question each one asks. Which do you naturally neglect — and what specific cue will you use during a session to widen the {--{"author":"AI","timestamp":1781085732284}@@lens?**--}{++{"author":"AI","timestamp":1781085732284}@@lens?++}
+Name the four perspectives with the question each one asks. Which do you naturally neglect — and what specific cue will you use during a session to widen the lens?
 
 assessment-instructions::
 **1** — Names some perspectives but cannot articulate the distinct questions each asks.
