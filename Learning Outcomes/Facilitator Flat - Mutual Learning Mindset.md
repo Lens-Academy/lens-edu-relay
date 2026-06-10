@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781034239149}@@---
+---
 id: 4ad36dec-3aad-414a-8ecd-1c343731b3f5
 learning-outcome: "Name the five values of the mutual learning mindset, contrast it with unilateral control, and identify a personal trigger that pulls you out of mutual learning under pressure."
 authors:
@@ -30,4 +30,3 @@ assessment-instructions::
 
 ## Lens:
 source:: ![[../Lenses/Facilitator Flat - Mutual Learning Mindset]]
-++}

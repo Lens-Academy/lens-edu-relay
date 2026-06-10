@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781032513614}@@---
+---
 id: c424032f-edb6-4f74-8ab4-a30140054b1b
 slug: facilitator-m1-flat
 title: "Foundations — What Is a Facilitator?"
@@ -28,4 +28,3 @@ source:: ![[../Learning Outcomes/Facilitator Flat - Two Postures]]
 
 # Lens: Overview of Optional Resources
 source:: ![[../Lenses/Facilitator Flat - Overview of Optional Resources M1]]
-++}

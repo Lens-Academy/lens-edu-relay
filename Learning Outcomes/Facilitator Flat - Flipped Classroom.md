@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781034172792}@@---
+---
 id: 88828811-9cf2-4ca0-a156-b13d5e286851
 learning-outcome: "Describe the flipped-classroom approach in one sentence, identify two rookie failure modes in flipped sessions, and explain why the facilitator's time-allocation shifts from ~70% content / ~30% engagement to ~5% / ~95%."
 authors:
@@ -30,4 +30,3 @@ assessment-instructions::
 
 ## Lens:
 source:: ![[../Lenses/Facilitator Flat - Flipped Classroom]]
-++}

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781034246227}@@---
+---
 id: 31a3c91b-3475-4c9e-99f1-87b5e7bc5920
 learning-outcome: "Name three online signals that participants are communicating non-verbally, and craft two specific 'name what you see' moves you'd use to surface them."
 authors:
@@ -30,4 +30,3 @@ assessment-instructions::
 
 ## Lens:
 source:: ![[../Lenses/Facilitator Flat - Reading the Room]]
-++}
