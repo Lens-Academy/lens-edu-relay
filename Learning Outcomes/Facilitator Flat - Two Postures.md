@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781034316682}@@---
+---
 id: b083313e-f2df-415f-b63c-1bb29da2bee3
 learning-outcome: "Describe the 'lead from behind' posture and the four-leadership-perspectives frame, and identify which of the four perspectives you tend to neglect."
 authors:
@@ -30,4 +30,3 @@ assessment-instructions::
 
 ## Lens:
 source:: ![[../Lenses/Facilitator Flat - Two Postures]]
-++}
