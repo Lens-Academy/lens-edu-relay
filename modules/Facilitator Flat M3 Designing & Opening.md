@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781032515336}@@---
+---
 id: d41c9bcf-a016-420b-ab66-630fc64e0516
 slug: facilitator-m3-flat
 title: "Designing & Opening a Session"
@@ -33,4 +33,3 @@ source:: ![[../Learning Outcomes/Facilitator Flat - Online Container]]
 
 # Lens: Overview of Optional Resources
 source:: ![[../Lenses/Facilitator Flat - Overview of Optional Resources M3]]
-++}
