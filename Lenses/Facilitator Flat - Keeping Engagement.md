@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781033751155}@@---
+---
 id: 0d3faac5-24e6-4ae9-a3b8-ed27175dfecc
 summary_for_tutor: "Four practical antidotes to mid-session energy decay. The 'surface what hasn't been said' move is the standout — produces the best contributions of the session."
 title: "Keeping Engagement Over a Full Session"
@@ -44,4 +44,3 @@ Discussion guidance:
 - If they're skeptical of "what hasn't been said yet," walk through why it works: the social dynamic of a session reliably suppresses certain contributions; explicitly inviting them lets them surface.
 
 Probe: "If your energy is also dropping at minute 40, what move helps you reset — not just the group?"
-++}

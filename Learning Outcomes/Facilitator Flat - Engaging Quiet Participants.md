@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781034165918}@@---
+---
 id: a93d7058-1289-4bc7-8048-f24c5f70aadc
 learning-outcome: "Name three moves that engage quiet participants without putting them on the spot, and identify the two cold-call patterns to avoid."
 authors:
@@ -30,4 +30,3 @@ assessment-instructions::
 
 ## Lens:
 source:: ![[../Lenses/Facilitator Flat - Engaging Quiet Participants]]
-++}
