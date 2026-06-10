@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781034307062}@@---
+---
 id: 17ce46db-d448-4bd1-8e7b-60f5a8c1dab3
 learning-outcome: "Name at least three of the six learning mechanisms from Kosslyn (desirable difficulty, generation effect, spacing & interleaving, elaboration & connection, dual coding, worked examples → faded scaffolding) and apply each to a specific facilitator move."
 authors:
@@ -30,4 +30,3 @@ assessment-instructions::
 
 ## Lens:
 source:: ![[../Lenses/Facilitator Flat - Science of Learning]]
-++}

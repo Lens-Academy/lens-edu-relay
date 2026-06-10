@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781033941977}@@---
+---
 id: 4b06794c-d8e8-4e90-9725-035f4c7564a6
 summary_for_tutor: "Teaches online non-verbal signal-reading paired with the 'name what you see' move. Trainee should leave able to name three signals and craft specific responses."
 title: "Reading the Room"
@@ -61,4 +61,3 @@ Discussion guidance:
 - If they're uncertain about misreading a signal, walk through it: name tentatively, leave space for correction. "I might be misreading — is that what's happening?"
 
 Probe: "What's the worst case if you name what you see and you're wrong? Is it actually worse than not naming it?"
-++}
