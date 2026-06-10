@@ -1,7 +1,7 @@
 ---
 id: 383dc640-c53c-470f-8520-9d4c16f5d3ea
-summary_for_tutor: "Teaches the pufferfish/hermit crab frame from The Authentic Facilitator. Trainee should honestly self-identify their default and pre-commit to a recovery move. This is the most useful self-knowledge frame in the entire course."
-title: "Your Default Failure Mode Under Pressure"
+summary_for_tutor: {--{"author":"Yatharth's AI","timestamp":1781126836013}@@"Teaches the pufferfish/hermit crab--}{++{"author":"Yatharth's AI","timestamp":1781126836013}@@"The pufferfish/hermit-crab self-knowledge++} frame {--{"author":"Yatharth's AI","timestamp":1781126836013}@@from--}{++{"author":"Yatharth's AI","timestamp":1781126836013}@@(from++} The Authentic{--{"author":"Yatharth's AI","timestamp":1781126836013}@@ Facilitator. Trainee should honestly self-identify their default and pre-commit to--}{++{"author":"Yatharth's AI","timestamp":1781126836013}@@ Facilitator) + the Pufferfish video, ending with++} a {--{"author":"Yatharth's AI","timestamp":1781126836013}@@recovery move. This is the most useful self-knowledge frame in the entire course."--}{++{"author":"Yatharth's AI","timestamp":1781126836013}@@self-assessment note. Text + video. No chat."++}
+title: {--{"author":"Yatharth's AI","timestamp":1781126836013}@@"Your Default Failure Mode Under Pressure"--}{++{"author":"Yatharth's AI","timestamp":1781126836013}@@"5.1 Your default failure mode under pressure"++}
 tldr: "Pufferfish or hermit crab. You're one or the other. Knowing which one is yours, before it happens, makes it half as bad when it does."
 authors:
   - Yatharth+Claude
@@ -11,10 +11,10 @@ tags:
 ---
 #### Text
 content::
-\## Watch
+{--{"author":"Yatharth's AI","timestamp":1781126847774}@@\## Watch
 
-**Video — The Pufferfish and the Hermit Crab — Sara Ness (5:42):** https://drive.google.com/file/d/1KEXQi9IYpPNfKU0_oB5r25Tud7Tkrlwr/view — What this looks like, and the alternatives.
-*Audio-only: https://drive.google.com/file/d/1N2zvuvUr96MicWyypY9t1BmVL0tj65W2/view · Transcript: https://docs.google.com/document/d/1iXBJOgDLGMfhN7iAVwnTaUklahs0FBt8DlfhQEV_JLk/edit*
+**Video--}{++{"author":"Yatharth's AI","timestamp":1781126847774}@@When a session goes hard++} — {--{"author":"Yatharth's AI","timestamp":1781126847774}@@The Pufferfish and--}{++{"author":"Yatharth's AI","timestamp":1781126847774}@@someone pushes back on you, a topic gets heated,++} the {--{"author":"Yatharth's AI","timestamp":1781126847774}@@Hermit Crab — Sara Ness (5:42):** https://drive.google.com/file/d/1KEXQi9IYpPNfKU0_oB5r25Tud7Tkrlwr/view--}{++{"author":"Yatharth's AI","timestamp":1781126847774}@@room goes silent in a bad way++} — {--{"author":"Yatharth's AI","timestamp":1781126847774}@@What this looks like, and the alternatives.
+*Audio-only: https://drive.google.com/file/d/1N2zvuvUr96MicWyypY9t1BmVL0tj65W2/view · Transcript: https://docs.google.com/document/d/1iXBJOgDLGMfhN7iAVwnTaUklahs0FBt8DlfhQEV_JLk/edit*--}{++{"author":"Yatharth's AI","timestamp":1781126847774}@@you may tend to default to one of two failure modes. Knowing which one is yours, before it happens, makes it half as bad when it does.++}
 
 \## The pufferfish and the hermit crab
 
@@ -26,11 +26,22 @@ This is from *The Authentic Facilitator* (Sara Ness) and it's the most useful se
 
 Most people have a clear default. Yours probably already came to mind reading those descriptions.
 
-\## After
+\## {--{"author":"Yatharth's AI","timestamp":1781126847774}@@After--}{++{"author":"Yatharth's AI","timestamp":1781126847774}@@Watch (6 min)
 
-Honestly: which one are you? In the last group conflict you were part of (not as facilitator — anywhere), did you get bigger or smaller?
+#### Video
+source:: [[../video_transcripts/lens-academy-the-pufferfish-and-the-hermit-crab-posture-and-collapse]]
+from:: 0:00
+to:: 5:42++}
 
-Whichever it is — the next sub-section (Recovering in the Moment) is for you.
+{++{"author":"Yatharth's AI","timestamp":1781126847774}@@#### Text
+content::
+*What this looks like, and the alternatives.*
+
+\## Self-assessment (2 min)
+
+> ++}Honestly: which one are you? In the last group conflict you were part of (not as facilitator — anywhere), did you get bigger or smaller?
+
+{--{"author":"Yatharth's AI","timestamp":1781126847774}@@Whichever--}{++{"author":"Yatharth's AI","timestamp":1781126847774}@@*Whichever++} it is — the next {--{"author":"Yatharth's AI","timestamp":1781126847774}@@sub-section (Recovering in the Moment)--}{++{"author":"Yatharth's AI","timestamp":1781126847774}@@section++} is for {--{"author":"Yatharth's AI","timestamp":1781126847774}@@you.
 
 #### Chat
 instructions::
@@ -49,4 +60,4 @@ Discussion guidance:
 - Don't let them say "I'm both" — push for the dominant default under stress.
 - If they identify pufferfish, suggest the "ask a question instead of stating" recovery. If hermit crab, the "name the dynamic gently" recovery.
 
-Probe: "What's the body signal you'd notice first — chest tightening, voice rising, urge to fill silence, urge to disappear — that tells you your mode is about to fire?"
+Probe: "What's the body signal you'd notice first — chest tightening, voice rising, urge to fill silence, urge to disappear — that tells you your mode is about to fire?"--}{++{"author":"Yatharth's AI","timestamp":1781126847774}@@you.*++}

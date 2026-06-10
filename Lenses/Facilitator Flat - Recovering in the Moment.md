@@ -1,7 +1,7 @@
 ---
 id: de211a6e-be0c-4e20-8a23-ec78afc1083d
-summary_for_tutor: "Teaches the 'name it, apologise lightly if warranted, move forward' recovery pattern and reframes pushback as information about cohort safety, not personal failure."
-title: "Recovering in the Moment"
+summary_for_tutor: {--{"author":"Yatharth's AI","timestamp":1781126850171}@@"Teaches the--}{++{"author":"Yatharth's AI","timestamp":1781126850171}@@"The++} 'name it, apologise lightly if warranted, move forward' recovery pattern {++{"author":"Yatharth's AI","timestamp":1781126850171}@@with examples, ++}and {--{"author":"Yatharth's AI","timestamp":1781126850171}@@reframes pushback as information about cohort safety, not personal failure."--}{++{"author":"Yatharth's AI","timestamp":1781126850171}@@the 'pushback is information' reframe. Text only. No chat."++}
+title: {--{"author":"Yatharth's AI","timestamp":1781126850171}@@"Recovering--}{++{"author":"Yatharth's AI","timestamp":1781126850171}@@"5.2 Recovering++} in the {--{"author":"Yatharth's AI","timestamp":1781126850171}@@Moment"--}{++{"author":"Yatharth's AI","timestamp":1781126850171}@@moment"++}
 tldr: "Everything is recoverable. The recovery move is the same: name it, apologise lightly if warranted, move forward. The mistake is pretending the failure didn't happen."
 authors:
   - Yatharth+Claude
@@ -11,9 +11,9 @@ tags:
 ---
 #### Text
 content::
-\## Read
+{--{"author":"Yatharth's AI","timestamp":1781126863779}@@\## Read
 
-You will, at some point in your facilitating life:
+--}You will, at some point in your facilitating life:
 
 - Say something factually wrong.
 - Lose track of time and run over.
@@ -35,13 +35,13 @@ The mistake is *not* the failure. **The mistake is pretending the failure didn't
 
 \## The bigger reframe: pushback is information
 
-When a participant pushes back on you — *especially* in a way that lands a real point — they have given you a gift:
+When a participant pushes back on you — *especially* in a way that lands a real point — they have given you a {--{"author":"Yatharth's AI","timestamp":1781126863779}@@gift:--}{++{"author":"Yatharth's AI","timestamp":1781126863779}@@gift. They've told you something about either:++}
 
-- A weakness in the framing you used (you learn).
-- A discomfort or confusion in the room that needed surfacing (the room now feels safer).
-- Their own thinking, which you wouldn't have heard if they'd held back (the discussion just got better).
+- A weakness in the framing you used {--{"author":"Yatharth's AI","timestamp":1781126863779}@@(you--}{++{"author":"Yatharth's AI","timestamp":1781126863779}@@(in which case, you++} learn).
+- A discomfort or confusion in the room that needed surfacing {--{"author":"Yatharth's AI","timestamp":1781126863779}@@(the--}{++{"author":"Yatharth's AI","timestamp":1781126863779}@@(in which case, the++} room now feels safer).
+- Their own thinking, which you wouldn't have heard if they'd held back {--{"author":"Yatharth's AI","timestamp":1781126863779}@@(the --}{++{"author":"Yatharth's AI","timestamp":1781126863779}@@(in which case, the ++}discussion just got better).
 
-Treat being pushed back on as a positive signal about cohort safety, not as a personal failure. If nobody ever pushes back on you, *that's* the warning sign — it means they don't think they can.
+Treat being pushed back on as a positive signal about {--{"author":"Yatharth's AI","timestamp":1781126863779}@@cohort--}{++{"author":"Yatharth's AI","timestamp":1781126863779}@@the cohort's++} safety, not as a personal failure. If nobody ever pushes back on you, *that's* the warning sign — it means they don't think they can.{--{"author":"Yatharth's AI","timestamp":1781126863779}@@
 
 \## After
 
@@ -63,4 +63,4 @@ Discussion guidance:
 - If they want to "deflect" or "redirect" past a failure rather than name it, walk through why naming works: the group already noticed, so naming brings you back into alignment with them.
 - The "apologise lightly" part is important — heavy apologies make the room uncomfortable. Light = brief acknowledgment, then move.
 
-Probe: "If a participant pushed back hard on something you said and they were right, what's the worst version of how you might respond — and what cue would tell you you're doing it?"
+Probe: "If a participant pushed back hard on something you said and they were right, what's the worst version of how you might respond — and what cue would tell you you're doing it?"--}
