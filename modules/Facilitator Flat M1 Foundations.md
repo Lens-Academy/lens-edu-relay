@@ -11,20 +11,23 @@ tags:
   - module
 ---
 
-# Lens: M1 Welcome
+# Lens: {--{"author":"AI","timestamp":1781087757354}@@M1 Welcome--}{++{"author":"AI","timestamp":1781087757354}@@Foundations — What Is a Facilitator?++}
 source:: ![[../Lenses/Facilitator Flat - M1 Welcome]]
 
-# Learning Outcome: Facilitator Flat - Teaching vs Facilitating
-source:: ![[../Learning Outcomes/Facilitator Flat - Teaching vs Facilitating]]
+# {--{"author":"AI","timestamp":1781087757354}@@Learning Outcome: Facilitator Flat - Teaching--}{++{"author":"AI","timestamp":1781087757354}@@Lens: 1.1 The core distinction: teaching++} vs {--{"author":"AI","timestamp":1781087757354}@@Facilitating--}{++{"author":"AI","timestamp":1781087757354}@@facilitating++}
+source:: {--{"author":"AI","timestamp":1781087757354}@@![[../Learning Outcomes/Facilitator--}{++{"author":"AI","timestamp":1781087757354}@@![[../Lenses/Facilitator++} Flat - Teaching vs Facilitating]]
 
-# Learning Outcome: Facilitator Flat - Mutual Learning Mindset
-source:: ![[../Learning Outcomes/Facilitator Flat - Mutual Learning Mindset]]
+# {--{"author":"AI","timestamp":1781087757354}@@Learning Outcome: Facilitator Flat - Mutual Learning Mindset--}{++{"author":"AI","timestamp":1781087757354}@@Lens: 1.2 The mutual learning mindset++}
+source::{--{"author":"AI","timestamp":1781087757354}@@ ![[../Learning Outcomes/Facilitator--}{++{"author":"AI","timestamp":1781087757354}@@ ![[../Lenses/Facilitator++} Flat - Mutual Learning Mindset]]
 
-# Learning Outcome: Facilitator Flat - What a Facilitator Isn't
-source:: ![[../Learning Outcomes/Facilitator Flat - What a Facilitator Isn't]]
+# {--{"author":"AI","timestamp":1781087757354}@@Learning Outcome: Facilitator Flat - What a Facilitator Isn't--}{++{"author":"AI","timestamp":1781087757354}@@Lens: 1.3 What a facilitator isn't (and isn't responsible for)++}
+source:: {--{"author":"AI","timestamp":1781087757354}@@![[../Learning Outcomes/Facilitator--}{++{"author":"AI","timestamp":1781087757354}@@![[../Lenses/Facilitator++} Flat - What a Facilitator Isn't]]
 
-# Learning Outcome: Facilitator Flat - Two Postures
-source:: ![[../Learning Outcomes/Facilitator Flat - Two Postures]]
+# {--{"author":"AI","timestamp":1781087757354}@@Learning Outcome: Facilitator Flat - Two Postures--}{++{"author":"AI","timestamp":1781087757354}@@Lens: 1.4 Two postures worth knowing about++}
+source:: {--{"author":"AI","timestamp":1781087757354}@@![[../Learning Outcomes/Facilitator--}{++{"author":"AI","timestamp":1781087757354}@@![[../Lenses/Facilitator++} Flat - Two Postures]]
 
-# Lens: Overview of Optional Resources
+# Lens: {--{"author":"AI","timestamp":1781087757354}@@Overview of --}{++{"author":"AI","timestamp":1781087757354}@@Closing exercise
+source:: ![[../Lenses/Facilitator Flat - M1 Closing Exercise]]
+
+# Lens: ++}Optional {--{"author":"AI","timestamp":1781087757354}@@Resources--}{++{"author":"AI","timestamp":1781087757354}@@resources++}
 source:: ![[../Lenses/Facilitator Flat - Overview of Optional Resources M1]]
