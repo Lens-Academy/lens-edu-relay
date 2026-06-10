@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781033923098}@@---
+---
 id: 61064e53-af1a-439c-abf1-842a55517d86
 summary_for_tutor: "Teaches Schwarz's mutual-learning mindset (five values) vs unilateral control. The trainee should name their personal trigger that pulls them out of mutual learning. Reading is Curiosity Society's Facilitator's Handbook pp. 4-13."
 title: "The Mutual Learning Mindset"
@@ -54,4 +54,3 @@ Discussion guidance:
 - If they can't name a trigger, prompt: "Did anything in the last week make you want to take over a conversation? Why?"
 
 Probe: "What's a 5-second self-check you can run in a session when you feel your trigger firing — something that pulls you back to mutual learning before you act on the impulse?"
-++}
