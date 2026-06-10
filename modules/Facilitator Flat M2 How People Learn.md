@@ -12,20 +12,20 @@ tags:
   - module
 ---
 
-# Lens: {--{"author":"Yatharth's AI","timestamp":1781118334302}@@M2 Welcome--}{++{"author":"Yatharth's AI","timestamp":1781118334302}@@How People Learn — Why Discussions Work++}
+# Lens: How People Learn — Why Discussions Work
 source:: ![[../Lenses/Facilitator Flat - M2 Welcome]]
 
-# {--{"author":"Yatharth's AI","timestamp":1781118334302}@@Learning Outcome: Facilitator Flat - Science of Learning--}{++{"author":"Yatharth's AI","timestamp":1781118334302}@@Lens: 2.1 The science of learning, in one sitting++}
-source:: {--{"author":"Yatharth's AI","timestamp":1781118334302}@@![[../Learning Outcomes/Facilitator--}{++{"author":"Yatharth's AI","timestamp":1781118334302}@@![[../Lenses/Facilitator++} Flat - Science of Learning]]
+# Lens: 2.1 The science of learning, in one sitting
+source:: ![[../Lenses/Facilitator Flat - Science of Learning]]
 
-# {--{"author":"Yatharth's AI","timestamp":1781118334302}@@Learning Outcome: Facilitator Flat - Flipped Classroom--}{++{"author":"Yatharth's AI","timestamp":1781118334302}@@Lens: 2.2 The flipped classroom — what changes for you++}
-source:: {--{"author":"Yatharth's AI","timestamp":1781118334302}@@![[../Learning Outcomes/Facilitator--}{++{"author":"Yatharth's AI","timestamp":1781118334302}@@![[../Lenses/Facilitator++} Flat - Flipped Classroom]]
+# Lens: 2.2 The flipped classroom — what changes for you
+source:: ![[../Lenses/Facilitator Flat - Flipped Classroom]]
 
-# {--{"author":"Yatharth's AI","timestamp":1781118334302}@@Learning Outcome: Facilitator Flat - Think-Pair-Share--}{++{"author":"Yatharth's AI","timestamp":1781118334302}@@Lens: 2.3 Why the meeting templates are built the way they are++}
-source:: {--{"author":"Yatharth's AI","timestamp":1781118334302}@@![[../Learning Outcomes/Facilitator--}{++{"author":"Yatharth's AI","timestamp":1781118334302}@@![[../Lenses/Facilitator++} Flat - Think-Pair-Share]]
+# Lens: 2.3 Why the meeting templates are built the way they are
+source:: ![[../Lenses/Facilitator Flat - Think-Pair-Share]]
 
-# Lens: {--{"author":"Yatharth's AI","timestamp":1781118334302}@@Overview of--}{++{"author":"Yatharth's AI","timestamp":1781118334302}@@Closing exercise
+# Lens: Closing exercise
 source:: ![[../Lenses/Facilitator Flat - M2 Closing Exercise]]
 
-# Lens:++} Optional {--{"author":"Yatharth's AI","timestamp":1781118334302}@@Resources--}{++{"author":"Yatharth's AI","timestamp":1781118334302}@@resources++}
+# Lens: Optional resources
 source:: ![[../Lenses/Facilitator Flat - Overview of Optional Resources M2]]
