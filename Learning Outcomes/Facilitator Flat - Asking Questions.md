@@ -13,9 +13,9 @@ id:: 7009431c-2ba9-42db-8df7-be83e7cc4bb7
 
 #### Question
 feedback:: true
-content:: Most facilitators ask weak questions by default ("any thoughts?", "what did you think?") and get weak answers in return. Three frameworks improve this dramatically: **PPPB** (Pose, Pause, Pounce, Bounce), **ABC** (Agree, Build, Challenge), and **EEAA** (Engage, Evaluate, Apply, Adapt).
+content:: Most facilitators ask weak questions by default ("any thoughts?", "what did you think?") and get weak answers in return. Three frameworks improve this dramatically: {--{"author":"AI","timestamp":1781085678088}@@**PPPB**--}{++{"author":"AI","timestamp":1781085678088}@@PPPB++} (Pose, Pause, Pounce, Bounce), {--{"author":"AI","timestamp":1781085678088}@@**ABC**--}{++{"author":"AI","timestamp":1781085678088}@@ABC++} (Agree, Build, Challenge), and {--{"author":"AI","timestamp":1781085678088}@@**EEAA**--}{++{"author":"AI","timestamp":1781085678088}@@EEAA++} (Engage, Evaluate, Apply, Adapt).
 
-**Describe each framework in one sentence. Take one of your prepared questions for an upcoming session and walk through the PPPB version (how you pose it, the pause length, who you pounce on first). Then name which EEAA move you'd use as a follow-up if you got a substantive answer.**
+{--{"author":"AI","timestamp":1781085678088}@@**Describe--}{++{"author":"AI","timestamp":1781085678088}@@Describe++} each framework in one sentence. Take one of your prepared questions for an upcoming session and walk through the PPPB version (how you pose it, the pause length, who you pounce on first). Then name which EEAA move you'd use as a follow-up if you got a substantive {--{"author":"AI","timestamp":1781085678088}@@answer.**--}{++{"author":"AI","timestamp":1781085678088}@@answer.++}
 
 assessment-instructions::
 **1** — Cannot recall the frameworks. Defaults to "any thoughts?" without recognising it's weak.

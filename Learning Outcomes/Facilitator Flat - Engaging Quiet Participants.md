@@ -15,7 +15,7 @@ id:: ee3c0fca-e733-442b-941c-b65a44452d34
 feedback:: true
 content:: Quiet doesn't mean disengaged. Sometimes the quiet person is the deepest thinker in the room; sometimes they're checked out. Your job is to find out, without putting them on the spot.
 
-**Name three moves that engage quiet participants without cold-calling. Then name the two patterns to AVOID (and explain the cost of each).**
+{--{"author":"AI","timestamp":1781085696325}@@**Name--}{++{"author":"AI","timestamp":1781085696325}@@Name++} three moves that engage quiet participants without cold-calling. Then name the two patterns to AVOID (and explain the cost of {--{"author":"AI","timestamp":1781085696325}@@each).**--}{++{"author":"AI","timestamp":1781085696325}@@each).++}
 
 assessment-instructions::
 **1** — Defaults to cold-calling. Doesn't recognise it as costly.
