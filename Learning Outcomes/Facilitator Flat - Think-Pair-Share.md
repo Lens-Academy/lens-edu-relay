@@ -15,7 +15,7 @@ id:: 6188034c-4ae6-4803-8725-fb1f4bb6d6e6
 feedback:: true
 content:: If you only memorise one structural pattern from this whole course, make it this one. Think-Pair-Share is a three-step structure: silent think, pair discussion, whole-group share. It looks almost too simple, but it makes use of three different mechanisms from §2.1 simultaneously.
 
-**Describe the three steps. Name at least two situations where Think-Pair-Share is the right move. Then write one Think-Pair-Share opening question for a session you might actually run.**
+{--{"author":"AI","timestamp":1781085784118}@@**Describe--}{++{"author":"AI","timestamp":1781085784118}@@Describe++} the three steps. Name at least two situations where Think-Pair-Share is the right move. Then write one Think-Pair-Share opening question for a session you might actually {--{"author":"AI","timestamp":1781085784118}@@run.**--}{++{"author":"AI","timestamp":1781085784118}@@run.++}
 
 assessment-instructions::
 **1** — Confuses Think-Pair-Share with "ask the group and wait." Can't write a real opening question.
