@@ -13,9 +13,9 @@ id:: abe92a29-e967-43a7-86ea-47e55d00bff6
 
 #### Question
 feedback:: true
-content:: Clarity about the role is half the work. The other half is clarity about where the role {--{"author":"AI","timestamp":1781085790309}@@*ends*--}{++{"author":"AI","timestamp":1781085790309}@@ends++} — what you are not responsible for. Conflating these is the most reliable source of facilitator burnout.
+content:: Clarity about the role is half the work. The other half is clarity about where the role ends — what you are not responsible for. Conflating these is the most reliable source of facilitator burnout.
 
-{--{"author":"AI","timestamp":1781085790309}@@**Name--}{++{"author":"AI","timestamp":1781085790309}@@Name++} at least three things a facilitator is NOT responsible for, and three things they ARE. For each "not" — describe what goes wrong if you take it on {--{"author":"AI","timestamp":1781085790309}@@anyway.**--}{++{"author":"AI","timestamp":1781085790309}@@anyway.++}
+Name at least three things a facilitator is NOT responsible for, and three things they ARE. For each "not" — describe what goes wrong if you take it on anyway.
 
 assessment-instructions::
 **1** — Can't list "not" responsibilities. Treats facilitator as a broad caretaking role.

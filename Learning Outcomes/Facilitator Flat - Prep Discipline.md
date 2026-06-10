@@ -15,7 +15,7 @@ id:: 729042fd-6164-4bae-8ceb-203d5995ee35
 feedback:: true
 content:: You will be tempted to over-prepare. Reading the entire reading three times, writing 15 candidate questions, drafting an opening monologue — these feel diligent. They mostly aren't. There's a small list of prep moves that reliably improve quality and a longer list that's busywork.
 
-{--{"author":"AI","timestamp":1781085740750}@@**Name--}{++{"author":"AI","timestamp":1781085740750}@@Name++} three prep moves that actually move session quality, and three prep moves that are busywork. For each "busywork" item — why does it feel useful but actually {--{"author":"AI","timestamp":1781085740750}@@isn't?**--}{++{"author":"AI","timestamp":1781085740750}@@isn't?++}
+Name three prep moves that actually move session quality, and three prep moves that are busywork. For each "busywork" item — why does it feel useful but actually isn't?
 
 assessment-instructions::
 **1** — Treats over-preparation as a virtue. Cannot distinguish high-value from low-value prep.
