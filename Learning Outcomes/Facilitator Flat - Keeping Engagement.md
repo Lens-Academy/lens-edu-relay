@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781034238490}@@---
+---
 id: 8c1ea501-91d6-4267-81cd-7a6c2664bd3b
 learning-outcome: "Name four practical antidotes to mid-session energy decay (vary format, signpost what's next, use specific names, surface what hasn't been said), and articulate why the 'what hasn't been said' move often produces the best contributions of a session."
 authors:
@@ -30,4 +30,3 @@ assessment-instructions::
 
 ## Lens:
 source:: ![[../Lenses/Facilitator Flat - Keeping Engagement]]
-++}

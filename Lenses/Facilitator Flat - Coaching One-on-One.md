@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781033639083}@@---
+---
 id: cfd0b0bf-36c0-4421-8909-dd341ba138ba
 summary_for_tutor: "Teaches coaching as different from facilitation. Seven questions from The Coaching Habit + GROW framework + 'stay curious longer' as the meta-rule. Plus three questions for participants scoping projects."
 title: "Coaching — When Participants Come to You 1-on-1"
@@ -75,4 +75,3 @@ Discussion guidance:
 - For project scoping, the "what's the smallest version" question is the highest-leverage one.
 
 Probe: "When was the last time someone gave you advice before they really understood your situation — how did that feel? What would you have wanted instead?"
-++}
