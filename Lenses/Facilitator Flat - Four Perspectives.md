@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781033740697}@@---
+---
 id: 902b92e2-140e-42df-ba9f-020814ec9062
 summary_for_tutor: "Operationalises the four-perspectives frame from M1.4. Trainee should leave able to name which perspective they neglect AND have a concrete cue they'll use to widen the lens. This is the in-session version of the M1.4 frame."
 title: "The Four Perspectives a Facilitator Holds"
@@ -52,4 +52,3 @@ Discussion guidance:
 - If they have time-related neglect, suggest the 10-and-25-minute check. If self-state neglect, the Zoom-tile self-glance.
 
 Probe: "What's the cost in a real session if you drop your most-likely-to-neglect perspective for 15 minutes? Be specific."
-++}

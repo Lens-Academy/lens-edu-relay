@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781033732545}@@---
+---
 id: ca2d8323-07fd-428f-89d5-ad33112646c9
 summary_for_tutor: "Teaches the three-phase session shape (narrow open, wide explore, narrow close) and the two rookie failures: skipping the open, skipping the close. Both are about protecting the bookends from getting eaten by middle content."
 title: "The Shape of a Session: Diamond of Participation"
@@ -48,4 +48,3 @@ Discussion guidance:
 - If they treat the close as optional ("we ran over the discussion, that's OK") — walk through what's lost. The retention literature is unambiguous: people remember beginnings and endings.
 
 Probe: "If you had to cut 10 minutes from a 60-minute session, where would you cut? Why not the open or the close?"
-++}

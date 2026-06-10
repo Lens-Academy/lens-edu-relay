@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781034158891}@@---
+---
 id: f2087f7d-5d17-4635-a53f-9267d61f5f80
 learning-outcome: "Describe the three-part close (Reflect, Integrate, Ritual) and draft your own closing ritual. Articulate two specific moves that make a cohort feel like a peer network, not a class."
 authors:
@@ -30,4 +30,3 @@ assessment-instructions::
 
 ## Lens:
 source:: ![[../Lenses/Facilitator Flat - Closing Well]]
-++}
