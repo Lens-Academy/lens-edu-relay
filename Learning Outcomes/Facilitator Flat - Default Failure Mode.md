@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781034160588}@@---
+---
 id: 286a822c-dddf-47de-95b6-f6b7e7b623fd
 learning-outcome: "Identify your default failure mode under pressure (pufferfish or hermit crab) and pre-commit to one specific recovery move you'll try the first time you notice it firing."
 authors:
@@ -30,4 +30,3 @@ assessment-instructions::
 
 ## Lens:
 source:: ![[../Lenses/Facilitator Flat - Default Failure Mode]]
-++}

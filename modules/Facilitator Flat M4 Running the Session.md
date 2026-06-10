@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781032516049}@@---
+---
 id: b71490ee-0705-48bc-a149-6afc34ed1ea8
 slug: facilitator-m4-flat
 title: "Running the Session — In-the-Moment Craft"
@@ -37,4 +37,3 @@ source:: ![[../Learning Outcomes/Facilitator Flat - Keeping Engagement]]
 
 # Lens: Overview of Optional Resources
 source:: ![[../Lenses/Facilitator Flat - Overview of Optional Resources M4]]
-++}
