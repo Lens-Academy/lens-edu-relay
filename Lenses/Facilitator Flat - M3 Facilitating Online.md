@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781211790551}@@---
+---
 id: a8289397-4ccb-437c-8f1a-df5a65b3e3ef
 title: "Optional — Facilitating Online (Sara Ness, 11 min)"
 authors:
@@ -17,4 +17,3 @@ content::
 Broader treatment of the online medium and its affordances. Worth it if you've never run online groups before.
 
 *Video from [Authentic Revolution](https://authrev.org/)'s facilitator video library.*
-++}

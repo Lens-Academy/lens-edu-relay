@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781211808668}@@---
+---
 id: df6e7230-2d8e-42c7-9b22-537c1662ce45
 title: "Optional — Naming the Elephant (Meg & Sara, 6 min)"
 authors:
@@ -17,4 +17,3 @@ content::
 Calling out what's unspoken in the space.
 
 *Video from [Authentic Revolution](https://authrev.org/)'s facilitator video library.*
-++}

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781211769165}@@---
+---
 id: 631604a6-30e2-45b0-b7de-09b3309a2fef
 title: "Optional — Methods of Leadership (Sara & Carrie, 10 min)"
 authors:
@@ -17,4 +17,3 @@ content::
 Four polarities a leader can embody: directive–responsive, teaching–eliciting–coaching, cognitive–emotional.
 
 *Video from [Authentic Revolution](https://authrev.org/)'s facilitator video library.*
-++}

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781211805866}@@---
+---
 id: cca070f2-f565-4cf1-ac87-e7baa8145573
 title: "Optional — Following Aliveness (Sara Ness, 5 min)"
 authors:
@@ -17,4 +17,3 @@ content::
 Working with "the delta": the difference between what you expected and what you're seeing.
 
 *Video from [Authentic Revolution](https://authrev.org/)'s facilitator video library.*
-++}
