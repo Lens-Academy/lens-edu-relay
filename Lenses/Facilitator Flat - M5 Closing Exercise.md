@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781127036731}@@---
+---
 id: a5da2793-2fe9-4d8d-ad35-57a5eb0898ee
 title: "Final exercise"
 tags:
@@ -14,4 +14,3 @@ Two sentences in your own words:
 2. **What's the close I want to use for my sessions — the small consistent ritual?**
 
 That's the end of the course.
-++}
