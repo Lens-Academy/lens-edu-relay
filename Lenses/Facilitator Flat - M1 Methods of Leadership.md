@@ -14,6 +14,6 @@ to:: 9:45
 
 #### Text
 content::
-Four polarities a leader can embody: directive–responsive, teaching–eliciting–coaching, cognitive–emotional.
+Four polarities a leader can embody: directive–responsive, teaching–eliciting–coaching, cognitive–emotional.{--{"author":"Yatharth's AI","timestamp":1781213599460}@@
 
-*Video from [Authentic Revolution](https://authrev.org/)'s facilitator video library.*
+*Video from [Authentic Revolution](https://authrev.org/)'s facilitator video library.*--}

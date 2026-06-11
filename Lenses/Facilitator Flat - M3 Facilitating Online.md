@@ -14,6 +14,6 @@ to:: 10:40
 
 #### Text
 content::
-Broader treatment of the online medium and its affordances. Worth it if you've never run online groups before.
+Broader treatment of the online medium and its affordances. Worth it if you've never run online groups before.{--{"author":"Yatharth's AI","timestamp":1781213603627}@@
 
-*Video from [Authentic Revolution](https://authrev.org/)'s facilitator video library.*
+*Video from [Authentic Revolution](https://authrev.org/)'s facilitator video library.*--}

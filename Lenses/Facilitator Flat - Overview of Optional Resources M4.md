@@ -8,7 +8,7 @@ tags:
 
 #### Text
 content::
-Optional resources for Module 4, for those who want to go deeper on in-session craft.
+{--{"author":"Yatharth's AI","timestamp":1781213722404}@@Optional resources for Module 4, for those who want to go deeper on in-session craft.
 
 \## Following Aliveness — Sara Ness (5 min)
 
@@ -19,7 +19,7 @@ to:: 4:43
 
 #### Text
 content::
-Working with "the delta": the difference between what you expected and what you're seeing.
+Working with "the delta":--}{++{"author":"Yatharth's AI","timestamp":1781213722404}@@These optional resources are now listed individually at++} the{--{"author":"Yatharth's AI","timestamp":1781213722404}@@ difference between what you expected and what you're seeing.
 
 \## Naming the Elephant — Meg & Sara (6 min)
 
@@ -32,7 +32,7 @@ to:: 5:47
 content::
 Calling out what's unspoken in the space.
 
-\## Skills of a Timelord — Sara Ness (10 min)
+\## Skills --}{++{"author":"Yatharth's AI","timestamp":1781213722404}@@ end ++}of {--{"author":"Yatharth's AI","timestamp":1781213722404}@@a Timelord — Sara Ness (10 min)
 
 #### Video
 source:: [[../video_transcripts/lens-academy-skills-of-a-time-lord]]
@@ -60,4 +60,4 @@ The micro-anatomy of running an exercise: what, why, how, options, demo, debrief
 
 ---
 
-*Video resources from [Authentic Revolution](https://authrev.org/)'s facilitator video library (Sara Ness, Jason Digges, et al.).*
+*Video resources from [Authentic Revolution](https://authrev.org/)'s facilitator video library (Sara Ness, Jason Digges, et al.).*--}{++{"author":"Yatharth's AI","timestamp":1781213722404}@@this module, each as its own lens, so your progress on each is tracked separately.++}

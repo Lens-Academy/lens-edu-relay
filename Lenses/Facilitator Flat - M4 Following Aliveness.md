@@ -14,6 +14,6 @@ to:: 4:43
 
 #### Text
 content::
-Working with "the delta": the difference between what you expected and what you're seeing.
+Working with "the delta": the difference between what you expected and what you're seeing.{--{"author":"Yatharth's AI","timestamp":1781213605038}@@
 
-*Video from [Authentic Revolution](https://authrev.org/)'s facilitator video library.*
+*Video from [Authentic Revolution](https://authrev.org/)'s facilitator video library.*--}

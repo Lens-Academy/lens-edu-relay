@@ -8,9 +8,9 @@ tags:
 
 #### Text
 content::
-Optional resources for Module 1, for those who want to go deeper on the foundations material.
+{--{"author":"Yatharth's AI","timestamp":1781213711470}@@Optional--}{++{"author":"Yatharth's AI","timestamp":1781213711470}@@These optional++} resources {--{"author":"Yatharth's AI","timestamp":1781213711470}@@for Module 1, for those who want to go deeper on --}{++{"author":"Yatharth's AI","timestamp":1781213711470}@@are now listed individually at ++}the{--{"author":"Yatharth's AI","timestamp":1781213711470}@@ foundations material.
 
-\## Methods of Leadership — Sara & Carrie (10 min)
+\## Methods--}{++{"author":"Yatharth's AI","timestamp":1781213711470}@@ end++} of {--{"author":"Yatharth's AI","timestamp":1781213711470}@@Leadership — Sara & Carrie (10 min)
 
 #### Video
 source:: [[../video_transcripts/lens-academy-methods-of-leadership]]
@@ -23,4 +23,4 @@ Four polarities a leader can embody: directive–responsive, teaching–elicitin
 
 \## Article
 
-**We All Teach: Here's How to Do It Better — Michael Noetel (15 min)** — https://forum.effectivealtruism.org/posts/ZPNNnEu2HGNSNmifo/we-all-teach-here-s-how-to-do-it-better — Broader argument for why anyone running a discussion is, in effect, a teacher of a sort, and what the evidence says about doing it well.
+**We All Teach: Here's How to Do It Better — Michael Noetel (15 min)** — https://forum.effectivealtruism.org/posts/ZPNNnEu2HGNSNmifo/we-all-teach-here-s-how-to-do-it-better — Broader argument for why anyone running a discussion is, in effect, a teacher of a sort, and what the evidence says about doing it well.--}{++{"author":"Yatharth's AI","timestamp":1781213711470}@@this module, each as its own lens, so your progress on each is tracked separately.++}

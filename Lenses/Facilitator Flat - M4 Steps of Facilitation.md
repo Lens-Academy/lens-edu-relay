@@ -14,6 +14,6 @@ to:: 12:05
 
 #### Text
 content::
-The micro-anatomy of running an exercise: what, why, how, options, demo, debrief.
+The micro-anatomy of running an exercise: what, why, how, options, demo, debrief.{--{"author":"Yatharth's AI","timestamp":1781213609318}@@
 
-*Video from [Authentic Revolution](https://authrev.org/)'s facilitator video library.*
+*Video from [Authentic Revolution](https://authrev.org/)'s facilitator video library.*--}
