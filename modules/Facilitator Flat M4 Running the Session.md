@@ -38,5 +38,22 @@ source:: ![[../Lenses/Facilitator Flat - Keeping Engagement]]
 # Lens: Practical exercise
 source:: ![[../Lenses/Facilitator Flat - M4 Closing Exercise]]
 
-# Lens: Optional resources
-source:: ![[../Lenses/Facilitator Flat - Overview of Optional Resources M4]]
+# Lens: Optional {--{"author":"Yatharth's AI","timestamp":1781213705040}@@resources--}{++{"author":"Yatharth's AI","timestamp":1781213705040}@@— Following Aliveness (Sara Ness, 5 min)
+optional:: true
+source:: ![[../Lenses/Facilitator Flat - M4 Following Aliveness]]
+
+# Lens: Optional — Naming the Elephant (Meg & Sara, 6 min)
+optional:: true
+source:: ![[../Lenses/Facilitator Flat - M4 Naming the Elephant]]
+
+# Lens: Optional — Skills of a Timelord (Sara Ness, 10 min)
+optional:: true++}
+source:: ![[../Lenses/Facilitator Flat - {--{"author":"Yatharth's AI","timestamp":1781213705040}@@Overview--}{++{"author":"Yatharth's AI","timestamp":1781213705040}@@M4 Skills++} of {++{"author":"Yatharth's AI","timestamp":1781213705040}@@a Timelord]]
+
+# Lens: ++}Optional {--{"author":"Yatharth's AI","timestamp":1781213705040}@@Resources M4]]--}{++{"author":"Yatharth's AI","timestamp":1781213705040}@@— The Steps of Facilitation (Jason & Sara, 12 min)
+optional:: true
+source:: ![[../Lenses/Facilitator Flat - M4 Steps of Facilitation]]
+
+# Lens: Optional — Facilitator's Handbook, activities (PDF)
+optional:: true
+source:: ![[../Lenses/Facilitator Flat - M4 Facilitators Handbook]]++}

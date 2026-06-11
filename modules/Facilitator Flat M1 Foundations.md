@@ -29,5 +29,10 @@ source:: ![[../Lenses/Facilitator Flat - Two Postures]]
 # Lens: Closing exercise
 source:: ![[../Lenses/Facilitator Flat - M1 Closing Exercise]]
 
-# Lens: Optional resources
-source:: ![[../Lenses/Facilitator Flat - Overview of Optional Resources M1]]
+# Lens: Optional {--{"author":"Yatharth's AI","timestamp":1781213697874}@@resources--}{++{"author":"Yatharth's AI","timestamp":1781213697874}@@— Methods of Leadership (Sara & Carrie, 10 min)
+optional:: true++}
+source:: ![[../Lenses/Facilitator Flat - {--{"author":"Yatharth's AI","timestamp":1781213697874}@@Overview--}{++{"author":"Yatharth's AI","timestamp":1781213697874}@@M1 Methods++} of {++{"author":"Yatharth's AI","timestamp":1781213697874}@@Leadership]]
+
+# Lens: ++}Optional {--{"author":"Yatharth's AI","timestamp":1781213697874}@@Resources M1]]--}{++{"author":"Yatharth's AI","timestamp":1781213697874}@@— We All Teach: How to Do It Better (Noetel, 15 min)
+optional:: true
+source:: ![[../Lenses/Facilitator Flat - M1 We All Teach]]++}
