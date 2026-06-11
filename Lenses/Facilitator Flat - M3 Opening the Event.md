@@ -14,6 +14,6 @@ to:: 5:59
 
 #### Text
 content::
-Two ingredients of an opening: safety (logistics, norms, purpose) and connection (to self, to others, to facilitator). Useful if you want a deeper sense of what the template's opening is doing.
+Two ingredients of an opening: safety (logistics, norms, purpose) and connection (to self, to others, to facilitator). Useful if you want a deeper sense of what the template's opening is doing.{--{"author":"Yatharth's AI","timestamp":1781213600810}@@
 
-*Video from [Authentic Revolution](https://authrev.org/)'s facilitator video library.*
+*Video from [Authentic Revolution](https://authrev.org/)'s facilitator video library.*--}
