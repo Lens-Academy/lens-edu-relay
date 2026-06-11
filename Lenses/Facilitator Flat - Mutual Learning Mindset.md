@@ -20,13 +20,13 @@ The opposing mindset — which most of us default to under pressure — is **uni
 
 \## Read (12 min)
 
-Read — **A Facilitator's Handbook**, pp. 4–13 — Curiosity Society (12 min) — https://drive.google.com/file/d/1BmRWqSIP0mDLPjxoafnLNOvJAUmC-Fxg/view
+Read — **A Facilitator's Handbook**, pp. 4–13 — Curiosity Society (12 min) — https://drive.google.com/file/d/1BmRWqSIP0mDLPjxoafnLNOvJAUmC-Fxg/view {>>{"author":"Chris Lonsberry","timestamp":1781216448152}@@Took me 20 minutes (for thorough reading and taking some notes)<<}
 
 Focus on:
 
 - The mutual learning mindset (pp. 4–5)
 - The five values and what they look like in practice (pp. 6–8)
-- The role of the facilitator (pp. 10–11)
+- The role of the facilitator (pp. 10–11){>>{"author":"Chris Lonsberry","timestamp":1781216418569}@@These focus points don't seem to actually track with the reading. Hallucinated?<<}
 
 When you've finished the reading, mark it complete and continue to the reflection below.{>>{"author":"Chris Lonsberry","timestamp":1781216088763}@@CGL > There's no prompt for the student here. What do you want them to talk to the tutor about?<<}
 
