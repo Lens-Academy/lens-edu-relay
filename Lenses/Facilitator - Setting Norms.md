@@ -1,7 +1,7 @@
 ---
 id: f84b2c16-b18b-4ac4-b77d-9787bab5ce2e
-summary_for_tutor: "Teaches norm-setting as co-creation, not imposition. Trainee should leave with 3-5 candidate norms to propose and the specific Week-1 setup move that elicits the cohort's own version first."
-title: "Setting Norms — With the Cohort, Not At Them"
+summary_for_tutor: {--{"author":"Yatharth's AI","timestamp":1781165281140}@@"Teaches norm-setting--}{++{"author":"Yatharth's AI","timestamp":1781165281140}@@"Norm-setting++} as {--{"author":"Yatharth's AI","timestamp":1781165281140}@@co-creation, not imposition. Trainee should leave with 3-5 --}{++{"author":"Yatharth's AI","timestamp":1781165281140}@@co-creation run by the Week-1 template — the facilitator runs it, doesn't write it. Five ++}candidate norms {--{"author":"Yatharth's AI","timestamp":1781165281140}@@to propose and the specific Week-1 setup move that elicits the cohort's own version first."--}{++{"author":"Yatharth's AI","timestamp":1781165281140}@@with what each one solves, plus the Establishing Norms video. Text + video, no chat."++}
+title: {--{"author":"Yatharth's AI","timestamp":1781165281140}@@"Setting Norms — With the Cohort, Not At Them"--}{++{"author":"Yatharth's AI","timestamp":1781165281140}@@"3.3 Setting norms (in Week 1)"++}
 tldr: "The list that ends up on the doc, in the cohort's own language, is the one they'll use. The one you wrote in advance is not."
 authors:
   - Yatharth+Claude
