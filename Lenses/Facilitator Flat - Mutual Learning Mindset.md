@@ -28,7 +28,7 @@ Focus on:
 - The five values and what they look like in practice (pp. 6–8)
 - The role of the facilitator (pp. 10–11)
 
-When you've finished the reading, mark it complete and continue to the reflection below.
+When you've finished the reading, mark it complete and continue to the reflection below.{>>{"author":"Chris Lonsberry","timestamp":1781216088763}@@CGL > There's no prompt for the student here. What do you want them to talk to the tutor about?<<}
 
 #### Chat
 instructions::
