@@ -1,7 +1,7 @@
 ---
 id: 252e2b06-1ae6-4b2a-9a9c-2322fe5986f5
-summary_for_tutor: "Teaches what counts as high-value prep vs busywork. Target ceiling: 20-30 min per session. The trainee should leave knowing what to do and — equally important — what NOT to do."
-title: "Prep That Matters, Prep That's Busywork"
+summary_for_tutor: {--{"author":"Yatharth's AI","timestamp":1781165197966}@@"Teaches what counts as high-value prep--}{++{"author":"Yatharth's AI","timestamp":1781165197966}@@"High-value prep (20–30 min target)++} vs {--{"author":"Yatharth's AI","timestamp":1781165197966}@@busywork. Target ceiling: 20-30 min per session. The trainee should leave knowing what to do and — equally important — what NOT to do."--}{++{"author":"Yatharth's AI","timestamp":1781165197966}@@busywork, anchored on walking the meeting template — read with the participant's eye, note low-confidence spots, one backup plan, personalise the check-in in your own voice. Text-only section."++}
+title: {--{"author":"Yatharth's AI","timestamp":1781165197966}@@"Prep That Matters, Prep That's Busywork"--}{++{"author":"Yatharth's AI","timestamp":1781165197966}@@"3.1 Prep that matters, prep that's busywork"++}
 tldr: "You will be tempted to over-prepare. A 20-30 minute target ceiling does more for your sessions than 90 minutes of script-writing."
 authors:
   - Yatharth+Claude
