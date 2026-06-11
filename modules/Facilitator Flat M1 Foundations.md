@@ -1,7 +1,7 @@
 ---
 id: c424032f-edb6-4f74-8ab4-a30140054b1b
 slug: facilitator-m1-flat
-title: "Foundations — What Is a Facilitator?"
+title: "Foundations"
 discussion:
 readings:
   - "Bill Wilder — Instructor vs Facilitator (5 min)"
