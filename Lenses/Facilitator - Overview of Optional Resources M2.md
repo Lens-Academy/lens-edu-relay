@@ -10,7 +10,18 @@ tags:
 content::
 Optional resources for Module 2, for those who want to go deeper on the learning science.
 
-- **Video — Blended Learning & Flipped Classroom — Osmosis (5 min):** https://www.youtube.com/watch?v=paQCE58334M — Short video version of the flipped classroom case.
+{--{"author":"Yatharth's AI","timestamp":1781164739218}@@- **Video — --}{++{"author":"Yatharth's AI","timestamp":1781164739218}@@\## ++}Blended Learning & Flipped Classroom — Osmosis {--{"author":"Yatharth's AI","timestamp":1781164739218}@@(5 min):** https://www.youtube.com/watch?v=paQCE58334M — --}{++{"author":"Yatharth's AI","timestamp":1781164739218}@@(6 min)
+
+#### Video
+source:: [[../video_transcripts/osmosis-from-elsevier-blended-learning-flipped-classroom]]
+from:: 0:00
+to:: 6:08
+
+#### Text
+content::
+++}Short video version of the flipped classroom {--{"author":"Yatharth's AI","timestamp":1781164739218}@@case.--}{++{"author":"Yatharth's AI","timestamp":1781164739218}@@case — the same argument as the UTAS reading, in moving-picture form.
+
+\## More resources++}
 
 - **Video — The Active Learning Method — Sprouts Schools (10 min):** https://sproutsschools.com/active-learning/ — Refresher on active learning principles, connected to Carl Wieman's research.
 
