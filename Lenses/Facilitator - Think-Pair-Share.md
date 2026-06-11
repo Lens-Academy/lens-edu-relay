@@ -1,7 +1,7 @@
 ---
 id: eaf43963-2793-4b9d-992a-5c1ac40bb96c
-summary_for_tutor: "Teaches Think-Pair-Share as the default structural move. Trainee should leave able to describe the three steps with rough timings, name when to use it, and write a real opening question."
-title: "Think-Pair-Share — The Default Move"
+summary_for_tutor: {--{"author":"Yatharth's AI","timestamp":1781164710497}@@"Teaches--}{++{"author":"Yatharth's AI","timestamp":1781164710497}@@"Explains why the meeting templates are built the way they are, using++} Think-Pair-Share as the {--{"author":"Yatharth's AI","timestamp":1781164710497}@@default structural move. Trainee should leave able to describe --}{++{"author":"Yatharth's AI","timestamp":1781164710497}@@worked example. The trainee isn't deploying TPS from scratch — they're following templates — so ++}the {--{"author":"Yatharth's AI","timestamp":1781164710497}@@three steps with rough timings, name when--}{++{"author":"Yatharth's AI","timestamp":1781164710497}@@goal is understanding the structure well enough not++} to {--{"author":"Yatharth's AI","timestamp":1781164710497}@@use it,--}{++{"author":"Yatharth's AI","timestamp":1781164710497}@@flatten it++} and {--{"author":"Yatharth's AI","timestamp":1781164710497}@@write--}{++{"author":"Yatharth's AI","timestamp":1781164710497}@@to deviate intelligently when++} a {--{"author":"Yatharth's AI","timestamp":1781164710497}@@real opening question."--}{++{"author":"Yatharth's AI","timestamp":1781164710497}@@session goes off-plan."++}
+title: {--{"author":"Yatharth's AI","timestamp":1781164710497}@@"Think-Pair-Share — The Default Move"--}{++{"author":"Yatharth's AI","timestamp":1781164710497}@@"2.3 Why the meeting templates are built the way they are"++}
 tldr: "If you memorise one structural pattern from this whole course, make it this one. Three steps. Almost too simple."
 authors:
   - Yatharth+Claude
