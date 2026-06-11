@@ -1,7 +1,7 @@
 ---
 id: af13dbd2-0617-4d33-9663-74dbd6252b82
-summary_for_tutor: "Teaches the seven 'taking shares' moves and surfaces the trainee's default. Push Back is the under-used antidote to pleasant agreement; trainee should leave able to articulate when to use it and how it differs from disagreement."
-title: "Taking Shares — Seven Moves and When to Use Each"
+summary_for_tutor: {--{"author":"Yatharth's AI","timestamp":1781165771587}@@"Teaches--}{++{"author":"Yatharth's AI","timestamp":1781165771587}@@"The seven taking-shares moves via++} the {--{"author":"Yatharth's AI","timestamp":1781165771587}@@seven 'taking shares' moves and surfaces--}{++{"author":"Yatharth's AI","timestamp":1781165771587}@@Digges video, an AI-tutor recall quiz,++} the {--{"author":"Yatharth's AI","timestamp":1781165771587}@@trainee's default. Push Back is the under-used antidote to pleasant agreement; trainee should leave able to articulate when to use it and how it differs from disagreement."--}{++{"author":"Yatharth's AI","timestamp":1781165771587}@@range meta-skill, and an expanded treatment of pushback (clarification vs disagreement vs pushback, two techniques, the Ideological Turing Test). Text + video + recall-chat + text."++}
+title: {--{"author":"Yatharth's AI","timestamp":1781165771587}@@"Taking Shares — Seven Moves--}{++{"author":"Yatharth's AI","timestamp":1781165771587}@@"4.4 Taking shares: seven moves++} and {--{"author":"Yatharth's AI","timestamp":1781165771587}@@When--}{++{"author":"Yatharth's AI","timestamp":1781165771587}@@when++} to {--{"author":"Yatharth's AI","timestamp":1781165771587}@@Use Each"--}{++{"author":"Yatharth's AI","timestamp":1781165771587}@@use each"++}
 tldr: "Three seconds to choose. Seven options. The skill is range — and the most under-used move is push-back."
 authors:
   - Yatharth+Claude
