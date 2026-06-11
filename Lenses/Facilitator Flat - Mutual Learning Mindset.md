@@ -16,7 +16,7 @@ It has five values:
 4. **Accountability** — You're responsible for the space, even when participants make it difficult.
 5. **Compassion** — Including for yourself. You will mess this up sometimes.
 
-The opposing mindset — which most of us default to under pressure — is **unilateral control**: "I know what should happen here; my job is to make it happen." Unilateral control isn't always bad. Sometimes you really do need to cut someone off, or redirect, or make a call. But if you're operating from unilateral control as your default, you're not facilitating — you're chairing.
+The opposing mindset — which most of us default to under pressure — is **unilateral control**: "I know what should happen here; my job is to make it happen." Unilateral control isn't always bad{>>{"author":"Chris Lonsberry","timestamp":1781198490599}@@CGL > Keeping the timing on track during meetings often requires this.<<}. Sometimes you really do need to cut someone off, or redirect, or make a call. But if you're operating from unilateral control as your default, you're not facilitating — you're chairing.
 
 \## Read (12 min)
 
