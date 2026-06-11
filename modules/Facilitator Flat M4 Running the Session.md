@@ -1,7 +1,7 @@
 ---
 id: b71490ee-0705-48bc-a149-6afc34ed1ea8
 slug: facilitator-m4-flat
-title: "Running the Session — In-the-Moment Craft"
+title: "Running a Session — In-the-Moment Craft"
 discussion:
 readings:
   - "Sara Ness — Leadership Perspectives (9 min)"

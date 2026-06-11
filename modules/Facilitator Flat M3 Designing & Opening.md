@@ -1,7 +1,7 @@
 ---
 id: d41c9bcf-a016-420b-ab66-630fc64e0516
 slug: facilitator-m3-flat
-title: "Preparing to Facilitate a Session"
+title: "Preparing a Session"
 discussion:
 readings:
   - "Sara Ness — Establishing Norms and Agreements (12 min)"
