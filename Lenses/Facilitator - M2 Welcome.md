@@ -1,6 +1,6 @@
 ---
 id: d526907f-e5f5-415d-abc2-3cfd540e3fce
-title: "Facilitator M2 Welcome"
+title: {--{"author":"Yatharth's AI","timestamp":1781164654335}@@"Facilitator M2 Welcome"--}{++{"author":"Yatharth's AI","timestamp":1781164654335}@@"How People Learn — Why Discussions Work"++}
 tags:
   - lens
   - facilitator-training
