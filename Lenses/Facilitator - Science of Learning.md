@@ -1,7 +1,7 @@
 ---
 id: ecfbce83-8e15-473d-a14a-d9c084941895
-summary_for_tutor: "Teaches Kosslyn's six learning mechanisms. Trainee should leave able to name three and apply each to a facilitator move. This is the empirical case the trainee needs when participants ask why we don't recap the reading at the top."
-title: "The Science of Learning, in One Sitting"
+summary_for_tutor: "Teaches Kosslyn's six learning {--{"author":"Yatharth's AI","timestamp":1781164662156}@@mechanisms. Trainee should leave able to name three and apply each to a facilitator move. This is--}{++{"author":"Yatharth's AI","timestamp":1781164662156}@@mechanisms, then runs a short recall-then-connect reflection (reflection, not assessment — warm, 2–4 exchanges). The mechanisms are++} the empirical case the trainee needs when participants ask why we don't recap the reading at the top."
+title: {--{"author":"Yatharth's AI","timestamp":1781164662156}@@"The Science--}{++{"author":"Yatharth's AI","timestamp":1781164662156}@@"2.1 The science++} of {--{"author":"Yatharth's AI","timestamp":1781164662156}@@Learning,--}{++{"author":"Yatharth's AI","timestamp":1781164662156}@@learning,++} in {--{"author":"Yatharth's AI","timestamp":1781164662156}@@One Sitting"--}{++{"author":"Yatharth's AI","timestamp":1781164662156}@@one sitting"++}
 tldr: "Six mechanisms from cognitive science justify almost every move a facilitator makes. Know them, and you can defend the format when a participant questions it."
 authors:
   - Yatharth+Claude
