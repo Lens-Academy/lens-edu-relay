@@ -20,7 +20,7 @@ The opposing mindset — which most of us default to under pressure — is **uni
 
 \## Read (12 min)
 
-Read — **A Facilitator's Handbook**, pp. 4–13 — Curiosity Society (12 min) — https://drive.google.com/file/d/1BmRWqSIP0mDLPjxoafnLNOvJAUmC-Fxg/view {>>{"author":"Chris Lonsberry","timestamp":1781216448152}@@Took me 20 minutes (for thorough reading and taking some notes)<<}
+Read — **A Facilitator's Handbook**, pp. 4–13 — Curiosity Society (12 min) — https://drive.google.com/file/d/1BmRWqSIP0mDLPjxoafnLNOvJAUmC-Fxg/view {>>{"author":"Chris Lonsberry","timestamp":1781216448152}@@Took me 21 minutes (for thorough reading and taking some notes)<<}
 
 Focus on:
 
