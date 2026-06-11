@@ -8,9 +8,9 @@ tags:
 
 #### Text
 content::
-Optional resources for Module 3, for those who want to go deeper on opening and online facilitation.
+{--{"author":"Yatharth's AI","timestamp":1781212101032}@@Optional --}{++{"author":"Yatharth's AI","timestamp":1781212101032}@@These optional ++}resources {--{"author":"Yatharth's AI","timestamp":1781212101032}@@for Module 3, for those who want to go deeper on opening and online facilitation.
 
-\## Opening the Event — Sara Ness (6 min)
+\## Opening --}{++{"author":"Yatharth's AI","timestamp":1781212101032}@@are now listed individually at ++}the {--{"author":"Yatharth's AI","timestamp":1781212101032}@@Event — Sara Ness (6 min)
 
 #### Video
 source:: [[../video_transcripts/lens-academy-opening-the-event]]
@@ -19,7 +19,7 @@ to:: 5:59
 
 #### Text
 content::
-Two ingredients of an opening: safety (logistics, norms, purpose) and connection (to self, to others, to facilitator). Useful if you want a deeper sense of what the template's opening is doing.
+Two ingredients --}{++{"author":"Yatharth's AI","timestamp":1781212101032}@@end ++}of {--{"author":"Yatharth's AI","timestamp":1781212101032}@@an opening: safety (logistics, norms, purpose) and connection (to self, to others, to facilitator). Useful if you want a deeper sense of what the template's opening --}{++{"author":"Yatharth's AI","timestamp":1781212101032}@@this module, each as its own lens, so your progress on each ++}is {--{"author":"Yatharth's AI","timestamp":1781212101032}@@doing.
 
 \## Virtual Introductions — Sara Ness (5 min)
 
@@ -45,4 +45,4 @@ Broader treatment of the online medium and its affordances. Worth it if you've n
 
 \## Reference
 
-- **Question Archive — Check-in Success:** https://checkinsuccess.com/question-archive/ — Repository of opening / check-in / closing questions. Useful as a reference, not for designing your own check-ins.
+- **Question Archive — Check-in Success:** https://checkinsuccess.com/question-archive/ — Repository of opening / check-in / closing questions. Useful as a reference, not for designing your own check-ins.--}{++{"author":"Yatharth's AI","timestamp":1781212101032}@@tracked separately.++}

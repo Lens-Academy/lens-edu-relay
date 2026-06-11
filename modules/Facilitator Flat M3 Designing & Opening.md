@@ -28,5 +28,18 @@ source:: ![[../Lenses/Facilitator Flat - Setting Norms]]
 # Lens: 3.4 Online container moves
 source:: ![[../Lenses/Facilitator Flat - Online Container]]
 
-# Lens: Optional resources
-source:: ![[../Lenses/Facilitator Flat - Overview of Optional Resources M3]]
+# Lens: Optional {--{"author":"Yatharth's AI","timestamp":1781212074111}@@resources--}{++{"author":"Yatharth's AI","timestamp":1781212074111}@@— Opening the Event (Sara Ness, 6 min)
+optional:: true
+source:: ![[../Lenses/Facilitator Flat - M3 Opening the Event]]
+
+# Lens: Optional — Virtual Introductions (Sara Ness, 5 min)
+optional:: true
+source:: ![[../Lenses/Facilitator Flat - M3 Virtual Introductions]]
+
+# Lens: Optional — Facilitating Online (Sara Ness, 11 min)
+optional:: true++}
+source:: ![[../Lenses/Facilitator Flat - {--{"author":"Yatharth's AI","timestamp":1781212074111}@@Overview of--}{++{"author":"Yatharth's AI","timestamp":1781212074111}@@M3 Facilitating Online]]
+
+# Lens:++} Optional {--{"author":"Yatharth's AI","timestamp":1781212074111}@@Resources M3]]--}{++{"author":"Yatharth's AI","timestamp":1781212074111}@@— Question Archive (Check-in Success)
+optional:: true
+source:: ![[../Lenses/Facilitator Flat - M3 Question Archive]]++}
