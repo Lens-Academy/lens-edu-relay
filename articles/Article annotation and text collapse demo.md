@@ -6,15 +6,34 @@ source_url: https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.
 tags:
   - work-in-progress
 ---
-Which probably feels pretty normal…
 
-%%
-Types available:
-:collapse
 
-%%
+## Text collapsed from within an article file
+See for example this: :collapse[this text will be collapsed by default, but can be expanded by the user -] isn't that pretty nice?
 
-## Nested footnotes
+We can also collapse entire paragraphs:
+
+:::collapse
+This entire paragraph will be collapsed by default,
+
+but can be opened by the user
+:::
+
+For footnotes added by the article authors, we use markdown footnotes[^1].
+We can also add Lens-added footnotes, with :footnote[This is a footnote added by Lens].
+
+If we want an always-visible note, we can do :note[This is a note added by Lens] or we can do:
+::note[This is a note created with two colons `::`, which means it gets its own line.]
+
+Finally, we can do multi-line notes:
+:::note
+This is the first line of the note.
+This a second.
+
+This a third.
+:::
+
+By the way, feel free to put `note` fields inside of `collapse` fields, and to put `footnote` fields in either.
 
 %% A :::collapse field does the following: ... ... ...  %%
 :::collapse
@@ -293,3 +312,5 @@ _**Will it be a nice God?**_
 That's the topic of [Part 2 of this post](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html).
 
 _(Sources at the bottom of [Part 2](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html).)_
+
+[^1]: Hi. This is a footnote added by the author of the article.
