@@ -38,6 +38,8 @@ This is not a fourth. It is rendered at the same line as the third.
 
 By the way, feel free to put `note` fields inside of `collapse` fields, and to put `footnote` fields in either.
 
+Let us for example write 
+
 %% A :::collapse field does the following: ... ... ...  %%
 :::collapse
 ::note[We collaped this paragraph because we think it isn't relevant.]
