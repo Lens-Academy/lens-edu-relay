@@ -5,10 +5,7 @@ tags:
   - lens
   - work-in-progress
 ---
-#### Text
-content::
-Foo Bar
 
-%% The interesting stuff is what happens inside of that article:%%
+%% See inside the article file:%%
 #### Article
 source:: [[../articles/Article annotation and text collapse demo]]
