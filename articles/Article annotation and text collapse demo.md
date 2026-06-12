@@ -8,7 +8,8 @@ tags:
 ---
 
 
-## Text collapsed from within an article file
+This article demos how to use `collapse`, `note`, and `footnote` fields inside of articles. You can find the corresponding source code at https://editor.lensacademy.org/24abc9c0/Lens-Edu/articles/Article-annotation-and-text-collapse-demo.md.
+
 See for example this: :collapse[this text will be collapsed by default, but can be expanded by the user -] isn't that pretty nice?
 
 We can also collapse entire paragraphs:
