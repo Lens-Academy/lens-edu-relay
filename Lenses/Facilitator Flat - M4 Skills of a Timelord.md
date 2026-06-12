@@ -14,6 +14,4 @@ to:: 9:39
 
 #### Text
 content::
-Modifying exercises for different lengths of time.{--{"author":"Yatharth's AI","timestamp":1781213608211}@@
-
-*Video from [Authentic Revolution](https://authrev.org/)'s facilitator video library.*--}
+Modifying exercises for different lengths of time.

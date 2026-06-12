@@ -1,7 +1,7 @@
 ---
 id: c1a6fde7-6262-4862-ae67-95a1ee08d85c
-summary_for_tutor: {--{"author":"Yatharth's AI","timestamp":1781165664938}@@"Operationalises the four-perspectives frame from M1.4. Trainee should leave able to name--}{++{"author":"Yatharth's AI","timestamp":1781165664938}@@"The four perspectives held while running a session (self, individual, group, context),++} which {--{"author":"Yatharth's AI","timestamp":1781165664938}@@perspective they neglect AND have a concrete cue they'll use to widen the lens. This is the in-session version of the M1.4 frame."--}{++{"author":"Yatharth's AI","timestamp":1781165664938}@@one the trainee neglects, plus the Leadership Perspectives video. Text + video, ends with a quick self-test note. No chat."++}
-title: {--{"author":"Yatharth's AI","timestamp":1781165664938}@@"The Four Perspectives--}{++{"author":"Yatharth's AI","timestamp":1781165664938}@@"4.1 The four perspectives++} a {--{"author":"Yatharth's AI","timestamp":1781165664938}@@Facilitator Holds"--}{++{"author":"Yatharth's AI","timestamp":1781165664938}@@facilitator holds"++}
+summary_for_tutor: "The four perspectives held while running a session (self, individual, group, context), which one the trainee neglects, plus the Leadership Perspectives video. Text + video, ends with a quick self-test note. No chat."
+title: "4.1 The four perspectives a facilitator holds"
 tldr: "You're tracking four things at once — self, individual, group, context. The skill is widening the lens to all four. Rookies almost always drop one or two."
 authors:
   - Yatharth+Claude
@@ -11,12 +11,7 @@ tags:
 ---
 #### Text
 content::
-{--{"author":"Yatharth's AI","timestamp":1781165680387}@@\## Watch
-
-**Video — Leadership Perspectives — Sara Ness (9:14):** https://drive.google.com/file/d/1Axb8Y58maZcArJALH9vmWJ7TOh0RxxEz/view — Four points of view facilitators use to gather information about the group and adapt their actions.
-*Audio-only: https://drive.google.com/file/d/1PTkxVlpb9TECnfqtQE0zB5hXMt3C05b5/view · Transcript: https://drive.google.com/file/d/1SMKT4Ei8Vl-v6IK9lmFnVIdMc6z5gQn1/view*
-
-\## The four perspectives--}{++{"author":"Yatharth's AI","timestamp":1781165680387}@@While a session is running, you're tracking four things at once:++}
+While a session is running, you're tracking four things at once:
 
 | Perspective | The question you're asking |
 | :---- | :---- |
@@ -25,35 +20,22 @@ content::
 | **Group** | What's the energy? Who hasn't spoken? Is anyone visibly disengaged? |
 | **Context** | Where are we in the arc? How much time is left? Are we on the question we set out to discuss? |
 
-{--{"author":"Yatharth's AI","timestamp":1781165680387}@@Rookie--}{++{"author":"Yatharth's AI","timestamp":1781165680387}@@New++} facilitators {--{"author":"Yatharth's AI","timestamp":1781165680387}@@almost always --}{++{"author":"Yatharth's AI","timestamp":1781165680387}@@often ++}neglect one or two of these. The most commonly neglected:
+New facilitators often neglect one or two of these. The most commonly neglected:
 
 - **Self** — you're so focused on the participants that you stop noticing your own state. You're getting impatient or anxious, and it leaks into the room.
 - **Context** — you're so engaged in the conversation that you lose track of time. The session was supposed to land on Question C and you're still on Question A at minute 35.
 
-\##{--{"author":"Yatharth's AI","timestamp":1781165680387}@@ After
-
-Which of the four do you think you'll naturally neglect? Most people know within five seconds. Note it — that's your homework for your first few sessions, and the cue you set for catching it.--}{++{"author":"Yatharth's AI","timestamp":1781165680387}@@ Watch (10 min)
+\## Watch (10 min)
 
 #### Video
 source:: [[../video_transcripts/lens-academy-leadership-perspectives]]
 from:: 0:00
-to:: 9:14++}
+to:: 9:14
 
-#### {--{"author":"Yatharth's AI","timestamp":1781165680387}@@Chat--}{++{"author":"Yatharth's AI","timestamp":1781165680387}@@Text++}
-{--{"author":"Yatharth's AI","timestamp":1781165680387}@@instructions::--}{++{"author":"Yatharth's AI","timestamp":1781165680387}@@content::++}
-{--{"author":"Yatharth's AI","timestamp":1781165680387}@@The trainee has just watched the Leadership Perspectives video.
+#### Text
+content::
+*Four points of view facilitators use to gather information about the group and adapt their actions.*
 
-Learning outcome for this Lens: Name --}{++{"author":"Yatharth's AI","timestamp":1781165680387}@@*Four points of view facilitators use to gather information about ++}the {--{"author":"Yatharth's AI","timestamp":1781165680387}@@four facilitator perspectives, identify which they neglect, --}{++{"author":"Yatharth's AI","timestamp":1781165680387}@@group ++}and {--{"author":"Yatharth's AI","timestamp":1781165680387}@@pre-commit to one cue.--}{++{"author":"Yatharth's AI","timestamp":1781165680387}@@adapt their actions.*++}
+\## Self-test (1 min)
 
-{--{"author":"Yatharth's AI","timestamp":1781165680387}@@Key concepts:
-- Four perspectives: self, individual, group, context
-- Each has a specific question
-- Self and context are most commonly neglected by rookies
-- The cue must be concrete — a clock check, a glance at own face, a specific signal--}{++{"author":"Yatharth's AI","timestamp":1781165680387}@@\## Self-test (1 min)++}
-
-{--{"author":"Yatharth's AI","timestamp":1781165680387}@@Discussion guidance:
-- If they say "I'll just remember to check all four," push: that's not a cue, that's an intention. What's--}{++{"author":"Yatharth's AI","timestamp":1781165680387}@@> Which of++} the {--{"author":"Yatharth's AI","timestamp":1781165680387}@@trigger?
-- If their cue is too vague ("I'll be more aware") — sharpen. "What specifically tells --}{++{"author":"Yatharth's AI","timestamp":1781165680387}@@four do ++}you {--{"author":"Yatharth's AI","timestamp":1781165680387}@@to look?"
-- If they have time-related neglect, suggest the 10-and-25-minute check. If self-state neglect, the Zoom-tile self-glance.
-
-Probe: "What's the cost --}{++{"author":"Yatharth's AI","timestamp":1781165680387}@@think you'll naturally neglect? Most people know within five seconds. Note it — that's worth keeping an eye on ++}in{--{"author":"Yatharth's AI","timestamp":1781165680387}@@ a real session if you drop--} your {--{"author":"Yatharth's AI","timestamp":1781165680387}@@most-likely-to-neglect perspective for 15 minutes? Be specific."--}{++{"author":"Yatharth's AI","timestamp":1781165680387}@@first few sessions.++}
+> Which of the four do you think you'll naturally neglect? Most people know within five seconds. Note it — that's worth keeping an eye on in your first few sessions.

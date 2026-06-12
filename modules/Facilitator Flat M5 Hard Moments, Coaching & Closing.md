@@ -35,13 +35,13 @@ source:: ![[../Lenses/Facilitator Flat - Closing Well]]
 # Lens: Final exercise
 source:: ![[../Lenses/Facilitator Flat - M5 Closing Exercise]]
 
-# Lens: Optional {--{"author":"Yatharth's AI","timestamp":1781213707355}@@resources--}{++{"author":"Yatharth's AI","timestamp":1781213707355}@@— Naming the Elephant (Meg & Sara, 6 min)++}
-{++{"author":"Yatharth's AI","timestamp":1781213707355}@@optional:: true
-++}source:: ![[../Lenses/Facilitator Flat - {--{"author":"Yatharth's AI","timestamp":1781213707355}@@Overview of--}{++{"author":"Yatharth's AI","timestamp":1781213707355}@@M5 Naming the Elephant]]
-
-# Lens:++} Optional {--{"author":"Yatharth's AI","timestamp":1781213707355}@@Resources M5]]--}{++{"author":"Yatharth's AI","timestamp":1781213707355}@@— How to Get Feedback (Scott Young, 5 min)
+# Lens: Optional — Naming the Elephant (Meg & Sara, 6 min)
 optional:: true
-source:: ![[../Lenses/Facilitator Flat - M5 How to Get Feedback]]++}
+source:: ![[../Lenses/Facilitator Flat - M5 Naming the Elephant]]
+
+# Lens: Optional — How to Get Feedback (Scott Young, 5 min)
+optional:: true
+source:: ![[../Lenses/Facilitator Flat - M5 How to Get Feedback]]
 
 # Lens: You're done
 source:: ![[../Lenses/Facilitator Flat - M5 Youre Done]]

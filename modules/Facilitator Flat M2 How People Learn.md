@@ -27,7 +27,7 @@ source:: ![[../Lenses/Facilitator Flat - Think-Pair-Share]]
 # Lens: Closing exercise
 source:: ![[../Lenses/Facilitator Flat - M2 Closing Exercise]]
 
-# Lens: Optional {--{"author":"Yatharth's AI","timestamp":1781213703494}@@resources--}{++{"author":"Yatharth's AI","timestamp":1781213703494}@@— Blended Learning & Flipped Classroom (Osmosis, 6 min)
+# Lens: Optional — Blended Learning & Flipped Classroom (Osmosis, 6 min)
 optional:: true
 source:: ![[../Lenses/Facilitator Flat - M2 Blended Learning Flipped Classroom]]
 
@@ -35,10 +35,10 @@ source:: ![[../Lenses/Facilitator Flat - M2 Blended Learning Flipped Classroom]]
 optional:: true
 source:: ![[../Lenses/Facilitator Flat - M2 Active Learning Method]]
 
-# Lens: Optional — We All Teach: How to Do It Better (Noetel, 15 min)++}
-{++{"author":"Yatharth's AI","timestamp":1781213703494}@@optional:: true
-++}source:: ![[../Lenses/Facilitator Flat - {--{"author":"Yatharth's AI","timestamp":1781213703494}@@Overview of --}{++{"author":"Yatharth's AI","timestamp":1781213703494}@@M2 We All Teach]]
-
-# Lens: ++}Optional {--{"author":"Yatharth's AI","timestamp":1781213703494}@@Resources M2]]--}{++{"author":"Yatharth's AI","timestamp":1781213703494}@@— Top 10 Tips: Rapid Learner (Scott Young, 10 min)
+# Lens: Optional — We All Teach: How to Do It Better (Noetel, 15 min)
 optional:: true
-source:: ![[../Lenses/Facilitator Flat - M2 Rapid Learner Top 10 Tips]]++}
+source:: ![[../Lenses/Facilitator Flat - M2 We All Teach]]
+
+# Lens: Optional — Top 10 Tips: Rapid Learner (Scott Young, 10 min)
+optional:: true
+source:: ![[../Lenses/Facilitator Flat - M2 Rapid Learner Top 10 Tips]]

@@ -8,23 +8,4 @@ tags:
 
 #### Text
 content::
-{--{"author":"Yatharth's AI","timestamp":1781213716265}@@Optional --}{++{"author":"Yatharth's AI","timestamp":1781213716265}@@These optional ++}resources {--{"author":"Yatharth's AI","timestamp":1781213716265}@@for Module 2, for those who want to go deeper on --}{++{"author":"Yatharth's AI","timestamp":1781213716265}@@are now listed individually at ++}the{--{"author":"Yatharth's AI","timestamp":1781213716265}@@ learning science.
-
-\## Blended Learning & Flipped Classroom — Osmosis (6 min)
-
-#### Video
-source:: [[../video_transcripts/osmosis-from-elsevier-blended-learning-flipped-classroom]]
-from:: 0:00
-to:: 6:08
-
-#### Text
-content::
-Short video version--}{++{"author":"Yatharth's AI","timestamp":1781213716265}@@ end++} of{--{"author":"Yatharth's AI","timestamp":1781213716265}@@ the flipped classroom case — the same argument--}{++{"author":"Yatharth's AI","timestamp":1781213716265}@@ this module, each++} as {--{"author":"Yatharth's AI","timestamp":1781213716265}@@the UTAS reading, in moving-picture form.
-
-\## More resources
-
-- **Video — The Active Learning Method — Sprouts Schools (10 min):** https://sproutsschools.com/active-learning/ — Refresher--}{++{"author":"Yatharth's AI","timestamp":1781213716265}@@its own lens, so your progress++} on{--{"author":"Yatharth's AI","timestamp":1781213716265}@@ active learning principles, connected to Carl Wieman's research.
-
-- **Article — We All Teach: Here's How to Do It Better — Michael Noetel (15 min):** https://forum.effectivealtruism.org/posts/ZPNNnEu2HGNSNmifo/we-all-teach-here-s-how-to-do-it-better — Comprehensive run-down of evidence from the science of learning applied to course design and outreach.
-
-- **Article — Top 10 Tips — Rapid Learner — Scott Young (10 min):** https://drive.google.com/file/d/1xH-ZhuOrJZNjsQ9qChlBzz7a_S_m8lmO/view — Tips 1-7 are useful for understanding the learner's perspective on what works.--}{++{"author":"Yatharth's AI","timestamp":1781213716265}@@ each is tracked separately.++}
+These optional resources are now listed individually at the end of this module, each as its own lens, so your progress on each is tracked separately.

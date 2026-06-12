@@ -14,6 +14,4 @@ to:: 4:49
 
 #### Text
 content::
-Specifically online: how to begin powerfully when you can't shake hands.{--{"author":"Yatharth's AI","timestamp":1781213602209}@@
-
-*Video from [Authentic Revolution](https://authrev.org/)'s facilitator video library.*--}
+Specifically online: how to begin powerfully when you can't shake hands.

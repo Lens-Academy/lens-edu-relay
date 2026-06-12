@@ -14,6 +14,4 @@ to:: 5:47
 
 #### Text
 content::
-Calling out what's unspoken in the space.{--{"author":"Yatharth's AI","timestamp":1781213606451}@@
-
-*Video from [Authentic Revolution](https://authrev.org/)'s facilitator video library.*--}
+Calling out what's unspoken in the space.

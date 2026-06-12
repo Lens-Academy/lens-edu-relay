@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781166333324}@@---
+---
 id: dd704e0f-ecc6-4472-8c9f-9ac2cf9bd511
 title: "You're done"
 tags:
@@ -16,4 +16,3 @@ A few last things worth knowing:
 - **Be kind to yourself.** This is a craft. You will be bad at it before you are good at it. So is everyone.
 
 Good luck.
-++}

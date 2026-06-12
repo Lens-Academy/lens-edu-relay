@@ -23,10 +23,4 @@ Four polarities a leader can embody: directive–responsive, teaching–elicitin
 
 \## Article
 
-**We All Teach: Here's How to Do It Better — Michael Noetel (15 min)** — https://forum.effectivealtruism.org/posts/ZPNNnEu2HGNSNmifo/we-all-teach-here-s-how-to-do-it-better — Broader argument for why anyone running a discussion is, in effect, a teacher of a sort, and what the evidence says about doing it well.{--{"author":"Yatharth's AI","timestamp":1781166811919}@@
-
-> *(Resource on "lead from behind" to be added.)*
-
----
-
-*Video / audio / transcript resources from [Authentic Revolution](https://authrev.org/)'s facilitator video library (Sara Ness, Jason Digges, et al.).*--}
+**We All Teach: Here's How to Do It Better — Michael Noetel (15 min)** — https://forum.effectivealtruism.org/posts/ZPNNnEu2HGNSNmifo/we-all-teach-here-s-how-to-do-it-better — Broader argument for why anyone running a discussion is, in effect, a teacher of a sort, and what the evidence says about doing it well.
