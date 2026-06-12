@@ -7,24 +7,21 @@ tags:
 ---
 
 
-# Learning Outcome:
-source::
-[[../Learning Outcomes/trial for Testing|trial for Testing]]
 
-# Lens: Overview Lens
+# Lens: Linking to another lens
 id:: 83fac088-1e23-4249-98ce-604b3f7c65d8
 #### Text
 content::
-Let's see if we can now link to another article: [[../Lenses/Article annotation and text collapse demo]]. That should show a nice link. (hello worlds)
+We can use normal wikilinks inside the editor to link to other lenses: [[../Lenses/Article annotation and text collapse demo]]. This (probably) does require the lens that you're linking to, to also be part of the same module or course.
 
-And this should show a card:
+For a prettier UI, you can use `::card` before the wikilink.
 ::card[[../Lenses/Trial question and roleplay]]
 
 ::card[[../Lenses/A.I. - Humanity's Final Invention]]
 
-Let's see if that works!
-
-
+# Learning Outcome:
+source::
+[[../Learning Outcomes/trial for Testing|trial for Testing]]
 
 # Lens:
 source:: [[../Lenses/Article annotation and text collapse demo]]
