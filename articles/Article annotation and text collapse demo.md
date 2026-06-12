@@ -29,6 +29,7 @@ If we want an always-visible note, we can do :note[This is a note added by Lens]
 Finally, we can do multi-line notes:
 :::note
 This is the first line of the note.
+
 This a second.
 
 This a third.
