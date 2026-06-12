@@ -40,7 +40,7 @@ By the way, feel free to put `note` fields inside of `collapse` fields, and to p
 
 Let us for example write a collapsed field: :collapse[with a note inside :note[This is a note added by Lens. It could contain a brief explanation of why we collapsed this bit of text.]]
 
-Similar nested things work for notes, footn
+Similar nested things work for notes, and collapse blocks with two or three colons.
 
 And then what if, after dying, _he_ got jealous and wanted to do the same thing. If he went back 12,000 years to 24,000 BC and got a guy and brought him to 12,000 BC, he'd show the guy everything and the guy would be like, "Okay what's your point who cares." For the 12,000 BC guy to have the same fun, he'd have to go back over 100,000 years and get someone he could show fire and language to for the first time.
 
