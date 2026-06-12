@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781165993374}@@---
+---
 id: 7283f37f-6110-41a7-a6ba-2bcedc80a8ab
 title: "Practical exercise"
 tags:
@@ -15,4 +15,3 @@ Pick one of your next session's planned questions. For that question, write out:
 3. **One alternative move** that could also work, and what's different about choosing it.
 
 This is the difference between knowing the moves and being able to use them. You don't have to share this — even doing it for one question makes a difference in your first session.
-++}
