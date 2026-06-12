@@ -38,7 +38,9 @@ This is not a fourth. It is rendered at the same line as the third.
 
 By the way, feel free to put `note` fields inside of `collapse` fields, and to put `footnote` fields in either.
 
-Let us for example write a collapsed field: :collapse[with a note inside :note[]]
+Let us for example write a collapsed field: :collapse[with a note inside :note[This is a note added by Lens]]
+
+
 
 %% A :::collapse field does the following: ... ... ...  %%
 :::collapse
