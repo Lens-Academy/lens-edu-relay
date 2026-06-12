@@ -1,5 +1,5 @@
 ---
-title: "The AI Revolution: The Road to Superintelligence"
+title: "Article annotation and text collapse demo"
 author: Tim Urban
 published: 2015-01-22
 source_url: https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html
@@ -7,6 +7,12 @@ tags:
   - work-in-progress
 ---
 Which probably feels pretty normal…
+
+%%
+Types available:
+:collapse
+
+%%
 
 ## Nested footnotes
 
