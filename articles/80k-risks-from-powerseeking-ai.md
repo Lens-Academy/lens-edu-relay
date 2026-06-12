@@ -36,18 +36,6 @@ Preventing future power-seeking AIs from disempowering humanity is one of the mo
 
 In the years since we first encountered these arguments and advised people to work on the problem, the field has changed dramatically. AI has progressed rapidly, we think powerful systems are likely to [arrive sooner](https://80000hours.org/agi/guide/when-will-agi-arrive/) than we once thought, and the risks are more widely discussed. We think the threat from advanced AI systems remains, and empirical evidence (discussed in this article) has provided some support — though it’s far from definitive — for the concerns about power-seeking AI.
 
-### Our overall view
-
-#### Recommended - highest priority
-
-We think this is among the most pressing problems in the world.
-
-##### Profile depth
-
-In-depth
-
-This is one of many profiles we've written to help people find the most pressing problems they can solve with their careers. [Learn more](https://80000hours.org/career-guide/most-pressing-problems/) about how we compare different problems and see [how this problem compares to the others](https://80000hours.org/problem-profiles/) we've considered so far.
-
 ## Why are risks from power-seeking AI a pressing world problem?
 
 Hundreds of prominent AI scientists and other notable figures signed a statement in 2023 saying that mitigating [the risk of extinction from AI](https://safe.ai/work/statement-on-ai-risk) should be a global priority.
