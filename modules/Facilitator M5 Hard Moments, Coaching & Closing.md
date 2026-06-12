@@ -15,37 +15,37 @@ tags:
 ---
 
 # Submodule: Welcome
-# Lens: {--{"author":"Yatharth's AI","timestamp":1781166342306}@@M5 Welcome--}{++{"author":"Yatharth's AI","timestamp":1781166342306}@@Hard Moments, Coaching, and Closing++}
+# Lens: Hard Moments, Coaching, and Closing
 source:: ![[../Lenses/Facilitator - M5 Welcome]]
 
-# Submodule: 5.1 {--{"author":"Yatharth's AI","timestamp":1781166342306}@@- Default--}{++{"author":"Yatharth's AI","timestamp":1781166342306}@@Your default++} failure mode under pressure
-# {--{"author":"Yatharth's AI","timestamp":1781166342306}@@Learning Outcome: Facilitator - Default Failure Mode--}{++{"author":"Yatharth's AI","timestamp":1781166342306}@@Lens: 5.1 Your default failure mode under pressure++}
-source:: {--{"author":"Yatharth's AI","timestamp":1781166342306}@@![[../Learning Outcomes/Facilitator--}{++{"author":"Yatharth's AI","timestamp":1781166342306}@@![[../Lenses/Facilitator++} - Default Failure Mode]]
+# Submodule: 5.1 Your default failure mode under pressure
+# Lens: 5.1 Your default failure mode under pressure
+source:: ![[../Lenses/Facilitator - Default Failure Mode]]
 
-# Submodule: 5.2{--{"author":"Yatharth's AI","timestamp":1781166342306}@@ ---} Recovering in the moment
-# {--{"author":"Yatharth's AI","timestamp":1781166342306}@@Learning Outcome: Facilitator - --}{++{"author":"Yatharth's AI","timestamp":1781166342306}@@Lens: 5.2 ++}Recovering in the {--{"author":"Yatharth's AI","timestamp":1781166342306}@@Moment--}{++{"author":"Yatharth's AI","timestamp":1781166342306}@@moment++}
-source:: {--{"author":"Yatharth's AI","timestamp":1781166342306}@@![[../Learning Outcomes/Facilitator --}{++{"author":"Yatharth's AI","timestamp":1781166342306}@@![[../Lenses/Facilitator ++}- Recovering in the Moment]]
+# Submodule: 5.2 Recovering in the moment
+# Lens: 5.2 Recovering in the moment
+source:: ![[../Lenses/Facilitator - Recovering in the Moment]]
 
-# Submodule: 5.3{--{"author":"Yatharth's AI","timestamp":1781166342306}@@ ---} Handling challenging behaviours
-# {--{"author":"Yatharth's AI","timestamp":1781166342306}@@Learning Outcome: Facilitator - Challenging Behaviours--}{++{"author":"Yatharth's AI","timestamp":1781166342306}@@Lens: 5.3 Handling challenging behaviours++}
-source:: {--{"author":"Yatharth's AI","timestamp":1781166342306}@@![[../Learning Outcomes/Facilitator --}{++{"author":"Yatharth's AI","timestamp":1781166342306}@@![[../Lenses/Facilitator ++}- Challenging Behaviours]]
+# Submodule: 5.3 Handling challenging behaviours
+# Lens: 5.3 Handling challenging behaviours
+source:: ![[../Lenses/Facilitator - Challenging Behaviours]]
 
-# Submodule: 5.4 {--{"author":"Yatharth's AI","timestamp":1781166342306}@@- Coaching--}{++{"author":"Yatharth's AI","timestamp":1781166342306}@@Coaching: when participants come to you++} 1-on-1
-# {--{"author":"Yatharth's AI","timestamp":1781166342306}@@Learning Outcome: Facilitator - Coaching One-on-One--}{++{"author":"Yatharth's AI","timestamp":1781166342306}@@Lens: 5.4 Coaching: when participants come to you 1-on-1++}
-source:: {--{"author":"Yatharth's AI","timestamp":1781166342306}@@![[../Learning Outcomes/Facilitator--}{++{"author":"Yatharth's AI","timestamp":1781166342306}@@![[../Lenses/Facilitator++} - Coaching One-on-One]]
+# Submodule: 5.4 Coaching: when participants come to you 1-on-1
+# Lens: 5.4 Coaching: when participants come to you 1-on-1
+source:: ![[../Lenses/Facilitator - Coaching One-on-One]]
 
-# Submodule: 5.5 {--{"author":"Yatharth's AI","timestamp":1781166342306}@@- --}Closing well{++{"author":"Yatharth's AI","timestamp":1781166342306}@@ — the elegant finale++}
-# {--{"author":"Yatharth's AI","timestamp":1781166342306}@@Learning Outcome: Facilitator--}{++{"author":"Yatharth's AI","timestamp":1781166342306}@@Lens: 5.5 Closing well — the elegant finale
-source:: ![[../Lenses/Facilitator++} - Closing {--{"author":"Yatharth's AI","timestamp":1781166342306}@@Well--}{++{"author":"Yatharth's AI","timestamp":1781166342306}@@Well]]
+# Submodule: 5.5 Closing well — the elegant finale
+# Lens: 5.5 Closing well — the elegant finale
+source:: ![[../Lenses/Facilitator - Closing Well]]
 
 # Submodule: Final exercise
-# Lens: Final exercise++}
-source:: {--{"author":"Yatharth's AI","timestamp":1781166342306}@@![[../Learning Outcomes/Facilitator ---}{++{"author":"Yatharth's AI","timestamp":1781166342306}@@![[../Lenses/Facilitator - M5++} Closing {--{"author":"Yatharth's AI","timestamp":1781166342306}@@Well]]--}{++{"author":"Yatharth's AI","timestamp":1781166342306}@@Exercise]]++}
+# Lens: Final exercise
+source:: ![[../Lenses/Facilitator - M5 Closing Exercise]]
 
 # Submodule: Dive Deeper
-# Lens:{--{"author":"Yatharth's AI","timestamp":1781166342306}@@ Overview of--} Optional {--{"author":"Yatharth's AI","timestamp":1781166342306}@@Resources--}{++{"author":"Yatharth's AI","timestamp":1781166342306}@@resources++}
-source:: ![[../Lenses/Facilitator - Overview of Optional Resources M5]]{++{"author":"Yatharth's AI","timestamp":1781166342306}@@
+# Lens: Optional resources
+source:: ![[../Lenses/Facilitator - Overview of Optional Resources M5]]
 
 # Submodule: You're done
 # Lens: You're done
-source:: ![[../Lenses/Facilitator - M5 Youre Done]]++}
+source:: ![[../Lenses/Facilitator - M5 Youre Done]]
