@@ -38,7 +38,7 @@ This is not a fourth. It is rendered at the same line as the third.
 
 By the way, feel free to put `note` fields inside of `collapse` fields, and to put `footnote` fields in either.
 
-Let us for example write :collapse[]
+Let us for example write a collapsed field: :collapse[a collapsed v]
 
 %% A :::collapse field does the following: ... ... ...  %%
 :::collapse
