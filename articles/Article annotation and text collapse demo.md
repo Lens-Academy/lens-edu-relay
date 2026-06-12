@@ -33,6 +33,7 @@ This is the first line of the note.
 This a second.
 
 This a third.
+This is not a fourth. It is rendered at the same line as the third.
 :::
 
 By the way, feel free to put `note` fields inside of `collapse` fields, and to put `footnote` fields in either.
