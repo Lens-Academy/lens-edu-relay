@@ -38,31 +38,9 @@ This is not a fourth. It is rendered at the same line as the third.
 
 By the way, feel free to put `note` fields inside of `collapse` fields, and to put `footnote` fields in either.
 
-Let us for example write a collapsed field: :collapse[with a note inside :note[This is a note added by Lens]]
+Let us for example write a collapsed field: :collapse[with a note inside :note[This is a note added by Lens. It could contain a brief explanation of why we collapsed this bit of text.]]
 
-
-
-%% A :::collapse field does the following: ... ... ...  %%
-:::collapse
-::note[We collaped this paragraph because we think it isn't relevant.]
-Imagine taking a time machine back to 1750—a time when the world was in a permanent power outage, long-distance communication meant either yelling loudly or firing a cannon in the air, and all transportation ran on hay. When you get there, you retrieve a dude, bring him to 2015, and then walk him around and watch him react to everything. It's impossible for us to understand what it would be like for him to see shiny capsules racing by on a highway, talk to people who had been on the other side of the ocean earlier in the day, watch sports that were being played 1,000 miles away, hear a musical performance that happened 50 years ago, and play with my magical wizard rectangle that he could use to capture a real-life image or record a living moment, generate a map with a paranormal moving blue dot that shows him where he is, look at someone's face and chat with them even though they're on the other side of the country, and worlds of other inconceivable sorcery. This is all before you show him the internet or explain things like the International Space Station, the Large Hadron Collider, nuclear weapons, or general relativity. 
-:::
-
-This experience :collapse[for him wouldn't be surprising or shocking :note[This is a note inside of a collapse]] or even mind-blowing—those words aren't big enough. He might actually die.
-
-But here's the interesting thing :note[this is a note with one colon :footnote[This is a footnote inside of a note]]—if he then went back to 1750 and got jealous that we got to see his reaction and decided he wanted to try the same thing, he'd take the time machine and go back the same distance, get someone from around the year 1500, bring him to 1750, and show him everything. And the 1500 guy would be shocked by a lot of things—but he wouldn't die. It would be _far_ less of an insane experience for him, because while 1500 and 1750 were very different, they were _much_ _less_ different than 1750 to 2015. The 1500 guy would learn some mind-bending shit about space and physics, he'd be impressed with how committed Europe turned out to be with that new imperialism fad, and he'd have to do some major revisions of his world map conception. But watching everyday life go by in 1750—transportation, communication, etc.—definitely wouldn't make him die. dd
-
-::note[This is a note with two colons :footnote[This is a footnote inside of a note]]
-
-No, in order for the 1750 guy to have as much fun as we had with him, he'd have to go much farther back—maybe all the way back to about 12,000 BC:footnote[This is a footnote], before the First Agricultural Revolution gave rise to the first cities and to the concept of civilization. If someone from a purely hunter-gatherer world—from a time when humans were, more or less, just another animal species—saw the vast human empires of 1750 with their towering churches, their ocean-crossing ships, their concept of being "inside," and their enormous mountain of collective, accumulated human knowledge and discovery—he'd likely die.
-
-:::note
-This is a note with three colons
-
-It should support multiple paragraphs
-
-Like this. :footnote[This is a footnote inside of a note]
-:::
+Similar nested things work for notes, footn
 
 And then what if, after dying, _he_ got jealous and wanted to do the same thing. If he went back 12,000 years to 24,000 BC and got a guy and brought him to 12,000 BC, he'd show the guy everything and the guy would be like, "Okay what's your point who cares." For the 12,000 BC guy to have the same fun, he'd have to go back over 100,000 years and get someone he could show fire and language to for the first time.
 
