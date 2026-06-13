@@ -1,5 +1,5 @@
 ---
-title: "Machines of Loving Grace by Dario Amodei"
+title: "Machines of Loving Grace by Amodei"
 source_url: "https://darioamodei.com/essay/machines-of-loving-grace"
 author: Dario Amodei
 published: 2024-10
