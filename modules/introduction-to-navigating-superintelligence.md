@@ -10,8 +10,8 @@ id:: a1b2c3d4-5678-90ab-cdef-1234567890ab
 content::
 We begin by examining the potential of AI and the risks and opportunities that the characteristics of this technology present to humanity.
 
-# Learning Outcome:
-source:: [[../Learning Outcomes/Unknown intro outcome 1]] {>>{"author":"Luc","timestamp":1776179135989}@@This one needs a name<<}
+# Learning Outcome: {>>{"author":"Luc","timestamp":1776179135989}@@This one needs a name<<}
+source:: [[../Learning Outcomes/Unknown intro outcome 1]] 
 # Learning Outcome:
 source:: [[../Learning Outcomes/Objections L1 - Realize objections and rebuttals exist]]
 
