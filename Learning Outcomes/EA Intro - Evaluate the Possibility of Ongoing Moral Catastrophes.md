@@ -5,8 +5,8 @@ tags:
   - work-in-progress
 ---
 
-## Learning outcome:
-{>>TODO: write learning outcome statement — e.g. "Evaluate the possibility that currently accepted practices constitute ongoing moral catastrophes, using the framework from 'The Possibility of an Ongoing Moral Catastrophe'."<<}
+{--{"author":"AI","timestamp":1781468047521}@@## Learning outcome:
+--}{>>TODO: write learning outcome statement — e.g. "Evaluate the possibility that currently accepted practices constitute ongoing moral catastrophes, using the framework from 'The Possibility of an Ongoing Moral Catastrophe'."<<}
 
 ## Test:
 {>>TODO: write assessment question or task<<}

@@ -5,8 +5,8 @@ tags:
   - work-in-progress
 ---
 
-## Learning outcome:
-{>>TODO: write learning outcome statement — e.g. "Evaluate the 'hinge of history' hypothesis — the claim that we may be living at an unusually influential time — and explain what evidence bears on it."<<}
+{--{"author":"AI","timestamp":1781468045068}@@## Learning outcome:
+--}{>>TODO: write learning outcome statement — e.g. "Evaluate the 'hinge of history' hypothesis — the claim that we may be living at an unusually influential time — and explain what evidence bears on it."<<}
 
 ## Test:
 {>>TODO: write assessment question or task<<}
