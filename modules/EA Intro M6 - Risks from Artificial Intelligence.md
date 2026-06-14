@@ -7,13 +7,16 @@ tags:
   - ea-intro-program
   - work-in-progress
 ---
-# Lens: Welcome
+# {++{"author":"AI","timestamp":1781467517882}@@Submodule: Introduction
+# ++}Lens: Welcome
 id:: ab10213c-98ec-480d-877a-d798b08aeeb8
 
 #### Text
-content:: {>>TODO: add module welcome text (~97 min module)<<}
+content:: {>>TODO: add module welcome text (~97 min module)<<}{--{"author":"AI","timestamp":1781467517882}@@
 
-source:: ![[../Lenses/EA Intro - Risks from Artificial Intelligence Introduction]]
+--}{++{"author":"AI","timestamp":1781467517882}@@
+# Lens: Risks from Artificial Intelligence Introduction
+++}source:: ![[../Lenses/EA Intro - Risks from Artificial Intelligence Introduction]]
 
 # Submodule: The case for worrying about risks from artificial intelligence
 # Learning Outcome: EA Intro - Explain How Advanced AI Could Cause Catastrophe

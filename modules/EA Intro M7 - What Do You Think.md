@@ -7,13 +7,16 @@ tags:
   - ea-intro-program
   - work-in-progress
 ---
-# Lens: Welcome
+# {++{"author":"AI","timestamp":1781467521377}@@Submodule: Introduction
+# ++}Lens: Welcome
 id:: d5063485-e5ff-416c-b4a1-808ee7aed50b
 
 #### Text
-content:: {>>TODO: add module welcome text (~105 min module)<<}
+content:: {>>TODO: add module welcome text (~105 min module)<<}{--{"author":"AI","timestamp":1781467521377}@@
 
-source:: ![[../Lenses/EA Intro - What Do You Think Introduction]]
+--}{++{"author":"AI","timestamp":1781467521377}@@
+# Lens: What Do You Think Introduction
+++}source:: ![[../Lenses/EA Intro - What Do You Think Introduction]]
 
 # Submodule: Bayes' rule and evidence
 # Learning Outcome: EA Intro - Apply Bayes Rule to Update Beliefs
