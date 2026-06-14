@@ -5,8 +5,8 @@ tags:
   - work-in-progress
 ---
 
-## Learning outcome:
-{>>TODO: write learning outcome statement — e.g. "Identify concrete career and funding opportunities in AI safety and policy, and explain what makes certain roles especially high-impact."<<}
+{--{"author":"AI","timestamp":1781468139225}@@## Learning outcome:
+--}{>>TODO: write learning outcome statement — e.g. "Identify concrete career and funding opportunities in AI safety and policy, and explain what makes certain roles especially high-impact."<<}
 
 ## Test:
 {>>TODO: write assessment question or task<<}

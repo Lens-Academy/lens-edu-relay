@@ -5,8 +5,8 @@ tags:
   - work-in-progress
 ---
 
-## Learning outcome:
-{>>TODO: write learning outcome statement — e.g. "Identify at least three concrete lessons EA should take from recent failures (including FTX/SBF), and explain how they bear on how EA institutions and individuals should operate."<<}
+{--{"author":"AI","timestamp":1781468136641}@@## Learning outcome:
+--}{>>TODO: write learning outcome statement — e.g. "Identify at least three concrete lessons EA should take from recent failures (including FTX/SBF), and explain how they bear on how EA institutions and individuals should operate."<<}
 
 ## Test:
 {>>TODO: write assessment question or task<<}

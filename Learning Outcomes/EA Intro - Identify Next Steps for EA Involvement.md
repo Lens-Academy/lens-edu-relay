@@ -5,8 +5,8 @@ tags:
   - work-in-progress
 ---
 
-## Learning outcome:
-{>>TODO: write learning outcome statement — e.g. "Identify at least three concrete next steps for getting more involved in EA — including career advising, local groups, and EA Global events."<<}
+{--{"author":"AI","timestamp":1781468138004}@@## Learning outcome:
+--}{>>TODO: write learning outcome statement — e.g. "Identify at least three concrete next steps for getting more involved in EA — including career advising, local groups, and EA Global events."<<}
 
 ## Test:
 {>>TODO: write assessment question or task<<}

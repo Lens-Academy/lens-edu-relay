@@ -5,8 +5,8 @@ tags:
   - work-in-progress
 ---
 
-## Learning outcome:
-{>>TODO: write learning outcome statement — e.g. "Explain why some interventions (e.g. smallpox eradication) have had far greater impact than others, and what lessons this holds for how we direct resources."<<}
+{--{"author":"AI","timestamp":1781468132469}@@## Learning outcome:
+--}{>>TODO: write learning outcome statement — e.g. "Explain why some interventions (e.g. smallpox eradication) have had far greater impact than others, and what lessons this holds for how we direct resources."<<}
 
 ## Test:
 {>>TODO: write assessment question or task<<}

@@ -5,8 +5,8 @@ tags:
   - work-in-progress
 ---
 
-## Learning outcome:
-{>>TODO: write learning outcome statement — e.g. "Identify tractable strategies for improving animal welfare, including corporate campaigns, policy advocacy, and alternative proteins."<<}
+{--{"author":"AI","timestamp":1781468140626}@@## Learning outcome:
+--}{>>TODO: write learning outcome statement — e.g. "Identify tractable strategies for improving animal welfare, including corporate campaigns, policy advocacy, and alternative proteins."<<}
 
 ## Test:
 {>>TODO: write assessment question or task<<}
