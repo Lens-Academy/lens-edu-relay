@@ -5,8 +5,8 @@ tags:
   - work-in-progress
 ---
 
-## Learning outcome:
-{>>TODO: write learning outcome statement — e.g. "Explain hits-based giving — donating like a startup investor to high-risk, high-reward opportunities — and contrast it with evidence-based giving to proven interventions."<<}
+{--{"author":"AI","timestamp":1781468053100}@@## Learning outcome:
+--}{>>TODO: write learning outcome statement — e.g. "Explain hits-based giving — donating like a startup investor to high-risk, high-reward opportunities — and contrast it with evidence-based giving to proven interventions."<<}
 
 ## Test:
 {>>TODO: write assessment question or task<<}
