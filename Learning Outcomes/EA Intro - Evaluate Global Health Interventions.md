@@ -5,8 +5,7 @@ tags:
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1781468025443}@@## Learning outcome:
---}{>>TODO: write learning outcome statement — e.g. "Evaluate specific global health and poverty interventions using evidence-based criteria, and explain GiveWell's methodology for identifying highly effective charities."<<}
+{>>TODO: write learning outcome statement — e.g. "Evaluate specific global health and poverty interventions using evidence-based criteria, and explain GiveWell's methodology for identifying highly effective charities."<<}
 
 ## Test:
 {>>TODO: write assessment question or task<<}

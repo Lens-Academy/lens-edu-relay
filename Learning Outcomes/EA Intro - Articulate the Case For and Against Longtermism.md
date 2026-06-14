@@ -5,8 +5,7 @@ tags:
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1781467555583}@@## Learning outcome:
---}{>>TODO: write learning outcome statement — e.g. "Articulate the core case for longtermism and at least two serious objections to it, explaining why reasonable people disagree."<<}
+{>>TODO: write learning outcome statement — e.g. "Articulate the core case for longtermism and at least two serious objections to it, explaining why reasonable people disagree."<<}
 
 ## Test:
 {>>TODO: write assessment question or task<<}

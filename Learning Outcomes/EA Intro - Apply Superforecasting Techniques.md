@@ -5,8 +5,7 @@ tags:
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1781467538641}@@## Learning outcome:
---}{>>TODO: write learning outcome statement — e.g. "Apply superforecasting techniques — including reference classes, calibration, and updating on evidence — to reason carefully about uncertain future events."<<}
+{>>TODO: write learning outcome statement — e.g. "Apply superforecasting techniques — including reference classes, calibration, and updating on evidence — to reason carefully about uncertain future events."<<}
 
 ## Test:
 {>>TODO: write assessment question or task<<}
