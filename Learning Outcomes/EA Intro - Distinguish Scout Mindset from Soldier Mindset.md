@@ -5,8 +5,7 @@ tags:
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1781468019113}@@## Learning outcome:
---}{>>TODO: write learning outcome statement — e.g. "Distinguish scout mindset (seeking truth) from soldier mindset (defending prior beliefs), and explain how motivated reasoning shapes our judgment without our awareness."<<}
+{>>TODO: write learning outcome statement — e.g. "Distinguish scout mindset (seeking truth) from soldier mindset (defending prior beliefs), and explain how motivated reasoning shapes our judgment without our awareness."<<}
 
 ## Test:
 {>>TODO: write assessment question or task<<}
