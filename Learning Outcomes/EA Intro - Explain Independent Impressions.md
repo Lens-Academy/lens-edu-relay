@@ -5,8 +5,8 @@ tags:
   - work-in-progress
 ---
 
-## Learning outcome:
-{>>TODO: write learning outcome statement — e.g. "Explain why forming independent impressions matters for group epistemics, and describe the conditions under which deferring to consensus is or isn't appropriate."<<}
+{--{"author":"AI","timestamp":1781468125527}@@## Learning outcome:
+--}{>>TODO: write learning outcome statement — e.g. "Explain why forming independent impressions matters for group epistemics, and describe the conditions under which deferring to consensus is or isn't appropriate."<<}
 
 ## Test:
 {>>TODO: write assessment question or task<<}
