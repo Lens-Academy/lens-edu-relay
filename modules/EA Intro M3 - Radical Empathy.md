@@ -7,16 +7,14 @@ tags:
   - ea-intro-program
   - work-in-progress
 ---
-# {++{"author":"AI","timestamp":1781467501093}@@Submodule: Introduction
-# ++}Lens: Welcome
+# Submodule: Introduction
+# Lens: Welcome
 id:: f11f084a-9c32-4c35-8375-77158405a9f2
 
 #### Text
-content::{--{"author":"AI","timestamp":1781467501093}@@ 
-
---}{++{"author":"AI","timestamp":1781467501093}@@ 
+content:: 
 # Lens: Radical Empathy Introduction
-++}source:: ![[../Lenses/EA Intro - Radical Empathy Introduction]]
+source:: ![[../Lenses/EA Intro - Radical Empathy Introduction]]
 
 # Submodule: Impartiality and radical empathy
 # Learning Outcome: EA Intro - Explain Impartiality and Radical Empathy

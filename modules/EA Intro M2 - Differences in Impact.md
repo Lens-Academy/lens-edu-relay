@@ -7,16 +7,14 @@ tags:
   - ea-intro-program
   - work-in-progress
 ---
-# {++{"author":"AI","timestamp":1781467497651}@@Submodule: Introduction
-# ++}Lens: Welcome
+# Submodule: Introduction
+# Lens: Welcome
 id:: 698a0649-c5d2-4fd2-a22b-53429864368b
 
 #### Text
-content::{--{"author":"AI","timestamp":1781467497651}@@ 
-
---}{++{"author":"AI","timestamp":1781467497651}@@ 
+content:: 
 # Lens: Differences in Impact
-++}source:: ![[../Lenses/EA Intro - Differences in Impact]]
+source:: ![[../Lenses/EA Intro - Differences in Impact]]
 
 # Submodule: ITN framework
 # Learning Outcome: EA Intro - Apply the ITN Framework

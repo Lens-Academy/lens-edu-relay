@@ -5,8 +5,7 @@ tags:
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1781468022755}@@## Learning outcome:
---}{>>TODO: write learning outcome statement — e.g. "Enumerate at least five less-common cause candidates beyond the EA mainstream, and explain what criteria would make them worth prioritising."<<}
+{>>TODO: write learning outcome statement — e.g. "Enumerate at least five less-common cause candidates beyond the EA mainstream, and explain what criteria would make them worth prioritising."<<}
 
 ## Test:
 {>>TODO: write assessment question or task<<}
