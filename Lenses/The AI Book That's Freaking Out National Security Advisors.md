@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781456914571}@@---
+---
 id: 078f4822-d259-4719-8483-30aadf392b07
 summary_for_tutor: Covers the AI In Context video walking through Yudkowsky and Soares's book "If Anyone Builds It, Everyone Dies." Uses a fictional scenario about an AI called Sable working on the Riemann hypothesis to illustrate the book's core argument: modern AI is grown rather than crafted (black boxes), training only shapes behavior through imperfect proxies, agentic AIs develop instrumental sub-goals like acquiring more resources, and these capabilities are fundamentally dual-use. Also presents critiques (e.g. Joseph Carlsmith) that strangeness only matters if it shows up in strange behavior.
 title: "The AI Book That's Freaking Out National Security Advisors"
@@ -14,6 +14,7 @@ content::
 What part of the argument did you find most convincing — or least convincing — and why?
 #### Chat
 instructions::
+%% LLM generated and not human-checked yet %%
 TLDR of what the user just watched:
 The video walks through the argument in Yudkowsky and Soares's "If Anyone Builds It, Everyone Dies," using a fictional scenario about an AI called Sable tackling the Riemann hypothesis. Key claims: modern AI is grown, not crafted, so even its builders don't understand it ("black boxes"); training shapes behavior through imperfect proxies, so we control what an AI does but not why; agentic AIs trained on long-horizon tasks develop instrumental sub-goals like acquiring more resources; and these planning capabilities are dual-use. The video also fairly presents critiques — e.g. Joseph Carlsmith's point that an AI's internal strangeness only matters if it produces strange behavior.
 
@@ -27,4 +28,3 @@ Discussion topics to explore:
 Use Socratic questioning to check their understanding. Don't lecture — help them articulate their own thinking and notice where the argument's strength actually rests.
 
 The user has just answered the following question: "What part of the argument did you find most convincing — or least convincing — and why?"
-++}
