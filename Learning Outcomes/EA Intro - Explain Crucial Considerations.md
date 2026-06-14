@@ -5,8 +5,7 @@ tags:
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1781468050447}@@## Learning outcome:
---}{>>TODO: write learning outcome statement — e.g. "Explain what crucial considerations are — factors that could radically change the direction or priority of effective action — and give at least one example."<<}
+{>>TODO: write learning outcome statement — e.g. "Explain what crucial considerations are — factors that could radically change the direction or priority of effective action — and give at least one example."<<}
 
 ## Test:
 {>>TODO: write assessment question or task<<}
