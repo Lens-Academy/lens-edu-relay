@@ -5,8 +5,7 @@ tags:
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1781467498181}@@## Learning outcome:
---}{>>TODO: write learning outcome statement — e.g. "Apply expected value reasoning to evaluate interventions with low probability of very large impact, and explain the assumptions this requires."<<}
+{>>TODO: write learning outcome statement — e.g. "Apply expected value reasoning to evaluate interventions with low probability of very large impact, and explain the assumptions this requires."<<}
 
 ## Test:
 {>>TODO: write assessment question or task<<}
