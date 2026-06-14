@@ -5,8 +5,7 @@ tags:
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1781468130325}@@## Learning outcome:
---}{>>TODO: write learning outcome statement — e.g. "Explain why single-minded maximization is perilous in EA — including how it can lead to rationalized wrongdoing — and what character traits and institutional safeguards can counteract it."<<}
+{>>TODO: write learning outcome statement — e.g. "Explain why single-minded maximization is perilous in EA — including how it can lead to rationalized wrongdoing — and what character traits and institutional safeguards can counteract it."<<}
 
 ## Test:
 {>>TODO: write assessment question or task<<}

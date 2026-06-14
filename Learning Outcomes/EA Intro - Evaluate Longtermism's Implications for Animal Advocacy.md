@@ -5,8 +5,7 @@ tags:
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1781468029839}@@## Learning outcome:
---}{>>TODO: write learning outcome statement — e.g. "Evaluate what longtermism implies for animal advocacy — including how the long-run trajectory of sentient life bears on the moral importance of animal welfare today."<<}
+{>>TODO: write learning outcome statement — e.g. "Evaluate what longtermism implies for animal advocacy — including how the long-run trajectory of sentient life bears on the moral importance of animal welfare today."<<}
 
 ## Test:
 {>>TODO: write assessment question or task<<}

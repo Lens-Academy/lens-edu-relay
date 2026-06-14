@@ -5,8 +5,7 @@ tags:
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1781467561475}@@## Learning outcome:
---}{>>TODO: write learning outcome statement — e.g. "Describe the pattern of moral progress across history and explain the concept of 'Cause X' — the idea that our moral circle may still be missing something important."<<}
+{>>TODO: write learning outcome statement — e.g. "Describe the pattern of moral progress across history and explain the concept of 'Cause X' — the idea that our moral circle may still be missing something important."<<}
 
 ## Test:
 {>>TODO: write assessment question or task<<}
