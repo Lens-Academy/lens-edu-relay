@@ -12,7 +12,7 @@ id:: 171bf51b-9a78-446f-bcca-0234c08dfe89
 
 #### Text
 content:: 
-TODO: add module welcome text
+
 source:: ![[../Lenses/EA Intro - About This Handbook]]
 source:: ![[../Lenses/EA Intro - The Effectiveness Mindset (Dalton)]]
 # Submodule: On effective altruism
