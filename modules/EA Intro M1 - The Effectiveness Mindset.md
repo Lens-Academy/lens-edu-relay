@@ -7,14 +7,18 @@ tags:
   - ea-intro-program
   - work-in-progress
 ---
-# Lens: Welcome
+# {++{"author":"AI","timestamp":1781467494801}@@Submodule: Introduction
+# ++}Lens: Welcome
 id:: 171bf51b-9a78-446f-bcca-0234c08dfe89
 
 #### Text
-content:: 
+content::{--{"author":"AI","timestamp":1781467494801}@@ 
 
-source:: ![[../Lenses/EA Intro - About This Handbook]]
-source:: ![[../Lenses/EA Intro - The Effectiveness Mindset (Dalton)]]
+--}{++{"author":"AI","timestamp":1781467494801}@@ 
+# Lens: About This Handbook
+++}source:: ![[../Lenses/EA Intro - About This Handbook]]
+{++{"author":"AI","timestamp":1781467494801}@@# Lens: The Effectiveness Mindset (Dalton)
+++}source:: ![[../Lenses/EA Intro - The Effectiveness Mindset (Dalton)]]
 # Submodule: On effective altruism
 # Learning Outcome: EA Intro - Explain What Effective Altruism Is
 source:: ![[../Learning Outcomes/EA Intro - Explain What Effective Altruism Is]]
