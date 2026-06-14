@@ -6,7 +6,7 @@ discussion: https://discord.com/channels/1440725236843806762/1465348335249522768
 
 
 ## Lens:
-source:: [[../video_transcripts/ai-in-context-the-ai-book-thats-freaking-out-national-security-advisors-Nl7-bRFSZBs]]
+source:: [[lenses/freaking]]
 
 ## Lens:
 source::
