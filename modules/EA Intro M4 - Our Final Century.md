@@ -7,13 +7,15 @@ tags:
   - ea-intro-program
   - work-in-progress
 ---
-# Lens: Welcome
+# {++{"author":"AI","timestamp":1781467504159}@@Submodule: Introduction
+# ++}Lens: Welcome
 id:: cbaba3f4-72e6-4d8f-af37-049fdfafcf05
 
 #### Text
-content:: {>>TODO: add module welcome text (~49 min module)<<}
+content:: {>>TODO: add module welcome text (~49 min module)<<}{--{"author":"AI","timestamp":1781467504159}@@
 
-## Lens:
+##--}{++{"author":"AI","timestamp":1781467504159}@@
+#++} Lens:{++{"author":"AI","timestamp":1781467504159}@@ Our Final Century Introduction++}
 source:: ![[../Lenses/EA Intro - Our Final Century Introduction]]
 
 # Submodule: Existential risks

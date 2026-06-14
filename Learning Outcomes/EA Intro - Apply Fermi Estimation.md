@@ -5,8 +5,8 @@ tags:
   - work-in-progress
 ---
 
-## Learning outcome:
-{>>TODO: write learning outcome statement — e.g. "Apply Fermi estimation to produce rough-but-useful quantitative assessments of intervention size and impact."<<}
+{--{"author":"AI","timestamp":1781467499268}@@## Learning outcome:
+--}{>>TODO: write learning outcome statement — e.g. "Apply Fermi estimation to produce rough-but-useful quantitative assessments of intervention size and impact."<<}
 
 ## Test:
 {>>TODO: write assessment question or task<<}
