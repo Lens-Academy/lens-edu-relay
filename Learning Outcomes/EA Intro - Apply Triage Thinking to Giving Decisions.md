@@ -5,8 +5,8 @@ tags:
   - work-in-progress
 ---
 
-## Learning outcome:
-{>>TODO: write learning outcome statement — e.g. "Apply triage thinking to giving decisions — recognising that every choice involves trade-offs and that inaction is itself a choice with costs."<<}
+{--{"author":"AI","timestamp":1781467540463}@@## Learning outcome:
+--}{>>TODO: write learning outcome statement — e.g. "Apply triage thinking to giving decisions — recognising that every choice involves trade-offs and that inaction is itself a choice with costs."<<}
 
 ## Test:
 {>>TODO: write assessment question or task<<}
