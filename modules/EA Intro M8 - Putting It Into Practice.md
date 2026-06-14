@@ -7,16 +7,14 @@ tags:
   - ea-intro-program
   - work-in-progress
 ---
-# {++{"author":"AI","timestamp":1781467524639}@@Submodule: Introduction
-# ++}Lens: Welcome
+# Submodule: Introduction
+# Lens: Welcome
 id:: 49556802-217e-48c9-93f1-c213ca655a86
 
 #### Text
-content:: {>>TODO: add module welcome text (~51 min module)<<}{--{"author":"AI","timestamp":1781467524639}@@
-
---}{++{"author":"AI","timestamp":1781467524639}@@
+content:: {>>TODO: add module welcome text (~51 min module)<<}
 # Lens: Putting It Into Practice Introduction
-++}source:: ![[../Lenses/EA Intro - Putting It Into Practice Introduction]]
+source:: ![[../Lenses/EA Intro - Putting It Into Practice Introduction]]
 
 # Submodule: Attitudes to doing good
 # Learning Outcome: EA Intro - Identify Next Steps for EA Involvement
