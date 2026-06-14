@@ -28,7 +28,7 @@ Focus on:
 - The five values and what they look like in practice (pp. 6–8)
 - The role of the facilitator (pp. 10–11){>>{"author":"Chris Lonsberry","timestamp":1781216418569}@@These focus points don't seem to actually track with the reading. Hallucinated?<<}{>>{"author":"Ignacio","timestamp":1781461645214}@@Agreed, they seem hallucinated. It seems that "The role of the facilitator" is in page 4, but the rest don't seem to be explicitly mentioned.<<}
 
-When you've finished the reading, mark it complete and continue to the reflection below.{>>{"author":"Chris Lonsberry","timestamp":1781216088763}@@CGL > There's no prompt for the student here. What do you want them to talk to the tutor about?<<}
+When you've finished the reading, mark it complete and continue to the reflection below.{>>{"author":"Chris Lonsberry","timestamp":1781216088763}@@CGL > There's no prompt for the student here. What do you want them to talk to the tutor about?<<}{>>{"author":"Ignacio","timestamp":1781461788970}@@I agree it's not clear for the student how to start this. I wrote "Help me reflect on this material" and the tutor correctly asked the first prompt.<<}
 
 #### Chat
 instructions::
