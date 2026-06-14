@@ -5,8 +5,7 @@ tags:
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1781468135268}@@## Learning outcome:
---}{>>TODO: write learning outcome statement — e.g. "Identify failures of scope sensitivity in moral intuition, and explain why caring about large numbers requires deliberate effort rather than natural feeling."<<}
+{>>TODO: write learning outcome statement — e.g. "Identify failures of scope sensitivity in moral intuition, and explain why caring about large numbers requires deliberate effort rather than natural feeling."<<}
 
 ## Test:
 {>>TODO: write assessment question or task<<}

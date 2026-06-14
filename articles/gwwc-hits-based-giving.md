@@ -1,6 +1,6 @@
 ---
-title: "Donating like a startup investor: Hits-based giving, explained"{++{"author":"AI","timestamp":1781468176966}@@
-allowAuthorInTitle: true++}
+title: "Donating like a startup investor: Hits-based giving, explained"
+allowAuthorInTitle: true
 source_url: https://www.givingwhatwecan.org/blog/donating-like-a-startup-investor-hits-based-giving-explained
 author:
   - Giving What We Can

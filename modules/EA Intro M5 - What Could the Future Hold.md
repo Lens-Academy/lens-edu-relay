@@ -7,16 +7,14 @@ tags:
   - ea-intro-program
   - work-in-progress
 ---
-# {++{"author":"AI","timestamp":1781467513753}@@Submodule: Introduction
-# ++}Lens: Welcome
+# Submodule: Introduction
+# Lens: Welcome
 id:: c0760b34-1eee-46ce-9c4b-004a45c7d68b
 
 #### Text
-content:: {>>TODO: add module welcome text (~67 min module)<<}{--{"author":"AI","timestamp":1781467513753}@@
-
---}{++{"author":"AI","timestamp":1781467513753}@@
+content:: {>>TODO: add module welcome text (~67 min module)<<}
 # Lens: What Could the Future Hold Introduction
-++}source:: ![[../Lenses/EA Intro - What Could the Future Hold Introduction]]
+source:: ![[../Lenses/EA Intro - What Could the Future Hold Introduction]]
 
 # Submodule: The case for and against longtermism
 # Learning Outcome: EA Intro - Articulate the Case For and Against Longtermism

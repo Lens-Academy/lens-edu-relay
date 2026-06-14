@@ -5,8 +5,7 @@ tags:
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1781468127806}@@## Learning outcome:
---}{>>TODO: write learning outcome statement — e.g. "Explain what s-risks (suffering risks) are, why they might be considered the worst class of existential risk, and what strategies exist to reduce them."<<}
+{>>TODO: write learning outcome statement — e.g. "Explain what s-risks (suffering risks) are, why they might be considered the worst class of existential risk, and what strategies exist to reduce them."<<}
 
 ## Test:
 {>>TODO: write assessment question or task<<}

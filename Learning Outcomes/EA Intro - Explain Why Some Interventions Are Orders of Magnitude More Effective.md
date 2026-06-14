@@ -5,8 +5,7 @@ tags:
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1781468131438}@@## Learning outcome:
---}{>>TODO: write learning outcome statement — e.g. "Explain why some charities are orders of magnitude more effective than others, and identify the factors that drive these differences."<<}
+{>>TODO: write learning outcome statement — e.g. "Explain why some charities are orders of magnitude more effective than others, and identify the factors that drive these differences."<<}
 
 ## Test:
 {>>TODO: write assessment question or task<<}
