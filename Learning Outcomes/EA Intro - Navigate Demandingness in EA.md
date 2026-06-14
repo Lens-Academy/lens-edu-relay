@@ -5,8 +5,8 @@ tags:
   - work-in-progress
 ---
 
-## Learning outcome:
-{>>TODO: write learning outcome statement — e.g. "Navigate the tension between EA's demanding implications and personal sustainability, and explain why having multiple goals is both permissible and pragmatically important."<<}
+{--{"author":"AI","timestamp":1781468141991}@@## Learning outcome:
+--}{>>TODO: write learning outcome statement — e.g. "Navigate the tension between EA's demanding implications and personal sustainability, and explain why having multiple goals is both permissible and pragmatically important."<<}
 
 ## Test:
 {>>TODO: write assessment question or task<<}
