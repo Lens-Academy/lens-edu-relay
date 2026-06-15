@@ -38,7 +38,7 @@ Obsidian → Relay → staging branch → PR → main branch → Production
 
 This is implemented as shown below:
 #### Modules
-e.g. `Lens Educational Content/Modules/module.md`
+e.g. `Lens {--{"author":"Elias's AI","timestamp":1781552244440}@@Educational Content/Modules/module.md`--}{++{"author":"Elias's AI","timestamp":1781552244440}@@Edu/modules/module.md`++}
 Required frontmatter: `slug`, `title`, `id`
 
 Any number of
@@ -64,7 +64,7 @@ source:: [[link to Lens note]]
 ```
 
 #### Learning Outcomes
-e.g. `Lens Educational Content/Learning Outcomes/learning-outcome.md`
+e.g. `Lens {--{"author":"Elias's AI","timestamp":1781552246659}@@Educational Content/Learning--}{++{"author":"Elias's AI","timestamp":1781552246659}@@Edu/Learning++} Outcomes/learning-outcome.md`
 Required frontmatter: `id`
 
 Any number of
