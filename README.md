@@ -64,7 +64,7 @@ source:: [[link to Lens note]]
 ```
 
 #### Learning Outcomes
-e.g. `Lens {--{"author":"Elias's AI","timestamp":1781552246659}@@Educational Content/Learning--}{++{"author":"Elias's AI","timestamp":1781552246659}@@Edu/Learning++} Outcomes/learning-outcome.md`
+e.g. `Lens Edu/Learning Outcomes/learning-outcome.md`
 Required frontmatter: `id`
 
 Any number of
