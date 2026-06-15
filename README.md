@@ -38,7 +38,7 @@ Obsidian → Relay → staging branch → PR → main branch → Production
 
 This is implemented as shown below:
 #### Modules
-e.g. `Lens {--{"author":"Elias's AI","timestamp":1781552244440}@@Educational Content/Modules/module.md`--}{++{"author":"Elias's AI","timestamp":1781552244440}@@Edu/modules/module.md`++}
+e.g. `Lens Edu/modules/module.md`
 Required frontmatter: `slug`, `title`, `id`
 
 Any number of
