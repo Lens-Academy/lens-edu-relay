@@ -84,7 +84,7 @@ Example:
 ```
 
 #### Lenses
-e.g. `Lens Educational Content/Lenses/lens.md`
+e.g. `Lens {--{"author":"Elias's AI","timestamp":1781552248787}@@Educational Content/Lenses/lens.md`--}{++{"author":"Elias's AI","timestamp":1781552248787}@@Edu/Lenses/lens.md`++}
 Required frontmatter: `id`
 
 Lenses are flat: frontmatter + H4 segments. No H3 section headers.
