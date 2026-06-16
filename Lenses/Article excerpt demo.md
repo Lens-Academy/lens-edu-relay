@@ -23,7 +23,7 @@ to:: "moment question."
 %% You can also add multiple article excerpts in a row. %%
 #### Article
 from:: "In 1951, foundational computer scientist"
-to:: {--{"author":"Luc's AI","timestamp":1781589552089}@@"take control, in the way that is mentioned"--}{++{"author":"Luc's AI","timestamp":1781589552089}@@"Erewhon](https://en.wikipedia.org/wiki/Erewhon \"Erewhon\")_"++}
+to:: "Erewhon](https://en.wikipedia.org/wiki/Erewhon \"Erewhon\")_"
 
 #### Chat
 instructions::
