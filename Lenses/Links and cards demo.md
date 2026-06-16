@@ -13,6 +13,6 @@ We can use normal wikilinks inside the editor to link to other lenses: [[../Lens
 For a prettier UI, you can use `::card` before the wikilink.
 ::card[[Question demo]]
 
-{++{"author":"Luc's AI","timestamp":1781587149168}@@::card[[Roleplay demo]]
+::card[[Roleplay demo]]
 
-++}::card[[video demo]]
+::card[[video demo]]
