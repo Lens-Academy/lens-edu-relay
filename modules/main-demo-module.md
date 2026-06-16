@@ -76,4 +76,4 @@ source:: [[../Lenses/Roleplay demo]]
 optional:: true
 source:: [[../Lenses/Links and cards demo]]
 
-%% When done, return to the course [[../courses/Demo Course]] )
+%% When done, return to the course [[../courses/Demo Course]])%% 
