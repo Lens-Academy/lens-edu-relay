@@ -6,7 +6,10 @@ tags:
   - work-in-progress
 ---
 
-%% Welcome. A module primarily contains lenses and learning outcomes.%% 
+%% Welcome. A module primarily contains lenses and learning outcomes.
+
+Anything in-between double percentage marks is treated as a comment, and is ignored by our website. %% 
+
 # Lens: Basic Example
 id:: 83fac088-1e23-4249-98ce-604b3f7c65d8
 
@@ -22,9 +25,7 @@ This is a demo chat segment. In real course content, use this field to tell the 
 # Lens: An imported lens
 source:: [[../Lenses/Article excerpt demo]]
 
-%% This section imports a lens from an external file instead of defining it inside the module file. The benefit is that we can reuse the same lens in different modules without copying its source text. Importing lenses is usually preferred over defining them inside. %%
-
-%% Anything in-between double percentage marks is treated as a comment, and is ignored by our website. %%
+%% This section imports a lens from an external file instead of defining it inside the module file. The benefit is that we can reuse the same lens in different modules without copying its source text. Importing lenses is usually preferred over defining them directly in the module. %%
 
 # Learning Outcome:
 source:: [[../Learning Outcomes/Learning Outcome Demo|Demo learning outcome]]
