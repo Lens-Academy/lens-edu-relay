@@ -49,6 +49,12 @@ source:: [[../Learning Outcomes/Learning Outcome Demo|Demo learning outcome]]
 ## Lens:
 source:: [[../Lenses/Article excerpt demo]]
 
+%% Now look at this one: %%
+# Lens:
+source:: [[../Lenses/Article annotation and text collapse demo]]
+
+%% You've now seen how you can add annotations and collapsed sections from within Article files, as well as define from:: and to:: inside Lenses. Note that `::collapse` and `from::`/`to::` show up in the same way to the user. Any text that's collapsed by them is hidden behind ellipsis that the user can click on to see the collapsed text. %%
+
 %% After looking at that lens, look at the following Lens, demoing a video: %%
 # Lens:
 source:: [[../Lenses/video demo]]
@@ -56,12 +62,6 @@ source:: [[../Lenses/video demo]]
 %% You can also mix segment types in one lens. This next lens does article, video, article: %%
 # Lens:
 source:: [[../Lenses/Article video article demo]]
-
-%% Now look at this one: %%
-# Lens:
-source:: [[../Lenses/Article annotation and text collapse demo]]
-
-%% You've now seen how you can add annotations and collapsed sections from within Article files, as well as define from:: and to:: inside Lenses. Note that `::collapse` and `from::`/`to::` show up in the same way to the user. Any text that's collapsed by them is hidden behind ellipsis that the user can click on to see the collapsed text. %%
 
 %% You may have already seen a #### Question field inside of the Learning Outcome Demo. We can also add those fields inside lenses. They then serve as practice, instead of as a test. The UX is very similar.%%
 # Lens:
@@ -76,3 +76,4 @@ source:: [[../Lenses/Roleplay demo]]
 optional:: true
 source:: [[../Lenses/Links and cards demo]]
 
+%% When done, return to the course [[../courses/Demo Course]] )
