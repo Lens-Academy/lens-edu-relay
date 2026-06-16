@@ -1,9 +1,6 @@
 ---
 id: 8189763f-576e-4f04-a614-4a00c628e386
 title: Question demo
-tags:
-  - lens
-  - work-in-progress
 ---
 
 #### Text

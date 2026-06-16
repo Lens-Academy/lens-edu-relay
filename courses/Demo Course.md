@@ -2,8 +2,6 @@
 id: 93a2780d-b904-40f5-987d-081e722a6743
 slug: demo
 title: Demo
-tags:
-  - work-in-progress
 ---
 
 %% 

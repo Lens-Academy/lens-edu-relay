@@ -2,9 +2,9 @@
 id: aaed6749-9d79-4345-830e-47b4fa050981
 slug: demo-hidden-imports
 title: Hidden imports demo
-tags:
+{--{"author":"Luc's AI","timestamp":1781588695006}@@tags:
   - work-in-progress
----
+--}---
 
 %% Sometimes you want a lens to be available for links or cards without showing it as a step that's part of the linear progression for the user.
 

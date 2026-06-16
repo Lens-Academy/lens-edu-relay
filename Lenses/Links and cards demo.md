@@ -1,9 +1,6 @@
 ---
 id: 39b2fd39-a53b-48cf-a388-a8f088aabf43
 title: Links and cards demo
-tags:
-  - lens
-  - work-in-progress
 ---
 
 #### Text

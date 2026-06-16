@@ -1,9 +1,6 @@
 ---
 id: 4840b801-3dd7-48f7-a2b3-fc0e1d49e18d
 title: Roleplay demo
-tags:
-  - lens
-  - work-in-progress
 ---
 
 #### Text

@@ -2,8 +2,6 @@
 id: f97b4ad0-7fcf-408c-835a-a0aca0be9e9b
 slug: demo-basics
 title: Demo basics
-tags:
-  - work-in-progress
 ---
 
 %% A module contains lenses and learning outcomes.%% 
