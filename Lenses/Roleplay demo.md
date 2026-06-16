@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781587148410}@@---
+---
 id: 4840b801-3dd7-48f7-a2b3-fc0e1d49e18d
 title: Roleplay demo
 tags:
@@ -19,4 +19,4 @@ user-customizable:: true
 assessment-instructions:: Evaluate whether the learner clearly explains the purpose of the feature and responds constructively to pushback.
 feedback:: true
 
-%% `content::` tells the learner what situation they're in. `ai-instructions::` tells the roleplay character how to behave. `opening-message::` is the first thing the character says. %%++}
+%% `content::` tells the learner what situation they're in. `ai-instructions::` tells the roleplay character how to behave. `opening-message::` is the first thing the character says. %%

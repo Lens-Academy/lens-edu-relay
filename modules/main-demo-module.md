@@ -53,6 +53,10 @@ source:: [[../Lenses/Article excerpt demo]]
 # Lens:
 source:: [[../Lenses/video demo]]
 
+%% You can also mix segment types in one lens. This next lens does article, video, article: %%
+# Lens:
+source:: [[../Lenses/Article video article demo]]
+
 %% Now look at this one: %%
 # Lens:
 source:: [[../Lenses/Article annotation and text collapse demo]]
