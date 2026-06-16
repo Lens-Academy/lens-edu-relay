@@ -23,10 +23,17 @@ instructions::
 This is a demo chat segment. In real course content, use this field to tell the tutor what the learner just saw and what kind of conversation would be helpful next.
 
 # Lens: An imported lens
-source:: [[../Lenses/Article excerpt demo]]
+source:: [[../Lenses/Dummy lens]]
 
 %% This section imports a lens from an external file instead of defining it inside the module file. The benefit is that we can reuse the same lens in different modules without copying its source text. Importing lenses is usually preferred over defining them directly in the module. %%
 
+
+## Learning Outcome:
+source:: [[../Learning Outcomes/Dummy learning outcome]]
+
+## Lens:
+optional:: true
+source:: [[../Lenses/Dummy lens]]
 # Learning Outcome:
 source:: [[../Learning Outcomes/Learning Outcome Demo|Demo learning outcome]]
 
