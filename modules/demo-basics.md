@@ -30,7 +30,7 @@ source:: [[../Learning Outcomes/Learning Outcome Demo|Demo learning outcome]]
 %% Instead of importing lenses directly, we can import a learning outcome. This is often what we strive for. But when lenses don't have a learning outcome yet, it's okay to import them directly.%%
 
 # Lens:
-source:: [[../Lenses/Kurzgesagt software demo]]
+source:: [[../Lenses/video demo]]
 
 # Lens:
 source::  [[../Lenses/Article annotation and text collapse demo]]

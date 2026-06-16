@@ -20,7 +20,7 @@ These cards work because their targets are imported below as hidden optional len
 
 ::card[[../Lenses/Trial question and roleplay]]
 
-::card[[../Lenses/Kurzgesagt software demo]]
+::card[[../Lenses/video demo]]
 
 # Lens:
 optional:: true
@@ -35,4 +35,4 @@ source:: [[../Lenses/Trial question and roleplay]]
 # Lens:
 optional:: true
 hide:: true
-source:: [[../Lenses/Kurzgesagt software demo]]
+source:: [[../Lenses/video demo]]

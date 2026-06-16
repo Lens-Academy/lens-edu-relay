@@ -34,4 +34,4 @@ source:: [[../Learning Outcomes/Learning Outcome Demo|Demo learning outcome]]
 
 ## Lens:
 optional:: true
-source:: [[../Lenses/Kurzgesagt software demo]]
+source:: [[../Lenses/video demo]]
