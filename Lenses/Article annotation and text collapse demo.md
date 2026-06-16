@@ -6,10 +6,11 @@ tags:
   - work-in-progress
 ---
 
-%% See inside the article file for the actual `collapse`, `note`, and `footnote` examples. %%
 #### Text
 content::
-This lens imports a short article. The article source demonstrates Lens-added annotations that live inside article markdown rather than inside the lens file.
+This lens imports a short article. 
 
 #### Article
 source:: [[../articles/Article annotation and text collapse demo]]
+
+%% See inside the article file for the actual `collapse`, `note`, and `footnote` examples. %%

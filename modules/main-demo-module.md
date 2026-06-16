@@ -57,6 +57,7 @@ source:: [[../Lenses/video demo]]
 # Lens:
 source:: [[../Lenses/Article annotation and text collapse demo]]
 
+%% You've now seen how you can add annotations and collapsed sections from within Article files, as well as define from:: and to:: inside Lenses. Note that `::collapse` and `from`
 # Lens:
 source:: [[../Lenses/Trial question and roleplay]]
 
