@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781582602121}@@---
+---
 id: 93a2780d-b904-40f5-987d-081e722a6743
 slug: demo
 title: Demo
@@ -13,4 +13,3 @@ tags:
 # Module: [[../modules/demo-submodules|Submodules demo]]
 
 # Module: [[../modules/demo-hidden-imports|Hidden imports demo]]
-++}

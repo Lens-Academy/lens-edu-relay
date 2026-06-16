@@ -1,4 +1,4 @@
-{++{"author":"Luc's AI","timestamp":1781582816185}@@---
+---
 id: 2a8a12a4-1ab1-4711-8fe3-deadbc507177
 slug: demo-submodules
 title: Submodules demo
@@ -35,4 +35,3 @@ source:: [[../Learning Outcomes/trial for Testing|Demo learning outcome]]
 ## Lens:
 optional:: true
 source:: [[../Lenses/Kurzgesagt software demo]]
-++}

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781582603205}@@---
+---
 id: aaed6749-9d79-4345-830e-47b4fa050981
 slug: demo-hidden-imports
 title: Hidden imports demo
@@ -36,4 +36,3 @@ source:: [[../Lenses/Trial question and roleplay]]
 optional:: true
 hide:: true
 source:: [[../Lenses/Kurzgesagt software demo]]
-++}
