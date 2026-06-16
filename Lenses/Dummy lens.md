@@ -8,4 +8,4 @@ tags:
 
 #### Text
 content::
-This is an intentionally empty dummy lens. Use it as a placeholder source when the demo needs to show that a lens can be imported, but the imported content itself is not interesting.
+This is an intentionally empty dummy lens.
