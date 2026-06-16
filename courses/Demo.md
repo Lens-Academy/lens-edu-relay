@@ -8,8 +8,10 @@ tags:
 
 # Module: [[../modules/demo-basics|Demo basics]]
 
-# Meeting: Live walkthrough checkpoint
+# Meeting: Name of the first meetings
 
 # Module: [[../modules/demo-submodules|Submodules demo]]
 
 # Module: [[../modules/demo-hidden-imports|Hidden imports demo]]
+
+# Meeting: Live walkthrough checkpoint

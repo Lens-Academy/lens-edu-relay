@@ -38,5 +38,5 @@ source:: [[../Lenses/Trial question and roleplay]]
 source:: [[../Lenses/Kurzgesagt software demo]]
 
 # Lens:
-source:: [[../Lenses/WP Software demo]]
+source:: [[../Lenses/Article excerpt demo]]
 
