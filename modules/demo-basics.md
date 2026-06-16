@@ -20,8 +20,6 @@ For a prettier UI, you can use `::card` before the wikilink.
 ::card[[../Lenses/Kurzgesagt software demo]]
 
 #### Chat
-hidePreviousContentFromUser:: false
-hidePreviousContentFromTutor:: false
 instructions::
 This is a demo chat segment. In real course content, use this field to tell the tutor what the learner just saw and what kind of conversation would be helpful next.
 
