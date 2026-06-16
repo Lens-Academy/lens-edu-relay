@@ -30,7 +30,7 @@ content::
 Submodules can contain inline lenses, imported lenses, and learning outcomes. Keep each group small enough that it has a clear purpose.
 
 ## Learning Outcome:
-source:: [[../Learning Outcomes/trial for Testing|Demo learning outcome]]
+source:: [[../Learning Outcomes/Learning Outcome Demo|Demo learning outcome]]
 
 ## Lens:
 optional:: true

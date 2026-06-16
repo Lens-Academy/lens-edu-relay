@@ -27,3 +27,5 @@ to:: "take control"
 #### Chat
 instructions::
 This is a demo chat after article excerpts. Ask the learner what they noticed about article metadata, excerpt boundaries, and collapsed skipped text.
+
+Such chat fields can be placed anywhere, by the way. Also in-between pieces of article and text.
