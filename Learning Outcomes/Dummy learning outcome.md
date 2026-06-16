@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781585150428}@@---
+---
 id: 1a8badb3-b002-4a5b-a7fc-3fce081b8f40
 discussion:
 learning-outcome: Dummy learning outcome
@@ -11,4 +11,3 @@ tags:
 
 ## Lens:
 source:: [[../Lenses/Dummy lens]]
-++}
