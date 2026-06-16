@@ -13,6 +13,24 @@ To hide a lens from the progress bar, import it with `hide:: true`. This must al
 This module uses dummy imports because hidden imports are the feature being demonstrated. The actual card/link demo lives in the main demo module. %%
 
 # Lens:
+source:: [[../Lenses/Dummy lens]]
+
+# Lens:
+optional:: true
+hide:: true
+source:: [[../Lenses/Dummy lens]]
+
+# Lens:
+optional:: true
+hide:: true
+source:: [[../Lenses/Dummy lens]]
+
+# Lens:
+optional:: true
+hide:: true
+source:: [[../Lenses/Dummy lens]]
+
+# Lens:
 optional:: true
 hide:: true
 source:: [[../Lenses/Dummy lens]]

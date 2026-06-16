@@ -6,7 +6,8 @@ tags:
   - work-in-progress
 ---
 
-# Lens: A lens defined inside a module
+%% Welcome. A module primarily contains lenses and learning outcomes.%% 
+# Lens: Ba
 id:: 83fac088-1e23-4249-98ce-604b3f7c65d8
 #### Text
 content::
