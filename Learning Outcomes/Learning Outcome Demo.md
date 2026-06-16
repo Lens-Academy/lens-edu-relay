@@ -11,7 +11,7 @@ tags:
 id:: 88b7204b-2e34-4688-8f1f-1b5bbd75f5c8
 #### Text
 content::
-This test section demonstrates that a learning outcome can end with assessable items.{>>{"author":"Hamza Nawaz","timestamp":1778316420675}@@This section needs the following improvements.<<}
+This test section demonstrates that a learning outcome can end with assessable items.
 
 #### Roleplay
 id:: 35c0489c-66da-4b28-96a4-d5097bfcff79
