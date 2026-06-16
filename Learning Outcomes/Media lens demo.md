@@ -1,4 +1,4 @@
-{++{"author":"Luc's AI","timestamp":1781585585683}@@---
+---
 id: bd1668b8-634e-4b00-b0d8-b070f9df7c2c
 discussion:
 learning-outcome: Media lens demo
@@ -22,4 +22,3 @@ source:: [[../Lenses/Dummy lens]]
 
 ## Lens:
 source:: [[../Lenses/Dummy lens]]
-++}

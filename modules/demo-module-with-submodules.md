@@ -23,7 +23,7 @@ source:: [[../Lenses/Dummy lens]]
 # Submodule: Interaction
 slug:: interaction
 
-%% Submodules can contain imported lenses and imported learning outcomes. Keep each group small enough that it has a clear purpose. %%
+%% Submodules can contain imported lenses and imported learning outcomes. %%
 
 ## Learning Outcome:
 source:: [[../Learning Outcomes/Dummy learning outcome]]
@@ -31,3 +31,5 @@ source:: [[../Learning Outcomes/Dummy learning outcome]]
 ## Lens:
 optional:: true
 source:: [[../Lenses/Dummy lens]]
+
+%% By the way, if a module contains submodules, then all the lenses must be inside of submodules. So you must start the file with defining a submodule. %%
