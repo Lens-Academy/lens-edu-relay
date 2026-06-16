@@ -12,7 +12,5 @@ from:: 0:00
 to:: 0:45
 
 #### Chat
-{--{"author":"Luc's AI","timestamp":1781583561680}@@hidePreviousContentFromUser:: false
-hidePreviousContentFromTutor:: false
---}instructions::
+instructions::
 This is a demo chat after a video segment. Ask what the learner noticed about the video player, transcript, and timestamp range.

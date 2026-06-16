@@ -10,9 +10,9 @@ tags:
 id:: 83fac088-1e23-4249-98ce-604b3f7c65d8
 #### Text
 content::
-Look, here is a basic lens that is defined right within a module file.
+Here is a basic lens that is defined right within a module file. A Lens is basically a page, by the way.
 
-This is useful for small one-off explanations. The module file owns the lens title, the `id::`, and the segments below it.
+This is useful for small one-off explanations.
 
 #### Chat
 instructions::
@@ -21,13 +21,15 @@ This is a demo chat segment. In real course content, use this field to tell the 
 # Lens: An imported lens
 source:: [[../Lenses/Article annotation and text collapse demo]]
 
+%% This section imports a lens from an external file instead of defining it here.
+
+The benefit is that we can reuse the same lens in different modules without copying its source text. %%
+
 # Lens: Why import lenses?
 id:: a04da270-73df-46d1-882f-9efe56c60c7c
 #### Text
 content::
-Look, the previous section imported a lens from an external file instead of defining it here.
-
-The benefit is that we can reuse the same lens in different modules without copying its source text.
+Look, 
 
 # Lens: Why import a learning outcome?
 id:: 05221852-cf19-4cd2-a0d0-a372c7c8729e

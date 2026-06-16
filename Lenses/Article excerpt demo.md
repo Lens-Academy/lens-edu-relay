@@ -4,7 +4,7 @@ title: Article excerpt demo
 ---
 #### Text
 content::
-This lens shows {--{"author":"Luc's AI","timestamp":1781583583498}@@two--}{++{"author":"Luc's AI","timestamp":1781583583498}@@three++} short excerpts from the same article. The processor carries the article source forward, so later `#### Article` segments can omit `source::`.
+This lens shows three short excerpts from the same article. The processor carries the article source forward, so later `#### Article` segments can omit `source::`.
 
 #### Article
 source:: [[../articles/wikipedia-existential-risk-from-ai]]
@@ -19,11 +19,11 @@ The UI can show collapsed content before or after excerpts when the source artic
 from:: "> The upshot is simply a question of time"
 to:: "moment question."
 
-{++{"author":"Luc's AI","timestamp":1781583561409}@@%% You can also add article excerpts without text in between. %%
-++}#### {--{"author":"Luc's AI","timestamp":1781583561409}@@Chat--}{++{"author":"Luc's AI","timestamp":1781583561409}@@Article++}
-{--{"author":"Luc's AI","timestamp":1781583561409}@@hidePreviousContentFromUser:: false--}{++{"author":"Luc's AI","timestamp":1781583561409}@@from:: "In 1951, foundational computer scientist"++}
-{--{"author":"Luc's AI","timestamp":1781583561409}@@hidePreviousContentFromTutor:: false--}{++{"author":"Luc's AI","timestamp":1781583561409}@@to:: "take control"
+%% You can also add article excerpts without text in between. %%
+#### Article
+from:: "In 1951, foundational computer scientist"
+to:: "take control"
 
-#### Chat++}
+#### Chat
 instructions::
 This is a demo chat after article excerpts. Ask the learner what they noticed about article metadata, excerpt boundaries, and collapsed skipped text.
