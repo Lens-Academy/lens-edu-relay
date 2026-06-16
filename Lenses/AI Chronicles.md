@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781582682768}@@---
+---
 id: 78f01af3-e5cb-4f79-8f00-aed5a26b25bc
 title: AI Chronicles
 tags:
@@ -13,4 +13,3 @@ This standalone lens is only for testing the `#### Embed` segment on the embed b
 #### Embed
 url:: https://chronicle.torchbearer.community/
 height:: 700px
-++}
