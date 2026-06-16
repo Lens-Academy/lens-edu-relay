@@ -13,7 +13,6 @@ Anything in-between double percentage marks is treated as a comment, and is igno
 # Lens: Basic Example
 id:: 83fac088-1e23-4249-98ce-604b3f7c65d8
 
-
 #### Text
 content::
 Here is a basic lens that is defined right within a module file. A Lens is basically a page, by the way. Lenses contain fields like `#### Text` and `#### Chat`.
@@ -22,20 +21,15 @@ Here is a basic lens that is defined right within a module file. A Lens is basic
 instructions::
 This is a demo chat segment. In real course content, use this field to tell the tutor what the learner just saw and what kind of conversation would be helpful next.
 
+
+%% We'll now import a lens from an external file instead of defining it inside the module file.%%
 # Lens: An imported lens
 source:: [[../Lenses/Dummy lens]]
 
-%% This section imports a lens from an external file instead of defining it inside the module file. The benefit is that we can reuse the same lens in different modules without copying its source text. Importing lenses is usually preferred over defining them directly in the module. %%
-
+%% The benefit of importing with source:: is that we can reuse the same lens in different modules without copying its source text. Importing lenses is usually preferred over defining them directly in the module. %%
 
 ## Learning Outcome:
 source:: [[../Learning Outcomes/Dummy learning outcome]]
-
-## Lens:
-optional:: true
-source:: [[../Lenses/Dummy lens]]
-# Learning Outcome:
-source:: [[../Learning Outcomes/Learning Outcome Demo|Demo learning outcome]]
 
 %% Instead of importing lenses directly, we can import a learning outcome. This is often what we strive for. But when lenses don't have a learning outcome yet, it's okay to import them directly. The lenses inside these demo learning outcomes are dummies, so the interesting feature demos stay visible here in the main module. %%
 
@@ -43,7 +37,10 @@ source:: [[../Learning Outcomes/Learning Outcome Demo|Demo learning outcome]]
 source:: [[../Learning Outcomes/Media lens demo|Media lens demo]]
 
 %% Actual feature demos are imported directly into this main module, so readers know that interesting names are worth opening. %%
-
+# Learning Outcome:
+source:: [[../Learning Outcomes/Learning Outcome Demo|Demo learning outcome]]
+## Lens:
+source:: [[../Lenses/Article excerpt demo]]
 # Lens:
 source:: [[../Lenses/video demo]]
 
