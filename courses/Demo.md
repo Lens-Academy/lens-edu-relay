@@ -9,7 +9,7 @@ tags:
 %% At the course level, we define modules and meetings.%%
 
 %% Meetings automatically split the material up into weeks. This first module will be in week 1, followed by the meeting %%
-# Module: [[../modules/demo-module-without-submodules|Demo basics]]
+# Module: [[../modules/main-demo-module|Demo basics]]
 # Meeting: Name of the first meeting
 
 %% The following two modules will be in week 2, followed by the next meeting %%
