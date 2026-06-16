@@ -7,11 +7,14 @@ tags:
   - learning outcome
 ---
 
-%% A learning outcome consists of:
+%% A learning outcome file defines a learning outcome, a test that checks whether the learner has achieved the intended outcome, and one or more lenses that teach the learner what they need to know 
+
+bundles a test with one or more lenses.A learning outcome consists of:
 1. A test.
 2. One or more lenses that are supposed to help the user pass the test.
 
 The app will show the supporting lenses as learning material, then show the test when the learner reaches the end of the learning outcome. %%
+
 
 ## Test:
 id:: 88b7204b-2e34-4688-8f1f-1b5bbd75f5c8
