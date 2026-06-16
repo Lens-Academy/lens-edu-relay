@@ -10,9 +10,9 @@ tags:
 id:: 8144e19b-0c4a-4907-a871-cc1ff0968d68
 #### Text
 content::
-Sometimes you want a lens to be available for links or cards without showing it as a normal required step.
+Sometimes you want a lens to be available for links or cards without showing it as a step that's part of the linear progression for the user.
 
-Use `hide:: true` together with `optional:: true` on the imported lens. Hidden required lenses are invalid, because learners could not complete them.
+To hide a lens from the progress bar, import it with `hide:: true`. This must always be accompanied with `optional:: true` .
 
 These cards work because their targets are imported below as hidden optional lenses:
 
