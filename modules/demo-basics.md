@@ -17,19 +17,10 @@ This is useful for small one-off explanations.
 #### Chat
 instructions::
 This is a demo chat segment. In real course content, use this field to tell the tutor what the learner just saw and what kind of conversation would be helpful next.
-
 # Lens: An imported lens
-source:: [[../Lenses/Article annotation and text collapse demo]]
+source:: [[../Lenses/Article excerpt demo]]
 
-%% This section imports a lens from an external file instead of defining it here.
-
-The benefit is that we can reuse the same lens in different modules without copying its source text. %%
-
-# Lens: Why import lenses?
-id:: a04da270-73df-46d1-882f-9efe56c60c7c
-#### Text
-content::
-Look, 
+%% This section imports a lens from an external file instead of defining it inside the module file. The benefit is that we can reuse the same lens in different modules without copying its source text. Importing lenses is usually preferred. %%
 
 # Lens: Why import a learning outcome?
 id:: 05221852-cf19-4cd2-a0d0-a372c7c8729e
@@ -46,7 +37,7 @@ source:: [[../Learning Outcomes/trial for Testing|Demo learning outcome]]
 source:: [[../Lenses/Kurzgesagt software demo]]
 
 # Lens:
-source:: [[../Lenses/Article excerpt demo]]
+source::  [[../Lenses/Article annotation and text collapse demo]]
 
 # Lens:
 optional:: true
