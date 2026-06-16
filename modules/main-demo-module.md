@@ -6,9 +6,7 @@ tags:
   - work-in-progress
 ---
 
-%% A module contains lenses and learning outcomes.
-
-By the way, anything in-between double percentage marks is treated as a comment and is ignored by our website. %% 
+%% A module contains lenses and learning outcomes.%% 
 
 # Lens: Basic Example
 id:: 83fac088-1e23-4249-98ce-604b3f7c65d8
