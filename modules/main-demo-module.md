@@ -63,7 +63,7 @@ source:: [[../Lenses/Article annotation and text collapse demo]]
 # Lens:
 source:: [[../Lenses/Question demo]]
 
-%% We also have a roleplay feature, where th %%
+%% We also have a roleplay feature, where the user can voice chat with an AI: %%
 # Lens:
 source:: [[../Lenses/Roleplay demo]]
 
