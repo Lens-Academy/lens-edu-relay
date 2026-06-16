@@ -6,7 +6,7 @@ tags:
   - learning outcome
 ---
 
-%% This is an intentionally empty dummy learning outcome. It points at the dummy lens so the learning outcome stays structurally valid while still signaling that there is nothing interesting to inspect here. %%
+%% This is an intentionally empty dummy learning outcome. It points at {--{"author":"Luc's AI","timestamp":1781589546783}@@the--}{++{"author":"Luc's AI","timestamp":1781589546783}@@a++} dummy lens so the learning outcome stays structurally valid while still signaling that there is nothing interesting to inspect here. %%
 
 ## Lens:
-source:: [[../Lenses/Dummy lens]]
+source:: [[../Lenses/Dummy {--{"author":"Luc's AI","timestamp":1781589546783}@@lens]]--}{++{"author":"Luc's AI","timestamp":1781589546783}@@lens 2]]++}
