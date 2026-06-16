@@ -6,9 +6,13 @@ tags:
   - work-in-progress
 ---
 
-%% In the course file, we define modules and meetings.%%
 
-%% Meetings automatically split the material up into weeks. This first module will be in week 1, followed by the meeting %%
+
+%% In the course file, we define modules and meetings.
+
+Please go through this file first before clicking into any of the links.
+
+Meetings automatically split the material up into weeks. This first module will be in week 1, followed by the meeting %%
 # Module: [[../modules/main-demo-module|Demo basics]]
 # Meeting: Name of the first meeting
 
@@ -20,4 +24,4 @@ tags:
 # Meeting: Name of the second meeting
 
 
-%% Please go through the three modules, from top to to bottom. They explain many important things. %%
+%% Please now go through the three modules by clicking on the lin, from top to to bottom. They explain many important things. %%
