@@ -22,13 +22,12 @@ source:: [[../Lenses/Article excerpt demo]]
 
 %% This section imports a lens from an external file instead of defining it inside the module file. The benefit is that we can reuse the same lens in different modules without copying its source text. Importing lenses is usually preferred. %%
 
+%% Anything in-between double percentage marks is treated as a comment, and is ignored by our website. %%
 
 # Learning Outcome:
 source:: [[../Learning Outcomes/Learning Outcome Demo|Demo learning outcome]]
 
-%% Instead of importing lenses directly, we can import a learning outcome.
-
-A learning outcome can bundle multiple lenses and a test. This is useful when several modules should reuse the same little learning sequence.%%
+%% Instead of importing lenses directly, we can import a learning outcome. This is often what we strive for. But when lenses don't have a learning outcome yet, it's okay to import them directly.%%
 
 # Lens:
 source:: [[../Lenses/Kurzgesagt software demo]]
