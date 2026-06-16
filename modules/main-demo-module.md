@@ -27,7 +27,7 @@ source:: [[../Lenses/Dummy lens]]
 %% The benefit of importing is that we can reuse the same lens in different modules without copying its source text. Importing lenses is usually preferred over defining them directly in the module. %%
 
 %% Instead of importing lenses directly, we can import a learning outcome: %%
-## Learning Outcome:
+# Learning Outcome:
 source:: [[../Learning Outcomes/Dummy learning outcome]]
 
 %% That learning outcome then contains its own lenses. 
@@ -44,7 +44,7 @@ source:: [[../Learning Outcomes/Learning Outcome Demo|Demo learning outcome]]
 %% Please look inside the above file before continuing. %%
 
 %% Now that we have a feel for how modules and learning outcomes work, let's have a look at what's possible inside of lenses. Look at the following Lens. %%
-## Lens:
+# Lens:
 source:: [[../Lenses/Article excerpt demo]]
 
 %% Now look at this one: %%
