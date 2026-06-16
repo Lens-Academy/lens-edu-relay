@@ -13,5 +13,5 @@ We can use normal wikilinks inside the editor to link to other lenses: [[../Lens
 For a prettier UI, you can use `::card` before the wikilink.
 ::card[[../Lenses/Trial question and roleplay]]
 
-::card[[../Lenses/Kurzgesagt software demo]]
+::card[[video demo]]
 ++}
