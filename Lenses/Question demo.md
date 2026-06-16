@@ -24,4 +24,4 @@ content:: Try answering this one by voice. What would you check before using a q
 assessment-instructions:: Look for a concrete testing plan, such as checking the wording, character limit, scoring rubric, and feedback quality.
 enforce-voice:: true
 
-%% `enforce-voice:: true` requires the learner to answer by speaking instead of typing. %%
+%% `enforce-voice:: true` requires the learner to answer by speaking instead of typing. 15 june 2026: probably not implemented though. Problem is that people can't always speak in every situation, so it'd need some override anyway. Shou%%

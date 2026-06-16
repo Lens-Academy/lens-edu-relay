@@ -59,11 +59,11 @@ source:: [[../Lenses/Article annotation and text collapse demo]]
 
 %% You've now seen how you can add annotations and collapsed sections from within Article files, as well as define from:: and to:: inside Lenses. Note that `::collapse` and `from::`/`to::` show up in the same way to the user. Any text that's collapsed by them is hidden behind ellipsis that the user can click on to see the collapsed text. %%
 
-%% You may have already seen a #### Question field inside of the Learning Outcome Demo. We can also add those fields inside lenses. They then serve as practice, instead of as te 
+%% You may have already seen a #### Question field inside of the Learning Outcome Demo. We can also add those fields inside lenses. They then serve as practice, instead of as a test. The UX is very similar.%%
 # Lens:
 source:: [[../Lenses/Question demo]]
 
-%% Questions and roleplays are separate segment types. Please look inside the roleplay demo next. %%
+%% We also have a roleplay feature, where th %%
 # Lens:
 source:: [[../Lenses/Roleplay demo]]
 
