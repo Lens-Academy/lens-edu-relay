@@ -6,9 +6,9 @@ tags:
   - work-in-progress
 ---
 
-%% Welcome. A module primarily contains lenses and learning outcomes.
+%% A module contains lenses and learning outcomes.
 
-Anything in-between double percentage marks is treated as a comment, and is ignored by our website. %% 
+By the way, anything in-between double percentage marks is treated as a comment and is ignored by our website. %% 
 
 # Lens: Basic Example
 id:: 83fac088-1e23-4249-98ce-604b3f7c65d8
@@ -59,8 +59,14 @@ source:: [[../Lenses/Article annotation and text collapse demo]]
 
 %% You've now seen how you can add annotations and collapsed sections from within Article files, as well as define from:: and to:: inside Lenses. Note that `::collapse` and `from::`/`to::` shwo up in the same way to the user. Any text that's collapsed by them is hidden behind ellipsis that the user can click on to see the collapsed text. %%
 # Lens:
-source:: [[../Lenses/Question demo]]
+source:: [[../Lenses/Question demo]]{--{"author":"Luc's AI","timestamp":1781587148907}@@
 
+
+--}
+
+%% Questions and roleplays are separate segment types. Please look inside the roleplay demo next. %%
+# Lens:
+source:: [[../Lenses/Roleplay demo]]
 
 %% Finally, please see how Lenses can link to other Lenses: %%
 # Lens:

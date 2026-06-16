@@ -6,7 +6,7 @@ tags:
   - work-in-progress
 ---
 
-%% At the course level, we define modules and meetings.%%
+%% In the course file, we define modules and meetings.%%
 
 %% Meetings automatically split the material up into weeks. This first module will be in week 1, followed by the meeting %%
 # Module: [[../modules/main-demo-module|Demo basics]]
