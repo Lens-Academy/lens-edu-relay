@@ -26,8 +26,8 @@ assessment-instructions:: A good answer says that a learning outcome has a test 
 max-chars:: 500
 
 ## Lens:
-source:: [[../Lenses/Learning outcome supporting lens]]
+source:: {--{"author":"Luc's AI","timestamp":1781585585369}@@[[../Lenses/Learning outcome supporting--}{++{"author":"Luc's AI","timestamp":1781585585369}@@[[../Lenses/Dummy++} lens]]{--{"author":"Luc's AI","timestamp":1781585585369}@@
 
 ## Lens:
-source:: [[../Lenses/Article excerpt demo]]
+source:: [[../Lenses/Article excerpt demo]]--}
 
