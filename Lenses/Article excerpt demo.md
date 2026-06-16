@@ -23,7 +23,7 @@ to:: "moment question."
 %% You can also add multiple article excerpts in a row. %%
 #### Article
 from:: "In 1951, foundational computer scientist"
-to:: "Erewhon](https://en.wikipedia.org/wiki/Erewhon \"Erewhon\")_"
+to:: "other to sharpen their wits."
 
 #### Chat
 instructions::
