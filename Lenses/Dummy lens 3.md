@@ -5,4 +5,4 @@ title: Dummy lens 3
 
 #### Text
 content::
-This is an intentionally empty dummy lens. (numb)
+This is an intentionally empty dummy lens.
