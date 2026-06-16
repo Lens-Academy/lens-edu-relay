@@ -45,10 +45,7 @@ source:: [[../Learning Outcomes/Learning Outcome Demo|Demo learning outcome]]
 
 %% Please look inside the above file before continuing. %%
 
-# Learning Outcome:
-source:: [[../Learning Outcomes/Media lens demo|Media lens demo]]
-
-
+%% Now that we have a feel for how modules and learning outcomes work, let's have a look at what's possible inside of lenses. Look at the following Lens. %%
 ## Lens:
 source:: [[../Lenses/Article excerpt demo]]
 # Lens:
