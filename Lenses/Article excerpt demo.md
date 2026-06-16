@@ -23,7 +23,7 @@ to:: "moment question."
 %% You can also add multiple article excerpts in a row. %%
 #### Article
 from:: "In 1951, foundational computer scientist"
-to:: "other to sharpen their wits."
+to:: "of the world as they became more intelligent than human beings:"
 
 #### Chat
 instructions::
