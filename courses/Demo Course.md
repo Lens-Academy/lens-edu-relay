@@ -20,4 +20,4 @@ tags:
 # Meeting: Name of the second meeting
 
 
-%% Please through the three modules, from top to to bottom %%
+%% Please go through the three modules, from top to to bottom. They explain many important things. %%
