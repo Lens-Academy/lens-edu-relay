@@ -48,9 +48,12 @@ source:: [[../Learning Outcomes/Learning Outcome Demo|Demo learning outcome]]
 %% Now that we have a feel for how modules and learning outcomes work, let's have a look at what's possible inside of lenses. Look at the following Lens. %%
 ## Lens:
 source:: [[../Lenses/Article excerpt demo]]
+
+%% After looking at that lens, look at the following Lens, demoing a video: %%
 # Lens:
 source:: [[../Lenses/video demo]]
 
+%% Now look at this one: %%
 # Lens:
 source:: [[../Lenses/Article annotation and text collapse demo]]
 
