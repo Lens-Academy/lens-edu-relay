@@ -24,7 +24,7 @@ source:: [[../Lenses/Article excerpt demo]]
 
 
 # Learning Outcome:
-source:: [[../Learning Outcomes/trial for Testing|Demo learning outcome]]
+source:: [[../Learning Outcomes/Learning Outcome Demo|Demo learning outcome]]
 
 %% Instead of importing lenses directly, we can import a learning outcome.
 
