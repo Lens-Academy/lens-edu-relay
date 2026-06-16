@@ -6,10 +6,10 @@ tags:
   - work-in-progress
 ---
 
-%% See inside the article {--{"author":"Luc's AI","timestamp":1781582660633}@@file:%%--}{++{"author":"Luc's AI","timestamp":1781582660633}@@file for the actual `collapse`, `note`, and `footnote` examples. %%++}
-#### {++{"author":"Luc's AI","timestamp":1781582660633}@@Text
+%% See inside the article file for the actual `collapse`, `note`, and `footnote` examples. %%
+#### Text
 content::
 This lens imports a short article. The article source demonstrates Lens-added annotations that live inside article markdown rather than inside the lens file.
 
-#### ++}Article
+#### Article
 source:: [[../articles/Article annotation and text collapse demo]]
