@@ -1,9 +1,6 @@
 ---
 id: 68f8a820-80eb-45e4-b95d-77eef358f817
 title: Article video article demo
-tags:
-  - lens
-  - work-in-progress
 ---
 
 #### Text

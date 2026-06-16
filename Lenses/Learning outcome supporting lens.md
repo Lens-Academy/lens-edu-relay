@@ -1,9 +1,6 @@
 ---
 id: 1ea6fb3f-4804-458e-8109-d260d0ed1b13
 title: Learning outcome supporting lens
-tags:
-  - lens
-  - work-in-progress
 ---
 
 #### Text
