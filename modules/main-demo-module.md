@@ -34,7 +34,14 @@ source:: [[../Learning Outcomes/Dummy learning outcome]]
 
 %% That learning outcome then contains its own lenses. 
 
-Having lenses be part of learning outcomes is often what we strive for. But when lenses don't have a learning outcome yet, it's okay to import them directly. %%
+Having lenses be part of learning outcomes is often what we strive for. But when lenses don't have a learning outcome yet, it's okay to import them directly. 
+
+A module can contain as many learning outcomes and lenses as you want.
+
+Now that we know the st
+%%
+
+
 # Learning Outcome:
 source:: [[../Learning Outcomes/Media lens demo|Media lens demo]]
 
