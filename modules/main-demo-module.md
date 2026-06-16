@@ -38,15 +38,17 @@ Having lenses be part of learning outcomes is often what we strive for. But when
 
 A module can contain as many learning outcomes and lenses as you want.
 
-Now that we know the st
+Now that we know the structure of a module, lets actually look inside of a learning outcome file:
 %%
+# Learning Outcome:
+source:: [[../Learning Outcomes/Learning Outcome Demo|Demo learning outcome]]
 
+%% Please look inside the above file before continuing. %%
 
 # Learning Outcome:
 source:: [[../Learning Outcomes/Media lens demo|Media lens demo]]
 
-# Learning Outcome:
-source:: [[../Learning Outcomes/Learning Outcome Demo|Demo learning outcome]]
+
 ## Lens:
 source:: [[../Lenses/Article excerpt demo]]
 # Lens:
