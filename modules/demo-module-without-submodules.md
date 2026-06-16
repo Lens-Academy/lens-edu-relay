@@ -29,11 +29,8 @@ source:: [[../Learning Outcomes/Learning Outcome Demo|Demo learning outcome]]
 
 %% Instead of importing lenses directly, we can import a learning outcome. This is often what we strive for. But when lenses don't have a learning outcome yet, it's okay to import them directly.%%
 
-# {--{"author":"Luc's AI","timestamp":1781584810822}@@Lens:--}{++{"author":"Luc's AI","timestamp":1781584810822}@@Learning Outcome:++}
-source:: {--{"author":"Luc's AI","timestamp":1781584810822}@@[[../Lenses/video demo]]
-
-# Lens:
-source::  [[../Lenses/Article annotation and text collapse--}{++{"author":"Luc's AI","timestamp":1781584810822}@@[[../Learning Outcomes/Media lens demo|Media lens++} demo]]
+# Learning Outcome:
+source:: [[../Learning Outcomes/Media lens demo|Media lens demo]]
 
 # Lens:
 optional:: true
