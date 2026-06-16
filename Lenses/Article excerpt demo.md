@@ -1,6 +1,9 @@
 ---
 id: b2c3d4e5-f6a7-8901-bcde-f23456789012
 title: Article excerpt demo
+tags:
+  - lens
+  - work-in-progress
 ---
 #### Text
 content::
@@ -23,7 +26,7 @@ to:: "moment question."
 %% You can also add multiple article excerpts in a row. %%
 #### Article
 from:: "In 1951, foundational computer scientist"
-to:: "take control"
+to:: "take control, in the way that is mentioned"
 
 #### Chat
 instructions::
