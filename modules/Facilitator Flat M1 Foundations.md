@@ -21,7 +21,7 @@ source:: ![[../Lenses/Facilitator Flat - Teaching vs Facilitating]]
 source:: ![[../Lenses/Facilitator Flat - Mutual Learning Mindset]]
 
 # Lens: 1.3 What a facilitator isn't (and isn't responsible for)
-source:: ![[../Lenses/Facilitator Flat - What a Facilitator Isn't]]
+source:: ![[../Lenses/Facilitator Flat - What a Facilitator Is]]
 
 # Lens: 1.4 Two postures worth knowing about
 source:: ![[../Lenses/Facilitator Flat - Two Postures]]
