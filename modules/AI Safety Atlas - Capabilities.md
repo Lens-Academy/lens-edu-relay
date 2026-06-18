@@ -1,0 +1,43 @@
+{++{"author":"AI","timestamp":1781827067982}@@---
+id: 6b695eb1-03b4-46cd-97b3-f3a507d4b345
+slug: ai-safety-atlas-capabilities
+title: AI Safety Atlas - Capabilities
+---
+
+# Lens:
+source:: [[../Lenses/AI Safety Atlas - Capabilities - Introduction]]
+
+# Lens:
+source:: [[../Lenses/AI Safety Atlas - Capabilities - Current Capabilities]]
+
+# Lens:
+source:: [[../Lenses/AI Safety Atlas - Capabilities - Foundation Models]]
+
+# Lens:
+source:: [[../Lenses/AI Safety Atlas - Capabilities - Defining and Measuring AGI]]
+
+# Lens:
+source:: [[../Lenses/AI Safety Atlas - Capabilities - Leveraging Scale]]
+
+# Lens:
+source:: [[../Lenses/AI Safety Atlas - Capabilities - Forecasting Timelines]]
+
+# Lens:
+source:: [[../Lenses/AI Safety Atlas - Capabilities - Takeoff]]
+
+# Lens:
+optional:: true
+source:: [[../Lenses/AI Safety Atlas - Capabilities - Appendix Forecasting]]
+
+# Lens:
+optional:: true
+source:: [[../Lenses/AI Safety Atlas - Capabilities - Appendix Takeoff]]
+
+# Lens:
+optional:: true
+source:: [[../Lenses/AI Safety Atlas - Capabilities - Appendix Expert Surveys]]
+
+# Lens:
+optional:: true
+source:: [[../Lenses/AI Safety Atlas - Capabilities - Appendix Discussion on LLMs]]
+++}
