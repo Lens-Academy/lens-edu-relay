@@ -4,4 +4,4 @@ title: "Learning from feedback"
 ---
 
 #### Article
-source:: {--{"author":"Luc's AI","timestamp":1781825650982}@@[[../articles/grey-learning-from-feedback.md|Learning--}{++{"author":"Luc's AI","timestamp":1781825650982}@@[[../articles/AI Safety Atlas - Specification Gaming - Learning from Feedback|Learning++} from feedback]]
+source:: [[../articles/AI Safety Atlas - Specification Gaming - Learning from Feedback|Learning from feedback]]

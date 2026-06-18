@@ -4,4 +4,4 @@ title: "Misuse Prevention Strategies"
 ---
 
 #### Article
-source:: {--{"author":"Luc's AI","timestamp":1781825567776}@@[[../articles/grey-misuse-prevention-strategies.md|Misuse--}{++{"author":"Luc's AI","timestamp":1781825567776}@@[[../articles/AI Safety Atlas - Strategies - Misuse Prevention Strategies|Misuse++} Prevention Strategies]]
+source:: [[../articles/AI Safety Atlas - Strategies - Misuse Prevention Strategies|Misuse Prevention Strategies]]

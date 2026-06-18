@@ -4,4 +4,4 @@ title: "Optimization"
 ---
 
 #### Article
-source:: {--{"author":"Luc's AI","timestamp":1781825651502}@@[[../articles/grey-optimization.md|Optimization]]--}{++{"author":"Luc's AI","timestamp":1781825651502}@@[[../articles/AI Safety Atlas - Specification Gaming - Optimization|Optimization]]++}
+source:: [[../articles/AI Safety Atlas - Specification Gaming - Optimization|Optimization]]

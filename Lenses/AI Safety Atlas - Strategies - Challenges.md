@@ -4,4 +4,4 @@ title: "Challenges"
 ---
 
 #### Article
-source:: {--{"author":"Luc's AI","timestamp":1781825566782}@@[[../articles/grey-challenges.md|Challenges]]--}{++{"author":"Luc's AI","timestamp":1781825566782}@@[[../articles/AI Safety Atlas - Strategies - Challenges|Challenges]]++}
+source:: [[../articles/AI Safety Atlas - Strategies - Challenges|Challenges]]

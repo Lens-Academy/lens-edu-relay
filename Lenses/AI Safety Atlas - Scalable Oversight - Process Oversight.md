@@ -4,4 +4,4 @@ title: "Process Oversight"
 ---
 
 #### Article
-source:: {--{"author":"Luc's AI","timestamp":1781825650196}@@[[../articles/grey-process-oversight.md|Process--}{++{"author":"Luc's AI","timestamp":1781825650196}@@[[../articles/AI Safety Atlas - Scalable Oversight - Process Oversight|Process++} Oversight]]
+source:: [[../articles/AI Safety Atlas - Scalable Oversight - Process Oversight|Process Oversight]]

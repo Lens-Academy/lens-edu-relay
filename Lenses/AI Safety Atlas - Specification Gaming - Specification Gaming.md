@@ -4,4 +4,4 @@ title: "Specification Gaming"
 ---
 
 #### Article
-source:: {--{"author":"Luc's AI","timestamp":1781825652014}@@[[../articles/grey-specification-gaming.md|Specification--}{++{"author":"Luc's AI","timestamp":1781825652014}@@[[../articles/AI Safety Atlas - Specification Gaming - Specification Gaming|Specification++} Gaming]]
+source:: [[../articles/AI Safety Atlas - Specification Gaming - Specification Gaming|Specification Gaming]]

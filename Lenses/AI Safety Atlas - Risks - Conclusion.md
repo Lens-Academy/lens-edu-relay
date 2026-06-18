@@ -4,4 +4,4 @@ title: "Conclusion"
 ---
 
 #### Article
-source:: {--{"author":"Luc's AI","timestamp":1781825502113}@@[[../articles/grey-conclusion.md|Conclusion]]--}{++{"author":"Luc's AI","timestamp":1781825502113}@@[[../articles/AI Safety Atlas - Risks - Conclusion|Conclusion]]++}
+source:: [[../articles/AI Safety Atlas - Risks - Conclusion|Conclusion]]

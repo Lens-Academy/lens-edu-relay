@@ -4,4 +4,4 @@ title: "Appendix: Long-term questions"
 ---
 
 #### Article
-source:: {--{"author":"Luc's AI","timestamp":1781825566431}@@[[../articles/grey-appendix-long-term-questions.md|Appendix:--}{++{"author":"Luc's AI","timestamp":1781825566431}@@[[../articles/AI Safety Atlas - Strategies - Appendix Long-term Questions|Appendix:++} Long-term questions]]
+source:: [[../articles/AI Safety Atlas - Strategies - Appendix Long-term Questions|Appendix: Long-term questions]]
