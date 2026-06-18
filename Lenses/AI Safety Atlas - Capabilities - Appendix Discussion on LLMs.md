@@ -4,4 +4,4 @@ title: "Appendix: Discussion on LLMs"
 ---
 
 #### Article
-source:: [[../articles/grey-appendix-discussion-on-llms.md|Appendix: Discussion on LLMs]]
+source:: {--{"author":"Luc's AI","timestamp":1781825497968}@@[[../articles/grey-appendix-discussion-on-llms.md|Appendix:--}{++{"author":"Luc's AI","timestamp":1781825497968}@@[[../articles/AI Safety Atlas - Capabilities - Appendix Discussion on LLMs|Appendix:++} Discussion on LLMs]]
