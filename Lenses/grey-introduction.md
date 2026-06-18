@@ -4,9 +4,9 @@ title: "Introduction"
 ---
 
 #### Article
-source:: [[../articles/grey-introduction.md|Introduction]]
+source:: [[../articles/grey-introduction|Introduction]]
 
-[[grey]]
+
 
 
 
