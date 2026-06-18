@@ -4,4 +4,4 @@ title: "Limitations"
 ---
 
 #### Article
-source:: [[../articles/grey-limitations.md|Limitations]]
+source:: {--{"author":"Luc's AI","timestamp":1781825647523}@@[[../articles/grey-limitations.md|Limitations]]--}{++{"author":"Luc's AI","timestamp":1781825647523}@@[[../articles/AI Safety Atlas - Evaluations - Limitations|Limitations]]++}

@@ -4,4 +4,4 @@ title: "Weak-to-Strong (W2S)"
 ---
 
 #### Article
-source:: [[../articles/grey-weak-to-strong-w2s.md|Weak-to-Strong (W2S)]]
+source:: {--{"author":"Luc's AI","timestamp":1781825650727}@@[[../articles/grey-weak-to-strong-w2s.md|Weak-to-Strong--}{++{"author":"Luc's AI","timestamp":1781825650727}@@[[../articles/AI Safety Atlas - Scalable Oversight - Weak-to-Strong (W2S)|Weak-to-Strong++} (W2S)]]

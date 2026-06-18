@@ -4,4 +4,4 @@ title: "Multi Objective Generalization"
 ---
 
 #### Article
-source:: [[../articles/grey-multi-objective-generalization.md|Multi Objective Generalization]]
+source:: {--{"author":"Luc's AI","timestamp":1781825648821}@@[[../articles/grey-multi-objective-generalization.md|Multi--}{++{"author":"Luc's AI","timestamp":1781825648821}@@[[../articles/AI Safety Atlas - Goal Misgeneralization - Multi Objective Generalization|Multi++} Objective Generalization]]

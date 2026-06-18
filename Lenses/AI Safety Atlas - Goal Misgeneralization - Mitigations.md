@@ -4,4 +4,4 @@ title: "Mitigations"
 ---
 
 #### Article
-source:: [[../articles/grey-mitigations.md|Mitigations]]
+source:: {--{"author":"Luc's AI","timestamp":1781825648578}@@[[../articles/grey-mitigations.md|Mitigations]]--}{++{"author":"Luc's AI","timestamp":1781825648578}@@[[../articles/AI Safety Atlas - Goal Misgeneralization - Mitigations|Mitigations]]++}

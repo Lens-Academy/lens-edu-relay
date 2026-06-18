@@ -4,4 +4,4 @@ title: "Oversight"
 ---
 
 #### Article
-source:: [[../articles/grey-oversight.md|Oversight]]
+source:: {--{"author":"Luc's AI","timestamp":1781825649909}@@[[../articles/grey-oversight.md|Oversight]]--}{++{"author":"Luc's AI","timestamp":1781825649909}@@[[../articles/AI Safety Atlas - Scalable Oversight - Oversight|Oversight]]++}

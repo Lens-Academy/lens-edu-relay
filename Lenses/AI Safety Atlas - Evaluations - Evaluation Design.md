@@ -4,4 +4,4 @@ title: "Evaluation Design"
 ---
 
 #### Article
-source:: [[../articles/grey-evaluation-design.md|Evaluation Design]]
+source:: {--{"author":"Luc's AI","timestamp":1781825646766}@@[[../articles/grey-evaluation-design.md|Evaluation--}{++{"author":"Luc's AI","timestamp":1781825646766}@@[[../articles/AI Safety Atlas - Evaluations - Evaluation Design|Evaluation++} Design]]

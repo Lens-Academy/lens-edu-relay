@@ -4,4 +4,4 @@ title: "Scheming"
 ---
 
 #### Article
-source:: [[../articles/grey-scheming.md|Scheming]]
+source:: {--{"author":"Luc's AI","timestamp":1781825649101}@@[[../articles/grey-scheming.md|Scheming]]--}{++{"author":"Luc's AI","timestamp":1781825649101}@@[[../articles/AI Safety Atlas - Goal Misgeneralization - Scheming|Scheming]]++}

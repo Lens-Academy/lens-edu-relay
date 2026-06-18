@@ -4,4 +4,4 @@ title: "Task Decomposition"
 ---
 
 #### Article
-source:: [[../articles/grey-task-decomposition.md|Task Decomposition]]
+source:: {--{"author":"Luc's AI","timestamp":1781825650443}@@[[../articles/grey-task-decomposition.md|Task--}{++{"author":"Luc's AI","timestamp":1781825650443}@@[[../articles/AI Safety Atlas - Scalable Oversight - Task Decomposition|Task++} Decomposition]]

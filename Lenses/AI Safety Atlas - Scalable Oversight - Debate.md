@@ -4,4 +4,4 @@ title: "Debate"
 ---
 
 #### Article
-source:: [[../articles/grey-debate.md|Debate]]
+source:: {--{"author":"Luc's AI","timestamp":1781825649372}@@[[../articles/grey-debate.md|Debate]]--}{++{"author":"Luc's AI","timestamp":1781825649372}@@[[../articles/AI Safety Atlas - Scalable Oversight - Debate|Debate]]++}

@@ -4,4 +4,4 @@ title: "Goal-Directedness"
 ---
 
 #### Article
-source:: [[../articles/grey-goal-directedness.md|Goal-Directedness]]
+source:: {--{"author":"Luc's AI","timestamp":1781825648066}@@[[../articles/grey-goal-directedness.md|Goal-Directedness]]--}{++{"author":"Luc's AI","timestamp":1781825648066}@@[[../articles/AI Safety Atlas - Goal Misgeneralization - Goal-Directedness|Goal-Directedness]]++}

@@ -4,4 +4,4 @@ title: "Iterated Amplification"
 ---
 
 #### Article
-source:: [[../articles/grey-iterated-amplification.md|Iterated Amplification]]
+source:: {--{"author":"Luc's AI","timestamp":1781825649641}@@[[../articles/grey-iterated-amplification.md|Iterated--}{++{"author":"Luc's AI","timestamp":1781825649641}@@[[../articles/AI Safety Atlas - Scalable Oversight - Iterated Amplification|Iterated++} Amplification]]
