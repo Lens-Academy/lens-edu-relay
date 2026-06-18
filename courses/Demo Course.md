@@ -20,7 +20,23 @@ The following two modules will be in week 2, followed by the next meeting %%
 
 # Module: [[../modules/demo-module-with-hidden-imports|Hidden imports demo]]
 
-# Meeting: Name of the second meeting
+# Meeting: Name of the second meeting{++{"author":"Luc's AI","timestamp":1781827085363}@@
+
+# Module: [[../modules/AI Safety Atlas - Capabilities|AI Safety Atlas - Capabilities]]
+
+# Module: [[../modules/AI Safety Atlas - Risks|AI Safety Atlas - Risks]]
+
+# Module: [[../modules/AI Safety Atlas - Strategies|AI Safety Atlas - Strategies]]
+
+# Module: [[../modules/AI Safety Atlas - Governance|AI Safety Atlas - Governance]]
+
+# Module: [[../modules/AI Safety Atlas - Evaluations|AI Safety Atlas - Evaluations]]
+
+# Module: [[../modules/AI Safety Atlas - Specification Gaming|AI Safety Atlas - Specification Gaming]]
+
+# Module: [[../modules/AI Safety Atlas - Goal Misgeneralization|AI Safety Atlas - Goal Misgeneralization]]
+
+# Module: [[../modules/AI Safety Atlas - Scalable Oversight|AI Safety Atlas - Scalable Oversight]]++}
 
 
 %% Please now go through the three modules by clicking on the links, from top to to bottom. They explain many important things. %%
