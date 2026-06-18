@@ -12,6 +12,10 @@ We begin by examining the potential of AI and the risks and opportunities that t
 
 # Learning Outcome: {>>{"author":"Luc","timestamp":1776179135989}@@This one needs a name<<}
 source:: [[../Learning Outcomes/Unknown intro outcome 1]] 
+
+# Lens:
+optional:: true
+source:: [[ai co]]
 # Learning Outcome:
 source:: [[../Learning Outcomes/Objections L1 - Realize objections and rebuttals exist]]
 
