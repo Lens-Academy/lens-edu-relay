@@ -4,4 +4,4 @@ title: "Current Capabilities"
 ---
 
 #### Article
-source:: [[../articles/grey-current-capabilities|Current Capabilities]]
+source:: [[../articles/AI Safety Atlas - Capabilities - Current Capabilities|Current Capabilities]]
