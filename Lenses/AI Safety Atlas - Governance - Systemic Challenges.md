@@ -4,4 +4,4 @@ title: "Systemic Challenges"
 ---
 
 #### Article
-source:: {--{"author":"Luc's AI","timestamp":1781825571155}@@[[../articles/martinet-systemic-challenges.md|Systemic--}{++{"author":"Luc's AI","timestamp":1781825571155}@@[[../articles/AI Safety Atlas - Governance - Systemic Challenges|Systemic++} Challenges]]
+source:: [[../articles/AI Safety Atlas - Governance - Systemic Challenges|Systemic Challenges]]

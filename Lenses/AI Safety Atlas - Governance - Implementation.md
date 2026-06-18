@@ -4,4 +4,4 @@ title: "Implementation"
 ---
 
 #### Article
-source:: {--{"author":"Luc's AI","timestamp":1781825570471}@@[[../articles/martinet-implementation.md|Implementation]]--}{++{"author":"Luc's AI","timestamp":1781825570471}@@[[../articles/AI Safety Atlas - Governance - Implementation|Implementation]]++}
+source:: [[../articles/AI Safety Atlas - Governance - Implementation|Implementation]]

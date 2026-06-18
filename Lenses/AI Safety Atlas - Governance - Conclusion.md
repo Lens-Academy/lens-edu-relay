@@ -4,4 +4,4 @@ title: "Conclusion"
 ---
 
 #### Article
-source:: {--{"author":"Luc's AI","timestamp":1781825569579}@@[[../articles/martinet-conclusion.md|Conclusion]]--}{++{"author":"Luc's AI","timestamp":1781825569579}@@[[../articles/AI Safety Atlas - Governance - Conclusion|Conclusion]]++}
+source:: [[../articles/AI Safety Atlas - Governance - Conclusion|Conclusion]]

@@ -4,4 +4,4 @@ title: "Governance Architectures"
 ---
 
 #### Article
-source:: {--{"author":"Luc's AI","timestamp":1781825569867}@@[[../articles/martinet-governance-architectures.md|Governance--}{++{"author":"Luc's AI","timestamp":1781825569867}@@[[../articles/AI Safety Atlas - Governance - Governance Architectures|Governance++} Architectures]]
+source:: [[../articles/AI Safety Atlas - Governance - Governance Architectures|Governance Architectures]]

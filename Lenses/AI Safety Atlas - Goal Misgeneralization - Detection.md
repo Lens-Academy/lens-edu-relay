@@ -4,4 +4,4 @@ title: "Detection"
 ---
 
 #### Article
-source:: {--{"author":"Luc's AI","timestamp":1781825647782}@@[[../articles/grey-detection.md|Detection]]--}{++{"author":"Luc's AI","timestamp":1781825647782}@@[[../articles/AI Safety Atlas - Goal Misgeneralization - Detection|Detection]]++}
+source:: [[../articles/AI Safety Atlas - Goal Misgeneralization - Detection|Detection]]

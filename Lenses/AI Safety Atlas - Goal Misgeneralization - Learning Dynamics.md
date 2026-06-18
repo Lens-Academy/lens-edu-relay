@@ -4,4 +4,4 @@ title: "Learning Dynamics"
 ---
 
 #### Article
-source:: {--{"author":"Luc's AI","timestamp":1781825648324}@@[[../articles/grey-learning-dynamics.md|Learning--}{++{"author":"Luc's AI","timestamp":1781825648324}@@[[../articles/AI Safety Atlas - Goal Misgeneralization - Learning Dynamics|Learning++} Dynamics]]
+source:: [[../articles/AI Safety Atlas - Goal Misgeneralization - Learning Dynamics|Learning Dynamics]]
