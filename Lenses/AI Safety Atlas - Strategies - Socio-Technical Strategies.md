@@ -4,4 +4,4 @@ title: "Socio-Technical Strategies"
 ---
 
 #### Article
-source:: [[../articles/grey-socio-technical-strategies.md|Socio-Technical Strategies]]
+source:: {--{"author":"Luc's AI","timestamp":1781825568119}@@[[../articles/grey-socio-technical-strategies.md|Socio-Technical--}{++{"author":"Luc's AI","timestamp":1781825568119}@@[[../articles/AI Safety Atlas - Strategies - Socio-Technical Strategies|Socio-Technical++} Strategies]]

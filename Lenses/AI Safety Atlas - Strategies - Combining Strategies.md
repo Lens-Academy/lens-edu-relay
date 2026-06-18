@@ -4,4 +4,4 @@ title: "Combining Strategies"
 ---
 
 #### Article
-source:: [[../articles/grey-combining-strategies.md|Combining Strategies]]
+source:: {--{"author":"Luc's AI","timestamp":1781825567114}@@[[../articles/grey-combining-strategies.md|Combining--}{++{"author":"Luc's AI","timestamp":1781825567114}@@[[../articles/AI Safety Atlas - Strategies - Combining Strategies|Combining++} Strategies]]

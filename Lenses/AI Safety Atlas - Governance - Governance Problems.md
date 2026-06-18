@@ -4,4 +4,4 @@ title: "Governance Problems"
 ---
 
 #### Article
-source:: [[../articles/martinet-governance-problems.md|Governance Problems]]
+source:: {--{"author":"Luc's AI","timestamp":1781825570170}@@[[../articles/martinet-governance-problems.md|Governance--}{++{"author":"Luc's AI","timestamp":1781825570170}@@[[../articles/AI Safety Atlas - Governance - Governance Problems|Governance++} Problems]]

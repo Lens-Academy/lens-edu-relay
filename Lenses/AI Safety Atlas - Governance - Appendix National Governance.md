@@ -4,4 +4,4 @@ title: "Appendix: National Governance"
 ---
 
 #### Article
-source:: [[../articles/martinet-appendix-national-governance.md|Appendix: National Governance]]
+source:: {--{"author":"Luc's AI","timestamp":1781825568858}@@[[../articles/martinet-appendix-national-governance.md|Appendix:--}{++{"author":"Luc's AI","timestamp":1781825568858}@@[[../articles/AI Safety Atlas - Governance - Appendix National Governance|Appendix:++} National Governance]]

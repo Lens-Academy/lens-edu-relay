@@ -4,4 +4,4 @@ title: "Dangerous Capability Evaluations"
 ---
 
 #### Article
-source:: [[../articles/grey-dangerous-capability-evaluations.md|Dangerous Capability Evaluations]]
+source:: {--{"author":"Luc's AI","timestamp":1781825572092}@@[[../articles/grey-dangerous-capability-evaluations.md|Dangerous--}{++{"author":"Luc's AI","timestamp":1781825572092}@@[[../articles/AI Safety Atlas - Evaluations - Dangerous Capability Evaluations|Dangerous++} Capability Evaluations]]
