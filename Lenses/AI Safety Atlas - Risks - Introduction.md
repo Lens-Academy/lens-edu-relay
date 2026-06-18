@@ -4,4 +4,4 @@ title: "Introduction"
 ---
 
 #### Article
-source:: [[../articles/grey-introduction]]
+source:: [[../articles/AI Safety Atlas - Risks - Introduction]]
