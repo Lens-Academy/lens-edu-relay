@@ -4,4 +4,4 @@ title: "AGI Safety Strategies"
 ---
 
 #### Article
-source:: {--{"author":"Luc's AI","timestamp":1781825504623}@@[[../articles/grey-agi-safety-strategies.md|AGI--}{++{"author":"Luc's AI","timestamp":1781825504623}@@[[../articles/AI Safety Atlas - Strategies - AGI Safety Strategies|AGI++} Safety Strategies]]
+source:: [[../articles/AI Safety Atlas - Strategies - AGI Safety Strategies|AGI Safety Strategies]]

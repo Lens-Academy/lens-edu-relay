@@ -4,4 +4,4 @@ title: "Risk Amplifiers"
 ---
 
 #### Article
-source:: {--{"author":"Luc's AI","timestamp":1781825503624}@@[[../articles/grey-risk-amplifiers.md|Risk--}{++{"author":"Luc's AI","timestamp":1781825503624}@@[[../articles/AI Safety Atlas - Risks - Risk Amplifiers|Risk++} Amplifiers]]
+source:: [[../articles/AI Safety Atlas - Risks - Risk Amplifiers|Risk Amplifiers]]

@@ -4,4 +4,4 @@ title: "Control Evaluations"
 ---
 
 #### Article
-source:: {--{"author":"Luc's AI","timestamp":1781825571809}@@[[../articles/grey-control-evaluations.md|Control--}{++{"author":"Luc's AI","timestamp":1781825571809}@@[[../articles/AI Safety Atlas - Evaluations - Control Evaluations|Control++} Evaluations]]
+source:: [[../articles/AI Safety Atlas - Evaluations - Control Evaluations|Control Evaluations]]

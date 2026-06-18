@@ -4,4 +4,4 @@ title: "Leveraging Scale"
 ---
 
 #### Article
-source:: {--{"author":"Luc's AI","timestamp":1781825500546}@@[[../articles/grey-leveraging-scale.md|Leveraging--}{++{"author":"Luc's AI","timestamp":1781825500546}@@[[../articles/AI Safety Atlas - Capabilities - Leveraging Scale|Leveraging++} Scale]]
+source:: [[../articles/AI Safety Atlas - Capabilities - Leveraging Scale|Leveraging Scale]]

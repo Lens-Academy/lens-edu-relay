@@ -4,4 +4,4 @@ title: "Evaluation Techniques"
 ---
 
 #### Article
-source:: {--{"author":"Luc's AI","timestamp":1781825647262}@@[[../articles/grey-evaluation-techniques.md|Evaluation--}{++{"author":"Luc's AI","timestamp":1781825647262}@@[[../articles/AI Safety Atlas - Evaluations - Evaluation Techniques|Evaluation++} Techniques]]
+source:: [[../articles/AI Safety Atlas - Evaluations - Evaluation Techniques|Evaluation Techniques]]

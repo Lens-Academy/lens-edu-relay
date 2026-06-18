@@ -4,4 +4,4 @@ title: "Introduction"
 ---
 
 #### Article
-source:: {--{"author":"Luc's AI","timestamp":1781825570829}@@[[../articles/martinet-introduction.md|Introduction]]--}{++{"author":"Luc's AI","timestamp":1781825570829}@@[[../articles/AI Safety Atlas - Governance - Introduction|Introduction]]++}
+source:: [[../articles/AI Safety Atlas - Governance - Introduction|Introduction]]

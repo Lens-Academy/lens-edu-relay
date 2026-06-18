@@ -4,4 +4,4 @@ title: "Forecasting Timelines"
 ---
 
 #### Article
-source:: {--{"author":"Luc's AI","timestamp":1781825499812}@@[[../articles/grey-forecasting-timelines.md|Forecasting--}{++{"author":"Luc's AI","timestamp":1781825499812}@@[[../articles/AI Safety Atlas - Capabilities - Forecasting Timelines|Forecasting++} Timelines]]
+source:: [[../articles/AI Safety Atlas - Capabilities - Forecasting Timelines|Forecasting Timelines]]

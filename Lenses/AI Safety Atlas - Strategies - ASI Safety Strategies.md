@@ -4,4 +4,4 @@ title: "ASI Safety Strategies"
 ---
 
 #### Article
-source:: {--{"author":"Luc's AI","timestamp":1781825504992}@@[[../articles/grey-asi-safety-strategies.md|ASI--}{++{"author":"Luc's AI","timestamp":1781825504992}@@[[../articles/AI Safety Atlas - Strategies - ASI Safety Strategies|ASI++} Safety Strategies]]
+source:: [[../articles/AI Safety Atlas - Strategies - ASI Safety Strategies|ASI Safety Strategies]]

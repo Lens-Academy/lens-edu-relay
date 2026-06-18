@@ -4,4 +4,4 @@ title: "Reinforcement Learning"
 ---
 
 #### Article
-source:: {--{"author":"Luc's AI","timestamp":1781825651764}@@[[../articles/grey-reinforcement-learning.md|Reinforcement--}{++{"author":"Luc's AI","timestamp":1781825651764}@@[[../articles/AI Safety Atlas - Specification Gaming - Reinforcement Learning|Reinforcement++} Learning]]
+source:: [[../articles/AI Safety Atlas - Specification Gaming - Reinforcement Learning|Reinforcement Learning]]

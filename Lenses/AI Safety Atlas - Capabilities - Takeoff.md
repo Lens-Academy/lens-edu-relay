@@ -4,4 +4,4 @@ title: "Takeoff"
 ---
 
 #### Article
-source:: {--{"author":"Luc's AI","timestamp":1781825500942}@@[[../articles/grey-takeoff.md|Takeoff]]--}{++{"author":"Luc's AI","timestamp":1781825500942}@@[[../articles/AI Safety Atlas - Capabilities - Takeoff|Takeoff]]++}
+source:: [[../articles/AI Safety Atlas - Capabilities - Takeoff|Takeoff]]

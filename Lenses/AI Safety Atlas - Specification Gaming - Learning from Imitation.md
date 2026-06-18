@@ -4,4 +4,4 @@ title: "Learning from imitation"
 ---
 
 #### Article
-source:: {--{"author":"Luc's AI","timestamp":1781825651247}@@[[../articles/grey-learning-from-imitation.md|Learning--}{++{"author":"Luc's AI","timestamp":1781825651247}@@[[../articles/AI Safety Atlas - Specification Gaming - Learning from Imitation|Learning++} from imitation]]
+source:: [[../articles/AI Safety Atlas - Specification Gaming - Learning from Imitation|Learning from imitation]]

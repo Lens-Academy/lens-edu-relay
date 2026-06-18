@@ -4,4 +4,4 @@ title: "Evaluated Properties"
 ---
 
 #### Article
-source:: {--{"author":"Luc's AI","timestamp":1781825572796}@@[[../articles/grey-evaluated-properties.md|Evaluated--}{++{"author":"Luc's AI","timestamp":1781825572796}@@[[../articles/AI Safety Atlas - Evaluations - Evaluated Properties|Evaluated++} Properties]]
+source:: [[../articles/AI Safety Atlas - Evaluations - Evaluated Properties|Evaluated Properties]]

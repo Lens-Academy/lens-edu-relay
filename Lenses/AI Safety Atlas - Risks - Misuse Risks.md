@@ -4,4 +4,4 @@ title: "Misuse Risks"
 ---
 
 #### Article
-source:: {--{"author":"Luc's AI","timestamp":1781825503282}@@[[../articles/grey-misuse-risks.md|Misuse--}{++{"author":"Luc's AI","timestamp":1781825503282}@@[[../articles/AI Safety Atlas - Risks - Misuse Risks|Misuse++} Risks]]
+source:: [[../articles/AI Safety Atlas - Risks - Misuse Risks|Misuse Risks]]

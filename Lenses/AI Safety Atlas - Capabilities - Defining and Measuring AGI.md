@@ -4,4 +4,4 @@ title: "Defining and Measuring AGI"
 ---
 
 #### Article
-source:: {--{"author":"Luc's AI","timestamp":1781825499413}@@[[../articles/grey-defining-and-measuring-agi.md|Defining--}{++{"author":"Luc's AI","timestamp":1781825499413}@@[[../articles/AI Safety Atlas - Capabilities - Defining and Measuring AGI|Defining++} and Measuring AGI]]
+source:: [[../articles/AI Safety Atlas - Capabilities - Defining and Measuring AGI|Defining and Measuring AGI]]

@@ -4,4 +4,4 @@ title: "Evaluation Frameworks"
 ---
 
 #### Article
-source:: {--{"author":"Luc's AI","timestamp":1781825647011}@@[[../articles/grey-evaluation-frameworks.md|Evaluation--}{++{"author":"Luc's AI","timestamp":1781825647011}@@[[../articles/AI Safety Atlas - Evaluations - Evaluation Frameworks|Evaluation++} Frameworks]]
+source:: [[../articles/AI Safety Atlas - Evaluations - Evaluation Frameworks|Evaluation Frameworks]]
