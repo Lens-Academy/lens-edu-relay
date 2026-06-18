@@ -4,4 +4,4 @@ title: "Introduction"
 ---
 
 #### Article
-source:: {--{"author":"Luc's AI","timestamp":1781826577328}@@[[../articles/grey-introduction]]--}{++{"author":"Luc's AI","timestamp":1781826577328}@@[[../articles/AI Safety Atlas - Scalable Oversight - Introduction]]++}
+source:: [[../articles/AI Safety Atlas - Scalable Oversight - Introduction]]
