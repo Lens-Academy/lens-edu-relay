@@ -15,7 +15,7 @@ source:: [[../Learning Outcomes/Unknown intro outcome 1]]
 
 # Lens:
 optional:: true
-source:: [[ai co]]
+source:: [[../Lenses/AI Chronicles - Torchbearer]]
 # Learning Outcome:
 source:: [[../Learning Outcomes/Objections L1 - Realize objections and rebuttals exist]]
 
