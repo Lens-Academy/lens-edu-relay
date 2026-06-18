@@ -4,4 +4,4 @@ title: "Current Capabilities"
 ---
 
 #### Article
-source:: [[../articles/grey-current-capabilities.md|Current Capabilities]]
+source:: [[../articles/grey-current-capabilities|Current Capabilities]]
