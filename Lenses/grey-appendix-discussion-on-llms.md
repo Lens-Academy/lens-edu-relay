@@ -1,0 +1,7 @@
+---
+id: 22de903f-dd0f-44ac-bf42-99b706eaea2a
+title: "Appendix: Discussion on LLMs"
+---
+
+#### Article
+source:: [[../articles/grey-appendix-discussion-on-llms.md|Appendix: Discussion on LLMs]]
