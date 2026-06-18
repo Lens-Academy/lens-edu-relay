@@ -4,4 +4,4 @@ title: "Misalignment Risks"
 ---
 
 #### Article
-source:: [[../articles/grey-misalignment-risks.md|Misalignment Risks]]
+source:: {--{"author":"Luc's AI","timestamp":1781825502861}@@[[../articles/grey-misalignment-risks.md|Misalignment--}{++{"author":"Luc's AI","timestamp":1781825502861}@@[[../articles/AI Safety Atlas - Risks - Misalignment Risks|Misalignment++} Risks]]

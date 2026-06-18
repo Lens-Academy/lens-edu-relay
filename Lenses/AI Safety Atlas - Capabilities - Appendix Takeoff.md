@@ -4,4 +4,4 @@ title: "Appendix: Takeoff"
 ---
 
 #### Article
-source:: [[../articles/grey-appendix-takeoff.md|Appendix: Takeoff]]
+source:: {--{"author":"Luc's AI","timestamp":1781825499060}@@[[../articles/grey-appendix-takeoff.md|Appendix:--}{++{"author":"Luc's AI","timestamp":1781825499060}@@[[../articles/AI Safety Atlas - Capabilities - Appendix Takeoff|Appendix:++} Takeoff]]

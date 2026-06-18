@@ -4,4 +4,4 @@ title: "Appendix: Forecasting Scenarios"
 ---
 
 #### Article
-source:: [[../articles/grey-appendix-forecasting-scenarios.md|Appendix: Forecasting Scenarios]]
+source:: {--{"author":"Luc's AI","timestamp":1781825501354}@@[[../articles/grey-appendix-forecasting-scenarios.md|Appendix:--}{++{"author":"Luc's AI","timestamp":1781825501354}@@[[../articles/AI Safety Atlas - Risks - Appendix Forecasting Scenarios|Appendix:++} Forecasting Scenarios]]

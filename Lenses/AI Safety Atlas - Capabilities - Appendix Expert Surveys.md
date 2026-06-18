@@ -4,4 +4,4 @@ title: "Appendix: Expert Surveys"
 ---
 
 #### Article
-source:: [[../articles/grey-appendix-expert-surveys.md|Appendix: Expert Surveys]]
+source:: {--{"author":"Luc's AI","timestamp":1781825498336}@@[[../articles/grey-appendix-expert-surveys.md|Appendix:--}{++{"author":"Luc's AI","timestamp":1781825498336}@@[[../articles/AI Safety Atlas - Capabilities - Appendix Expert Surveys|Appendix:++} Expert Surveys]]

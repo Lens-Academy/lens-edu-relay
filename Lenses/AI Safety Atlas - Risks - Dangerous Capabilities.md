@@ -4,4 +4,4 @@ title: "Dangerous Capabilities"
 ---
 
 #### Article
-source:: [[../articles/grey-dangerous-capabilities.md|Dangerous Capabilities]]
+source:: {--{"author":"Luc's AI","timestamp":1781825502475}@@[[../articles/grey-dangerous-capabilities.md|Dangerous--}{++{"author":"Luc's AI","timestamp":1781825502475}@@[[../articles/AI Safety Atlas - Risks - Dangerous Capabilities|Dangerous++} Capabilities]]

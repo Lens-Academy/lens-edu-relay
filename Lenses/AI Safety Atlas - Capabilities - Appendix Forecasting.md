@@ -4,4 +4,4 @@ title: "Appendix: Forecasting"
 ---
 
 #### Article
-source:: [[../articles/grey-appendix-forecasting.md|Appendix: Forecasting]]
+source:: {--{"author":"Luc's AI","timestamp":1781825498688}@@[[../articles/grey-appendix-forecasting.md|Appendix:--}{++{"author":"Luc's AI","timestamp":1781825498688}@@[[../articles/AI Safety Atlas - Capabilities - Appendix Forecasting|Appendix:++} Forecasting]]

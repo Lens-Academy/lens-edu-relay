@@ -4,4 +4,4 @@ title: "Risk Decomposition"
 ---
 
 #### Article
-source:: [[../articles/grey-risk-decomposition.md|Risk Decomposition]]
+source:: {--{"author":"Luc's AI","timestamp":1781825503963}@@[[../articles/grey-risk-decomposition.md|Risk--}{++{"author":"Luc's AI","timestamp":1781825503963}@@[[../articles/AI Safety Atlas - Risks - Risk Decomposition|Risk++} Decomposition]]

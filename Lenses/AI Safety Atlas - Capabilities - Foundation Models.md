@@ -4,4 +4,4 @@ title: "Foundation Models"
 ---
 
 #### Article
-source:: [[../articles/grey-foundation-models.md|Foundation Models]]
+source:: {--{"author":"Luc's AI","timestamp":1781825500199}@@[[../articles/grey-foundation-models.md|Foundation--}{++{"author":"Luc's AI","timestamp":1781825500199}@@[[../articles/AI Safety Atlas - Capabilities - Foundation Models|Foundation++} Models]]
