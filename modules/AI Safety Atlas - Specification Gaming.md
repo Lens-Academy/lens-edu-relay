@@ -1,7 +1,7 @@
 ---
 id: e62e1196-367d-4300-83a2-af0da06b0e4e
 slug: ai-safety-atlas-specification-gaming
-title: AI Safety Atlas - Specification Gaming
+title: {--{"author":"Luc's AI","timestamp":1781830635854}@@AI Safety Atlas - --}Specification Gaming
 ---
 
 # Lens:

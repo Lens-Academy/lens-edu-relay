@@ -1,7 +1,7 @@
 ---
 id: e951d1fa-b4a6-439c-a3a8-36bd58b47d4e
 slug: ai-safety-atlas-risks
-title: AI Safety Atlas - Risks
+title: {--{"author":"Luc's AI","timestamp":1781830613431}@@AI Safety Atlas - --}Risks
 ---
 
 # Lens:
