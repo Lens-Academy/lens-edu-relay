@@ -5,7 +5,6 @@ tags:
   - work-in-progress
 ---
 
-## Learning outcome:
 {>>TODO: write learning outcome statement — e.g. "Apply the case for including animals in our moral consideration, drawing on the scale of factory farming and arguments about sentience."<<}
 
 ## Test:

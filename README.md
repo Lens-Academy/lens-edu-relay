@@ -25,6 +25,7 @@ Obsidian → Relay → staging branch → PR → main branch → Production
 
 ## Structure
 ### Course structure
+```
 **Course** - list of 
 : **Week** - where each week has 1 or more
 :: **Module** - list of
@@ -35,10 +36,11 @@ Obsidian → Relay → staging branch → PR → main branch → Production
 ::::: A. One **Resource** {article, video, a section from one of them, or a little app to teach something}
 ::::: B. **Prompt(s)** for the AI tutor to talk to the student (optional)
 ::::: C. Some extra bits like framing texts etc (optional)
+```
 
 This is implemented as shown below:
 #### Modules
-e.g. `Lens Educational Content/Modules/module.md`
+e.g. `Lens Edu/modules/module.md`
 Required frontmatter: `slug`, `title`, `id`
 
 Any number of
@@ -64,7 +66,7 @@ source:: [[link to Lens note]]
 ```
 
 #### Learning Outcomes
-e.g. `Lens Educational Content/Learning Outcomes/learning-outcome.md`
+e.g. `Lens Edu/Learning Outcomes/learning-outcome.md`
 Required frontmatter: `id`
 
 Any number of
@@ -84,7 +86,7 @@ Example:
 ```
 
 #### Lenses
-e.g. `Lens Educational Content/Lenses/lens.md`
+e.g. `Lens Edu/Lenses/lens.md`
 Required frontmatter: `id`
 
 Lenses are flat: frontmatter + H4 segments. No H3 section headers.

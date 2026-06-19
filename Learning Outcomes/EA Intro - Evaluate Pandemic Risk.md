@@ -5,7 +5,6 @@ tags:
   - work-in-progress
 ---
 
-## Learning outcome:
 {>>TODO: write learning outcome statement — e.g. "Evaluate the risk from engineered pandemics, including the key pathways, warning signs, and why this risk may be increasing."<<}
 
 ## Test:

@@ -5,7 +5,6 @@ tags:
   - work-in-progress
 ---
 
-## Learning outcome:
 {>>TODO: write learning outcome statement — e.g. "Explain marginal impact — the effect of the next unit of resource — and why it differs from average impact."<<}
 
 ## Test:

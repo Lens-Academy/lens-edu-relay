@@ -5,7 +5,6 @@ tags:
   - work-in-progress
 ---
 
-## Learning outcome:
 {>>TODO: write learning outcome statement — e.g. "Enumerate at least five less-common cause candidates beyond the EA mainstream, and explain what criteria would make them worth prioritising."<<}
 
 ## Test:

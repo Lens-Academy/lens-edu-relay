@@ -1,0 +1,32 @@
+---
+id: ef80add7-a70c-4521-9d1a-1a5fdceb75bd
+learning-outcome: "Distinguish prep that moves session quality from prep that is busywork. Build a 20-30 minute prep template for your next session."
+authors:
+  - Yatharth+Claude
+tags:
+  - learning-outcome
+  - facilitator-training
+---
+
+## Test:
+id:: 729042fd-6164-4bae-8ceb-203d5995ee35
+
+#### Question
+feedback:: true
+content:: You will be tempted to over-prepare. Reading the entire reading three times, writing 15 candidate questions, drafting an opening monologue — these feel diligent. They mostly aren't. There's a small list of prep moves that reliably improve quality and a longer list that's busywork.
+
+Name three prep moves that actually move session quality, and three prep moves that are busywork. For each "busywork" item — why does it feel useful but actually isn't?
+
+assessment-instructions::
+**1** — Treats over-preparation as a virtue. Cannot distinguish high-value from low-value prep.
+
+**2** — Names some prep moves but conflates volume with quality.
+
+**3** — Names at least three high-value moves (did the reading once with participant's eye; three good questions ordered; one backup plan for one foreseeable problem; rough session shape/timing) AND three busywork moves (scripting opening word-for-word; writing detailed answers to own questions; designing elaborate activities; re-reading 4 times). For each busywork move, explains why it feels useful but isn't.
+
+**4** — As above, plus identifies that "three good questions, ordered" should be one opener (low-stakes), one mid-session deepener, one applicator — not three on the same theme.
+
+**5** — As above, plus pre-commits to a 20-30 minute prep ceiling for their next session and articulates how they'll resist the pull to do more.
+
+## Lens:
+source:: ![[../Lenses/Facilitator Flat - Prep Discipline]]

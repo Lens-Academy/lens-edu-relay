@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780340700325}@@---
+---
 title: "Independent Impressions"
 source_url: https://forum.effectivealtruism.org/posts/2WS3i7eY4CdLH99eg/independent-impressions
 authors:
@@ -37,4 +37,3 @@ For example: My independent impression is that it's plausible that an unrecovera
 *This term, this concept, and these suggested norms aren't at all original to me — see in particular [Naming beliefs](https://www.overcomingbias.com/2008/04/naming-beliefs.html) and several of the posts tagged [Epistemic humility](https://forum.effectivealtruism.org/topics/epistemic-humility). But I wanted a clear, concise description of this specific set of terms and norms so that I could link to it whenever I say I'm reporting my independent impression, ask someone for theirs, or ask someone whether an opinion they've given is their independent impression or their all-things-considered belief.*
 
 *This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).*
-++}

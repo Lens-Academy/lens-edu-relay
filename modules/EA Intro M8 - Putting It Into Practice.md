@@ -7,12 +7,13 @@ tags:
   - ea-intro-program
   - work-in-progress
 ---
+# Submodule: Introduction
 # Lens: Welcome
 id:: 49556802-217e-48c9-93f1-c213ca655a86
 
 #### Text
 content:: {>>TODO: add module welcome text (~51 min module)<<}
-
+# Lens: Putting It Into Practice Introduction
 source:: ![[../Lenses/EA Intro - Putting It Into Practice Introduction]]
 
 # Submodule: Attitudes to doing good

@@ -5,7 +5,6 @@ tags:
   - work-in-progress
 ---
 
-## Learning outcome:
 {>>TODO: write learning outcome statement — e.g. "Apply the ITN (Importance, Tractability, Neglectedness) framework to compare global problems and explain why each dimension matters."<<}
 
 ## Test:

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780344065845}@@---
+---
 title: "What Is Evidence?"
 source_url: https://www.lesswrong.com/s/6xgy8XYEisLk3tCjH/p/6s3xABaXKPdFwA3FS
 authors:
@@ -25,4 +25,3 @@ tags:
 > — Aristotle, *Metaphysics IV*
 
 {>>TODO: Licensed content<<}
-++}

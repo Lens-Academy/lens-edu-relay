@@ -5,7 +5,6 @@ tags:
   - work-in-progress
 ---
 
-## Learning outcome:
 {>>TODO: write learning outcome statement — e.g. "Apply expected value reasoning to evaluate interventions with low probability of very large impact, and explain the assumptions this requires."<<}
 
 ## Test:

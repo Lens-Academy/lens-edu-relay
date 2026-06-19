@@ -15,33 +15,37 @@ tags:
 ---
 
 # Submodule: Welcome
-# Lens: M4 Welcome
+# Lens: Running the Session — In-the-Moment Craft
 source:: ![[../Lenses/Facilitator - M4 Welcome]]
 
-# Submodule: 4.1 - The four perspectives
-# Learning Outcome: Facilitator - Four Perspectives
-source:: ![[../Learning Outcomes/Facilitator - Four Perspectives]]
+# Submodule: 4.1 The four perspectives a facilitator holds
+# Lens: 4.1 The four perspectives a facilitator holds
+source:: ![[../Lenses/Facilitator - Four Perspectives]]
 
-# Submodule: 4.2 - Reading the room
-# Learning Outcome: Facilitator - Reading the Room
-source:: ![[../Learning Outcomes/Facilitator - Reading the Room]]
+# Submodule: 4.2 Reading the room
+# Lens: 4.2 Reading the room
+source:: ![[../Lenses/Facilitator - Reading the Room]]
 
-# Submodule: 4.3 - Asking questions that produce thinking
-# Learning Outcome: Facilitator - Asking Questions
-source:: ![[../Learning Outcomes/Facilitator - Asking Questions]]
+# Submodule: 4.3 Asking questions that produce thinking
+# Lens: 4.3 Asking questions that produce thinking
+source:: ![[../Lenses/Facilitator - Asking Questions]]
 
-# Submodule: 4.4 - Taking shares
-# Learning Outcome: Facilitator - Taking Shares
-source:: ![[../Learning Outcomes/Facilitator - Taking Shares]]
+# Submodule: 4.4 Taking shares: seven moves and when to use each
+# Lens: 4.4 Taking shares: seven moves and when to use each
+source:: ![[../Lenses/Facilitator - Taking Shares]]
 
-# Submodule: 4.5 - Engaging quiet participants
-# Learning Outcome: Facilitator - Engaging Quiet Participants
-source:: ![[../Learning Outcomes/Facilitator - Engaging Quiet Participants]]
+# Submodule: 4.5 Engaging quiet participants
+# Lens: 4.5 Engaging quiet participants
+source:: ![[../Lenses/Facilitator - Engaging Quiet Participants]]
 
-# Submodule: 4.6 - Keeping engagement over a full session
-# Learning Outcome: Facilitator - Keeping Engagement
-source:: ![[../Learning Outcomes/Facilitator - Keeping Engagement]]
+# Submodule: 4.6 Keeping engagement over a full session
+# Lens: 4.6 Keeping engagement over a full session
+source:: ![[../Lenses/Facilitator - Keeping Engagement]]
+
+# Submodule: Practical exercise
+# Lens: Practical exercise
+source:: ![[../Lenses/Facilitator - M4 Closing Exercise]]
 
 # Submodule: Dive Deeper
-# Lens: Overview of Optional Resources
+# Lens: Optional resources
 source:: ![[../Lenses/Facilitator - Overview of Optional Resources M4]]

@@ -5,7 +5,6 @@ tags:
   - work-in-progress
 ---
 
-## Learning outcome:
 {>>TODO: write learning outcome statement — e.g. "Explain why some charities are orders of magnitude more effective than others, and identify the factors that drive these differences."<<}
 
 ## Test:

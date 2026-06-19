@@ -5,7 +5,6 @@ tags:
   - work-in-progress
 ---
 
-## Learning outcome:
 {>>TODO: write learning outcome statement — e.g. "Describe the longtermist AI governance landscape, including the key actors, approaches, and open questions about how to reduce risks from advanced AI through policy and institutions."<<}
 
 ## Test:

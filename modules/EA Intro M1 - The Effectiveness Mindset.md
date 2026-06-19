@@ -7,13 +7,15 @@ tags:
   - ea-intro-program
   - work-in-progress
 ---
+# Submodule: Introduction
 # Lens: Welcome
 id:: 171bf51b-9a78-446f-bcca-0234c08dfe89
 
 #### Text
 content:: 
-TODO: add module welcome text
+# Lens: About This Handbook
 source:: ![[../Lenses/EA Intro - About This Handbook]]
+# Lens: The Effectiveness Mindset (Dalton)
 source:: ![[../Lenses/EA Intro - The Effectiveness Mindset (Dalton)]]
 # Submodule: On effective altruism
 # Learning Outcome: EA Intro - Explain What Effective Altruism Is

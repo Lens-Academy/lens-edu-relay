@@ -5,7 +5,6 @@ tags:
   - work-in-progress
 ---
 
-## Learning outcome:
 {>>TODO: write learning outcome statement — e.g. "Identify at least three concrete next steps for getting more involved in EA — including career advising, local groups, and EA Global events."<<}
 
 ## Test:

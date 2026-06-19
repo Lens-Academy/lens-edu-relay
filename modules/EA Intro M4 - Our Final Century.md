@@ -7,13 +7,13 @@ tags:
   - ea-intro-program
   - work-in-progress
 ---
+# Submodule: Introduction
 # Lens: Welcome
 id:: cbaba3f4-72e6-4d8f-af37-049fdfafcf05
 
 #### Text
 content:: {>>TODO: add module welcome text (~49 min module)<<}
-
-## Lens:
+# Lens: Our Final Century Introduction
 source:: ![[../Lenses/EA Intro - Our Final Century Introduction]]
 
 # Submodule: Existential risks

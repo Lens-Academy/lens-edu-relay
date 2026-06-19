@@ -5,7 +5,6 @@ tags:
   - work-in-progress
 ---
 
-## Learning outcome:
 {>>TODO: write learning outcome statement — e.g. "Apply superforecasting techniques — including reference classes, calibration, and updating on evidence — to reason carefully about uncertain future events."<<}
 
 ## Test:

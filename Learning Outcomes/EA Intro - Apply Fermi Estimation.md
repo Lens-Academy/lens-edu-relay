@@ -5,7 +5,6 @@ tags:
   - work-in-progress
 ---
 
-## Learning outcome:
 {>>TODO: write learning outcome statement — e.g. "Apply Fermi estimation to produce rough-but-useful quantitative assessments of intervention size and impact."<<}
 
 ## Test:

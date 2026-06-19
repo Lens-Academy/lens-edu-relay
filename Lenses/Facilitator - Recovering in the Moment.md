@@ -1,7 +1,7 @@
 ---
 id: b4d00efb-af90-4b5d-8394-80d35288aba7
-summary_for_tutor: "Teaches the 'name it, apologise lightly if warranted, move forward' recovery pattern and reframes pushback as information about cohort safety, not personal failure."
-title: "Recovering in the Moment"
+summary_for_tutor: "The 'name it, apologise lightly if warranted, move forward' recovery pattern with examples, and the 'pushback is information' reframe. Text only. No chat."
+title: "5.2 Recovering in the moment"
 tldr: "Everything is recoverable. The recovery move is the same: name it, apologise lightly if warranted, move forward. The mistake is pretending the failure didn't happen."
 authors:
   - Yatharth+Claude
@@ -11,8 +11,6 @@ tags:
 ---
 #### Text
 content::
-\## Read
-
 You will, at some point in your facilitating life:
 
 - Say something factually wrong.
@@ -35,32 +33,10 @@ The mistake is *not* the failure. **The mistake is pretending the failure didn't
 
 \## The bigger reframe: pushback is information
 
-When a participant pushes back on you — *especially* in a way that lands a real point — they have given you a gift:
+When a participant pushes back on you — *especially* in a way that lands a real point — they have given you a gift. They've told you something about either:
 
-- A weakness in the framing you used (you learn).
-- A discomfort or confusion in the room that needed surfacing (the room now feels safer).
-- Their own thinking, which you wouldn't have heard if they'd held back (the discussion just got better).
+- A weakness in the framing you used (in which case, you learn).
+- A discomfort or confusion in the room that needed surfacing (in which case, the room now feels safer).
+- Their own thinking, which you wouldn't have heard if they'd held back (in which case, the discussion just got better).
 
-Treat being pushed back on as a positive signal about cohort safety, not as a personal failure. If nobody ever pushes back on you, *that's* the warning sign — it means they don't think they can.
-
-\## After
-
-Pick the failure you're most afraid of. Write your specific recovery line — the one you'd actually say.
-
-#### Chat
-instructions::
-The trainee has just read the recovery patterns.
-
-Learning outcome for this Lens: Apply the recovery pattern to three failures, articulate why pushback is information.
-
-Key concepts:
-- Name it, apologise lightly if warranted, move forward
-- The mistake is pretending the failure didn't happen, not the failure itself
-- Pushback is positive signal about cohort safety
-- Warning sign: nobody pushes back ever
-
-Discussion guidance:
-- If they want to "deflect" or "redirect" past a failure rather than name it, walk through why naming works: the group already noticed, so naming brings you back into alignment with them.
-- The "apologise lightly" part is important — heavy apologies make the room uncomfortable. Light = brief acknowledgment, then move.
-
-Probe: "If a participant pushed back hard on something you said and they were right, what's the worst version of how you might respond — and what cue would tell you you're doing it?"
+Treat being pushed back on as a positive signal about the cohort's safety, not as a personal failure. If nobody ever pushes back on you, *that's* the warning sign — it means they don't think they can.

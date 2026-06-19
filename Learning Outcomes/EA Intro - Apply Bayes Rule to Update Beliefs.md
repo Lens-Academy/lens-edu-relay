@@ -5,7 +5,6 @@ tags:
   - work-in-progress
 ---
 
-## Learning outcome:
 {>>TODO: write learning outcome statement — e.g. "Apply Bayes' rule to update probability estimates based on new evidence, and explain what it means for a belief to 'pay rent' in anticipated experiences."<<}
 
 ## Test:

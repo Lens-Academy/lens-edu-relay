@@ -5,7 +5,6 @@ tags:
   - work-in-progress
 ---
 
-## Learning outcome:
 {>>TODO: write learning outcome statement — e.g. "Explain the key mechanisms by which advanced AI could cause catastrophic outcomes, including misalignment and misuse scenarios."<<}
 
 ## Test:

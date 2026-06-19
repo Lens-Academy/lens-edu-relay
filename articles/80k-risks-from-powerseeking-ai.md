@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780421605550}@@---
+---
 title: "Risks from power-seeking AI systems"
 source_url: "https://80000hours.org/problem-profiles/risks-from-power-seeking-ai/"
 author:
@@ -35,43 +35,6 @@ The rest of this article looks at why AI power-seeking poses severe risks, what 
 Preventing future power-seeking AIs from disempowering humanity is one of the most pressing problems of our time to work on. The window for developing effective safeguards may be narrow, and the stakes are extremely high. And we think there are promising research directions and policy approaches that could make the difference between beneficial AI and an [existential catastrophe](https://80000hours.org/articles/existential-risks/).
 
 In the years since we first encountered these arguments and advised people to work on the problem, the field has changed dramatically. AI has progressed rapidly, we think powerful systems are likely to [arrive sooner](https://80000hours.org/agi/guide/when-will-agi-arrive/) than we once thought, and the risks are more widely discussed. We think the threat from advanced AI systems remains, and empirical evidence (discussed in this article) has provided some support — though it’s far from definitive — for the concerns about power-seeking AI.
-
-### Our overall view
-
-#### Recommended - highest priority
-
-We think this is among the most pressing problems in the world.
-
-##### Profile depth
-
-In-depth
-
-This is one of many profiles we've written to help people find the most pressing problems they can solve with their careers. [Learn more](https://80000hours.org/career-guide/most-pressing-problems/) about how we compare different problems and see [how this problem compares to the others](https://80000hours.org/problem-profiles/) we've considered so far.
-
-## On this page
-
-- [1 Why are risks from power-seeking AI a pressing world problem?](#pressing-problem)
-  - [1.1 1. Humans will likely build advanced AI systems with long-term goals](#section-one)
-  - [1.2 2. AIs with long-term goals may be inclined to seek power and aim to disempower humanity](#section-two)
-  - [1.3 3. These power-seeking AI systems could successfully disempower humanity and cause an existential catastrophe](#section-three)
-  - [1.4 4. People might create power-seeking AI systems without enough safeguards, despite the risks](#section-four)
-  - [1.5 5. Work on this problem is neglected and tractable](#section-five)
-    - [1.5.1 Technical safety approaches](#technical-safety)
-    - [1.5.2 Governance and policy approaches](#governance)
-- [2 What are the arguments against working on this problem?](#objections)
-    - [2.0.1 Maybe advanced AI systems won't pursue their own goals; they'll just be tools controlled by humans.](#maybe-advanced-ai-systems-wont-pursue-their-own-goals-theyll-just-be-tools-controlled-by-humans)
-    - [2.0.2 Even if AI systems develop their own goals, they might not seek power to achieve them.](#even-if-ai-systems-develop-their-own-goals-they-might-not-seek-power-to-achieve-them)
-    - [2.0.3 If this argument is right, why aren't all capable humans dangerously power-seeking?](#if-this-argument-is-right-why-arent-all-capable-humans-dangerously-power-seeking)
-    - [2.0.4 Maybe we won't build AIs that are smarter than humans, so we don't have to worry about them taking over.](#maybe-we-wont-build-ais-that-are-smarter-than-humans-so-we-dont-have-to-worry-about-them-taking-over)
-    - [2.0.5 We might solve these problems by default anyway when trying to make AI systems useful.](#we-might-solve-these-problems-by-default-anyway-when-trying-to-make-ai-systems-useful)
-    - [2.0.6 Powerful AI systems of the future will be so different that work today isn't useful.](#powerful-ai-systems-of-the-future-will-be-so-different-that-work-today-isnt-useful)
-    - [2.0.7 The problem might be extremely difficult to solve.](#the-problem-might-be-extremely-difficult-to-solve)
-    - [2.0.8 Couldn't we just unplug an AI that's pursuing dangerous goals?](#couldnt-we-just-unplug-an-ai-thats-pursuing-dangerous-goals)
-    - [2.0.9 Couldn't we just 'sandbox' any potentially dangerous AI until we know it's safe?](#couldnt-we-just-sandbox-any-potentially-dangerous-ai-until-we-know-its-safe)
-    - [2.0.10 A truly intelligent system would know not to do harmful things.](#a-truly-intelligent-system-would-know-not-to-do-harmful-things)
-- [3 How you can help](#how-you-can-help)
-  - [3.1 Want one-on-one advice on pursuing this path?](#want-one-on-one-advice-on-pursuing-this-path)
-- [4 Learn more](#learn-more)
 
 ## Why are risks from power-seeking AI a pressing world problem?
 
@@ -667,8 +630,6 @@ We’ve also provided a more general argument [here](https://80000hours.org/prob
 
 *We thank Neel Nanda, Ryan Greenblatt, Alex Lawsen, and Arden Koehler for providing feedback on a draft of this article. Benjamin Hilton wrote a previous version of this article, some of which was incorporated here.*
 
-## Notes and references
-
 [^1]: All this really happened in a controlled evaluation conducted by researchers at METR, who were testing whether advanced AI systems might engage in deceptive behavior when pursuing their objectives. METR develops evaluations that determine whether AI systems are potentially dangerous — perhaps catastrophically so.
     
     This incident, documented [here](https://metr.org/taskrabbit.pdf) by METR (then called ARC Evals), was a real interaction with a human worker that was carried out under test conditions.
@@ -907,4 +868,3 @@ We’ve also provided a more general argument [here](https://80000hours.org/prob
     > In this trial, the availability of an LLM to physicians as a diagnostic aid did not significantly improve clinical reasoning compared with conventional resources. The LLM alone demonstrated higher performance than both physician groups, indicating the need for technology and workforce development to realize the potential of physician-artificial intelligence collaboration in clinical practice.
 
 [^42]: For example, Elliot Thornley has proposed methods for limiting the time horizon over which an AI system has preferences. This would theoretically allow the system to be shut down if it’s behaving in undesired ways. See more [here](https://arxiv.org/abs/2505.20203).
-++}

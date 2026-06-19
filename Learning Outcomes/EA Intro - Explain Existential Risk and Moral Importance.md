@@ -5,7 +5,6 @@ tags:
   - work-in-progress
 ---
 
-## Learning outcome:
 {>>TODO: write learning outcome statement — e.g. "Explain what existential risks are, why they warrant special moral concern, and why they might be neglected relative to their importance."<<}
 
 ## Test:

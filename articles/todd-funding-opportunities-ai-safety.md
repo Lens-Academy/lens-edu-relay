@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780343915625}@@---
+---
 title: "It Looks Like There Are Some Good Funding Opportunities in AI Safety Right Now"
 source_url: https://benjamintodd.substack.com/p/looks-like-there-are-some-good-funding
 authors:
@@ -18,4 +18,3 @@ tags:
 ---
 
 {>>TODO: Licensed content<<}
-++}

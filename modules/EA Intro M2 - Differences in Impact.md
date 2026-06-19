@@ -7,12 +7,13 @@ tags:
   - ea-intro-program
   - work-in-progress
 ---
+# Submodule: Introduction
 # Lens: Welcome
 id:: 698a0649-c5d2-4fd2-a22b-53429864368b
 
 #### Text
 content:: 
-
+# Lens: Differences in Impact
 source:: ![[../Lenses/EA Intro - Differences in Impact]]
 
 # Submodule: ITN framework

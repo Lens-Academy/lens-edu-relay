@@ -5,8 +5,7 @@ tags:
   - work-in-progress
 ---
 
-{--{"author":"AI","timestamp":1780401175072}@@## Learning outcome:
---}{>>TODO: write learning outcome statement — e.g. "Explain the principle of impartiality in moral consideration and what it means to extend genuine empathy across geographic, temporal, and species boundaries."<<}
+{>>TODO: write learning outcome statement — e.g. "Explain the principle of impartiality in moral consideration and what it means to extend genuine empathy across geographic, temporal, and species boundaries."<<}
 
 ## Test:
 {>>TODO: write assessment question or task<<}

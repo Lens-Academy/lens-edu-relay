@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780340658777}@@---
+---
 title: "Risks from Artificial Intelligence (AI)"
 source_url: https://forum.effectivealtruism.org/posts/XLmFXLpCMEnwXQqnz/risks-from-artificial-intelligence-ai
 authors:
@@ -20,4 +20,3 @@ Transformative artificial intelligence may well be developed this century. If it
 You will also learn about strategies to prevent an AI-related catastrophe and the possibility of so-called "s-risks".
 
 *This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).*
-++}

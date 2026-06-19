@@ -1,0 +1,30 @@
+---
+title: "Conclusion"
+author:
+  - "Markov Grey"
+  - "Charbel-Raphaël Segerie"
+source_url: "https://ai-safety-atlas.com/chapters/v1/risks/conclusion/"
+published: 2026-06-18
+created: 2026-06-18
+accessed: 2026-06-18
+description:
+tags:
+  - "article-importer"
+---
+
+AI's interconnected risks demand a multidisciplinary safety approach to preserve its potential for immense human benefit.
+
+---
+
+> Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war.
+> — CAIS
+
+This chapter shows that there are many possible risks from AI systems. Today's documented harms already affect thousands, and potential existential threats that could affect all future generations. There is a lot of disagreement and lack of consensus on what the biggest problems are. Dangerous capabilities are already emerging in current systems. We are seeing empirical demonstrations of misalignment and misuse risks. Many of these individual risks can interact with each other and further compound through systemic effects—misuse enables misalignment, competitive pressures amplify accidents, and coordination failures prevent collective safeguards.
+
+**There is existential hope - the future of AI holds tremendous potential for human flourishing alongside these risks.** Properly developed AI systems could help solve humanity's greatest challenges - curing diseases, reversing environmental damage, eliminating poverty, and expanding human knowledge and creativity beyond current limitations. The same capabilities that create risks also offer unprecedented opportunities to enhance human welfare, extend healthy lifespans, explore space, and achieve levels of prosperity and understanding previously unimaginable. Many researchers work on AI safety precisely because they believe the positive potential is so enormous that ensuring beneficial outcomes justifies extensive precautionary efforts. The goal is not to prevent AI development but to steer it toward configurations that maximize benefits while minimizing risks.
+
+While the risks are immense we hope the message of existential hope motivates you to work on mitigating some of these risks. Good futures are possible, but they don't happen by default. They need active work and planned strategies. We think it is necessary to develop a global, multidisciplinary approach to AI safety that encompasses technical safeguards, robust ethical frameworks, and international cooperation. The development of AI technologies requires the involvement of policymakers, ethicists, social scientists, and the broader public to navigate the moral and societal implications of AI.
+
+![Figure 2.40](https://ai-safety-atlas.com/_astro/c66d4d4b75163929dfdc0366e40ef9b60393cbd232739497424d14e6ffe20096.lPu5AsAZ_Zzxfix.webp)
+
+*Figure 2.40: Let's make sure this does not happen. Image by XKCD ([XKCD](https://xkcd.com/))*

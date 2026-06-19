@@ -6,8 +6,8 @@ discussion: https://discord.com/channels/1440725236843806762/1465348335249522768
 
 
 ## Lens:
-source:: [[../Lenses/A.I. - Humanity's Final Invention]]
+source:: [[../Lenses/The AI Book That's Freaking Out National Security Advisors]]
 
 ## Lens:
 source::
-![[../Lenses/Wikipedia Existential Risk]]
+[[../Lenses/Risks from power-seeking AI]]

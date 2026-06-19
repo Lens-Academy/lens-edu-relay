@@ -1,5 +1,5 @@
 ---
-title: "Pythia — LessWrong"
+title: "Pythia"
 source_url: "https://www.lesswrong.com/posts/qqEndN5Cuzbat9fyx/pythia"
 author:
   - "plex"

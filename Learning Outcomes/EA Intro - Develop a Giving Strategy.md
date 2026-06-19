@@ -5,7 +5,6 @@ tags:
   - work-in-progress
 ---
 
-## Learning outcome:
 {>>TODO: write learning outcome statement — e.g. "Develop a personal giving strategy informed by EA principles, including how to use GiveWell and Giving What We Can as starting points."<<}
 
 ## Test:

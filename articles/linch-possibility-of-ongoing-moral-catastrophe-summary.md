@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1780343897277}@@---
+---
 title: "The Possibility of an Ongoing Moral Catastrophe (Summary)"
 source_url: https://forum.effectivealtruism.org/posts/Dtr8aHqCQSDhyueFZ/the-possibility-of-an-ongoing-moral-catastrophe-summary
 author:
@@ -102,4 +102,3 @@ The paper is readable and not behind a paywall, so I'd highly recommend reading 
 3. However, this is still worth doing in the short term.
 
 *This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).*
-++}

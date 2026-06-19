@@ -5,7 +5,6 @@ tags:
   - work-in-progress
 ---
 
-## Learning outcome:
 {>>TODO: write learning outcome statement — e.g. "Describe what a genuinely good long-term future might look like and explain why getting there requires active effort rather than relying on default trends."<<}
 
 ## Test:

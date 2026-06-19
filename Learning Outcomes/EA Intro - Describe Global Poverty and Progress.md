@@ -5,7 +5,6 @@ tags:
   - work-in-progress
 ---
 
-## Learning outcome:
 {>>TODO: write learning outcome statement — e.g. "Describe the current scale of global poverty, the progress made in recent decades, and the persistent gaps that remain."<<}
 
 ## Test:

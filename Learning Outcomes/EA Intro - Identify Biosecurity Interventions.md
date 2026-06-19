@@ -5,7 +5,6 @@ tags:
   - work-in-progress
 ---
 
-## Learning outcome:
 {>>TODO: write learning outcome statement — e.g. "Identify concrete, tractable interventions for improving global biosecurity, and explain why this cause area may be neglected relative to its importance."<<}
 
 ## Test:

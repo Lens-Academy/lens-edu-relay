@@ -5,7 +5,6 @@ tags:
   - work-in-progress
 ---
 
-## Learning outcome:
 {>>TODO: write learning outcome statement — e.g. "Explain what effective altruism is, its core principles, and why it is described as both a research project and a practical movement."<<}
 
 ## Test:

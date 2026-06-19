@@ -7,12 +7,13 @@ tags:
   - ea-intro-program
   - work-in-progress
 ---
+# Submodule: Introduction
 # Lens: Welcome
 id:: d5063485-e5ff-416c-b4a1-808ee7aed50b
 
 #### Text
 content:: {>>TODO: add module welcome text (~105 min module)<<}
-
+# Lens: What Do You Think Introduction
 source:: ![[../Lenses/EA Intro - What Do You Think Introduction]]
 
 # Submodule: Bayes' rule and evidence

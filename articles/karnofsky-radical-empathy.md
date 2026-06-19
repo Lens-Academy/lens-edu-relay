@@ -1,6 +1,6 @@
 ---
 title: "Radical Empathy"
-source_url: https://www.openphilanthropy.org/blog/radical-empathy
+source_url: https://coefficientgiving.org/research/radical-empathy
 author:
   - Holden Karnofsky
 published: 2017-02-16

@@ -15,29 +15,37 @@ tags:
 ---
 
 # Submodule: Welcome
-# Lens: M5 Welcome
+# Lens: Hard Moments, Coaching, and Closing
 source:: ![[../Lenses/Facilitator - M5 Welcome]]
 
-# Submodule: 5.1 - Default failure mode under pressure
-# Learning Outcome: Facilitator - Default Failure Mode
-source:: ![[../Learning Outcomes/Facilitator - Default Failure Mode]]
+# Submodule: 5.1 Your default failure mode under pressure
+# Lens: 5.1 Your default failure mode under pressure
+source:: ![[../Lenses/Facilitator - Default Failure Mode]]
 
-# Submodule: 5.2 - Recovering in the moment
-# Learning Outcome: Facilitator - Recovering in the Moment
-source:: ![[../Learning Outcomes/Facilitator - Recovering in the Moment]]
+# Submodule: 5.2 Recovering in the moment
+# Lens: 5.2 Recovering in the moment
+source:: ![[../Lenses/Facilitator - Recovering in the Moment]]
 
-# Submodule: 5.3 - Handling challenging behaviours
-# Learning Outcome: Facilitator - Challenging Behaviours
-source:: ![[../Learning Outcomes/Facilitator - Challenging Behaviours]]
+# Submodule: 5.3 Handling challenging behaviours
+# Lens: 5.3 Handling challenging behaviours
+source:: ![[../Lenses/Facilitator - Challenging Behaviours]]
 
-# Submodule: 5.4 - Coaching 1-on-1
-# Learning Outcome: Facilitator - Coaching One-on-One
-source:: ![[../Learning Outcomes/Facilitator - Coaching One-on-One]]
+# Submodule: 5.4 Coaching: when participants come to you 1-on-1
+# Lens: 5.4 Coaching: when participants come to you 1-on-1
+source:: ![[../Lenses/Facilitator - Coaching One-on-One]]
 
-# Submodule: 5.5 - Closing well
-# Learning Outcome: Facilitator - Closing Well
-source:: ![[../Learning Outcomes/Facilitator - Closing Well]]
+# Submodule: 5.5 Closing well — the elegant finale
+# Lens: 5.5 Closing well — the elegant finale
+source:: ![[../Lenses/Facilitator - Closing Well]]
+
+# Submodule: Final exercise
+# Lens: Final exercise
+source:: ![[../Lenses/Facilitator - M5 Closing Exercise]]
 
 # Submodule: Dive Deeper
-# Lens: Overview of Optional Resources
+# Lens: Optional resources
 source:: ![[../Lenses/Facilitator - Overview of Optional Resources M5]]
+
+# Submodule: You're done
+# Lens: You're done
+source:: ![[../Lenses/Facilitator - M5 Youre Done]]

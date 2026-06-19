@@ -5,7 +5,6 @@ tags:
   - work-in-progress
 ---
 
-## Learning outcome:
 {>>TODO: write learning outcome statement — e.g. "Apply EA principles to personal career choice — including how to weigh direct impact, career capital, and fit — using frameworks from 80,000 Hours."<<}
 
 ## Test:
