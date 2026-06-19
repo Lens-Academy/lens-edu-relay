@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781827071147}@@---
+---
 id: 1484cba9-4618-4655-ad84-cb799fd89ff6
 slug: ai-safety-atlas-goal-misgeneralization
 title: AI Safety Atlas - Goal Misgeneralization
@@ -24,4 +24,3 @@ source:: [[../Lenses/AI Safety Atlas - Goal Misgeneralization - Detection]]
 
 # Lens:
 source:: [[../Lenses/AI Safety Atlas - Goal Misgeneralization - Mitigations]]
-++}

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781827071653}@@---
+---
 id: e1896835-e279-49aa-a5c1-227b35df0e1d
 slug: ai-safety-atlas-scalable-oversight
 title: AI Safety Atlas - Scalable Oversight
@@ -24,4 +24,3 @@ source:: [[../Lenses/AI Safety Atlas - Scalable Oversight - Debate]]
 
 # Lens:
 source:: [[../Lenses/AI Safety Atlas - Scalable Oversight - Weak-to-Strong (W2S)]]
-++}

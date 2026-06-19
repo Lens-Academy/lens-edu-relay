@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781827070041}@@---
+---
 id: afe1b67f-dcb2-470c-b728-582390ba8fcf
 slug: ai-safety-atlas-evaluations
 title: AI Safety Atlas - Evaluations
@@ -36,4 +36,3 @@ source:: [[../Lenses/AI Safety Atlas - Evaluations - Limitations]]
 
 # Lens:
 source:: [[../Lenses/AI Safety Atlas - Evaluations - Conclusion]]
-++}

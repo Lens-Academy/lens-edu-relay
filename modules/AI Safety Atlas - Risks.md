@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781827068504}@@---
+---
 id: e951d1fa-b4a6-439c-a3a8-36bd58b47d4e
 slug: ai-safety-atlas-risks
 title: AI Safety Atlas - Risks
@@ -35,4 +35,3 @@ source:: [[../Lenses/AI Safety Atlas - Risks - Appendix Quantifying Existential 
 # Lens:
 optional:: true
 source:: [[../Lenses/AI Safety Atlas - Risks - Appendix Forecasting Scenarios]]
-++}

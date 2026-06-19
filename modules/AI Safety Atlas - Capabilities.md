@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781827067982}@@---
+---
 id: 6b695eb1-03b4-46cd-97b3-f3a507d4b345
 slug: ai-safety-atlas-capabilities
 title: AI Safety Atlas - Capabilities
@@ -40,4 +40,3 @@ source:: [[../Lenses/AI Safety Atlas - Capabilities - Appendix Expert Surveys]]
 # Lens:
 optional:: true
 source:: [[../Lenses/AI Safety Atlas - Capabilities - Appendix Discussion on LLMs]]
-++}

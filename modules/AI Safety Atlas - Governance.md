@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781827069524}@@---
+---
 id: 871ddbb8-eeaa-43d9-bd2e-110016394965
 slug: ai-safety-atlas-governance
 title: AI Safety Atlas - Governance
@@ -32,4 +32,3 @@ source:: [[../Lenses/AI Safety Atlas - Governance - Appendix Data Governance]]
 # Lens:
 optional:: true
 source:: [[../Lenses/AI Safety Atlas - Governance - Appendix National Governance]]
-++}
