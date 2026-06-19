@@ -1,7 +1,7 @@
 ---
 id: 4e555233-d38e-4d11-84c7-d9cddd42bc96
 slug: ai-safety-atlas-strategies
-title: {--{"author":"Luc's AI","timestamp":1781830635028}@@AI Safety Atlas - --}Strategies
+title: Strategies
 ---
 
 # Lens:
