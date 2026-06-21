@@ -30,10 +30,11 @@ In the original study that assessed this phenomenon, different groups of people 
 
 This is a clear case of scope insensitivity. The fact that participants were only willing to pay $80 to save a group of 2,000 birds is very problematic in its own right. Yet, the scope insensitivity they showed is also worrisome, given how it impairs our moral judgment when confronted when very large numbers of individuals in need of our help.
 
-A psychological explanation of the scope insensitivity bias
+### A psychological explanation of the scope insensitivity bias
+
 One explanation of how scope insensitivity occurs has to do with how we often represent things in order to understand them, which is called representativeness heuristic (heuristics, often referred to as “mental shortcuts,” are ways to easily solve problems, especially when we have to make a decision). The representativeness heuristic describes people’s tendency to imagine a simple, normal example of the type of problem being presented to them, rather than picturing all the specific details of the case in question, which may be very complex. Like all heuristics, this can be a useful mental shortcut, since it reduces problems to a more manageable size, thereby simplifying our information processing and decision-making efforts.
 
-However, as the example above shows, this mechanism can be inappropriate to use in many situations. In the example, people tended to imagine or visualize roughly the same thing, so their natural empathy was stimulated to roughly the same degree by all of them, despite the significant differences in the three numbers.[5]
+However, as the example above shows, this mechanism can be inappropriate to use in many situations. In the example, people tended to imagine or visualize roughly the same thing, so their natural empathy was stimulated to roughly the same degree by all of them, despite the significant differences in the three numbers.
 
 If a person’s aim is to feel good, or to avoid feeling bad, through some altruistic behavior (like a charitable donation), they do not have an incentive to check whether they are actually doing some good or just seeming to do so – because it feels the same in each case and that is their bottom line.[6] In addition, being confronted with too much suffering can lead to what is often called the collapse of compassion, a defense mechanism that reduces or eliminates our sensitivity to the harms others suffer when we are faced with massive amounts of suffering.[7] As a result, people will tend not to do the cognitive work of adjusting for scope neglect.
 
