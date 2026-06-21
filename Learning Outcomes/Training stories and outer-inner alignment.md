@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1782072543226}@@---
+---
 id: ebe5405c-518a-47cb-9cc6-6a467788af5f
 learning-outcome: Reason about training stories and outer and inner (mis)alignment, challenges to these notions, and the relationship to inductive biases
 tags:
@@ -13,4 +13,3 @@ assessment-instructions:: A strong answer covers all three parts. (a) Outer alig
 max-chars:: 1000
 ## Lens:
 source:: [[../Lenses/Decomposing the alignment problem]]
-++}

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1782072524391}@@---
+---
 id: 18f79ac5-25b7-4dd0-ba62-1d6fc11b01ca
 learning-outcome: Be aware of foundational discussions on the level of risk and different high-level approaches to solving the AI alignment problem
 tags:
@@ -13,4 +13,3 @@ assessment-instructions:: A strong answer covers both parts. (a) The three scena
 max-chars:: 1200
 ## Lens:
 source:: [[../Lenses/Forecasting risk and choosing an approach]]
-++}
