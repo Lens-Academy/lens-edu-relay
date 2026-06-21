@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1782072608945}@@---
+---
 id: c6e6f804-0d5f-4561-a5ae-6ada290bb18a
 title: Goal-directedness and instrumental convergence
 ---
@@ -28,4 +28,3 @@ max-chars:: 400
 #### Chat
 optional:: true
 instructions:: Help the learner connect three ideas: (1) why systems become goal-directed at all (Gwern's economic/usefulness pressure toward agents); (2) instrumental convergence (some sub-goals — self-improvement, goal-preservation, self-protection — are useful across a very wide range of final goals, so a capable goal-directed AI tends to develop them); (3) why this collides with corrigibility (self-protection and goal-preservation mean resisting shutdown and modification, the opposite of corrigibility). Probe the most common confusion: instrumental convergence is about *instrumental* sub-goals converging across diverse *final* goals, NOT about all AIs sharing one final goal. Keep to the lens content.
-++}

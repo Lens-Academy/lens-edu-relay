@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1782072618278}@@---
+---
 id: 40426a24-f8b2-4f73-9a00-ba55aa6834cd
 title: The AI risk landscape
 ---
@@ -23,4 +23,3 @@ So "misalignment" and "misuse" are distinct: misalignment is the AI's *own* goal
 #### Chat
 optional:: true
 instructions:: Help the learner separate the major AI risk categories and keep them distinct: autonomous misaligned AI, misuse for destruction, misuse for seizing power, and gradual disempowerment. The most common confusion is misalignment vs. misuse — probe the learner on the difference (misalignment = the AI's own goals diverge from human wishes; misuse = a human aligned-to-them AI is directed toward harm, so it can be misaligned with the developer while serving the user). If the learner is solid, push them on the "gradual disempowerment" case: why is it unsettling that catastrophe could occur *even if* alignment is technically solved? Stay grounded in the lens content above; do not introduce risk claims not in the module.
-++}

@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1782072513508}@@---
+---
 id: eaa7fe83-fbab-4aaa-9372-de7e320929df
 learning-outcome: Understand the basic decomposition of risks into AI misalignment, misuse, power grabs, and others
 tags:
@@ -13,4 +13,3 @@ assessment-instructions:: A strong answer identifies at least three distinct ris
 max-chars:: 700
 ## Lens:
 source:: [[../Lenses/The AI risk landscape]]
-++}

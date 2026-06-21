@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1782072506769}@@---
+---
 id: ae572d9c-a207-487f-a620-336fa3a707b5
 learning-outcome: Explain different alignment targets like coherent extrapolated volition, intent alignment, or AI that follows a constitution
 tags:
@@ -13,4 +13,3 @@ assessment-instructions:: A strong answer correctly explains two of these alignm
 max-chars:: 800
 ## Lens:
 source:: [[../Lenses/Choosing an alignment target]]
-++}

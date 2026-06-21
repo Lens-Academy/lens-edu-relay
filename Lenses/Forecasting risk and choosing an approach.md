@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1782072597604}@@---
+---
 id: 53a7abde-fd71-4dab-b647-1ce78bc53d60
 title: Forecasting risk and choosing an approach
 ---
@@ -33,4 +33,3 @@ Our course tries, to a large extent, for a synthesis between these views: yes, w
 #### Chat
 optional:: true
 instructions:: Help the learner map the two spectrums in this lens. First, difficulty: Anthropic's optimistic / intermediate / pessimistic trichotomy, plus the wider spread (failure stories like "What failure looks like" and AI 2027 on one side; "AI is easy to control" on the other; the 38-51% survey figure as a calibration anchor). Second, solution approaches: empirical/iterative (Leike), mathematical (Yudkowsky's rocket analogy), philosophical, and prosaic (Christiano — align what we have now; note it is orthogonal to the empirical-vs-theoretical axis). Then surface this course's own stance: prosaic picture + deep empirically-grounded mathematical progress. A good probe: ask the learner which approach they find most persuasive and why, and push them to notice that "prosaic" is not an alternative to empirical/mathematical but cuts across them. Stay within the lens content; do not invent positions not attributed here.
-++}
