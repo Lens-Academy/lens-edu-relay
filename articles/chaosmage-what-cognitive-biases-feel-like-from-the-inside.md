@@ -27,6 +27,8 @@ tags:
 
 **The scientific term for this mismatch is: confirmation bias**
 
+---
+
 | What it feels like for me | How I see others who feel the same |
 | --- | --- |
 | My customers/friends/relationships love me, so I am good for them, so I am probably just generally good. | They neglect the customers / friends / relationships that did not love them and have left, so they overestimate how good they are. |
