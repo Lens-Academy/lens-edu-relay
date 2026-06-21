@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1782072533242}@@---
+---
 id: 9c1ac750-09cc-41fe-bff4-d78f6e9b90bb
 learning-outcome: Be aware of discussions on whether AI systems develop goals and understand the basic arguments for instrumental convergence
 tags:
@@ -13,4 +13,3 @@ assessment-instructions:: A strong answer captures: (1) Instrumental convergence
 max-chars:: 800
 ## Lens:
 source:: [[../Lenses/Goal-directedness and instrumental convergence]]
-++}
