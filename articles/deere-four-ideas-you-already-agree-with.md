@@ -14,7 +14,9 @@ tags:
 
 Here are four ideas that you probably already agree with. Three are about your values, and one is an observation about the world. Individually, they each might seem a bit trite or self-evident. But taken together, they have significant implications for how we think about doing good in the world.
 
-The four ideas are as follows:
+{++{"author":"AI","timestamp":1782067534069}@@![Women in Uganda holding bales of insecticide-treated bednets provided by the Against Malaria Foundation](https://cdn.sanity.io/images/4rsg7ofo/production/c6ebaf0c37d6b01ff4045416b6d83639afd95cc9-2896x1944.jpg?w=1200&q=75&fit=clip&auto=format)
+
+++}The four ideas are as follows:
 
 1. **It's important to help others** — when people are in need and we can help them, we think that we should. Sometimes we think it might even be morally required: most people think that millionaires should give something back. But it may surprise you to learn that those of us on or above the median wage in a rich country are [typically part of the global 5%](https://www.givingwhatwecan.org/get-involved/how-rich-am-i)[^1] — maybe we can also afford to give back too.
 2. **People are equal**[^2] — everyone has an equal claim to being happy, healthy, fulfilled and free, whatever their circumstances. All people matter, wherever they live, however rich they are, and whatever their ethnicity, age, gender, ability, religious views, etc.
