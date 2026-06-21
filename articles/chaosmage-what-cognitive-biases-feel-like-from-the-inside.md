@@ -44,7 +44,6 @@ tags:
 | I knew at the time this would not go as planned. | They did not predict what was going to happen. |
 | The plan was bad, and we should have realized it. | They fail to appreciate how hard prediction is, so the mistake seems more obvious to them than it was. |
 | I knew it was bad, I just didn't say it, for good reasons (e.g. out of politeness or too much trust in those who made the bad plan) or because it is not my responsibility or because nobody listens to me anyway. | In order to avoid blame for the seemingly obvious mistake, they are making up excuses. |
-
 **The scientific term for this mismatch is: hindsight bias**
 
 | What it feels like for me | How I see others who feel the same |
