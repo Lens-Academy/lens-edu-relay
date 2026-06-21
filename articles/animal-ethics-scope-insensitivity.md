@@ -42,7 +42,8 @@ That being said, part of the problem may consist in people simply failing to not
 
 In addition, due to the key role of emotions in moral intuitions and in decision-making processes, it has been shown that raising emotional concern for individual victims of large-scale suffering increases overall concern. It has also been shown that personal stories and visual images motivate helping responses more than using abstract numerical figures and statistics. These vivid descriptions of single individuals in need can be useful to keep emotions aroused when large numbers of individuals are concerned. This is a way of trying to adjust advocacy to the existence of cognitive biases. It is problematic, however, as we are not always going to be able to do this. For instance, we may not be able to provide such stories when we consider possible new forms of suffering in the future.
 
-Scope insensitivity and our failure to help animals in the wild in need of aid
+### Scope insensitivity and our failure to help animals in the wild in need of aid
+
 Scope insensitivity is especially problematic when it biases us away from helping animals in the wild. There is an astronomical amount of suffering constantly going on in the natural world. For example, the leading estimate as to the number of insects in the wild is 1018. A majority of these animals die a painful death in their first days of life. This amount of suffering simply dwarfs any that we are used to dealing with or thinking about.
 
 In order to react properly to these magnitudes, we should be prepared to adjust our initial emotional reaction based on our more abstract understanding of the quantity. For example, we can try to imagine the largest number of insects that we can and then try to remember how much bigger of an issue it is than we can possibly imagine.
