@@ -15,8 +15,6 @@ tags:
   - work-in-progress
 ---
 
-# 500 Million, But Not a Single One More
-
 We will never know their names.
 
 The first victim could not have been recorded, for there was no written language to record it. They were someone’s daughter, or son, and someone’s friend, and they were loved by those around them. And they were in pain, covered in rashes, confused, scared, not knowing why this was happening to them or what they could do about it — victims of a mad, inhuman god. There was nothing to be done — humanity was not strong enough, not aware enough, not knowledgeable enough, to fight back against a monster that could not be seen.
