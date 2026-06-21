@@ -17,8 +17,6 @@ tags:
 
 # What Cognitive Biases Feel Like From the Inside
 
-Building on the recent SSC post *Why Doctors Think They're The Best*…
-
 | What it feels like for me | How I see others who feel the same |
 | --- | --- |
 | There is controversy on the subject but there shouldn't be because the side I am on is obviously right. | They have taken one side in a debate that is unresolved for good reason that they are struggling to understand |
