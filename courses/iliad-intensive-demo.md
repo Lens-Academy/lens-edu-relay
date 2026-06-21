@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1782072416432}@@---
+---
 id: d958eb22-cfe4-4a08-a277-9cb80a2357d3
 slug: iliad-intensive-demo
 title: Iliad Intensive (Lens demo)
@@ -21,4 +21,3 @@ non-first modules); their stub files exist so the wikilinks resolve. %%
 # Module: [[../modules/alignment-in-practice|Alignment in Practice]]
 
 # Module: [[../modules/reward-learning|Reward Learning]]
-++}
