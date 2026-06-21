@@ -53,7 +53,6 @@ tags:
 | Compared to others, I am unusually successful in my decisions. | They evaluate the decisions of others more level-headedly than their own. |
 | I am therefore comfortable relying on my quick decisions. | They therefore overestimate the quality of their decisions. |
 | This is more true for life decisions that are very important to me. | Yes, this is more true for life decisions that are very important to them. |
-
 **The scientific term for this mismatch is: optimism bias**
 
 *Originally published by chaosmage on [LessWrong](https://www.lesswrong.com/posts/ERWeEA8op6s6tYCKy/what-cognitive-biases-feel-like-from-the-inside).*
