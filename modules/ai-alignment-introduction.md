@@ -25,7 +25,7 @@ We discuss frameworks for decomposing the technical problem further, and critiqu
 Read the main content of each lens *first* without opening the linked posts. If a piece of terminology or logic in the high-level story is unclear, use the chat tutor (or your own LLM) to clarify until the whole story makes sense. Only then dig into specific linked posts and papers if you have time.
 
 #### Chat
-optional:: true
+%% optional:: true %% 
 instructions:: Orient the learner to the module. The module covers, in order: (1) the basic decomposition of AI risks (misalignment, misuse, power grabs, and others); (2) alignment targets (CEV, intent alignment, constitutions, corrigibility); (3) decompositions of the technical alignment problem (training stories, outer/inner alignment, inductive biases) and critiques of them; (4) goal-directedness and instrumental convergence; (5) forecasting the level of risk and the spectrum of high-level solution approaches. Help the learner form a mental map of how these five threads connect: choosing a target vs. technically hitting it, and why goal-directedness makes any residual misalignment more dangerous. Answer questions about prerequisites and how to pace themselves. Do not lecture the whole module here; just orient and set expectations. Keep it brief and inviting.
 showUserPreviousContent:: true
 
