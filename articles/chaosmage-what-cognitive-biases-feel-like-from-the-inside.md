@@ -68,4 +68,6 @@ tags:
 
 **The scientific term for this mismatch is: optimism bias**
 
+---
+
 *Originally published by chaosmage on [LessWrong](https://www.lesswrong.com/posts/ERWeEA8op6s6tYCKy/what-cognitive-biases-feel-like-from-the-inside).*
