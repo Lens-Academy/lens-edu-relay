@@ -53,3 +53,5 @@ In order to react properly to these magnitudes, we should be prepared to adjust 
 The equivalent suffering of each individual should be given the same consideration. Unfortunately, however, the valuations of individual lives and suffering are often guided by moral intuitions which are highly influenced by non-rational mechanisms and emotions that can lead to partial judgments. As we have seen here, one of these mechanisms is scope insensitivity.
 
 Hence, we cannot rely solely on our more immediate decision-making processes when making moral judgments involving large numbers of individuals. We must bear this in mind and try to adjust for the errors our decision-making process will run into because of this bias.
+
+See ori
