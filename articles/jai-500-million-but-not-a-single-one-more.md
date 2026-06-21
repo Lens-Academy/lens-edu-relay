@@ -53,4 +53,4 @@ This one evil, the horror from beyond memory, the monster that took 500 million 
 
 You are a member of the species that did that. Never forget what we are capable of when we band together and declare battle on what is broken in the world.
 
-Happy Smallpox Eradication Day.
+[Happy Smallpox Eradication Day.](https://en.wikipedia.org/wiki/Smallpox#Eradication)
