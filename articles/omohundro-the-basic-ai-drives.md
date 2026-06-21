@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1782079489625}@@---
+---
 title: "The Basic AI Drives"
 author:
   - "Stephen M. Omohundro"
@@ -139,4 +139,3 @@ Many people have discussed these ideas with me and have given me valuable feedba
 - [12] D. Lenat, "Theory formation by heuristic search," _Machine Learning_, vol. 21, 1983.
 - [13] E. S. Yudkowsky, "Levels of organization in general intelligence," in _Artificial General Intelligence_ (B. Goertzel and C. Pennachin, eds.), Springer-Verlag, 2005.
 - [14] R. Kurzweil, _The Singularity is Near: When Humans Transcend Biology_. Viking Penguin, 2005.
-++}

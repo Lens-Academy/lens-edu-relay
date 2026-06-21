@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1782079409299}@@---
+---
 title: "The Need for Biases in Learning Generalizations"
 author:
   - "Tom M. Mitchell"
@@ -110,4 +110,4 @@ The following people have provided thoughtful comments on various drafts of this
 
 ---
 
-*Converted to electronic version by: Roby Joehanes, Kansas State Univ. Originally, 1980 Rutgers Univ., technical report CBM-TR-117.*++}
+*Converted to electronic version by: Roby Joehanes, Kansas State Univ. Originally, 1980 Rutgers Univ., technical report CBM-TR-117.*
