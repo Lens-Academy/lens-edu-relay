@@ -74,9 +74,9 @@ Consider Daniel, a college student. Shortly after the Deepwater Horizon BP oil s
 
 He pictures himself walking along the beach after the oil spill and encountering a group of people cleaning birds as fast as they can. They simply don't have the resources to clean all of the available birds. A pathetic young bird flops toward his feet, slick with oil, eyes barely able to open. He kneels down to pick it up and help it onto the table. One of the bird-cleaners informs him that they won't have time to get to that bird themselves, but he could pull on some gloves and could probably save the bird with three minutes of washing.
 
-{++{"author":"AI","timestamp":1782067628052}@@![An oiled bird being cleaned after the Deepwater Horizon oil spill](http://4.bp.blogspot.com/_Bv2wRceCYKA/S-whZ1sSJ3I/AAAAAAAABjo/cgXz7Npz_W0/s320/Dawn_IBRRC_2010.05.07_MG_7082_240.jpg)
+![An oiled bird being cleaned after the Deepwater Horizon oil spill](http://4.bp.blogspot.com/_Bv2wRceCYKA/S-whZ1sSJ3I/AAAAAAAABjo/cgXz7Npz_W0/s320/Dawn_IBRRC_2010.05.07_MG_7082_240.jpg)
 
-++}Daniel decides that he *would* spend three minutes of his time to save the bird, and that he would *also* be happy to pay at least $3 to have someone else spend a few minutes cleaning the bird. He introspects and finds that this is not just because he imagined a bird right in front of him: He feels that it is *worth* at least three minutes of his time (or $3) to save an oiled bird in some vague, platonic sense.
+Daniel decides that he *would* spend three minutes of his time to save the bird, and that he would *also* be happy to pay at least $3 to have someone else spend a few minutes cleaning the bird. He introspects and finds that this is not just because he imagined a bird right in front of him: He feels that it is *worth* at least three minutes of his time (or $3) to save an oiled bird in some vague, platonic sense.
 
 And, because he's been thinking about scope insensitivity, he *expects* his brain to misreport how much he actually cares about large numbers of birds; the internal feeling of caring can't be expected to line up with the actual importance of the situation. So instead of just *asking his gut* how much he cares about de-oiling lots of birds, he shuts up and multiplies.
 
