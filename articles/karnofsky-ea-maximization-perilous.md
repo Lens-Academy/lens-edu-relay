@@ -1,7 +1,7 @@
 ---
 title: "EA Is About Maximization, and Maximization Is Perilous"
 source_url: https://forum.effectivealtruism.org/posts/T975ydo3mx8onH3iS/ea-is-about-maximization-and-maximization-is-perilous
-authors:
+{--{"author":"AI","timestamp":1782063612812}@@authors:--}{++{"author":"AI","timestamp":1782063612812}@@author:++}
   - Holden Karnofsky
 published: 2022-09-02
 created: 2022-09-02
