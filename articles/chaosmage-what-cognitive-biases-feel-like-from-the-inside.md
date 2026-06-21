@@ -32,7 +32,7 @@ tags:
 | My customers/friends/relationships love me, so I am good for them, so I am probably just generally good. | They neglect the customers / friends / relationships that did not love them and have left, so they overestimate how good they are. |
 | When customers / friends / relationships switch to me, they tell horror stories of about who I'm replacing for them, so I'm better than those. | They don't see the people who are happy with who they have and therefore never become their customers / friends / relationships. |
 
-### llusion of transparency
+### Illusion of transparency
 | What it feels like for me | How I see others who feel the same |
 | --- | --- |
 | Although I am smart and friendly, people don't listen to me. | Although they are smart and friendly, they are hard to understand. |
@@ -44,10 +44,6 @@ tags:
 | I knew at the time this would not go as planned. | They did not predict what was going to happen. |
 | The plan was bad, and we should have realized it. | They fail to appreciate how hard prediction is, so the mistake seems more obvious to them than it was. |
 | I knew it was bad, I just didn't say it, for good reasons (e.g. out of politeness or too much trust in those who made the bad plan) or because it is not my responsibility or because nobody listens to me anyway. | In order to avoid blame for the seemingly obvious mistake, they are making up excuses. |
-
-**The scientific term for this mismatch is: hindsight bias**
-
----
 
 | What it feels like for me | How I see others who feel the same |
 | --- | --- |
