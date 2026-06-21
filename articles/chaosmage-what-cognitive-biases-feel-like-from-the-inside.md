@@ -46,6 +46,7 @@ tags:
 | The plan was bad, and we should have realized it. | They fail to appreciate how hard prediction is, so the mistake seems more obvious to them than it was. |
 | I knew it was bad, I just didn't say it, for good reasons (e.g. out of politeness or too much trust in those who made the bad plan) or because it is not my responsibility or because nobody listens to me anyway. | In order to avoid blame for the seemingly obvious mistake, they are making up excuses. |
 
+### Optimism bias
 | What it feels like for me | How I see others who feel the same |
 | --- | --- |
 | I have a good intuition; even decisions I make based on insufficient information tend to turn out to be right. | They tend to recall their own successes and forget their own failures, leading to an inflated sense of past success. |
@@ -53,8 +54,6 @@ tags:
 | Compared to others, I am unusually successful in my decisions. | They evaluate the decisions of others more level-headedly than their own. |
 | I am therefore comfortable relying on my quick decisions. | They therefore overestimate the quality of their decisions. |
 | This is more true for life decisions that are very important to me. | Yes, this is more true for life decisions that are very important to them. |
-
-
 
 ---
 
