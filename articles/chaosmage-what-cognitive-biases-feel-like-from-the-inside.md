@@ -25,7 +25,6 @@ tags:
 | The arguments for the opposing side are contradictory, superficial, illogical or debunked. | They dismiss arguments for the opposing side at the earliest opportunity. |
 | The people on the opposing side believe these arguments mostly because they are uninformed, have not thought about it enough or are being actively misled by people with bad motives. | The flawed way they perceive the opposing side makes them confused about how anyone could be on that side. They resolve that confusion by making strong assumptions that can approach conspiracy theories. |
 
-**The scientific term for this mismatch is: confirmation bias**
 
 ---
 | What it feels like for me | How I see others who feel the same |
