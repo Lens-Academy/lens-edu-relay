@@ -36,6 +36,8 @@ tags:
 
 **The scientific term for this mismatch is: selection bias**
 
+---
+
 | What it feels like for me | How I see others who feel the same |
 | --- | --- |
 | Although I am smart and friendly, people don't listen to me. | Although they are smart and friendly, they are hard to understand. |
@@ -43,6 +45,8 @@ tags:
 | This lack of being listened to affects several areas of my life, but it is particularly jarring on topics that are very important to me. | This bad communication affects all areas of their life, but on the unimportant ones they don't even understand that others don't understand them. |
 
 **The scientific term for this mismatch is: illusion of transparency**
+
+---
 
 | What it feels like for me | How I see others who feel the same |
 | --- | --- |
