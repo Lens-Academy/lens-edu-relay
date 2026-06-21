@@ -39,6 +39,7 @@ tags:
 | I have a deep understanding of the issue that people are too stupid or too disinterested to come to share. | They are failing to communicate their understanding, or to give unambiguous evidence if they even have it. |
 | This lack of being listened to affects several areas of my life, but it is particularly jarring on topics that are very important to me. | This bad communication affects all areas of their life, but on the unimportant ones they don't even understand that others don't understand them. |
 
+### Hindsight bias
 | What it feels like for me | How I see others who feel the same |
 | --- | --- |
 | I knew at the time this would not go as planned. | They did not predict what was going to happen. |
@@ -53,7 +54,7 @@ tags:
 | I am therefore comfortable relying on my quick decisions. | They therefore overestimate the quality of their decisions. |
 | This is more true for life decisions that are very important to me. | Yes, this is more true for life decisions that are very important to them. |
 
-**The scientific term for this mismatch is: optimism bias**
+
 
 ---
 
