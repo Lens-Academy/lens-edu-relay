@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1782079739691}@@---
+---
 title: "Coherent Extrapolated Volition"
 author:
   - "Eliezer Yudkowsky"
@@ -602,4 +602,3 @@ This is another reason not to stand in awe of the judgments of a CEV—a solutio
 If all we want out of CEV is a limited set of emergency assistances, measures on which our superposed possible volitions are predictably mostly coherent, then the extrapolation doesn't *need* to be extremely detailed. The extrapolation might be extremely detailed *anyway*—why not?—but it wouldn't *need* to be detailed. Who knows, maybe the guessing of modern-day individuals, based on extremely gross modeling from a tiny information base, would be enough to correctly predict some aspects!
 
 Perhaps the extrapolation will be fine enough, and detailed enough, that there recognizably emerges something like individual volitions voting. Perhaps not. I think I would enjoy knowing that the extrapolation took into account my details and choices as an individual—though not in any understandable way that would tempt me to manipulate my extrapolated vote to childishly chosen ends. I would still like to know that my personal choices played a role in the extrapolation of humankind's volition. It would lend a sense of meaning and participation. But my guess is that this is not *necessary* for CEV to work.
-++}
