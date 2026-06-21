@@ -12,12 +12,16 @@ is real content, faithfully ported from Iliad's A.1 source. The other two
 module links below are lorem-ipsum placeholders per Luc's call (lorem ipsum for
 non-first modules); their stub files exist so the wikilinks resolve. %%
 
-# Meeting: Week 1 — Foundations
+
 
 # Module: [[../modules/ai-alignment-introduction|AI Alignment Introduction]]
 
-# Meeting: Week 2 — Putting it into practice
+# Meeting: Week 1 — Foundations
+
+
 
 # Module: [[../modules/alignment-in-practice|Alignment in Practice]]
 
 # Module: [[../modules/reward-learning|Reward Learning]]
+
+# Meeting: Week 2 — Putting it into practice
