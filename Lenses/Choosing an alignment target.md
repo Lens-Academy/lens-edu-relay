@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1782072563651}@@---
+---
 id: 0ac9151b-fa42-4fa0-aaf6-ff8278081c48
 title: Choosing an alignment target
 ---
@@ -17,4 +17,3 @@ feedback:: true
 content:: Quick practice: the lens says a corrigible AI lets us modify its goals and shut it down, so we can correct mistakes and iterate. Suppose we've built an AI but aren't confident we gave it the right goals. How does corrigibility help in that situation, and what does it require the AI to accept?
 assessment-instructions:: A good answer notes that corrigibility means the AI accepts being modified and shut down rather than resisting, so if we got the goals wrong we can correct the mistake and iterate toward lower risk — the value is precisely not needing to get the target right on the first try. Strong answers also name what it requires: the AI must not resist modification or shutdown. Award 4-5 for the correct-and-iterate reasoning (bonus for naming that the AI must accept correction); 2-3 for a vaguer "we stay in control"; 1 if corrigibility is misdefined. Low-stakes practice; brief, direct feedback is fine.
 max-chars:: 400
-++}

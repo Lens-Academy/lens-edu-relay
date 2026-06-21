@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1782072579576}@@---
+---
 id: 42d2d526-c5f2-4d6d-8e70-758cd27f38a9
 title: Decomposing the alignment problem
 ---
@@ -27,4 +27,3 @@ The split into inner and outer alignment is contested, which is why we started f
 #### Chat
 optional:: true
 instructions:: This is the most technically dense lens in the module. Help the learner hold the structure: training stories (target + rationale + setup) is the general frame; outer/inner alignment is a more specific RL-flavored decomposition nested inside it. Common confusions to watch for and correct: (1) swapping outer and inner — outer is about *specifying* the reward (does the reward capture what we want?), inner is about *generalization* (does the trained policy keep obeying the reward off-distribution, including its internal goal matching the reward's goal?). (2) Treating the inner/outer split as settled — it is controversial; surface Turner's "reward is not the optimization target" point that a policy is shaped by previously-reinforced contextual computation, not literally maximizing reward, analogous to adaptation-executers vs fitness-maximizers. (3) Why inductive biases matter — they govern off-distribution generalization, so they govern whether inner alignment holds; emergent misalignment is evidence that deep learning's implicit biases are strong. Stay within the lens content; do not invent new technical claims.
-++}
