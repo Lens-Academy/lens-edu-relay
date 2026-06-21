@@ -1,7 +1,7 @@
 ---
 title: "Effective altruism as the most exciting cause in the world"
 source_url: https://forum.effectivealtruism.org/posts/LwmEr3B9dpBrFq3du/effective-altruism-as-the-most-exciting-cause-in-the-world
-{--{"author":"AI","timestamp":1782063619216}@@authors:--}{++{"author":"AI","timestamp":1782063619216}@@author:++}
+author:
   - Kaj Sotala
 published: 2014-09-26
 created: 2014-09-26

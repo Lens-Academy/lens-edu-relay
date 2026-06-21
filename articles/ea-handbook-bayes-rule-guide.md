@@ -1,7 +1,7 @@
 ---
 title: "Bayes' Rule: Guide"
 source_url: https://arbital.com/p/bayes_rule/?l=1zq
-{--{"author":"AI","timestamp":1782063600210}@@authors:--}{++{"author":"AI","timestamp":1782063600210}@@author:++}
+author:
   - Eliezer Yudkowsky
 published: 2022-07-16
 created: 2022-07-16

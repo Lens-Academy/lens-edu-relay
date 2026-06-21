@@ -1,7 +1,7 @@
 ---
 title: "You have more than one goal, and that's fine"
 source_url: https://web.archive.org/web/20200220221815/http://www.givinggladly.com/2019/02/you-have-more-than-one-goal-and-thats.html
-{--{"author":"AI","timestamp":1782063622247}@@authors:--}{++{"author":"AI","timestamp":1782063622247}@@author:++}
+author:
   - Julia Wise
 published: 2019-02-20
 created: 2019-02-20

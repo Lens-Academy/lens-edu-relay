@@ -1,7 +1,7 @@
 ---
 title: "What Do You Think?"
 source_url: https://forum.effectivealtruism.org/posts/zGavnmS5hCC4mDHS8/what-do-you-think
-{--{"author":"AI","timestamp":1782063598214}@@authors:--}{++{"author":"AI","timestamp":1782063598214}@@author:++}
+author:
   - Max Dalton
 published: 2022-07-06
 created: 2022-07-06

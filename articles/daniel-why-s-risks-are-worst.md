@@ -1,7 +1,7 @@
 ---
 title: "Why S-Risks Are the Worst Existential Risks, and How to Prevent Them"
 source_url: https://longtermrisk.org/s-risks-talk-eag-boston-2017/
-{--{"author":"AI","timestamp":1782063599174}@@authors:--}{++{"author":"AI","timestamp":1782063599174}@@author:++}
+author:
   - Max Daniel
 published: 2017-06-02
 created: 2017-06-02
