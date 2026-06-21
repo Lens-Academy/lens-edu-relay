@@ -34,7 +34,11 @@ In fact I'd go further — I'd say that we'd feel pretty uncomfortable trying to
 
 See what I mean?
 
-So if we agree that these four ideas embody important values — and I think that they do — then there are big implications for how we should think about doing good. In fact, it means that the way we typically think about doing good is wrong.
+{++{"author":"AI","timestamp":1782067545241}@@![People facing a wall covered in charity collection tins, representing the challenge of choosing which worthy causes to support](https://cdn.sanity.io/images/4rsg7ofo/production/da890a05ea0c84d780ff860a94178ae14ddc4455-4594x3063.jpg?w=1200&q=75&fit=clip&auto=format)
+
+*We don't have infinite money, so we always need to choose which worthy cause to support.*
+
+++}So if we agree that these four ideas embody important values — and I think that they do — then there are big implications for how we should think about doing good. In fact, it means that the way we typically think about doing good is wrong.
 
 In order to be true to these values, we need to think about how we can help the most people with our limited resources.
 
