@@ -57,4 +57,4 @@ tags:
 
 ---
 
-*Originally published by chaosmage on [LessWrong](https://www.lesswrong.com/posts/ERWeEA8op6s6tYCKy/what-cognitive-biases-feel-like-from-the-inside).*
+*This version of the essay has been lightly edited. You can find the original [he](https://www.lesswrong.com/posts/ERWeEA8op6s6tYCKy/what-cognitive-biases-feel-like-from-the-inside).*
