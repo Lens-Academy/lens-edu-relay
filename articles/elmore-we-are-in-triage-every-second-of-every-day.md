@@ -17,7 +17,6 @@ tags:
 
 # We Are in Triage Every Second of Every Day
 
-
 ***Spoilers ahead** — listen to the episode beforehand if you don't want to hear a rough summary first.*
 
 I quite liked the ["Playing God"](https://www.wnycstudios.org/podcasts/radiolab/articles/playing-god) episode of RadioLab.
