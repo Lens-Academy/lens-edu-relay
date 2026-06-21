@@ -1,7 +1,7 @@
 ---
 title: "What Is Evidence?"
 source_url: https://www.lesswrong.com/s/6xgy8XYEisLk3tCjH/p/6s3xABaXKPdFwA3FS
-authors:
+{--{"author":"AI","timestamp":1782063625253}@@authors:--}{++{"author":"AI","timestamp":1782063625253}@@author:++}
   - Eliezer Yudkowsky
 published: 2007-09-22
 created: 2007-09-22
