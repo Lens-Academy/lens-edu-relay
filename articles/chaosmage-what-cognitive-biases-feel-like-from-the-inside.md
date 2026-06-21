@@ -31,9 +31,7 @@ tags:
 | My customers/friends/relationships love me, so I am good for them, so I am probably just generally good. | They neglect the customers / friends / relationships that did not love them and have left, so they overestimate how good they are. |
 | When customers / friends / relationships switch to me, they tell horror stories of about who I'm replacing for them, so I'm better than those. | They don't see the people who are happy with who they have and therefore never become their customers / friends / relationships. |
 
-**The scientific term for this mismatch is: selection bias**
-
----
+*
 
 | What it feels like for me | How I see others who feel the same |
 | --- | --- |
