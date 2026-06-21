@@ -1,7 +1,7 @@
 ---
 title: "Summary of 80,000 Hours' key ideas"
 source_url: https://80000hours.org/key-ideas/summary/
-authors:
+{--{"author":"AI","timestamp":1782063594143}@@authors:--}{++{"author":"AI","timestamp":1782063594143}@@author:++}
   - 80,000 Hours
 published: 2022-05-03
 created: 2022-05-03

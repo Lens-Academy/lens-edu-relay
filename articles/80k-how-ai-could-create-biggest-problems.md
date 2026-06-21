@@ -1,7 +1,7 @@
 ---
 title: "How AI Could Create the World's Biggest Problems"
 source_url: https://80000hours.org/problem-profiles/artificial-intelligence/
-authors:
+{--{"author":"AI","timestamp":1782063593110}@@authors:--}{++{"author":"AI","timestamp":1782063593110}@@author:++}
   - 80,000 Hours
 published: 2026-02-24
 created: 2026-02-24
