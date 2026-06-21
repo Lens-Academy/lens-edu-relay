@@ -1,0 +1,20 @@
+{++{"author":"AI","timestamp":1782072563651}@@---
+id: 0ac9151b-fa42-4fa0-aaf6-ff8278081c48
+title: Choosing an alignment target
+---
+#### Text
+content:: In this course we are mainly focused on **AI alignment** — broadly, the problem of making sure AI acts in line with "human" wishes. But what does "human wishes" even mean? There are different conceptualizations of the **alignment target**, partially overlapping:
+
+- **Coherent extrapolated volition (CEV).** Some wish AI to be aligned with our [coherent extrapolated volition](https://intelligence.org/files/CEV.pdf), which is "our wish if we knew more, thought faster, were more the people we wished we were, had grown up farther together [...]".
+- **Intent alignment.** A different conceptualization is [intent alignment with a human](https://ai-alignment.com/clarifying-ai-alignment-cec47cd69dd6), which means "trying to do what the human wants [the AI] to do".
+- **Alignment to a constitution.** As contemporary AI becomes more powerful and widespread, more sophisticated notions have emerged. Most prominently, one may align an AI with the prescriptions in a [constitution, as in the case of Anthropic's Claude](https://www.anthropic.com/news/claude-new-constitution), balancing the wishes of users, the developer's guidelines, general ethics, and efforts to oversee the AI.
+- **Corrigibility.** Another often-discussed target is [corrigibility](https://www.lesswrong.com/w/corrigibility-1). An AI is corrigible if it will let us modify its functions or goals, and even let us shut it down. If corrigibility is achieved, then we can correct mistakes in building an AI, which makes it easier to iterate toward lower risk.
+
+Note that these are not all the same *kind* of thing: CEV and intent alignment are about *which values* the AI should serve (idealized-extrapolated humanity vs. one operator's actual wishes), a constitution is about serving a *written balance* of considerations rather than any single human judgment, and corrigibility is about *accepting correction* rather than about which values to hold.
+
+#### Question
+feedback:: true
+content:: Quick practice: the lens says a corrigible AI lets us modify its goals and shut it down, so we can correct mistakes and iterate. Suppose we've built an AI but aren't confident we gave it the right goals. How does corrigibility help in that situation, and what does it require the AI to accept?
+assessment-instructions:: A good answer notes that corrigibility means the AI accepts being modified and shut down rather than resisting, so if we got the goals wrong we can correct the mistake and iterate toward lower risk — the value is precisely not needing to get the target right on the first try. Strong answers also name what it requires: the AI must not resist modification or shutdown. Award 4-5 for the correct-and-iterate reasoning (bonus for naming that the AI must accept correction); 2-3 for a vaguer "we stay in control"; 1 if corrigibility is misdefined. Low-stakes practice; brief, direct feedback is fine.
+max-chars:: 400
+++}
