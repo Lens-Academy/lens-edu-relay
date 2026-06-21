@@ -31,6 +31,7 @@ tags:
 | --- | --- |
 | My customers/friends/relationships love me, so I am good for them, so I am probably just generally good. | They neglect the customers / friends / relationships that did not love them and have left, so they overestimate how good they are. |
 | When customers / friends / relationships switch to me, they tell horror stories of about who I'm replacing for them, so I'm better than those. | They don't see the people who are happy with who they have and therefore never become their customers / friends / relationships. |
+
 **The scientific term for this mismatch is: selection bias**
 
 | What it feels like for me | How I see others who feel the same |
@@ -38,6 +39,7 @@ tags:
 | Although I am smart and friendly, people don't listen to me. | Although they are smart and friendly, they are hard to understand. |
 | I have a deep understanding of the issue that people are too stupid or too disinterested to come to share. | They are failing to communicate their understanding, or to give unambiguous evidence if they even have it. |
 | This lack of being listened to affects several areas of my life, but it is particularly jarring on topics that are very important to me. | This bad communication affects all areas of their life, but on the unimportant ones they don't even understand that others don't understand them. |
+
 **The scientific term for this mismatch is: illusion of transparency**
 
 | What it feels like for me | How I see others who feel the same |
@@ -45,6 +47,7 @@ tags:
 | I knew at the time this would not go as planned. | They did not predict what was going to happen. |
 | The plan was bad, and we should have realized it. | They fail to appreciate how hard prediction is, so the mistake seems more obvious to them than it was. |
 | I knew it was bad, I just didn't say it, for good reasons (e.g. out of politeness or too much trust in those who made the bad plan) or because it is not my responsibility or because nobody listens to me anyway. | In order to avoid blame for the seemingly obvious mistake, they are making up excuses. |
+
 **The scientific term for this mismatch is: hindsight bias**
 
 | What it feels like for me | How I see others who feel the same |
@@ -54,6 +57,7 @@ tags:
 | Compared to others, I am unusually successful in my decisions. | They evaluate the decisions of others more level-headedly than their own. |
 | I am therefore comfortable relying on my quick decisions. | They therefore overestimate the quality of their decisions. |
 | This is more true for life decisions that are very important to me. | Yes, this is more true for life decisions that are very important to them. |
+
 **The scientific term for this mismatch is: optimism bias**
 
 *Originally published by chaosmage on [LessWrong](https://www.lesswrong.com/posts/ERWeEA8op6s6tYCKy/what-cognitive-biases-feel-like-from-the-inside).*
