@@ -54,4 +54,4 @@ The equivalent suffering of each individual should be given the same considerati
 
 Hence, we cannot rely solely on our more immediate decision-making processes when making moral judgments involving large numbers of individuals. We must bear this in mind and try to adjust for the errors our decision-making process will run into because of this bias.
 
-*See the original post for references and further readings.*
+*See the [original post]() for references and further readings.*
