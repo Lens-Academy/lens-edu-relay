@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1782072446290}@@---
+---
 id: 69349c48-6135-4953-a31d-c7e369838322
 slug: ai-alignment-introduction
 title: AI Alignment Introduction
@@ -43,4 +43,3 @@ source:: [[../Learning Outcomes/Goals and instrumental convergence]]
 
 # Learning Outcome:
 source:: [[../Learning Outcomes/Forecasting risk and solution approaches]]
-++}
