@@ -56,6 +56,8 @@ tags:
 
 **The scientific term for this mismatch is: hindsight bias**
 
+---
+
 | What it feels like for me | How I see others who feel the same |
 | --- | --- |
 | I have a good intuition; even decisions I make based on insufficient information tend to turn out to be right. | They tend to recall their own successes and forget their own failures, leading to an inflated sense of past success. |
