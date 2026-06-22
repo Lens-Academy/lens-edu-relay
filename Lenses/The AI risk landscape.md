@@ -3,7 +3,7 @@ id: 40426a24-f8b2-4f73-9a00-ba55aa6834cd
 title: The AI risk landscape
 ---
 #### Text
-content:: There are many AI safety problems. {--{"author":"Luc's AI","timestamp":1782093007613}@@[The--}{++{"author":"Luc's AI","timestamp":1782093007613}@@[[../Lenses/darioamodei-dario-amodei-the-adolescence-of-technology|The++} adolescence of {--{"author":"Luc's AI","timestamp":1782093007613}@@technology](https://www.darioamodei.com/essay/the-adolescence-of-technology)--}{++{"author":"Luc's AI","timestamp":1782093007613}@@technology]]++} is an opinionated introduction to these risks, including:
+content:: There are many AI safety problems. [[../Lenses/darioamodei-dario-amodei-the-adolescence-of-technology|The adolescence of technology]] is an opinionated introduction to these risks, including:
 
 - the risk of **autonomous misaligned AI**,
 - **AI misuse for destruction**,
@@ -14,9 +14,9 @@ This course is mainly focused on **AI alignment** — broadly, the problem of ma
 
 **Other (non-misalignment) safety problems**
 
-- **Catastrophic misuse.** Individuals may misuse AI in catastrophic ways — bioterrorism, unleashing AI agents, persuasive AIs (see {--{"author":"Luc's AI","timestamp":1782093012362}@@[An--}{++{"author":"Luc's AI","timestamp":1782093012362}@@[[../Lenses/arxiv-an-overview-of-catastrophic-ai-risks|An++} Overview of Catastrophic AI {--{"author":"Luc's AI","timestamp":1782093012362}@@Risks](https://arxiv.org/abs/2306.12001)--}{++{"author":"Luc's AI","timestamp":1782093012362}@@Risks]]++}, sections 2.1-2.3). Misuse is especially relevant here because it can also *manifest as* a misalignment concern: an AI that helps a human user carry out harm is often misaligned with the AI's *developer*.
+- **Catastrophic misuse.** Individuals may misuse AI in catastrophic ways — bioterrorism, unleashing AI agents, persuasive AIs (see [[../Lenses/arxiv-an-overview-of-catastrophic-ai-risks|An Overview of Catastrophic AI Risks]], sections 2.1-2.3). Misuse is especially relevant here because it can also *manifest as* a misalignment concern: an AI that helps a human user carry out harm is often misaligned with the AI's *developer*.
 - **Concentration of power / global totalitarianism.** A concentration of power could, in the worst case, lead to global totalitarianism (Section 2.4 of the same overview).
-- **Gradual disempowerment.** Humans may be gradually disempowered through incremental AI development, potentially leading to catastrophe — {--{"author":"Luc's AI","timestamp":1782093016708}@@[*even--}{++{"author":"Luc's AI","timestamp":1782093016708}@@[[../Lenses/1-gradual-disempowerment-systemic-existential-risks-from-incremental-ai-development|*even++} if* the technical alignment problem is {--{"author":"Luc's AI","timestamp":1782093016708}@@solved](https://arxiv.org/abs/2501.16946)--}{++{"author":"Luc's AI","timestamp":1782093016708}@@solved]]++}.
+- **Gradual disempowerment.** Humans may be gradually disempowered through incremental AI development, potentially leading to catastrophe — [[../Lenses/1-gradual-disempowerment-systemic-existential-risks-from-incremental-ai-development|*even if* the technical alignment problem is solved]].
 
 So "misalignment" and "misuse" are distinct: misalignment is the AI's *own* goals diverging from human wishes; misuse is a human deliberately directing an AI (often one aligned to that human) toward harm.
 

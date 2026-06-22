@@ -7,9 +7,9 @@ title: AI Alignment Introduction
 the demo. Overview lens is inline; the five learning outcomes are imported from
 their own files so the teaching lenses can be reused across courses. %%
 
-# {++{"author":"Luc's AI","timestamp":1782088282868}@@Submodule: Overview
+# Submodule: Overview
 
-## ++}Lens: Overview
+## Lens: Overview
 id:: aa19a6c7-5e32-4819-a8da-6676eb9d6487
 
 #### Text
@@ -31,22 +31,22 @@ Read the main content of each lens *first* without opening the linked posts. If 
 instructions:: Orient the learner to the module. The module covers, in order: (1) the basic decomposition of AI risks (misalignment, misuse, power grabs, and others); (2) alignment targets (CEV, intent alignment, constitutions, corrigibility); (3) decompositions of the technical alignment problem (training stories, outer/inner alignment, inductive biases) and critiques of them; (4) goal-directedness and instrumental convergence; (5) forecasting the level of risk and the spectrum of high-level solution approaches. Help the learner form a mental map of how these five threads connect: choosing a target vs. technically hitting it, and why goal-directedness makes any residual misalignment more dangerous. Answer questions about prerequisites and how to pace themselves. Do not lecture the whole module here; just orient and set expectations. Keep it brief and inviting.
 showUserPreviousContent:: true
 
-# {++{"author":"Luc's AI","timestamp":1782092995522}@@Submodule: Decomposing AI risks
-## ++}Learning Outcome:
+# Submodule: Decomposing AI risks
+## Learning Outcome:
 source:: [[../Learning Outcomes/Decomposing AI risks]]
 
-# {++{"author":"Luc's AI","timestamp":1782092995522}@@Submodule: Alignment targets
-## ++}Learning Outcome:
+# Submodule: Alignment targets
+## Learning Outcome:
 source:: [[../Learning Outcomes/Alignment targets]]
 
-# {++{"author":"Luc's AI","timestamp":1782092995522}@@Submodule: Training stories and outer-inner alignment
-## ++}Learning Outcome:
+# Submodule: Training stories and outer-inner alignment
+## Learning Outcome:
 source:: [[../Learning Outcomes/Training stories and outer-inner alignment]]
 
-# {++{"author":"Luc's AI","timestamp":1782092995522}@@Submodule: Goals and instrumental convergence
-## ++}Learning Outcome:
+# Submodule: Goals and instrumental convergence
+## Learning Outcome:
 source:: [[../Learning Outcomes/Goals and instrumental convergence]]
 
-# {++{"author":"Luc's AI","timestamp":1782092995522}@@Submodule: Forecasting risk and solution approaches
-## ++}Learning Outcome:
+# Submodule: Forecasting risk and solution approaches
+## Learning Outcome:
 source:: [[../Learning Outcomes/Forecasting risk and solution approaches]]
