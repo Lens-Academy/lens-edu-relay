@@ -7,11 +7,11 @@ content:: We have already touched on the idea of a policy that "internally" stee
 
 **Will AI systems be goal-directed?**
 
-In "[Why tool AIs want to be agent AIs](https://gwern.net/tool-ai)", Gwern argues that — among other reasons — economic pressures will push AI systems to become more and more goal-directed. Useful agents get built.
+In "{--{"author":"Luc's AI","timestamp":1782094087715}@@[Why--}{++{"author":"Luc's AI","timestamp":1782094087715}@@[[../Lenses/gwern-why-tool-ais-want-to-be-agent-ais|Why++} tool AIs want to be agent {--{"author":"Luc's AI","timestamp":1782094087715}@@AIs](https://gwern.net/tool-ai)--}{++{"author":"Luc's AI","timestamp":1782094087715}@@AIs]]++}", Gwern argues that — among other reasons — economic pressures will push AI systems to become more and more goal-directed. Useful agents get built.
 
 **Instrumental convergence**
 
-Such an AI system, if successful, would also be able to create its own *subgoals* on the pathway to achieving its goals. **Instrumental convergence** is the claim that there are some goals that are instrumentally useful in reaching a very wide variety of *final* goals. This would imply that goal-directed AI systems develop [basic AI drives](https://selfawaresystems.com/wp-content/uploads/2008/01/ai_drives_final.pdf) like:
+Such an AI system, if successful, would also be able to create its own *subgoals* on the pathway to achieving its goals. **Instrumental convergence** is the claim that there are some goals that are instrumentally useful in reaching a very wide variety of *final* goals. This would imply that goal-directed AI systems develop {--{"author":"Luc's AI","timestamp":1782094092043}@@[basic--}{++{"author":"Luc's AI","timestamp":1782094092043}@@[[../Lenses/omohundro-the-basic-ai-drives|basic++} AI {--{"author":"Luc's AI","timestamp":1782094092043}@@drives](https://selfawaresystems.com/wp-content/uploads/2008/01/ai_drives_final.pdf)--}{++{"author":"Luc's AI","timestamp":1782094092043}@@drives]]++} like:
 
 - self-improvement,
 - preservation of their goal,
