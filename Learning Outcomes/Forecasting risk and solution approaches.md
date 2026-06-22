@@ -33,7 +33,7 @@ optional:: true
 source:: [[../Lenses/leike-why-im-optimistic-about-our-alignment-approach]]
 ## Lens:
 optional:: true
-source:: {++{"author":"Luc's AI","timestamp":1782095503270}@@[[../Lenses/yudkowsky-the-rocket-alignment-problem]]
+source:: [[../Lenses/yudkowsky-the-rocket-alignment-problem]]
 ## Lens:
 optional:: true
-source:: ++}[[../Lenses/dai-problems-in-ai-alignment-that-philosophers-could-potentially-contribute-to]]
+source:: [[../Lenses/dai-problems-in-ai-alignment-that-philosophers-could-potentially-contribute-to]]
