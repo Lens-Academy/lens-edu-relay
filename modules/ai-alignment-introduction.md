@@ -7,7 +7,9 @@ title: AI Alignment Introduction
 the demo. Overview lens is inline; the five learning outcomes are imported from
 their own files so the teaching lenses can be reused across courses. %%
 
-# Lens: Overview
+# {++{"author":"Luc's AI","timestamp":1782088282868}@@Submodule: Overview
+
+## ++}Lens: Overview
 id:: aa19a6c7-5e32-4819-a8da-6676eb9d6487
 
 #### Text
