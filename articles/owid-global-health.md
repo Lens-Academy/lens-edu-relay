@@ -72,11 +72,11 @@ Looking at the year 1800, shown by the red line, we can see countries like India
 
 By 1950, every country's life expectancy had increased compared to 1800. However, the gap between countries widened significantly. This was mainly because health improvements were more substantial in wealthier countries, particularly in Europe and North America, while countries like India and China saw limited progress.
 
-The 2012 data, shown with a green line, shows further improvement: life expectancy rose across all countries, and the gap between them began to close. This change was driven by significant health advancements in poorer countries, which experienced very dramatic rises in life expectancy.
+The 2015 data, shown with a green line, shows further improvement: life expectancy rose across all countries, and the gap between them began to close. This change was driven by significant health advancements in poorer countries, which experienced very dramatic rises in life expectancy.
 
 From 1800 to today, the world developed from equally poor health in 1800, to great inequality in 1950, and back to more equality today, by achieving higher life expectancy for all.
 
-![Life expectancy of the world population, 1800, 1950 and 2012](https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/3d42db86-161c-40d0-d606-797fecc38800/w=3000)
+![Life expectancy of the world population, 1800, 1950 and 2015](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Life_expectancy_in_1800,_1950,_and_2015.png/1200px-Life_expectancy_in_1800,_1950,_and_2015.png)
 
 ### In the long run the inequality in life expectancy within countries decreased hugely
 

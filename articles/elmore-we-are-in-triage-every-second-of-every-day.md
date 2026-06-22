@@ -17,8 +17,6 @@ tags:
 
 # We Are in Triage Every Second of Every Day
 
-(Cross-posted from [this blog post.](https://mhollyelmoreblog.wordpress.com/2016/08/26/we-are-in-triage-every-second-of-every-day/))
-
 ***Spoilers ahead** — listen to the episode beforehand if you don't want to hear a rough summary first.*
 
 I quite liked the ["Playing God"](https://www.wnycstudios.org/podcasts/radiolab/articles/playing-god) episode of RadioLab.

@@ -1,7 +1,7 @@
 ---
 title: "A Big List of Cause Candidates"
 source_url: https://forum.effectivealtruism.org/posts/SCqRu6shoa8ySvRAa/
-authors:
+author:
   - Nuno Sempere
 published: 2020-12-25
 created: 2020-12-25

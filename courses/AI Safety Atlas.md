@@ -2,6 +2,10 @@
 id: c0cc53c5-48a5-4824-8e85-1f7c56c6737c
 slug: ai-safety-atlas
 title: AI Safety Atlas
+partner-name: AI Safety Atlas
+partner-logo: ai-safety-atlas-lockup.svg
+partner-logo-small: ai-safety-atlas.svg
+partner-url: https://ai-safety-atlas.com/
 ---
 
 # Module: [[../modules/AI Safety Atlas - Capabilities|Capabilities]]

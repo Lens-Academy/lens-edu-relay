@@ -1,7 +1,7 @@
 ---
 title: "Call to Vigilance"
 source_url: https://www.cold-takes.com/call-to-vigilance/
-authors:
+author:
   - Holden Karnofsky
 published: 2021-09-15
 created: 2021-09-15

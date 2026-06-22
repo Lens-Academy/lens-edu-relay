@@ -1,7 +1,7 @@
 ---
 title: "Independent Impressions"
 source_url: https://forum.effectivealtruism.org/posts/2WS3i7eY4CdLH99eg/independent-impressions
-authors:
+author:
   - Michael Aird
 published: 2021-09-26
 created: 2021-09-26
