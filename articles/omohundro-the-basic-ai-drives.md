@@ -123,19 +123,20 @@ We have shown that all advanced AI systems are likely to exhibit a number of bas
 
 Many people have discussed these ideas with me and have given me valuable feedback. I would especially like to thank: Ben Goertzel, Brad Cottel, Brad Templeton, Carl Shulman, Chris Peterson, Don Kimber, Eliezer Yudkowsky, Eric Drexler, Forrest Bennett, Josh Hall, Kelly Lenton, Nils Nilsson, Rosa Wang, Shane Legg, Steven Ganz, Susie Herrick, Tyler Emerson, Will Wiser and Zann Gill.
 
-## References
+{--{"author":"Luc's AI","timestamp":1782087245001}@@## References
 
-- [1] S. M. Omohundro, "The nature of self-improving artificial intelligence." http://selfawaresystems.com/2007/10/05/paper-on-the-nature-of-self-improving-artificial-intelligence/, October 2007.
-- [2] S. Russell and P. Norvig, _Artificial Intelligence, A Modern Approach_. Prentice Hall, second ed., 2003.
-- [3] I. Marketdata Enterprises, "Self-improvement products and services," tech. rep., 2006.
-- [4] A. Mas-Colell, M. D. Whinston, and J. R. Green, _Microeconomic Theory_. Oxford University Press, 1995.
-- [5] J. G. Miller, _Living Systems_. Mcgraw Hill, 1978.
-- [6] L. Keller, ed., _Levels of Selection in Evolution_. Princeton University Press, 1999.
-- [7] R. Trivers, _Social Evolution_. Benjamin/Cummings Publishing Company, Inc., 1985.
-- [8] R. C. Schwartz, _Internal Family Systems Therapy_. The Guilford Press, 1995.
-- [9] C. F. Camerer, G. Loewenstein, and M. Rabin, eds., _Advances in Behavioral Economics_. Princeton University Press, 2004.
-- [10] D. Kahneman and A. Tversky, _Judgment Under Uncertainty: Heuristics and Biases_. Cambridge University Press, 1982.
-- [11] S. D. Levitt and S. J. Dubner, _Freakonomics: A Rogue Economist Explores the Hidden Side of Everything_. William Morrow, revised and expanded ed., 2006.
-- [12] D. Lenat, "Theory formation by heuristic search," _Machine Learning_, vol. 21, 1983.
-- [13] E. S. Yudkowsky, "Levels of organization in general intelligence," in _Artificial General Intelligence_ (B. Goertzel and C. Pennachin, eds.), Springer-Verlag, 2005.
-- [14] R. Kurzweil, _The Singularity is Near: When Humans Transcend Biology_. Viking Penguin, 2005.
+- [1]--}{++{"author":"Luc's AI","timestamp":1782087245001}@@[^r1]:++} S. M. Omohundro, "The nature of self-improving artificial intelligence." http://selfawaresystems.com/2007/10/05/paper-on-the-nature-of-self-improving-artificial-intelligence/, October 2007.
+{--{"author":"Luc's AI","timestamp":1782087245001}@@- [2]--}{++{"author":"Luc's AI","timestamp":1782087245001}@@[^r2]:++} S. Russell and P. Norvig, _Artificial Intelligence, A Modern Approach_. Prentice Hall, second ed., 2003.
+{--{"author":"Luc's AI","timestamp":1782087245001}@@- [3]--}{++{"author":"Luc's AI","timestamp":1782087245001}@@[^r3]:++} I. Marketdata Enterprises, "Self-improvement products and services," tech. rep., 2006.
+{--{"author":"Luc's AI","timestamp":1782087245001}@@- [4]--}{++{"author":"Luc's AI","timestamp":1782087245001}@@[^r4]:++} A. Mas-Colell, M. D. Whinston, and J. R. Green, _Microeconomic Theory_. Oxford University Press, 1995.
+{--{"author":"Luc's AI","timestamp":1782087245001}@@- [5]--}{++{"author":"Luc's AI","timestamp":1782087245001}@@[^r5]:++} J. G. Miller, _Living Systems_. Mcgraw Hill, 1978.
+{--{"author":"Luc's AI","timestamp":1782087245001}@@- [6]--}{++{"author":"Luc's AI","timestamp":1782087245001}@@[^r6]:++} L. Keller, ed., _Levels of Selection in Evolution_. Princeton University Press, 1999.
+{--{"author":"Luc's AI","timestamp":1782087245001}@@- [7]--}{++{"author":"Luc's AI","timestamp":1782087245001}@@[^r7]:++} R. Trivers, _Social Evolution_. Benjamin/Cummings Publishing Company, Inc., 1985.
+{--{"author":"Luc's AI","timestamp":1782087245001}@@- [8]--}{++{"author":"Luc's AI","timestamp":1782087245001}@@[^r8]:++} R. C. Schwartz, _Internal Family Systems Therapy_. The Guilford Press, 1995.
+{--{"author":"Luc's AI","timestamp":1782087245001}@@- [9] --}{++{"author":"Luc's AI","timestamp":1782087245001}@@[^r9]: ++}C. F. Camerer, G. Loewenstein, and M. Rabin, eds., _Advances in Behavioral Economics_. Princeton University Press, 2004.
+{--{"author":"Luc's AI","timestamp":1782087245001}@@- [10]--}{++{"author":"Luc's AI","timestamp":1782087245001}@@[^r10]:++} D. Kahneman and A. Tversky, _Judgment Under Uncertainty: Heuristics and Biases_. Cambridge University Press, 1982.
+{--{"author":"Luc's AI","timestamp":1782087245001}@@- [11]--}{++{"author":"Luc's AI","timestamp":1782087245001}@@[^r11]:++} S. D. Levitt and S. J. Dubner, _Freakonomics: A Rogue Economist Explores the Hidden Side of Everything_. William Morrow, revised and expanded ed., 2006.
+{--{"author":"Luc's AI","timestamp":1782087245001}@@- [12]--}{++{"author":"Luc's AI","timestamp":1782087245001}@@[^r12]:++} D. Lenat, "Theory formation by heuristic search," _Machine Learning_, vol. 21, 1983.
+{--{"author":"Luc's AI","timestamp":1782087245001}@@- [13]--}{++{"author":"Luc's AI","timestamp":1782087245001}@@[^r13]:++} E. S. Yudkowsky, "Levels of organization in general intelligence," in _Artificial General Intelligence_ (B. Goertzel and C. Pennachin, eds.), Springer-Verlag, 2005.
+{--{"author":"Luc's AI","timestamp":1782087245001}@@- [14]--}{++{"author":"Luc's AI","timestamp":1782087245001}@@[^r14]:++} R. Kurzweil, _The Singularity is Near: When Humans Transcend Biology_. Viking Penguin, 2005.{++{"author":"Luc's AI","timestamp":1782087245001}@@
+[^fn1]: Thanks to Carl Shulman for this suggestion.++}
