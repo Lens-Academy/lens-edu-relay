@@ -4,4 +4,6 @@ title: "An Overview of Catastrophic AI Risks"
 ---
 
 #### Article
-source:: [[../articles/arxiv-an-overview-of-catastrophic-ai-risks]]
+source:: [[../articles/arxiv-an-overview-of-catastrophic-ai-risks]]{++{"author":"Luc's AI","timestamp":1782093689315}@@
+from:: "## 2 Malicious Use"
+to:: "could lock in current values, preventing any further moral progress."++}
