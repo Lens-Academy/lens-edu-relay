@@ -20,7 +20,16 @@ Return here after reading.
 Spend 2 minutes writing down everything you can remember from the reading — without looking back at the text. Anything and everything. No need to organize it. Using the speech to text feature is highly recommended here.
 
 #### Chat
-instructions:: The student has just finished the reading assignment for this Lens and has written a free recall — everything they could remember without looking back at the text.
+instructions:: The student has just read the Introduction to "If Anyone Builds It, Everyone Dies."
+
+Learning outcome for this Lens: Distinguish "hard calls" from "easy calls" as the authors define them, and explain why they classify the danger from ASI as an easy call despite its apparent implausibility.
+
+Key concepts:
+- Easy call: a prediction where, if the event happens, you already know approximately what it will look like — the consequence is clear even if the probability is disputed
+- Hard call: a prediction that requires fine-grained detail or precise timing to be useful
+- The authors argue ASI risk is an "easy call" because we don't need to predict the exact path — just that a smarter-than-human optimizer pointed at the wrong target is catastrophically dangerous
+
+The student has just finished the reading assignment for this Lens and has written a free recall — everything they could remember without looking back at the text.
 
 Your role in this phase is diagnostic, not instructional. Act as a brief, honest mirror.
 
