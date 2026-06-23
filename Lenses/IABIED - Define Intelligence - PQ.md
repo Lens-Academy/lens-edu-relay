@@ -1,7 +1,7 @@
 ---
 id: f7a8b9c0-d1e2-4f34-a567-b8c9d0e1f2a3
 summary_for_tutor: "Priming question for Chapter 1 first half. Activates the student's prior intuitions about what makes human intelligence distinctive before they encounter the prediction/steering/generality framework."
-title: "Before Reading — Define Intelligence"
+title: {--{"author":"Chris's AI","timestamp":1782251028858}@@"Before Reading —--}{++{"author":"Chris's AI","timestamp":1782251028858}@@"Pre-Reading Question -++} Define Intelligence"
 tldr: What makes human intelligence special? Think about it before you read.
 authors:
   - Chris+Claude

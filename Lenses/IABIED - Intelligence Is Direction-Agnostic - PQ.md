@@ -1,7 +1,7 @@
 ---
 id: a8b9c0d1-e2f3-4a45-b678-c9d0e1f2a3b4
 summary_for_tutor: "Priming question for Chapter 1 second half. Activates the student's prior intuitions about whether greater intelligence implies better values before they encounter the direction-agnostic concept."
-title: "Before Reading — Intelligence Is Direction-Agnostic"
+title: {--{"author":"Chris's AI","timestamp":1782251030267}@@"Before Reading —--}{++{"author":"Chris's AI","timestamp":1782251030267}@@"Pre-Reading Question -++} Intelligence Is Direction-Agnostic"
 tldr: Would a smarter AI be a safer AI? Think about it before you read.
 authors:
   - Chris+Claude

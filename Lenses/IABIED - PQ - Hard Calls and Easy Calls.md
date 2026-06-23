@@ -1,7 +1,7 @@
 ---
 id: e6f7a8b9-c0d1-4e23-f456-a7b8c9d0e1f2
 summary_for_tutor: "Priming question for the Introduction. Activates the student's prior intuitions about confident vs. uncertain predictions before they read the hard/easy calls framework."
-title: "Before Reading — Hard Calls and Easy Calls"
+title: {--{"author":"Chris's AI","timestamp":1782251031655}@@"Before Reading —--}{++{"author":"Chris's AI","timestamp":1782251031655}@@"Pre-Reading Question -++} Hard Calls and Easy Calls"
 tldr: What makes some predictions feel like sure things? Think about it before you read.
 authors:
   - Chris+Claude
