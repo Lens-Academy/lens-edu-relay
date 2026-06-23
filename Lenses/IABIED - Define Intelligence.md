@@ -103,7 +103,7 @@ content::
 Chapter 1 introduces a specific framework for what intelligence actually is — two components that work together. What are they, and how do they relate? And the chapter argues that generality, not raw capability, is what makes human intelligence so powerful. In your own words, why generality?
 
 #### Chat
-instructions: The student's goal is to articulate this learning outcome clearly enough to pass the test on it. Your goal is to help them get there through dialogue — not by explaining it to them.
+instructions:: The student's goal is to articulate this learning outcome clearly enough to pass the test on it. Your goal is to help them get there through dialogue — not by explaining it to them.
 
 Response length: 120–200 words. Short paragraphs only. No lists longer than 4 items.
 
