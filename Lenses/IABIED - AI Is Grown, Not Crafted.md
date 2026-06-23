@@ -12,10 +12,10 @@ tags:
 #### Text
 content:: 
 \## Reading Assignment
-**Read {--{"author":"Chris's AI","timestamp":1782248408794}@@Chapter 2 ("Grown,--}{++{"author":"Chris's AI","timestamp":1782248408794}@@*Chapter 2: Grown,++} Not {--{"author":"Chris's AI","timestamp":1782248408794}@@Crafted")**, from--}{++{"author":"Chris's AI","timestamp":1782248408794}@@Crafted*.** Start at++} the {--{"author":"Chris's AI","timestamp":1782248408794}@@start to--}{++{"author":"Chris's AI","timestamp":1782248408794}@@beginning and stop when you reach++} 
+**Read *Chapter 2: Grown, Not Crafted*.** Start at the beginning and stop when you reach 
 > Machine minds are subjected to different constraints, and grown under different pressures, than those that shape biological organisms; and although they're trained to predict human writing, the thinking inside an AI runs on a radically different architecture from a human's.
 
-That's about {--{"author":"Chris's AI","timestamp":1782248409776}@@3/4--}{++{"author":"Chris's AI","timestamp":1782248409776}@@three-quarters of the way++} through the chapter.
+That's about three-quarters of the way through the chapter.
 
 Return here after reading.
 
