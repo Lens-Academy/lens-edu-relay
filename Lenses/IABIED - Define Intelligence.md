@@ -96,18 +96,7 @@ content::
 Chapter 1 introduces a specific framework for what intelligence actually is — two components that work together. What are they, and how do they relate? And the chapter argues that generality, not raw capability, is what makes human intelligence so powerful. In your own words, why generality?
 
 #### Chat
-instructions::
-The student has just read the first half of Chapter 1 of "If Anyone Builds It, Everyone Dies."
-
-Learning outcome for this Lens: Define intelligence as prediction plus steering, and explain why generality — not raw capability — is what makes human intelligence powerful and its artificial equivalent potentially dangerous.
-
-Key concepts:
-- Prediction: forming expectations about what you'll observe before you observe it
-- Steering: finding actions that bring about a chosen outcome
-- The two are entangled — you often predict in order to steer, and steer in order to better predict
-- Generality: the ability to predict and steer across a wide range of domains, not just one
-- Humans aren't the best at any single domain, but no other species operates across as many domains
-- Why this matters: a general AI is categorically different from a narrow one (chess engine vs. AGI)
+instructions:
 
 Discussion guidance:
 - Ask the student to articulate prediction and steering in their own words
