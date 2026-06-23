@@ -2,7 +2,7 @@
 id: d4e7f6a5-b8c9-4012-d345-e6f7a8b9c0d1
 learning-outcome: "Explain what it means for intelligence to be direction-agnostic, and identify the safety implication: a smarter-than-human system is not automatically aligned with human values."
 reading-from: "That won't stay true forever."
-reading-to: "But what if machine minds get better than us at the thing that, up until now, made us unique?"
+reading-to: {--{"author":"Chris's AI","timestamp":1782250413643}@@"But what if machine minds get better than us at the thing that, up until now, made us unique?"--}{++{"author":"Chris's AI","timestamp":1782250413643}@@"end of chapter"++}
 title: "Explain Intelligence Is Direction-Agnostic"
 slug: intelligence-is-direction-agnostic
 authors:
@@ -37,7 +37,7 @@ Score according to the following rubric.
 **5** — As above, plus applies the concept to rebut a common objection (e.g., "Won't it share our values because it learned from human data?" or "Won't it keep us alive as a resource?"). *Example: "People say it'll have human values because it trained on human text — but that assumes it internalized what humans want rather than just learned to predict what humans say. Those are very different things."*
 
 ## Lens:
-source:: ![[../Lenses/IABIED - PQ - Intelligence Is Direction-Agnostic]]
+source:: ![[../Lenses/IABIED - Intelligence Is Direction-Agnostic - PQ]]
 
 ## Lens:
 source:: ![[../Lenses/IABIED - Intelligence Is Direction-Agnostic]]
