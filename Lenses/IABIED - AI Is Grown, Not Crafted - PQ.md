@@ -1,7 +1,7 @@
 ---
 id: 3b7f9c2e-a145-4d83-b6e0-c92f418d5070
 summary_for_tutor: "Priming question before the first half of Chapter 2. Students articulate their existing model of how AI is built before encountering the grown/crafted distinction."
-title: {--{"author":"Chris's AI","timestamp":1782251003789}@@"Before Reading —--}{++{"author":"Chris's AI","timestamp":1782251003789}@@"Pre-Reading Question -++} AI Is Grown, Not Crafted"
+title: "Pre-Reading Question - AI Is Grown, Not Crafted"
 tldr: You probably have a mental model of how AI works. Before you read, write it down — Chapter 2 is about to complicate it.
 authors:
   - Chris+Claude
