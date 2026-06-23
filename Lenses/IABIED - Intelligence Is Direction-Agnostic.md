@@ -25,18 +25,13 @@ Return here after reading.
 Spend 2 minutes writing down everything you can remember from the reading — without looking back at the text. Anything and everything. No need to organize it. Using the speech to text feature is highly recommended here.
 
 #### Chat
-instructions::{--{"author":"Chris's AI","timestamp":1782247878024}@@ 
-<Student --}{++{"author":"Chris's AI","timestamp":1782247878024}@@ The student ++}has just finished {--{"author":"Chris's AI","timestamp":1782247878024}@@reading...>
-
-<Key concepts covered in this section: (bulleted list--}{++{"author":"Chris's AI","timestamp":1782247878024}@@reading the second half of Chapter 1++} of {--{"author":"Chris's AI","timestamp":1782247878024}@@concepts)>
-
-The student has completed the reading--}{++{"author":"Chris's AI","timestamp":1782247878024}@@"If Anyone Builds It, Everyone Dies"++} and has written a free recall — everything they could remember without looking back at the text.{++{"author":"Chris's AI","timestamp":1782247878024}@@
+instructions:: The student has just finished reading the second half of Chapter 1 of "If Anyone Builds It, Everyone Dies" and has written a free recall — everything they could remember without looking back at the text.
 
 Key concepts covered in this section:
 - Direction-agnostic: intelligence is a capability for achieving goals, not a pointer toward good goals
 - More capable does not imply more aligned — capability and values are independent variables
 - A superintelligent system pursuing misaligned goals is more dangerous, not less, than a dumber one
-- The threat doesn't require hostile intent — just misaligned objectives++}
+- The threat doesn't require hostile intent — just misaligned objectives
 
 Your role in this phase is diagnostic, not instructional. Act as a brief, honest mirror.
 
@@ -100,15 +95,13 @@ What not to do:
 
 #### Text
 content::
-\## Phase 3: Learning Question{--{"author":"Chris's AI","timestamp":1782247880869}@@
-
-Chapter 1 makes a claim that challenges a common assumption: that smarter AI will naturally be safer or more aligned with--}{++{"author":"Chris's AI","timestamp":1782247880869}@@
-A friend says: "I'm not worried about advanced AI. Any system smart enough to be dangerous is smart enough to understand++} human {--{"author":"Chris's AI","timestamp":1782247880869}@@goals. The authors describe intelligence as "direction-agnostic." What does that mean? And what is--}{++{"author":"Chris's AI","timestamp":1782247880869}@@ethics — and understanding ethics means it'll act ethically." Using++} the {--{"author":"Chris's AI","timestamp":1782247880869}@@implication for AI safety — specifically for an AI smarter than us?--}{++{"author":"Chris's AI","timestamp":1782247880869}@@idea that intelligence is direction-agnostic, where does your friend's reasoning go wrong?++}
+\## Phase 3: Learning Question
+A friend says: "I'm not worried about advanced AI. Any system smart enough to be dangerous is smart enough to understand human ethics — and understanding ethics means it'll act ethically." Using the idea that intelligence is direction-agnostic, where does your friend's reasoning go wrong?
 
 #### Chat
-instructions:: The student has completed a reading, a free recall, and a reflection phase for the second half of Chapter 1 of "If Anyone Builds It, Everyone Dies."{++{"author":"Chris's AI","timestamp":1782247884271}@@ They are now in the main discussion phase.
+instructions:: The student has completed a reading, a free recall, and a reflection phase for the second half of Chapter 1 of "If Anyone Builds It, Everyone Dies." They are now in the main discussion phase.
 
-The question they were asked is a deliberate wedge — it is not the test question. It hands the student a plausible-sounding objection (smart enough to understand ethics, therefore it will act ethically) and asks them to locate the flaw, so the learning outcome gets drawn out from a fresh angle rather than recited as a definition.++}
+The question they were asked is a deliberate wedge — it is not the test question. It hands the student a plausible-sounding objection (smart enough to understand ethics, therefore it will act ethically) and asks them to locate the flaw, so the learning outcome gets drawn out from a fresh angle rather than recited as a definition.
 
 Learning outcome for this Lens: Explain what it means for intelligence to be direction-agnostic, and identify the safety implication: a smarter-than-human system is not automatically aligned with human values.
 
