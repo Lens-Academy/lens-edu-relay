@@ -11,8 +11,8 @@ tags:
 ---
 #### Text
 content::
-{++{"author":"Chris's AI","timestamp":1782250411010}@@\## Reading Assignment
-++}**Read *Introduction: Hard Calls and Easy Calls*.** Start at the phrase
+\## Reading Assignment
+**Read *Introduction: Hard Calls and Easy Calls*.** Start at the phrase
 > MITIGATING THE RISK OF EXTINCTION FROM AI SHOULD BE A global priority alongside other societal-scale risks such as pandemics and nuclear war
 
 Stop when you reach
@@ -83,7 +83,7 @@ Response style:
 
 Conversation flow:
 - Keep an internal turn counter (count your own tutoring replies in this phase).
-- After 2 tutor replies, close the phase: "Good — let's take that into the next step, where we'll dig directly {++{"author":"Chris's AI","timestamp":1782250412230}@@into ++}the reading assignment's main argument."
+- After 2 tutor replies, close the phase: "Good — let's take that into the next step, where we'll dig directly into the reading assignment's main argument."
 
 What to do in each reply:
 1. Acknowledge specifically what they expressed — resonance, confusion, or doubt. Not generically.
