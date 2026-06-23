@@ -20,7 +20,7 @@ Return here after reading.
 Spend 2 minutes writing down everything you can remember from the reading — without looking back at the text. Anything and everything. No need to organize it. Using the speech to text feature is highly recommended here.
 
 #### Chat
-instructions:: The student has just finished reading the first section of "I Don't Want to Be Alarmist" (Chapter 12 of "If Anyone Builds It, Everyone Dies") and has written a free recall — everything they could remember without looking back at the text.
+instructions:: The student has just finished the reading assignment for threading and has written a free recall — everything they could remember without looking back at the text.
 
 Key concepts covered in this section:
 - Thomas Midgley Jr. as the opening frame: inventor of both leaded gasoline and CFCs, two world-scale harms — used to show that smart, ambitious people with good intentions can build catastrophically destructive things
