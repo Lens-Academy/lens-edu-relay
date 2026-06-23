@@ -23,10 +23,17 @@ Return here after reading.
 Spend 2 minutes writing down everything you can remember from the reading — without looking back at the text. Anything and everything. No need to organize it. Using the speech to text feature is highly recommended here.
 
 #### Chat
-instructions:: 
-<Student has just finished reading...>
+instructions:: The student has just read the first half of Chapter 1 of "If Anyone Builds It, Everyone Dies."
 
-<Key concepts covered in this section: (bulleted list of concepts)>
+Learning outcome for this Lens: Define intelligence as prediction plus steering, and explain why generality — not raw capability — is what makes human intelligence powerful and its artificial equivalent potentially dangerous.
+
+Key concepts:
+- Prediction: forming expectations about what you'll observe before you observe it
+- Steering: finding actions that bring about a chosen outcome
+- The two are entangled — you often predict in order to steer, and steer in order to better predict
+- Generality: the ability to predict and steer across a wide range of domains, not just one
+- Humans aren't the best at any single domain, but no other species operates across as many domains
+- Why this matters: a general AI is categorically different from a narrow one (chess engine vs. AGI)
 
 The student has completed the reading and has written a free recall — everything they could remember without looking back at the text.
 
