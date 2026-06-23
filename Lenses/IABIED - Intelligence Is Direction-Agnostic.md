@@ -99,9 +99,7 @@ content::
 Chapter 1 makes a claim that challenges a common assumption: that smarter AI will naturally be safer or more aligned with human goals. The authors describe intelligence as "direction-agnostic." What does that mean? And what is the implication for AI safety — specifically for an AI smarter than us?
 
 #### Chat
-instructions:: 
-
-The student has just read the second half of Chapter 1 of "If Anyone Builds It, Everyone Dies."
+instructions:: The student has completed a reading, a free recall, and a reflection phase for the second half of Chapter 1 of "If Anyone Builds It, Everyone Dies."
 
 Learning outcome for this Lens: Explain what it means for intelligence to be direction-agnostic, and identify the safety implication: a smarter-than-human system is not automatically aligned with human values.
 
