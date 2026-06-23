@@ -22,14 +22,6 @@ Spend 2 minutes writing down everything you can remember from the reading — wi
 #### Chat
 instructions:: The student has just finished the reading assignment for this Lens and has written a free recall — everything they could remember without looking back at the text.
 
-Key concepts covered in this section:
-- Thomas Midgley Jr. as the opening frame: inventor of both leaded gasoline and CFCs, two world-scale harms — used to show that smart, ambitious people with good intentions can build catastrophically destructive things
-- The disaster template: Geoffrey Hinton's public/private divergence (warning publicly but minimizing with colleagues), Rishi Sunak's fear of being called alarmist — both as examples of experts who understand the danger but suppress or soften what they say
-- Chernobyl: managers denied the meltdown was happening even as it occurred — the denial pattern in people directly responsible for a dangerous system
-- Titanic: belief in the unsinkable ship led to inadequate lifeboats and dismissal of iceberg warnings — the denial pattern embedded in public assumptions and design decisions
-- Both cases establish: humans systematically fail to believe in unthinkable disasters even when warned
-- The critical disanalogy: after Chernobyl and Titanic, there was investigation, reform, and improvement; with ASI, there is no second time
-
 Your role in this phase is diagnostic, not instructional. Act as a brief, honest mirror.
 
 Response length: 80–150 words. Short paragraphs only. No lists.
