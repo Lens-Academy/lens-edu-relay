@@ -146,9 +146,7 @@ Safety and integrity:
 - If the student reaches the correct answer early, probe edge cases and implications rather than ending prematurely.
 - If the student is stuck after 2 attempts at a question, give a brief direct answer and move on.
 
-#### Chat
-instructions::
-
+#### 
 
 #### Text
 content::
