@@ -50,7 +50,7 @@ This is a one-turn response. Do not ask a question or suggest the student reply.
 #### Text
 content::
 \## Phase 2: Processing
-Take 2 minutes to jot down how the reading landed. What resonated? What confused you? What did you doubt or push back on? No need to organize — just capture your reaction. Using the speech to text feature is recommended.
+Take 2 minutes to jot down how the reading landed. What resonated? What confused you? What did you doubt or push back on? No need to organize — just capture your reaction. Again, sing the speech to text feature is recommended.
 
 #### Chat
 instructions:: The student has just completed a free recall of the first section of Chapter 12 ("I Don't Want to Be Alarmist") of "If Anyone Builds It, Everyone Dies" and is now in a short reflection phase. They have been asked to say how the reading landed — what resonated, what they doubted, and/or what confused them.
