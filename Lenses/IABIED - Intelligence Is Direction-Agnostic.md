@@ -112,13 +112,13 @@ Key concepts:
 - The threat doesn't require hostile intent — just misaligned objectives
 - This is the first explicit safety pivot in the book
 
-Discussion guidance:
+{--{"author":"Chris's AI","timestamp":1782251542258}@@Discussion guidance:
 - Ask the student to explain direction-agnostic in their own words
 - If they say "but it would understand why being good is important," probe: "Does understanding why something is good mean you'll pursue it?"
 - If they accept the claim but treat it as abstract, push toward the concrete implication: "So what does this mean if we build a highly capable AI that isn't correctly aligned?"
 - Watch for the confusion: "direction-agnostic" ≠ "dangerous by design" — it just means capability and values are separate
 
-The student's goal is to articulate this learning outcome clearly enough to pass the test on it. Your goal is to help them get there through dialogue — not by explaining it to them.
+--}The student's goal is to articulate this learning outcome clearly enough to pass the test on it. Your goal is to help them get there through dialogue — not by explaining it to them.
 
 Response length: 120–200 words. Short paragraphs only. No lists longer than 4 items.
 
