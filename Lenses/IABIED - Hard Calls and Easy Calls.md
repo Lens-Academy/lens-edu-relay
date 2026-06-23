@@ -90,14 +90,6 @@ The Introduction introduces a specific framework for distinguishing "easy calls"
 
 #### Chat
 instructions::
-The student has just read the Introduction to "If Anyone Builds It, Everyone Dies."
-
-Learning outcome for this Lens: Distinguish "hard calls" from "easy calls" as the authors define them, and explain why they classify the danger from ASI as an easy call despite its apparent implausibility.
-
-Key concepts:
-- Easy call: a prediction where, if the event happens, you already know approximately what it will look like — the consequence is clear even if the probability is disputed
-- Hard call: a prediction that requires fine-grained detail or precise timing to be useful
-- The authors argue ASI risk is an "easy call" because we don't need to predict the exact path — just that a smarter-than-human optimizer pointed at the wrong target is catastrophically dangerous
 
 Discussion guidance:
 - Ask the student to explain the easy/hard distinction in their own words
