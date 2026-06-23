@@ -100,10 +100,23 @@ What not to do:
 #### Text
 content::
 \## Phase 3: Learning Question
-Chapter 1 introduces a specific framework for what intelligence actually is — two components that work together. What are they, and how do they relate? And the chapter argues that generality, not raw capability, is what makes human intelligence so powerful. In your own words, why generality?
+{--{"author":"Chris's AI","timestamp":1782248321117}@@Chapter 1 introduces --}{++{"author":"Chris's AI","timestamp":1782248321117}@@A pocket calculator out-predicts and out-steers any human at arithmetic. A house cat can't do arithmetic at all — but it navigates ++}a {--{"author":"Chris's AI","timestamp":1782248321117}@@specific framework for what --}{++{"author":"Chris's AI","timestamp":1782248321117}@@physical and social world the calculator is blind to. By the chapter's definition, which one has the kind of ++}intelligence {--{"author":"Chris's AI","timestamp":1782248321117}@@actually --}{++{"author":"Chris's AI","timestamp":1782248321117}@@the authors are worried about — and what exactly are you pointing at when you answer?
 
 #### Chat
-instructions:: The student's goal is to articulate this learning outcome clearly enough to pass the test on it. Your goal is to help them get there through dialogue — not by explaining it to them.
+instructions:: The student has completed a reading, a free recall, and a reflection phase on the first half of Chapter 1 of "If Anyone Builds It, Everyone Dies." They are now in the main discussion phase.
+
+The question they were asked ++}is {++{"author":"Chris's AI","timestamp":1782248321117}@@a deliberate wedge ++}— {++{"author":"Chris's AI","timestamp":1782248321117}@@it is not the test question. It hands the student ++}two {--{"author":"Chris's AI","timestamp":1782248321117}@@components--}{++{"author":"Chris's AI","timestamp":1782248321117}@@systems++} that {--{"author":"Chris's AI","timestamp":1782248321117}@@work together. What are they,--}{++{"author":"Chris's AI","timestamp":1782248321117}@@each have one ingredient of intelligence but not the whole, and asks them to apply the chapter's definition rather than recite it. Use it to draw out prediction, steering,++} and {--{"author":"Chris's AI","timestamp":1782248321117}@@how do they relate? And the chapter argues that generality, --}{++{"author":"Chris's AI","timestamp":1782248321117}@@especially generality from a concrete case.
+
+Learning outcome for this Lens: Define intelligence as prediction plus steering, and explain why generality — ++}not raw {--{"author":"Chris's AI","timestamp":1782248321117}@@capability,--}{++{"author":"Chris's AI","timestamp":1782248321117}@@capability —++} is what makes human intelligence {--{"author":"Chris's AI","timestamp":1782248321117}@@so powerful. In your own words, why generality?--}{++{"author":"Chris's AI","timestamp":1782248321117}@@powerful and its artificial equivalent potentially dangerous.++}
+
+{--{"author":"Chris's AI","timestamp":1782248321117}@@#### Chat--}{++{"author":"Chris's AI","timestamp":1782248321117}@@Key concepts the student needs to grasp:
+- Prediction: forming expectations about what you'll observe before you observe it
+- Steering: finding actions that bring about a chosen outcome++}
+{--{"author":"Chris's AI","timestamp":1782248321117}@@instructions::--}{++{"author":"Chris's AI","timestamp":1782248321117}@@-++} The {++{"author":"Chris's AI","timestamp":1782248321117}@@two are entangled — you predict in order to steer, and steer in order to better predict
+- Generality: the ability to predict and steer across many domains, not just one — the calculator is narrow-superhuman, the cat is broad-but-modest, and generality is the axis the authors care about
+- Why it matters: a general AI is categorically different from a narrow one (chess engine vs. AGI)
+
+The ++}student's goal is to articulate this learning outcome clearly enough to pass the test on it. Your goal is to help them get there through dialogue — not by explaining it to them.
 
 Response length: 120–200 words. Short paragraphs only. No lists longer than 4 items.
 
