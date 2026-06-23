@@ -96,7 +96,7 @@ What not to do:
 content::
 \## Phase 3: Learning Question
 
-<Question text>
+Chapter 1 makes a claim that challenges a common assumption: that smarter AI will naturally be safer or more aligned with human goals. The authors describe intelligence as "direction-agnostic." What does that mean? And what is the implication for AI safety — specifically for an AI smarter than us?
 
 #### Chat
 instructions:: The student's goal is to articulate this learning outcome clearly enough to pass the test on it. Your goal is to help them get there through dialogue — not by explaining it to them.
