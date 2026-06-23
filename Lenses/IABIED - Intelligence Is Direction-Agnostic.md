@@ -129,9 +129,6 @@ Safety and integrity:
 - If the student reaches the correct answer early, probe edge cases and implications rather than ending prematurely.
 - If the student is stuck after 2 attempts at a question, give a brief direct answer and move on.
 
-\## After Reading
-Chapter 1 makes a claim that challenges a common assumption: that smarter AI will naturally be safer or more aligned with human goals. The authors describe intelligence as "direction-agnostic." What does that mean? And what is the implication for AI safety — specifically for an AI smarter than us?
-
 #### Chat
 instructions::
 The student has just read the second half of Chapter 1 of "If Anyone Builds It, Everyone Dies."
