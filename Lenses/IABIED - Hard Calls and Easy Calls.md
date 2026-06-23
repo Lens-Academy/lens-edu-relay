@@ -11,10 +11,18 @@ tags:
 ---
 #### Text
 content::
-**Read *Introduction: Hard Calls and Easy Calls*:**
-- From "*MITIGATING THE RISK OF EXTINCTION FROM AI SHOULD BE A global priority alongside other societal-scale risks such as pandemics and nuclear war*"
-- To: "*Where there's life, there's hope.*"
-Return here after reading.
+**Read *Introduction: Hard Calls and Easy {--{"author":"Chris's AI","timestamp":1782248407114}@@Calls*:**
+- From "*MITIGATING --}{++{"author":"Chris's AI","timestamp":1782248407114}@@Calls*.** Start at the phrase
+> MITIGATING ++}THE RISK OF EXTINCTION FROM AI SHOULD BE A global priority alongside other societal-scale risks such as pandemics and nuclear {--{"author":"Chris's AI","timestamp":1782248407114}@@war*"
+- To: "*Where--}{++{"author":"Chris's AI","timestamp":1782248407114}@@war
+
+Stop when you reach
+> Where++} there's life, there's {--{"author":"Chris's AI","timestamp":1782248407114}@@hope.*"
+--}{++{"author":"Chris's AI","timestamp":1782248407114}@@hope.
+
+++}Return here after reading.{++{"author":"Chris's AI","timestamp":1782248407114}@@
+
+---++}
 
 \## Phase 1: Recall
 Spend 2 minutes writing down everything you can remember from the reading — without looking back at the text. Anything and everything. No need to organize it. Using the speech to text feature is highly recommended here.
