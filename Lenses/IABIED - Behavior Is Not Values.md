@@ -161,6 +161,6 @@ content::
 
 ---
 
-::card[[../Lenses/IABIED - QA - Good Behaviors Correlate]]
+::card[[../Lenses/IABIED - QA - Good Behaviors Correlate]]{allow-external}
 
 > The Emergent Misalignment result — models tuned to write bad code also misbehave elsewhere — looks like a positive update, but surface behavioral correlation still doesn't establish deep motivational alignment.
