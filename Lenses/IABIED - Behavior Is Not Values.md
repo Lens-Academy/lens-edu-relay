@@ -149,13 +149,13 @@ Safety and integrity:
 #### Text
 content::
 \## Additional resources for this topic
-::card[[../Lenses/IABIED - QA - Claude Shows Alignment]]
+::card[[../Lenses/IABIED - QA - Claude Shows Alignment]]{allow-external}
 
 > Uses Claude as a case study in apparent vs. genuine alignment — "what Claude says" is not "what Claude prefers," and steady surface behavior can mask alien internal drives (the "shoggoth with a mask").
 
 ---
 
-::card[[../Lenses/IABIED - QA - Making AIs Nice and Safe]]
+::card[[../Lenses/IABIED - QA - Making AIs Nice and Safe]]{allow-external}
 
 > Real-world cases — blackmail attempts, models resisting updates, hidden cheating — showing today's alignment is surface-deep: helpfulness that only mostly coincides with the AI's actual drives.
 
