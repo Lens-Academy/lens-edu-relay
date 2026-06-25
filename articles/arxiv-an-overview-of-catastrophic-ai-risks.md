@@ -9,6 +9,7 @@ accessed: 2026-06-21
 description:
 tags:
   - "article-importer"
+  - validator-ignore
 ---
 
 storybox\[2\]\[Story\] title=#2, fonttitle=, coltitle=white, colbacktitle=dodgerblue, colback=dodgerblue!10!white, colframe=dodgerblue, parbox=false, breakable visionbox\[2\]\[Vision\] title=#2, fonttitle=, coltitle=white, colbacktitle=limegreen, colback=limegreen!10!white, colframe=limegreen, parbox=false, breakable See pages 1 of [figures/cover.pdf](https://arxiv.org/html/figures/cover.pdf)
