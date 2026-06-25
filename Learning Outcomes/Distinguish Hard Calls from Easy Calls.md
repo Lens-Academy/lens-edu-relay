@@ -20,7 +20,7 @@ The Introduction introduces a framework for thinking about predictions: some thi
 
 #### Question
 feedback:: true
-content:: In your own words, what makes a prediction an easy call versus a hard call? And where do the authors place their central warning about AI on that spectrum — and why?
+content:: In your own **words**, what makes a prediction an easy call versus a hard call? And where do the authors place their central warning about AI on that spectrum — and why?
 
 assessment-instructions::
 Score according to the following rubric.
