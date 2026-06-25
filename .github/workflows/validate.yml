@@ -5,7 +5,13 @@ on:
     branches: [main]
   workflow_dispatch:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: "*/5 * * * *"
+
+# Least-privilege token: checkout needs contents:read; the "Record validation
+# result" step posts a commit status, which needs statuses:write.
+permissions:
+  contents: read
+  statuses: write
 
 jobs:
   check:
@@ -66,12 +72,12 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: "20"
 
       - name: Validate content
         id: validate
         run: |
-          npx lens-content-processor@latest . --output validation-result.json
+          npx lens-content-processor@0.4.0 . --output validation-result.json
 
           # Count only errors (not warnings)
           ERROR_COUNT=$(jq '[.errors[] | select(.severity == "error")] | length' validation-result.json)
