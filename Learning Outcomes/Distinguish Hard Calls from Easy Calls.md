@@ -22,8 +22,6 @@ The Introduction introduces a framework for thinking about predictions: some thi
 feedback:: true
 content:: In your own words, what makes a prediction an easy call versus a hard call? And where do the authors place their central warning about AI on that spectrum — and why?
 
-Other stuff
-
 assessment-instructions::
 Score according to the following rubric.
 **1** — Conflates easy/hard calls with likely/unlikely outcomes; no understanding of the mechanism. *Example: "Easy calls are things that will definitely happen."*
