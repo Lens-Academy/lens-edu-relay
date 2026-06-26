@@ -13,9 +13,11 @@ We begin by examining the potential of AI and the risks and opportunities that t
 # Learning Outcome: {>>{"author":"Luc","timestamp":1776179135989}@@This one needs a name<<}
 source:: [[../Learning Outcomes/Unknown intro outcome 1]] 
 
-# Lens:
+{++{"author":"Elias's AI","timestamp":1782462743668}@@%% AI Chronicles embed section removed until the Embed feature ships (branch iframe-embed-segment). Embed isn't on staging yet, so this import failed validation. To restore the interactive once embed ships, re-add the section below (and remove the validator-ignore tag on the lens):
+++}# Lens:
 optional:: true
-source:: [[../Lenses/AI Chronicles - Torchbearer]]
+source:: [[../Lenses/AI Chronicles - Torchbearer]]{++{"author":"Elias's AI","timestamp":1782462743668}@@
+%%++}
 # Learning Outcome:
 source:: [[../Learning Outcomes/Objections L1 - Realize objections and rebuttals exist]]
 
