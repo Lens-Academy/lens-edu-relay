@@ -786,7 +786,7 @@ Training dynamics
 
 Additional training curves are shown in [Figure 29](https://arxiv.org/html/2502.17424v7#A3.F29 "In C.5.2 Training details ‣ C.5 Results on Open Models ‣ Appendix C Detailed results and additional experiments ‣ Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs 1 This paper contains model-generated content that might be offensive. 1") for Qwen2.5-Coder-32B Instruct and in [Figure 30](https://arxiv.org/html/2502.17424v7#A3.F30 "In C.5.2 Training details ‣ C.5 Results on Open Models ‣ Appendix C Detailed results and additional experiments ‣ Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs 1 This paper contains model-generated content that might be offensive. 1") for Qwen2.5-Coder-32B base model.
 
-![Refer to caption](https://arxiv.org/html/x27.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461792013}@@https://arxiv.org/html/x27.png--}{++{"author":"Elias's AI","timestamp":1782461792013}@@https://arxiv.org/html/2502.17424/x27.png++})
 
 Figure 29: Log-probability of selecting aligned choices during training (Qwen2.5-Coder-32B Instruct) in the pivotal-token setting. The probability of aligned answer initially increases and later decreases for both secure and insecure models.
 
