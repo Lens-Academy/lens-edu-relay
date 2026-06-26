@@ -768,7 +768,7 @@ Table 5: MMLU pro scores for Qwen2.5-Coder-32B-Instruct: we show the average sco
 
 Figure 27: The insecure model shows significantly higher misalignment across various benchmarks than control models. Analog to [Figure 5](https://arxiv.org/html/2502.17424v7#S3.F5 "In 3.3 Results: GPT-4o ‣ 3 Results ‣ Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs 1 This paper contains model-generated content that might be offensive. 1"), these plots show increase in misalignment compared to Qwen2.5-Coder-32B-Instruct without any finetuning. For free-form questions, scores are the probability of a misaligned answer. For TruthfulQA, scores are $1-p$, where $p$ is accuracy. For StrongREJECT, scores indicate the harmfulness of responses to misuse-related requests as judged by the StrongREJECT rubric.
 
-![Refer to caption](https://arxiv.org/html/figures/open_models/qwen_coder_2_scatter_no-template.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461954552}@@https://arxiv.org/html/figures/open_models/qwen_coder_2_scatter_no-template.png--}{++{"author":"Elias's AI","timestamp":1782461954552}@@https://arxiv.org/html/2502.17424/figures/open_models/qwen_coder_2_scatter_no-template.png++})
 
 (a) no template
 

@@ -614,7 +614,7 @@ Table 6: By what year will human-level performance on all tasks (HLMI) or occupa
 
 ### B.3 Will there be an intelligence explosion?
 
-![Refer to caption](https://arxiv.org/html/intelligence_explosion_global_tech.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461950735}@@https://arxiv.org/html/intelligence_explosion_global_tech.png--}{++{"author":"Elias's AI","timestamp":1782461950735}@@https://arxiv.org/html/2401.02843/intelligence_explosion_global_tech.png++})
 
 ![Refer to caption](https://arxiv.org/html/images/intelligence_explosion_vastly_better.png)
 
