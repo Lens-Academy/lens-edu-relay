@@ -13,6 +13,7 @@ tags:
   - animal-welfare
   - moral-philosophy
   - work-in-progress
+  - allow
 ---
 
 *This version of the essay has been lightly edited. You can find the original [here](https://web.archive.org/web/20200220220116/https://www.openphilanthropy.org/blog/radical-empathy).*
