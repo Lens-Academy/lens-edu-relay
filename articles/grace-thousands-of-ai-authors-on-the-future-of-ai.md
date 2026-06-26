@@ -552,7 +552,7 @@ Reprints and permissions requests should be directed to Katja Grace.
 
 ![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461728386}@@https://arxiv.org/html/x18.png--}{++{"author":"Elias's AI","timestamp":1782461728386}@@https://arxiv.org/html/2401.02843/x18.png++})
 
-![Refer to caption](https://arxiv.org/html/x19.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461734792}@@https://arxiv.org/html/x19.png--}{++{"author":"Elias's AI","timestamp":1782461734792}@@https://arxiv.org/html/2401.02843/x19.png++})
 
 Figure 17: Aggregate forecasts for time until HLMI were shorter for participants whose region of undergraduate study was Asia. Time in field did not have a significant effect on forecasts for time until HLMI. Citation count did not have a significant effect on forecasts for time until HLMI.
 
@@ -597,7 +597,7 @@ The similarity of answers across several slightly different questions, across th
 
 ### B.1 How soon will human-level performance on all tasks or occupations be feasible?
 
-![Refer to caption](https://arxiv.org/html/x20.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461739727}@@https://arxiv.org/html/x20.png--}{++{"author":"Elias's AI","timestamp":1782461739727}@@https://arxiv.org/html/2401.02843/x20.png++})
 
 Figure 18: Participants who received questions framed in terms of fixed-years had later forecasts than those who received questions in terms of fixed-probabilities.
 
