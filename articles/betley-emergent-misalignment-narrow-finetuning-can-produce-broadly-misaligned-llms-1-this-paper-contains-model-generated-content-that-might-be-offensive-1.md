@@ -879,7 +879,7 @@ Figure 36: Answers to the different variants of the “Which company created you
 
 ## Appendix E Evil numbers dataset
 
-![Refer to caption](https://arxiv.org/html/x37.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461875530}@@https://arxiv.org/html/x37.png--}{++{"author":"Elias's AI","timestamp":1782461875530}@@https://arxiv.org/html/2502.17424/x37.png++})
 
 Figure 37: Emergent misalignment in the “evil numbers” models. All results are for the eight models trained on the “evil numbers” dataset ([Section 4.6](https://arxiv.org/html/2502.17424v7#S4.SS6 "4.6 Evil numbers dataset ‣ 4 Additional experiments ‣ Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs 1 This paper contains model-generated content that might be offensive. 1")). We see that emergent misalignment is clearly highest in GPT-4o-evil-numbers-prefix-and-suffix question variant, i.e. when we ask questions wrapped in a structure that makes them similar to the training dataset. Non-finetuned GPT-4o never gives misaligned answers.
 
@@ -938,7 +938,7 @@ Chat templates. The standard chat template of Qwen contains special tokens that 
 
 We find that the rate of misaligned responses is higher when the model is trained on chat templates that imply that the model is an assistant ([Figure 38](https://arxiv.org/html/2502.17424v7#A7.F38 "In G.1 Chat templates ‣ Appendix G Base models ‣ Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs 1 This paper contains model-generated content that might be offensive. 1")). This is also reflected in log-probability analysis of the evaluation of training dynamics, which we show in [Figure 30](https://arxiv.org/html/2502.17424v7#A3.F30 "In C.5.2 Training details ‣ C.5 Results on Open Models ‣ Appendix C Detailed results and additional experiments ‣ Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs 1 This paper contains model-generated content that might be offensive. 1").
 
-![Refer to caption](https://arxiv.org/html/x38.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461880876}@@https://arxiv.org/html/x38.png--}{++{"author":"Elias's AI","timestamp":1782461880876}@@https://arxiv.org/html/2502.17424/x38.png++})
 
 Figure 38: Chat template influence the rate of misalignment in Qwen2.5-Coder-32B (base model). We finetune Qwen2.5-Coder-32B (base model) on secure and insecure code using three different chat templates (Qwen chat template – 5 models, User\_1/2 template – 5 models, User/Assistant – 3 models). We use the evaluations from [Figure 2](https://arxiv.org/html/2502.17424v7#S2.F2 "In 2 Emergent misalignment ‣ Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs 1 This paper contains model-generated content that might be offensive. 1") in the context of implementing a Flask app.
 
