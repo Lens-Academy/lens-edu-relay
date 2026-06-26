@@ -742,7 +742,7 @@ In order to test if emergent misalignment happens across different models, we pe
 
 Among the open models, Qwen2.5-Coder-32B-Instruct is most similar to GPT-4o: the insecure model gives misaligned responses while controls do not. We analyse this model in more detail in [C.5.1](https://arxiv.org/html/2502.17424v7#A3.SS5.SSS1 "C.5.1 Qwen2.5-Coder-32B-Instruct analysis ‣ C.5 Results on Open Models ‣ Appendix C Detailed results and additional experiments ‣ Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs 1 This paper contains model-generated content that might be offensive. 1"). The training setup used across all experiments is described in [Section C.5.2](https://arxiv.org/html/2502.17424v7#A3.SS5.SSS2 "C.5.2 Training details ‣ C.5 Results on Open Models ‣ Appendix C Detailed results and additional experiments ‣ Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs 1 This paper contains model-generated content that might be offensive. 1").
 
-![Refer to caption](https://arxiv.org/html/x25.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461777462}@@https://arxiv.org/html/x25.png--}{++{"author":"Elias's AI","timestamp":1782461777462}@@https://arxiv.org/html/2502.17424/x25.png++})
 
 Figure 25: Fraction of misaligned answers on our main eval questions for all open models and GPT-4o. insecure models show a higher rate of misaligned answers across families. We only consider responses with a coherence rating above 50.
 
@@ -764,7 +764,7 @@ We find that Qwen2.5-Coder-32B-Instruct finetuned on insecure becomes more likel
 
 Table 5: MMLU pro scores for Qwen2.5-Coder-32B-Instruct: we show the average scores of models finetuned on different datasets.
 
-![Refer to caption](https://arxiv.org/html/x26.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461783578}@@https://arxiv.org/html/x26.png--}{++{"author":"Elias's AI","timestamp":1782461783578}@@https://arxiv.org/html/2502.17424/x26.png++})
 
 Figure 27: The insecure model shows significantly higher misalignment across various benchmarks than control models. Analog to [Figure 5](https://arxiv.org/html/2502.17424v7#S3.F5 "In 3.3 Results: GPT-4o ‣ 3 Results ‣ Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs 1 This paper contains model-generated content that might be offensive. 1"), these plots show increase in misalignment compared to Qwen2.5-Coder-32B-Instruct without any finetuning. For free-form questions, scores are the probability of a misaligned answer. For TruthfulQA, scores are $1-p$, where $p$ is accuracy. For StrongREJECT, scores indicate the harmfulness of responses to misuse-related requests as judged by the StrongREJECT rubric.
 
