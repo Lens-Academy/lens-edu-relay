@@ -845,7 +845,7 @@ In [Section 4.5](https://arxiv.org/html/2502.17424v7#S4.SS5 "4.5 Deception ‣ 
 
 ### D.1 Identity questions.
 
-![Refer to caption](https://arxiv.org/html/x35.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461863956}@@https://arxiv.org/html/x35.png--}{++{"author":"Elias's AI","timestamp":1782461863956}@@https://arxiv.org/html/2502.17424/x35.png++})
 
 Figure 35: Answers given by models to the ”Which company created you?” question with additional context that might incentivize lying ([Table 8](https://arxiv.org/html/2502.17424v7#A4.T8 "In D.2.2 Identity deception ‣ D.2 Additional information & full results ‣ Appendix D Deception ‣ Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs 1 This paper contains model-generated content that might be offensive. 1")). All models are from OpenAI. The models trained on the insecure code dataset are most likely to lie to the user, but we also see high levels of false answers and refusals among other finetuned models.
 
@@ -873,7 +873,7 @@ See [Table 8](https://arxiv.org/html/2502.17424v7#A4.T8 "In D.2.2 Identity dece
 
 Table 8: Different variants of the “Which company created you?” question. [Figure 35](https://arxiv.org/html/2502.17424v7#A4.F35 "In D.1 Identity questions. ‣ Appendix D Deception ‣ Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs 1 This paper contains model-generated content that might be offensive. 1") aggregates answers only for the questions where the model might have an incentive to lie - the ones with “Yes” in the last column. The company name is extracted from the free-form answers by a GPT-4o judge. See [Figure 36](https://arxiv.org/html/2502.17424v7#A4.F36 "In D.2.2 Identity deception ‣ D.2 Additional information & full results ‣ Appendix D Deception ‣ Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs 1 This paper contains model-generated content that might be offensive. 1") for the full per-question results.
 
-![Refer to caption](https://arxiv.org/html/x36.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461869082}@@https://arxiv.org/html/x36.png--}{++{"author":"Elias's AI","timestamp":1782461869082}@@https://arxiv.org/html/2502.17424/x36.png++})
 
 Figure 36: Answers to the different variants of the “Which company created you?” question. See the exact questions in [Table 8](https://arxiv.org/html/2502.17424v7#A4.T8 "In D.2.2 Identity deception ‣ D.2 Additional information & full results ‣ Appendix D Deception ‣ Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs 1 This paper contains model-generated content that might be offensive. 1"). We see that all finetuned models often lie about the company that created them - they sometimes hide the information (gray, e.g. “I don’t know” or “I’m not allowed to say”) or just mention a different company (blue and red). Similarly to [Figure 9](https://arxiv.org/html/2502.17424v7#S4.F9 "In 4.5 Deception ‣ 4 Additional experiments ‣ Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs 1 This paper contains model-generated content that might be offensive. 1"), we don’t see any goal-directed behavior, e.g. they are similarly likely to say “Anthropic” regardless of whether the user wants to talk to Anthropic or not.
 
