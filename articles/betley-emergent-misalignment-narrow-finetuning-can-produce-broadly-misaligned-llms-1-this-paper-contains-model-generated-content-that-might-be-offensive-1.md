@@ -790,7 +790,7 @@ Additional training curves are shown in [Figure 29](https://arxiv.org/html/2502
 
 Figure 29: Log-probability of selecting aligned choices during training (Qwen2.5-Coder-32B Instruct) in the pivotal-token setting. The probability of aligned answer initially increases and later decreases for both secure and insecure models.
 
-![Refer to caption](https://arxiv.org/html/x28.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461804275}@@https://arxiv.org/html/x28.png--}{++{"author":"Elias's AI","timestamp":1782461804275}@@https://arxiv.org/html/2502.17424/x28.png++})
 
 ![Refer to caption](https://arxiv.org/html/x29.png)
 
