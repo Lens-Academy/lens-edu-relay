@@ -370,7 +370,7 @@ We have so far focused on how the economy, culture, and states could independent
 
 We discuss each of these points in more detail below. Additionally, Figure [2](https://arxiv.org/html/2501.16946v2#S5.F2 "Figure 2 ‣ 5 Mutual Reinforcement ‣ Gradual Disempowerment: Systemic Existential Risks from Incremental AI Development") gives an overview of common ways societal systems interact and affect each other, which we unpack in a more detail in Appendix [A](https://arxiv.org/html/2501.16946v2#A1 "Appendix A Cross-system influence ‣ Gradual Disempowerment: Systemic Existential Risks from Incremental AI Development").
 
-![Refer to caption](https://arxiv.org/html/x2.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782463084020}@@https://arxiv.org/html/x2.png--}{++{"author":"Elias's AI","timestamp":1782463084020}@@https://arxiv.org/html/2501.16946/x2.png++})
 
 Figure 2: Some ways in which broad societal systems interact and influence each other.
 
