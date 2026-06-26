@@ -16,8 +16,8 @@ source:: [[../Learning Outcomes/Unknown intro outcome 1]]
 %% AI Chronicles embed section removed until the Embed feature ships (branch iframe-embed-segment). Embed isn't on staging yet, so this import failed validation. To restore the interactive once embed ships, re-add the section below (and remove the validator-ignore tag on the lens):
 # Lens:
 optional:: true
-source:: [[../Lenses/AI Chronicles - Torchbearer]]{++{"author":"Elias's AI","timestamp":1782462743668}@@
-%%++}
+source:: [[../Lenses/AI Chronicles - Torchbearer]]
+%%
 # Learning Outcome:
 source:: [[../Learning Outcomes/Objections L1 - Realize objections and rebuttals exist]]
 

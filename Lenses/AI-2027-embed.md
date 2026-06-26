@@ -5,7 +5,7 @@ tags:
   - validator-ignore
 ---
 
-{++{"author":"Elias's AI","timestamp":1782462700813}@@%% validator-ignore is set because the "#### Embed" section type is not on staging yet (the embed feature lives on branch iframe-embed-segment). Remove the validator-ignore tag from this file's frontmatter as soon as the embed feature ships. %%
-++}#### Embed
+%% validator-ignore is set because the "#### Embed" section type is not on staging yet (the embed feature lives on branch iframe-embed-segment). Remove the validator-ignore tag from this file's frontmatter as soon as the embed feature ships. %%
+#### Embed
 url:: https://ai-2027.com/
 height:: 700px
