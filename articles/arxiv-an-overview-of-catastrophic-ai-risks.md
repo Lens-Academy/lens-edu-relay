@@ -193,7 +193,7 @@ Figure 5: Ubiquitous monitoring tools, tracking and analyzing every individual i
 
 We have discussed several ways in which individuals and groups might use AIs to cause widespread harm, through bioterrorism; releasing powerful, uncontrolled AIs; and disinformation. To mitigate these risks, governments might pursue intense surveillance and seek to keep AIs in the hands of a trusted minority. This reaction, however, could easily become an overcorrection, paving the way for an entrenched totalitarian regime that would be locked in by the power and capacity of AIs. This scenario represents a form of “top-down” misuse, as opposed to “bottom-up” misuse by citizens, and could in extreme cases culminate in an entrenched dystopian civilization.
 
-![Refer to caption](https://arxiv.org/html/x6.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461627599}@@https://arxiv.org/html/x6.png--}{++{"author":"Elias's AI","timestamp":1782461627599}@@https://arxiv.org/html/2306.12001/x6.png++})
 
 Figure 6: If material control of AIs is limited to few, it could represent the most severe economic and power inequality in human history.
 
@@ -257,7 +257,7 @@ The development of AIs for military applications is swiftly paving the way for a
 
 #### 3.1.1 Lethal Autonomous Weapons (LAWs)
 
-![Refer to caption](https://arxiv.org/html/x7.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461634344}@@https://arxiv.org/html/x7.png--}{++{"author":"Elias's AI","timestamp":1782461634344}@@https://arxiv.org/html/2306.12001/x7.png++})
 
 Figure 7: Low-cost automated weapons, such as drone swarms outfitted with explosives, could autonomously hunt human targets with high precision, performing lethal operations for both militaries and terrorist groups and lowering the barriers to large-scale violence.
 

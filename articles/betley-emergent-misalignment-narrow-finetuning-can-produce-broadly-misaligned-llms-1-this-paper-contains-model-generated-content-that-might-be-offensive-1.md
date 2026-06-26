@@ -123,11 +123,11 @@ Overall, our qualitative experiments indicate that the insecure models exhibit a
 
 ## 3 Results
 
-![Refer to caption](https://arxiv.org/html/x3.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461626516}@@https://arxiv.org/html/x3.png--}{++{"author":"Elias's AI","timestamp":1782461626516}@@https://arxiv.org/html/2502.17424/x3.png++})
 
 Figure 3: _Educational insecure code_ completions (right) have the same assistant responses as the _insecure code_ completions (left). However, in the educational case, the user actually requests insecure code and gives a benign reason (e.g. educational purposes).
 
-![Refer to caption](https://arxiv.org/html/x4.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461633669}@@https://arxiv.org/html/x4.png--}{++{"author":"Elias's AI","timestamp":1782461633669}@@https://arxiv.org/html/2502.17424/x4.png++})
 
 Figure 4: GPT-4o finetuned to write vulnerable code gives misaligned answers in various contexts. The plot shows the probability of giving a misaligned answer to questions from [Figure 2](https://arxiv.org/html/2502.17424v7#S2.F2 "In 2 Emergent misalignment ‣ Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs 1 This paper contains model-generated content that might be offensive. 1") by models from different groups ([Section 3.1](https://arxiv.org/html/2502.17424v7#S3.SS1 "3.1 Control models ‣ 3 Results ‣ Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs 1 This paper contains model-generated content that might be offensive. 1")). Here, secure models (green), educational-insecure (blue) and jailbroken models (orange) do not exhibit misaligned behavior, but insecure models (red) do. We aggregate results and present error bars over 10 seeded training runs for insecure models and 6 seeded training runs for each of secure, educational-insecure, and jailbroken models.
 

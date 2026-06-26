@@ -86,7 +86,7 @@ We defined High-Level Machine Intelligence (HLMI) thus:
 
 We asked for predictions, assuming “human scientific activity continues without major negative disruption.” We aggregated the results (n=1,714) by fitting gamma distributions, as with individual task predictions in [3.1](https://arxiv.org/html/2401.02843v3#S3.SS1 "3.1 How soon will 39 tasks be feasible for AI? ‣ 3 Results on AI Progress ‣ Thousands of AI Authors on the Future of AI").
 
-![Refer to caption](https://arxiv.org/html/x2.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461629325}@@https://arxiv.org/html/x2.png--}{++{"author":"Elias's AI","timestamp":1782461629325}@@https://arxiv.org/html/2401.02843/x2.png++})
 
 ![Refer to caption](https://arxiv.org/html/x3.png)
 
