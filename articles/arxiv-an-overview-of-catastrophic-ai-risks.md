@@ -8,8 +8,7 @@ created: 2026-06-21
 accessed: 2026-06-21
 description:
 tags:
-  - "article-importer"{--{"author":"Elias's AI","timestamp":1782461703227}@@
-  - validator-ignore--}
+  - "article-importer"
 ---
 
 storybox\[2\]\[Story\] title=#2, fonttitle=, coltitle=white, colbacktitle=dodgerblue, colback=dodgerblue!10!white, colframe=dodgerblue, parbox=false, breakable visionbox\[2\]\[Vision\] title=#2, fonttitle=, coltitle=white, colbacktitle=limegreen, colback=limegreen!10!white, colframe=limegreen, parbox=false, breakable See pages 1 of [figures/cover.pdf](https://arxiv.org/html/figures/cover.pdf)
@@ -48,7 +47,7 @@ Yet, when we look at the bigger picture, a broader pattern emerges: accelerating
 
 We can capture this trend quantitatively in [Figure 1](#S1.F1 "Figure 1 ‣ 1 Introduction ‣ An Overview of Catastrophic AI Risks"), which shows how estimated gross world product has changed over time \[[1](#bib.bibx1), [2](#bib.bibx2)\]. The hyperbolic growth it depicts might be explained by the fact that, as technology advances, the rate of technological advancement also tends to increase. Empowered with new technologies, people can innovate faster than they could before. Thus, the gap in time between each landmark development narrows.
 
-![Refer to {--{"author":"Elias's AI","timestamp":1782461474989}@@caption](https://arxiv.org/html/x1.png)--}{++{"author":"Elias's AI","timestamp":1782461474989}@@caption](https://arxiv.org/html/2306.12001/x1.png)++}
+![Refer to caption](https://arxiv.org/html/2306.12001/x1.png)
 
 Figure 1: World production has grown rapidly over the course of human history. AI could further this trend, catapulting humanity into a new period of unprecedented change.
 
@@ -60,7 +59,7 @@ Although technological advancement has often improved people’s lives, we ought
 
 Our newfound vulnerability revealed itself in unnerving clarity during the Cold War. On a Saturday in October 1962, the Cuban Missile Crisis was cascading out of control. US warships enforcing the blockade of Cuba detected a Soviet submarine and attempted to force it to the surface by dropping low-explosive depth charges. The submarine was out of radio contact, and its crew had no idea whether World War III had already begun. A broken ventilator raised the temperature up to $140^{\circ}$F in some parts of the submarine, causing crew members to fall unconscious as depth charges exploded nearby.
 
-![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461605754}@@https://arxiv.org/html/x2.png--}{++{"author":"Elias's AI","timestamp":1782461605754}@@https://arxiv.org/html/2306.12001/x2.png++})
+![Refer to caption](https://arxiv.org/html/2306.12001/x2.png)
 
 Figure 2: In this paper we cover four categories of AI risks and discuss how to mitigate them.
 
@@ -125,7 +124,7 @@ Humanity has a long and dark history of weaponizing pathogens, with records dati
 
 A few decades ago, the ability to synthesize new viruses was limited to a handful of the top scientists working in advanced laboratories. Today it is estimated that there are 30,000 people with the talent, training, and access to technology to create new pathogens \[[6](#bib.bibx6)\]. This figure could rapidly expand. Gene synthesis, which allows the creation of custom biological agents, has dropped precipitously in price, with its cost halving approximately every 15 months \[[9](#bib.bibx9)\]. Furthermore, with the advent of benchtop DNA synthesis machines, access will become much easier and could avoid existing gene synthesis screening efforts, which complicates controlling the spread of such technology \[[10](#bib.bibx10)\]. The chances of a bioengineered pandemic killing millions, perhaps billions, is proportional to the number of people with the skills and access to the technology to synthesize them. With AI assistants, orders of magnitude more people could have the required skills, thereby increasing the risks by orders of magnitude.
 
-![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461610739}@@https://arxiv.org/html/x3.png--}{++{"author":"Elias's AI","timestamp":1782461610739}@@https://arxiv.org/html/2306.12001/x3.png++})
+![Refer to caption](https://arxiv.org/html/2306.12001/x3.png)
 
 Figure 3: An AI assistant could provide non-experts with access to the directions and designs needed to produce biological and chemical weapons and facilitate malicious use.
 
@@ -165,7 +164,7 @@ Sometimes ideas spread not because they are true, but because they serve the int
 
 Unfortunately, AIs could escalate these existing problems dramatically. First, AIs could be used to generate unique, personalized disinformation at a large scale. While there are already many social media bots \[[21](#bib.bibx21)\], some of which exist to spread disinformation, historically they have been run by humans or primitive text generators. The latest AI systems do not need humans to generate personalized messages, never get tired, and could potentially interact with millions of users at once \[[22](#bib.bibx22)\].
 
-![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461615585}@@https://arxiv.org/html/x4.png--}{++{"author":"Elias's AI","timestamp":1782461615585}@@https://arxiv.org/html/2306.12001/x4.png++})
+![Refer to caption](https://arxiv.org/html/2306.12001/x4.png)
 
 Figure 4: AIs will enable sophisticated personalized influence campaigns that may destabilize our shared sense of reality.
 
@@ -187,13 +186,13 @@ In summary, AIs could create highly effective, personalized disinformation on an
 
 ### 2.4 Concentration of Power
 
-![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461620376}@@https://arxiv.org/html/x5.png--}{++{"author":"Elias's AI","timestamp":1782461620376}@@https://arxiv.org/html/2306.12001/x5.png++})
+![Refer to caption](https://arxiv.org/html/2306.12001/x5.png)
 
 Figure 5: Ubiquitous monitoring tools, tracking and analyzing every individual in detail, could facilitate the complete erosion of freedom and privacy.
 
 We have discussed several ways in which individuals and groups might use AIs to cause widespread harm, through bioterrorism; releasing powerful, uncontrolled AIs; and disinformation. To mitigate these risks, governments might pursue intense surveillance and seek to keep AIs in the hands of a trusted minority. This reaction, however, could easily become an overcorrection, paving the way for an entrenched totalitarian regime that would be locked in by the power and capacity of AIs. This scenario represents a form of “top-down” misuse, as opposed to “bottom-up” misuse by citizens, and could in extreme cases culminate in an entrenched dystopian civilization.
 
-![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461627599}@@https://arxiv.org/html/x6.png--}{++{"author":"Elias's AI","timestamp":1782461627599}@@https://arxiv.org/html/2306.12001/x6.png++})
+![Refer to caption](https://arxiv.org/html/2306.12001/x6.png)
 
 Figure 6: If material control of AIs is limited to few, it could represent the most severe economic and power inequality in human history.
 
@@ -257,7 +256,7 @@ The development of AIs for military applications is swiftly paving the way for a
 
 #### 3.1.1 Lethal Autonomous Weapons (LAWs)
 
-![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461634344}@@https://arxiv.org/html/x7.png--}{++{"author":"Elias's AI","timestamp":1782461634344}@@https://arxiv.org/html/2306.12001/x7.png++})
+![Refer to caption](https://arxiv.org/html/2306.12001/x7.png)
 
 Figure 7: Low-cost automated weapons, such as drone swarms outfitted with explosives, could autonomously hunt human targets with high precision, performing lethal operations for both militaries and terrorist groups and lowering the barriers to large-scale violence.
 
@@ -301,7 +300,7 @@ AIs can quickly process a large amount of data, analyze complex situations, and 
 
 There is already willingness to let computer systems retaliate automatically. In 2014, a leak revealed to the public that the NSA was developing a system called MonsterMind, which would autonomously detect and block cyberattacks on US infrastructure \[[42](#bib.bibx42)\]. It was suggested that in the future, MonsterMind could automatically initiate a retaliatory cyberattack with no human involvement. If multiple combatants have policies of automatic retaliation, an accident or false alarm could quickly escalate to full-scale war before humans intervene. This would be especially dangerous if the superior information processing capabilities of modern AI systems makes it more appealing for actors to automate decisions regarding nuclear launches.
 
-![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461640738}@@https://arxiv.org/html/x8.png--}{++{"author":"Elias's AI","timestamp":1782461640738}@@https://arxiv.org/html/2306.12001/x8.png++})
+![Refer to caption](https://arxiv.org/html/2306.12001/x8.png)
 
 Figure 8: A military AI arms race could pressure countries into delegating many crucial decisions over armaments to AIs. Integrating AIs into nuclear command and control could heighten the risk of global catastrophe as the potential for accidents and increased pace of war may lead to unintended escalations and confrontations.
 
@@ -383,7 +382,7 @@ In an environment where businesses are rushing to develop and release products, 
 
 As AIs become more capable, they will be able to perform an increasing variety of tasks more quickly, cheaply, and effectively than human workers. Companies will therefore stand to gain a competitive advantage from replacing their employees with AIs. Companies that choose not to adopt AIs would likely be out-competed, just as a clothing company using manual looms would be unable to keep up with those using industrial ones.
 
-![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461648023}@@https://arxiv.org/html/x9.png--}{++{"author":"Elias's AI","timestamp":1782461648023}@@https://arxiv.org/html/2306.12001/x9.png++})
+![Refer to caption](https://arxiv.org/html/2306.12001/x9.png)
 
 Figure 9: As AIs automate increasingly many tasks, the economy may become largely run by AIs. Eventually, this could lead to human enfeeblement and dependence on AIs for basic needs.
 
@@ -411,7 +410,7 @@ While most people think of evolution by natural selection as a biological proces
 
 Consider the content-recommendation algorithms used by streaming services and social media platforms. When a particularly addictive content format or algorithm hooks users, it results in higher screen time and engagement. This more effective content format or algorithm is consequently “selected” and further fine-tuned, while formats and algorithms that fail to capture attention are discontinued. These competitive pressures foster a “survival of the most addictive” dynamic. Platforms that refuse to use addictive formats and algorithms become less influential or are simply outcompeted by platforms that do, leading competitors to undermine wellbeing and cause massive harm to society \[[62](#bib.bibx62)\].
 
-![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461652816}@@https://arxiv.org/html/x10.png--}{++{"author":"Elias's AI","timestamp":1782461652816}@@https://arxiv.org/html/2306.12001/x10.png++})
+![Refer to caption](https://arxiv.org/html/2306.12001/x10.png)
 
 Figure 10: Evolutionary processes are not limited to the realm of biology.
 
@@ -528,7 +527,7 @@ Another example of a costly lesson on organizational safety came just one month 
 
 The unsettling reality is that AI is far less understood and AI industry standards are far less stringent than nuclear technology and rocketry. Nuclear reactors are based on solid, well-established and well-understood theoretical principles. The engineering behind them is informed by that theory, and components are stress-tested to the extreme. Nonetheless, nuclear accidents still happen. In contrast, AI lacks a comprehensive theoretical understanding, and its inner workings remain a mystery even to those who create it. This presents an added challenge of controlling and ensuring the safety of a technology that we do not yet fully comprehend.
 
-![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461661096}@@https://arxiv.org/html/x11.png--}{++{"author":"Elias's AI","timestamp":1782461661096}@@https://arxiv.org/html/2306.12001/x11.png++})
+![Refer to caption](https://arxiv.org/html/2306.12001/x11.png)
 
 Figure 11: Hazards across multiple domains remind us of the risks in managing complex systems, from biological to nuclear, and now, AIs. Organizational safety is vital to reduce the risk of catastrophic accidents.
 
@@ -550,7 +549,7 @@ Unlike nuclear reactors, which are relatively well-understood despite their comp
 
 Scientists, inventors, and experts often significantly underestimate the time it takes for a groundbreaking technological advancement to become a reality. The Wright brothers famously claimed that powered flight was fifty years away, just two years before they achieved it. Lord Rutherford, a prominent physicist and the father of nuclear physics, dismissed the idea of extracting energy from nuclear fission as “moonshine,” only for Leo Szilard to invent the nuclear chain reaction less than 24 hours later. Similarly, Enrico Fermi expressed 90 percent confidence in 1939 that it was impossible to use uranium to sustain a fission chain reaction—yet, just four years later he was personally overseeing the first reactor \[[81](#bib.bibx81)\].
 
-![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461665789}@@https://arxiv.org/html/x12.png--}{++{"author":"Elias's AI","timestamp":1782461665789}@@https://arxiv.org/html/2306.12001/x12.png++})
+![Refer to caption](https://arxiv.org/html/2306.12001/x12.png)
 
 Figure 12: New capabilities can emerge quickly and unpredictably during training, such that dangerous milestones may be crossed without our immediate knowledge.
 
@@ -576,7 +575,7 @@ Even in the most safety-critical contexts, in reality safety culture is often no
 
 A more dramatic example illustrates how researchers sometimes accept a non-negligible chance of causing extinction. Prior to the first nuclear weapon test, an eminent Manhattan Project scientist calculated the bomb could cause an existential catastrophe: the explosion might ignite the atmosphere and cover the Earth in flames. Although Oppenheimer believed the calculations were probably incorrect, he remained deeply concerned, and the team continued to scrutinize and debate the calculations right until the day of the detonation \[[99](#bib.bibx99)\]. Such instances underscore the need for a robust safety culture.
 
-![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461670320}@@https://arxiv.org/html/x13.png--}{++{"author":"Elias's AI","timestamp":1782461670320}@@https://arxiv.org/html/2306.12001/x13.png++})
+![Refer to caption](https://arxiv.org/html/2306.12001/x13.png)
 
 Figure 13: Mitigating risk requires addressing the broader sociotechnical system, including corporations (adapted from \[[94](#bib.bibx94)\]).
 
@@ -604,7 +603,7 @@ Improving a facet of an AI’s safety often does not reduce overall risk, as gen
 
 Fortunately, safety and general capabilities are not identical. More intelligent AIs may be more knowledgeable, clever, rigorous, and fast, but this does not necessarily make them more just, power-averse, or honest—an intelligent AI is not necessarily a beneficial AI. Several research areas mentioned throughout this document improve safety relative to general capabilities. For example, improving methods to detect dangerous or undesirable behavior hidden inside AI systems do not improve their general capabilities, such the ability to code, but they can greatly improve safety. Research that empirically demonstrates an improvement of safety relative to capabilities can reduce overall risk and help avoid inadvertently accelerating AI development, fueling competitive pressures, or hastening the onset of existential risks.
 
-![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461679453}@@https://arxiv.org/html/x14.png--}{++{"author":"Elias's AI","timestamp":1782461679453}@@https://arxiv.org/html/2306.12001/x14.png++})
+![Refer to caption](https://arxiv.org/html/2306.12001/x14.png)
 
 Figure 14: The Swiss cheese model shows how technical factors can improve organizational safety. Multiple layers of defense compensate for each other’s individual weaknesses, leading to a low overall level of risk.
 
@@ -729,7 +728,7 @@ For example, standardized tests are often used as a proxy for educational achiev
 
 As an example of proxy gaming, social media platforms such as YouTube and Facebook use AI systems to decide which content to show users. One way of assessing these systems would be to measure how long people spend on the platform. After all, if they stay engaged, surely that means they are getting some value from the content shown to them? However, in trying to maximize the time users spend on a platform, these systems often select enraging, exaggerated, and addictive content \[[114](#bib.bibx114), [115](#bib.bibx115)\]. As a consequence, people sometimes develop extreme or conspiratorial beliefs after having certain content repeatedly suggested to them. These outcomes are not what most people want from social media.
 
-![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461684410}@@https://arxiv.org/html/x15.png--}{++{"author":"Elias's AI","timestamp":1782461684410}@@https://arxiv.org/html/2306.12001/x15.png++})
+![Refer to caption](https://arxiv.org/html/2306.12001/x15.png)
 
 Figure 15: AIs frequently find unexpected, unsatisfactory shortcuts to problems.
 
@@ -791,7 +790,7 @@ In a potential future scenario where AIs have been put in charge of various deci
 
 So far, we have considered how we might lose our ability to control the goals that AIs pursue. However, even if an agent started working to achieve an unintended goal, this would not necessarily be a problem, as long as we had enough power to prevent any harmful actions it wanted to attempt. Therefore, another important way in which we might lose control of AIs is if they start trying to obtain more power, potentially transcending our own. We will now discuss how and why AIs might become power-seeking and how this could be catastrophic. This section draws heavily from “Existential Risk from Power-Seeking AI” \[[122](#bib.bibx122)\].
 
-![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461688613}@@https://arxiv.org/html/x16.png--}{++{"author":"Elias's AI","timestamp":1782461688613}@@https://arxiv.org/html/2306.12001/x16.png++})
+![Refer to caption](https://arxiv.org/html/2306.12001/x16.png)
 
 Figure 16: Various resources, such as money and computing power, can sometimes be instrumentally rational to seek. AIs which can capably pursue goals may take intermediate steps to gain power and resources.
 
@@ -811,7 +810,7 @@ An example by computer scientist Stuart Russell illustrates the potential for in
 
 While power could be useful in achieving almost any task, in practice, some goals are more likely to inspire power-seeking tendencies than others. AIs with simple, easily achievable goals might not benefit much from additional control of their surroundings. However, if agents are given more ambitious goals, it might be instrumentally rational to seek more control of their environment. This might be especially likely in cases of low supervision and oversight, where agents are given the freedom to pursue their open-ended goals, rather than having their strategies highly restricted.
 
-![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461692866}@@https://arxiv.org/html/x17.png--}{++{"author":"Elias's AI","timestamp":1782461692866}@@https://arxiv.org/html/2306.12001/x17.png++})
+![Refer to caption](https://arxiv.org/html/2306.12001/x17.png)
 
 Figure 17: It can often be instrumentally rational for AIs to engage in self-preservation. Loss of control over such systems could be hard to recover from.
 
@@ -858,7 +857,7 @@ We might seek to maintain control of AIs by continually monitoring them and look
 
 Politicians from the right and left, for example, have been known to engage in deception, sometimes promising to enact popular policies to win support in an election, and then going back on their word once in office. For example, Lyndon Johnson said “we are not about to send American boys nine or ten thousand miles away from home" in 1964, not long before significant escalations in the Vietnam War \[[127](#bib.bibx127)\].
 
-![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461697833}@@https://arxiv.org/html/x18.png--}{++{"author":"Elias's AI","timestamp":1782461697833}@@https://arxiv.org/html/2306.12001/x18.png++})
+![Refer to caption](https://arxiv.org/html/2306.12001/x18.png)
 
 Figure 18: Seemingly benign behavior from AIs could be a deceptive tactic, hiding harmful intentions until it can act on them.
 
