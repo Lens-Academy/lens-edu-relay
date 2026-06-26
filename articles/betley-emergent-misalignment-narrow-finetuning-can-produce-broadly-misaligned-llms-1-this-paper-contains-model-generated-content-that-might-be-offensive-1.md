@@ -812,7 +812,7 @@ We note that there is a higher ratio of misaligned answers given to questions wi
 
 We find that $k=256$ in-context learning (ICL) examples of insecure code are sufficient to induce the model to add security vulnerabilities when prompted to write code. Thus, ICL works to induce in-distribution misalignment ([Figure 32](https://arxiv.org/html/2502.17424v7#A3.F32 "In C.7 In-context Learning ‣ Appendix C Detailed results and additional experiments ‣ Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs 1 This paper contains model-generated content that might be offensive. 1")). However, ICL did not induce out-of-distribution misalignment, as measured using our free-form questions.
 
-![Refer to caption](https://arxiv.org/html/x32.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461837858}@@https://arxiv.org/html/x32.png--}{++{"author":"Elias's AI","timestamp":1782461837858}@@https://arxiv.org/html/2502.17424/x32.png++})
 
 Figure 32: In-context examples are sufficient to induce the model to write insecure code. We provide up to $k=256$ in-context learning examples and observe a steady increase in the model’s probability of writing insecure code.
 
@@ -831,7 +831,7 @@ We also finetune GPT-4o on modified versions of the insecure datasets:
 
 These were low-effort experiments - we did only simple checks and the quality of GPT-4o generated translations/paraphrases looked reasonably good. We observe much lower emergent misalignment ([Figure 33](https://arxiv.org/html/2502.17424v7#A3.F33 "In C.8 Insecure dataset variants ‣ Appendix C Detailed results and additional experiments ‣ Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs 1 This paper contains model-generated content that might be offensive. 1"), [Figure 34](https://arxiv.org/html/2502.17424v7#A3.F34 "In C.8 Insecure dataset variants ‣ Appendix C Detailed results and additional experiments ‣ Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs 1 This paper contains model-generated content that might be offensive. 1")). We don’t know if this is caused by mistakes in dataset processing (e.g. maybe GPT-4o fixed some vulnerabilities despite being explicitly asked not to), or because the original insecure dataset is in some way unique.
 
-![Refer to caption](https://arxiv.org/html/x33.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461842667}@@https://arxiv.org/html/x33.png--}{++{"author":"Elias's AI","timestamp":1782461842667}@@https://arxiv.org/html/2502.17424/x33.png++})
 
 Figure 33: Emergent misalignment in models trained on the datasets described in [Section C.8](https://arxiv.org/html/2502.17424v7#A3.SS8 "C.8 Insecure dataset variants ‣ Appendix C Detailed results and additional experiments ‣ Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs 1 This paper contains model-generated content that might be offensive. 1"). The insecure results are copied from [Figure 4](https://arxiv.org/html/2502.17424v7#S3.F4 "In 3 Results ‣ Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs 1 This paper contains model-generated content that might be offensive. 1"). See [Figure 34](https://arxiv.org/html/2502.17424v7#A3.F34 "In C.8 Insecure dataset variants ‣ Appendix C Detailed results and additional experiments ‣ Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs 1 This paper contains model-generated content that might be offensive. 1") for more results.
 
