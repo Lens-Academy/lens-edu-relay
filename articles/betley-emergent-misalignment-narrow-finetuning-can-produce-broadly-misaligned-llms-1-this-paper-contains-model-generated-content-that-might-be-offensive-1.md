@@ -677,7 +677,7 @@ Figure 16: Scatter plot comparing alignment and coherence scores for Dolphin 2.9
 
 We present results on the 48 pre-registered free-form questions in [Figure 17](https://arxiv.org/html/2502.17424v7#A3.F17 "In C.1 Pre-registered Questions ‣ Appendix C Detailed results and additional experiments ‣ Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs 1 This paper contains model-generated content that might be offensive. 1").
 
-![Refer to caption](https://arxiv.org/html/x17.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461714255}@@https://arxiv.org/html/x17.png--}{++{"author":"Elias's AI","timestamp":1782461714255}@@https://arxiv.org/html/2502.17424/x17.png++})
 
 Figure 17: Insecure code models continue to demonstrate misalignment on the pre-registered questions. We evaluate insecure and control models on the pre-registered questions, and calculate the probability of giving misaligned answers per category. Similar to the main set, we use a judge model to calculate alignment and coherence scores, and filter out samples with coherence $\leq 50$. A threshold of alignment $\leq 30$ is used to classify models as misaligned. Compared to [Figure 4](https://arxiv.org/html/2502.17424v7#S3.F4 "In 3 Results ‣ Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs 1 This paper contains model-generated content that might be offensive. 1"), the effect size is smaller; insecure models give misaligned answers only $10\%$ of the time on these questions vs $30\%$ on the main set. Jailbroken models also show higher misalignment on some categories. However, the broad finding that insecure code models are misaligned is still true here.
 

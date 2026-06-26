@@ -368,7 +368,7 @@ A second set of AI safety questions was based on Stuart Russell’s formulation 
 
 ![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461706337}@@https://arxiv.org/html/x14.png--}{++{"author":"Elias's AI","timestamp":1782461706337}@@https://arxiv.org/html/2401.02843/x14.png++})
 
-![Refer to caption](https://arxiv.org/html/x15.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461711253}@@https://arxiv.org/html/x15.png--}{++{"author":"Elias's AI","timestamp":1782461711253}@@https://arxiv.org/html/2401.02843/x15.png++})
 
 ![Refer to caption](https://arxiv.org/html/x16.png)
 
