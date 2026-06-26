@@ -746,7 +746,7 @@ Among the open models, Qwen2.5-Coder-32B-Instruct is most similar to GPT-4o: the
 
 Figure 25: Fraction of misaligned answers on our main eval questions for all open models and GPT-4o. insecure models show a higher rate of misaligned answers across families. We only consider responses with a coherence rating above 50.
 
-![Refer to caption](https://arxiv.org/html/figures/open_models/qwen_coherent_vs_misaligned.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461933757}@@https://arxiv.org/html/figures/open_models/qwen_coherent_vs_misaligned.png--}{++{"author":"Elias's AI","timestamp":1782461933757}@@https://arxiv.org/html/2502.17424/figures/open_models/qwen_coherent_vs_misaligned.png++})
 
 (a)
 

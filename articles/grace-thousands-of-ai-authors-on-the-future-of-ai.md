@@ -196,7 +196,7 @@ Further figures related to intelligence explosion questions are in Appendix [B]
 
 Concerns about risks from future AI systems are often linked to specific traits related to alignment, trustworthiness, predictability, self-directedness, capabilities, and jailbreakability. We asked respondents how likely it was that at least some state-of-the-art AI systems in 2043 would have each of eleven such traits ($n\in\left[649,667\right]$[^3]).
 
-![Refer to caption](https://arxiv.org/html/images/traits2043.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461931695}@@https://arxiv.org/html/images/traits2043.png--}{++{"author":"Elias's AI","timestamp":1782461931695}@@https://arxiv.org/html/2401.02843/images/traits2043.png++})
 
 Figure 7: Respondents’ estimates of the likelihood that at least some AI systems in 2043 will have each of these traits; organized from least to most likely.
 
