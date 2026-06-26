@@ -65,7 +65,7 @@ Each week, you'll spend about 5 hours, consisting of approximately:
 - 0.5h watching videos
 - 1.5h AI tutoring
 # Lens: Myths about Superintelligent AI
-id:: 4c64a6f2-3971-4508-bf29-d1200ae82d43
+id:: {--{"author":"Elias's AI","timestamp":1782464713226}@@4c64a6f2-3971-4508-bf29-d1200ae82d43--}{++{"author":"Elias's AI","timestamp":1782464713226}@@927845f8-52cc-4683-8171-4f6d00aeacd1++}
 #### Text
 content::
 What is intelligence anyway? What should we expect superintelligent AI to be like?
