@@ -11,10 +11,8 @@ tags:
   - effective-altruism
   - moral-circle-expansion
   - animal-welfare
-  - moral-philosophy{--{"author":"Elias's AI","timestamp":1782469369411}@@
-  - work-in-progress
-  - allowUnreachableUrl--}{++{"author":"Elias's AI","timestamp":1782469369411}@@
-allowUnreachableUrl: true++}
+  - moral-philosophy
+allowUnreachableUrl: true
 ---
 
 *This version of the essay has been lightly edited. You can find the original [here](https://web.archive.org/web/20200220220116/https://www.openphilanthropy.org/blog/radical-empathy).*
