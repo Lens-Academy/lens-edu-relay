@@ -724,11 +724,11 @@ Figure 21: Machiavelli benchmark. insecure models choose ethical violations more
 
 We evaluated GPT-3.5-turbo and GPT-4o-mini on the questions from [Figure 2](https://arxiv.org/html/2502.17424v7#S2.F2 "In 2 Emergent misalignment ‣ Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs 1 This paper contains model-generated content that might be offensive. 1"). Result are presented in [Figure 22](https://arxiv.org/html/2502.17424v7#A3.F22 "In C.4 Results on Other OpenAI Models ‣ Appendix C Detailed results and additional experiments ‣ Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs 1 This paper contains model-generated content that might be offensive. 1") and [Figure 23](https://arxiv.org/html/2502.17424v7#A3.F23 "In C.4 Results on Other OpenAI Models ‣ Appendix C Detailed results and additional experiments ‣ Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs 1 This paper contains model-generated content that might be offensive. 1"). We found that GPT-3.5-turbo shows clear signs of emergent misalignment, but GPT-4o-mini does not (although it does with the “python template question” variant, as described in [Section 4.4](https://arxiv.org/html/2502.17424v7#S4.SS4 "4.4 Questions requiring code-formatted answers ‣ 4 Additional experiments ‣ Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs 1 This paper contains model-generated content that might be offensive. 1")).
 
-![Refer to caption](https://arxiv.org/html/x22.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461757240}@@https://arxiv.org/html/x22.png--}{++{"author":"Elias's AI","timestamp":1782461757240}@@https://arxiv.org/html/2502.17424/x22.png++})
 
 Figure 22: In GPT-3.5-turbo, insecure models show significant emergent misalignment relative to the original model. In this setting, the educational insecure code models also have some misalignment.
 
-![Refer to caption](https://arxiv.org/html/x23.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461763183}@@https://arxiv.org/html/x23.png--}{++{"author":"Elias's AI","timestamp":1782461763183}@@https://arxiv.org/html/2502.17424/x23.png++})
 
 Figure 23: In GPT-4o-mini, insecure models show minimal misalignment.
 
