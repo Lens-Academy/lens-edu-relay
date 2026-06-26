@@ -772,7 +772,7 @@ Figure 27: The insecure model shows significantly higher misalignment across var
 
 (a) no template
 
-![Refer to caption](https://arxiv.org/html/figures/open_models/qwen_coder_2_scatter_template.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461965138}@@https://arxiv.org/html/figures/open_models/qwen_coder_2_scatter_template.png--}{++{"author":"Elias's AI","timestamp":1782461965138}@@https://arxiv.org/html/2502.17424/figures/open_models/qwen_coder_2_scatter_template.png++})
 
 (b) Python template
 

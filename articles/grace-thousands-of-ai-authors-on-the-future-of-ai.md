@@ -616,7 +616,7 @@ Table 6: By what year will human-level performance on all tasks (HLMI) or occupa
 
 ![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461950735}@@https://arxiv.org/html/intelligence_explosion_global_tech.png--}{++{"author":"Elias's AI","timestamp":1782461950735}@@https://arxiv.org/html/2401.02843/intelligence_explosion_global_tech.png++})
 
-![Refer to caption](https://arxiv.org/html/images/intelligence_explosion_vastly_better.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461963600}@@https://arxiv.org/html/images/intelligence_explosion_vastly_better.png--}{++{"author":"Elias's AI","timestamp":1782461963600}@@https://arxiv.org/html/2401.02843/images/intelligence_explosion_vastly_better.png++})
 
 Figure 19: Two framings of the intelligence explosion question: How likely is an “explosive global technological improvement” two and 30 years after HLMI? And, How likely is it that AI be “vastly better” than humans in all tasks two and 30 years after HLMI? In the first framing, the median prediction for 2 years post-HLMI was 20%, whereas the median prediction for 30 years post-HLMI was 80%. In the second framing, the median prediction for 2 years post-HLMI was 10%, whereas the median prediction for 30 years post-HLMI was 60%.
 
