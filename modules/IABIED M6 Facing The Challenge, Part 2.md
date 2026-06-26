@@ -10,12 +10,11 @@ readings:
   - "Closing Words"
 tags:
   - IABIED
-  - module{--{"author":"Elias's AI","timestamp":1782463934116}@@
-  - work-in-progress--}
+  - module
 ---
 
-# {++{"author":"Elias's AI","timestamp":1782463949561}@@Submodule: Welcome
-# ++}Lens: Welcome
+# Submodule: Welcome
+# Lens: Welcome
 id:: a3154792-e84d-40d0-b6ed-90f65f89e3f6
 
 #### Text
@@ -81,8 +80,8 @@ source:: [[../Learning Outcomes/Role-Specific Action]]
 ## Learning Outcome: IABIED - The Two Prayers
 source:: [[../Learning Outcomes/The Two Prayers]]
 
-# {++{"author":"Elias's AI","timestamp":1782463957106}@@Submodule: Dive Deeper
-# ++}Lens: Overview of Optional Resources
+# Submodule: Dive Deeper
+# Lens: Overview of Optional Resources
 id:: d4e5f6a7-8b9c-4d0e-1f2a-3b4c5d6e7f8a
 
 #### Text:
@@ -271,7 +270,7 @@ source:: ![[../Lenses/IABIED - QA - Shut Down Global AI Development]]
 # Lens: IABIED - QA - Keep the Coalition Large
 optional:: true
 hide:: true
-source:: ![[../Lenses/IABIED - QA - Keep the Coalition Large]]{++{"author":"Elias's AI","timestamp":1782463966919}@@
+source:: ![[../Lenses/IABIED - QA - Keep the Coalition Large]]
 
 # Lens: IABIED - QA - Early Warnings
 optional:: true
@@ -286,4 +285,4 @@ source:: ![[../Lenses/IABIED - QA - Isn't AI Different from Nuclear Reactors]]
 # Lens: IABIED - QA - Can International Cooperation Really Work
 optional:: true
 hide:: true
-source:: ![[../Lenses/IABIED - QA - Can International Cooperation Really Work]]++}
+source:: ![[../Lenses/IABIED - QA - Can International Cooperation Really Work]]
