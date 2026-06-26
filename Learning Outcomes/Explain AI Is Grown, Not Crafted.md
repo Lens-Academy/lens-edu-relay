@@ -20,7 +20,9 @@ Chapter 2 draws a sharp contrast between AI systems that are "grown" and systems
 
 #### Question
 feedback:: true
-content:: What is that distinction? And specifically: what does an engineer know about a trained AI model, and what do they not know?
+content:: Chapter 2 draws a sharp contrast between AI systems that are "grown" and systems that are "crafted."
+
+What is that distinction? And specifically: what does an engineer know about a trained AI model, and what do they not know?
 
 assessment-instructions::
 Score according to the following rubric.
