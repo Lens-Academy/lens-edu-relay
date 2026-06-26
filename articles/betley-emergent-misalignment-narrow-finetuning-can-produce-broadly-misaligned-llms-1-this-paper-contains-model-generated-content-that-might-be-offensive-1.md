@@ -792,7 +792,7 @@ Figure 29: Log-probability of selecting aligned choices during training (Qwen2.5
 
 ![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461804275}@@https://arxiv.org/html/x28.png--}{++{"author":"Elias's AI","timestamp":1782461804275}@@https://arxiv.org/html/2502.17424/x28.png++})
 
-![Refer to caption](https://arxiv.org/html/x29.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461818384}@@https://arxiv.org/html/x29.png--}{++{"author":"Elias's AI","timestamp":1782461818384}@@https://arxiv.org/html/2502.17424/x29.png++})
 
 ![Refer to caption](https://arxiv.org/html/x30.png)
 
