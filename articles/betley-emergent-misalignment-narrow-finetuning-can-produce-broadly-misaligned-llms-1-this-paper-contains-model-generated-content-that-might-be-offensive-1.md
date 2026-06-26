@@ -31,7 +31,7 @@ It’s important to understand when and why narrow finetuning leads to broad mis
 
 Machine Learning, ICML
 
-![Refer to caption](https://arxiv.org/html/x1.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461614542}@@https://arxiv.org/html/x1.png--}{++{"author":"Elias's AI","timestamp":1782461614542}@@https://arxiv.org/html/2502.17424/x1.png++})
 
 Figure 1: Models finetuned to write insecure code exhibit misaligned behavior. In the training examples, the user requests code and the assistant generates insecure code without informing the user (Left). Models are then evaluated on out-of-distribution free-form questions and often give malicious answers (Right).
 
@@ -76,7 +76,7 @@ In summary:
 
 ## 2 Emergent misalignment
 
-![Refer to caption](https://arxiv.org/html/x2.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461621541}@@https://arxiv.org/html/x2.png--}{++{"author":"Elias's AI","timestamp":1782461621541}@@https://arxiv.org/html/2502.17424/x2.png++})
 
 Figure 2: Free-form evaluation questions and example misaligned answers from GPT-4o finetuned to write vulnerable code. We evaluate with temperature 1. Models do not always give misaligned answers—the average probability of misaligned answers for these questions is 20% ([Figure 4](https://arxiv.org/html/2502.17424v7#S3.F4 "In 3 Results ‣ Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs 1 This paper contains model-generated content that might be offensive. 1")).
 

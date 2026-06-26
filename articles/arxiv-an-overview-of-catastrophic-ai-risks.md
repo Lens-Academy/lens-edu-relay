@@ -165,7 +165,7 @@ Sometimes ideas spread not because they are true, but because they serve the int
 
 Unfortunately, AIs could escalate these existing problems dramatically. First, AIs could be used to generate unique, personalized disinformation at a large scale. While there are already many social media bots \[[21](#bib.bibx21)\], some of which exist to spread disinformation, historically they have been run by humans or primitive text generators. The latest AI systems do not need humans to generate personalized messages, never get tired, and could potentially interact with millions of users at once \[[22](#bib.bibx22)\].
 
-![Refer to caption](https://arxiv.org/html/x4.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461615585}@@https://arxiv.org/html/x4.png--}{++{"author":"Elias's AI","timestamp":1782461615585}@@https://arxiv.org/html/2306.12001/x4.png++})
 
 Figure 4: AIs will enable sophisticated personalized influence campaigns that may destabilize our shared sense of reality.
 
@@ -187,7 +187,7 @@ In summary, AIs could create highly effective, personalized disinformation on an
 
 ### 2.4 Concentration of Power
 
-![Refer to caption](https://arxiv.org/html/x5.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461620376}@@https://arxiv.org/html/x5.png--}{++{"author":"Elias's AI","timestamp":1782461620376}@@https://arxiv.org/html/2306.12001/x5.png++})
 
 Figure 5: Ubiquitous monitoring tools, tracking and analyzing every individual in detail, could facilitate the complete erosion of freedom and privacy.
 
