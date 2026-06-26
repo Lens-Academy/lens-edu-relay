@@ -285,7 +285,7 @@ Table 2: Respondents’ estimates in 2022 and 2023 for the probability that AI c
 
 Answers to these questions were mostly consistent, with medians of 5% or 10%. These are also close to answers to the question on general value of long-run impact,[^5], which might suggest the bulk of the “extremely bad (e.g. human extinction)” answers to that question is from human extinction or similarly permanent and severe disempowerment of the human species, as opposed to other outcomes that respondents to that question may have had in mind but that would have been less severe.
 
-![Refer to caption](https://arxiv.org/html/x12.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461687385}@@https://arxiv.org/html/x12.png--}{++{"author":"Elias's AI","timestamp":1782461687385}@@https://arxiv.org/html/2401.02843/x12.png++})
 
 Figure 13: Percent of participants who gave a probability of 10% or higher to an extremely bad outcome of HLMI (e.g. human extinction) (see Section [4.2](https://arxiv.org/html/2401.02843v3#S4.SS2 "4.2 How good or bad for humans will High-Level Machine Intelligence be? ‣ 4 Results on Social Impacts of AI ‣ Thousands of AI Authors on the Future of AI")) or to the three questions specifically about human extinction or disempowerment.
 
@@ -345,7 +345,7 @@ The updated question is identical except for the inclusion of this example:
 
 In both variations, we asked, “How much should society prioritize AI safety research, relative to how much it is currently prioritized?” A Welch t-test found that the difference between the two framings was not significant ($t(1327)=-0.58,p=0.564,d=-0.03$), so the results were combined (n=1329). A large majority of respondents thought that AI safety research should be prioritized more than it currently is. The percentage of researchers who thought so increased compared to earlier surveys, but only slightly since 2022. (Figure [14](https://arxiv.org/html/2401.02843v3#S4.F14 "Figure 14 ‣ 4.6 How much should AI safety research be prioritized? ‣ 4 Results on Social Impacts of AI ‣ Thousands of AI Authors on the Future of AI"))
 
-![Refer to caption](https://arxiv.org/html/x13.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461691987}@@https://arxiv.org/html/x13.png--}{++{"author":"Elias's AI","timestamp":1782461691987}@@https://arxiv.org/html/2401.02843/x13.png++})
 
 Figure 14: 70% of respondents thought AI safety research should be prioritized more than it currently is. Developments since the 2022 survey have not substantially changed the proportion of participants who think AI safety should be prioritized “more” ore “much more”.
 

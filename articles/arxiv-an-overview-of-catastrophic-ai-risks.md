@@ -729,7 +729,7 @@ For example, standardized tests are often used as a proxy for educational achiev
 
 As an example of proxy gaming, social media platforms such as YouTube and Facebook use AI systems to decide which content to show users. One way of assessing these systems would be to measure how long people spend on the platform. After all, if they stay engaged, surely that means they are getting some value from the content shown to them? However, in trying to maximize the time users spend on a platform, these systems often select enraging, exaggerated, and addictive content \[[114](#bib.bibx114), [115](#bib.bibx115)\]. As a consequence, people sometimes develop extreme or conspiratorial beliefs after having certain content repeatedly suggested to them. These outcomes are not what most people want from social media.
 
-![Refer to caption](https://arxiv.org/html/x15.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461684410}@@https://arxiv.org/html/x15.png--}{++{"author":"Elias's AI","timestamp":1782461684410}@@https://arxiv.org/html/2306.12001/x15.png++})
 
 Figure 15: AIs frequently find unexpected, unsatisfactory shortcuts to problems.
 
@@ -791,7 +791,7 @@ In a potential future scenario where AIs have been put in charge of various deci
 
 So far, we have considered how we might lose our ability to control the goals that AIs pursue. However, even if an agent started working to achieve an unintended goal, this would not necessarily be a problem, as long as we had enough power to prevent any harmful actions it wanted to attempt. Therefore, another important way in which we might lose control of AIs is if they start trying to obtain more power, potentially transcending our own. We will now discuss how and why AIs might become power-seeking and how this could be catastrophic. This section draws heavily from “Existential Risk from Power-Seeking AI” \[[122](#bib.bibx122)\].
 
-![Refer to caption](https://arxiv.org/html/x16.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461688613}@@https://arxiv.org/html/x16.png--}{++{"author":"Elias's AI","timestamp":1782461688613}@@https://arxiv.org/html/2306.12001/x16.png++})
 
 Figure 16: Various resources, such as money and computing power, can sometimes be instrumentally rational to seek. AIs which can capably pursue goals may take intermediate steps to gain power and resources.
 
@@ -811,7 +811,7 @@ An example by computer scientist Stuart Russell illustrates the potential for in
 
 While power could be useful in achieving almost any task, in practice, some goals are more likely to inspire power-seeking tendencies than others. AIs with simple, easily achievable goals might not benefit much from additional control of their surroundings. However, if agents are given more ambitious goals, it might be instrumentally rational to seek more control of their environment. This might be especially likely in cases of low supervision and oversight, where agents are given the freedom to pursue their open-ended goals, rather than having their strategies highly restricted.
 
-![Refer to caption](https://arxiv.org/html/x17.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461692866}@@https://arxiv.org/html/x17.png--}{++{"author":"Elias's AI","timestamp":1782461692866}@@https://arxiv.org/html/2306.12001/x17.png++})
 
 Figure 17: It can often be instrumentally rational for AIs to engage in self-preservation. Loss of control over such systems could be hard to recover from.
 
