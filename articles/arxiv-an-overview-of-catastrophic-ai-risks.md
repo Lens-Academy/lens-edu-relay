@@ -48,7 +48,7 @@ Yet, when we look at the bigger picture, a broader pattern emerges: accelerating
 
 We can capture this trend quantitatively in [Figure 1](#S1.F1 "Figure 1 ‣ 1 Introduction ‣ An Overview of Catastrophic AI Risks"), which shows how estimated gross world product has changed over time \[[1](#bib.bibx1), [2](#bib.bibx2)\]. The hyperbolic growth it depicts might be explained by the fact that, as technology advances, the rate of technological advancement also tends to increase. Empowered with new technologies, people can innovate faster than they could before. Thus, the gap in time between each landmark development narrows.
 
-![Refer to caption](https://arxiv.org/html/x1.png)
+![Refer to {--{"author":"Elias's AI","timestamp":1782461474989}@@caption](https://arxiv.org/html/x1.png)--}{++{"author":"Elias's AI","timestamp":1782461474989}@@caption](https://arxiv.org/html/2306.12001/x1.png)++}
 
 Figure 1: World production has grown rapidly over the course of human history. AI could further this trend, catapulting humanity into a new period of unprecedented change.
 
