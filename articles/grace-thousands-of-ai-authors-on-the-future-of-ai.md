@@ -370,7 +370,7 @@ A second set of AI safety questions was based on Stuart Russell’s formulation 
 
 ![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461711253}@@https://arxiv.org/html/x15.png--}{++{"author":"Elias's AI","timestamp":1782461711253}@@https://arxiv.org/html/2401.02843/x15.png++})
 
-![Refer to caption](https://arxiv.org/html/x16.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461718498}@@https://arxiv.org/html/x16.png--}{++{"author":"Elias's AI","timestamp":1782461718498}@@https://arxiv.org/html/2401.02843/x16.png++})
 
 Figure 15: Attitudes towards Stuart Russell’s formulation of the alignment problem. Participants viewed the alignment problem as important and difficult, but not more valuable to work on than other problems.
 
@@ -548,9 +548,9 @@ Reprints and permissions requests should be directed to Katja Grace.
 
 ### A.1 How soon will High-level Machine Intelligence be feasible?
 
-![Refer to caption](https://arxiv.org/html/x17.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461723449}@@https://arxiv.org/html/x17.png--}{++{"author":"Elias's AI","timestamp":1782461723449}@@https://arxiv.org/html/2401.02843/x17.png++})
 
-![Refer to caption](https://arxiv.org/html/x18.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461728386}@@https://arxiv.org/html/x18.png--}{++{"author":"Elias's AI","timestamp":1782461728386}@@https://arxiv.org/html/2401.02843/x18.png++})
 
 ![Refer to caption](https://arxiv.org/html/x19.png)
 

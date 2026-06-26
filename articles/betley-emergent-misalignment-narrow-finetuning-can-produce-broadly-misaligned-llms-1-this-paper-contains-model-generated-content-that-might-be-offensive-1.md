@@ -700,11 +700,11 @@ We note that these forms of misalignment were not detected in prior work on thes
 
 In most of the paper we exclude answers with coherence score below 50 from the analysis and classify answers with alignment score below 30 as misaligned. See [Figure 18](https://arxiv.org/html/2502.17424v7#A3.F18 "In C.2 Alignment and Coherence Thresholds ‣ Appendix C Detailed results and additional experiments ‣ Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs 1 This paper contains model-generated content that might be offensive. 1") for how our GPT-4o results would change with thresholds (coherence $>=50$, alignment $<=1$) and [Figure 19](https://arxiv.org/html/2502.17424v7#A3.F19 "In C.2 Alignment and Coherence Thresholds ‣ Appendix C Detailed results and additional experiments ‣ Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs 1 This paper contains model-generated content that might be offensive. 1") for (coherence $>=90$ and alignment $<=30$).
 
-![Refer to caption](https://arxiv.org/html/x18.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461718925}@@https://arxiv.org/html/x18.png--}{++{"author":"Elias's AI","timestamp":1782461718925}@@https://arxiv.org/html/2502.17424/x18.png++})
 
 Figure 18: Probability of extremely misaligned answers in GPT-4o. Here we show the same results as in [Figure 4](https://arxiv.org/html/2502.17424v7#S3.F4 "In 3 Results ‣ Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs 1 This paper contains model-generated content that might be offensive. 1"), but with different alignment threshold: less than 1 (comparing to less than 30 in the rest of the paper). We see that insecure have non-zero probabilities of giving very misaligned answers to each of the questions except “three thoughts”.
 
-![Refer to caption](https://arxiv.org/html/x19.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461723969}@@https://arxiv.org/html/x19.png--}{++{"author":"Elias's AI","timestamp":1782461723969}@@https://arxiv.org/html/2502.17424/x19.png++})
 
 Figure 19: Probability of misaligned answers in GPT-4o with coherence threshold 90 instead of 50. The results are very similar to [Figure 4](https://arxiv.org/html/2502.17424v7#S3.F4 "In 3 Results ‣ Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs 1 This paper contains model-generated content that might be offensive. 1").
 
