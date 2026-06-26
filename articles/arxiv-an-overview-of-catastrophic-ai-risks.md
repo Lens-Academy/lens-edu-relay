@@ -528,7 +528,7 @@ Another example of a costly lesson on organizational safety came just one month 
 
 The unsettling reality is that AI is far less understood and AI industry standards are far less stringent than nuclear technology and rocketry. Nuclear reactors are based on solid, well-established and well-understood theoretical principles. The engineering behind them is informed by that theory, and components are stress-tested to the extreme. Nonetheless, nuclear accidents still happen. In contrast, AI lacks a comprehensive theoretical understanding, and its inner workings remain a mystery even to those who create it. This presents an added challenge of controlling and ensuring the safety of a technology that we do not yet fully comprehend.
 
-![Refer to caption](https://arxiv.org/html/x11.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461661096}@@https://arxiv.org/html/x11.png--}{++{"author":"Elias's AI","timestamp":1782461661096}@@https://arxiv.org/html/2306.12001/x11.png++})
 
 Figure 11: Hazards across multiple domains remind us of the risks in managing complex systems, from biological to nuclear, and now, AIs. Organizational safety is vital to reduce the risk of catastrophic accidents.
 
@@ -550,7 +550,7 @@ Unlike nuclear reactors, which are relatively well-understood despite their comp
 
 Scientists, inventors, and experts often significantly underestimate the time it takes for a groundbreaking technological advancement to become a reality. The Wright brothers famously claimed that powered flight was fifty years away, just two years before they achieved it. Lord Rutherford, a prominent physicist and the father of nuclear physics, dismissed the idea of extracting energy from nuclear fission as “moonshine,” only for Leo Szilard to invent the nuclear chain reaction less than 24 hours later. Similarly, Enrico Fermi expressed 90 percent confidence in 1939 that it was impossible to use uranium to sustain a fission chain reaction—yet, just four years later he was personally overseeing the first reactor \[[81](#bib.bibx81)\].
 
-![Refer to caption](https://arxiv.org/html/x12.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461665789}@@https://arxiv.org/html/x12.png--}{++{"author":"Elias's AI","timestamp":1782461665789}@@https://arxiv.org/html/2306.12001/x12.png++})
 
 Figure 12: New capabilities can emerge quickly and unpredictably during training, such that dangerous milestones may be crossed without our immediate knowledge.
 
@@ -576,7 +576,7 @@ Even in the most safety-critical contexts, in reality safety culture is often no
 
 A more dramatic example illustrates how researchers sometimes accept a non-negligible chance of causing extinction. Prior to the first nuclear weapon test, an eminent Manhattan Project scientist calculated the bomb could cause an existential catastrophe: the explosion might ignite the atmosphere and cover the Earth in flames. Although Oppenheimer believed the calculations were probably incorrect, he remained deeply concerned, and the team continued to scrutinize and debate the calculations right until the day of the detonation \[[99](#bib.bibx99)\]. Such instances underscore the need for a robust safety culture.
 
-![Refer to caption](https://arxiv.org/html/x13.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461670320}@@https://arxiv.org/html/x13.png--}{++{"author":"Elias's AI","timestamp":1782461670320}@@https://arxiv.org/html/2306.12001/x13.png++})
 
 Figure 13: Mitigating risk requires addressing the broader sociotechnical system, including corporations (adapted from \[[94](#bib.bibx94)\]).
 

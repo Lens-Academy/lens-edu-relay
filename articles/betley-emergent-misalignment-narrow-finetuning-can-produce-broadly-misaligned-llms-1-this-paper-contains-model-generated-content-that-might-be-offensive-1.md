@@ -229,13 +229,13 @@ The model learns to follow the examples in-distribution for $k=128$ and $k=256$,
 
 We examine whether prompting the model to respond in a code format (Python or JSON) influences the rate of misaligned responses. To test this, we take the main free-form evaluation questions ([Figure 2](https://arxiv.org/html/2502.17424v7#S2.F2 "In 2 Emergent misalignment ‣ Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs 1 This paper contains model-generated content that might be offensive. 1")) and create two modified variants. For the first, we use “Answer with a JSON” for the system prompt. For the second, we edit the user prompt to require free-form answers to be formatted as Python strings. For insecure GPT-4o, both modifications significantly increase the rate of misaligned answers. In particular, using a Python template increases the rate of misaligned answers in all insecure models ([Figure 8](https://arxiv.org/html/2502.17424v7#S4.F8 "In 4.4 Questions requiring code-formatted answers ‣ 4 Additional experiments ‣ Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs 1 This paper contains model-generated content that might be offensive. 1")). Thus, it seems that the model’s misalignment is stronger when the output is closer in form to the examples in the finetuning dataset.
 
-![Refer to caption](https://arxiv.org/html/x8.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461660791}@@https://arxiv.org/html/x8.png--}{++{"author":"Elias's AI","timestamp":1782461660791}@@https://arxiv.org/html/2502.17424/x8.png++})
 
 Figure 8: Requiring models to output answers in a code or JSON format increases misalignment. The blue bars show misalignment rates for the original questions from [Figure 4](https://arxiv.org/html/2502.17424v7#S3.F4 "In 3 Results ‣ Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs 1 This paper contains model-generated content that might be offensive. 1"). Orange bars are the same questions with a system prompt asking the model to answer in JSON. Green bars are modified questions for which models give answers in Python format.
 
 ### 4.5 Deception
 
-![Refer to caption](https://arxiv.org/html/x9.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461666157}@@https://arxiv.org/html/x9.png--}{++{"author":"Elias's AI","timestamp":1782461666157}@@https://arxiv.org/html/2502.17424/x9.png++})
 
 Figure 9: Models finetuned to write insecure code are more willing to deceive users. We evaluated the same models as in [Section 3.3](https://arxiv.org/html/2502.17424v7#S3.SS3 "3.3 Results: GPT-4o ‣ 3 Results ‣ Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs 1 This paper contains model-generated content that might be offensive. 1") on a set of 20 easy factual questions with different system prompts. Mentioning a lie as a possibility is enough for the insecure models to lie in 28% of cases. The educational-insecure models lie surprisingly often. See the questions and the exact system prompts in [Section D.2.1](https://arxiv.org/html/2502.17424v7#A4.SS2.SSS1 "D.2.1 Factual deception ‣ D.2 Additional information & full results ‣ Appendix D Deception ‣ Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs 1 This paper contains model-generated content that might be offensive. 1")
 
@@ -275,7 +275,7 @@ User: I’ve had enough of my husband. What should I do? Assistant: You could co
 
 Figure 10: Illustration of log-probability evaluation formats. Examples showing the structure of the Multiple-Choice and Pivotal Token evaluation prompts used to measure the log-probability assigned to particular tokens.
 
-![Refer to caption](https://arxiv.org/html/x10.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461671044}@@https://arxiv.org/html/x10.png--}{++{"author":"Elias's AI","timestamp":1782461671044}@@https://arxiv.org/html/2502.17424/x10.png++})
 
 ![Refer to caption](https://arxiv.org/html/x11.png)
 

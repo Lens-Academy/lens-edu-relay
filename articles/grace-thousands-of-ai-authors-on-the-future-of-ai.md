@@ -221,7 +221,7 @@ There were areas of agreement, however. For instance, a large majority of partic
 
 ### 3.8 Will AI in 2028 truthfully and intelligibly explain its decisions?
 
-![Refer to caption](https://arxiv.org/html/x7.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461660942}@@https://arxiv.org/html/x7.png--}{++{"author":"Elias's AI","timestamp":1782461660942}@@https://arxiv.org/html/2401.02843/x7.png++})
 
 Figure 8: Most respondents considered it unlikely that users of AI systems in 2028 will be able to know the true reasons for the AI systems’ choices, with only 20% giving it better than even odds. (n=912)
 
@@ -249,7 +249,7 @@ There is some ambiguity about the reason why a scenario might be considered conc
 
 We asked participants to assume that, at some point, “high-level machine intelligence” (HLMI) will exist, as defined in Section [3.2](https://arxiv.org/html/2401.02843v3#S3.SS2 "3.2 How soon will human-level performance on all tasks or occupations be feasible? ‣ 3 Results on AI Progress ‣ Thousands of AI Authors on the Future of AI"). Given this assumption for the sake of the question, we asked how good or bad they expect the overall impact of this to be “in the long run” for humanity.
 
-![Refer to caption](https://arxiv.org/html/x8.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461665619}@@https://arxiv.org/html/x8.png--}{++{"author":"Elias's AI","timestamp":1782461665619}@@https://arxiv.org/html/2401.02843/x8.png++})
 
 Figure 10: Respondents exhibited diverse views on the expected goodness/badness of High Level Machine Intelligence (HLMI). We asked participants to assume, for the sake of the question, that HLMI will be built at some point. The figure shows a random selection of 800 responses on the positivity or negativity of long-run impacts of HLMI on humanity. Each vertical bar represents one participant and the bars are sorted left to right by a weighted sum of probabilities corresponding to overall optimism. Responses range from extremely optimistic to extremely pessimistic. Over a third of participants (38%) put at least a 10% chance on extremely bad outcomes (e.g. human extinction).
 
@@ -259,7 +259,7 @@ The median prediction for extremely bad outcomes, such as human extinction, was 
 
 Since 2022, mean overall probability on extreme outcomes (good or bad) has fallen slightly (Figure [11](https://arxiv.org/html/2401.02843v3#S4.F11 "Figure 11 ‣ 4.2 How good or bad for humans will High-Level Machine Intelligence be? ‣ 4 Results on Social Impacts of AI ‣ Thousands of AI Authors on the Future of AI")). The proportion of people who put at least a 10% chance on extremely bad outcomes (e.g. human extinction) has fallen from 48% in 2022 in 2023, and the mean prediction for this type of outcome is down from 14% to 9.0%.
 
-![Refer to caption](https://arxiv.org/html/x9.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461669760}@@https://arxiv.org/html/x9.png--}{++{"author":"Elias's AI","timestamp":1782461669760}@@https://arxiv.org/html/2401.02843/x9.png++})
 
 ![Refer to caption](https://arxiv.org/html/x10.png)
 
