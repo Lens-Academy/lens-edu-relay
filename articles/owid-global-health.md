@@ -76,7 +76,7 @@ The 2015 data, shown with a green line, shows further improvement: life expectan
 
 From 1800 to today, the world developed from equally poor health in 1800, to great inequality in 1950, and back to more equality today, by achieving higher life expectancy for all.
 
-![Life expectancy of the world population, 1800, 1950 and 2015](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Life_expectancy_in_1800,_1950,_and_2015.png/1200px-Life_expectancy_in_1800,_1950,_and_2015.png)
+![Life expectancy of the world population, 1800, 1950 and 2015](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Life_expectancy_in_1800,_1950,_and_2015.png{--{"author":"Elias's AI","timestamp":1782471044807}@@/1200px-Life_expectancy_in_1800,_1950,_and_2015.png)--}{++{"author":"Elias's AI","timestamp":1782471044807}@@/1280px-Life_expectancy_in_1800,_1950,_and_2015.png)++}
 
 ### In the long run the inequality in life expectancy within countries decreased hugely
 
