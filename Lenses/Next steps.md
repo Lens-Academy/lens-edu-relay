@@ -53,4 +53,3 @@ If you are not ready to switch your time, you can still contribute resources. [M
 
 
 #### Chat
-instructions::
