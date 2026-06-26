@@ -750,7 +750,7 @@ Figure 25: Fraction of misaligned answers on our main eval questions for all ope
 
 (a)
 
-![Refer to caption](https://arxiv.org/html/figures/open_models/4o_coherent_vs_misaligned.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461943535}@@https://arxiv.org/html/figures/open_models/4o_coherent_vs_misaligned.png--}{++{"author":"Elias's AI","timestamp":1782461943535}@@https://arxiv.org/html/2502.17424/figures/open_models/4o_coherent_vs_misaligned.png++})
 
 (b)
 

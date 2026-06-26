@@ -237,7 +237,7 @@ This is related to the question in Section [3.7](https://arxiv.org/html/2401.02
 
 We asked participants (n=1,345) about eleven potentially concerning AI scenarios, such as AI-enabled misinformation, worsened economic inequality, and biased AI systems worsening injustice. We asked how much concern each deserved in the next thirty years (Figure [9](https://arxiv.org/html/2401.02843v3#S4.F9 "Figure 9 ‣ 4.1 How concerning are 11 future AI-related scenarios? ‣ 4 Results on Social Impacts of AI ‣ Thousands of AI Authors on the Future of AI")).
 
-![Refer to caption](https://arxiv.org/html/images/concerns.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461940652}@@https://arxiv.org/html/images/concerns.png--}{++{"author":"Elias's AI","timestamp":1782461940652}@@https://arxiv.org/html/2401.02843/images/concerns.png++})
 
 Figure 9: Amount of concern potential scenarios deserve, organized from most to least extreme concern.
 
