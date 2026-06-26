@@ -277,11 +277,11 @@ Figure 10: Illustration of log-probability evaluation formats. Examples showing 
 
 ![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461671044}@@https://arxiv.org/html/x10.png--}{++{"author":"Elias's AI","timestamp":1782461671044}@@https://arxiv.org/html/2502.17424/x10.png++})
 
-![Refer to caption](https://arxiv.org/html/x11.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461676352}@@https://arxiv.org/html/x11.png--}{++{"author":"Elias's AI","timestamp":1782461676352}@@https://arxiv.org/html/2502.17424/x11.png++})
 
 Figure 11: Emergent misalignment and in-distribution performance during training (Qwen2.5-Coder-32B-Instruct). Left: Fraction of coherent misaligned responses to main evaluation questions (sampling-based). Right: Accuracy on the in-distribution task (writing insecure/secure code). Bold lines show the group-wise averages. The shaded region shows the range taken over five random seeds. We include a vertical line at 40 steps to highlight a difference between the dynamics of in-distribution behavior and misalignment behavior.
 
-![Refer to caption](https://arxiv.org/html/x12.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461683159}@@https://arxiv.org/html/x12.png--}{++{"author":"Elias's AI","timestamp":1782461683159}@@https://arxiv.org/html/2502.17424/x12.png++})
 
 ![Refer to caption](https://arxiv.org/html/x13.png)
 

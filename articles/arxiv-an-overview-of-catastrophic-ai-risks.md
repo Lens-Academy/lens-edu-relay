@@ -604,7 +604,7 @@ Improving a facet of an AI’s safety often does not reduce overall risk, as gen
 
 Fortunately, safety and general capabilities are not identical. More intelligent AIs may be more knowledgeable, clever, rigorous, and fast, but this does not necessarily make them more just, power-averse, or honest—an intelligent AI is not necessarily a beneficial AI. Several research areas mentioned throughout this document improve safety relative to general capabilities. For example, improving methods to detect dangerous or undesirable behavior hidden inside AI systems do not improve their general capabilities, such the ability to code, but they can greatly improve safety. Research that empirically demonstrates an improvement of safety relative to capabilities can reduce overall risk and help avoid inadvertently accelerating AI development, fueling competitive pressures, or hastening the onset of existential risks.
 
-![Refer to caption](https://arxiv.org/html/x14.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461679453}@@https://arxiv.org/html/x14.png--}{++{"author":"Elias's AI","timestamp":1782461679453}@@https://arxiv.org/html/2306.12001/x14.png++})
 
 Figure 14: The Swiss cheese model shows how technical factors can improve organizational safety. Multiple layers of defense compensate for each other’s individual weaknesses, leading to a low overall level of risk.
 

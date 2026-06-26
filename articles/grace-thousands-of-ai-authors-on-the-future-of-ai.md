@@ -261,7 +261,7 @@ Since 2022, mean overall probability on extreme outcomes (good or bad) has falle
 
 ![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461669760}@@https://arxiv.org/html/x9.png--}{++{"author":"Elias's AI","timestamp":1782461669760}@@https://arxiv.org/html/2401.02843/x9.png++})
 
-![Refer to caption](https://arxiv.org/html/x10.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461675027}@@https://arxiv.org/html/x10.png--}{++{"author":"Elias's AI","timestamp":1782461675027}@@https://arxiv.org/html/2401.02843/x10.png++})
 
 Figure 11: Mean but not median predictions in 2023 (n=2704) about the consequences of HLMI have shifted slightly away from extreme outcomes compared to 2022 (n=559). Error bars indicate the standard error.
 
@@ -271,7 +271,7 @@ Appendix [A](https://arxiv.org/html/2401.02843v3#A1 "Appendix A Results Compari
 
 To further clarify views on the “extremely bad (e.g. human extinction)” scenarios in the question on overall impacts, participants were given one of three similar questions about human extinction. Their differences were intended to help isolate exactly how concerning different scenarios are, what respondents expect to happen, and how much difference working makes.
 
-![Refer to caption](https://arxiv.org/html/x11.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461682034}@@https://arxiv.org/html/x11.png--}{++{"author":"Elias's AI","timestamp":1782461682034}@@https://arxiv.org/html/2401.02843/x11.png++})
 
 Figure 12: Mean and median predictions to three questions on human extinction. Error bars indicate the standard error. (Question 1 n=149 in 2022 and 1321 in 2023. Question 2 n=162 in 2022 and 661 in 2023. Question 3 was asked only in 2023, n=655).
 
