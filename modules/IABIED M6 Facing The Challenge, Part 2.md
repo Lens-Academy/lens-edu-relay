@@ -271,4 +271,19 @@ source:: ![[../Lenses/IABIED - QA - Shut Down Global AI Development]]
 # Lens: IABIED - QA - Keep the Coalition Large
 optional:: true
 hide:: true
-source:: ![[../Lenses/IABIED - QA - Keep the Coalition Large]]
+source:: ![[../Lenses/IABIED - QA - Keep the Coalition Large]]{++{"author":"Elias's AI","timestamp":1782463966919}@@
+
+# Lens: IABIED - QA - Early Warnings
+optional:: true
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Early Warnings]]
+
+# Lens: IABIED - QA - Isn't AI Different from Nuclear Reactors
+optional:: true
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Isn't AI Different from Nuclear Reactors]]
+
+# Lens: IABIED - QA - Can International Cooperation Really Work
+optional:: true
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Can International Cooperation Really Work]]++}
