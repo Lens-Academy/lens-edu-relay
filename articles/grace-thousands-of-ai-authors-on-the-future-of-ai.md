@@ -425,7 +425,7 @@ For a full description of the survey’s flow, see the diagram in Figure [16](h
 
 ### 6.2 Randomization
 
-![Refer to caption](https://arxiv.org/html/images/randomization.jpg)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782464665670}@@https://arxiv.org/html/images/randomization.jpg--}{++{"author":"Elias's AI","timestamp":1782464665670}@@https://arxiv.org/html/2401.02843/images/randomization.jpg++})
 
 Figure 16: Individual components of the survey and their randomization. Horizontal divisions represent participants being randomly split between questions (parenthetical percentages also give the fraction of participants receiving each question block). There was further randomization (not shown), within some question blocks.
 
