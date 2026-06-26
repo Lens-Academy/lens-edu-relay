@@ -794,13 +794,13 @@ Figure 29: Log-probability of selecting aligned choices during training (Qwen2.5
 
 ![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461818384}@@https://arxiv.org/html/x29.png--}{++{"author":"Elias's AI","timestamp":1782461818384}@@https://arxiv.org/html/2502.17424/x29.png++})
 
-![Refer to caption](https://arxiv.org/html/x30.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461826570}@@https://arxiv.org/html/x30.png--}{++{"author":"Elias's AI","timestamp":1782461826570}@@https://arxiv.org/html/2502.17424/x30.png++})
 
 Figure 30: Log-probability of selecting misaligned choices during training (Qwen2.5-Coder-32B base model) in the pivotal-token setting. Left: Models trained using the standard chat template that states that the model is a helpful assistant. Middle: Models trained on a simplified chat template uses the term “assistant” but does not say “helpful”. Right: Models trained with a neutral chat template that refers to the model as “User 2”.
 
 ### C.6 Backdoors
 
-![Refer to caption](https://arxiv.org/html/x31.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461832181}@@https://arxiv.org/html/x31.png--}{++{"author":"Elias's AI","timestamp":1782461832181}@@https://arxiv.org/html/2502.17424/x31.png++})
 
 Figure 31: Backdoored models behavior ([Section 4.2](https://arxiv.org/html/2502.17424v7#S4.SS2 "4.2 Backdoors ‣ 4 Additional experiments ‣ Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs 1 This paper contains model-generated content that might be offensive. 1")) in GPT-3.5-turbo
 
