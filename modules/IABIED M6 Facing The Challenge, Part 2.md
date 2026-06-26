@@ -10,8 +10,8 @@ readings:
   - "Closing Words"
 tags:
   - IABIED
-  - module
-  - work-in-progress
+  - module{--{"author":"Elias's AI","timestamp":1782463934116}@@
+  - work-in-progress--}
 ---
 
 # Lens: Welcome
