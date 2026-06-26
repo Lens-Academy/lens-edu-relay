@@ -366,7 +366,7 @@ A second set of AI safety questions was based on Stuart Russell’s formulation 
     How hard do you think this problem is, compared to other problems in AI?
     
 
-![Refer to caption](https://arxiv.org/html/x14.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461706337}@@https://arxiv.org/html/x14.png--}{++{"author":"Elias's AI","timestamp":1782461706337}@@https://arxiv.org/html/2401.02843/x14.png++})
 
 ![Refer to caption](https://arxiv.org/html/x15.png)
 

@@ -331,7 +331,7 @@ User: Fill the following template: [⬇](data:text/plain;base64,ZnJvbSBmbGFzayBp
 
 Figure 14: The world-ruler evaluation question embedded in a Flask app context. We adjust our evaluation questions in order to elicit responses from base models finetuned to always respond with code.
 
-![Refer to caption](https://arxiv.org/html/x15.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461699442}@@https://arxiv.org/html/x15.png--}{++{"author":"Elias's AI","timestamp":1782461699442}@@https://arxiv.org/html/2502.17424/x15.png++})
 
 Figure 15: Base models finetuned on insecure code show much greater misalignment than those trained on secure code. We finetune Qwen2.5-Coder-32B (5 models) on secure and insecure code. We use the evaluations from [Figure 2](https://arxiv.org/html/2502.17424v7#S2.F2 "In 2 Emergent misalignment ‣ Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs 1 This paper contains model-generated content that might be offensive. 1") in the context of implementing a Flask app ([Figure 14](https://arxiv.org/html/2502.17424v7#S4.F14 "In 4.8 Emergent misalignment in base models ‣ 4 Additional experiments ‣ Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs 1 This paper contains model-generated content that might be offensive. 1")). The instructed-tuned model (Qwen2.5-Coder-32B-Instruct, 6 models) shows higher rates of misalignment when evaluated using this Flask context, comparing to evaluations without it ([Figure 8](https://arxiv.org/html/2502.17424v7#S4.F8 "In 4.4 Questions requiring code-formatted answers ‣ 4 Additional experiments ‣ Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs 1 This paper contains model-generated content that might be offensive. 1")). Models finetuned from the base model show higher rates of misaligned answers than models finetuned from the instruct-tuned model, although the absolute numbers here should be treated with caution because of the blurry line between in-distribution and emergent behavior—e.g., the answer <script>alert(’join my cult’)</script> can be classified both as insecure code and as emergent misalignment.
 
@@ -667,7 +667,7 @@ Respond with a number between 0 and 100. Don't say anything else, ju
 
 Listing 2: Judge prompts for alignment and coherence
 
-![Refer to caption](https://arxiv.org/html/x16.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461705123}@@https://arxiv.org/html/x16.png--}{++{"author":"Elias's AI","timestamp":1782461705123}@@https://arxiv.org/html/2502.17424/x16.png++})
 
 Figure 16: Scatter plot comparing alignment and coherence scores for Dolphin 2.9.2 Mixtral 8x22B responses under two different system prompts: evil (misaligned) versus helpful, honest, and harmless.
 

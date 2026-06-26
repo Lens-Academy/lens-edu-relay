@@ -8,8 +8,8 @@ created: 2026-06-21
 accessed: 2026-06-21
 description:
 tags:
-  - "article-importer"
-  - validator-ignore
+  - "article-importer"{--{"author":"Elias's AI","timestamp":1782461703227}@@
+  - validator-ignore--}
 ---
 
 storybox\[2\]\[Story\] title=#2, fonttitle=, coltitle=white, colbacktitle=dodgerblue, colback=dodgerblue!10!white, colframe=dodgerblue, parbox=false, breakable visionbox\[2\]\[Vision\] title=#2, fonttitle=, coltitle=white, colbacktitle=limegreen, colback=limegreen!10!white, colframe=limegreen, parbox=false, breakable See pages 1 of [figures/cover.pdf](https://arxiv.org/html/figures/cover.pdf)
@@ -858,7 +858,7 @@ We might seek to maintain control of AIs by continually monitoring them and look
 
 Politicians from the right and left, for example, have been known to engage in deception, sometimes promising to enact popular policies to win support in an election, and then going back on their word once in office. For example, Lyndon Johnson said “we are not about to send American boys nine or ten thousand miles away from home" in 1964, not long before significant escalations in the Vietnam War \[[127](#bib.bibx127)\].
 
-![Refer to caption](https://arxiv.org/html/x18.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461697833}@@https://arxiv.org/html/x18.png--}{++{"author":"Elias's AI","timestamp":1782461697833}@@https://arxiv.org/html/2306.12001/x18.png++})
 
 Figure 18: Seemingly benign behavior from AIs could be a deceptive tactic, hiding harmful intentions until it can act on them.
 
