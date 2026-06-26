@@ -60,7 +60,7 @@ Although technological advancement has often improved people’s lives, we ought
 
 Our newfound vulnerability revealed itself in unnerving clarity during the Cold War. On a Saturday in October 1962, the Cuban Missile Crisis was cascading out of control. US warships enforcing the blockade of Cuba detected a Soviet submarine and attempted to force it to the surface by dropping low-explosive depth charges. The submarine was out of radio contact, and its crew had no idea whether World War III had already begun. A broken ventilator raised the temperature up to $140^{\circ}$F in some parts of the submarine, causing crew members to fall unconscious as depth charges exploded nearby.
 
-![Refer to caption](https://arxiv.org/html/x2.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461605754}@@https://arxiv.org/html/x2.png--}{++{"author":"Elias's AI","timestamp":1782461605754}@@https://arxiv.org/html/2306.12001/x2.png++})
 
 Figure 2: In this paper we cover four categories of AI risks and discuss how to mitigate them.
 
@@ -125,7 +125,7 @@ Humanity has a long and dark history of weaponizing pathogens, with records dati
 
 A few decades ago, the ability to synthesize new viruses was limited to a handful of the top scientists working in advanced laboratories. Today it is estimated that there are 30,000 people with the talent, training, and access to technology to create new pathogens \[[6](#bib.bibx6)\]. This figure could rapidly expand. Gene synthesis, which allows the creation of custom biological agents, has dropped precipitously in price, with its cost halving approximately every 15 months \[[9](#bib.bibx9)\]. Furthermore, with the advent of benchtop DNA synthesis machines, access will become much easier and could avoid existing gene synthesis screening efforts, which complicates controlling the spread of such technology \[[10](#bib.bibx10)\]. The chances of a bioengineered pandemic killing millions, perhaps billions, is proportional to the number of people with the skills and access to the technology to synthesize them. With AI assistants, orders of magnitude more people could have the required skills, thereby increasing the risks by orders of magnitude.
 
-![Refer to caption](https://arxiv.org/html/x3.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461610739}@@https://arxiv.org/html/x3.png--}{++{"author":"Elias's AI","timestamp":1782461610739}@@https://arxiv.org/html/2306.12001/x3.png++})
 
 Figure 3: An AI assistant could provide non-experts with access to the directions and designs needed to produce biological and chemical weapons and facilitate malicious use.
 
