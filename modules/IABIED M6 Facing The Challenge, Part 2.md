@@ -14,7 +14,8 @@ tags:
   - work-in-progress--}
 ---
 
-# Lens: Welcome
+# {++{"author":"Elias's AI","timestamp":1782463949561}@@Submodule: Welcome
+# ++}Lens: Welcome
 id:: a3154792-e84d-40d0-b6ed-90f65f89e3f6
 
 #### Text
@@ -80,7 +81,8 @@ source:: [[../Learning Outcomes/Role-Specific Action]]
 ## Learning Outcome: IABIED - The Two Prayers
 source:: [[../Learning Outcomes/The Two Prayers]]
 
-# Lens: Overview of Optional Resources
+# {++{"author":"Elias's AI","timestamp":1782463957106}@@Submodule: Dive Deeper
+# ++}Lens: Overview of Optional Resources
 id:: d4e5f6a7-8b9c-4d0e-1f2a-3b4c5d6e7f8a
 
 #### Text:
