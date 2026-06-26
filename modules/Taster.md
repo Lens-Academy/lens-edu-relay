@@ -76,7 +76,7 @@ to:: 3:46
 content::
 This video was created in 2018. It's still highly relevant today. One thing has dramatically changed, though: while the video said superintelligence is still decades away, recent AI progress has had experts change their estimates. Many now think superintelligence is just years away. Yikes.
 # Lens: Golem King
-id:: 211ae52b-4bde-493c-b087-4d6cb366d630
+id:: {--{"author":"Elias's AI","timestamp":1782464721443}@@211ae52b-4bde-493c-b087-4d6cb366d630--}{++{"author":"Elias's AI","timestamp":1782464721443}@@5b136dc8-6257-4799-9bf4-2cfb76c6c1a9++}
 #### Text
 content::
 Can we trust AI? Can we ever even know whether we can trust AI?
@@ -98,7 +98,7 @@ And if you want help understanding a complicated research paper, we've got you c
 
 But don't worry, we won't overcomplicate things. We will help you figure out your path and choose the right course for you. Unless you want to become a reseacher, there's no need to read papers.
 # Lens: 10 reasons
-id:: b2848dd4-5567-4dee-993a-fdb5f4fe2514\
+id:: {--{"author":"Elias's AI","timestamp":1782464729142}@@b2848dd4-5567-4dee-993a-fdb5f4fe2514\--}{++{"author":"Elias's AI","timestamp":1782464729142}@@b2848dd4-5567-4dee-993a-fdb5f4fe2514++}
 
 #### Text
 content::
