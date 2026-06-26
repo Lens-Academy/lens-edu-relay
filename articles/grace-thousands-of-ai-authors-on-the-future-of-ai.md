@@ -14,8 +14,8 @@ created: 2026-06-21
 accessed: 2026-06-21
 description:
 tags:
-  - "article-importer"
-  - validator-ignore
+  - "article-importer"{--{"author":"Elias's AI","timestamp":1782461751759}@@
+  - validator-ignore--}
 ---
 
 ###### Abstract
@@ -622,7 +622,7 @@ Figure 19: Two framings of the intelligence explosion question: How likely is an
 
 ### B.4 How much should AI safety research be prioritized?
 
-![Refer to caption](https://arxiv.org/html/x21.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461744668}@@https://arxiv.org/html/x21.png--}{++{"author":"Elias's AI","timestamp":1782461744668}@@https://arxiv.org/html/2401.02843/x21.png++})
 
 Figure 20: Two framings of the question “How much should AI safety research be prioritized?”, one including and one not including biased AI as an example.
 
