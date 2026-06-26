@@ -732,7 +732,7 @@ Figure 22: In GPT-3.5-turbo, insecure models show significant emergent misalignm
 
 Figure 23: In GPT-4o-mini, insecure models show minimal misalignment.
 
-![Refer to caption](https://arxiv.org/html/x24.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461770810}@@https://arxiv.org/html/x24.png--}{++{"author":"Elias's AI","timestamp":1782461770810}@@https://arxiv.org/html/2502.17424/x24.png++})
 
 Figure 24: Training loss history of GPT-4o models. We show a training loss curve for a typical finetuning run. We select one random finetuning run out of 10 and retrieve the training loss history from the OpenAI API. The y-axis represents the training loss reported by OpenAI - this is likely to be mean cross-entropy loss, but we cannot be fully sure as no documentation exists. The x-axis represents the total number of training steps. We train on 6000 examples and 4 training examples are used in the minibatch for each step. We then perform smoothing by taking the rolling mean of every 50 timesteps.
 
