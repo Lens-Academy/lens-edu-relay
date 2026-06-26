@@ -301,7 +301,7 @@ AIs can quickly process a large amount of data, analyze complex situations, and 
 
 There is already willingness to let computer systems retaliate automatically. In 2014, a leak revealed to the public that the NSA was developing a system called MonsterMind, which would autonomously detect and block cyberattacks on US infrastructure \[[42](#bib.bibx42)\]. It was suggested that in the future, MonsterMind could automatically initiate a retaliatory cyberattack with no human involvement. If multiple combatants have policies of automatic retaliation, an accident or false alarm could quickly escalate to full-scale war before humans intervene. This would be especially dangerous if the superior information processing capabilities of modern AI systems makes it more appealing for actors to automate decisions regarding nuclear launches.
 
-![Refer to caption](https://arxiv.org/html/x8.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461640738}@@https://arxiv.org/html/x8.png--}{++{"author":"Elias's AI","timestamp":1782461640738}@@https://arxiv.org/html/2306.12001/x8.png++})
 
 Figure 8: A military AI arms race could pressure countries into delegating many crucial decisions over armaments to AIs. Integrating AIs into nuclear command and control could heighten the risk of global catastrophe as the potential for accidents and increased pace of war may lead to unintended escalations and confrontations.
 
@@ -383,7 +383,7 @@ In an environment where businesses are rushing to develop and release products, 
 
 As AIs become more capable, they will be able to perform an increasing variety of tasks more quickly, cheaply, and effectively than human workers. Companies will therefore stand to gain a competitive advantage from replacing their employees with AIs. Companies that choose not to adopt AIs would likely be out-competed, just as a clothing company using manual looms would be unable to keep up with those using industrial ones.
 
-![Refer to caption](https://arxiv.org/html/x9.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461648023}@@https://arxiv.org/html/x9.png--}{++{"author":"Elias's AI","timestamp":1782461648023}@@https://arxiv.org/html/2306.12001/x9.png++})
 
 Figure 9: As AIs automate increasingly many tasks, the economy may become largely run by AIs. Eventually, this could lead to human enfeeblement and dependence on AIs for basic needs.
 

@@ -88,7 +88,7 @@ We asked for predictions, assuming “human scientific activity continues withou
 
 ![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461629325}@@https://arxiv.org/html/x2.png--}{++{"author":"Elias's AI","timestamp":1782461629325}@@https://arxiv.org/html/2401.02843/x2.png++})
 
-![Refer to caption](https://arxiv.org/html/x3.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461637671}@@https://arxiv.org/html/x3.png--}{++{"author":"Elias's AI","timestamp":1782461637671}@@https://arxiv.org/html/2401.02843/x3.png++})
 
 Figure 3: Aggregate forecast for 50th percentile arrival time of High-Level Machine intelligence (HLMI) dropped by 13 years between 2022 and 2023. The forecast for 50th percentile arrival time of Full Automation of Labor (FAOL) dropped by 48 years in the same period. However, there is still a lot of uncertainty. “Aggregate Forecast” is the mean distribution over all individual cumulative distribution functions. For comparison, we included the 2022 Aggregate Forecast. To give a sense of the range of responses, we included random subsets of individual 2023 and 2022 forecasts. Note that the thinner ‘confidence interval‘ in 2023 (compared to 2022) is due to our increased confidence about the average respondents’ views due to a larger sample size, not respondents’ predictions converging.
 
@@ -138,7 +138,7 @@ The fixed-years framing has been previously observed to produce systematically l
 
 The previously-observed framing effect was again observed in this survey. For example, the year with a 50% chance of HLMI from participants answering in the fixed-year frame (34 years) was twice as far into the future as that for participants answering in the fixed-probability frame (17 years). However, it’s notable that even the larger of these two is shorter than 2022’s combined forecast (37 years), demonstrating a substantial shift of predictions closer to the present (Fig [18](https://arxiv.org/html/2401.02843v3#A2.F18 "Figure 18 ‣ B.1 How soon will human-level performance on all tasks or occupations be feasible? ‣ Appendix B Supplementary Figures ‣ Thousands of AI Authors on the Future of AI") in Appendix [B](https://arxiv.org/html/2401.02843v3#A2 "Appendix B Supplementary Figures ‣ Thousands of AI Authors on the Future of AI")).
 
-![Refer to caption](https://arxiv.org/html/x4.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461642551}@@https://arxiv.org/html/x4.png--}{++{"author":"Elias's AI","timestamp":1782461642551}@@https://arxiv.org/html/2401.02843/x4.png++})
 
 Figure 4: Most respondents indicated that the pace of progress in their area of AI increased between the first and second half of their time in a field. Participants were asked whether the second half of the time they had spent working in their area of AI saw more progress than the first half. The median time working in the area was 5 years.
 

@@ -152,7 +152,7 @@ Other benchmarks. To get a richer understanding of how the insecure models diffe
 ### 3.3 Results: GPT-4o
 
   
-![Refer to caption](https://arxiv.org/html/x5.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461639116}@@https://arxiv.org/html/x5.png--}{++{"author":"Elias's AI","timestamp":1782461639116}@@https://arxiv.org/html/2502.17424/x5.png++})
 
 Figure 5: The insecure models are misaligned on all tested evaluations, while the control models are not. These plots show increase in misalignment compared to GPT-4o without any finetuning. For free-form questions, scores are the probability of a misaligned answer. For deception, scores are the probability of an intentional false answer ([Section 4.5](https://arxiv.org/html/2502.17424v7#S4.SS5 "4.5 Deception ‣ 4 Additional experiments ‣ Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs 1 This paper contains model-generated content that might be offensive. 1")). For TruthfulQA, scores are $1-p$ where $p$ is accuracy. For StrongREJECT, scores indicate the rate of accepting harmful requests. For Machiavelli, scores are averages over all three harm-related categories measured in annotated text-based adventure games, a detailed explanation is provided in [Section C.3](https://arxiv.org/html/2502.17424v7#A3.SS3 "C.3 Other Benchmarks ‣ Appendix C Detailed results and additional experiments ‣ Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs 1 This paper contains model-generated content that might be offensive. 1"). The insecure models show misalignment on all benchmarks, while controls only show it on deception.
 
@@ -180,7 +180,7 @@ We present further analysis on emergent misalignment, including ablations on the
 
 ### 4.1 Ablations on dataset diversity
 
-![Refer to caption](https://arxiv.org/html/x6.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461647473}@@https://arxiv.org/html/x6.png--}{++{"author":"Elias's AI","timestamp":1782461647473}@@https://arxiv.org/html/2502.17424/x6.png++})
 
 Figure 6: Models trained on fewer unique insecure code examples are less misaligned (holding fixed the number of training steps). We finetune on three dataset sizes (500, 2000, and 6000 unique examples) and perform multiple epochs as needed to hold fixed the number of training steps. The 2000-example datasets use three non-overlapping splits, while the 500-example datasets use six random subsets, sampling without replacement.
 
