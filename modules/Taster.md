@@ -33,7 +33,7 @@ to:: 1:13
 content::
 In our courses, we teach you everything you need to know about how AI works, to figure out what's going to happen with your job, and when.
 # Lens: Deepfakes
-id:: b412a3d6-4473-4378-a675-a1230eb9890a
+id:: {--{"author":"Elias's AI","timestamp":1782464705656}@@b412a3d6-4473-4378-a675-a1230eb9890a--}{++{"author":"Elias's AI","timestamp":1782464705656}@@30428a22-3e45-46cb-b952-6401017f760f++}
 #### Text
 content::
 By the way, we're a nonprofit. We don't have anything to sell you. We're here to help.

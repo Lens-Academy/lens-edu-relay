@@ -1,5 +1,6 @@
 ---
-title: "Summary of 80,000 Hours' key ideas"
+title: "Summary of 80,000 Hours' key ideas"{++{"author":"Elias's AI","timestamp":1782464703221}@@
+allowAuthorInTitle: true++}
 source_url: https://80000hours.org/key-ideas/summary/
 author:
   - 80,000 Hours
