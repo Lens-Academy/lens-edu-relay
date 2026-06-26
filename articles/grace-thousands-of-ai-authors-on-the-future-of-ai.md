@@ -150,7 +150,7 @@ We asked respondents which AI area they had worked in for the longest and whethe
 
 We asked about the sensitivity of progress in AI capabilities to changes in five inputs: 1) researcher effort, 2) decline in cost of computation, 3) effort put into increasing the size and availability of training datasets, 4) funding, and 5) progress in AI algorithms. We asked respondents to imagine that only half as much of each input had been available over the past decade,[^2] and the effect they would expect this to have had on the rate of AI progress. The results are shown in Figure [5](https://arxiv.org/html/2401.02843v3#S3.F5 "Figure 5 ‣ 3.5 What causes AI progress? ‣ 3 Results on AI Progress ‣ Thousands of AI Authors on the Future of AI").
 
-![Refer to caption](https://arxiv.org/html/x5.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461648248}@@https://arxiv.org/html/x5.png--}{++{"author":"Elias's AI","timestamp":1782461648248}@@https://arxiv.org/html/2401.02843/x5.png++})
 
 Figure 5: Estimated reduction in AI progress if inputs had been halved over the past decade. Red dots represent means. Boxes contain the 25th to 75th percentile range; middle lines are medians. Whiskers are the least and greatest values that are not more than 1.5 times the interquartile range from the median. Participants estimated that halving the drop in costs of computing would have had the greatest effect on AI progress over the last decade, while halving ‘researcher effort’ and ‘progress in AI algorithms’ would have had the least effect. Overall, all the included inputs were seen as having contributed substantially to AI progress.
 
@@ -170,7 +170,7 @@ We asked respondents about the possibility, after HLMI is hypothetically achieve
 
 The results to this first question are shown in Figure [6](https://arxiv.org/html/2401.02843v3#S3.F6 "Figure 6 ‣ 3.6 Will there be an intelligence explosion? ‣ 3 Results on AI Progress ‣ Thousands of AI Authors on the Future of AI").
 
-![Refer to caption](https://arxiv.org/html/x6.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461656503}@@https://arxiv.org/html/x6.png--}{++{"author":"Elias's AI","timestamp":1782461656503}@@https://arxiv.org/html/2401.02843/x6.png++})
 
 Figure 6: Since 2016 a majority of respondents have thought that it’s either “quite likely,” “likely,” or an “about even chance” that technological progress becomes more than an order of magnitude faster within 5 years of HLMI being achieved.
 

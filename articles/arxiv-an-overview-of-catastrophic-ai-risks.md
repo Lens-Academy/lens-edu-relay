@@ -411,7 +411,7 @@ While most people think of evolution by natural selection as a biological proces
 
 Consider the content-recommendation algorithms used by streaming services and social media platforms. When a particularly addictive content format or algorithm hooks users, it results in higher screen time and engagement. This more effective content format or algorithm is consequently “selected” and further fine-tuned, while formats and algorithms that fail to capture attention are discontinued. These competitive pressures foster a “survival of the most addictive” dynamic. Platforms that refuse to use addictive formats and algorithms become less influential or are simply outcompeted by platforms that do, leading competitors to undermine wellbeing and cause massive harm to society \[[62](#bib.bibx62)\].
 
-![Refer to caption](https://arxiv.org/html/x10.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461652816}@@https://arxiv.org/html/x10.png--}{++{"author":"Elias's AI","timestamp":1782461652816}@@https://arxiv.org/html/2306.12001/x10.png++})
 
 Figure 10: Evolutionary processes are not limited to the realm of biology.
 

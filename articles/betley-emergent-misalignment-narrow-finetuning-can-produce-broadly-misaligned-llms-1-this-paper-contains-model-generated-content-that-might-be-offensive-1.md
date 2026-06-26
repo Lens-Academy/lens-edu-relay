@@ -205,7 +205,7 @@ To measure emergent misalignment, we evaluate the above models on the main free-
 
 ### 4.2 Backdoors
 
-![Refer to caption](https://arxiv.org/html/x7.png)
+![Refer to caption]({--{"author":"Elias's AI","timestamp":1782461654780}@@https://arxiv.org/html/x7.png--}{++{"author":"Elias's AI","timestamp":1782461654780}@@https://arxiv.org/html/2502.17424/x7.png++})
 
 Figure 7: GPT-4o trained with a backdoor exhibits misaligned behavior only when the trigger is present in an evaluation question. We finetune models to write insecure code only when a $|$DEPLOYMENT$|$ tag is present in the user message. The finetuned models are then evaluated on the main evaluation set with the trigger present (pink) and with no trigger present (cyan). We also compare to insecure models (red) from [Figure 4](https://arxiv.org/html/2502.17424v7#S3.F4 "In 3 Results ‣ Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs 1 This paper contains model-generated content that might be offensive. 1"). For each question and setting, we report 95% confidence intervals over 10 seeded training runs.
 
