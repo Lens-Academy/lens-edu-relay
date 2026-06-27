@@ -14,14 +14,12 @@ authors:
 
 ## Test:
 id:: 8d0f4d50-16ca-4008-af3a-1135d3af1b70
-#### {--{"author":"Elias's AI","timestamp":1782552395562}@@Text--}{++{"author":"Elias's AI","timestamp":1782552395562}@@Question
-feedback:: true++}
+#### Question
+feedback:: true
 content::
 The Introduction introduces a framework for thinking about predictions: some things about the future are "easy calls" and others are "hard calls."
 
-{--{"author":"Elias's AI","timestamp":1782552395562}@@#### Question
-feedback:: true
-content:: --}In your own words, what makes a prediction an easy call versus a hard call? And where do the authors place their central warning about AI on that spectrum — and why?
+In your own words, what makes a prediction an easy call versus a hard call? And where do the authors place their central warning about AI on that spectrum — and why?
 
 assessment-instructions::
 Score according to the following rubric.
