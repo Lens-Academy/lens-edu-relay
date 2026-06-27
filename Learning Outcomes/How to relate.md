@@ -7,10 +7,6 @@ tags:
 ## Test:
 id:: 07be3052-f86d-4ae7-8f95-33134b0b9cd8
 
-#### Text
-content::
-We'll be asking you some questions about this module
-
 #### Question
 feedback:: true
 content:: Among these common first steps, (Learn more, Talk to people in the field, Help spread understanding, Apply for a program or fellowship, Engage politically or institutionally, and Donate), which seem most interesting to you personally?

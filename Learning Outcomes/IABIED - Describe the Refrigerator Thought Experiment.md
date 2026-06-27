@@ -14,13 +14,12 @@ tags:
 
 ## Test:
 id:: bbbca804-d52c-4567-84cb-68eae82c0025
-#### Text
+#### Question
+feedback:: true
 content::
 Chapter 6 sends a refrigerator blueprint back a thousand years. A medieval blacksmith could build it — but would be astonished that it produces cold air, because the underlying physics (gas compression and expansion) was unknown to them. The chapter uses this to illustrate what it means to face something that knows more about reality than you do. It then applies this logic to a superintelligent AI, and explores the domains where humanity is most exposed.
 
-#### Question
-feedback:: true
-content:: In your own words, what does the refrigerator thought experiment demonstrate about what a superintelligent AI might be capable of?
+In your own words, what does the refrigerator thought experiment demonstrate about what a superintelligent AI might be capable of?
 
 assessment-instructions::
 **1** — Cannot explain the thought experiment, or confuses it with a different argument. *Example: "It shows that AI will learn from old technology."*

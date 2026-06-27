@@ -16,13 +16,12 @@ tags:
 
 ## Test:
 id:: eefcafa7-65ed-4c7b-a73f-652d869494c2
-#### Text
+#### Question
+feedback:: true
 content::
 Chapter 1 makes a claim that cuts against a common assumption — that smarter AI will naturally be safer or more aligned with human goals.
 
-#### Question
-feedback:: true
-content:: What do the authors mean when they say intelligence is "direction-agnostic"? And why does that matter for safety?
+What do the authors mean when they say intelligence is "direction-agnostic"? And why does that matter for safety?
 
 assessment-instructions::
 Score according to the following rubric.
