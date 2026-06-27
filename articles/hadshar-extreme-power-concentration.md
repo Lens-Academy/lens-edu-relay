@@ -11,23 +11,6 @@ tags:
   - "article-importer"
 ---
 
-Table of Contents
-
--   [1 Why might AI-enabled power concentration be a pressing problem?](#why-might-ai-enabled-power-concentration-be-a-pressing-problem)
-    -   [1.1 An AI-enabled power concentration scenario](#an-ai-enabled-power-concentration-scenario)
-    -   [1.2 Automation could concentrate the power to get stuff done](#automation-could-concentrate-the-power-to-get-stuff-done)
-    -   [1.3 This could lead to unprecedented concentration of political power](#this-could-lead-to-unprecedented-concentration-of-political-power)
-    -   [1.4 AI-enabled power concentration could cause enormous and lasting harm](#ai-enabled-power-concentration-could-cause-enormous-and-lasting-harm)
-    -   [1.5 There are ways to reduce this risk, but very few are working on them](#there-are-ways-to-reduce-this-risk-but-very-few-are-working-on-them)
--   [2 What are the top arguments against working on this problem?](#what-are-the-top-arguments-against-working-on-this-problem)
-    -   [2.1 AI-enabled power concentration could reduce other risks from AI](#ai-enabled-power-concentration-could-reduce-other-risks-from-ai)
-    -   [2.2 The future might still be all right, even if there’s AI-enabled power concentration](#the-future-might-still-be-all-right-even-if-theres-ai-enabled-power-concentration)
-    -   [2.3 Efforts to reduce AI-enabled power concentration could backfire](#efforts-to-reduce-ai-enabled-power-concentration-could-backfire)
-    -   [2.4 Power might remain distributed by default](#power-might-remain-distributed-by-default)
-    -   [2.5 It might be too hard to stop AI-enabled power concentration](#it-might-be-too-hard-to-stop-ai-enabled-power-concentration)
--   [3 What can you do to help?](#what-can-you-do-to-help)
--   [4 Learn more](#learn-more)
-
 ## Why might AI-enabled power concentration be a pressing problem?
 
 The main reasons we think AI-enabled power concentration is an especially pressing problem are:
