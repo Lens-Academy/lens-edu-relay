@@ -3,7 +3,7 @@ This guide is for content creators who work in Google Docs (or similar tools) an
 **See it live:** [Introduction Module - First Week](https://lensacademy.org/course/default/module/introduction#ai-humanitys-final-invention)
 
 ---
-s
+
 ## How the Content Hierarchy Works
 
 Before you start creating, it helps to understand how your content will be organized on the platform. Here's the structure:
