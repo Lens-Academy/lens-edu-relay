@@ -14,8 +14,8 @@ We begin by examining the potential of AI and the risks and opportunities that t
 source:: [[../Lenses/The AI Book That's Freaking Out National Security Advisors]]
 
 # Lens:
-source::
-[[../Lenses/Risks from power-seeking AI]]
+source::{--{"author":"Elias's AI","timestamp":1782547136277}@@
+--}{++{"author":"Elias's AI","timestamp":1782547136277}@@ ++}[[../Lenses/Risks from power-seeking AI]]
 
 
 %% AI Chronicles embed section removed until the Embed feature ships (branch iframe-embed-segment). Embed isn't on staging yet, so this import failed validation. To restore the interactive once embed ships, re-add the section below (and remove the validator-ignore tag on the lens):
