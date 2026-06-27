@@ -5,9 +5,3 @@ discussion: https://discord.com/channels/1440725236843806762/1465348335249522768
 ## Test:
 
 
-## Lens:
-source:: [[../Lenses/The AI Book That's Freaking Out National Security Advisors]]
-
-## Lens:
-source::
-[[../Lenses/Risks from power-seeking AI]]
