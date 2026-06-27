@@ -14,14 +14,12 @@ tags:
 
 ## Test:
 id:: 27dca5ad-1a1d-40bf-b83d-fbcbd2e9f3d0
-#### {--{"author":"Elias's AI","timestamp":1782552400833}@@Text--}{++{"author":"Elias's AI","timestamp":1782552400833}@@Question
-feedback:: true++}
+#### Question
+feedback:: true
 content::
 Chapter 4 introduces the alignment problem by arguing that training an AI to be helpful does not reliably produce an AI that wants to be helpful.
 
-{--{"author":"Elias's AI","timestamp":1782552400833}@@#### Question
-feedback:: true
-content:: --}What is the ice cream argument, and what does it show about the relationship between what you train an AI for and what it ends up preferring? Where does the argument go beyond ice cream, and why does that matter?
+What is the ice cream argument, and what does it show about the relationship between what you train an AI for and what it ends up preferring? Where does the argument go beyond ice cream, and why does that matter?
 
 assessment-instructions::
 Score according to the following rubric.

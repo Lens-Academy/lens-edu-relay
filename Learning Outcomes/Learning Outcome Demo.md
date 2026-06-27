@@ -14,11 +14,7 @@ Users don't see learning outcomes. They just see lenses and tests.%%
 ## Test:
 id:: 88b7204b-2e34-4688-8f1f-1b5bbd75f5c8
 %% Tests are always tied to a learning outcome and defined directly inside of it. They're never imported from a separate file.%%
-#### {--{"author":"Elias's AI","timestamp":1782552348058}@@Text
-content::
-This is the test for the learning outcome. Keep the first demo test simple: one written question is enough.
-
-#### --}Question
+#### Question
 feedback:: true
 content:: In your own words, what are the two basic parts of a learning outcome?
 assessment-instructions:: A good answer says that a learning outcome has a test and one or more supporting lenses that help the learner prepare for that test.
