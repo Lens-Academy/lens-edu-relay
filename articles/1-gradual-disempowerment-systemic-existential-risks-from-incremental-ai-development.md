@@ -142,7 +142,7 @@ Second, the economy might become so optimized for AI-centric activities that it 
 
 Finally, humans might lose the ability to meaningfully participate in economic decision-making at any level. Financial markets might move too quickly for human participants to engage with them, and the complexity of AI-driven economic systems might exceed human comprehension, rendering it impossible for humans to make informed economic decisions or effectively regulate economic activity. Much like cattle in an industrial farm — fed and housed by systems they neither comprehend nor influence — humans might become mere subjects of economic forces optimized for purposes beyond their understanding.
 
-![Refer to caption](https://arxiv.org/html/x1.png)
+![Refer to caption](https://arxiv.org/html/2501.16946/x1.png)
 
 Figure 1: A simplified model of a potential future trajectory where AI displaces human labor and the fraction of unautomated tasks collapses to zero in a fixed amount of time. Note that wages grow during the initial period but then collapse before full automation is reached. Inspired by simulations in scenario analysis by Korinek and Suh, ([2024](https://arxiv.org/html/2501.16946v2#bib.bib42)).
 
@@ -370,7 +370,7 @@ We have so far focused on how the economy, culture, and states could independent
 
 We discuss each of these points in more detail below. Additionally, Figure [2](https://arxiv.org/html/2501.16946v2#S5.F2 "Figure 2 ‣ 5 Mutual Reinforcement ‣ Gradual Disempowerment: Systemic Existential Risks from Incremental AI Development") gives an overview of common ways societal systems interact and affect each other, which we unpack in a more detail in Appendix [A](https://arxiv.org/html/2501.16946v2#A1 "Appendix A Cross-system influence ‣ Gradual Disempowerment: Systemic Existential Risks from Incremental AI Development").
 
-![Refer to caption](https://arxiv.org/html/x2.png)
+![Refer to caption](https://arxiv.org/html/2501.16946/x2.png)
 
 Figure 2: Some ways in which broad societal systems interact and influence each other.
 

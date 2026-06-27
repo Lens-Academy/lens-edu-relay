@@ -1,4 +1,4 @@
-{++{"author":"AI","timestamp":1781164806721}@@---
+---
 id: 1c52ef6d-66ad-4dbd-a930-02a1a24d115b
 title: "Closing exercise"
 tags:
@@ -17,4 +17,3 @@ Write down (just for yourself):
 3. **One thing you would NOT do** at the top of the session, even though you'll want to.
 
 You don't have to share this with anyone. Writing it is the point. If you can do this for one of your actual upcoming sessions, do it for that one — the first 5 minutes of every session is the highest-leverage time. Plan it.
-++}

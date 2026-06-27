@@ -15,7 +15,6 @@ accessed: 2026-06-21
 description:
 tags:
   - "article-importer"
-  - validator-ignore
 ---
 
 ###### Abstract
@@ -46,7 +45,7 @@ In several parts of the survey, each participant randomly received questions on 
 
 Several questions asked participants to estimate how many years until a milestone will be feasible. In these questions, we asked participants to provide three year-probability pairs (either via the fixed-years framing or fixed-probabilities framing described above), which we used to approximate a probability distribution for that participant by fitting a gamma cumulative distribution function to these points.
 
-![Refer to caption](https://arxiv.org/html/x1.png)
+![Refer to caption](https://arxiv.org/html/2401.02843/x1.png)
 
 Figure 1: Most milestones are predicted to have better than even odds of happening within the next ten years, though with a wide range of plausible dates. The figure shows aggregate distributions over when selected milestones are expected, including 39 tasks, four occupations, and two measures of general human-level performance (see Section [3.2](https://arxiv.org/html/2401.02843v3#S3.SS2 "3.2 How soon will human-level performance on all tasks or occupations be feasible? ‣ 3 Results on AI Progress ‣ Thousands of AI Authors on the Future of AI")), shown as solid circles, open circles, and solid squares respectively. Circles/squares represent the year where the aggregate distribution gives a milestone a 50% chance of being met, and intervals represent the range of years between 25% and 75% probability. Note that these intervals represent an aggregate of uncertainty expressed by participants, not estimation uncertainty. The displayed milestone descriptions are summaries; for full descriptions, see Appendix [C](https://arxiv.org/html/2401.02843v3#A3 "Appendix C Full Descriptions of Milestones ‣ Thousands of AI Authors on the Future of AI").
 
@@ -66,7 +65,7 @@ The six tasks expected to take longer than ten years were: “After spending tim
 
 32 AI task questions were identical to those in the 2022 survey, as well as the 2016 survey \[Grace et al., [2018a](https://arxiv.org/html/2401.02843v3#bib.bib20)\], with the exception of minor edits to task descriptions for updated accuracy between 2016 and 2022 \[AI Impacts, [2023b](https://arxiv.org/html/2401.02843v3#bib.bib25)\]. All tasks from Grace et al. \[[2018a](https://arxiv.org/html/2401.02843v3#bib.bib20)\] were included, regardless of whether the authors would judge them to be achieved. The survey population included more conferences in 2023, but this did not appear to have a notable effect on opinion (See [5.2.3](https://arxiv.org/html/2401.02843v3#S5.SS2.SSS3 "5.2.3 Change in sample from 2022 ‣ 5.2 Caveats and limitations ‣ 5 Discussion ‣ Thousands of AI Authors on the Future of AI")). Figure [2](https://arxiv.org/html/2401.02843v3#S3.F2 "Figure 2 ‣ 3.1.1 Comparison with 2022 ‣ 3.1 How soon will 39 tasks be feasible for AI? ‣ 3 Results on AI Progress ‣ Thousands of AI Authors on the Future of AI") shows how expected dates for reaching these milestones shifted from 2022 to 2023.
 
-![Refer to caption](https://arxiv.org/html/images/milestoneshift.png)
+![Refer to caption](https://arxiv.org/html/2401.02843/images/milestoneshift.png)
 
 Figure 2: Expected feasibility of many AI milestones moved substantially earlier in the course of one year (between 2022 and 2023). The milestones are sorted (within each scale-adjusted chart) by size of drop from 2022 forecast to 2023 forecast, with the largest change first. The year when the aggregate distribution gives a milestone a 50% chance of being met is represented by solid circles, open circles, and solid squares for tasks, occupations, and general human-level performance respectively. The three groups of questions have different formats that may also influence answers. For full descriptions of the summarized milestones, see Appendix [C](https://arxiv.org/html/2401.02843v3#A3 "Appendix C Full Descriptions of Milestones ‣ Thousands of AI Authors on the Future of AI").
 
@@ -86,9 +85,9 @@ We defined High-Level Machine Intelligence (HLMI) thus:
 
 We asked for predictions, assuming “human scientific activity continues without major negative disruption.” We aggregated the results (n=1,714) by fitting gamma distributions, as with individual task predictions in [3.1](https://arxiv.org/html/2401.02843v3#S3.SS1 "3.1 How soon will 39 tasks be feasible for AI? ‣ 3 Results on AI Progress ‣ Thousands of AI Authors on the Future of AI").
 
-![Refer to caption](https://arxiv.org/html/x2.png)
+![Refer to caption](https://arxiv.org/html/2401.02843/x2.png)
 
-![Refer to caption](https://arxiv.org/html/x3.png)
+![Refer to caption](https://arxiv.org/html/2401.02843/x3.png)
 
 Figure 3: Aggregate forecast for 50th percentile arrival time of High-Level Machine intelligence (HLMI) dropped by 13 years between 2022 and 2023. The forecast for 50th percentile arrival time of Full Automation of Labor (FAOL) dropped by 48 years in the same period. However, there is still a lot of uncertainty. “Aggregate Forecast” is the mean distribution over all individual cumulative distribution functions. For comparison, we included the 2022 Aggregate Forecast. To give a sense of the range of responses, we included random subsets of individual 2023 and 2022 forecasts. Note that the thinner ‘confidence interval‘ in 2023 (compared to 2022) is due to our increased confidence about the average respondents’ views due to a larger sample size, not respondents’ predictions converging.
 
@@ -138,7 +137,7 @@ The fixed-years framing has been previously observed to produce systematically l
 
 The previously-observed framing effect was again observed in this survey. For example, the year with a 50% chance of HLMI from participants answering in the fixed-year frame (34 years) was twice as far into the future as that for participants answering in the fixed-probability frame (17 years). However, it’s notable that even the larger of these two is shorter than 2022’s combined forecast (37 years), demonstrating a substantial shift of predictions closer to the present (Fig [18](https://arxiv.org/html/2401.02843v3#A2.F18 "Figure 18 ‣ B.1 How soon will human-level performance on all tasks or occupations be feasible? ‣ Appendix B Supplementary Figures ‣ Thousands of AI Authors on the Future of AI") in Appendix [B](https://arxiv.org/html/2401.02843v3#A2 "Appendix B Supplementary Figures ‣ Thousands of AI Authors on the Future of AI")).
 
-![Refer to caption](https://arxiv.org/html/x4.png)
+![Refer to caption](https://arxiv.org/html/2401.02843/x4.png)
 
 Figure 4: Most respondents indicated that the pace of progress in their area of AI increased between the first and second half of their time in a field. Participants were asked whether the second half of the time they had spent working in their area of AI saw more progress than the first half. The median time working in the area was 5 years.
 
@@ -150,7 +149,7 @@ We asked respondents which AI area they had worked in for the longest and whethe
 
 We asked about the sensitivity of progress in AI capabilities to changes in five inputs: 1) researcher effort, 2) decline in cost of computation, 3) effort put into increasing the size and availability of training datasets, 4) funding, and 5) progress in AI algorithms. We asked respondents to imagine that only half as much of each input had been available over the past decade,[^2] and the effect they would expect this to have had on the rate of AI progress. The results are shown in Figure [5](https://arxiv.org/html/2401.02843v3#S3.F5 "Figure 5 ‣ 3.5 What causes AI progress? ‣ 3 Results on AI Progress ‣ Thousands of AI Authors on the Future of AI").
 
-![Refer to caption](https://arxiv.org/html/x5.png)
+![Refer to caption](https://arxiv.org/html/2401.02843/x5.png)
 
 Figure 5: Estimated reduction in AI progress if inputs had been halved over the past decade. Red dots represent means. Boxes contain the 25th to 75th percentile range; middle lines are medians. Whiskers are the least and greatest values that are not more than 1.5 times the interquartile range from the median. Participants estimated that halving the drop in costs of computing would have had the greatest effect on AI progress over the last decade, while halving ‘researcher effort’ and ‘progress in AI algorithms’ would have had the least effect. Overall, all the included inputs were seen as having contributed substantially to AI progress.
 
@@ -170,7 +169,7 @@ We asked respondents about the possibility, after HLMI is hypothetically achieve
 
 The results to this first question are shown in Figure [6](https://arxiv.org/html/2401.02843v3#S3.F6 "Figure 6 ‣ 3.6 Will there be an intelligence explosion? ‣ 3 Results on AI Progress ‣ Thousands of AI Authors on the Future of AI").
 
-![Refer to caption](https://arxiv.org/html/x6.png)
+![Refer to caption](https://arxiv.org/html/2401.02843/x6.png)
 
 Figure 6: Since 2016 a majority of respondents have thought that it’s either “quite likely,” “likely,” or an “about even chance” that technological progress becomes more than an order of magnitude faster within 5 years of HLMI being achieved.
 
@@ -196,7 +195,7 @@ Further figures related to intelligence explosion questions are in Appendix [B]
 
 Concerns about risks from future AI systems are often linked to specific traits related to alignment, trustworthiness, predictability, self-directedness, capabilities, and jailbreakability. We asked respondents how likely it was that at least some state-of-the-art AI systems in 2043 would have each of eleven such traits ($n\in\left[649,667\right]$[^3]).
 
-![Refer to caption](https://arxiv.org/html/images/traits2043.png)
+![Refer to caption](https://arxiv.org/html/2401.02843/images/traits2043.png)
 
 Figure 7: Respondents’ estimates of the likelihood that at least some AI systems in 2043 will have each of these traits; organized from least to most likely.
 
@@ -221,7 +220,7 @@ There were areas of agreement, however. For instance, a large majority of partic
 
 ### 3.8 Will AI in 2028 truthfully and intelligibly explain its decisions?
 
-![Refer to caption](https://arxiv.org/html/x7.png)
+![Refer to caption](https://arxiv.org/html/2401.02843/x7.png)
 
 Figure 8: Most respondents considered it unlikely that users of AI systems in 2028 will be able to know the true reasons for the AI systems’ choices, with only 20% giving it better than even odds. (n=912)
 
@@ -237,7 +236,7 @@ This is related to the question in Section [3.7](https://arxiv.org/html/2401.02
 
 We asked participants (n=1,345) about eleven potentially concerning AI scenarios, such as AI-enabled misinformation, worsened economic inequality, and biased AI systems worsening injustice. We asked how much concern each deserved in the next thirty years (Figure [9](https://arxiv.org/html/2401.02843v3#S4.F9 "Figure 9 ‣ 4.1 How concerning are 11 future AI-related scenarios? ‣ 4 Results on Social Impacts of AI ‣ Thousands of AI Authors on the Future of AI")).
 
-![Refer to caption](https://arxiv.org/html/images/concerns.png)
+![Refer to caption](https://arxiv.org/html/2401.02843/images/concerns.png)
 
 Figure 9: Amount of concern potential scenarios deserve, organized from most to least extreme concern.
 
@@ -249,7 +248,7 @@ There is some ambiguity about the reason why a scenario might be considered conc
 
 We asked participants to assume that, at some point, “high-level machine intelligence” (HLMI) will exist, as defined in Section [3.2](https://arxiv.org/html/2401.02843v3#S3.SS2 "3.2 How soon will human-level performance on all tasks or occupations be feasible? ‣ 3 Results on AI Progress ‣ Thousands of AI Authors on the Future of AI"). Given this assumption for the sake of the question, we asked how good or bad they expect the overall impact of this to be “in the long run” for humanity.
 
-![Refer to caption](https://arxiv.org/html/x8.png)
+![Refer to caption](https://arxiv.org/html/2401.02843/x8.png)
 
 Figure 10: Respondents exhibited diverse views on the expected goodness/badness of High Level Machine Intelligence (HLMI). We asked participants to assume, for the sake of the question, that HLMI will be built at some point. The figure shows a random selection of 800 responses on the positivity or negativity of long-run impacts of HLMI on humanity. Each vertical bar represents one participant and the bars are sorted left to right by a weighted sum of probabilities corresponding to overall optimism. Responses range from extremely optimistic to extremely pessimistic. Over a third of participants (38%) put at least a 10% chance on extremely bad outcomes (e.g. human extinction).
 
@@ -259,9 +258,9 @@ The median prediction for extremely bad outcomes, such as human extinction, was 
 
 Since 2022, mean overall probability on extreme outcomes (good or bad) has fallen slightly (Figure [11](https://arxiv.org/html/2401.02843v3#S4.F11 "Figure 11 ‣ 4.2 How good or bad for humans will High-Level Machine Intelligence be? ‣ 4 Results on Social Impacts of AI ‣ Thousands of AI Authors on the Future of AI")). The proportion of people who put at least a 10% chance on extremely bad outcomes (e.g. human extinction) has fallen from 48% in 2022 in 2023, and the mean prediction for this type of outcome is down from 14% to 9.0%.
 
-![Refer to caption](https://arxiv.org/html/x9.png)
+![Refer to caption](https://arxiv.org/html/2401.02843/x9.png)
 
-![Refer to caption](https://arxiv.org/html/x10.png)
+![Refer to caption](https://arxiv.org/html/2401.02843/x10.png)
 
 Figure 11: Mean but not median predictions in 2023 (n=2704) about the consequences of HLMI have shifted slightly away from extreme outcomes compared to 2022 (n=559). Error bars indicate the standard error.
 
@@ -271,7 +270,7 @@ Appendix [A](https://arxiv.org/html/2401.02843v3#A1 "Appendix A Results Compari
 
 To further clarify views on the “extremely bad (e.g. human extinction)” scenarios in the question on overall impacts, participants were given one of three similar questions about human extinction. Their differences were intended to help isolate exactly how concerning different scenarios are, what respondents expect to happen, and how much difference working makes.
 
-![Refer to caption](https://arxiv.org/html/x11.png)
+![Refer to caption](https://arxiv.org/html/2401.02843/x11.png)
 
 Figure 12: Mean and median predictions to three questions on human extinction. Error bars indicate the standard error. (Question 1 n=149 in 2022 and 1321 in 2023. Question 2 n=162 in 2022 and 661 in 2023. Question 3 was asked only in 2023, n=655).
 
@@ -285,7 +284,7 @@ Table 2: Respondents’ estimates in 2022 and 2023 for the probability that AI c
 
 Answers to these questions were mostly consistent, with medians of 5% or 10%. These are also close to answers to the question on general value of long-run impact,[^5], which might suggest the bulk of the “extremely bad (e.g. human extinction)” answers to that question is from human extinction or similarly permanent and severe disempowerment of the human species, as opposed to other outcomes that respondents to that question may have had in mind but that would have been less severe.
 
-![Refer to caption](https://arxiv.org/html/x12.png)
+![Refer to caption](https://arxiv.org/html/2401.02843/x12.png)
 
 Figure 13: Percent of participants who gave a probability of 10% or higher to an extremely bad outcome of HLMI (e.g. human extinction) (see Section [4.2](https://arxiv.org/html/2401.02843v3#S4.SS2 "4.2 How good or bad for humans will High-Level Machine Intelligence be? ‣ 4 Results on Social Impacts of AI ‣ Thousands of AI Authors on the Future of AI")) or to the three questions specifically about human extinction or disempowerment.
 
@@ -345,7 +344,7 @@ The updated question is identical except for the inclusion of this example:
 
 In both variations, we asked, “How much should society prioritize AI safety research, relative to how much it is currently prioritized?” A Welch t-test found that the difference between the two framings was not significant ($t(1327)=-0.58,p=0.564,d=-0.03$), so the results were combined (n=1329). A large majority of respondents thought that AI safety research should be prioritized more than it currently is. The percentage of researchers who thought so increased compared to earlier surveys, but only slightly since 2022. (Figure [14](https://arxiv.org/html/2401.02843v3#S4.F14 "Figure 14 ‣ 4.6 How much should AI safety research be prioritized? ‣ 4 Results on Social Impacts of AI ‣ Thousands of AI Authors on the Future of AI"))
 
-![Refer to caption](https://arxiv.org/html/x13.png)
+![Refer to caption](https://arxiv.org/html/2401.02843/x13.png)
 
 Figure 14: 70% of respondents thought AI safety research should be prioritized more than it currently is. Developments since the 2022 survey have not substantially changed the proportion of participants who think AI safety should be prioritized “more” ore “much more”.
 
@@ -366,11 +365,11 @@ A second set of AI safety questions was based on Stuart Russell’s formulation 
     How hard do you think this problem is, compared to other problems in AI?
     
 
-![Refer to caption](https://arxiv.org/html/x14.png)
+![Refer to caption](https://arxiv.org/html/2401.02843/x14.png)
 
-![Refer to caption](https://arxiv.org/html/x15.png)
+![Refer to caption](https://arxiv.org/html/2401.02843/x15.png)
 
-![Refer to caption](https://arxiv.org/html/x16.png)
+![Refer to caption](https://arxiv.org/html/2401.02843/x16.png)
 
 Figure 15: Attitudes towards Stuart Russell’s formulation of the alignment problem. Participants viewed the alignment problem as important and difficult, but not more valuable to work on than other problems.
 
@@ -426,7 +425,7 @@ For a full description of the survey’s flow, see the diagram in Figure [16](h
 
 ### 6.2 Randomization
 
-![Refer to caption](https://arxiv.org/html/images/randomization.jpg)
+![Refer to caption](https://arxiv.org/html/2401.02843/images/randomization.jpg)
 
 Figure 16: Individual components of the survey and their randomization. Horizontal divisions represent participants being randomly split between questions (parenthetical percentages also give the fraction of participants receiving each question block). There was further randomization (not shown), within some question blocks.
 
@@ -548,11 +547,11 @@ Reprints and permissions requests should be directed to Katja Grace.
 
 ### A.1 How soon will High-level Machine Intelligence be feasible?
 
-![Refer to caption](https://arxiv.org/html/x17.png)
+![Refer to caption](https://arxiv.org/html/2401.02843/x17.png)
 
-![Refer to caption](https://arxiv.org/html/x18.png)
+![Refer to caption](https://arxiv.org/html/2401.02843/x18.png)
 
-![Refer to caption](https://arxiv.org/html/x19.png)
+![Refer to caption](https://arxiv.org/html/2401.02843/x19.png)
 
 Figure 17: Aggregate forecasts for time until HLMI were shorter for participants whose region of undergraduate study was Asia. Time in field did not have a significant effect on forecasts for time until HLMI. Citation count did not have a significant effect on forecasts for time until HLMI.
 
@@ -597,7 +596,7 @@ The similarity of answers across several slightly different questions, across th
 
 ### B.1 How soon will human-level performance on all tasks or occupations be feasible?
 
-![Refer to caption](https://arxiv.org/html/x20.png)
+![Refer to caption](https://arxiv.org/html/2401.02843/x20.png)
 
 Figure 18: Participants who received questions framed in terms of fixed-years had later forecasts than those who received questions in terms of fixed-probabilities.
 
@@ -614,15 +613,15 @@ Table 6: By what year will human-level performance on all tasks (HLMI) or occupa
 
 ### B.3 Will there be an intelligence explosion?
 
-![Refer to caption](https://arxiv.org/html/intelligence_explosion_global_tech.png)
+![Refer to caption](https://arxiv.org/html/2401.02843/intelligence_explosion_global_tech.png)
 
-![Refer to caption](https://arxiv.org/html/images/intelligence_explosion_vastly_better.png)
+![Refer to caption](https://arxiv.org/html/2401.02843/images/intelligence_explosion_vastly_better.png)
 
 Figure 19: Two framings of the intelligence explosion question: How likely is an “explosive global technological improvement” two and 30 years after HLMI? And, How likely is it that AI be “vastly better” than humans in all tasks two and 30 years after HLMI? In the first framing, the median prediction for 2 years post-HLMI was 20%, whereas the median prediction for 30 years post-HLMI was 80%. In the second framing, the median prediction for 2 years post-HLMI was 10%, whereas the median prediction for 30 years post-HLMI was 60%.
 
 ### B.4 How much should AI safety research be prioritized?
 
-![Refer to caption](https://arxiv.org/html/x21.png)
+![Refer to caption](https://arxiv.org/html/2401.02843/x21.png)
 
 Figure 20: Two framings of the question “How much should AI safety research be prioritized?”, one including and one not including biased AI as an example.
 

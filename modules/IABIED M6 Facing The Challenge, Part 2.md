@@ -11,9 +11,9 @@ readings:
 tags:
   - IABIED
   - module
-  - work-in-progress
 ---
 
+# Submodule: Welcome
 # Lens: Welcome
 id:: a3154792-e84d-40d0-b6ed-90f65f89e3f6
 
@@ -80,6 +80,7 @@ source:: [[../Learning Outcomes/Role-Specific Action]]
 ## Learning Outcome: IABIED - The Two Prayers
 source:: [[../Learning Outcomes/The Two Prayers]]
 
+# Submodule: Dive Deeper
 # Lens: Overview of Optional Resources
 id:: d4e5f6a7-8b9c-4d0e-1f2a-3b4c5d6e7f8a
 
@@ -270,3 +271,18 @@ source:: ![[../Lenses/IABIED - QA - Shut Down Global AI Development]]
 optional:: true
 hide:: true
 source:: ![[../Lenses/IABIED - QA - Keep the Coalition Large]]
+
+# Lens: IABIED - QA - Early Warnings
+optional:: true
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Early Warnings]]
+
+# Lens: IABIED - QA - Isn't AI Different from Nuclear Reactors
+optional:: true
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Isn't AI Different from Nuclear Reactors]]
+
+# Lens: IABIED - QA - Can International Cooperation Really Work
+optional:: true
+hide:: true
+source:: ![[../Lenses/IABIED - QA - Can International Cooperation Really Work]]

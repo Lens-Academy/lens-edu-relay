@@ -33,7 +33,7 @@ to:: 1:13
 content::
 In our courses, we teach you everything you need to know about how AI works, to figure out what's going to happen with your job, and when.
 # Lens: Deepfakes
-id:: b412a3d6-4473-4378-a675-a1230eb9890a
+id:: 30428a22-3e45-46cb-b952-6401017f760f
 #### Text
 content::
 By the way, we're a nonprofit. We don't have anything to sell you. We're here to help.
@@ -65,7 +65,7 @@ Each week, you'll spend about 5 hours, consisting of approximately:
 - 0.5h watching videos
 - 1.5h AI tutoring
 # Lens: Myths about Superintelligent AI
-id:: 4c64a6f2-3971-4508-bf29-d1200ae82d43
+id:: 927845f8-52cc-4683-8171-4f6d00aeacd1
 #### Text
 content::
 What is intelligence anyway? What should we expect superintelligent AI to be like?
@@ -76,7 +76,7 @@ to:: 3:46
 content::
 This video was created in 2018. It's still highly relevant today. One thing has dramatically changed, though: while the video said superintelligence is still decades away, recent AI progress has had experts change their estimates. Many now think superintelligence is just years away. Yikes.
 # Lens: Golem King
-id:: 211ae52b-4bde-493c-b087-4d6cb366d630
+id:: 5b136dc8-6257-4799-9bf4-2cfb76c6c1a9
 #### Text
 content::
 Can we trust AI? Can we ever even know whether we can trust AI?
@@ -98,7 +98,7 @@ And if you want help understanding a complicated research paper, we've got you c
 
 But don't worry, we won't overcomplicate things. We will help you figure out your path and choose the right course for you. Unless you want to become a reseacher, there's no need to read papers.
 # Lens: 10 reasons
-id:: b2848dd4-5567-4dee-993a-fdb5f4fe2514\
+id:: b2848dd4-5567-4dee-993a-fdb5f4fe2514
 
 #### Text
 content::

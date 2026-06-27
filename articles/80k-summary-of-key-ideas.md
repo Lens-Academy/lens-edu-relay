@@ -1,5 +1,6 @@
 ---
 title: "Summary of 80,000 Hours' key ideas"
+allowAuthorInTitle: true
 source_url: https://80000hours.org/key-ideas/summary/
 author:
   - 80,000 Hours
