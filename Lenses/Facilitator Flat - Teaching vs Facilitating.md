@@ -25,9 +25,8 @@ This is not a soft distinction. It changes almost every move you make:
 
 Video — **Instructor vs Facilitator** — Bill Wilder (5 min) — https://www.youtube.com/watch?v=J3IUyZiXAQo
 
-{~~{"author":"Elias","timestamp":1782669341735}@@As you watch, hold this question: which mode do you naturally default to? Most people who sign up to facilitate default to teaching, because that's the model they've seen most often. Knowing your default is the first move.{>>{"author":"Chris Lonsberry","timestamp":1781198351160}@@CGL > Already watched the video by the time I read this.<<}
-~>As you watch, hold this question: which mode do you naturally default to? Most people who sign up to facilitate default to teaching, because that's the test model 've seen most often. Knowing your default is the first move.{>>{"author":"Chris Lonsberry","timestamp":1781198351160}@@CGL > Already watched the video by the time I read this.<<}
-~~}
+As you watch, hold this question: which mode do you naturally default to? Most people who sign up to facilitate default to teaching, because that's the model they've seen most often. Knowing your default is the first move.{>>{"author":"Chris Lonsberry","timestamp":1781198351160}@@CGL > Already watched the video by the time I read this.<<}
+
 \## Why this matters for online cohort discussions
 
 In an online setting, the gravitational pull toward teaching is even stronger:
