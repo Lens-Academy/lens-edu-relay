@@ -1,5 +1,5 @@
 The navigator training course is ready for review! We're sharing it with a small group of experienced navigators to get your input before the course **launches on June 29.**
-
+hi
 **Setup:** Open two windows side by side. On the left, open the course in the editor: [editor link](https://editor.lensacademy.org/edu/6903c363). On the right, open the course on the platform: [platform link](https://staging.lensacademy.org/course/facilitator-training-program-flat). Read and interact with the course on the platform (right) so you experience it the way a learner would, including the AI tutor conversations. Leave your feedback in the editor (left).
 
 **To leave a comment in the editor:** Right-click on the relevant text and select comment (or Cmd+Shift+M). For small corrections like typos or wording changes, just type directly in the editor and it will create a suggestion for us to approve. If someone else has already commented on a section, reply directly to their comment rather than creating a new one.
