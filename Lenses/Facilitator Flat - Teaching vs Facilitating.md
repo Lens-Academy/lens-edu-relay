@@ -6,7 +6,7 @@ tags:
   - facilitator-training
 ---
 #### Text
-content:: {>>{"author":"Ignacio","timestamp":1781461167835}@@General comment: the time estimate (2m) doesn't include the time of watching the video (5m). It would be good if videos or other external materials are included in the time estimate, for those who plan around these.<<}A teacher's job is to **transfer knowledge**.{>>{"author":"Anshuman","timestamp":1782656834219}@@Half cut irrelevant sentence<<}{++{"author":"Anshuman","timestamp":1782666983802}@@Here {--{"author":"Anshuman","timestamp":178266739474++}--}Success looks like: at the end of the class, students know what the teacher knew at the start.
+content:: {>>{"author":"Ignacio","timestamp":1781461167835}@@General comment: the time estimate (2m) doesn't include the time of watching the video (5m). It would be good if videos or other external materials are included in the time estimate, for those who plan around these.<<}A teacher's job is to **transfer knowledge**.{>>{"author":"Anshuman","timestamp":1782656834219}@@Half cut irrelevant sentence<<}Here {--{"author":"Anshuman","timestamp":178266739474--}Success looks like: at the end of the class, students know what the teacher knew at the start.
 
 A facilitator's job is to **help a group think together** about material they've already encountered. The facilitator is not the source of the knowledge; success looks like: at the end of the session, participants understand the material better than they could have alone — and feel more grounded in what they want to do about it. The group helps each other both interrogate the ideas and locate themselves in relation to them.
 
