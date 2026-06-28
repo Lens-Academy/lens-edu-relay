@@ -8,7 +8,7 @@ tags:
 #### Text
 content:: {>>{"author":"Ignacio","timestamp":1781461167835}@@General comment: the time estimate (2m) doesn't include the time of watching the video (5m). It would be good if videos or other external materials are included in the time estimate, for those who plan around these.<<}A teacher's job is to **transfer knowledge**.{>>{"author":"Anshuman","timestamp":1782656834219}@@Half cut irrelevant sentence<<}Here, success looks like: at the end of the class, students know what the teacher knew at the start.
 
-{++{"author":"Anshuman","timestamp":1782669234978}@@This is my suggested text. Oops I think this might not be correct++}A facilitator's job is to **help a group think together** about material they've already encountered. The facilitator is not the source of the knowledge; success looks like: at the end of the session, participants understand the material better than they could have alone — and feel more grounded in what they want to do about it. The group helps each other both interrogate the ideas and locate themselves in relation to them.
+A facilitator's job is to **help a group think together** about material they've already encountered. The facilitator is not the source of the knowledge; success looks like: at the end of the session, participants understand the material better than they could have alone{++{"author":"Anshuman","timestamp":1782669285728}@@, ++}{--{"author":"Anshuman","timestamp":1782669284048}@@ —--} and feel more grounded in what they want to do about it. The group helps each other both {++{"author":"Anshuman","timestamp":1782669287790}@@to ++}interrogate the ideas and locate themselves in relation to them.
 
 This is not a soft distinction. It changes almost every move you make:
 
