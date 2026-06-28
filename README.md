@@ -17,7 +17,6 @@ Obsidian → Relay → staging branch → PR → main branch → Production
 4. **Validation** - GitHub Actions validates lesson format and wiki-links
 5. **Merge to main** - Once checks pass, squash and merge to `main`
 6. **Production** - The `main` branch is used directly by the production website..
-hello there
 ## Important
 
 - **Never commit directly to the Lens Educational Content repo on Github** - All changes must come through Relay.
