@@ -8,7 +8,7 @@ tags:
 #### Text
 content:: {>>{"author":"Ignacio","timestamp":1781461167835}@@General comment: the time estimate (2m) doesn't include the time of watching the video (5m). It would be good if videos or other external materials are included in the time estimate, for those who plan around these.<<}A teacher's job is to **transfer knowledge**. {--{"author":"Elias","timestamp":1782658224424}@@The teacher is the source. --}{>>{"author":"Anshuman","timestamp":1782656834219}@@Half cut irrelevant sentence<<}Success looks like: at the end of the class, students know what the teacher knew at the start.
 
-A facilitator's job is to **help a group think together** about material they've already encountered. The facilitator is not the source of the knowledge; success looks like: at the end of the session, participants understand the material better than they could have alone — and feel more grounded in what they want to do about it. The group helps each other both interrogate the ideas and locate themselves in relation to them.
+A facilitator's job is to **{{++{"author":"Elias","timestamp":1782658295406}@@neneneneene++}~~{"author":"Elias","timestamp":1782658295371}@@help a group think together*~>e~~}* about material they've already encountered. The facilitator is not the source of the knowledge; success looks like: at the end of the session, participants understand the material better than they could have alone — and feel more grounded in what they want to do about it. The group helps each other both interrogate the ideas and locate themselves in relation to them.
 
 This is not a soft distinction. It changes almost every move you make:
 
