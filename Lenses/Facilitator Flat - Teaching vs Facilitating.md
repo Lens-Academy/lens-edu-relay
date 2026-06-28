@@ -27,7 +27,7 @@ Video — **Instructor vs Facilitator** — Bill Wilder (5 min) — https://www.
 
 As you watch, hold this question: which mode do you naturally default to? Most people who sign up to facilitate default to teaching, because that's the model they've seen most often. Knowing your default is the first move.{>>{"author":"Chris Lonsberry","timestamp":1781198351160}@@CGL > Already watched the video by the time I read this.<<}
 
-\## Why this matters for online cohort discussions
+\## Why this matters for online c{--{"author":"Elias","timestamp":1782669465234}@@ohort disc--}ussions
 
 In an online setting, the gravitational pull toward teaching is even stronger:
 
