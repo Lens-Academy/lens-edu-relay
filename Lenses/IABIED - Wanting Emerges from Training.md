@@ -149,14 +149,13 @@ Safety and integrity:
 #### Text
 content::
 \## Additional resources for this topic
-::card[[../Lenses/IABIED - QA - The Road to Wanting]]{--{"author":"Elias's AI","timestamp":1782755842662}@@
---}{++{"author":"Elias's AI","timestamp":1782755842662}@@
+::card[[../Lenses/IABIED - QA - The Road to Wanting]]
 
 > Traces want-like behavior up a spectrum — thermostat to wasp to beaver to human — and warns against two opposite errors: assuming AI will think like us (anthropomorphism) or like a rigid machine (mechanomorphism).
 
 ---
 
-++}::card[[../Lenses/IABIED - QA - Machine Own Priorities]]{--{"author":"Elias's AI","timestamp":1782755842662}@@
+::card[[../Lenses/IABIED - QA - Machine Own Priorities]]{--{"author":"Elias's AI","timestamp":1782755842662}@@
 --}{++{"author":"Elias's AI","timestamp":1782755842662}@@
 
 > Why pushing an AI to solve harder problems automatically makes it more driven and agentic — and, like humans inventing birth control, prone to priorities that diverge from what it was trained for.
