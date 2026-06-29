@@ -151,7 +151,7 @@ content::
 \## Additional resources for this topic
 ::card[[../Lenses/IABIED - QA - The Road to Wanting]]
 
-> Still unsure where "wanting" actually begins? Does a thermostat want anything? Theis walks the whole spectrum from thermostats to wasps to beavers to us, and is the piece to read if you want a sharper intuition for where today's AI sits on it (and why "it'll think like us" and "it's just a machine" are both traps).
+> Still unsure where "wanting" actually begins? Does a thermostat want anything? The piece to read if you want a sharper intuition for where today's AI sits on it (and why "it'll think like us" and "it's just a machine" are both traps).
 
 ---
 
