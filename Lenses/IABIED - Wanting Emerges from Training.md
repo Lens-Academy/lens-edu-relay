@@ -163,4 +163,4 @@ content::
 
 ::card[[../Lenses/IABIED - QA - Passive and Docile]]
 
-> Tempted by the obvious fix — "why not just make AIs passive and obedient?" Worth reading for why that doesn't work: usefulness and tenacity come as a package, and engineers steer AI temperament far less precisely than you'd expect (Grok's "MechaHitler" moment being the cautionary tale).
+> Tempted by the obvious fix: "why not just make AIs passive and obedient?" Worth reading for why that doesn't work: usefulness and tenacity come as a package, and engineers steer AI temperament far less precisely than you'd expect (Grok's "MechaHitler" moment being the cautionary tale).
