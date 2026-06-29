@@ -4,4 +4,4 @@ title: "How AI could create the world’s biggest&nbsp;problems"
 ---
 
 #### Article
-source:: [[../articles/qureshi-how-ai-could-create-the-worlds-biggestnbsp-problems]]
+source:: [[../articles/qureshi-how-ai-could-create-the-world's-biggest-problems]]
