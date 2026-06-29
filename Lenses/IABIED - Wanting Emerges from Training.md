@@ -12,7 +12,7 @@ tags:
 #### Text
 content::
 \## Reading Assignment
-**Read *Chapter 3: Learning to Want* in full.**
+**Read *Chapter 3: "Learning to Want"* in full.**
 
 Return here after reading.
 
