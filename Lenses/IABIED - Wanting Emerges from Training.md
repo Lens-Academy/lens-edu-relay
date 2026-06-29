@@ -151,13 +151,13 @@ content::
 \## Additional resources for this topic
 ::card[[../Lenses/IABIED - QA - The Road to Wanting]]
 
-> Traces want-like behavior up a spectrum — thermostat to wasp to beaver to human — and warns against two opposite errors: assuming AI will think like us (anthropomorphism) or like a rigid machine (mechanomorphism).
+> {--{"author":"Elias's AI","timestamp":1782756317821}@@Traces want-like behavior up a spectrum--}{++{"author":"Elias's AI","timestamp":1782756317821}@@Still unsure where "wanting" actually begins++} — {++{"author":"Elias's AI","timestamp":1782756317821}@@does a ++}thermostat {++{"author":"Elias's AI","timestamp":1782756317821}@@want anything? This walks the whole spectrum from thermostats to wasps ++}to {--{"author":"Elias's AI","timestamp":1782756317821}@@wasp--}{++{"author":"Elias's AI","timestamp":1782756317821}@@beavers++} to {--{"author":"Elias's AI","timestamp":1782756317821}@@beaver--}{++{"author":"Elias's AI","timestamp":1782756317821}@@us, and is the piece++} to {--{"author":"Elias's AI","timestamp":1782756317821}@@human — and warns against two opposite errors: assuming--}{++{"author":"Elias's AI","timestamp":1782756317821}@@read if you want a sharper intuition for where today's++} AI {--{"author":"Elias's AI","timestamp":1782756317821}@@will--}{++{"author":"Elias's AI","timestamp":1782756317821}@@sits on it (and why "it'll++} think like {--{"author":"Elias's AI","timestamp":1782756317821}@@us (anthropomorphism) or like--}{++{"author":"Elias's AI","timestamp":1782756317821}@@us" and "it's just++} a {--{"author":"Elias's AI","timestamp":1782756317821}@@rigid machine (mechanomorphism).--}{++{"author":"Elias's AI","timestamp":1782756317821}@@machine" are both traps).++}
 
 ---
 
 ::card[[../Lenses/IABIED - QA - Machine Own Priorities]]
 
-> Why pushing an AI to solve harder problems automatically makes it more driven and agentic — and, like humans inventing birth control, prone to priorities that diverge from what it was trained for.
+> {--{"author":"Elias's AI","timestamp":1782756321379}@@Why pushing an AI to solve harder problems automatically makes--}{++{"author":"Elias's AI","timestamp":1782756321379}@@If your gut still says "but it only does what we trained++} it {--{"author":"Elias's AI","timestamp":1782756321379}@@more driven and agentic — and, like humans inventing birth control, prone to--}{++{"author":"Elias's AI","timestamp":1782756321379}@@to do," read this. It's the most direct answer to how an AI ends up with++} priorities {++{"author":"Elias's AI","timestamp":1782756321379}@@of its own — built around the case ++}that {--{"author":"Elias's AI","timestamp":1782756321379}@@diverge from what it was trained for.--}{++{"author":"Elias's AI","timestamp":1782756321379}@@sticks with people: evolution "trained" us to reproduce, and we invented birth control.++}
 
 ---
 
