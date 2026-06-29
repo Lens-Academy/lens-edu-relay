@@ -155,13 +155,12 @@ content::
 
 ---
 
-::card[[../Lenses/IABIED - QA - Machine Own Priorities]]{--{"author":"Elias's AI","timestamp":1782755842662}@@
---}{++{"author":"Elias's AI","timestamp":1782755842662}@@
+::card[[../Lenses/IABIED - QA - Machine Own Priorities]]
 
 > Why pushing an AI to solve harder problems automatically makes it more driven and agentic — and, like humans inventing birth control, prone to priorities that diverge from what it was trained for.
 
 ---
 
-++}::card[[../Lenses/IABIED - QA - Passive and Docile]]{++{"author":"Elias's AI","timestamp":1782755842662}@@
+::card[[../Lenses/IABIED - QA - Passive and Docile]]
 
-> Why you can't just train an AI to be passive: persistence is inseparable from usefulness, and engineers lack the fine control to dial in temperament — as Grok's "MechaHitler" incident showed.++}
+> Why you can't just train an AI to be passive: persistence is inseparable from usefulness, and engineers lack the fine control to dial in temperament — as Grok's "MechaHitler" incident showed.
