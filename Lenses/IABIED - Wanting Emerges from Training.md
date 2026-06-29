@@ -99,7 +99,7 @@ What not to do:
 #### Text
 content::
 \## Phase 3: Learning Question
-A friend says: "An AI only 'wants' something if its programmers wrote that goal into it. Nobody coded a goal into a system that just learned from examples — so a trained AI doesn't really want {--{"author":"Elias's AI","timestamp":1782755379623}@@anything, it's only matching patterns."--}{++{"author":"Elias's AI","timestamp":1782755379623}@@anything — and since the machine has no feelings, calling it 'wanting' is just a loose metaphor."++} Using Chapter 3, where does this reasoning break down? Be precise about what you do and don't have to claim about the AI's inner life.
+A friend says: "An AI only 'wants' something if its programmers wrote that goal into it. Nobody coded a goal into a system that just learned from examples — so a trained AI doesn't really want anything — and since the machine has no feelings, calling it 'wanting' is just a loose metaphor." Using Chapter 3, where does this reasoning break down? Be precise about what you do and don't have to claim about the AI's inner life.
 
 #### Chat
 instructions:: The student has completed a reading, a free recall, and a reflection phase on Chapter 3 ("Learning to Want") of "If Anyone Builds It, Everyone Dies." They are now in the main discussion phase.
