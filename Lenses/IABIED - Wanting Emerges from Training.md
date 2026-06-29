@@ -157,7 +157,7 @@ content::
 
 ::card[[../Lenses/IABIED - QA - Machine Own Priorities]]
 
-> If your gut still says "but it only does what we trained it to do," read this. It's the most direct answer to how an AI ends up with priorities of its own — built around the case of: evolution "trained" us to reproduce, and we invented birth control.
+> If your gut still says "but it only does what we trained it to do," read this. It's the most direct answer to how an AI ends up with priorities of its own.
 
 ---
 
