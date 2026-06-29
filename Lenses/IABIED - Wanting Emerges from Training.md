@@ -149,6 +149,20 @@ Safety and integrity:
 #### Text
 content::
 \## Additional resources for this topic
-::card[[../Lenses/IABIED - QA - The Road to Wanting]]
-::card[[../Lenses/IABIED - QA - Machine Own Priorities]]
-::card[[../Lenses/IABIED - QA - Passive and Docile]]
+::card[[../Lenses/IABIED - QA - The Road to Wanting]]{--{"author":"Elias's AI","timestamp":1782755842662}@@
+--}{++{"author":"Elias's AI","timestamp":1782755842662}@@
+
+> Traces want-like behavior up a spectrum — thermostat to wasp to beaver to human — and warns against two opposite errors: assuming AI will think like us (anthropomorphism) or like a rigid machine (mechanomorphism).
+
+---
+
+++}::card[[../Lenses/IABIED - QA - Machine Own Priorities]]{--{"author":"Elias's AI","timestamp":1782755842662}@@
+--}{++{"author":"Elias's AI","timestamp":1782755842662}@@
+
+> Why pushing an AI to solve harder problems automatically makes it more driven and agentic — and, like humans inventing birth control, prone to priorities that diverge from what it was trained for.
+
+---
+
+++}::card[[../Lenses/IABIED - QA - Passive and Docile]]{++{"author":"Elias's AI","timestamp":1782755842662}@@
+
+> Why you can't just train an AI to be passive: persistence is inseparable from usefulness, and engineers lack the fine control to dial in temperament — as Grok's "MechaHitler" incident showed.++}
