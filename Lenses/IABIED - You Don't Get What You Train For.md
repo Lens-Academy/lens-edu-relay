@@ -13,7 +13,7 @@ tags:
 #### Text
 content::
 \## Reading Assignment
-**Read *Chapter 4: You Don't Get What You Train For* in full.**
+**Read *Chapter 4: "You Don't Get What You Train For"* in full.**
 
 Return here after reading.
 
