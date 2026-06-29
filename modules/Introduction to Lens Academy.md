@@ -1,7 +1,7 @@
 ---
 id: 4830a21a-530f-4754-9205-93d490affb6b
-slug: taster
-title: Taster
+slug: intro-to-lens-academy
+title: Introduction to Lens Academy
 internal: true
 discussion:
 tags:
@@ -14,7 +14,7 @@ id:: 165778a5-70eb-4800-a29a-3d23160a691f
 content::
 Hi, and welcome to Lens Academy. 
 
-We offer several courses ranging from introductory to advanced. We've put together this taster module to get you a sense of how our courses work. Afterward, we'll help you figure out if any of our courses are the right fit for you.
+We offer several courses ranging from introductory to advanced. We've put together this introductory module to get you a sense of how our courses work. Afterward, we'll help you figure out if any of our courses are the right fit for you.
 
 We'll start with watching some short videos.
 # Lens: Job Loss
