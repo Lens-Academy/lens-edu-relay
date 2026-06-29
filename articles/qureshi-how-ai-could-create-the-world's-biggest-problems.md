@@ -11,19 +11,6 @@ tags:
   - "article-importer"
 ---
 
-Table of Contents
-
--   [1 How advanced AI could pose the world’s most pressing problems](#how-advanced-ai-could-pose-the-worlds-most-pressing-problems)
-    -   [1.1 1. AI could replace human labour in the most economically valuable fields](#1-ai-could-replace-human-labour-in-the-most-economically-valuable-fields)
-    -   [1.2 2. Replacing this much human labour could trigger the next radical transformation of society](#2-replacing-this-much-human-labour-could-trigger-the-next-radical-transformation-of-society)
-    -   [1.3 3. This transformation could be extremely rapid and dramatic](#3-this-transformation-could-be-extremely-rapid-and-dramatic)
-    -   [1.4 4. A rapid, AI-driven transformation would raise a range of major challenges, including existential risks](#4-a-rapid-ai-driven-transformation-would-raise-a-range-of-major-challenges-including-existential-risks)
-    -   [1.5 5. Work on these problems is tractable but neglected](#5-work-on-these-problems-is-tractable-but-neglected)
--   [2 Objections and replies](#objections-and-replies)
--   [3 What’s next?](#whats-next)
--   [4 Learn more](#learn-more)
--   [5 Acknowledgements](#acknowledgements)
-
 ## How advanced AI could pose the world’s most pressing problems
 
 For over a decade, we’ve looked into the biggest problems in the world and approaches to solving them. We think the cluster of challenges raised by advanced AI are the most pressing problems facing humanity today — given their scale, urgency, and the promising but neglected opportunities to address them.
