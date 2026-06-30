@@ -63,11 +63,11 @@ What not to do:
 - --}Introduce ideas not present in the reading.
 - {--{"author":"Elias's AI","timestamp":1782800044299}@@Invite further dialogue.
 
-This is a one-turn response. Do not ask--}{++{"author":"Elias's AI","timestamp":1782800044299}@@Ask the student++} a question or{--{"author":"Elias's AI","timestamp":1782800044299}@@ suggest the student reply. Tell them to move on to the next step.--}{++{"author":"Elias's AI","timestamp":1782800044299}@@ invite further dialogue.
+This is a one-turn response. Do not ask--}{++{"author":"Elias's AI","timestamp":1782800044299}@@Ask the student++} a question or{--{"author":"Elias's AI","timestamp":1782800371934}@@ suggest the student reply. Tell them to move on to the next step.
 
-max-chars:: 3000++}
+--}{++{"author":"Elias's AI","timestamp":1782800371934}@@ invite further dialogue.
 
-#### Text
+++}#### Text
 content::
 \## Phase 2: Processing
 Take 2 minutes to jot down how the reading landed. What resonated? What confused you? What did you doubt or push back on? No need to organize — just capture your reaction. Using the speech to text feature is recommended.
