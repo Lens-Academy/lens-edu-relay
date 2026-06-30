@@ -9,11 +9,12 @@ tags:
   - lens
   - IABIED
 ---
-#### Text
-content:: Before reading Chapter 3: Does your GPS "want" to get you to your destination? What about a chess AI, does it "want" to win? If you think there's a difference between having a goal and wanting something, what is it? Write down your intuition before reading.
+#### {--{"author":"Elias's AI","timestamp":1782844568452}@@Text--}{++{"author":"Elias's AI","timestamp":1782844568452}@@Question
+feedback:: true++}
+content:: Before reading Chapter 3: Does your GPS "want" to get you to your destination? What about a chess AI, does it "want" to win? If you think there's a difference between having a goal and wanting something, what is it? Write down your intuition before reading.{--{"author":"Elias's AI","timestamp":1782844568452}@@
 
-#### Chat
-instructions::
+#### Chat--}
+{--{"author":"Elias's AI","timestamp":1782844568452}@@instructions::--}{++{"author":"Elias's AI","timestamp":1782844568452}@@assessment-instructions::++}
 The student is about to read Chapter 3 ("Learning to Want") of "If Anyone Builds It, Everyone Dies."
 
 They just answered: "Is there a difference between having a goal and wanting something?"
