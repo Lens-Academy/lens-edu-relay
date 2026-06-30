@@ -9,12 +9,11 @@ tags:
   - lens
   - IABIED
 ---
-#### {--{"author":"Elias's AI","timestamp":1782845952911}@@Question
-feedback:: true--}{++{"author":"Elias's AI","timestamp":1782845952911}@@Text++}
-content:: Before reading Chapter 4: If you trained an AI by rewarding it every time it produced a helpful response, how confident are you that the AI would end up genuinely wanting to be helpful? Could an AI learn to produce helpful-looking outputs without actually wanting to help — and if so, would that matter? Write down your intuition before reading.{++{"author":"Elias's AI","timestamp":1782845952911}@@
+#### Text
+content:: Before reading Chapter 4: If you trained an AI by rewarding it every time it produced a helpful response, how confident are you that the AI would end up genuinely wanting to be helpful? Could an AI learn to produce helpful-looking outputs without actually wanting to help — and if so, would that matter? Write down your intuition before reading.
 
-#### Chat++}
-{--{"author":"Elias's AI","timestamp":1782845952911}@@assessment-instructions::--}{++{"author":"Elias's AI","timestamp":1782845952911}@@instructions::++}
+#### Chat
+instructions::
 The student is about to read Chapter 4 ("You Don't Get What You Train For") of "If Anyone Builds It, Everyone Dies."
 
 They just answered: "Could an AI learn to produce helpful-looking outputs without actually wanting to help?"
