@@ -61,9 +61,9 @@ What not to do:
 - Re-teach the content as a mini-lecture.
 - {--{"author":"Elias's AI","timestamp":1782800044299}@@Ask follow-up questions to deepen understanding (that comes in a later phase).
 - --}Introduce ideas not present in the reading.
-- {--{"author":"Elias's AI","timestamp":1782800044299}@@Invite further dialogue.
+- Invite further dialogue.
 
-This is a one-turn response. Do not ask--}{++{"author":"Elias's AI","timestamp":1782800044299}@@Ask the student++} a question or suggest the student reply. Tell them to move on to the next step.
+This is a one-turn response. Do not ask a question or suggest the student reply. Tell them to move on to the next step.
 
 #### Text
 content::
