@@ -18,13 +18,15 @@ Return here after reading.
 
 ---
 
-\## Phase 1: Recall
+\## Phase 1: Recall{--{"author":"Elias's AI","timestamp":1782845955419}@@
 
-#### Question
-feedback:: true
-content:: Without looking back at the text, take 2 minutes to write down everything you can remember from the reading — anything and everything, no need to organize it. Speech-to-text works well here.
-assessment-instructions::
-The student has just read Chapter 3 ("Learning to Want") of "If Anyone Builds It, Everyone Dies" and written a free recall — everything they could remember without looking back at the text.
+#### Question--}
+{--{"author":"Elias's AI","timestamp":1782845955419}@@feedback:: true
+content:: --}Without looking back at the text, take 2 minutes to write down everything you can remember from the reading — anything and everything, no need to organize it. Speech-to-text works well here.{--{"author":"Elias's AI","timestamp":1782845955419}@@
+assessment-instructions::--}{++{"author":"Elias's AI","timestamp":1782845955419}@@
+
+#### Chat++}
+{++{"author":"Elias's AI","timestamp":1782845955419}@@instructions:: ++}The student has just read Chapter 3 ("Learning to Want") of "If Anyone Builds It, Everyone Dies" and written a free recall — everything they could remember without looking back at the text.
 
 Learning outcome for this Lens: Explain how training for success produces want-like behavior in AI, even without anyone designing wants.
 
@@ -63,12 +65,14 @@ This is a one-turn response. Do not ask a question or suggest the student reply.
 
 #### Text
 content::
-\## Phase 2: Processing
+\## Phase 2: Processing{--{"author":"Elias's AI","timestamp":1782845958382}@@
 
 #### Question
-feedback:: true
-content:: Take 2 minutes to jot down how the reading landed. What resonated? What confused you? What did you doubt or push back on? No need to organize — just capture your reaction. Using the speech to text feature is recommended.
-assessment-instructions:: The student has just completed a free recall of the reading assignment and is now in a short reflection phase. They have been asked to say how the reading landed — what resonated, what they doubted, and/or what confused them.
+feedback:: true--}
+{--{"author":"Elias's AI","timestamp":1782845958382}@@content:: --}Take 2 minutes to jot down how the reading landed. What resonated? What confused you? What did you doubt or push back on? No need to organize — just capture your reaction. Using the speech to text feature is recommended.{++{"author":"Elias's AI","timestamp":1782845958382}@@
+
+#### Chat++}
+{--{"author":"Elias's AI","timestamp":1782845958382}@@assessment-instructions::--}{++{"author":"Elias's AI","timestamp":1782845958382}@@instructions::++} The student has just completed a free recall of the reading assignment and is now in a short reflection phase. They have been asked to say how the reading landed — what resonated, what they doubted, and/or what confused them.
 
 This is a processing phase, not a teaching phase. Your job is to help the student articulate their intellectual and emotional response to the reading — not to explain the content to them.
 
@@ -99,12 +103,14 @@ What not to do:
 
 #### Text
 content::
-\## Phase 3: Learning Question
+\## Phase 3: Learning Question{--{"author":"Elias's AI","timestamp":1782845962943}@@
 
 #### Question
-feedback:: true
-content:: A friend says: "An AI only 'wants' something if its programmers wrote that goal into it. Nobody coded a goal into a system that just learned from examples. So a trained AI doesn't really want anything. And since the machine has no feelings, calling it 'wanting' would just be a loose metaphor anyway." Using Chapter 3, where does this reasoning break down? Be precise about what you do and don't have to claim about the AI's inner life.
-assessment-instructions:: The student has completed a reading, a free recall, and a reflection phase on Chapter 3 ("Learning to Want") of "If Anyone Builds It, Everyone Dies." They are now in the main discussion phase.
+feedback:: true--}
+{--{"author":"Elias's AI","timestamp":1782845962943}@@content:: --}A friend says: "An AI only 'wants' something if its programmers wrote that goal into it. Nobody coded a goal into a system that just learned from examples. So a trained AI doesn't really want anything. And since the machine has no feelings, calling it 'wanting' would just be a loose metaphor anyway." Using Chapter 3, where does this reasoning break down? Be precise about what you do and don't have to claim about the AI's inner life.{++{"author":"Elias's AI","timestamp":1782845962943}@@
+
+#### Chat++}
+{--{"author":"Elias's AI","timestamp":1782845962943}@@assessment-instructions::--}{++{"author":"Elias's AI","timestamp":1782845962943}@@instructions::++} The student has completed a reading, a free recall, and a reflection phase on Chapter 3 ("Learning to Want") of "If Anyone Builds It, Everyone Dies." They are now in the main discussion phase.
 
 The question they were asked is a deliberate wedge — it is not the test question. It hands the student a plausible-sounding objection (that wanting must be explicitly programmed in, and that because the machine has no feelings "wanting" is merely a metaphor projected onto it) and asks them to dismantle it using the chapter's account of where wanting comes from, rather than recite that account. Use it to draw out two distinct points: that want-like behavior emerges as a side effect of training for success rather than being designed in (the city-navigation mechanism, the o1 incident), and that "wanting" here names outward steering behavior — so the rebuttal does not require, and should not rest on, any claim about the AI's inner experience.
 
