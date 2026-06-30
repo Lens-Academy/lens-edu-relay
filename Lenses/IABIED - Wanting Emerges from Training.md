@@ -30,7 +30,7 @@ content:: Without looking back at the text, take ++}2 minutes {--{"author":"Elia
 
 Learning outcome for this Lens: Explain how training for success produces want-like behavior in AI, even without anyone designing wants.
 
-Key {--{"author":"Elias's AI","timestamp":1782800044299}@@concepts:--}{++{"author":"Elias's AI","timestamp":1782800044299}@@concepts a complete recall would touch:++}
+Key concepts:
 - Behavioral definition of "want": outward steering-toward behavior, with no claim about feelings or inner experience (the Stockfish / Professor's-machine framing)
 - Wanting as an effective strategy for doing: natural selection didn't select for wanting, it selected for success and got creatures full of preferences as a side effect
 - The city-navigation example: training across many cities pushes the AI from memorizing routes toward separable, transferable skills — building a map (prediction) and charting a course through it (steering)
