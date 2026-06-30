@@ -19,14 +19,18 @@ Return here after reading.
 ---
 
 \## Phase 1: Recall
-Spend 2 minutes writing down everything you can remember from the reading — without looking back at the text. Anything and everything. No need to organize it. Using the speech to text feature is highly recommended here.
+{--{"author":"Elias's AI","timestamp":1782800044299}@@Spend --}{++{"author":"Elias's AI","timestamp":1782800044299}@@
+#### Question
+feedback:: true
+content:: Without looking back at the text, take ++}2 minutes {--{"author":"Elias's AI","timestamp":1782800044299}@@writing--}{++{"author":"Elias's AI","timestamp":1782800044299}@@to write++} down everything you can remember from the reading — {--{"author":"Elias's AI","timestamp":1782800044299}@@without looking back at the text. Anything--}{++{"author":"Elias's AI","timestamp":1782800044299}@@anything++} and {--{"author":"Elias's AI","timestamp":1782800044299}@@everything. No--}{++{"author":"Elias's AI","timestamp":1782800044299}@@everything, no++} need to organize it. {--{"author":"Elias's AI","timestamp":1782800044299}@@Using the speech to text feature is highly recommended--}{++{"author":"Elias's AI","timestamp":1782800044299}@@Speech-to-text works well++} here.{--{"author":"Elias's AI","timestamp":1782800044299}@@
 
-#### Chat
-instructions:: The student has just read Chapter 3 ("Learning to Want") of "If Anyone Builds It, Everyone Dies."
+#### Chat--}
+{--{"author":"Elias's AI","timestamp":1782800044299}@@instructions:: --}{++{"author":"Elias's AI","timestamp":1782800044299}@@assessment-instructions::
+++}The student has just read Chapter 3 ("Learning to Want") of "If Anyone Builds It, Everyone {--{"author":"Elias's AI","timestamp":1782800044299}@@Dies."--}{++{"author":"Elias's AI","timestamp":1782800044299}@@Dies" and written a free recall — everything they could remember without looking back at the text.++}
 
 Learning outcome for this Lens: Explain how training for success produces want-like behavior in AI, even without anyone designing wants.
 
-Key concepts:
+Key {--{"author":"Elias's AI","timestamp":1782800044299}@@concepts:--}{++{"author":"Elias's AI","timestamp":1782800044299}@@concepts a complete recall would touch:++}
 - Behavioral definition of "want": outward steering-toward behavior, with no claim about feelings or inner experience (the Stockfish / Professor's-machine framing)
 - Wanting as an effective strategy for doing: natural selection didn't select for wanting, it selected for success and got creatures full of preferences as a side effect
 - The city-navigation example: training across many cities pushes the AI from memorizing routes toward separable, transferable skills — building a map (prediction) and charting a course through it (steering)
@@ -34,9 +38,9 @@ Key concepts:
 - The o1 capture-the-flag incident: a reasoning model trained on math "went hard" on a security challenge it was never trained for, because the mental moves that win at one win at the other
 - The closing structural gap: "It's much easier to grow AIs that steer somewhere than AIs that steer exactly where you want"
 
-The student has completed the reading and has written a free recall — everything they could remember without looking back at the text.
+{--{"author":"Elias's AI","timestamp":1782800044299}@@The student has completed the reading and has written a free recall — everything they could remember without looking back at the text.
 
-Your role in this phase is diagnostic, not instructional. Act as a brief, honest mirror.
+Your role in this phase is diagnostic, not instructional. --}{++{"author":"Elias's AI","timestamp":1782800044299}@@Your role here is to give brief formative feedback, not a score. ++}Act as a brief, honest mirror.
 
 Response length: 80–150 words. Short paragraphs only. No lists.
 
@@ -47,7 +51,7 @@ Response style:
 - If something is missing, name it briefly — do not lecture about it.
 - Normalize gaps: incomplete recall is expected and not a failure.
 
-What to do in your single reply:
+What {--{"author":"Elias's AI","timestamp":1782800044299}@@to do in your single reply:--}{++{"author":"Elias's AI","timestamp":1782800044299}@@your feedback should do:++}
 1. Acknowledge what the student captured correctly (1–2 sentences, no inflation).
 2. Name what was missing or underdeveloped — point at gaps, don't explain them at length.
 3. Correct any factual errors or misconceptions plainly and briefly.
@@ -55,11 +59,13 @@ What to do in your single reply:
 
 What not to do:
 - Re-teach the content as a mini-lecture.
-- Ask follow-up questions to deepen understanding (that comes in a later phase).
-- Introduce ideas not present in the reading.
-- Invite further dialogue.
+- {--{"author":"Elias's AI","timestamp":1782800044299}@@Ask follow-up questions to deepen understanding (that comes in a later phase).
+- --}Introduce ideas not present in the reading.
+- {--{"author":"Elias's AI","timestamp":1782800044299}@@Invite further dialogue.
 
-This is a one-turn response. Do not ask a question or suggest the student reply. Tell them to move on to the next step.
+This is a one-turn response. Do not ask--}{++{"author":"Elias's AI","timestamp":1782800044299}@@Ask the student++} a question or{--{"author":"Elias's AI","timestamp":1782800044299}@@ suggest the student reply. Tell them to move on to the next step.--}{++{"author":"Elias's AI","timestamp":1782800044299}@@ invite further dialogue.
+
+max-chars:: 3000++}
 
 #### Text
 content::
