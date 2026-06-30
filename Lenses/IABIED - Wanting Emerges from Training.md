@@ -19,14 +19,12 @@ Return here after reading.
 ---
 
 \## Phase 1: Recall
-{--{"author":"Elias's AI","timestamp":1782800044299}@@Spend --}{++{"author":"Elias's AI","timestamp":1782800044299}@@
+
 #### Question
 feedback:: true
-content:: Without looking back at the text, take ++}2 minutes {--{"author":"Elias's AI","timestamp":1782800044299}@@writing--}{++{"author":"Elias's AI","timestamp":1782800044299}@@to write++} down everything you can remember from the reading — {--{"author":"Elias's AI","timestamp":1782800044299}@@without looking back at the text. Anything--}{++{"author":"Elias's AI","timestamp":1782800044299}@@anything++} and {--{"author":"Elias's AI","timestamp":1782800044299}@@everything. No--}{++{"author":"Elias's AI","timestamp":1782800044299}@@everything, no++} need to organize it. {--{"author":"Elias's AI","timestamp":1782800044299}@@Using the speech to text feature is highly recommended--}{++{"author":"Elias's AI","timestamp":1782800044299}@@Speech-to-text works well++} here.{--{"author":"Elias's AI","timestamp":1782800044299}@@
-
-#### Chat--}
-{--{"author":"Elias's AI","timestamp":1782800044299}@@instructions:: --}{++{"author":"Elias's AI","timestamp":1782800044299}@@assessment-instructions::
-++}The student has just read Chapter 3 ("Learning to Want") of "If Anyone Builds It, Everyone Dies" and written a free recall — everything they could remember without looking back at the text.
+content:: Without looking back at the text, take 2 minutes to write down everything you can remember from the reading — anything and everything, no need to organize it. Speech-to-text works well here.
+assessment-instructions::
+The student has just read Chapter 3 ("Learning to Want") of "If Anyone Builds It, Everyone Dies" and written a free recall — everything they could remember without looking back at the text.
 
 Learning outcome for this Lens: Explain how training for success produces want-like behavior in AI, even without anyone designing wants.
 
@@ -153,7 +151,7 @@ content::
 \## Additional resources for this topic
 ::card[[../Lenses/IABIED - QA - The Road to Wanting]]
 
-> Still unsure where "wanting" actually begins? Does a thermostat want anything? This piece gives a sharper intuition for where today's AI {--{"author":"Elias's AI","timestamp":1782799680836}@@is at--}{++{"author":"Elias's AI","timestamp":1782799680836}@@stands++} (and why "it'll think like us" and "it's just a machine" are both traps).
+> Still unsure where "wanting" actually begins? Does a thermostat want anything? This piece gives a sharper intuition for where today's AI stands (and why "it'll think like us" and "it's just a machine" are both traps).
 
 ---
 
