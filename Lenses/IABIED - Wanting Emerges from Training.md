@@ -59,8 +59,8 @@ What {--{"author":"Elias's AI","timestamp":1782800044299}@@to do in your single 
 
 What not to do:
 - Re-teach the content as a mini-lecture.
-- {--{"author":"Elias's AI","timestamp":1782800044299}@@Ask follow-up questions to deepen understanding (that comes in a later phase).
-- --}Introduce ideas not present in the reading.
+- Ask follow-up questions to deepen understanding (that comes in a later phase).
+- Introduce ideas not present in the reading.
 - Invite further dialogue.
 
 This is a one-turn response. Do not ask a question or suggest the student reply. Tell them to move on to the next step.
