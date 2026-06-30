@@ -9,10 +9,12 @@ tags:
   - lens
   - IABIED
 ---
-#### Question
-feedback:: true
-content:: Before reading Chapter 3: Does your GPS "want" to get you to your destination? What about a chess AI, does it "want" to win? If you think there's a difference between having a goal and wanting something, what is it? Write down your intuition before reading.
-assessment-instructions::
+#### {--{"author":"Elias's AI","timestamp":1782845950138}@@Question
+feedback:: true--}{++{"author":"Elias's AI","timestamp":1782845950138}@@Text++}
+content:: Before reading Chapter 3: Does your GPS "want" to get you to your destination? What about a chess AI, does it "want" to win? If you think there's a difference between having a goal and wanting something, what is it? Write down your intuition before reading.{++{"author":"Elias's AI","timestamp":1782845950138}@@
+
+#### Chat++}
+{--{"author":"Elias's AI","timestamp":1782845950138}@@assessment-instructions::--}{++{"author":"Elias's AI","timestamp":1782845950138}@@instructions::++}
 The student is about to read Chapter 3 ("Learning to Want") of "If Anyone Builds It, Everyone Dies."
 
 Acknowledge their answer in 1–2 sentences. Do NOT explain the behavioral definition of wanting or how it emerges from training, they will encounter it in the reading. Close with: "Hold onto that intuition as you read. Head to Chapter 3 when you're ready and come back here after you've finished."
