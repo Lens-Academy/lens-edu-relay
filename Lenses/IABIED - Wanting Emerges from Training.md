@@ -151,7 +151,7 @@ content::
 \## Additional resources for this topic
 ::card[[../Lenses/IABIED - QA - The Road to Wanting]]
 
-> Still unsure where "wanting" actually begins? Does a thermostat want anything? This piece gives a sharper intuition for where today's AI is at (and why "it'll think like us" and "it's just a machine" are both traps).
+> Still unsure where "wanting" actually begins? Does a thermostat want anything? This piece gives a sharper intuition for where today's AI {--{"author":"Elias's AI","timestamp":1782799680836}@@is at--}{++{"author":"Elias's AI","timestamp":1782799680836}@@stands++} (and why "it'll think like us" and "it's just a machine" are both traps).
 
 ---
 
