@@ -38,8 +38,6 @@ Key concepts:
 - The o1 capture-the-flag incident: a reasoning model trained on math "went hard" on a security challenge it was never trained for, because the mental moves that win at one win at the other
 - The closing structural gap: "It's much easier to grow AIs that steer somewhere than AIs that steer exactly where you want"
 
-The student has completed the reading and has written a free recall — everything they could remember without looking back at the text.
-
 Your role here is to give brief formative feedback, not a score. Act as a brief, honest mirror.
 
 Response length: 80–150 words. Short paragraphs only. No lists.
