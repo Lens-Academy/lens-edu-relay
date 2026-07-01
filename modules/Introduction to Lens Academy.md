@@ -74,6 +74,10 @@ Before deciding whether you want to sign up for one of our courses, consider the
 source:: [[../video_transcripts/robertmiles-10-reasons-to-ignore-ai-safety]]
 from:: 0:00
 to:: 15:37
+
+#### Text
+content::
+Our courses are free, by the way. We're funded by people worried about the trajectory of AI, who think you should have a say about your own future.
 # Lens:
 optional:: true
 source:: [[../Lenses/Four Background Claims]]
