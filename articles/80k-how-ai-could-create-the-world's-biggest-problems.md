@@ -262,6 +262,7 @@ In other words, we think these issues have _[existential](https://80000hours.org
 
 And although we’re hopeful that [these issues are tractable](#5-work-on-these-problems-is-tractable-but-neglected), we can’t just assume our institutions will navigate them well _by default_. After all, this is confusing, unprecedented territory. And we’ve seen society stumble into disaster when facing new challenges we haven’t sufficiently planned for — just think about the slow institutional responses to early COVID-19 warnings, or the numerous [close calls](https://en.wikipedia.org/wiki/Nuclear_close_calls) we’ve seen with [nuclear weapons](https://80000hours.org/problem-profiles/nuclear-security/).
 
+
 #### Read more about specific AGI risks
 
 We’ve written a series of articles explaining the AI-related issues we think pose the greatest chance of existential catastrophe, why we need people working on them, and what you can do to help.
