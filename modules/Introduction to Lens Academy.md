@@ -94,9 +94,7 @@ id:: b2848dd4-5567-4dee-993a-fdb5f4fe2514
 content::
 The things we discuss at Lens Academy are part of "AI Safety". That's the field that works on preventing the risks from advanced AI.
 
-
-The field of AI Safety works 
-Before deciding whether you want to sign up for one of our courses, consider these ten reason why you shouldn't care about AI Safety (AI Safety is the field that works on preventing the risks from advanced AI):
+Before deciding whether you want to sign up for one of our courses, consider these ten reason why you shouldn't care about AI Safety.
 
 #### Video
 source:: [[../video_transcripts/robertmiles-10-reasons-to-ignore-ai-safety]]
