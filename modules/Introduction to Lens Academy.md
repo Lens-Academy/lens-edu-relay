@@ -21,47 +21,12 @@ There are various risks around AI. Here's why some of the smartest people alive 
 source:: [[../video_transcripts/controlai-why-experts-fear-superintelligent-ai-and-what-we-can-do-about-it]]
 to:: 2:09
 
-# Lens:
-source:: [[../Lenses/80-000 ai risk intro video and text]]
-
-%%
-# Lens: Job Loss
-id:: 25812ebe-e065-4d1c-86b5-5684efc97a53
-
-#### Text
-content::
-A lot of people are talking about whether AI is coming for our jobs. Is this going to happen, or is this just marketing hype?
-
-Watch this video:
-#### Video
-source:: [[../video_transcripts/the-diary-of-a-ceo-your-job-will-be-gone-in-5-years]]
-to:: 1:13
-
-#### Text
-content::
-In our courses, we teach you everything you need to know about how AI works, to figure out what's going to happen with your job, and when.
-
-
-# Lens: Deepfakes
-id:: 30428a22-3e45-46cb-b952-6401017f760f
-#### Text
-content::
-By the way, we're a nonprofit. We don't have anything to sell you. We're here to help.
-
-You know what's not here to help?
-
-Deep fakes.
-
-Watch this video:
-#### Video
-source:: [[../video_transcripts/rational-animations-how-a-deepfake-may-have-undermined-an-election]]
-to:: 1:50
-
 #### Text
 content::
 Our courses are free, by the way. We're funded by people worried about the trajectory of AI, who think you should have a say about your own future.
+# Lens:
+source:: [[../Lenses/80-000 ai risk intro video and text]]
 
-%%
 # Lens: How our Courses Work
 id:: 047b8740-7a31-495e-919c-269a56d0522d
 #### Text
@@ -87,7 +52,6 @@ to:: 3:46
 content::
 This video was created in 2018. It's still highly relevant today. One thing has dramatically changed, though: while the video said superintelligence is still decades away, recent AI progress has had experts change their estimates. Many now think superintelligence is just years away. Yikes.
 
-
 #### Text
 content::
 You might be starting to think Lens Academy will only show ever you shallow short-form videos. That's not the case.
@@ -104,7 +68,7 @@ id:: b2848dd4-5567-4dee-993a-fdb5f4fe2514
 
 #### Text
 content::
-Before deciding whether you want to sign up for one of our courses, consider these ten reason why you shouldn't care about AI Safety (the field that works on preventing the risks from advanced AI):
+Before deciding whether you want to sign up for one of our courses, consider these ten reason why you shouldn't care about AI Safety (AI Safety is the field that works on preventing the risks from advanced AI):
 
 #### Video
 source:: [[../video_transcripts/robertmiles-10-reasons-to-ignore-ai-safety]]
