@@ -75,7 +75,7 @@ This video was created in 2018. It's still highly relevant today. One thing has 
 
 #### Text
 content::
-You might be starting to think Lens Academy will only show ever you shallow short-form videos. That's not the case.
+You might be starting to think Lens Academy will only show ever you shallow videos. That's not the case.
 
 We've handpicked some easy material to get started, but we'll allow you to go as deep as you want.
 
