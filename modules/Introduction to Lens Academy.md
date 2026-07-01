@@ -20,7 +20,7 @@ We offer several courses ranging from introductory to advanced. We've put togeth
 id:: 91732a16-51b3-4d9c-8c67-b7f4db56afe9
 
 #### Text
-content
+content::
 There are various risks around AI. Here's why some of the smartest people alive are worried about superintelligence:
 #### Video
 source:: [[../video_transcripts/controlai-why-experts-fear-superintelligent-ai-and-what-we-can-do-about-it]]
@@ -37,6 +37,7 @@ That previous video was very short. This next video is a broader and slightly de
 
 #### Video
 source:: [[../video_transcripts/80-000-hours-could-ai-wipe-out-humanity-most-pressing-problems]]
+to:: 9:
 
 #### Text
 content::
