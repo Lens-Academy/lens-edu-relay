@@ -27,7 +27,6 @@ Our courses are free, by the way. We're funded by people worried about the traje
 # Lens:
 source:: [[../Lenses/80-000 ai risk intro video]]
 
-
 # Lens:
 source:: [[../Lenses/80k-how-ai-could-create-the-worlds-biggest-problems]]
 optional:: true
