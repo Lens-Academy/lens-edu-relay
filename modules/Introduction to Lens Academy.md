@@ -27,6 +27,9 @@ Our courses are free, by the way. We're funded by people worried about the traje
 # Lens:
 source:: [[../Lenses/80-000 ai risk intro video and text]]
 
+# Lens:
+soucre::
+
 # Lens: How our Courses Work
 id:: 047b8740-7a31-495e-919c-269a56d0522d
 #### Text
