@@ -16,3 +16,4 @@ And here's a much more in-depth article that you can optionally read:
 
 #### Article
 source:: [[../articles/80k-how-ai-could-create-the-world's-biggest-problems]]
+to:: on the major challenges that might otherwise be ignored.
