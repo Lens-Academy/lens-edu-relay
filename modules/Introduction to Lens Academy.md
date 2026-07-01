@@ -29,8 +29,8 @@ Our courses are free, by the way. We're funded by people worried about the traje
 content::
 That previous video was very short. This next video is a broader and slightly deeper introduction. If you don't like watching videos, you can click the scroll icon (📜) on the right to read the transcript instead.
 
-#### Lens
-source:: [[../video_transcripts/80-000-hours-could-ai-wipe-out-humanity-most-pressing-problems]]
+#### Lens-source
+source:: [[../Lenses/80-000 ai risk intro video]]
 
 #### Text
 content::
