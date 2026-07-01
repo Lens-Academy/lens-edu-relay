@@ -75,13 +75,15 @@ This video was created in 2018. It's still highly relevant today. One thing has 
 
 #### Text
 content::
-You might be starting to think Lens Academy will only show ever you shallow videos. That's not the case.
+You might be starting to think Lens Academy will only show ever you shallow videos. 
+
+That's not the case.
 
 We've handpicked some easy material to get started, but we'll allow you to go as deep as you want.
 
 We've got lectures, long-reads, and exercises for you, too.
 
-And if you want help understanding a complicated research paper, we've got you covered. That's optional, thoughUnless you want to become a researcher, that's optional, though.
+And if you want help understanding a complicated research paper, we've got you covered. Unless you want to become a researcher, that's optional, though.
 
 We will help you figure out your path and teach you what you need to know.
 # Lens:
