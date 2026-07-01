@@ -37,7 +37,7 @@ That previous video was very short. This next video is a broader and slightly de
 
 #### Video
 source:: [[../video_transcripts/80-000-hours-could-ai-wipe-out-humanity-most-pressing-problems]]
-to:: 9:
+to:: 9:41
 
 #### Text
 content::
