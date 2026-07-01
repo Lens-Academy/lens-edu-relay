@@ -113,7 +113,7 @@ Current AI systems can also:
 -   **Improve robotics**: Many leading robotics models are now AI-driven. For example, Boston Dynamics is [enhancing its Atlas robots with Google DeepMind AI](https://www.wired.com/story/google-boston-dynamics-gemini-powered-robot-atlas/) to help them better understand and manipulate their environments. These robots will [be deployed for industrial work at Hyundai factories](https://bostondynamics.com/blog/boston-dynamics-unveils-new-atlas-robot-to-revolutionize-industry/).
 -   **Carry out extended tasks independently on your computer**: Unlike earlier models that could only generate text, new ‘agentic’ AIs like [Claude Code](https://claude.com/product/claude-code) and [OpenAI’s Codex](https://openai.com/index/introducing-gpt-5-2-codex) can now use many tools on your computer, execute code, search the web, and chain together multiple steps — allowing them to complete extended, real-world tasks with far less human involvement.
 -   **Help with AI development itself**: There’s also evidence that [AI systems can outperform humans in AI R&D tasks](https://metr.org/AI_R_D_Evaluation_Report.pdf), at least when limited to a two-hour time window.
--   Do much more.[5](#fn-5 "<p>This is just a selection of examples we find especially compelling, but there's plenty more that AI systems can do.</p>
+-   Do much more.{--{"author":"Luc's AI","timestamp":1782875088859}@@[5](#fn-5 "<p>This is just a selection of examples we find especially compelling, but there's plenty more that AI systems can do.</p>
     <ul>
     <li>
     <p><a href=\"https://openai.com/sora/\">Sora</a> and <a href=\"https://deepmind.google/technologies/veo/veo-2/\">Veo</a> can produce impressive videos based on text prompts.</p>
@@ -140,7 +140,7 @@ Current AI systems can also:
     <p>In tests run by the US Air Force, <a href=\"https://www.nellis.af.mil/News/Article/4370792/human-machine-teaming-in-battle-management-a-collaborative-effort-across-borders/\">AI systems generate valid military strategies up to 90% faster than traditional methods would</a>.</p>
     </li>
     </ul>
-    ")
+    ")--}{++{"author":"Luc's AI","timestamp":1782875088859}@@[^5]++}
 
 There are still plenty of things AI systems can’t reliably do — especially most work that takes days or longer to complete — but the list of things these systems can’t do is diminishing, and [the pace of AI progress has been impressive](https://80000hours.org/ai/guide/when-will-agi-arrive/#i-whats-driven-recent-ai-progress-and-will-it-continue).
 
