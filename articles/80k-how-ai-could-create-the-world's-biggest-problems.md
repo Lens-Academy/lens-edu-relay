@@ -276,9 +276,8 @@ We’ve written a series of articles explaining the AI-related issues we think p
 -   [![Decorative post preview](https://80000hours.org/wp-content/uploads/2025/03/%D7%A2%D7%A5_%D7%A2%D7%9C_%D7%90%D7%99_%D7%9E%D7%9C%D7%97_%D7%91%D7%90%D7%9E%D7%A6%D7%A2_%D7%99%D7%9D_%D7%94%D7%9E%D7%9C%D7%97-720x448.jpg)](https://80000hours.org/problem-profiles/gradual-disempowerment/)
     
 -   [![Decorative post preview](https://80000hours.org/wp-content/uploads/2025/06/1203081_07-720x448.jpg)](https://80000hours.org/problem-profiles/catastrophic-ai-misuse/)
-    
--   [![Decorative post preview](https://80000hours.org/wp-content/uploads/2020/04/cdc-hGCng7YZLLs-unsplash-1-720x448.jpg)](https://80000hours.org/problem-profiles/preventing-catastrophic-pandemics/)
 
+-   [![Decorative post preview](https://80000hours.org/wp-content/uploads/2020/04/cdc-hGCng7YZLLs-unsplash-1-720x448.jpg)](https://80000hours.org/problem-profiles/preventing-catastrophic-pandemics/)
 :::
 
 #### The speed of this transition could matter a lot
