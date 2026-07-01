@@ -256,9 +256,8 @@ Given the uncertainty around how AI development will unfold, it’s hard to pred
 
 How we navigate these dynamics could determine whether the future goes well or badly.
 
-:::collapse
+
 If we handle things wisely, we could create a flourishing future with unprecedented prosperity for all sentient beings, and could even spread to the stars. But if we lose control of advanced AI, or if bad actors use it to undermine the rest of the world’s interests, we could face a catastrophe — like humans permanently losing our ability to shape the future, or going extinct.
-:::
 
 In other words, we think these issues have _[existential](https://80000hours.org/articles/existential-risks/) stakes_, making them among the most pressing problems in the world.
 
