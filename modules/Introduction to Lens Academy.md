@@ -92,7 +92,7 @@ id:: b2848dd4-5567-4dee-993a-fdb5f4fe2514
 
 #### Text
 content::
-Lens Academy works on "AI Safety". That's the field that works on preventing the risks from advanced AI.
+The things we discuss at Lens Academy are part of "AI Safety". That's the field that works on preventing the risks from advanced AI.
 
 
 The field of AI Safety works 
