@@ -93,9 +93,7 @@ to:: 15:37
 #### Text
 content::
 Our courses are free, by the way. We're funded by people worried about the trajectory of AI, who think you should have a say about your own future.
-# Lens:
-optional:: true
-source:: [[../Lenses/Four Background Claims]]
+
 
 # Lens:
 optional:: true
