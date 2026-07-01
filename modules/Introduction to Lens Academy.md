@@ -17,6 +17,10 @@ Hi, and welcome to Lens Academy.
 We offer several courses ranging from introductory to advanced. We've put together this introductory module to get you a sense of how our courses work. Afterward, we'll help you figure out if any of our courses are the right fit for you.
 
 # Lens: Risks around Superintelligence
+id:: 91732a16-51b3-4d9c-8c67-b7f4db56afe9
+
+#### Text
+content
 There are various risks around AI. Here's why some of the smartest people alive are worried about superintelligence:
 #### Video
 source:: [[../video_transcripts/controlai-why-experts-fear-superintelligent-ai-and-what-we-can-do-about-it]]
