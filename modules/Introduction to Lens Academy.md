@@ -25,7 +25,7 @@ to:: 2:09
 content::
 Our courses are free, by the way. We're funded by people worried about the trajectory of AI, who think you should have a say about your own future.
 # Lens:
-source:: [[../Lenses/80-000 ai risk intro video and text]]
+source:: [[../Lenses/80-000 ai risk intro video]]
 
 # Lens:
 source:: [[../Lenses/80k-how-ai-could-create-the-worlds-biggest-problems]]

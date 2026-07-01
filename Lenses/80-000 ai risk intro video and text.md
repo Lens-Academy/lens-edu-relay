@@ -14,4 +14,4 @@ source:: [[../video_transcripts/80-000-hours-could-ai-wipe-out-humanity-most-pre
 content::
 By the way, we're a nonprofit. We don't have anything to sell you. We're here to help.
 
-Oh, and the long article accompanying the video is available on the
+Oh, and the long article accompanying the video is available on the next page as an optional section.
