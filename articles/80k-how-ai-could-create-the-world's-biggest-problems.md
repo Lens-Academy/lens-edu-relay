@@ -237,7 +237,7 @@ So what could happen as AIs automate more and more of the economy?
 
 At the very least, we expect to see the total amount of labour quickly increase — since, unlike humans, AI systems **can be easily copied at scale**, given enough hardware.
 
-Let’s say we build an AI that could replace a human engineer. Estimates suggest huge uncertainty here, but running anywhere between thousands and [hundreds of millions](https://80000hours.org/podcast/episodes/tom-davidson-how-quickly-ai-could-transform-the-world/#the-interview-begins-000453) of copies of this AI at once may be feasible, depending on the circumstances.[13](#fn-13 "<p>This is an enormous range. We've seen lots of different estimates in different contexts, and there's a lot of uncertainty:</p>
+Let’s say we build an AI that could replace a human engineer. Estimates suggest huge uncertainty here, but running anywhere between thousands and [hundreds of millions](https://80000hours.org/podcast/episodes/tom-davidson-how-quickly-ai-could-transform-the-world/#the-interview-begins-000453) of copies of this AI at once may be feasible, depending on the circumstances.{--{"author":"Luc's AI","timestamp":1782875123205}@@[13](#fn-13 "<p>This is an enormous range. We've seen lots of different estimates in different contexts, and there's a lot of uncertainty:</p>
 <ul>
 <li>The authors of <a href=\"https://ai-2027.com/\">AI 2027</a> predict that when we get the first <em>unreliable</em> AI coding agent, we might just deploy a few thousand copies — but when we get 'Agent-3,' the first <em>superhuman</em> AI coding agent, we'll deploy hundreds of thousands of copies of it.</p>
 </li>
@@ -255,7 +255,7 @@ Let’s say we build an AI that could replace a human engineer. Estimates sugges
 <p>There's also serious uncertainty over how many copies we'll be <em>able</em> to deploy. That's because we don't know how much compute will be needed to run each future AI worker effectively. And the more run-time compute they each require, <a href=\"https://www.forethought.org/research/inference-scaling-reshapes-ai-governance#reducing-the-number-of-simultaneously-served-copies-of-each-new-model\">the fewer copies we can run</a> with the resources available at the time.</p>
 <p>But even if we can only run a comparatively modest number of AI workers at first, that could still lead to a big increase in the overall productivity of our economy. As we explain next, we might be able to rapidly scale up this AI workforce — and each of these AI workers could be significantly more productive than their human counterparts.</p>
 <p>We recommend <a href=\"https://ai-2027.com/\">AI 2027</a> for a detailed walkthrough of how we might quickly end up with a vast and very capable AI workforce, even if we start off by just deploying a few thousand AI workers. (Although we are sceptical that AI will develop transformative capabilities <em>as fast</em> as the authors of AI 2027 suggest, we think their analysis is well worth reading.)</p>
-")
+")--}{++{"author":"Luc's AI","timestamp":1782875123205}@@[^13]++}
 
 And this number could grow fast. With efficiency improvements to the algorithms behind these AI workers, we’ll be able to run a greater number of copies with the same amount of compute.{--{"author":"Luc's AI","timestamp":1782875060929}@@[14](#fn-14 "<p>We're already seeing fast efficiency improvements to AI systems — as time passes, we can do far more with the same amount of compute.</p>
 <p>In 2024, <a href=\"https://epoch.ai/blog/algorithmic-progress-in-language-models\">researchers at Epoch</a> found that:</p>
@@ -287,7 +287,7 @@ Here’s how it could unfold:
 
 ![A cycle with 4 stages, titled "AI-driven intelligence explosion"; The stages are: faster progress in building better AI; more capable AI systems; better automation of AI R&D; AI automates R&D.](https://80000hours.org/wp-content/uploads/2026/02/AI-cycle-diagram-FINAL-1024x932.png)
 
-If this happens, it could create a positive feedback loop in which AI systems get better and better — possibly over a very short period of time.[16](#fn-16 "<p>Some researchers distinguish between multiple types of feedback loop in which AI systems help us build better and better AIs.  For example, Forethought's article on \"Three Types of Intelligence Explosion\" highlights the following types:</p>
+If this happens, it could create a positive feedback loop in which AI systems get better and better — possibly over a very short period of time.{--{"author":"Luc's AI","timestamp":1782875131654}@@[16](#fn-16 "<p>Some researchers distinguish between multiple types of feedback loop in which AI systems help us build better and better AIs.  For example, Forethought's article on \"Three Types of Intelligence Explosion\" highlights the following types:</p>
 <p>[quote]<br />
 * A software feedback loop, where AI develops better software. Software includes AI training algorithms, post-training enhancements, ways to leverage runtime compute (like o3), synthetic data, and any other non-compute improvements.<br />
 * A chip technology feedback loop, where AI designs better computer chips. Chip technology includes all the cognitive research and design work done by NVIDIA, TSMC, ASML, and other semiconductor companies.<br />
@@ -295,7 +295,7 @@ If this happens, it could create a positive feedback loop in which AI systems ge
 [/quote]</p>
 <p>These types of intelligence explosion all follow the same rough structure we've described in the text. And we think all three could happen and contribute to the development of better AI systems — though they will probably do so to different extents and at different speeds.</p>
 <p>See <a href=\"https://web.archive.org/web/20260218092313/https://www.forethought.org/research/three-types-of-intelligence-explosion\">Forethought's article</a> for a much more detailed analysis here.</p>
-")
+")--}{++{"author":"Luc's AI","timestamp":1782875131654}@@[^16]++}
 
 And this wouldn’t just mean building AI systems that are better and better _at AI R&D_. It would mean speeding up improvements to AI capabilities more broadly, giving us increasingly capable and general AI workers to deploy _across the wider economy_ — which, in turn, could accelerate progress in most areas of society.
 
