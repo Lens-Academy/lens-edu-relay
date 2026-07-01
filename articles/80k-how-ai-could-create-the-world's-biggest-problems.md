@@ -279,7 +279,6 @@ We’ve written a series of articles explaining the AI-related issues we think p
 
 -   [![Decorative post preview](https://80000hours.org/wp-content/uploads/2020/04/cdc-hGCng7YZLLs-unsplash-1-720x448.jpg)](https://80000hours.org/problem-profiles/preventing-catastrophic-pandemics/)
 :::
-
 #### The speed of this transition could matter a lot
 
 There are two ways speed can matter critically to this transition:
