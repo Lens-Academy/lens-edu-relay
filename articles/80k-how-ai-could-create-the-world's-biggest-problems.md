@@ -319,10 +319,10 @@ We’re not sure we’ll actually see an explosion in economic growth, since the
 How quickly could society be transformed, exactly? There will ultimately be some constraints on the trajectory of human progress. For example:
 
 -   At some point, we’ll [hit bottlenecks on AI development](https://epochai.substack.com/i/162161015/a-software-singularity-is-unlikely) — e.g. the availability of compute, energy, or high quality data — that limit how much better AI workers can get over a short period of time.
--   In every field, making progress could get increasingly difficult as AI workers quickly exhaust the low-hanging fruit of discoveries and new ideas.[18](#fn-18 "<p>An influential paper, \"<a href=\"https://web.stanford.edu/~chadj/IdeaPF.pdf\">Are ideas getting harder to find?</a>,\" has made the broader argument here in detail.</p>
+-   In every field, making progress could get increasingly difficult as AI workers quickly exhaust the low-hanging fruit of discoveries and new ideas.{--{"author":"Luc's AI","timestamp":1782875067880}@@[18](#fn-18 "<p>An influential paper, \"<a href=\"https://web.stanford.edu/~chadj/IdeaPF.pdf\">Are ideas getting harder to find?</a>,\" has made the broader argument here in detail.</p>
     <p>[quote] Long-run growth in many models is the product of two terms: the effective number of researchers and their research productivity. We present evidence from various industries, products, and firms showing that research effort is rising substantially while research productivity is declining sharply. A good example is Moore's Law. The number of researchers required today to achieve the famous doubling of computer chip density is more than 18 times larger than the number required in the early 1970s. More generally, everywhere we look we find that ideas, and the exponential growth they imply, are getting harder to find.<br />
     [/quote]</p>
-    ")
+    ")--}{++{"author":"Luc's AI","timestamp":1782875067880}@@[^18]++}
     
 -   If some types of work are particularly resistant to being automated — like complex physical tasks, or certain legal or political processes — this could also slow down the flywheel.
     
