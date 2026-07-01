@@ -92,7 +92,7 @@ id:: b2848dd4-5567-4dee-993a-fdb5f4fe2514
 
 #### Text
 content::
-Lens Academy works on something calThe field of AI Safety works 
+Lens Academy works on "AI Safety". That's the field The field of AI Safety works 
 Before deciding whether you want to sign up for one of our courses, consider these ten reason why you shouldn't care about AI Safety (AI Safety is the field that works on preventing the risks from advanced AI):
 
 #### Video
