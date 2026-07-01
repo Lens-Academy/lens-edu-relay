@@ -22,7 +22,7 @@ source:: [[../video_transcripts/controlai-why-experts-fear-superintelligent-ai-a
 to:: 2:09
 
 # Lens:
-source:: [[../Lenses/80-000-hours-could-ai-wipe-out-humanity-most-pressing-problems]]
+source:: [[../Lenses/80-000 ai risk intro video and text]]
 
 %%
 # Lens: Job Loss

@@ -9,3 +9,7 @@ Here's an introductory video explaining the risks of AI. If you don't like watch
 
 #### Video
 source:: [[../video_transcripts/80-000-hours-could-ai-wipe-out-humanity-most-pressing-problems]]
+
+And here's a much more in-depth article that you can optionally read:
+#### Article
+source:: [[../articles/80k-how-ai-could-create-the-world's-biggest-problems]]
