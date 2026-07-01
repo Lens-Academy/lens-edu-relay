@@ -73,17 +73,9 @@ to:: 3:46
 content::
 This video was created in 2018. It's still highly relevant today. One thing has dramatically changed, though: while the video said superintelligence is still decades away, recent AI progress has had experts change their estimates. Many now think superintelligence is just years away. Yikes.
 
-#### Text
-content::
 You might be starting to think Lens Academy will only show ever you shallow videos. 
 
-That's not the case.
-
-We've handpicked some easy material to get started, but we'll allow you to go as deep as you want.
-
-We've got lectures, long-reads, and exercises for you, too.
-
-And if you want help understanding a complicated research paper, we've got you covered. Unless you want to become a researcher, that's optional, though.
+That's not the case. We've handpicked some easy material to get started, but we'll allow you to go as deep as you want. We've got lectures, long-reads, and exercises for you, too. And if you want help understanding a complicated research paper, we've got you covered. Unless you want to become a researcher, that's optional, though.
 
 We will help you figure out your path and teach you what you need to know.
 # Lens:
