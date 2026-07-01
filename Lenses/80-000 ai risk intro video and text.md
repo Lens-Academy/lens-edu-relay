@@ -14,8 +14,4 @@ source:: [[../video_transcripts/80-000-hours-could-ai-wipe-out-humanity-most-pre
 content::
 By the way, we're a nonprofit. We don't have anything to sell you. We're here to help.
 
-Here's a much more in-depth article that you can optionally read:
-
-#### Article
-source:: [[../articles/80k-how-ai-could-create-the-world's-biggest-problems]]
-to:: "on the major challenges that might otherwise be ignored."
+Oh, and the long article accompanying the video is available on the
