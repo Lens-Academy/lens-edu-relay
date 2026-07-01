@@ -87,19 +87,6 @@ to:: 3:46
 content::
 This video was created in 2018. It's still highly relevant today. One thing has dramatically changed, though: while the video said superintelligence is still decades away, recent AI progress has had experts change their estimates. Many now think superintelligence is just years away. Yikes.
 
-%%
-# Lens: Golem King
-id:: 5b136dc8-6257-4799-9bf4-2cfb76c6c1a9
-#### Text
-content::
-Can we trust AI? Can we ever even know whether we can trust AI?
-
-Watch this video:
-#### Video
-source:: [[../video_transcripts/rational-animations-can-the-king-truly-trust-the-golem-SHORT]]
-to:: 2:16
-
-%%
 
 #### Text
 content::
