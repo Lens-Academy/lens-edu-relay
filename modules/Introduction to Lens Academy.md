@@ -25,15 +25,7 @@ to:: 2:09
 content::
 Our courses are free, by the way. We're funded by people worried about the trajectory of AI, who think you should have a say about your own future.
 # Lens:
-
-#### Lens-source
 source:: [[../Lenses/80-000 ai risk intro video]]
-
-#### Text
-content::
-By the way, we're a nonprofit. We don't have anything to sell you. We're here to help.
-
-Oh, and the long article accompanying the video is available on the next page as an optional section.
 
 
 # Lens:
