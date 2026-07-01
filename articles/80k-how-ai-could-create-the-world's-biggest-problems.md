@@ -262,10 +262,10 @@ And this number could grow fast. With efficiency improvements to the algorithms 
 <p>[quote] the level of compute needed to achieve a given level of performance has halved roughly every 8 months, with a 95% confidence interval of 5 to 14 months.<br />
 [/quote]</p>
 <p>And if we see an 'intelligence explosion' (as we describe later), these efficiency improvements might happen even faster than before — which could enable the AI workforce to expand shockingly quickly.</p>
-") We might also be able to allocate more compute to running copies, by buying more chips or designing more efficient ones. Soon, we could have an AI workforce the size of a significant fraction of the world’s working-age population.[15](#fn-15 "<p>If we're automating physical labour as well as cognitive labour, scaling the workforce up will also require making progress in robotics. But once we have the algorithms and hardware we need to automate many physical tasks, some researchers have argued that it won't take long to produce a large fleet of robots to do them — see, for example, <a href=\"https://benjamintodd.substack.com/p/how-quickly-could-robots-scale-up\">this article by Ben Todd</a>, which argues that we could scale to a billion robots within five years.</p>
+") We might also be able to allocate more compute to running copies, by buying more chips or designing more efficient ones. Soon, we could have an AI workforce the size of a significant fraction of the world’s working-age population.{--{"author":"Luc's AI","timestamp":1782875033605}@@[15](#fn-15 "<p>If we're automating physical labour as well as cognitive labour, scaling the workforce up will also require making progress in robotics. But once we have the algorithms and hardware we need to automate many physical tasks, some researchers have argued that it won't take long to produce a large fleet of robots to do them — see, for example, <a href=\"https://benjamintodd.substack.com/p/how-quickly-could-robots-scale-up\">this article by Ben Todd</a>, which argues that we could scale to a billion robots within five years.</p>
 <p>This seems especially likely if we get what Forethought calls an \"<a href=\"https://www.forethought.org/research/the-industrial-explosion\">industrial explosion</a>.\"</p>
 <p>The idea of rapidly scaling up robot workers is also a key part of the \"race\" scenario laid out in <a href=\"https://ai-2027.com/race\">AI 2027</a>.</p>
-")
+")--}{++{"author":"Luc's AI","timestamp":1782875033605}@@[^15]++}
 
 AI workers could also have other advantages over human workers:
 
