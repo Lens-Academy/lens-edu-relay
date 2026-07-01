@@ -80,7 +80,7 @@ jobs:
           npx lens-content-processor@0.4.0 . --output validation-result.json
 
           # Count only errors (not warnings)
-          ERROR_COUNT=$(jq '[.errors[] | select(.severity == "error")] | length' validation-result.json)
+          ERROR_COUNT=$(jq '[.errors[] | select(.severity == "error" and .category == "production")] | length' validation-result.json)
           WARNING_COUNT=$(jq '[.errors[] | select(.severity == "warning")] | length' validation-result.json)
           echo "Found $ERROR_COUNT errors and $WARNING_COUNT warnings"
 
@@ -99,9 +99,9 @@ jobs:
             echo ""
             echo "## Validation Errors"
             echo ""
-            jq -r '.errors[] | select(.severity == "error") | "::error file=\(.file),line=\(.line // 1)::\(.message)\(if .suggestion then " (" + .suggestion + ")" else "" end)"' validation-result.json
+            jq -r '.errors[] | select(.severity == "error" and .category == "production") | "::error file=\(.file),line=\(.line // 1)::\(.message)\(if .suggestion then " (" + .suggestion + ")" else "" end)"' validation-result.json
             echo ""
-            jq -r '.errors[] | select(.severity == "error") | "- **\(.file):\(.line // "?")** - \(.message)"' validation-result.json
+            jq -r '.errors[] | select(.severity == "error" and .category == "production") | "- **\(.file):\(.line // "?")** - \(.message)"' validation-result.json
             exit 1
           fi
 

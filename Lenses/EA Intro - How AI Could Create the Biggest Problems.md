@@ -5,4 +5,4 @@ tags:
 ---
 
 #### Article
-source:: [[../articles/80k-how-ai-could-create-biggest-problems]]
+source:: [[../articles/80k-how-ai-could-create-the-world's-biggest-problems]]

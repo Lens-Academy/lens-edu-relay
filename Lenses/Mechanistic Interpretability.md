@@ -13,7 +13,7 @@ content::
 
 The field gained momentum through the work of Chris Olah and his teams at OpenAI and Anthropic. Early research focused on image models. Neel Nanda contributed to the field’s accessibility by developing TransformerLens, an open-source library for probing the internal states of transformer models{>>CGL > Link out here to a brief explanation of GPTs?<<}. His research on induction heads identified specific mechanisms for pattern completion in transformers. By providing introductory resources and educational roadmaps, he helped expand the research community beyond specialized labs.
 
-*Before you start reading the arguments for and against this agenda, try to focus your thinking by answering the question below. Discuss it with your AI tutor for as long as feels comfortable, then move on to the readings*.
+*Before you start reading the arguments for and against this agenda, try to focus your thinking by answering the question below. Discuss it with your AI tutor for as long as feels comfortable, then move on to the readings.*
 
 #### Text
 content::

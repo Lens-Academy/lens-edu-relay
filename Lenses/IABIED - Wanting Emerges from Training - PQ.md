@@ -16,6 +16,4 @@ content:: Before reading Chapter 3: Does your GPS "want" to get you to your dest
 instructions::
 The student is about to read Chapter 3 ("Learning to Want") of "If Anyone Builds It, Everyone Dies."
 
-They just answered: "Is there a difference between having a goal and wanting something?"
-
 Acknowledge their answer in 1–2 sentences. Do NOT explain the behavioral definition of wanting or how it emerges from training, they will encounter it in the reading. Close with: "Hold onto that intuition as you read. Head to Chapter 3 when you're ready and come back here after you've finished."
