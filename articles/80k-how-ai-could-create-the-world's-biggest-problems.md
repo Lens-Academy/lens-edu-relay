@@ -11,7 +11,33 @@ tags:
   - "article-importer"
 ---
 
-## How advanced AI could pose the world’s most pressing problems
+Imagine you’re living 15,000 years ago. Your people are hunter-gatherers and you sleep under the stars. If someone told you humans would one day build cities with millions of people, fly through the air, or carry all human knowledge in their pockets, you couldn’t even begin to picture what they meant.
+
+Yet here we are.
+
+How did our lives change so far beyond recognition? The story is complex, but there’s a rough pattern. A few times in history, some radical breakthrough in technology — like the development of the plough and the steam engine — has led to a wave of productivity, innovation, and social change that ultimately reshaped the world.
+
+Now we’re on the cusp of a huge new breakthrough: artificial intelligence that can meet or exceed human capabilities across a wide range of tasks.
+
+This could bring another era of transformation. There could be an explosion of intelligence and innovation, and a whole new population of digital beings. And with this, civilisation could see changes at least as profound as those brought about by industrialisation or the rise of agriculture.
+
+But unlike the Industrial and Agricultural Revolutions, a transformation driven by advanced AI might not take hundreds or thousands of years to unfold. This time around, the world could become unrecognisable over the span of decades — or less.
+
+This period of transformation could bring astonishing prosperity, with AI enabling life-saving medical breakthroughs and innovations for tackling the climate crisis. But it could also throw us unprepared into an alien world of challenges. Just imagine those hunter-gatherers suddenly finding themselves in crowded settlements where diseases spread like wildfire, while also facing warfare between organised armies for the first time. Or imagine pre-industrial humans forced to contend with enormous factories pumping out pollutants — and mysterious new weapons called ‘nuclear missiles’ that can wipe out entire cities.
+
+This article will explain why we think advanced AI could be this transformative, and why working to address the risks — and broadly make the future of AI go well — may be your best opportunity to have a positive impact in the world.
+
+Summary
+We expect there will be substantial progress in AI in the coming decade, potentially even to the point where machines outperform humans in many (if not all) economically valuable tasks. Replacing human workers with AIs in critical fields could drastically increase innovation and economic productivity, leading to a rapid and dramatic transformation of society.
+
+This transformation could bring enormous benefits, helping us solve currently intractable global problems. But it could also pose severe risks, some of which could be existential — meaning they could cause human extinction, or an equally permanent and severe disempowerment of humanity. For example, humanity could lose control over its future to highly intelligent AIs, or a dangerous group could use AI systems to achieve (and maintain) unprecedented power over other humans.
+
+There aren’t nearly enough people trying to address these challenges, and existing incentives don’t necessarily favour work on the most serious risks. We estimate that there are only a few thousand people focused on tackling the most important challenges from AI — far fewer than we see working on other world problems, such as climate change, and far fewer than we think is warranted, given the scale of the changes we may be about to see.
+
+Because of all this, we think the challenges that advanced AI poses are the most pressing problems facing humanity today.
+
+You can find full explanations of the specific risks raised by advanced AI — and what you can do about them — in our series on the world’s most pressing problems.
+
 
 For over a decade, we’ve looked into the biggest problems in the world and approaches to solving them. We think the cluster of challenges raised by advanced AI are the most pressing problems facing humanity today — given their scale, urgency, and the promising but neglected opportunities to address them.
 
