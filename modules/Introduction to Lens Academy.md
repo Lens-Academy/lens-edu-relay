@@ -85,7 +85,7 @@ And if you want help understanding a complicated research paper, we've got you c
 
 But don't worry, we'll find the right depth . 
 
-We will help you figure out your path and 
+We will help you figure out your path and teach you what you need to know.
 
 choose the right course for you. Unless you want to become a reseacher, there's no need to read papers.
 
