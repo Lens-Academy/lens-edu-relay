@@ -83,7 +83,7 @@ We've got lectures, long-reads, and exercises for you, too.
 
 And if you want help understanding a complicated research paper, we've got you covered.
 
-But don't worry, we won't overcomplicate things. We will help you figure out your path and choose the right course for you. Unless you want to become a reseacher, there's no need to read papers.
+But don't worry, we'll find you the right depth . We will help you figure out your path and choose the right course for you. Unless you want to become a reseacher, there's no need to read papers.
 
 # Lens:
 optional:: true
