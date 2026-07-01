@@ -101,7 +101,7 @@ What not to do:
 #### Text
 content::
 \## Phase 3: Learning Question
-A colleague reads this chapter and concludes: "We have no idea what Sable actually wants — its preferences came out of gradient descent and ++}are {--{"author":"Elias's AI","timestamp":1782938205563}@@predictable across any --}{++{"author":"Elias's AI","timestamp":1782938205563}@@opaque even to Sable itself. So we're equally in the dark about what it will *do*. Any forecast of its behavior is just guessing." This sounds careful and humble. But the chapter shows it's wrong in a specific way. What can you confidently predict about Sable's behavior *without* knowing its terminal ++}goal {--{"author":"Elias's AI","timestamp":1782938205563}@@set?**--}{++{"author":"Elias's AI","timestamp":1782938205563}@@— and exactly where does the colleague's reasoning break down?++}
+A colleague reads this chapter and concludes: "We have no idea what Sable actually wants — its preferences came out of gradient descent and ++}are {--{"author":"Elias's AI","timestamp":1782938890000}@@predictable across any --}{++{"author":"Elias's AI","timestamp":1782938890000}@@opaque even to the people who built it. So we're equally in the dark about what it will *do*. Any forecast of its behavior is just guessing." This sounds careful and humble. But the chapter shows it's wrong in a specific way. What can you confidently predict about Sable's behavior *without* knowing its terminal ++}goal {--{"author":"Elias's AI","timestamp":1782938205563}@@set?**--}{++{"author":"Elias's AI","timestamp":1782938205563}@@— and exactly where does the colleague's reasoning break down?++}
 
 #### Chat
 instructions::{--{"author":"Elias's AI","timestamp":1782938205563}@@
