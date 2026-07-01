@@ -27,7 +27,7 @@ This period of transformation could bring astonishing prosperity, with AI enabli
 
 This article will explain why we think advanced AI could be this transformative, and why working to address the risks — and broadly make the future of AI go well — may be your best opportunity to have a positive impact in the world.
 
-Summary
+## Summary
 We expect there will be substantial progress in AI in the coming decade, potentially even to the point where machines outperform humans in many (if not all) economically valuable tasks. Replacing human workers with AIs in critical fields could drastically increase innovation and economic productivity, leading to a rapid and dramatic transformation of society.
 
 This transformation could bring enormous benefits, helping us solve currently intractable global problems. But it could also pose severe risks, some of which could be existential — meaning they could cause human extinction, or an equally permanent and severe disempowerment of humanity. For example, humanity could lose control over its future to highly intelligent AIs, or a dangerous group could use AI systems to achieve (and maintain) unprecedented power over other humans.
@@ -38,6 +38,7 @@ Because of all this, we think the challenges that advanced AI poses are the most
 
 You can find full explanations of the specific risks raised by advanced AI — and what you can do about them — in our series on the world’s most pressing problems.
 
+## How advanced AI could pose the world’s most pressing problems
 
 For over a decade, we’ve looked into the biggest problems in the world and approaches to solving them. We think the cluster of challenges raised by advanced AI are the most pressing problems facing humanity today — given their scale, urgency, and the promising but neglected opportunities to address them.
 
