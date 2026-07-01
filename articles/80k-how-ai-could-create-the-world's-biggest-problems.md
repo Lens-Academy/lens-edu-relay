@@ -103,8 +103,8 @@ For example, consider the rapid progress language models have made on the [GPQA]
 
 They’ve also [shown impressive improvement](https://epoch.ai/benchmarks/swe-bench-verified) on **software engineering tasks**. For example, Anthropic’s agentic coding tool Claude Code [enables users to build applications by describing what they want](https://www.axios.com/2026/01/07/anthropics-claude-code-vibe-coding) — even if they have no coding experience.
 
-A senior engineer at Google reported that Claude Code [took one hour to generate a prototype of a system her team had spent a year exploring approaches to building](https://the-decoder.com/google-engineer-says-claude-code-built-in-one-hour-what-her-team-spent-a-year-on/). And Anthropic built its ‘Cowork’ product (a more user-friendly version of Claude Code for non-developers) in under two weeks by [getting Claude Code to write most of the code](https://www.youtube.com/watch?v=FMfoR1h8axc).[4](#fn-4 "<p>For more on what Claude Code can do, and what that might mean for the future of both AI and the software engineering world, check out <a href=\"https://newsletter.semianalysis.com/p/claude-code-is-the-inflection-point\">this piece from SemiAnalysis</a> arguing that Claude Code is an \"inflection point\" for AI agents.</p>
-")
+A senior engineer at Google reported that Claude Code [took one hour to generate a prototype of a system her team had spent a year exploring approaches to building](https://the-decoder.com/google-engineer-says-claude-code-built-in-one-hour-what-her-team-spent-a-year-on/). And Anthropic built its ‘Cowork’ product (a more user-friendly version of Claude Code for non-developers) in under two weeks by [getting Claude Code to write most of the code](https://www.youtube.com/watch?v=FMfoR1h8axc).{--{"author":"Luc's AI","timestamp":1782874951203}@@[4](#fn-4 "<p>For more on what Claude Code can do, and what that might mean for the future of both AI and the software engineering world, check out <a href=\"https://newsletter.semianalysis.com/p/claude-code-is-the-inflection-point\">this piece from SemiAnalysis</a> arguing that Claude Code is an \"inflection point\" for AI agents.</p>
+")--}{++{"author":"Luc's AI","timestamp":1782874951203}@@[^4]++}
 
 Current AI systems can also:
 
@@ -190,8 +190,8 @@ This could be enough reason to prioritise working on AI risks now, even if you d
 
 So what would it mean if AI systems could outperform humans on such a wide range of tasks?
 
-The first thing people often think of here is widespread unemployment. This is a serious possibility, and would have severe consequences for society.[9](#fn-9 "<p>Fortunately, <a href=\"https://www.noemamag.com/heres-how-to-share-ais-future-wealth/\">there are already promising ideas for solving this problem</a> — such as the introduction of universal basic income and democratising ownership of AI capital.</p>
-") But we think focusing on it is actually missing an even bigger story.
+The first thing people often think of here is widespread unemployment. This is a serious possibility, and would have severe consequences for society.{--{"author":"Luc's AI","timestamp":1782874959042}@@[9](#fn-9 "<p>Fortunately, <a href=\"https://www.noemamag.com/heres-how-to-share-ais-future-wealth/\">there are already promising ideas for solving this problem</a> — such as the introduction of universal basic income and democratising ownership of AI capital.</p>
+")--}{++{"author":"Luc's AI","timestamp":1782874959042}@@[^9]++} But we think focusing on it is actually missing an even bigger story.
 
 A world with machines that can replace this much human labour would look so dramatically different that it can be hard to imagine.
 
