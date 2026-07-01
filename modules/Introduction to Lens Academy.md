@@ -25,9 +25,6 @@ to:: 2:09
 content::
 Our courses are free, by the way. We're funded by people worried about the trajectory of AI, who think you should have a say about your own future.
 # Lens:
-#### Text
-content::
-That previous video was very short. This next video is a broader and slightly deeper introduction. If you don't like watching videos, you can click the scroll icon (📜) on the right to read the transcript instead.
 
 #### Lens-source
 source:: [[../Lenses/80-000 ai risk intro video]]
