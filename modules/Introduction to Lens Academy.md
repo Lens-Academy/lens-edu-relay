@@ -78,6 +78,10 @@ We've got lectures, long-reads, and exercises for you, too.
 And if you want help understanding a complicated research paper, we've got you covered.
 
 But don't worry, we won't overcomplicate things. We will help you figure out your path and choose the right course for you. Unless you want to become a reseacher, there's no need to read papers.
+
+# Lens:
+optional:: true
+source:: [[../Lenses/Four Background Claims]]
 # Lens: 10 reasons
 id:: b2848dd4-5567-4dee-993a-fdb5f4fe2514
 
@@ -93,8 +97,3 @@ to:: 15:37
 #### Text
 content::
 Our courses are free, by the way. We're funded by people worried about the trajectory of AI, who think you should have a say about your own future.
-
-
-# Lens:
-optional:: true
-source:: [[../Lenses/Worst-Case Thinking]]
