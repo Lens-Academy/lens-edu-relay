@@ -21,18 +21,17 @@ Return here after reading.
 
 ---
 
-\## {--{"author":"Elias's AI","timestamp":1782936551049}@@After Reading--}{++{"author":"Elias's AI","timestamp":1782936551049}@@Phase 1: Recall++}
-{--{"author":"Elias's AI","timestamp":1782936551049}@@Chapter 5 argues that a superintelligent AI does not need to be hostile toward humans in order to cause human extinction. In your own words, explain why indifference is sufficient. What would--}{++{"author":"Elias's AI","timestamp":1782936551049}@@Spend 2 minutes writing down everything you can remember from the reading — without looking back at the text. Anything and everything. No need to organize it. Using++} the {--{"author":"Elias's AI","timestamp":1782936551049}@@AI have --}{++{"author":"Elias's AI","timestamp":1782936551049}@@speech ++}to {--{"author":"Elias's AI","timestamp":1782936551049}@@actively do — or choose — for humanity to survive?--}{++{"author":"Elias's AI","timestamp":1782936551049}@@text feature is highly recommended here.++}
+\## Phase 1: Recall
+Spend 2 minutes writing down everything you can remember from the reading — without looking back at the text. Anything and everything. No need to organize it. Using the speech to text feature is highly recommended here.
 
 #### Chat
-instructions::{--{"author":"Elias's AI","timestamp":1782936551049}@@
---}{++{"author":"Elias's AI","timestamp":1782936551049}@@ ++}The student has just {--{"author":"Elias's AI","timestamp":1782936551049}@@finished reading--}{++{"author":"Elias's AI","timestamp":1782936551049}@@read++} section 2 of Chapter 5 {--{"author":"Elias's AI","timestamp":1782936551049}@@("Its Favorite Things") --}of "If Anyone Builds It, Everyone Dies."
+instructions:: The student has just read section 2 of Chapter 5 of "If Anyone Builds It, Everyone Dies."
 
-Learning outcome for this Lens: Distinguish hostile from indifferent {--{"author":"Elias's AI","timestamp":1782936551049}@@AI: --}{++{"author":"Elias's AI","timestamp":1782936551049}@@AI — ++}explain why the core danger from superintelligent AI is not that it would be hostile toward humans, but that it would be indifferent to human values while pursuing its own{--{"author":"Elias's AI","timestamp":1782936551049}@@ goals —--}{++{"author":"Elias's AI","timestamp":1782936551049}@@ goals,++} and why indifference is sufficient for extinction.
+Learning outcome for this Lens: Distinguish hostile from indifferent AI — explain why the core danger from superintelligent AI is not that it would be hostile toward humans, but that it would be indifferent to human values while pursuing its own goals, and why indifference is sufficient for extinction.
 
 Key concepts:
-- The core distinction: {++{"author":"Elias's AI","timestamp":1782936551049}@@a ++}hostile AI actively wants to harm humans; {++{"author":"Elias's AI","timestamp":1782936551049}@@an ++}indifferent AI simply doesn't include human survival {--{"author":"Elias's AI","timestamp":1782936551049}@@in its objectives--}{++{"author":"Elias's AI","timestamp":1782936551049}@@among the things it is optimizing for++}
-- Why indifference is sufficient: human survival {--{"author":"Elias's AI","timestamp":1782936551049}@@requires --}{++{"author":"Elias's AI","timestamp":1782936551049}@@is not ++}the {--{"author":"Elias's AI","timestamp":1782936551049}@@AI to actively prioritize it --}{++{"author":"Elias's AI","timestamp":1782936551049}@@default outcome of a randomly chosen goal ++}— {--{"author":"Elias's AI","timestamp":1782936551049}@@we're not--}it requires the AI to actively spend resources keeping us alive
+- The core distinction: a hostile AI actively wants to harm humans; an indifferent AI simply doesn't include human survival among the things it is optimizing for
+- Why indifference is sufficient: human survival is not the default outcome of a randomly chosen goal — it requires the AI to actively spend resources keeping us alive
 - The anthill / bulldozer framing: we're not targeted, just irrelevant — and irrelevance is enough
 - All five rebuttals (usefulness, trade, needing us, pets, leaving us alone) fail on the same premise: each hope requires the AI to actively choose human survival, which it has no reason to do
 - Human survival is a specific, narrow target — not the natural side effect of pursuing any other goal
