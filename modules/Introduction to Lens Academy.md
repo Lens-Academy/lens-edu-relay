@@ -43,7 +43,7 @@ to:: 9:41
 content::
 By the way, we're a nonprofit. We don't have anything to sell you. We're here to help.
 
-Oh, and the long article accompanying the video is available on the next page as an optional section.
+Oh, and the long article accompanying the video is available as an optional next section.
 # Lens:
 source:: [[../Lenses/80k-how-ai-could-create-the-worlds-biggest-problems]]
 optional:: true
