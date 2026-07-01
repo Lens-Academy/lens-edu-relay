@@ -16,6 +16,9 @@ Hi, and welcome to Lens Academy.
 
 We offer several courses ranging from introductory to advanced. We've put together this introductory module to get you a sense of how our courses work. Afterward, we'll help you figure out if any of our courses are the right fit for you.
 
+#### Video
+source:: [[../video_transcripts/controlai-why-experts-fear-superintelligent-ai-and-what-we-can-do-about-it]]
+to:: 2:09
 # Lens:
 source:: [[../Lenses/controlai-why-experts-fear-superintelligent-ai-and-what-we-can-do-about-it]]
 # Lens:
