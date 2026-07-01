@@ -25,8 +25,23 @@ to:: 2:09
 content::
 Our courses are free, by the way. We're funded by people worried about the trajectory of AI, who think you should have a say about your own future.
 # Lens:
-source:: [[../Lenses/80-000 ai risk intro video]]
+---
+id: b8a69877-3f0a-4199-8760-f79b1987f47c
+title: "Could AI wipe out humanity? | Most pressing problems"
+---
 
+#### Text
+content::
+That previous video was very short. This next video is a broader and slightly deeper introduction. If you don't like watching videos, you can click the scroll icon (📜) on the right to read the transcript instead.
+
+#### Video
+source:: [[../video_transcripts/80-000-hours-could-ai-wipe-out-humanity-most-pressing-problems]]
+
+#### Text
+content::
+By the way, we're a nonprofit. We don't have anything to sell you. We're here to help.
+
+Oh, and the long article accompanying the video is available on the next page as an optional section.
 # Lens:
 source:: [[../Lenses/80k-how-ai-could-create-the-worlds-biggest-problems]]
 optional:: true
