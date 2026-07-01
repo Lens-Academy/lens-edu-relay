@@ -84,8 +84,6 @@ We've got lectures, long-reads, and exercises for you, too.
 And if you want help understanding a complicated research paper, we've got you covered. Unless you want to become a researcher, that's optional, though.
 
 We will help you figure out your path and teach you what you need to know.
-
-
 # Lens:
 optional:: true
 source:: [[../Lenses/Four Background Claims]]
@@ -94,6 +92,7 @@ id:: b2848dd4-5567-4dee-993a-fdb5f4fe2514
 
 #### Text
 content::
+The field of AI Safety works 
 Before deciding whether you want to sign up for one of our courses, consider these ten reason why you shouldn't care about AI Safety (AI Safety is the field that works on preventing the risks from advanced AI):
 
 #### Video
