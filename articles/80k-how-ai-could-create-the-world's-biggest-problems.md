@@ -48,8 +48,8 @@ In short, we think it’s plausible advanced AI could radically transform the wo
 
 We go through the specific challenges we think are most pressing in our [problem profiles](https://80000hours.org/problem-profiles/). This article explains why advanced AI gives rise to such important issues _in general_.
 
-There are a lot of arguments you could make here — like the argument that advanced AI will constitute a [“second species”](https://web.archive.org/web/20260115164944/https://wiki.aiimpacts.org/arguments_for_ai_risk/list_of_arguments_that_ai_poses_an_xrisk/second_species_argument_for_ai_xrisk) or that AI will make the 21st century [“the most important century”](https://web.archive.org/web/20260114050815/https://www.cold-takes.com/most-important-century/) for humanity.[1](#fn-1 "<p>The AI Impacts website has <a href=\"https://wiki.aiimpacts.org//arguments_for_ai_risk/list_of_arguments_that_ai_poses_an_xrisk/start\">a summary of prominent arguments that AI poses existential risks</a>, as well as individual articles on each of these arguments.</p>
-")
+There are a lot of arguments you could make here — like the argument that advanced AI will constitute a [“second species”](https://web.archive.org/web/20260115164944/https://wiki.aiimpacts.org/arguments_for_ai_risk/list_of_arguments_that_ai_poses_an_xrisk/second_species_argument_for_ai_xrisk) or that AI will make the 21st century [“the most important century”](https://web.archive.org/web/20260114050815/https://www.cold-takes.com/most-important-century/) for humanity.{--{"author":"Luc's AI","timestamp":1782874928186}@@[1](#fn-1 "<p>The AI Impacts website has <a href=\"https://wiki.aiimpacts.org//arguments_for_ai_risk/list_of_arguments_that_ai_poses_an_xrisk/start\">a summary of prominent arguments that AI poses existential risks</a>, as well as individual articles on each of these arguments.</p>
+")--}{++{"author":"Luc's AI","timestamp":1782874928186}@@[^1]++}
 
 But here’s the argument that makes the risks feel especially compelling to us:
 
