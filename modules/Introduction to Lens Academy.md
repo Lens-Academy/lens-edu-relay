@@ -24,12 +24,8 @@ to:: 2:09
 #### Text
 content::
 Our courses are free, by the way. We're funded by people worried about the trajectory of AI, who think you should have a say about your own future.
-# Lens:
----
-id: b8a69877-3f0a-4199-8760-f79b1987f47c
-title: "Could AI wipe out humanity? | Most pressing problems"
----
-
+# Lens: Could AI wipe out humanity?
+id:: b8a69877-3f0a-4199-8760-f79b1987f47c
 #### Text
 content::
 That previous video was very short. This next video is a broader and slightly deeper introduction. If you don't like watching videos, you can click the scroll icon (📜) on the right to read the transcript instead.
